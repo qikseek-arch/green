@@ -3791,3 +3791,4 @@
 2025-10-01T13:02:35.099Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: bump the CI matrix
 2025-10-01T13:32:10.356Z Nikola Tesla <nikola.tesla@fake.invalid> :: remove retry logic
 2025-10-01T14:02:05.016Z Airen <airen@users.noreply.github.com> :: wire up config defaults
+2025-10-01T14:43:37.170Z LazyBadger <lazybadger@fake.invalid> :: polish error handling
