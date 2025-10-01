@@ -3975,3 +3975,4 @@
 2025-10-01T18:58:15.233Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up flaky test
 2025-10-01T19:13:17.595Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish dead code
 2025-10-01T19:42:43.671Z AI4Bhārat <opensource@ai4bharat.org> :: polish dead code
+2025-10-01T21:34:10.161Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
