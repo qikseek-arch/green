@@ -3802,3 +3802,4 @@
 2025-10-01T22:04:07.859Z glitchy-shrimp42 <glitchy-shrimp42@fake.invalid> :: wire up dependency versions
 2025-10-01T22:50:26.969Z vulture_pixel42 <vulture_pixel42@fake.invalid> :: add dependency versions
 2025-10-01T22:58:54.422Z Leslie Lamport <leslie.lamport@fake.invalid> :: tweak the CI matrix
+2025-10-01T22:59:59.130Z Emmy Noether <emmy.noether@fake.invalid> :: tweak dead code
