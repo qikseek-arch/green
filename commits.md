@@ -1765,3 +1765,4 @@
 2025-10-01T15:20:18.623Z jist <george0st@users.noreply.github.com> :: refactor dependency versions
 2025-10-01T16:46:42.176Z Vitor Freitas <vitorfs@users.noreply.github.com> :: update cache keys
 2025-10-01T17:23:30.394Z Diu <ddiu8081@users.noreply.github.com> :: polish the parser
+2025-10-01T17:54:14.386Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: tweak null check
