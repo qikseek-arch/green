@@ -13677,3 +13677,4 @@
 2025-10-01T16:45:06.317Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak logging
 2025-10-01T17:55:58.837Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up readme typo
 2025-10-01T18:05:55.046Z Xingang Pan <XingangPan@users.noreply.github.com> :: update config defaults
+2025-10-01T18:40:07.703Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up the CI matrix
