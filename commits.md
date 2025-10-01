@@ -1071,3 +1071,4 @@
 2025-10-01T13:52:20.531Z Bitcoin <bitcoin@users.noreply.github.com> :: fix logging
 2025-10-01T15:31:37.926Z seehiong <seehiong@users.noreply.github.com> :: fix dead code
 2025-10-01T16:15:21.975Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: remove the CI matrix
+2025-10-01T16:21:11.930Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
