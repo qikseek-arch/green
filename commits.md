@@ -3467,3 +3467,4 @@
 2025-10-01T14:12:38.460Z beeman <beeman@users.noreply.github.com> :: tweak cache keys
 2025-10-01T15:51:06.960Z Vanced <TeamVanced@users.noreply.github.com> :: wire up dependency versions
 2025-10-01T16:11:46.001Z Lexi Mattick <kognise@users.noreply.github.com> :: wire up readme typo
+2025-10-01T16:12:01.790Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove retry logic
