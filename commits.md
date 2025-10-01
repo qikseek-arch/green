@@ -1776,3 +1776,4 @@
 2025-10-01T20:08:56.034Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update error handling
 2025-10-01T20:37:29.882Z ligi <ligi@users.noreply.github.com> :: wire up error handling
 2025-10-01T20:42:25.531Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: clean up dead code
+2025-10-01T22:37:41.203Z LN <ln-dev7@users.noreply.github.com> :: polish dependency versions
