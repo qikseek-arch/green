@@ -13684,3 +13684,4 @@
 2025-10-01T20:00:37.566Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
 2025-10-01T20:16:08.327Z Henry <hzoo@users.noreply.github.com> :: fix edge case in auth
 2025-10-01T20:16:46.207Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up build script
+2025-10-01T20:35:36.171Z Tom Dale <tomdale@users.noreply.github.com> :: refactor edge case in auth
