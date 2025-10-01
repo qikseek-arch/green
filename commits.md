@@ -3461,3 +3461,4 @@
 2025-10-01T12:06:52.946Z Murtaza Hassan <murtazahassan@users.noreply.github.com> :: wire up logging
 2025-10-01T12:34:44.863Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: bump flaky test
 2025-10-01T13:30:45.330Z Riley Testut <rileytestut@users.noreply.github.com> :: update the CI matrix
+2025-10-01T13:33:24.552Z 今越星礼 <dwqs@users.noreply.github.com> :: fix build script
