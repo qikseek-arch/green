@@ -13678,3 +13678,4 @@
 2025-10-01T17:55:58.837Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up readme typo
 2025-10-01T18:05:55.046Z Xingang Pan <XingangPan@users.noreply.github.com> :: update config defaults
 2025-10-01T18:40:07.703Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up the CI matrix
+2025-10-01T19:18:36.392Z t11s <transmissions11@users.noreply.github.com> :: fix config defaults
