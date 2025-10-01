@@ -1761,3 +1761,4 @@
 2025-10-01T11:47:48.937Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: wire up cache keys
 2025-10-01T12:15:49.178Z TON Connect <ton-connect@users.noreply.github.com> :: bump null check
 2025-10-01T12:44:31.455Z jist <george0st@users.noreply.github.com> :: clean up dead code
+2025-10-01T13:02:37.757Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up error handling
