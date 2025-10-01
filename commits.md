@@ -1772,3 +1772,4 @@
 2025-10-01T18:33:41.889Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: add the CI matrix
 2025-10-01T18:35:37.836Z Yann Collet <Cyan4973@users.noreply.github.com> :: update config defaults
 2025-10-01T19:19:50.680Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: bump readme typo
+2025-10-01T19:56:10.056Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove dead code
