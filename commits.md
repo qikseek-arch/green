@@ -13683,3 +13683,4 @@
 2025-10-01T19:47:28.182Z Prometheus <prometheus@users.noreply.github.com> :: refactor dependency versions
 2025-10-01T20:00:37.566Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
 2025-10-01T20:16:08.327Z Henry <hzoo@users.noreply.github.com> :: fix edge case in auth
+2025-10-01T20:16:46.207Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up build script
