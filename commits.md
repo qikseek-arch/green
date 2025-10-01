@@ -3798,3 +3798,4 @@
 2025-10-01T17:51:51.204Z LazyBadger <lazybadger@fake.invalid> :: bump cache keys
 2025-10-01T19:33:48.906Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: add config defaults
 2025-10-01T20:34:04.377Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: tweak retry logic
+2025-10-01T20:57:41.919Z Douglas Crockford <douglas.crockford@fake.invalid> :: clean up edge case in auth
