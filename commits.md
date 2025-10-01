@@ -13681,3 +13681,4 @@
 2025-10-01T19:18:36.392Z t11s <transmissions11@users.noreply.github.com> :: fix config defaults
 2025-10-01T19:19:57.625Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish flaky test
 2025-10-01T19:47:28.182Z Prometheus <prometheus@users.noreply.github.com> :: refactor dependency versions
+2025-10-01T20:00:37.566Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
