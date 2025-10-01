@@ -3789,3 +3789,4 @@
 2025-10-01T11:37:28.347Z Bill Gates <bill.gates@fake.invalid> :: clean up dependency versions
 2025-10-01T12:16:35.996Z zcgonvh <zcgonvh@users.noreply.github.com> :: update edge case in auth
 2025-10-01T13:02:35.099Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: bump the CI matrix
+2025-10-01T13:32:10.356Z Nikola Tesla <nikola.tesla@fake.invalid> :: remove retry logic
