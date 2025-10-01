@@ -3968,3 +3968,4 @@
 2025-10-01T14:00:24.030Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak the CI matrix
 2025-10-01T14:02:43.268Z SouJunior <wouerner@soujunior.tech> :: remove cache keys
 2025-10-01T14:37:39.733Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove config defaults
+2025-10-01T15:09:49.907Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix the CI matrix
