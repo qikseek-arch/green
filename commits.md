@@ -3797,3 +3797,4 @@
 2025-10-01T17:43:33.272Z salty-socket <salty-socket@fake.invalid> :: update dead code
 2025-10-01T17:51:51.204Z LazyBadger <lazybadger@fake.invalid> :: bump cache keys
 2025-10-01T19:33:48.906Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: add config defaults
+2025-10-01T20:34:04.377Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: tweak retry logic
