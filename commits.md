@@ -1076,3 +1076,4 @@
 2025-10-01T17:53:21.150Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: clean up logging
 2025-10-01T20:44:27.028Z Arduino <arduino@users.noreply.github.com> :: clean up edge case in auth
 2025-10-01T20:51:46.150Z Felix Angelov <felangel@users.noreply.github.com> :: bump config defaults
+2025-10-01T21:01:24.676Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: fix null check
