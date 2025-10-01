@@ -3477,3 +3477,4 @@
 2025-10-01T20:45:04.793Z Thomas Lin Pedersen <thomasp85@users.noreply.github.com> :: wire up retry logic
 2025-10-01T21:21:30.263Z Soheil Salmani <SoheilGtex@users.noreply.github.com> :: wire up readme typo
 2025-10-01T23:22:37.612Z Open Food Facts <contact@openfoodfacts.org> :: refactor readme typo
+2025-10-01T23:54:25.006Z Sebastian Raschka <rasbt@users.noreply.github.com> :: remove cache keys
