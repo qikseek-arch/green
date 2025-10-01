@@ -3465,3 +3465,4 @@
 2025-10-01T14:00:19.958Z Google <opensource@google.com> :: tweak build script
 2025-10-01T14:08:45.327Z Lexi Mattick <kognise@users.noreply.github.com> :: refactor readme typo
 2025-10-01T14:12:38.460Z beeman <beeman@users.noreply.github.com> :: tweak cache keys
+2025-10-01T15:51:06.960Z Vanced <TeamVanced@users.noreply.github.com> :: wire up dependency versions
