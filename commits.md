@@ -3959,3 +3959,4 @@
 2025-10-08T15:38:13.169Z Ryan Dahl <ryan.dahl@fake.invalid> :: fix edge case in auth
 2025-10-08T15:46:15.216Z salty-socket <salty-socket@fake.invalid> :: clean up dead code
 2025-10-08T16:17:35.837Z FeralHamster <feralhamster@fake.invalid> :: polish retry logic
+2025-10-01T11:17:10.451Z Adam Bell <b3ll@users.noreply.github.com> :: add edge case in auth
