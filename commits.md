@@ -1073,3 +1073,4 @@
 2025-10-01T16:15:21.975Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: remove the CI matrix
 2025-10-01T16:21:11.930Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
 2025-10-01T16:30:30.385Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove null check
+2025-10-01T17:53:21.150Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: clean up logging
