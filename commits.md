@@ -1757,3 +1757,4 @@
 2025-10-22T13:02:58.676Z S4IL <S4IL21@users.noreply.github.com> :: remove logging
 2025-10-01T10:46:25.809Z José Valim <josevalim@users.noreply.github.com> :: wire up the parser
 2025-10-22T14:13:22.657Z S4IL <S4IL21@users.noreply.github.com> :: remove the parser
+2025-10-01T11:12:56.264Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump retry logic
