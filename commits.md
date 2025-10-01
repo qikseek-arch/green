@@ -1773,3 +1773,4 @@
 2025-10-01T18:35:37.836Z Yann Collet <Cyan4973@users.noreply.github.com> :: update config defaults
 2025-10-01T19:19:50.680Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: bump readme typo
 2025-10-01T19:56:10.056Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove dead code
+2025-10-01T20:08:56.034Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update error handling
