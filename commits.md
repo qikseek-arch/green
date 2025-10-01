@@ -1770,3 +1770,4 @@
 2025-10-01T18:30:09.255Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: polish cache keys
 2025-10-01T18:30:20.501Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: bump config defaults
 2025-10-01T18:33:41.889Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: add the CI matrix
+2025-10-01T18:35:37.836Z Yann Collet <Cyan4973@users.noreply.github.com> :: update config defaults
