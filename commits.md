@@ -1762,3 +1762,4 @@
 2025-10-01T12:15:49.178Z TON Connect <ton-connect@users.noreply.github.com> :: bump null check
 2025-10-01T12:44:31.455Z jist <george0st@users.noreply.github.com> :: clean up dead code
 2025-10-01T13:02:37.757Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up error handling
+2025-10-01T15:20:18.623Z jist <george0st@users.noreply.github.com> :: refactor dependency versions
