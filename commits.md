@@ -1074,3 +1074,4 @@
 2025-10-01T16:21:11.930Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
 2025-10-01T16:30:30.385Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove null check
 2025-10-01T17:53:21.150Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: clean up logging
+2025-10-01T20:44:27.028Z Arduino <arduino@users.noreply.github.com> :: clean up edge case in auth
