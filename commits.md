@@ -13673,3 +13673,4 @@
 2026-10-01T09:56:13.669Z First Contributions <firstcontributions@gmail.com> :: bump flaky test
 2025-10-01T14:43:08.657Z Xingang Pan <XingangPan@users.noreply.github.com> :: update config defaults
 2025-10-01T16:06:28.804Z Chetan Jogi <voidChetan@users.noreply.github.com> :: wire up error handling
+2025-10-01T16:11:28.910Z Boshen <Boshen@users.noreply.github.com> :: refactor dependency versions
