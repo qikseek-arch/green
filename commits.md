@@ -1759,3 +1759,4 @@
 2025-10-22T14:13:22.657Z S4IL <S4IL21@users.noreply.github.com> :: remove the parser
 2025-10-01T11:12:56.264Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump retry logic
 2025-10-01T11:47:48.937Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: wire up cache keys
+2025-10-01T12:15:49.178Z TON Connect <ton-connect@users.noreply.github.com> :: bump null check
