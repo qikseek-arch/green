@@ -3787,3 +3787,4 @@
 2025-10-12T05:31:04.482Z WilliamZhu <allwefantasy@users.noreply.github.com> :: tweak cache keys
 2025-10-01T11:20:37.194Z mimic <mimic@fake.invalid> :: clean up readme typo
 2025-10-01T11:37:28.347Z Bill Gates <bill.gates@fake.invalid> :: clean up dependency versions
+2025-10-01T12:16:35.996Z zcgonvh <zcgonvh@users.noreply.github.com> :: update edge case in auth
