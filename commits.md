@@ -1067,3 +1067,4 @@
 2026-09-30T15:08:03.728Z Sylvain Gugger <sgugger@users.noreply.github.com> :: bump dead code
 2025-10-01T11:53:41.224Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: polish the CI matrix
 2025-10-01T13:29:02.842Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: polish edge case in auth
+2025-10-01T13:44:05.792Z xiaolai <xiaolai@users.noreply.github.com> :: tweak flaky test
