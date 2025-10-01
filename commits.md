@@ -3793,3 +3793,4 @@
 2025-10-01T14:02:05.016Z Airen <airen@users.noreply.github.com> :: wire up config defaults
 2025-10-01T14:43:37.170Z LazyBadger <lazybadger@fake.invalid> :: polish error handling
 2025-10-01T16:25:21.889Z Paul Miller <paulmillr@users.noreply.github.com> :: remove logging
+2025-10-01T17:42:54.998Z Alex / KATT <KATT@users.noreply.github.com> :: clean up dependency versions
