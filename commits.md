@@ -13691,3 +13691,4 @@
 2025-10-02T01:50:53.638Z Snowflake Labs <opensource@snowflake.com> :: clean up edge case in auth
 2025-10-02T02:11:43.746Z Brian Holt <btholt@users.noreply.github.com> :: clean up edge case in auth
 2025-10-02T02:44:53.662Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up readme typo
+2025-10-02T04:29:01.493Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak logging
