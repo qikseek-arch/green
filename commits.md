@@ -1797,3 +1797,4 @@
 2025-10-02T20:31:58.578Z Tuba Khan <tubakhxn@users.noreply.github.com> :: fix flaky test
 2025-10-02T21:05:52.994Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: remove retry logic
 2025-10-02T21:52:07.955Z ligi <ligi@users.noreply.github.com> :: update cache keys
+2025-10-02T21:53:57.189Z Fabien Potencier <fabpot@users.noreply.github.com> :: fix dead code
