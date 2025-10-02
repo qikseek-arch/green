@@ -3487,3 +3487,4 @@
 2025-10-02T03:59:26.349Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove flaky test
 2025-10-02T05:01:04.820Z Jordan Harband <ljharb@users.noreply.github.com> :: add error handling
 2025-10-02T05:32:33.144Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: wire up dependency versions
+2025-10-02T05:33:10.454Z Sheng-Hao Ma <aaaddress1@users.noreply.github.com> :: clean up error handling
