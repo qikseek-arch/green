@@ -13706,3 +13706,4 @@
 2025-10-02T13:22:41.815Z Henry <hzoo@users.noreply.github.com> :: update flaky test
 2025-10-02T16:43:25.179Z Zed Industries <hi@zed.dev> :: update the CI matrix
 2025-10-02T17:03:55.891Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak readme typo
+2025-10-02T17:34:33.285Z Collabnix <collabnix@users.noreply.github.com> :: refactor edge case in auth
