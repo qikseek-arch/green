@@ -3804,3 +3804,4 @@
 2025-10-01T22:58:54.422Z Leslie Lamport <leslie.lamport@fake.invalid> :: tweak the CI matrix
 2025-10-01T22:59:59.130Z Emmy Noether <emmy.noether@fake.invalid> :: tweak dead code
 2025-10-02T01:24:39.378Z LazyBadger <lazybadger@fake.invalid> :: wire up error handling
+2025-10-02T01:28:34.837Z monolith_quantum <monolith_quantum@fake.invalid> :: wire up cache keys
