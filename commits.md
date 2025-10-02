@@ -3982,3 +3982,4 @@
 2025-10-01T22:38:05.510Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump error handling
 2025-10-01T22:46:53.855Z CTFs <ctfs@users.noreply.github.com> :: update cache keys
 2025-10-02T00:54:15.140Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: add the parser
+2025-10-02T01:23:18.285Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up null check
