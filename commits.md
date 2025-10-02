@@ -3490,3 +3490,4 @@
 2025-10-02T05:33:10.454Z Sheng-Hao Ma <aaaddress1@users.noreply.github.com> :: clean up error handling
 2025-10-02T06:00:07.659Z Michael Truell <truell20@users.noreply.github.com> :: remove the CI matrix
 2025-10-02T06:53:57.253Z Sunil BK <sunil9813@users.noreply.github.com> :: remove error handling
+2025-10-02T07:39:08.351Z Andrea Leopardi <whatyouhide@users.noreply.github.com> :: refactor the parser
