@@ -1108,3 +1108,4 @@
 2025-10-02T16:29:51.670Z Mahsima Dastan <mahseema@users.noreply.github.com> :: tweak edge case in auth
 2025-10-02T17:31:41.324Z Andrew Kelley <andrewrk@users.noreply.github.com> :: wire up the parser
 2025-10-02T17:34:00.977Z Carbo <BYVoid@users.noreply.github.com> :: tweak logging
+2025-10-02T17:50:21.565Z Pablo RM <murapadev@users.noreply.github.com> :: remove null check
