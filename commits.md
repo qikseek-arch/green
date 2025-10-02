@@ -1102,3 +1102,4 @@
 2025-10-02T14:46:56.824Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: fix readme typo
 2025-10-02T14:47:49.343Z S4IL <S4IL21@users.noreply.github.com> :: add logging
 2025-10-02T16:02:39.842Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: clean up build script
+2025-10-02T16:09:37.831Z Astral <hey@astral.sh> :: update edge case in auth
