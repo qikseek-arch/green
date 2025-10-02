@@ -13699,3 +13699,4 @@
 2025-10-02T08:01:08.867Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove the CI matrix
 2025-10-02T08:03:27.431Z in28minutes <in28minutes@users.noreply.github.com> :: wire up the CI matrix
 2025-10-02T08:59:48.793Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add the CI matrix
+2025-10-02T09:43:17.385Z rxi <rxi@users.noreply.github.com> :: update config defaults
