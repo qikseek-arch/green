@@ -1788,3 +1788,4 @@
 2025-10-02T09:46:16.558Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix dead code
 2025-10-02T10:19:56.509Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: fix the CI matrix
 2025-10-02T11:16:42.838Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: update build script
+2025-10-02T11:50:55.663Z TON Connect <ton-connect@users.noreply.github.com> :: tweak config defaults
