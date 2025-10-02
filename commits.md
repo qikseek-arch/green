@@ -4003,3 +4003,4 @@
 2025-10-02T15:25:45.027Z AI4Bhārat <opensource@ai4bharat.org> :: clean up retry logic
 2025-10-02T16:04:44.102Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove edge case in auth
 2025-10-02T17:35:02.578Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump build script
+2025-10-02T21:40:55.676Z LILYGO <LilyGO@users.noreply.github.com> :: remove readme typo
