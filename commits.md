@@ -4010,3 +4010,4 @@
 2025-10-02T22:49:13.514Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
 2025-10-02T22:49:22.475Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up error handling
 2025-10-02T23:11:14.075Z Odi <mathdroid@users.noreply.github.com> :: fix flaky test
+2025-10-02T23:34:18.971Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add build script
