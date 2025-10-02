@@ -13712,3 +13712,4 @@
 2025-10-02T21:15:17.112Z OpenBSD <openbsd@users.noreply.github.com> :: update edge case in auth
 2025-10-02T21:59:02.398Z SurrealDB <surrealdb@users.noreply.github.com> :: fix retry logic
 2025-10-02T22:04:58.900Z Dove Letter <skydoves2@gmail.com> :: clean up dead code
+2025-10-02T22:49:45.387Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak error handling
