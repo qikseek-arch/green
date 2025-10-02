@@ -3481,3 +3481,4 @@
 2025-10-02T00:06:24.708Z 黄健宏 <huangzworks@users.noreply.github.com> :: tweak dependency versions
 2025-10-02T00:24:16.392Z Uknow <uknowsec@users.noreply.github.com> :: refactor edge case in auth
 2025-10-02T00:47:21.226Z TiffinTech <TiffinTech@users.noreply.github.com> :: wire up the CI matrix
+2025-10-02T01:39:06.621Z Thomas Lin Pedersen <thomasp85@users.noreply.github.com> :: tweak build script
