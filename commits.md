@@ -3485,3 +3485,4 @@
 2025-10-02T02:21:22.327Z WilliamZhu <allwefantasy@users.noreply.github.com> :: refactor readme typo
 2025-10-02T02:47:21.519Z Simplify Jobs Inc. <support@simplify.jobs> :: add null check
 2025-10-02T03:59:26.349Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove flaky test
+2025-10-02T05:01:04.820Z Jordan Harband <ljharb@users.noreply.github.com> :: add error handling
