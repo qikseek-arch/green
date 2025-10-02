@@ -3503,3 +3503,4 @@
 2025-10-02T16:43:16.397Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: clean up config defaults
 2025-10-02T16:56:11.199Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: update cache keys
 2025-10-02T18:02:11.264Z Andreas Spiess <SensorsIot@users.noreply.github.com> :: add config defaults
+2025-10-02T20:30:57.797Z Anton Osika <AntonOsika@users.noreply.github.com> :: remove readme typo
