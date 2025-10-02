@@ -3819,3 +3819,4 @@
 2025-10-02T10:51:56.444Z LazyBadger <lazybadger@fake.invalid> :: remove dead code
 2025-10-02T11:22:15.577Z Airen <airen@users.noreply.github.com> :: clean up build script
 2025-10-02T11:29:18.884Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: refactor config defaults
+2025-10-02T12:04:57.313Z glitchywalrus168 <glitchywalrus168@fake.invalid> :: fix error handling
