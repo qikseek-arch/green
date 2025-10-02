@@ -1091,3 +1091,4 @@
 2025-10-02T05:43:07.377Z Arduino <arduino@users.noreply.github.com> :: bump config defaults
 2025-10-02T07:10:06.884Z Brent Jackson <jxnblk@users.noreply.github.com> :: tweak logging
 2025-10-02T07:26:10.031Z Felix Angelov <felangel@users.noreply.github.com> :: add config defaults
+2025-10-02T08:36:25.730Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor null check
