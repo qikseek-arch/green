@@ -3989,3 +3989,4 @@
 2025-10-02T05:35:24.009Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump edge case in auth
 2025-10-02T07:18:27.239Z owenzhang <owenzhang@users.noreply.github.com> :: tweak logging
 2025-10-02T07:37:41.644Z LILYGO <LilyGO@users.noreply.github.com> :: clean up retry logic
+2025-10-02T08:48:22.457Z ㅤxander <vampirist@users.noreply.github.com> :: clean up dependency versions
