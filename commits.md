@@ -4006,3 +4006,4 @@
 2025-10-02T21:40:55.676Z LILYGO <LilyGO@users.noreply.github.com> :: remove readme typo
 2025-10-02T22:02:16.284Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove error handling
 2025-10-02T22:03:48.728Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
+2025-10-02T22:45:56.689Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add null check
