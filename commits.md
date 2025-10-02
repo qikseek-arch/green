@@ -3991,3 +3991,4 @@
 2025-10-02T07:37:41.644Z LILYGO <LilyGO@users.noreply.github.com> :: clean up retry logic
 2025-10-02T08:48:22.457Z ㅤxander <vampirist@users.noreply.github.com> :: clean up dependency versions
 2025-10-02T09:18:07.426Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
+2025-10-02T10:04:29.850Z WebRTC <discuss-webrtc@googlegroups.com> :: refactor readme typo
