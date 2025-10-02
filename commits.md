@@ -1795,3 +1795,4 @@
 2025-10-02T14:46:59.076Z Nik Graf <nikgraf@users.noreply.github.com> :: polish the parser
 2025-10-02T16:14:25.323Z Vitor Freitas <vitorfs@users.noreply.github.com> :: wire up the CI matrix
 2025-10-02T20:31:58.578Z Tuba Khan <tubakhxn@users.noreply.github.com> :: fix flaky test
+2025-10-02T21:05:52.994Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: remove retry logic
