@@ -3507,3 +3507,4 @@
 2025-10-02T21:20:50.624Z Simplify Jobs Inc. <support@simplify.jobs> :: wire up dead code
 2025-10-02T22:19:20.283Z Open Food Facts <contact@openfoodfacts.org> :: remove logging
 2025-10-02T22:59:57.876Z Nang Ang <nang-dev@users.noreply.github.com> :: bump retry logic
+2025-10-02T23:05:00.261Z Ian Storm Taylor <ianstormtaylor@users.noreply.github.com> :: polish dead code
