@@ -1088,3 +1088,4 @@
 2025-10-02T03:39:01.683Z Vishwas <gopinav@users.noreply.github.com> :: remove dead code
 2025-10-02T03:59:39.444Z Y11 <XiaomingX@users.noreply.github.com> :: wire up the parser
 2025-10-02T05:30:38.996Z André Staltz <staltz@users.noreply.github.com> :: add dependency versions
+2025-10-02T05:43:07.377Z Arduino <arduino@users.noreply.github.com> :: bump config defaults
