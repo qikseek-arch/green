@@ -1779,3 +1779,4 @@
 2025-10-01T22:37:41.203Z LN <ln-dev7@users.noreply.github.com> :: polish dependency versions
 2025-10-01T23:54:19.137Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: update readme typo
 2025-10-02T00:28:57.150Z Paul Deitel <pdeitel@users.noreply.github.com> :: wire up cache keys
+2025-10-02T02:27:01.159Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix the parser
