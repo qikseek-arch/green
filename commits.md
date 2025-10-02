@@ -1094,3 +1094,4 @@
 2025-10-02T08:36:25.730Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor null check
 2025-10-02T09:44:46.001Z Siraj Raval <llSourcell@users.noreply.github.com> :: polish null check
 2025-10-02T09:58:24.264Z Chris Wanstrath <defunkt@users.noreply.github.com> :: update readme typo
+2025-10-02T11:57:15.760Z Alex Gaynor <alex@users.noreply.github.com> :: refactor error handling
