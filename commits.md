@@ -1114,3 +1114,4 @@
 2025-10-02T18:12:40.118Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up the parser
 2025-10-02T18:19:01.395Z Yihui Xie <yihui@users.noreply.github.com> :: fix logging
 2025-10-02T18:33:36.323Z Arduino <arduino@users.noreply.github.com> :: fix dependency versions
+2025-10-02T21:07:28.397Z LinuxServer.io <linuxserver@users.noreply.github.com> :: add the CI matrix
