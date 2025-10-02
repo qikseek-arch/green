@@ -3810,3 +3810,4 @@
 2025-10-02T03:52:36.249Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: update build script
 2025-10-02T04:06:01.741Z Larry Wall <larry.wall@fake.invalid> :: add build script
 2025-10-02T04:42:05.572Z Guido van Rossum <guido.van.rossum@fake.invalid> :: fix null check
+2025-10-02T06:01:50.711Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: tweak build script
