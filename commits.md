@@ -1093,3 +1093,4 @@
 2025-10-02T07:26:10.031Z Felix Angelov <felangel@users.noreply.github.com> :: add config defaults
 2025-10-02T08:36:25.730Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor null check
 2025-10-02T09:44:46.001Z Siraj Raval <llSourcell@users.noreply.github.com> :: polish null check
+2025-10-02T09:58:24.264Z Chris Wanstrath <defunkt@users.noreply.github.com> :: update readme typo
