@@ -3502,3 +3502,4 @@
 2025-10-02T16:42:03.562Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up build script
 2025-10-02T16:43:16.397Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: clean up config defaults
 2025-10-02T16:56:11.199Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: update cache keys
+2025-10-02T18:02:11.264Z Andreas Spiess <SensorsIot@users.noreply.github.com> :: add config defaults
