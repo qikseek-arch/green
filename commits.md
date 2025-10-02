@@ -3479,3 +3479,4 @@
 2025-10-01T23:22:37.612Z Open Food Facts <contact@openfoodfacts.org> :: refactor readme typo
 2025-10-01T23:54:25.006Z Sebastian Raschka <rasbt@users.noreply.github.com> :: remove cache keys
 2025-10-02T00:06:24.708Z 黄健宏 <huangzworks@users.noreply.github.com> :: tweak dependency versions
+2025-10-02T00:24:16.392Z Uknow <uknowsec@users.noreply.github.com> :: refactor edge case in auth
