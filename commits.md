@@ -3505,3 +3505,4 @@
 2025-10-02T18:02:11.264Z Andreas Spiess <SensorsIot@users.noreply.github.com> :: add config defaults
 2025-10-02T20:30:57.797Z Anton Osika <AntonOsika@users.noreply.github.com> :: remove readme typo
 2025-10-02T21:20:50.624Z Simplify Jobs Inc. <support@simplify.jobs> :: wire up dead code
+2025-10-02T22:19:20.283Z Open Food Facts <contact@openfoodfacts.org> :: remove logging
