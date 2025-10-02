@@ -1781,3 +1781,4 @@
 2025-10-02T00:28:57.150Z Paul Deitel <pdeitel@users.noreply.github.com> :: wire up cache keys
 2025-10-02T02:27:01.159Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix the parser
 2025-10-02T02:36:09.636Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: bump dependency versions
+2025-10-02T05:19:06.241Z TON Connect <ton-connect@users.noreply.github.com> :: clean up build script
