@@ -1100,3 +1100,4 @@
 2025-10-02T13:57:34.373Z Peter Kimanzi <peter-kimanzi@users.noreply.github.com> :: add error handling
 2025-10-02T14:46:55.345Z LinuxServer.io <linuxserver@users.noreply.github.com> :: refactor the CI matrix
 2025-10-02T14:46:56.824Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: fix readme typo
+2025-10-02T14:47:49.343Z S4IL <S4IL21@users.noreply.github.com> :: add logging
