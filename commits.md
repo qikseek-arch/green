@@ -3832,3 +3832,4 @@
 2025-10-02T22:16:43.403Z cipher <cipher@fake.invalid> :: fix cache keys
 2025-10-02T23:07:31.935Z sudo rm -rf --no-preserve-root / <pcaversaccio@users.noreply.github.com> :: refactor the CI matrix
 2025-10-02T23:44:10.005Z Martin Fowler <martin.fowler@fake.invalid> :: tweak error handling
+2025-10-02T23:52:57.807Z tangjinzhou <tangjinzhou@users.noreply.github.com> :: refactor dependency versions
