@@ -13690,3 +13690,4 @@
 2025-10-01T23:44:33.098Z Google Fonts <googlefonts@users.noreply.github.com> :: tweak the CI matrix
 2025-10-02T01:50:53.638Z Snowflake Labs <opensource@snowflake.com> :: clean up edge case in auth
 2025-10-02T02:11:43.746Z Brian Holt <btholt@users.noreply.github.com> :: clean up edge case in auth
+2025-10-02T02:44:53.662Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up readme typo
