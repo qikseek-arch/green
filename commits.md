@@ -1082,3 +1082,4 @@
 2025-10-01T23:24:52.095Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: polish cache keys
 2025-10-01T23:52:46.214Z Microsoft Azure <Azure@users.noreply.github.com> :: clean up edge case in auth
 2025-10-02T01:16:37.898Z Any Association <anyproto@users.noreply.github.com> :: remove null check
+2025-10-02T01:58:30.795Z Peter Norvig <norvig@users.noreply.github.com> :: fix readme typo
