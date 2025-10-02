@@ -1793,3 +1793,4 @@
 2025-10-02T12:44:44.331Z 郭飞 <guofei9987@users.noreply.github.com> :: polish retry logic
 2025-10-02T14:08:06.634Z Gazi <gazijarin@users.noreply.github.com> :: polish logging
 2025-10-02T14:46:59.076Z Nik Graf <nikgraf@users.noreply.github.com> :: polish the parser
+2025-10-02T16:14:25.323Z Vitor Freitas <vitorfs@users.noreply.github.com> :: wire up the CI matrix
