@@ -3996,3 +3996,4 @@
 2025-10-02T11:18:45.949Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish the CI matrix
 2025-10-02T11:56:10.437Z Getgems <getgems-io@users.noreply.github.com> :: bump config defaults
 2025-10-02T12:55:49.597Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove build script
+2025-10-02T13:11:01.062Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add the CI matrix
