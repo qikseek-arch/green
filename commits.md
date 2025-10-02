@@ -1112,3 +1112,4 @@
 2025-10-02T17:51:11.984Z André Staltz <staltz@users.noreply.github.com> :: fix edge case in auth
 2025-10-02T18:07:19.558Z Chip Huyen <chiphuyen@users.noreply.github.com> :: update edge case in auth
 2025-10-02T18:12:40.118Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up the parser
+2025-10-02T18:19:01.395Z Yihui Xie <yihui@users.noreply.github.com> :: fix logging
