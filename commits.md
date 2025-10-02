@@ -1095,3 +1095,4 @@
 2025-10-02T09:44:46.001Z Siraj Raval <llSourcell@users.noreply.github.com> :: polish null check
 2025-10-02T09:58:24.264Z Chris Wanstrath <defunkt@users.noreply.github.com> :: update readme typo
 2025-10-02T11:57:15.760Z Alex Gaynor <alex@users.noreply.github.com> :: refactor error handling
+2025-10-02T12:32:48.749Z Jukka Seppänen <kijai@users.noreply.github.com> :: wire up the CI matrix
