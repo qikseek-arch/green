@@ -3820,3 +3820,4 @@
 2025-10-02T11:22:15.577Z Airen <airen@users.noreply.github.com> :: clean up build script
 2025-10-02T11:29:18.884Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: refactor config defaults
 2025-10-02T12:04:57.313Z glitchywalrus168 <glitchywalrus168@fake.invalid> :: fix error handling
+2025-10-02T13:17:31.706Z Robert C. Martin <robert.c.martin@fake.invalid> :: polish null check
