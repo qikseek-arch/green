@@ -1104,3 +1104,4 @@
 2025-10-02T16:02:39.842Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: clean up build script
 2025-10-02T16:09:37.831Z Astral <hey@astral.sh> :: update edge case in auth
 2025-10-02T16:16:16.119Z Yichun Zhang <agentzh@users.noreply.github.com> :: refactor readme typo
+2025-10-02T16:20:34.891Z Ben Balter <benbalter@users.noreply.github.com> :: clean up edge case in auth
