@@ -1784,3 +1784,4 @@
 2025-10-02T05:19:06.241Z TON Connect <ton-connect@users.noreply.github.com> :: clean up build script
 2025-10-02T06:02:50.155Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor edge case in auth
 2025-10-02T08:07:32.957Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: tweak logging
+2025-10-02T08:49:07.103Z Codrops <codrops@users.noreply.github.com> :: tweak dependency versions
