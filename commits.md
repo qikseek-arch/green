@@ -1106,3 +1106,4 @@
 2025-10-02T16:16:16.119Z Yichun Zhang <agentzh@users.noreply.github.com> :: refactor readme typo
 2025-10-02T16:20:34.891Z Ben Balter <benbalter@users.noreply.github.com> :: clean up edge case in auth
 2025-10-02T16:29:51.670Z Mahsima Dastan <mahseema@users.noreply.github.com> :: tweak edge case in auth
+2025-10-02T17:31:41.324Z Andrew Kelley <andrewrk@users.noreply.github.com> :: wire up the parser
