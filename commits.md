@@ -4041,3 +4041,4 @@
 2025-10-03T19:02:44.772Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak cache keys
 2025-10-03T19:25:34.411Z qiye <qiyeboy@users.noreply.github.com> :: add cache keys
 2025-10-03T19:47:57.685Z heyli <lcxfs1991@users.noreply.github.com> :: fix retry logic
+2025-10-03T20:10:55.236Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor error handling
