@@ -3524,3 +3524,4 @@
 2025-10-03T09:26:49.147Z BRIGHT (Bwave) <BrightDaniel@users.noreply.github.com> :: clean up flaky test
 2025-10-03T09:58:35.289Z Cheng Lou <chenglou@users.noreply.github.com> :: wire up the CI matrix
 2025-10-03T10:14:56.192Z Nang Ang <nang-dev@users.noreply.github.com> :: polish dependency versions
+2025-10-03T12:27:12.938Z Brandon Estrella <onamfc@users.noreply.github.com> :: fix the parser
