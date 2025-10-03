@@ -13727,3 +13727,4 @@
 2025-10-03T08:16:23.691Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish the parser
 2025-10-03T09:38:42.740Z Yiming Cui <ymcui@users.noreply.github.com> :: fix flaky test
 2025-10-03T10:22:15.187Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor dependency versions
+2025-10-03T11:09:29.154Z Tom Dale <tomdale@users.noreply.github.com> :: refactor error handling
