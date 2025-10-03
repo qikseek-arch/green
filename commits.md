@@ -3842,3 +3842,4 @@
 2025-10-03T08:37:24.435Z Robert C. Martin <robert.c.martin@fake.invalid> :: clean up config defaults
 2025-10-03T10:26:38.091Z Nikola Tesla <nikola.tesla@fake.invalid> :: remove readme typo
 2025-10-03T10:45:27.047Z Marie Curie <marie.curie@fake.invalid> :: clean up the parser
+2025-10-03T11:00:56.509Z tundra_salty <tundra_salty@fake.invalid> :: refactor cache keys
