@@ -4029,3 +4029,4 @@
 2025-10-03T09:41:36.170Z ring04h <ring04h@users.noreply.github.com> :: bump flaky test
 2025-10-03T10:20:30.874Z BBC <bbc@users.noreply.github.com> :: wire up null check
 2025-10-03T11:07:18.398Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor logging
+2025-10-03T11:54:07.024Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up dependency versions
