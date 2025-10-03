@@ -1815,3 +1815,4 @@
 2025-10-03T09:48:04.094Z Yann Collet <Cyan4973@users.noreply.github.com> :: bump build script
 2025-10-03T11:53:19.952Z Fabien Potencier <fabpot@users.noreply.github.com> :: clean up readme typo
 2025-10-03T13:27:00.442Z PostgreSQL <postgres@users.noreply.github.com> :: wire up null check
+2025-10-03T13:59:58.536Z 技术胖 <shenghy@users.noreply.github.com> :: refactor null check
