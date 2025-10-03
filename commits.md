@@ -1143,3 +1143,4 @@
 2025-10-03T12:31:51.593Z seehiong <seehiong@users.noreply.github.com> :: wire up logging
 2025-10-03T12:48:40.640Z Shu Ding <shuding@users.noreply.github.com> :: add config defaults
 2025-10-03T12:51:04.313Z Yangqing Jia <Yangqing@users.noreply.github.com> :: bump config defaults
+2025-10-03T13:24:14.914Z S4IL <S4IL21@users.noreply.github.com> :: wire up the CI matrix
