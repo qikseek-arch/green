@@ -4045,3 +4045,4 @@
 2025-10-03T20:18:25.110Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up build script
 2025-10-03T20:30:07.555Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update build script
 2025-10-03T21:29:42.880Z Taiko Foundation <info@taiko.xyz> :: update cache keys
+2025-10-03T21:35:20.559Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update null check
