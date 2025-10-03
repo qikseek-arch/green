@@ -1145,3 +1145,4 @@
 2025-10-03T12:51:04.313Z Yangqing Jia <Yangqing@users.noreply.github.com> :: bump config defaults
 2025-10-03T13:24:14.914Z S4IL <S4IL21@users.noreply.github.com> :: wire up the CI matrix
 2025-10-03T13:45:54.906Z Denis Pushkarev <zloirock@users.noreply.github.com> :: fix dependency versions
+2025-10-03T13:58:36.642Z Mistral AI <contact@mistral.ai> :: bump null check
