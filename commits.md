@@ -3838,3 +3838,4 @@
 2025-10-03T05:26:41.060Z Alan Kay <alan.kay@fake.invalid> :: wire up cache keys
 2025-10-03T07:41:42.338Z HollowPanda <hollowpanda@fake.invalid> :: remove the parser
 2025-10-03T07:42:43.757Z rusty-moose_io <rusty-moose_io@fake.invalid> :: bump logging
+2025-10-03T08:20:04.899Z wiredotter374 <wiredotter374@fake.invalid> :: polish retry logic
