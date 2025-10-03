@@ -1141,3 +1141,4 @@
 2025-10-03T11:53:32.712Z Chip Huyen <chiphuyen@users.noreply.github.com> :: tweak the parser
 2025-10-03T12:18:12.978Z Y11 <XiaomingX@users.noreply.github.com> :: polish the parser
 2025-10-03T12:31:51.593Z seehiong <seehiong@users.noreply.github.com> :: wire up logging
+2025-10-03T12:48:40.640Z Shu Ding <shuding@users.noreply.github.com> :: add config defaults
