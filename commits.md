@@ -3844,3 +3844,4 @@
 2025-10-03T10:45:27.047Z Marie Curie <marie.curie@fake.invalid> :: clean up the parser
 2025-10-03T11:00:56.509Z tundra_salty <tundra_salty@fake.invalid> :: refactor cache keys
 2025-10-03T12:10:53.128Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: polish error handling
+2025-10-03T13:07:54.195Z hamster_sleepy_dev <hamster_sleepy_dev@fake.invalid> :: remove null check
