@@ -1806,3 +1806,4 @@
 2025-10-03T02:07:36.698Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak error handling
 2025-10-03T02:31:00.185Z Aditya Shakya <adi1090x@users.noreply.github.com> :: polish cache keys
 2025-10-03T03:08:30.592Z 郭飞 <guofei9987@users.noreply.github.com> :: tweak the CI matrix
+2025-10-03T03:23:09.382Z Dan Gohman <sunfishcode@users.noreply.github.com> :: tweak retry logic
