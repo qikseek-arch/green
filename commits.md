@@ -13728,3 +13728,4 @@
 2025-10-03T09:38:42.740Z Yiming Cui <ymcui@users.noreply.github.com> :: fix flaky test
 2025-10-03T10:22:15.187Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor dependency versions
 2025-10-03T11:09:29.154Z Tom Dale <tomdale@users.noreply.github.com> :: refactor error handling
+2025-10-03T12:55:32.856Z rxi <rxi@users.noreply.github.com> :: wire up readme typo
