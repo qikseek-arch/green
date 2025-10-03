@@ -1149,3 +1149,4 @@
 2025-10-03T14:01:18.405Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: refactor dependency versions
 2025-10-03T14:17:53.790Z Brent Jackson <jxnblk@users.noreply.github.com> :: clean up null check
 2025-10-03T14:22:35.658Z Termux <contact@termux.dev> :: bump the CI matrix
+2025-10-03T17:41:36.913Z EGOIST <egoist@users.noreply.github.com> :: wire up dependency versions
