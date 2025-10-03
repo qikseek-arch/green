@@ -1153,3 +1153,4 @@
 2025-10-03T18:24:56.283Z LinuxServer.io <linuxserver@users.noreply.github.com> :: wire up the CI matrix
 2025-10-03T19:29:45.368Z Y11 <XiaomingX@users.noreply.github.com> :: bump the CI matrix
 2025-10-03T19:43:07.441Z Simon Willison <simonw@users.noreply.github.com> :: clean up config defaults
+2025-10-03T19:55:27.266Z Peter Steinberger <steipete@users.noreply.github.com> :: update retry logic
