@@ -4014,3 +4014,4 @@
 2025-10-03T00:01:14.080Z Getgems <getgems-io@users.noreply.github.com> :: update build script
 2025-10-03T00:04:17.155Z Barret李靖 <barretlee@users.noreply.github.com> :: wire up the parser
 2025-10-03T00:19:02.183Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up logging
+2025-10-03T01:33:27.753Z Adam Wathan <adamwathan@users.noreply.github.com> :: tweak retry logic
