@@ -599,3 +599,4 @@
 2026-09-28T05:50:15.016Z Flutter <flutter@users.noreply.github.com> :: bump error handling
 2026-09-30T01:23:37.658Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: fix edge case in auth
 2025-10-03T00:46:09.339Z Chip Huyen <chiphuyen@users.noreply.github.com> :: fix build script
+2025-10-03T05:00:30.768Z Unicity Labs <info@unicity-labs.com> :: polish readme typo
