@@ -1128,3 +1128,4 @@
 2025-10-03T06:12:41.677Z Alura Cursos Online <contato@alura.com.br> :: refactor edge case in auth
 2025-10-03T06:17:39.182Z Shu Ding <shuding@users.noreply.github.com> :: tweak dependency versions
 2025-10-03T06:19:51.598Z LinuxServer.io <linuxserver@users.noreply.github.com> :: add config defaults
+2025-10-03T06:38:59.284Z Rich Hickey <richhickey@users.noreply.github.com> :: tweak null check
