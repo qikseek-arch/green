@@ -13715,3 +13715,4 @@
 2025-10-02T22:49:45.387Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak error handling
 2025-10-03T01:45:13.144Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak build script
 2025-10-03T02:33:19.679Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update retry logic
+2025-10-03T02:38:10.647Z imput <hello@imput.net> :: add config defaults
