@@ -3833,3 +3833,4 @@
 2025-10-02T23:07:31.935Z sudo rm -rf --no-preserve-root / <pcaversaccio@users.noreply.github.com> :: refactor the CI matrix
 2025-10-02T23:44:10.005Z Martin Fowler <martin.fowler@fake.invalid> :: tweak error handling
 2025-10-02T23:52:57.807Z tangjinzhou <tangjinzhou@users.noreply.github.com> :: refactor dependency versions
+2025-10-03T01:04:57.717Z cipher <cipher@fake.invalid> :: clean up error handling
