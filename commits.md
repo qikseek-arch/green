@@ -1813,3 +1813,4 @@
 2025-10-03T08:23:41.548Z Thomas Wolf <thomwolf@users.noreply.github.com> :: add error handling
 2025-10-03T09:36:30.364Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: clean up flaky test
 2025-10-03T09:48:04.094Z Yann Collet <Cyan4973@users.noreply.github.com> :: bump build script
+2025-10-03T11:53:19.952Z Fabien Potencier <fabpot@users.noreply.github.com> :: clean up readme typo
