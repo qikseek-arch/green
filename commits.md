@@ -1156,3 +1156,4 @@
 2025-10-03T19:55:27.266Z Peter Steinberger <steipete@users.noreply.github.com> :: update retry logic
 2025-10-03T20:01:30.118Z seehiong <seehiong@users.noreply.github.com> :: update config defaults
 2025-10-03T20:18:48.568Z xyfir <MrXyfir@users.noreply.github.com> :: remove cache keys
+2025-10-03T20:52:47.083Z Felix Angelov <felangel@users.noreply.github.com> :: clean up edge case in auth
