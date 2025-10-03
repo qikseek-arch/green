@@ -13730,3 +13730,4 @@
 2025-10-03T11:09:29.154Z Tom Dale <tomdale@users.noreply.github.com> :: refactor error handling
 2025-10-03T12:55:32.856Z rxi <rxi@users.noreply.github.com> :: wire up readme typo
 2025-10-03T13:11:31.796Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove readme typo
+2025-10-03T15:54:50.772Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: update edge case in auth
