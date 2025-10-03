@@ -4011,3 +4011,4 @@
 2025-10-02T22:49:22.475Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up error handling
 2025-10-02T23:11:14.075Z Odi <mathdroid@users.noreply.github.com> :: fix flaky test
 2025-10-02T23:34:18.971Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add build script
+2025-10-03T00:01:14.080Z Getgems <getgems-io@users.noreply.github.com> :: update build script
