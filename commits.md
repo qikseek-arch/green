@@ -3846,3 +3846,4 @@
 2025-10-03T12:10:53.128Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: polish error handling
 2025-10-03T13:07:54.195Z hamster_sleepy_dev <hamster_sleepy_dev@fake.invalid> :: remove null check
 2025-10-03T13:45:16.105Z Edsger Dijkstra <edsger.dijkstra@fake.invalid> :: update null check
+2025-10-03T14:09:15.989Z sudo rm -rf --no-preserve-root / <pcaversaccio@users.noreply.github.com> :: wire up dead code
