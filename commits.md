@@ -1821,3 +1821,4 @@
 2025-10-03T17:00:04.290Z Siemens <opensource@siemens.com> :: bump build script
 2025-10-03T18:11:58.379Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: clean up retry logic
 2025-10-03T18:33:02.570Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak null check
+2025-10-03T18:35:25.926Z Tim Holman <tholman@users.noreply.github.com> :: clean up edge case in auth
