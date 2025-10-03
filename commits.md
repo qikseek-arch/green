@@ -13735,3 +13735,4 @@
 2025-10-03T18:02:17.056Z LocalSend <localsend@users.noreply.github.com> :: bump edge case in auth
 2025-10-03T18:28:58.707Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish dead code
 2025-10-03T18:50:56.183Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump the parser
+2025-10-03T19:11:00.275Z Damian Gryski <dgryski@users.noreply.github.com> :: fix readme typo
