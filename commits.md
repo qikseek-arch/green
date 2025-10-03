@@ -1816,3 +1816,4 @@
 2025-10-03T11:53:19.952Z Fabien Potencier <fabpot@users.noreply.github.com> :: clean up readme typo
 2025-10-03T13:27:00.442Z PostgreSQL <postgres@users.noreply.github.com> :: wire up null check
 2025-10-03T13:59:58.536Z 技术胖 <shenghy@users.noreply.github.com> :: refactor null check
+2025-10-03T14:52:39.283Z Lei Mao <leimao@users.noreply.github.com> :: refactor readme typo
