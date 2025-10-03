@@ -3512,3 +3512,4 @@
 2025-10-03T03:34:31.841Z Cyb_detective <cipher387@users.noreply.github.com> :: clean up readme typo
 2025-10-03T03:41:11.561Z Julien <jbarbier@users.noreply.github.com> :: wire up error handling
 2025-10-03T03:53:42.165Z Julien <jbarbier@users.noreply.github.com> :: wire up logging
+2025-10-03T04:47:24.099Z Micael Mota <micaelomota@users.noreply.github.com> :: refactor logging
