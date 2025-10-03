@@ -3848,3 +3848,4 @@
 2025-10-03T13:45:16.105Z Edsger Dijkstra <edsger.dijkstra@fake.invalid> :: update null check
 2025-10-03T14:09:15.989Z sudo rm -rf --no-preserve-root / <pcaversaccio@users.noreply.github.com> :: wire up dead code
 2025-10-03T14:53:20.691Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: bump dead code
+2025-10-03T16:23:48.233Z zcgonvh <zcgonvh@users.noreply.github.com> :: fix readme typo
