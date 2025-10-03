@@ -3525,3 +3525,4 @@
 2025-10-03T09:58:35.289Z Cheng Lou <chenglou@users.noreply.github.com> :: wire up the CI matrix
 2025-10-03T10:14:56.192Z Nang Ang <nang-dev@users.noreply.github.com> :: polish dependency versions
 2025-10-03T12:27:12.938Z Brandon Estrella <onamfc@users.noreply.github.com> :: fix the parser
+2025-10-03T12:27:57.067Z Michael Truell <truell20@users.noreply.github.com> :: tweak the parser
