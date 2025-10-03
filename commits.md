@@ -3850,3 +3850,4 @@
 2025-10-03T14:53:20.691Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: bump dead code
 2025-10-03T16:23:48.233Z zcgonvh <zcgonvh@users.noreply.github.com> :: fix readme typo
 2025-10-03T18:00:24.035Z chillllama164 <chillllama164@fake.invalid> :: refactor logging
+2025-10-03T20:57:57.424Z patak <patak-cat@users.noreply.github.com> :: fix cache keys
