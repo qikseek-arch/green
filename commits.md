@@ -1135,3 +1135,4 @@
 2025-10-03T07:49:59.305Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak retry logic
 2025-10-03T08:57:44.013Z seehiong <seehiong@users.noreply.github.com> :: remove flaky test
 2025-10-03T09:01:32.450Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: add cache keys
+2025-10-03T10:14:33.873Z Jordan Harband <ljharb@users.noreply.github.com> :: polish the parser
