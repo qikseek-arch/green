@@ -4018,3 +4018,4 @@
 2025-10-03T01:47:33.573Z owenzhang <owenzhang@users.noreply.github.com> :: fix the CI matrix
 2025-10-03T03:05:35.740Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish cache keys
 2025-10-03T03:29:14.226Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove config defaults
+2025-10-03T04:29:38.636Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix build script
