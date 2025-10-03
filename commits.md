@@ -1138,3 +1138,4 @@
 2025-10-03T10:14:33.873Z Jordan Harband <ljharb@users.noreply.github.com> :: polish the parser
 2025-10-03T10:34:41.183Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix cache keys
 2025-10-03T11:34:05.966Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: add dead code
+2025-10-03T11:53:32.712Z Chip Huyen <chiphuyen@users.noreply.github.com> :: tweak the parser
