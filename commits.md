@@ -13719,3 +13719,4 @@
 2025-10-03T03:11:39.055Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up dependency versions
 2025-10-03T03:33:18.798Z Alex Teichman <teichman@users.noreply.github.com> :: fix the parser
 2025-10-03T03:50:14.121Z Lovell Fuller <lovell@users.noreply.github.com> :: bump flaky test
+2025-10-03T03:56:26.952Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
