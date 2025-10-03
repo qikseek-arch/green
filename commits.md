@@ -1825,3 +1825,4 @@
 2025-10-03T19:37:59.008Z Blue <blueedgetechno@users.noreply.github.com> :: tweak cache keys
 2025-10-03T19:58:36.907Z 开源中国 <oschina@users.noreply.github.com> :: fix dependency versions
 2025-10-03T20:48:20.997Z sharkeer <sharkeer@users.noreply.github.com> :: polish retry logic
+2025-10-03T21:37:38.798Z LN <ln-dev7@users.noreply.github.com> :: wire up readme typo
