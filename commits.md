@@ -3515,3 +3515,4 @@
 2025-10-03T04:47:24.099Z Micael Mota <micaelomota@users.noreply.github.com> :: refactor logging
 2025-10-03T05:18:07.353Z Cyb_detective <cipher387@users.noreply.github.com> :: wire up the parser
 2025-10-03T05:21:38.092Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: add logging
+2025-10-03T05:32:13.181Z Liang <deIiverer@users.noreply.github.com> :: fix error handling
