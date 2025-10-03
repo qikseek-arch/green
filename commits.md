@@ -4021,3 +4021,4 @@
 2025-10-03T04:29:38.636Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix build script
 2025-10-03T04:59:45.420Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update flaky test
 2025-10-03T05:55:41.564Z md-5 <md-5@users.noreply.github.com> :: clean up dead code
+2025-10-03T08:24:58.380Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
