@@ -13713,3 +13713,4 @@
 2025-10-02T21:59:02.398Z SurrealDB <surrealdb@users.noreply.github.com> :: fix retry logic
 2025-10-02T22:04:58.900Z Dove Letter <skydoves2@gmail.com> :: clean up dead code
 2025-10-02T22:49:45.387Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak error handling
+2025-10-03T01:45:13.144Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak build script
