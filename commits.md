@@ -3518,3 +3518,4 @@
 2025-10-03T05:32:13.181Z Liang <deIiverer@users.noreply.github.com> :: fix error handling
 2025-10-03T06:09:05.111Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish error handling
 2025-10-03T06:41:20.730Z Nick Nisi <nicknisi@users.noreply.github.com> :: remove edge case in auth
+2025-10-03T07:00:13.179Z Ritchie Vink <ritchie46@users.noreply.github.com> :: clean up cache keys
