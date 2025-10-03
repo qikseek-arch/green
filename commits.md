@@ -13731,3 +13731,4 @@
 2025-10-03T12:55:32.856Z rxi <rxi@users.noreply.github.com> :: wire up readme typo
 2025-10-03T13:11:31.796Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove readme typo
 2025-10-03T15:54:50.772Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: update edge case in auth
+2025-10-03T17:08:39.949Z John Schulman <joschu@users.noreply.github.com> :: clean up retry logic
