@@ -1824,3 +1824,4 @@
 2025-10-03T18:35:25.926Z Tim Holman <tholman@users.noreply.github.com> :: clean up edge case in auth
 2025-10-03T19:37:59.008Z Blue <blueedgetechno@users.noreply.github.com> :: tweak cache keys
 2025-10-03T19:58:36.907Z 开源中国 <oschina@users.noreply.github.com> :: fix dependency versions
+2025-10-03T20:48:20.997Z sharkeer <sharkeer@users.noreply.github.com> :: polish retry logic
