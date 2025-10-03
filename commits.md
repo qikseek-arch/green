@@ -3843,3 +3843,4 @@
 2025-10-03T10:26:38.091Z Nikola Tesla <nikola.tesla@fake.invalid> :: remove readme typo
 2025-10-03T10:45:27.047Z Marie Curie <marie.curie@fake.invalid> :: clean up the parser
 2025-10-03T11:00:56.509Z tundra_salty <tundra_salty@fake.invalid> :: refactor cache keys
+2025-10-03T12:10:53.128Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: polish error handling
