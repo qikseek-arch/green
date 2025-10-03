@@ -1140,3 +1140,4 @@
 2025-10-03T11:34:05.966Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: add dead code
 2025-10-03T11:53:32.712Z Chip Huyen <chiphuyen@users.noreply.github.com> :: tweak the parser
 2025-10-03T12:18:12.978Z Y11 <XiaomingX@users.noreply.github.com> :: polish the parser
+2025-10-03T12:31:51.593Z seehiong <seehiong@users.noreply.github.com> :: wire up logging
