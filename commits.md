@@ -1154,3 +1154,4 @@
 2025-10-03T19:29:45.368Z Y11 <XiaomingX@users.noreply.github.com> :: bump the CI matrix
 2025-10-03T19:43:07.441Z Simon Willison <simonw@users.noreply.github.com> :: clean up config defaults
 2025-10-03T19:55:27.266Z Peter Steinberger <steipete@users.noreply.github.com> :: update retry logic
+2025-10-03T20:01:30.118Z seehiong <seehiong@users.noreply.github.com> :: update config defaults
