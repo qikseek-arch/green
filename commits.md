@@ -1810,3 +1810,4 @@
 2025-10-03T03:47:35.080Z LN <ln-dev7@users.noreply.github.com> :: refactor cache keys
 2025-10-03T05:17:21.699Z 0chencc <0Chencc@users.noreply.github.com> :: tweak cache keys
 2025-10-03T06:24:27.583Z OpenShift <openshift@users.noreply.github.com> :: clean up dependency versions
+2025-10-03T08:23:41.548Z Thomas Wolf <thomwolf@users.noreply.github.com> :: add error handling
