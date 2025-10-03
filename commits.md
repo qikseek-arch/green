@@ -13717,3 +13717,4 @@
 2025-10-03T02:33:19.679Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update retry logic
 2025-10-03T02:38:10.647Z imput <hello@imput.net> :: add config defaults
 2025-10-03T03:11:39.055Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up dependency versions
+2025-10-03T03:33:18.798Z Alex Teichman <teichman@users.noreply.github.com> :: fix the parser
