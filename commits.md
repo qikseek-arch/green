@@ -3534,3 +3534,4 @@
 2025-10-03T18:13:50.712Z Abdelrahman Awad <logaretm@users.noreply.github.com> :: wire up the CI matrix
 2025-10-03T21:01:43.135Z Sheng-Hao Ma <aaaddress1@users.noreply.github.com> :: remove build script
 2025-10-03T21:34:57.721Z @greweb <gre@users.noreply.github.com> :: bump retry logic
+2025-10-03T22:34:34.310Z Thomas Lin Pedersen <thomasp85@users.noreply.github.com> :: fix config defaults
