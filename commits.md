@@ -13722,3 +13722,4 @@
 2025-10-03T03:56:26.952Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
 2025-10-03T06:04:52.876Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: clean up config defaults
 2025-10-03T06:07:26.125Z LMSYS <lm-sys@users.noreply.github.com> :: polish cache keys
+2025-10-03T06:19:19.105Z Odi <mathdroid@users.noreply.github.com> :: add the CI matrix
