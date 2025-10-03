@@ -4043,3 +4043,4 @@
 2025-10-03T19:47:57.685Z heyli <lcxfs1991@users.noreply.github.com> :: fix retry logic
 2025-10-03T20:10:55.236Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor error handling
 2025-10-03T20:18:25.110Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up build script
+2025-10-03T20:30:07.555Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update build script
