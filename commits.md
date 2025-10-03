@@ -4037,3 +4037,4 @@
 2025-10-03T15:58:54.347Z Keith Smiley <keith@users.noreply.github.com> :: update retry logic
 2025-10-03T17:05:50.419Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak flaky test
 2025-10-03T17:09:51.844Z CTFs <ctfs@users.noreply.github.com> :: remove edge case in auth
+2025-10-03T18:54:19.910Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove logging
