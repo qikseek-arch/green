@@ -3558,3 +3558,4 @@
 2025-10-04T17:22:33.126Z José Padilla <jpadilla@users.noreply.github.com> :: clean up cache keys
 2025-10-04T17:35:45.987Z Cyb_detective <cipher387@users.noreply.github.com> :: wire up config defaults
 2025-10-04T20:38:36.080Z Sebastian Raschka <rasbt@users.noreply.github.com> :: clean up config defaults
+2025-10-04T23:38:10.542Z Andrea Leopardi <whatyouhide@users.noreply.github.com> :: tweak dependency versions
