@@ -1198,3 +1198,4 @@
 2025-10-04T19:09:48.052Z Rich Hickey <richhickey@users.noreply.github.com> :: tweak config defaults
 2025-10-04T19:10:12.318Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix flaky test
 2025-10-04T19:27:59.829Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: remove error handling
+2025-10-04T20:13:12.452Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: remove build script
