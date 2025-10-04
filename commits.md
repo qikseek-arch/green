@@ -4058,3 +4058,4 @@
 2025-10-04T04:06:43.160Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
 2025-10-04T04:22:28.293Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: update the parser
 2025-10-04T04:24:18.710Z Selenium <SeleniumHQ@users.noreply.github.com> :: update null check
+2025-10-04T05:09:25.649Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
