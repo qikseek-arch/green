@@ -1197,3 +1197,4 @@
 2025-10-04T19:06:06.540Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: update retry logic
 2025-10-04T19:09:48.052Z Rich Hickey <richhickey@users.noreply.github.com> :: tweak config defaults
 2025-10-04T19:10:12.318Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix flaky test
+2025-10-04T19:27:59.829Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: remove error handling
