@@ -3854,3 +3854,4 @@
 2025-10-03T21:38:07.781Z Yang Song <yang-song@users.noreply.github.com> :: add dead code
 2025-10-04T01:13:48.949Z Solomon Hykes <solomon.hykes@fake.invalid> :: wire up retry logic
 2025-10-04T02:05:46.672Z HyperMonolith <hypermonolith@fake.invalid> :: update null check
+2025-10-04T04:01:26.488Z cipher <cipher@fake.invalid> :: fix dependency versions
