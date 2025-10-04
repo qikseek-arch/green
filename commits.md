@@ -4070,3 +4070,4 @@
 2025-10-04T13:41:21.453Z heyli <lcxfs1991@users.noreply.github.com> :: clean up dependency versions
 2025-10-04T14:06:39.401Z BBC <bbc@users.noreply.github.com> :: refactor flaky test
 2025-10-04T14:13:18.637Z heyli <lcxfs1991@users.noreply.github.com> :: add dead code
+2025-10-04T14:14:08.844Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish null check
