@@ -4061,3 +4061,4 @@
 2025-10-04T05:09:25.649Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
 2025-10-04T05:52:16.585Z AI4Bhārat <opensource@ai4bharat.org> :: clean up edge case in auth
 2025-10-04T06:42:07.235Z Rei <chloerei@users.noreply.github.com> :: fix cache keys
+2025-10-04T07:36:09.365Z markqvist <markqvist@users.noreply.github.com> :: fix edge case in auth
