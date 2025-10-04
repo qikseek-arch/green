@@ -3867,3 +3867,4 @@
 2025-10-04T12:11:10.602Z Vint Cerf <vint.cerf@fake.invalid> :: update dependency versions
 2025-10-04T13:43:48.673Z EleutherAI <contact@eleuther.ai> :: update the parser
 2025-10-04T15:36:19.515Z rusty-moose_io <rusty-moose_io@fake.invalid> :: update logging
+2025-10-04T19:35:14.477Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: refactor dependency versions
