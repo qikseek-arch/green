@@ -3865,3 +3865,4 @@
 2025-10-04T11:15:38.214Z Paul Miller <paulmillr@users.noreply.github.com> :: update error handling
 2025-10-04T12:00:45.929Z Robert C. Martin <robert.c.martin@fake.invalid> :: wire up the CI matrix
 2025-10-04T12:11:10.602Z Vint Cerf <vint.cerf@fake.invalid> :: update dependency versions
+2025-10-04T13:43:48.673Z EleutherAI <contact@eleuther.ai> :: update the parser
