@@ -13743,3 +13743,4 @@
 2025-10-04T00:19:20.977Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: fix error handling
 2025-10-04T01:21:08.096Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak readme typo
 2025-10-04T01:40:31.804Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
+2025-10-04T01:53:10.554Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish the CI matrix
