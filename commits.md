@@ -1185,3 +1185,4 @@
 2025-10-04T13:40:28.542Z Brent Jackson <jxnblk@users.noreply.github.com> :: tweak edge case in auth
 2025-10-04T15:08:59.129Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up dependency versions
 2025-10-04T15:09:08.704Z Fernando Cejas <android10@users.noreply.github.com> :: tweak the parser
+2025-10-04T15:27:33.942Z Brent Jackson <jxnblk@users.noreply.github.com> :: clean up config defaults
