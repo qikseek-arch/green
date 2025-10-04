@@ -1162,3 +1162,4 @@
 2025-10-04T00:48:46.359Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: bump edge case in auth
 2025-10-04T00:57:24.460Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: wire up logging
 2025-10-04T01:21:02.006Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix cache keys
+2025-10-04T01:28:37.482Z Shu Ding <shuding@users.noreply.github.com> :: fix config defaults
