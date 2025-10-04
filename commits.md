@@ -1848,3 +1848,4 @@
 2025-10-04T16:50:05.116Z Lei Mao <leimao@users.noreply.github.com> :: remove the CI matrix
 2025-10-04T18:16:39.799Z Shuo <ShuoYangRobotics@users.noreply.github.com> :: refactor config defaults
 2025-10-04T19:52:50.875Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: polish the CI matrix
+2025-10-04T20:47:37.220Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: clean up dependency versions
