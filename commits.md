@@ -1206,3 +1206,4 @@
 2025-10-04T22:16:15.901Z Ultralytics <hello@ultralytics.com> :: clean up build script
 2025-10-04T22:23:27.953Z Fernando Cejas <android10@users.noreply.github.com> :: tweak dependency versions
 2025-10-04T22:40:34.240Z Any Association <anyproto@users.noreply.github.com> :: remove config defaults
+2025-10-04T22:58:30.993Z Peter Steinberger <steipete@users.noreply.github.com> :: tweak the parser
