@@ -13755,3 +13755,4 @@
 2025-10-04T13:11:38.220Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the CI matrix
 2025-10-04T13:11:49.817Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove retry logic
 2025-10-04T13:32:59.920Z Yiming Cui <ymcui@users.noreply.github.com> :: wire up the parser
+2025-10-04T14:33:24.383Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up the CI matrix
