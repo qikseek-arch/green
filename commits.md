@@ -13742,3 +13742,4 @@
 2025-10-03T21:48:40.805Z Prometheus <prometheus@users.noreply.github.com> :: refactor the parser
 2025-10-04T00:19:20.977Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: fix error handling
 2025-10-04T01:21:08.096Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak readme typo
+2025-10-04T01:40:31.804Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
