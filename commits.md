@@ -1829,3 +1829,4 @@
 2025-10-03T21:39:26.007Z TON Connect <ton-connect@users.noreply.github.com> :: add retry logic
 2025-10-04T00:34:29.405Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update config defaults
 2025-10-04T02:49:37.711Z Blue <blueedgetechno@users.noreply.github.com> :: remove retry logic
+2025-10-04T03:36:49.456Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: wire up null check
