@@ -3549,3 +3549,4 @@
 2025-10-04T08:54:09.809Z Cyb_detective <cipher387@users.noreply.github.com> :: fix the parser
 2025-10-04T09:44:57.691Z Uknow <uknowsec@users.noreply.github.com> :: polish flaky test
 2025-10-04T10:01:41.842Z Ian Storm Taylor <ianstormtaylor@users.noreply.github.com> :: tweak config defaults
+2025-10-04T13:51:47.488Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: fix logging
