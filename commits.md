@@ -1188,3 +1188,4 @@
 2025-10-04T15:27:33.942Z Brent Jackson <jxnblk@users.noreply.github.com> :: clean up config defaults
 2025-10-04T16:23:32.535Z Astral <hey@astral.sh> :: tweak the parser
 2025-10-04T16:54:15.739Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: tweak dependency versions
+2025-10-04T16:55:26.745Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix the CI matrix
