@@ -1850,3 +1850,4 @@
 2025-10-04T19:52:50.875Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: polish the CI matrix
 2025-10-04T20:47:37.220Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: clean up dependency versions
 2025-10-04T21:46:11.527Z Philip Walton <philipwalton@users.noreply.github.com> :: remove readme typo
+2025-10-04T22:31:00.996Z Thomas Wolf <thomwolf@users.noreply.github.com> :: remove null check
