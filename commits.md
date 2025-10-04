@@ -1182,3 +1182,4 @@
 2025-10-04T13:25:21.812Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update cache keys
 2025-10-04T13:28:17.388Z Microsoft Azure <Azure@users.noreply.github.com> :: polish the parser
 2025-10-04T13:33:32.628Z Zen <zen-browser@users.noreply.github.com> :: clean up cache keys
+2025-10-04T13:40:28.542Z Brent Jackson <jxnblk@users.noreply.github.com> :: tweak edge case in auth
