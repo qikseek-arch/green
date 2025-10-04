@@ -1173,3 +1173,4 @@
 2025-10-04T04:01:03.467Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: bump error handling
 2025-10-04T04:16:22.669Z LinuxServer.io <linuxserver@users.noreply.github.com> :: polish readme typo
 2025-10-04T05:14:16.117Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: tweak null check
+2025-10-04T05:51:41.046Z Arduino <arduino@users.noreply.github.com> :: clean up edge case in auth
