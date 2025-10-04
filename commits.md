@@ -13740,3 +13740,4 @@
 2025-10-03T20:22:46.856Z Tom Dale <tomdale@users.noreply.github.com> :: bump build script
 2025-10-03T21:48:38.313Z OpenBSD <openbsd@users.noreply.github.com> :: fix the CI matrix
 2025-10-03T21:48:40.805Z Prometheus <prometheus@users.noreply.github.com> :: refactor the parser
+2025-10-04T00:19:20.977Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: fix error handling
