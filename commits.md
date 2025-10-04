@@ -13744,3 +13744,4 @@
 2025-10-04T01:21:08.096Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak readme typo
 2025-10-04T01:40:31.804Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
 2025-10-04T01:53:10.554Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish the CI matrix
+2025-10-04T02:05:59.654Z Prometheus <prometheus@users.noreply.github.com> :: wire up edge case in auth
