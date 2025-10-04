@@ -4080,3 +4080,4 @@
 2025-10-04T20:05:40.268Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak retry logic
 2025-10-04T20:14:29.769Z CTFs <ctfs@users.noreply.github.com> :: polish cache keys
 2025-10-04T21:01:55.989Z Ivan Volkov <Chitus@users.noreply.github.com> :: add the parser
+2025-10-04T21:17:08.611Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up error handling
