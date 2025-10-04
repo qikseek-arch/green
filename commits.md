@@ -1202,3 +1202,4 @@
 2025-10-04T20:49:37.768Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak dependency versions
 2025-10-04T21:18:57.216Z Ben Balter <benbalter@users.noreply.github.com> :: fix flaky test
 2025-10-04T21:48:41.366Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: add the CI matrix
+2025-10-04T21:51:28.996Z Peter Norvig <norvig@users.noreply.github.com> :: update logging
