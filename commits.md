@@ -1827,3 +1827,4 @@
 2025-10-03T20:48:20.997Z sharkeer <sharkeer@users.noreply.github.com> :: polish retry logic
 2025-10-03T21:37:38.798Z LN <ln-dev7@users.noreply.github.com> :: wire up readme typo
 2025-10-03T21:39:26.007Z TON Connect <ton-connect@users.noreply.github.com> :: add retry logic
+2025-10-04T00:34:29.405Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update config defaults
