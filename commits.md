@@ -3545,3 +3545,4 @@
 2025-10-04T07:33:52.497Z Murtaza Hassan <murtazahassan@users.noreply.github.com> :: wire up null check
 2025-10-04T08:08:38.528Z Bunlong VAN <Bunlong@users.noreply.github.com> :: update the CI matrix
 2025-10-04T08:18:28.504Z First of ME <IFirstYou@users.noreply.github.com> :: bump readme typo
+2025-10-04T08:21:49.294Z Sebastian Raschka <rasbt@users.noreply.github.com> :: clean up retry logic
