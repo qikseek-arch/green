@@ -13764,3 +13764,4 @@
 2025-10-04T18:17:57.263Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor readme typo
 2025-10-04T18:40:34.898Z Dove Letter <skydoves2@gmail.com> :: add error handling
 2025-10-04T21:03:44.144Z DefTruth <DefTruth@users.noreply.github.com> :: add dead code
+2025-10-04T21:59:48.268Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak logging
