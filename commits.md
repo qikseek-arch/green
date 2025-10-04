@@ -1195,3 +1195,4 @@
 2025-10-04T18:32:08.543Z Nous Research <NousResearch@users.noreply.github.com> :: bump retry logic
 2025-10-04T18:55:50.254Z Meta Llama <meta-llama@users.noreply.github.com> :: tweak error handling
 2025-10-04T19:06:06.540Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: update retry logic
+2025-10-04T19:09:48.052Z Rich Hickey <richhickey@users.noreply.github.com> :: tweak config defaults
