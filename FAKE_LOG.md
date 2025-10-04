@@ -298,3 +298,4 @@
 2026-09-17T11:15:21.133Z obsidian <obsidian@fake.invalid> :: fix logging
 2026-09-20T20:07:13.061Z obsidian <obsidian@fake.invalid> :: remove error handling
 2026-09-29T01:35:21.637Z juno <juno@fake.invalid> :: tweak retry logic
+2025-10-04T10:29:36.669Z velvet-cobra_io <velvet-cobra_io@fake.invalid> :: clean up logging
