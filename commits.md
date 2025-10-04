@@ -4050,3 +4050,4 @@
 2025-10-03T22:58:30.823Z LILYGO <LilyGO@users.noreply.github.com> :: clean up error handling
 2025-10-04T00:54:50.800Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up cache keys
 2025-10-04T01:27:44.292Z Adam Bell <b3ll@users.noreply.github.com> :: bump logging
+2025-10-04T02:16:24.603Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up retry logic
