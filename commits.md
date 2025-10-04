@@ -1205,3 +1205,4 @@
 2025-10-04T21:51:28.996Z Peter Norvig <norvig@users.noreply.github.com> :: update logging
 2025-10-04T22:16:15.901Z Ultralytics <hello@ultralytics.com> :: clean up build script
 2025-10-04T22:23:27.953Z Fernando Cejas <android10@users.noreply.github.com> :: tweak dependency versions
+2025-10-04T22:40:34.240Z Any Association <anyproto@users.noreply.github.com> :: remove config defaults
