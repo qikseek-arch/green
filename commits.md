@@ -1208,3 +1208,4 @@
 2025-10-04T22:40:34.240Z Any Association <anyproto@users.noreply.github.com> :: remove config defaults
 2025-10-04T22:58:30.993Z Peter Steinberger <steipete@users.noreply.github.com> :: tweak the parser
 2025-10-04T23:02:37.062Z Peter Steinberger <steipete@users.noreply.github.com> :: add cache keys
+2025-10-04T23:14:06.590Z Maximilian <mschwarzmueller@users.noreply.github.com> :: add build script
