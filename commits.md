@@ -5,3 +5,4 @@
 2025-10-03T03:22:13.719Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove the parser
 2025-10-03T08:05:04.477Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: update build script
 2025-10-03T14:00:36.606Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: fix dead code
+2025-10-04T02:16:45.671Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: wire up retry logic
