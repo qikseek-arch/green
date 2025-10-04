@@ -4075,3 +4075,4 @@
 2025-10-04T16:01:14.132Z vb <Vaibhavs10@users.noreply.github.com> :: remove edge case in auth
 2025-10-04T17:03:41.763Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up config defaults
 2025-10-04T17:36:09.810Z LILYGO <LilyGO@users.noreply.github.com> :: tweak flaky test
+2025-10-04T18:47:16.191Z vb <Vaibhavs10@users.noreply.github.com> :: bump config defaults
