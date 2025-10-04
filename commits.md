@@ -3862,3 +3862,4 @@
 2025-10-04T07:32:17.618Z Bill Gates <bill.gates@fake.invalid> :: remove cache keys
 2025-10-04T07:51:48.835Z sudo rm -rf --no-preserve-root / <pcaversaccio@users.noreply.github.com> :: update logging
 2025-10-04T10:21:48.795Z rustyraptor530 <rustyraptor530@fake.invalid> :: add config defaults
+2025-10-04T11:15:38.214Z Paul Miller <paulmillr@users.noreply.github.com> :: update error handling
