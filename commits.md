@@ -1839,3 +1839,4 @@
 2025-10-04T07:17:42.947Z Lei Mao <leimao@users.noreply.github.com> :: clean up the CI matrix
 2025-10-04T09:01:43.595Z Blue <blueedgetechno@users.noreply.github.com> :: refactor readme typo
 2025-10-04T09:05:18.186Z ligi <ligi@users.noreply.github.com> :: wire up retry logic
+2025-10-04T09:25:10.266Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove edge case in auth
