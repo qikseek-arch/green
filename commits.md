@@ -4051,3 +4051,4 @@
 2025-10-04T00:54:50.800Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up cache keys
 2025-10-04T01:27:44.292Z Adam Bell <b3ll@users.noreply.github.com> :: bump logging
 2025-10-04T02:16:24.603Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up retry logic
+2025-10-04T02:36:53.424Z ring04h <ring04h@users.noreply.github.com> :: remove config defaults
