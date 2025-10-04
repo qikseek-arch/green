@@ -1171,3 +1171,4 @@
 2025-10-04T03:56:10.752Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: bump build script
 2025-10-04T03:56:32.625Z xyfir <MrXyfir@users.noreply.github.com> :: add dead code
 2025-10-04T04:01:03.467Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: bump error handling
+2025-10-04T04:16:22.669Z LinuxServer.io <linuxserver@users.noreply.github.com> :: polish readme typo
