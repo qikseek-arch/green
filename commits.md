@@ -3856,3 +3856,4 @@
 2025-10-04T02:05:46.672Z HyperMonolith <hypermonolith@fake.invalid> :: update null check
 2025-10-04T04:01:26.488Z cipher <cipher@fake.invalid> :: fix dependency versions
 2025-10-04T04:56:07.246Z wiredotter374 <wiredotter374@fake.invalid> :: update readme typo
+2025-10-04T05:25:50.182Z Martin Fowler <martin.fowler@fake.invalid> :: tweak readme typo
