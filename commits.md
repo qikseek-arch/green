@@ -4059,3 +4059,4 @@
 2025-10-04T04:22:28.293Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: update the parser
 2025-10-04T04:24:18.710Z Selenium <SeleniumHQ@users.noreply.github.com> :: update null check
 2025-10-04T05:09:25.649Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
+2025-10-04T05:52:16.585Z AI4Bhārat <opensource@ai4bharat.org> :: clean up edge case in auth
