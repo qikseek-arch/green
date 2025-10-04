@@ -13752,3 +13752,4 @@
 2025-10-04T10:20:39.120Z OpenBMB <openbmb@gmail.com> :: refactor flaky test
 2025-10-04T11:07:52.311Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump build script
 2025-10-04T12:05:00.767Z Roger Labbe <rlabbe@users.noreply.github.com> :: update the CI matrix
+2025-10-04T13:11:38.220Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the CI matrix
