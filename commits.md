@@ -1838,3 +1838,4 @@
 2025-10-04T06:47:43.080Z jist <george0st@users.noreply.github.com> :: wire up dependency versions
 2025-10-04T07:17:42.947Z Lei Mao <leimao@users.noreply.github.com> :: clean up the CI matrix
 2025-10-04T09:01:43.595Z Blue <blueedgetechno@users.noreply.github.com> :: refactor readme typo
+2025-10-04T09:05:18.186Z ligi <ligi@users.noreply.github.com> :: wire up retry logic
