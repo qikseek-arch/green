@@ -3893,3 +3893,4 @@
 2025-10-05T17:27:44.671Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: wire up edge case in auth
 2025-10-05T18:14:46.729Z HollowPanda <hollowpanda@fake.invalid> :: clean up the parser
 2025-10-05T18:25:00.635Z tangjinzhou <tangjinzhou@users.noreply.github.com> :: fix dependency versions
+2025-10-05T20:21:11.378Z cipher <cipher@fake.invalid> :: remove the CI matrix
