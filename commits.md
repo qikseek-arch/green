@@ -3880,3 +3880,4 @@
 2025-10-05T01:32:36.799Z HollowPanda <hollowpanda@fake.invalid> :: refactor dead code
 2025-10-05T02:36:06.458Z socket_glitchy <socket_glitchy@fake.invalid> :: polish the parser
 2025-10-05T04:22:19.329Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: bump the parser
+2025-10-05T05:13:32.290Z Bill Gates <bill.gates@fake.invalid> :: fix readme typo
