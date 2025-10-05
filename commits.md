@@ -1216,3 +1216,4 @@
 2025-10-05T08:19:27.620Z xyfir <MrXyfir@users.noreply.github.com> :: remove the parser
 2025-10-05T09:17:40.941Z Shu Ding <shuding@users.noreply.github.com> :: tweak config defaults
 2025-10-05T09:45:26.610Z Y11 <XiaomingX@users.noreply.github.com> :: refactor error handling
+2025-10-05T09:58:39.857Z Ultralytics <hello@ultralytics.com> :: add edge case in auth
