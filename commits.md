@@ -3578,3 +3578,4 @@
 2025-10-05T14:47:56.276Z @greweb <gre@users.noreply.github.com> :: refactor config defaults
 2025-10-05T15:15:06.164Z Cyb_detective <cipher387@users.noreply.github.com> :: wire up retry logic
 2025-10-05T15:44:36.016Z Ritchie Vink <ritchie46@users.noreply.github.com> :: remove config defaults
+2025-10-05T18:35:50.962Z José Padilla <jpadilla@users.noreply.github.com> :: tweak retry logic
