@@ -4098,3 +4098,4 @@
 2025-10-05T10:12:52.499Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
 2025-10-05T10:55:12.798Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove config defaults
 2025-10-05T11:19:38.731Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update logging
+2025-10-05T12:47:06.920Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove edge case in auth
