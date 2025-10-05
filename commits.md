@@ -1861,3 +1861,4 @@
 2025-10-05T04:04:01.639Z StackBlitz <hello@stackblitz.com> :: wire up error handling
 2025-10-05T04:17:10.215Z Navin Reddy <navinreddy20@users.noreply.github.com> :: bump dependency versions
 2025-10-05T04:36:05.637Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: remove logging
+2025-10-05T06:56:26.903Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add the CI matrix
