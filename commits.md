@@ -3887,3 +3887,4 @@
 2025-10-05T13:30:21.999Z vivid-goblin <vivid-goblin@fake.invalid> :: tweak error handling
 2025-10-05T13:50:47.391Z LazyBadger <lazybadger@fake.invalid> :: update the parser
 2025-10-05T14:18:32.162Z Airen <airen@users.noreply.github.com> :: tweak error handling
+2025-10-05T14:32:41.582Z rusty-moose99 <rusty-moose99@fake.invalid> :: tweak the parser
