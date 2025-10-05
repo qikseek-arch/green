@@ -1225,3 +1225,4 @@
 2025-10-05T17:04:37.994Z Y11 <XiaomingX@users.noreply.github.com> :: add the CI matrix
 2025-10-05T17:08:20.573Z Amazon Web Services - Labs <awslabs@users.noreply.github.com> :: clean up logging
 2025-10-05T18:35:13.343Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: update retry logic
+2025-10-05T18:53:41.705Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update config defaults
