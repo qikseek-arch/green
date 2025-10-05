@@ -4095,3 +4095,4 @@
 2025-10-05T08:36:04.581Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak build script
 2025-10-05T09:51:17.112Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor flaky test
 2025-10-05T10:04:27.721Z Adam Łucek <ALucek@users.noreply.github.com> :: update dead code
+2025-10-05T10:12:52.499Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
