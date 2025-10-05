@@ -1857,3 +1857,4 @@
 2025-10-05T01:50:29.166Z Beau Carnes <beaucarnes@users.noreply.github.com> :: fix config defaults
 2025-10-05T03:17:21.817Z Jonathan <Grafikart@users.noreply.github.com> :: clean up config defaults
 2025-10-05T03:47:29.113Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove the CI matrix
+2025-10-05T03:51:04.009Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: refactor the CI matrix
