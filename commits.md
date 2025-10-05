@@ -3877,3 +3877,4 @@
 2025-10-04T23:49:28.076Z Alex / KATT <KATT@users.noreply.github.com> :: bump flaky test
 2025-10-05T00:07:14.692Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: update the CI matrix
 2025-10-05T01:27:29.001Z zcgonvh <zcgonvh@users.noreply.github.com> :: add dependency versions
+2025-10-05T01:32:36.799Z HollowPanda <hollowpanda@fake.invalid> :: refactor dead code
