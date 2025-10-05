@@ -3884,3 +3884,4 @@
 2025-10-05T07:17:33.047Z wiredotter374 <wiredotter374@fake.invalid> :: update error handling
 2025-10-05T08:29:06.580Z EleutherAI <contact@eleuther.ai> :: update readme typo
 2025-10-05T08:48:31.157Z vividhamster527 <vividhamster527@fake.invalid> :: add config defaults
+2025-10-05T13:30:21.999Z vivid-goblin <vivid-goblin@fake.invalid> :: tweak error handling
