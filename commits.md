@@ -1226,3 +1226,4 @@
 2025-10-05T17:08:20.573Z Amazon Web Services - Labs <awslabs@users.noreply.github.com> :: clean up logging
 2025-10-05T18:35:13.343Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: update retry logic
 2025-10-05T18:53:41.705Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update config defaults
+2025-10-05T19:15:20.353Z Meta Llama <meta-llama@users.noreply.github.com> :: tweak the parser
