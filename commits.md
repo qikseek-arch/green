@@ -1215,3 +1215,4 @@
 2025-10-05T02:12:42.251Z Andrew Kelley <andrewrk@users.noreply.github.com> :: clean up readme typo
 2025-10-05T08:19:27.620Z xyfir <MrXyfir@users.noreply.github.com> :: remove the parser
 2025-10-05T09:17:40.941Z Shu Ding <shuding@users.noreply.github.com> :: tweak config defaults
+2025-10-05T09:45:26.610Z Y11 <XiaomingX@users.noreply.github.com> :: refactor error handling
