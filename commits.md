@@ -4106,3 +4106,4 @@
 2025-10-05T14:24:39.202Z David Clark <nullptrException100@users.noreply.github.com> :: add error handling
 2025-10-05T14:58:15.750Z Taiko Foundation <info@taiko.xyz> :: remove logging
 2025-10-05T16:56:41.950Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update error handling
+2025-10-05T19:34:11.423Z ㅤxander <vampirist@users.noreply.github.com> :: remove build script
