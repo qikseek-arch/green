@@ -4104,3 +4104,4 @@
 2025-10-05T14:10:39.851Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up flaky test
 2025-10-05T14:12:10.183Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove the parser
 2025-10-05T14:24:39.202Z David Clark <nullptrException100@users.noreply.github.com> :: add error handling
+2025-10-05T14:58:15.750Z Taiko Foundation <info@taiko.xyz> :: remove logging
