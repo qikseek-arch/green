@@ -3890,3 +3890,4 @@
 2025-10-05T14:32:41.582Z rusty-moose99 <rusty-moose99@fake.invalid> :: tweak the parser
 2025-10-05T15:42:12.926Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: remove the parser
 2025-10-05T16:59:02.493Z patak <patak-cat@users.noreply.github.com> :: update cache keys
+2025-10-05T17:27:44.671Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: wire up edge case in auth
