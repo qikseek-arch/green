@@ -3564,3 +3564,4 @@
 2025-10-05T03:02:46.559Z Benny Huo <bennyhuo@users.noreply.github.com> :: fix retry logic
 2025-10-05T04:17:31.936Z Xargin <cch123@users.noreply.github.com> :: polish config defaults
 2025-10-05T04:22:55.747Z Benny Huo <bennyhuo@users.noreply.github.com> :: wire up the parser
+2025-10-05T04:50:23.585Z Open Food Facts <contact@openfoodfacts.org> :: polish error handling
