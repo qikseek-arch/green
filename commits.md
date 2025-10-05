@@ -4102,3 +4102,4 @@
 2025-10-05T12:49:46.773Z David Clark <nullptrException100@users.noreply.github.com> :: bump build script
 2025-10-05T13:44:46.738Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish the CI matrix
 2025-10-05T14:10:39.851Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up flaky test
+2025-10-05T14:12:10.183Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove the parser
