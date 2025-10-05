@@ -13795,3 +13795,4 @@
 2025-10-05T18:32:02.987Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: fix cache keys
 2025-10-05T20:05:14.178Z Collabnix <collabnix@users.noreply.github.com> :: wire up flaky test
 2025-10-05T22:41:15.447Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up dependency versions
+2025-10-05T23:12:14.181Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove retry logic
