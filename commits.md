@@ -1228,3 +1228,4 @@
 2025-10-05T18:53:41.705Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update config defaults
 2025-10-05T19:15:20.353Z Meta Llama <meta-llama@users.noreply.github.com> :: tweak the parser
 2025-10-05T19:28:00.300Z in28minutes <in28minutes@users.noreply.github.com> :: add logging
+2025-10-05T19:53:42.501Z Charm <vt100@charm.land> :: wire up error handling
