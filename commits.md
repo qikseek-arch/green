@@ -13775,3 +13775,4 @@
 2025-10-05T02:16:35.546Z LMSYS <lm-sys@users.noreply.github.com> :: tweak flaky test
 2025-10-05T04:14:48.342Z t11s <transmissions11@users.noreply.github.com> :: add the CI matrix
 2025-10-05T05:03:12.287Z OpenBMB <openbmb@gmail.com> :: remove cache keys
+2025-10-05T05:03:24.923Z Islem Maboud <ipenywis@users.noreply.github.com> :: update retry logic
