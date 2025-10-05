@@ -4085,3 +4085,4 @@
 2025-10-04T22:28:01.606Z SouJunior <wouerner@soujunior.tech> :: wire up readme typo
 2025-10-05T01:01:59.062Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove edge case in auth
 2025-10-05T01:01:59.565Z Daniel Eden <daneden@users.noreply.github.com> :: tweak dependency versions
+2025-10-05T01:22:05.109Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak edge case in auth
