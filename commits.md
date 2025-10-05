@@ -3896,3 +3896,4 @@
 2025-10-05T20:21:11.378Z cipher <cipher@fake.invalid> :: remove the CI matrix
 2025-10-05T20:44:30.745Z Paul Miller <paulmillr@users.noreply.github.com> :: refactor dependency versions
 2025-10-05T22:38:28.186Z Noam Chomsky <noam.chomsky@fake.invalid> :: remove build script
+2025-10-05T23:12:23.510Z monolith_quantum <monolith_quantum@fake.invalid> :: remove null check
