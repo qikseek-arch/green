@@ -3567,3 +3567,4 @@
 2025-10-05T04:50:23.585Z Open Food Facts <contact@openfoodfacts.org> :: polish error handling
 2025-10-05T05:29:57.753Z Murtaza Hassan <murtazahassan@users.noreply.github.com> :: wire up dead code
 2025-10-05T06:49:34.692Z @greweb <gre@users.noreply.github.com> :: wire up null check
+2025-10-05T06:51:40.386Z Uknow <uknowsec@users.noreply.github.com> :: clean up the CI matrix
