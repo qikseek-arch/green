@@ -3876,3 +3876,4 @@
 2025-10-04T23:35:43.350Z Noam Chomsky <noam.chomsky@fake.invalid> :: refactor logging
 2025-10-04T23:49:28.076Z Alex / KATT <KATT@users.noreply.github.com> :: bump flaky test
 2025-10-05T00:07:14.692Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: update the CI matrix
+2025-10-05T01:27:29.001Z zcgonvh <zcgonvh@users.noreply.github.com> :: add dependency versions
