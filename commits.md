@@ -1219,3 +1219,4 @@
 2025-10-05T09:58:39.857Z Ultralytics <hello@ultralytics.com> :: add edge case in auth
 2025-10-05T10:31:40.614Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: refactor retry logic
 2025-10-05T14:56:25.154Z Chris Wanstrath <defunkt@users.noreply.github.com> :: polish error handling
+2025-10-05T15:24:34.330Z Denis Pushkarev <zloirock@users.noreply.github.com> :: wire up null check
