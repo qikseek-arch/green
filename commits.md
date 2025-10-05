@@ -13773,3 +13773,4 @@
 2025-10-05T00:21:58.102Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: wire up null check
 2025-10-05T01:08:21.949Z Collabnix <collabnix@users.noreply.github.com> :: tweak logging
 2025-10-05T02:16:35.546Z LMSYS <lm-sys@users.noreply.github.com> :: tweak flaky test
+2025-10-05T04:14:48.342Z t11s <transmissions11@users.noreply.github.com> :: add the CI matrix
