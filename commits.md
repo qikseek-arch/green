@@ -3892,3 +3892,4 @@
 2025-10-05T16:59:02.493Z patak <patak-cat@users.noreply.github.com> :: update cache keys
 2025-10-05T17:27:44.671Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: wire up edge case in auth
 2025-10-05T18:14:46.729Z HollowPanda <hollowpanda@fake.invalid> :: clean up the parser
+2025-10-05T18:25:00.635Z tangjinzhou <tangjinzhou@users.noreply.github.com> :: fix dependency versions
