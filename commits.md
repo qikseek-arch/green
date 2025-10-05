@@ -4089,3 +4089,4 @@
 2025-10-05T01:51:23.878Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix error handling
 2025-10-05T01:57:39.778Z Arduino <arduino@users.noreply.github.com> :: add readme typo
 2025-10-05T02:11:49.605Z Claude <claude@users.noreply.github.com> :: add the parser
+2025-10-05T03:52:12.762Z md-5 <md-5@users.noreply.github.com> :: add readme typo
