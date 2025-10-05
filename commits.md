@@ -1235,3 +1235,4 @@
 2025-10-05T21:39:26.973Z Brent Jackson <jxnblk@users.noreply.github.com> :: update dependency versions
 2025-10-05T22:01:53.984Z Spring <spring-projects@users.noreply.github.com> :: update null check
 2025-10-05T22:47:43.327Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: bump error handling
+2025-10-05T23:40:06.271Z David <blocage@users.noreply.github.com> :: wire up dependency versions
