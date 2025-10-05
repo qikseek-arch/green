@@ -1855,3 +1855,4 @@
 2025-10-04T23:56:40.144Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: polish the parser
 2025-10-05T00:02:09.932Z 开源中国 <oschina@users.noreply.github.com> :: wire up readme typo
 2025-10-05T01:50:29.166Z Beau Carnes <beaucarnes@users.noreply.github.com> :: fix config defaults
+2025-10-05T03:17:21.817Z Jonathan <Grafikart@users.noreply.github.com> :: clean up config defaults
