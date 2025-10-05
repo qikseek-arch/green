@@ -3584,3 +3584,4 @@
 2025-10-05T19:21:26.461Z 今越星礼 <dwqs@users.noreply.github.com> :: polish build script
 2025-10-05T19:55:04.411Z Benny Huo <bennyhuo@users.noreply.github.com> :: clean up readme typo
 2025-10-05T22:07:40.631Z Xargin <cch123@users.noreply.github.com> :: remove dependency versions
+2025-10-05T22:30:03.529Z Ivan Vorobei <ivanvorobei@users.noreply.github.com> :: tweak error handling
