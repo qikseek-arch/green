@@ -13785,3 +13785,4 @@
 2025-10-05T10:09:44.537Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump flaky test
 2025-10-05T10:23:30.009Z John Schulman <joschu@users.noreply.github.com> :: fix cache keys
 2025-10-05T11:08:39.833Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish readme typo
+2025-10-05T12:00:11.771Z John Schulman <joschu@users.noreply.github.com> :: add dependency versions
