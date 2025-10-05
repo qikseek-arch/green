@@ -3563,3 +3563,4 @@
 2025-10-05T01:49:57.132Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: update the parser
 2025-10-05T03:02:46.559Z Benny Huo <bennyhuo@users.noreply.github.com> :: fix retry logic
 2025-10-05T04:17:31.936Z Xargin <cch123@users.noreply.github.com> :: polish config defaults
+2025-10-05T04:22:55.747Z Benny Huo <bennyhuo@users.noreply.github.com> :: wire up the parser
