@@ -1212,3 +1212,4 @@
 2025-10-04T23:21:45.877Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add the CI matrix
 2025-10-05T00:00:54.229Z PaddlePaddle <PaddlePaddle@users.noreply.github.com> :: update logging
 2025-10-05T02:01:40.951Z Termux <contact@termux.dev> :: add dead code
+2025-10-05T02:12:42.251Z Andrew Kelley <andrewrk@users.noreply.github.com> :: clean up readme typo
