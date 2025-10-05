@@ -1853,3 +1853,4 @@
 2025-10-04T22:31:00.996Z Thomas Wolf <thomwolf@users.noreply.github.com> :: remove null check
 2025-10-04T23:36:48.881Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: tweak build script
 2025-10-04T23:56:40.144Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: polish the parser
+2025-10-05T00:02:09.932Z 开源中国 <oschina@users.noreply.github.com> :: wire up readme typo
