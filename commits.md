@@ -3883,3 +3883,4 @@
 2025-10-05T05:13:32.290Z Bill Gates <bill.gates@fake.invalid> :: fix readme typo
 2025-10-05T07:17:33.047Z wiredotter374 <wiredotter374@fake.invalid> :: update error handling
 2025-10-05T08:29:06.580Z EleutherAI <contact@eleuther.ai> :: update readme typo
+2025-10-05T08:48:31.157Z vividhamster527 <vividhamster527@fake.invalid> :: add config defaults
