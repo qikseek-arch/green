@@ -3574,3 +3574,4 @@
 2025-10-05T11:20:49.506Z Alex Holachek <aholachek@users.noreply.github.com> :: remove error handling
 2025-10-05T14:26:46.755Z Simplify Jobs Inc. <support@simplify.jobs> :: remove build script
 2025-10-05T14:34:21.673Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: update null check
+2025-10-05T14:36:06.132Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up error handling
