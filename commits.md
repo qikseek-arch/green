@@ -1865,3 +1865,4 @@
 2025-10-05T07:18:20.111Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: fix error handling
 2025-10-05T09:52:17.463Z Gradio <admin@gradio.app> :: add dead code
 2025-10-05T10:11:42.804Z Tuba Khan <tubakhxn@users.noreply.github.com> :: update edge case in auth
+2025-10-05T11:09:15.224Z 陈继军 <android-cjj@users.noreply.github.com> :: wire up dependency versions
