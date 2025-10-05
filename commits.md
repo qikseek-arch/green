@@ -4092,3 +4092,4 @@
 2025-10-05T03:52:12.762Z md-5 <md-5@users.noreply.github.com> :: add readme typo
 2025-10-05T05:34:08.027Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak retry logic
 2025-10-05T07:25:28.877Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove dependency versions
+2025-10-05T08:36:04.581Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak build script
