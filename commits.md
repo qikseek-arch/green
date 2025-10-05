@@ -4096,3 +4096,4 @@
 2025-10-05T09:51:17.112Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor flaky test
 2025-10-05T10:04:27.721Z Adam Łucek <ALucek@users.noreply.github.com> :: update dead code
 2025-10-05T10:12:52.499Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
+2025-10-05T10:55:12.798Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove config defaults
