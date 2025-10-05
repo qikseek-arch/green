@@ -3561,3 +3561,4 @@
 2025-10-04T23:38:10.542Z Andrea Leopardi <whatyouhide@users.noreply.github.com> :: tweak dependency versions
 2025-10-05T00:25:41.958Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: tweak retry logic
 2025-10-05T01:49:57.132Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: update the parser
+2025-10-05T03:02:46.559Z Benny Huo <bennyhuo@users.noreply.github.com> :: fix retry logic
