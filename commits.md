@@ -1875,3 +1875,4 @@
 2025-10-05T23:44:27.547Z z3r0yu <zer0yu@users.noreply.github.com> :: add readme typo
 2025-10-06T00:03:07.368Z LN <ln-dev7@users.noreply.github.com> :: remove error handling
 2025-10-06T00:38:16.871Z StackBlitz <hello@stackblitz.com> :: update edge case in auth
+2025-10-06T00:48:24.758Z nf <nf@users.noreply.github.com> :: wire up config defaults
