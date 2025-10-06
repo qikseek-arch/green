@@ -1267,3 +1267,4 @@
 2025-10-06T15:56:06.686Z HashLips <HashLips@users.noreply.github.com> :: remove the parser
 2025-10-06T16:14:27.142Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: fix readme typo
 2025-10-06T16:35:01.392Z Daniel Lemire <lemire@users.noreply.github.com> :: bump error handling
+2025-10-06T18:26:26.312Z LinuxServer.io <linuxserver@users.noreply.github.com> :: refactor dependency versions
