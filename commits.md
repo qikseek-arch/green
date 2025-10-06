@@ -4142,3 +4142,4 @@
 2025-10-06T21:06:51.051Z qiye <qiyeboy@users.noreply.github.com> :: bump readme typo
 2025-10-06T21:47:35.936Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak config defaults
 2025-10-06T21:57:16.566Z AI4Bhārat <opensource@ai4bharat.org> :: update the parser
+2025-10-06T23:04:24.804Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove readme typo
