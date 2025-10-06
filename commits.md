@@ -13818,3 +13818,4 @@
 2025-10-06T18:08:15.033Z Petar Veličković <PetarV-@users.noreply.github.com> :: bump error handling
 2025-10-06T19:02:59.091Z Asif Taj <axiftaj@users.noreply.github.com> :: refactor flaky test
 2025-10-06T19:31:25.451Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
+2025-10-06T19:54:20.318Z Tom Dale <tomdale@users.noreply.github.com> :: remove edge case in auth
