@@ -13827,3 +13827,4 @@
 2025-10-06T20:57:05.833Z Petar Veličković <PetarV-@users.noreply.github.com> :: update config defaults
 2025-10-06T21:26:46.490Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up null check
 2025-10-06T21:56:27.132Z Henry <hzoo@users.noreply.github.com> :: clean up error handling
+2025-10-06T22:03:25.247Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up null check
