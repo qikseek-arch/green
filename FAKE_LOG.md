@@ -499,3 +499,4 @@
 2026-09-11T00:44:48.607Z Robert C. Martin <robert.c.martin@fake.invalid> :: remove logging
 2026-09-26T02:53:14.937Z arcane-cometxx <arcane-cometxx@fake.invalid> :: wire up error handling
 2025-09-30T20:35:14.252Z dan <gaearon@users.noreply.github.com> :: remove retry logic
+2025-10-06T18:08:42.873Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: wire up build script
