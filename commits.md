@@ -4137,3 +4137,4 @@
 2025-10-06T17:50:41.315Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish config defaults
 2025-10-06T18:17:34.287Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up cache keys
 2025-10-06T19:09:59.059Z First Contributions <firstcontributions@gmail.com> :: fix cache keys
+2025-10-06T19:26:33.589Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak the parser
