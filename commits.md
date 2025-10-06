@@ -1237,3 +1237,4 @@
 2025-10-05T22:47:43.327Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: bump error handling
 2025-10-05T23:40:06.271Z David <blocage@users.noreply.github.com> :: wire up dependency versions
 2025-10-05T23:59:41.080Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: fix error handling
+2025-10-06T00:49:31.167Z Mistral AI <contact@mistral.ai> :: fix logging
