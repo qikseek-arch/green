@@ -1255,3 +1255,4 @@
 2025-10-06T09:06:48.652Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: refactor readme typo
 2025-10-06T09:36:39.301Z David <blocage@users.noreply.github.com> :: fix error handling
 2025-10-06T09:58:19.982Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: remove error handling
+2025-10-06T11:11:06.313Z Alura Cursos Online <contato@alura.com.br> :: add config defaults
