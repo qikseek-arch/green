@@ -1243,3 +1243,4 @@
 2025-10-06T01:32:38.332Z Javidx9 <OneLoneCoder@users.noreply.github.com> :: tweak null check
 2025-10-06T01:35:03.028Z David <blocage@users.noreply.github.com> :: fix retry logic
 2025-10-06T02:57:02.731Z Denis Pushkarev <zloirock@users.noreply.github.com> :: wire up the CI matrix
+2025-10-06T03:14:36.690Z Termux <contact@termux.dev> :: clean up config defaults
