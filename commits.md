@@ -13825,3 +13825,4 @@
 2025-10-06T20:34:17.043Z Alex Teichman <teichman@users.noreply.github.com> :: clean up logging
 2025-10-06T20:37:03.786Z Cezanne Camacho <cezannec@users.noreply.github.com> :: wire up edge case in auth
 2025-10-06T20:57:05.833Z Petar Veličković <PetarV-@users.noreply.github.com> :: update config defaults
+2025-10-06T21:26:46.490Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up null check
