@@ -3914,3 +3914,4 @@
 2025-10-06T14:08:55.054Z zcgonvh <zcgonvh@users.noreply.github.com> :: polish dead code
 2025-10-06T17:26:31.147Z HollowPanda <hollowpanda@fake.invalid> :: bump config defaults
 2025-10-06T17:30:32.123Z yak_silly_dev <yak_silly_dev@fake.invalid> :: clean up readme typo
+2025-10-06T17:36:45.047Z arcane-muffin <arcane-muffin@fake.invalid> :: clean up cache keys
