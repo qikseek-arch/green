@@ -3587,3 +3587,4 @@
 2025-10-05T22:30:03.529Z Ivan Vorobei <ivanvorobei@users.noreply.github.com> :: tweak error handling
 2025-10-05T22:44:59.020Z Brandon Estrella <onamfc@users.noreply.github.com> :: bump readme typo
 2025-10-05T23:52:32.122Z Sebastian Raschka <rasbt@users.noreply.github.com> :: wire up edge case in auth
+2025-10-06T01:40:22.415Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: update error handling
