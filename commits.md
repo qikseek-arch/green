@@ -1265,3 +1265,4 @@
 2025-10-06T15:35:08.317Z S4IL <S4IL21@users.noreply.github.com> :: refactor build script
 2025-10-06T15:50:50.579Z Alura Cursos Online <contato@alura.com.br> :: polish null check
 2025-10-06T15:56:06.686Z HashLips <HashLips@users.noreply.github.com> :: remove the parser
+2025-10-06T16:14:27.142Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: fix readme typo
