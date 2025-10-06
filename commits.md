@@ -12,3 +12,4 @@
 2025-10-05T00:15:08.654Z Holtz Yan <holtzy@users.noreply.github.com> :: wire up dead code
 2025-10-05T15:52:51.037Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: update retry logic
 2025-10-06T03:58:04.029Z Shaian <zshaian@users.noreply.github.com> :: clean up logging
+2025-10-06T11:16:27.943Z Sasha Rush <srush@users.noreply.github.com> :: remove readme typo
