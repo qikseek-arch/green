@@ -3617,3 +3617,4 @@
 2025-10-06T20:20:31.158Z Riley Testut <rileytestut@users.noreply.github.com> :: remove edge case in auth
 2025-10-06T22:31:07.564Z Sebastian Raschka <rasbt@users.noreply.github.com> :: remove edge case in auth
 2025-10-06T22:36:24.888Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: fix retry logic
+2025-10-06T22:38:03.354Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: remove the CI matrix
