@@ -4132,3 +4132,4 @@
 2025-10-06T14:35:09.219Z qiye <qiyeboy@users.noreply.github.com> :: tweak dependency versions
 2025-10-06T15:29:06.077Z Getgems <getgems-io@users.noreply.github.com> :: polish the parser
 2025-10-06T15:51:57.296Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove logging
+2025-10-06T16:33:16.496Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix config defaults
