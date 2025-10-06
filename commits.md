@@ -3901,3 +3901,4 @@
 2025-10-06T00:11:15.521Z cipher <cipher@fake.invalid> :: tweak the parser
 2025-10-06T00:45:40.301Z Airen <airen@users.noreply.github.com> :: bump dependency versions
 2025-10-06T01:38:23.931Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: tweak edge case in auth
+2025-10-06T02:01:12.668Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: add cache keys
