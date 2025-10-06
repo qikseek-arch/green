@@ -3918,3 +3918,4 @@
 2025-10-06T18:28:50.681Z hollow-hamsterhq <hollow-hamsterhq@fake.invalid> :: remove null check
 2025-10-06T19:58:33.719Z mimic <mimic@fake.invalid> :: remove the CI matrix
 2025-10-06T20:12:18.511Z cipher <cipher@fake.invalid> :: polish build script
+2025-10-06T21:03:09.044Z Matt Holt <mholt@users.noreply.github.com> :: fix dead code
