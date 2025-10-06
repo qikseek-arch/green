@@ -1882,3 +1882,4 @@
 2025-10-06T03:16:32.143Z José Valim <josevalim@users.noreply.github.com> :: bump dead code
 2025-10-06T06:59:04.803Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove readme typo
 2025-10-06T07:23:28.221Z 卡颂 <BetaSu@users.noreply.github.com> :: clean up the CI matrix
+2025-10-06T07:57:23.624Z Paul Deitel <pdeitel@users.noreply.github.com> :: fix the CI matrix
