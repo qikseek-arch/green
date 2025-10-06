@@ -1273,3 +1273,4 @@
 2025-10-06T19:42:25.242Z Felix Angelov <felangel@users.noreply.github.com> :: fix edge case in auth
 2025-10-06T20:24:42.458Z xiaolai <xiaolai@users.noreply.github.com> :: polish dead code
 2025-10-06T22:18:51.232Z 甬哥侃侃侃ygkkk <yonggekkk@users.noreply.github.com> :: clean up config defaults
+2025-10-06T22:20:40.813Z LinuxServer.io <linuxserver@users.noreply.github.com> :: add edge case in auth
