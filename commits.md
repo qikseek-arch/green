@@ -3906,3 +3906,4 @@
 2025-10-06T04:04:36.702Z Noam Chomsky <noam.chomsky@fake.invalid> :: add readme typo
 2025-10-06T04:23:08.592Z Solomon Hykes <solomon.hykes@fake.invalid> :: tweak retry logic
 2025-10-06T05:01:14.261Z cipher <cipher@fake.invalid> :: bump build script
+2025-10-06T07:36:33.072Z Noam Chomsky <noam.chomsky@fake.invalid> :: wire up logging
