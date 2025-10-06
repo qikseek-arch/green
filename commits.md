@@ -1271,3 +1271,4 @@
 2025-10-06T18:46:17.503Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: refactor build script
 2025-10-06T19:26:01.116Z Arduino <arduino@users.noreply.github.com> :: add logging
 2025-10-06T19:42:25.242Z Felix Angelov <felangel@users.noreply.github.com> :: fix edge case in auth
+2025-10-06T20:24:42.458Z xiaolai <xiaolai@users.noreply.github.com> :: polish dead code
