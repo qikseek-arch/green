@@ -3598,3 +3598,4 @@
 2025-10-06T09:52:10.638Z Simplify Jobs Inc. <support@simplify.jobs> :: bump null check
 2025-10-06T10:01:31.592Z Faculdade Descomplica <FaculdadeDescomplica@users.noreply.github.com> :: update the CI matrix
 2025-10-06T10:08:30.472Z Lexi Mattick <kognise@users.noreply.github.com> :: clean up retry logic
+2025-10-06T10:40:35.026Z @greweb <gre@users.noreply.github.com> :: add null check
