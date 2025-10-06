@@ -3613,3 +3613,4 @@
 2025-10-06T18:14:08.254Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up retry logic
 2025-10-06T18:19:21.824Z Libing Chen <linux-china@users.noreply.github.com> :: update build script
 2025-10-06T19:50:01.013Z Open Food Facts <contact@openfoodfacts.org> :: tweak dependency versions
+2025-10-06T19:52:20.590Z Murtaza Hassan <murtazahassan@users.noreply.github.com> :: polish dead code
