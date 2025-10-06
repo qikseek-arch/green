@@ -3912,3 +3912,4 @@
 2025-10-06T11:44:18.931Z Marie Curie <marie.curie@fake.invalid> :: update the CI matrix
 2025-10-06T13:31:49.740Z vivid-goblin <vivid-goblin@fake.invalid> :: clean up readme typo
 2025-10-06T14:08:55.054Z zcgonvh <zcgonvh@users.noreply.github.com> :: polish dead code
+2025-10-06T17:26:31.147Z HollowPanda <hollowpanda@fake.invalid> :: bump config defaults
