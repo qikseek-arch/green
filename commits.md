@@ -13806,3 +13806,4 @@
 2025-10-06T06:18:39.434Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
 2025-10-06T06:51:12.381Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish dependency versions
 2025-10-06T08:16:09.660Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor dependency versions
+2025-10-06T09:30:21.849Z OpenBMB <openbmb@gmail.com> :: clean up edge case in auth
