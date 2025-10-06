@@ -13808,3 +13808,4 @@
 2025-10-06T08:16:09.660Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor dependency versions
 2025-10-06T09:30:21.849Z OpenBMB <openbmb@gmail.com> :: clean up edge case in auth
 2025-10-06T09:42:10.215Z cytopia <cytopia@users.noreply.github.com> :: refactor the parser
+2025-10-06T12:07:59.614Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump error handling
