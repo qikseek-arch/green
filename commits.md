@@ -13819,3 +13819,4 @@
 2025-10-06T19:02:59.091Z Asif Taj <axiftaj@users.noreply.github.com> :: refactor flaky test
 2025-10-06T19:31:25.451Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
 2025-10-06T19:54:20.318Z Tom Dale <tomdale@users.noreply.github.com> :: remove edge case in auth
+2025-10-06T20:05:02.385Z Tom Dale <tomdale@users.noreply.github.com> :: clean up null check
