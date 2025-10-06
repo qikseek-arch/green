@@ -3600,3 +3600,4 @@
 2025-10-06T10:08:30.472Z Lexi Mattick <kognise@users.noreply.github.com> :: clean up retry logic
 2025-10-06T10:40:35.026Z @greweb <gre@users.noreply.github.com> :: add null check
 2025-10-06T10:41:54.539Z Saleem Abdulrasool <compnerd@users.noreply.github.com> :: update error handling
+2025-10-06T11:09:38.169Z Brian Anderson <brson@users.noreply.github.com> :: update the CI matrix
