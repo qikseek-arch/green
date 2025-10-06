@@ -1902,3 +1902,4 @@
 2025-10-06T21:49:50.657Z OpenShift <openshift@users.noreply.github.com> :: clean up config defaults
 2025-10-06T22:51:04.525Z Lei Mao <leimao@users.noreply.github.com> :: add cache keys
 2025-10-06T23:23:15.758Z LN <ln-dev7@users.noreply.github.com> :: bump dependency versions
+2025-10-06T23:37:27.027Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: wire up config defaults
