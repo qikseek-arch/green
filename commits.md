@@ -1878,3 +1878,4 @@
 2025-10-06T00:48:24.758Z nf <nf@users.noreply.github.com> :: wire up config defaults
 2025-10-06T00:48:51.530Z 开源中国 <oschina@users.noreply.github.com> :: polish retry logic
 2025-10-06T01:24:38.533Z codefollower <codefollower@users.noreply.github.com> :: update dependency versions
+2025-10-06T02:33:41.076Z Philip Walton <philipwalton@users.noreply.github.com> :: add readme typo
