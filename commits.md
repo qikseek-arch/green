@@ -1253,3 +1253,4 @@
 2025-10-06T07:57:45.846Z Paul Irish <paulirish@users.noreply.github.com> :: remove build script
 2025-10-06T08:08:48.731Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: add cache keys
 2025-10-06T09:06:48.652Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: refactor readme typo
+2025-10-06T09:36:39.301Z David <blocage@users.noreply.github.com> :: fix error handling
