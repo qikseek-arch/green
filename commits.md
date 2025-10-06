@@ -13810,3 +13810,4 @@
 2025-10-06T09:42:10.215Z cytopia <cytopia@users.noreply.github.com> :: refactor the parser
 2025-10-06T12:07:59.614Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump error handling
 2025-10-06T13:27:29.829Z John Schulman <joschu@users.noreply.github.com> :: update retry logic
+2025-10-06T13:53:38.660Z Brian Holt <btholt@users.noreply.github.com> :: polish null check
