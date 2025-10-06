@@ -3902,3 +3902,4 @@
 2025-10-06T00:45:40.301Z Airen <airen@users.noreply.github.com> :: bump dependency versions
 2025-10-06T01:38:23.931Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: tweak edge case in auth
 2025-10-06T02:01:12.668Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: add cache keys
+2025-10-06T03:59:55.998Z Leifer Mendez <leifermendez@users.noreply.github.com> :: refactor config defaults
