@@ -1239,3 +1239,4 @@
 2025-10-05T23:59:41.080Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: fix error handling
 2025-10-06T00:49:31.167Z Mistral AI <contact@mistral.ai> :: fix logging
 2025-10-06T00:51:04.293Z HashLips <HashLips@users.noreply.github.com> :: update logging
+2025-10-06T01:02:37.668Z Vishwas <gopinav@users.noreply.github.com> :: refactor edge case in auth
