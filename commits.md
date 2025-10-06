@@ -3592,3 +3592,4 @@
 2025-10-06T03:51:21.453Z Otávio Miranda <luizomf@users.noreply.github.com> :: remove logging
 2025-10-06T05:09:56.695Z TiffinTech <TiffinTech@users.noreply.github.com> :: refactor config defaults
 2025-10-06T06:14:30.428Z Uknow <uknowsec@users.noreply.github.com> :: fix null check
+2025-10-06T06:36:17.620Z @greweb <gre@users.noreply.github.com> :: remove config defaults
