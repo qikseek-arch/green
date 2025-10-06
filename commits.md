@@ -1246,3 +1246,4 @@
 2025-10-06T03:14:36.690Z Termux <contact@termux.dev> :: clean up config defaults
 2025-10-06T05:10:43.637Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: fix build script
 2025-10-06T05:56:25.842Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: wire up the parser
+2025-10-06T06:49:04.048Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: polish dependency versions
