@@ -3611,3 +3611,4 @@
 2025-10-06T16:41:41.067Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: tweak logging
 2025-10-06T16:55:37.840Z LinkedIn Learning <LinkedInLearning@users.noreply.github.com> :: fix edge case in auth
 2025-10-06T18:14:08.254Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up retry logic
+2025-10-06T18:19:21.824Z Libing Chen <linux-china@users.noreply.github.com> :: update build script
