@@ -13828,3 +13828,4 @@
 2025-10-06T21:26:46.490Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up null check
 2025-10-06T21:56:27.132Z Henry <hzoo@users.noreply.github.com> :: clean up error handling
 2025-10-06T22:03:25.247Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up null check
+2025-10-06T23:15:00.575Z Alex Teichman <teichman@users.noreply.github.com> :: clean up the CI matrix
