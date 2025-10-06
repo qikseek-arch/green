@@ -13826,3 +13826,4 @@
 2025-10-06T20:37:03.786Z Cezanne Camacho <cezannec@users.noreply.github.com> :: wire up edge case in auth
 2025-10-06T20:57:05.833Z Petar Veličković <PetarV-@users.noreply.github.com> :: update config defaults
 2025-10-06T21:26:46.490Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up null check
+2025-10-06T21:56:27.132Z Henry <hzoo@users.noreply.github.com> :: clean up error handling
