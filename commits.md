@@ -3616,3 +3616,4 @@
 2025-10-06T19:52:20.590Z Murtaza Hassan <murtazahassan@users.noreply.github.com> :: polish dead code
 2025-10-06T20:20:31.158Z Riley Testut <rileytestut@users.noreply.github.com> :: remove edge case in auth
 2025-10-06T22:31:07.564Z Sebastian Raschka <rasbt@users.noreply.github.com> :: remove edge case in auth
+2025-10-06T22:36:24.888Z ABDERRAHMANE LAOURF <abderrahmane-laourf@users.noreply.github.com> :: fix retry logic
