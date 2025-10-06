@@ -1262,3 +1262,4 @@
 2025-10-06T14:00:37.278Z Ultralytics <hello@ultralytics.com> :: remove the CI matrix
 2025-10-06T14:40:06.099Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add flaky test
 2025-10-06T15:03:09.172Z Simon Willison <simonw@users.noreply.github.com> :: remove error handling
+2025-10-06T15:35:08.317Z S4IL <S4IL21@users.noreply.github.com> :: refactor build script
