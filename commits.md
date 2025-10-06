@@ -4134,3 +4134,4 @@
 2025-10-06T15:51:57.296Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove logging
 2025-10-06T16:33:16.496Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix config defaults
 2025-10-06T16:36:42.648Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up build script
+2025-10-06T17:50:41.315Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish config defaults
