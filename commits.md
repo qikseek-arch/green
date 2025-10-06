@@ -4117,3 +4117,4 @@
 2025-10-06T01:15:44.242Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump the parser
 2025-10-06T03:36:14.534Z Aurélien Geron <ageron@users.noreply.github.com> :: remove build script
 2025-10-06T04:16:01.256Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update the parser
+2025-10-06T05:50:11.410Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove null check
