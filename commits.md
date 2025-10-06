@@ -1883,3 +1883,4 @@
 2025-10-06T06:59:04.803Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove readme typo
 2025-10-06T07:23:28.221Z 卡颂 <BetaSu@users.noreply.github.com> :: clean up the CI matrix
 2025-10-06T07:57:23.624Z Paul Deitel <pdeitel@users.noreply.github.com> :: fix the CI matrix
+2025-10-06T09:01:46.098Z Vivid Network <vivid.network@outlook.com> :: fix dependency versions
