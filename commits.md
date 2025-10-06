@@ -4135,3 +4135,4 @@
 2025-10-06T16:33:16.496Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix config defaults
 2025-10-06T16:36:42.648Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up build script
 2025-10-06T17:50:41.315Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish config defaults
+2025-10-06T18:17:34.287Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up cache keys
