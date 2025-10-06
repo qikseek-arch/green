@@ -1245,3 +1245,4 @@
 2025-10-06T02:57:02.731Z Denis Pushkarev <zloirock@users.noreply.github.com> :: wire up the CI matrix
 2025-10-06T03:14:36.690Z Termux <contact@termux.dev> :: clean up config defaults
 2025-10-06T05:10:43.637Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: fix build script
+2025-10-06T05:56:25.842Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: wire up the parser
