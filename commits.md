@@ -3590,3 +3590,4 @@
 2025-10-06T01:40:22.415Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: update error handling
 2025-10-06T02:38:52.602Z Sunil BK <sunil9813@users.noreply.github.com> :: refactor logging
 2025-10-06T03:51:21.453Z Otávio Miranda <luizomf@users.noreply.github.com> :: remove logging
+2025-10-06T05:09:56.695Z TiffinTech <TiffinTech@users.noreply.github.com> :: refactor config defaults
