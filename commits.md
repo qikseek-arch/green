@@ -1900,3 +1900,4 @@
 2025-10-06T19:48:48.075Z farza <farzaa@users.noreply.github.com> :: update logging
 2025-10-06T20:40:01.979Z Blue <blueedgetechno@users.noreply.github.com> :: bump error handling
 2025-10-06T21:49:50.657Z OpenShift <openshift@users.noreply.github.com> :: clean up config defaults
+2025-10-06T22:51:04.525Z Lei Mao <leimao@users.noreply.github.com> :: add cache keys
