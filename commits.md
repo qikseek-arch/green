@@ -3917,3 +3917,4 @@
 2025-10-06T17:36:45.047Z arcane-muffin <arcane-muffin@fake.invalid> :: clean up cache keys
 2025-10-06T18:28:50.681Z hollow-hamsterhq <hollow-hamsterhq@fake.invalid> :: remove null check
 2025-10-06T19:58:33.719Z mimic <mimic@fake.invalid> :: remove the CI matrix
+2025-10-06T20:12:18.511Z cipher <cipher@fake.invalid> :: polish build script
