@@ -1261,3 +1261,4 @@
 2025-10-06T13:23:48.739Z xyfir <MrXyfir@users.noreply.github.com> :: fix the parser
 2025-10-06T14:00:37.278Z Ultralytics <hello@ultralytics.com> :: remove the CI matrix
 2025-10-06T14:40:06.099Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add flaky test
+2025-10-06T15:03:09.172Z Simon Willison <simonw@users.noreply.github.com> :: remove error handling
