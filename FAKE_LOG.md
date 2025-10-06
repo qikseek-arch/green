@@ -602,3 +602,4 @@
 2025-10-03T05:00:30.768Z Unicity Labs <info@unicity-labs.com> :: polish readme typo
 2025-10-04T04:47:22.241Z Mu Li <mli@users.noreply.github.com> :: remove readme typo
 2025-10-05T08:12:54.476Z Peter Steinberger <steipete@users.noreply.github.com> :: update dependency versions
+2025-10-06T08:01:31.696Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: refactor null check
