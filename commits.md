@@ -3903,3 +3903,4 @@
 2025-10-06T01:38:23.931Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: tweak edge case in auth
 2025-10-06T02:01:12.668Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: add cache keys
 2025-10-06T03:59:55.998Z Leifer Mendez <leifermendez@users.noreply.github.com> :: refactor config defaults
+2025-10-06T04:04:36.702Z Noam Chomsky <noam.chomsky@fake.invalid> :: add readme typo
