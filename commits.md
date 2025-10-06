@@ -1899,3 +1899,4 @@
 2025-10-06T19:15:55.606Z 郭飞 <guofei9987@users.noreply.github.com> :: add dead code
 2025-10-06T19:48:48.075Z farza <farzaa@users.noreply.github.com> :: update logging
 2025-10-06T20:40:01.979Z Blue <blueedgetechno@users.noreply.github.com> :: bump error handling
+2025-10-06T21:49:50.657Z OpenShift <openshift@users.noreply.github.com> :: clean up config defaults
