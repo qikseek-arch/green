@@ -13804,3 +13804,4 @@
 2025-10-06T05:57:42.568Z 千古壹号 <qianguyihao@users.noreply.github.com> :: add dependency versions
 2025-10-06T06:00:30.799Z winterbe <winterbe@users.noreply.github.com> :: tweak the parser
 2025-10-06T06:18:39.434Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
+2025-10-06T06:51:12.381Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish dependency versions
