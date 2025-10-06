@@ -13817,3 +13817,4 @@
 2025-10-06T17:31:27.922Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix error handling
 2025-10-06T18:08:15.033Z Petar Veličković <PetarV-@users.noreply.github.com> :: bump error handling
 2025-10-06T19:02:59.091Z Asif Taj <axiftaj@users.noreply.github.com> :: refactor flaky test
+2025-10-06T19:31:25.451Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
