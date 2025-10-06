@@ -3908,3 +3908,4 @@
 2025-10-06T05:01:14.261Z cipher <cipher@fake.invalid> :: bump build script
 2025-10-06T07:36:33.072Z Noam Chomsky <noam.chomsky@fake.invalid> :: wire up logging
 2025-10-06T07:47:31.241Z Moved to stoatchat (formerly Revolt) <contact@revolt.chat> :: polish error handling
+2025-10-06T11:14:52.288Z Tom Dörr <tom-doerr@users.noreply.github.com> :: remove the parser
