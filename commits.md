@@ -1259,3 +1259,4 @@
 2025-10-06T11:24:01.208Z Y11 <XiaomingX@users.noreply.github.com> :: clean up build script
 2025-10-06T12:47:06.591Z Home Assistant <hello@home-assistant.io> :: polish retry logic
 2025-10-06T13:23:48.739Z xyfir <MrXyfir@users.noreply.github.com> :: fix the parser
+2025-10-06T14:00:37.278Z Ultralytics <hello@ultralytics.com> :: remove the CI matrix
