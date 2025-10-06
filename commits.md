@@ -1886,3 +1886,4 @@
 2025-10-06T09:01:46.098Z Vivid Network <vivid.network@outlook.com> :: fix dependency versions
 2025-10-06T09:18:44.813Z jist <george0st@users.noreply.github.com> :: tweak the parser
 2025-10-06T10:01:06.197Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: tweak flaky test
+2025-10-06T10:37:34.720Z Lei Mao <leimao@users.noreply.github.com> :: wire up the CI matrix
