@@ -1873,3 +1873,4 @@
 2025-10-05T17:32:02.182Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: wire up flaky test
 2025-10-05T20:16:16.435Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: clean up the parser
 2025-10-05T23:44:27.547Z z3r0yu <zer0yu@users.noreply.github.com> :: add readme typo
+2025-10-06T00:03:07.368Z LN <ln-dev7@users.noreply.github.com> :: remove error handling
