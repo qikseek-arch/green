@@ -500,3 +500,4 @@
 2026-09-26T02:53:14.937Z arcane-cometxx <arcane-cometxx@fake.invalid> :: wire up error handling
 2025-09-30T20:35:14.252Z dan <gaearon@users.noreply.github.com> :: remove retry logic
 2025-10-06T18:08:42.873Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: wire up build script
+2025-10-07T18:25:46.916Z Diego Fernandes <diego3g@users.noreply.github.com> :: add readme typo
