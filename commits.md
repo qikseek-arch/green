@@ -3923,3 +3923,4 @@
 2025-10-07T00:08:56.654Z rusty-moose99 <rusty-moose99@fake.invalid> :: add the CI matrix
 2025-10-07T00:13:24.200Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: update dependency versions
 2025-10-07T03:44:05.528Z Leifer Mendez <leifermendez@users.noreply.github.com> :: wire up dependency versions
+2025-10-07T04:08:10.381Z mimic <mimic@fake.invalid> :: wire up edge case in auth
