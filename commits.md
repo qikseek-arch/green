@@ -3647,3 +3647,4 @@
 2025-10-07T15:30:11.369Z Cyb_detective <cipher387@users.noreply.github.com> :: remove the parser
 2025-10-07T16:19:15.237Z Shahriar Kabir <shahriar0999@users.noreply.github.com> :: clean up config defaults
 2025-10-07T16:26:14.101Z Faculdade Descomplica <FaculdadeDescomplica@users.noreply.github.com> :: wire up edge case in auth
+2025-10-07T17:57:45.626Z Asbjørn Thirslund <ATBrackeys@users.noreply.github.com> :: tweak logging
