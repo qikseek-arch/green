@@ -1928,3 +1928,4 @@
 2025-10-07T15:07:43.660Z Diu <ddiu8081@users.noreply.github.com> :: add the CI matrix
 2025-10-07T16:00:25.941Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: add cache keys
 2025-10-07T16:47:01.304Z ElevenLabs <developers@elevenlabs.io> :: update retry logic
+2025-10-07T17:56:49.733Z jist <george0st@users.noreply.github.com> :: update dependency versions
