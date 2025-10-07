@@ -1920,3 +1920,4 @@
 2025-10-07T07:36:52.508Z Nik Graf <nikgraf@users.noreply.github.com> :: bump readme typo
 2025-10-07T08:33:29.441Z 郭飞 <guofei9987@users.noreply.github.com> :: add readme typo
 2025-10-07T08:36:40.170Z 开源中国 <oschina@users.noreply.github.com> :: bump flaky test
+2025-10-07T08:59:28.162Z StackBlitz <hello@stackblitz.com> :: update the CI matrix
