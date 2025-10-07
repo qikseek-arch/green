@@ -4147,3 +4147,4 @@
 2025-10-07T02:12:07.501Z Taiko Foundation <info@taiko.xyz> :: wire up edge case in auth
 2025-10-07T06:21:04.421Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove error handling
 2025-10-07T07:31:38.593Z Adam Łucek <ALucek@users.noreply.github.com> :: remove cache keys
+2025-10-07T08:43:28.214Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove retry logic
