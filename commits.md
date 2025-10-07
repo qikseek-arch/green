@@ -3639,3 +3639,4 @@
 2025-10-07T08:20:52.720Z Sunil BK <sunil9813@users.noreply.github.com> :: clean up dependency versions
 2025-10-07T09:26:27.694Z Xargin <cch123@users.noreply.github.com> :: refactor flaky test
 2025-10-07T10:25:40.762Z Michele Bertoli <MicheleBertoli@users.noreply.github.com> :: polish build script
+2025-10-07T11:42:39.379Z José Padilla <jpadilla@users.noreply.github.com> :: fix the CI matrix
