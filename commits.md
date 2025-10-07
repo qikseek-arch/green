@@ -1918,3 +1918,4 @@
 2025-10-07T07:31:01.410Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update error handling
 2025-10-07T07:34:41.689Z Geer Sun <sungeer@users.noreply.github.com> :: update the CI matrix
 2025-10-07T07:36:52.508Z Nik Graf <nikgraf@users.noreply.github.com> :: bump readme typo
+2025-10-07T08:33:29.441Z 郭飞 <guofei9987@users.noreply.github.com> :: add readme typo
