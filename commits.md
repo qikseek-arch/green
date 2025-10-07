@@ -3642,3 +3642,4 @@
 2025-10-07T11:42:39.379Z José Padilla <jpadilla@users.noreply.github.com> :: fix the CI matrix
 2025-10-07T13:24:38.304Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: add error handling
 2025-10-07T13:29:24.441Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: clean up cache keys
+2025-10-07T14:07:21.281Z Cyb_detective <cipher387@users.noreply.github.com> :: remove dependency versions
