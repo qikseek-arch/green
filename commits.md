@@ -4163,3 +4163,4 @@
 2025-10-07T20:31:38.606Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor build script
 2025-10-07T21:40:35.722Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add null check
 2025-10-07T22:01:31.759Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor cache keys
+2025-10-07T22:26:59.818Z Sachin Soni <techiesms@users.noreply.github.com> :: polish error handling
