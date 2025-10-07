@@ -3629,3 +3629,4 @@
 2025-10-07T03:34:20.777Z José Padilla <jpadilla@users.noreply.github.com> :: refactor readme typo
 2025-10-07T04:13:56.269Z Shuichi Tsutsumi <shu223@users.noreply.github.com> :: refactor error handling
 2025-10-07T04:26:43.521Z QuarkusIO <quarkusio@users.noreply.github.com> :: bump the CI matrix
+2025-10-07T04:35:11.759Z Open Food Facts <contact@openfoodfacts.org> :: wire up build script
