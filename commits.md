@@ -16,3 +16,4 @@
 2025-10-06T14:24:18.200Z Chad Sharp <cmlsharp@users.noreply.github.com> :: bump edge case in auth
 2025-10-06T16:31:30.578Z FastAPI <fastapi@users.noreply.github.com> :: wire up build script
 2025-10-07T02:09:58.969Z Ce Gao <gaocegege@users.noreply.github.com> :: fix error handling
+2025-10-07T06:15:34.901Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: fix the CI matrix
