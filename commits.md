@@ -1930,3 +1930,4 @@
 2025-10-07T16:47:01.304Z ElevenLabs <developers@elevenlabs.io> :: update retry logic
 2025-10-07T17:56:49.733Z jist <george0st@users.noreply.github.com> :: update dependency versions
 2025-10-07T20:04:59.109Z Philip Walton <philipwalton@users.noreply.github.com> :: update logging
+2025-10-07T20:27:53.821Z Lei Mao <leimao@users.noreply.github.com> :: wire up dependency versions
