@@ -4161,3 +4161,4 @@
 2025-10-07T18:56:53.188Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: refactor the parser
 2025-10-07T19:07:43.585Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add build script
 2025-10-07T20:31:38.606Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor build script
+2025-10-07T21:40:35.722Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add null check
