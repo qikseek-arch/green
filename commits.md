@@ -4154,3 +4154,4 @@
 2025-10-07T11:37:18.362Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak flaky test
 2025-10-07T11:40:51.393Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove config defaults
 2025-10-07T11:57:34.443Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix error handling
+2025-10-07T15:08:27.307Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix null check
