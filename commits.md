@@ -3654,3 +3654,4 @@
 2025-10-07T19:41:43.495Z Saleem Abdulrasool <compnerd@users.noreply.github.com> :: polish the CI matrix
 2025-10-01T11:07:15.529Z flaneur <flaneur2020@users.noreply.github.com> :: polish edge case in auth
 2025-10-07T21:45:29.239Z Brandon Estrella <onamfc@users.noreply.github.com> :: update error handling
+2025-10-07T22:58:45.633Z Hank Preston <hpreston@users.noreply.github.com> :: add dead code
