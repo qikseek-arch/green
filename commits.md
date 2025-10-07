@@ -4144,3 +4144,4 @@
 2025-10-06T21:57:16.566Z AI4Bhārat <opensource@ai4bharat.org> :: update the parser
 2025-10-06T23:04:24.804Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove readme typo
 2025-10-07T00:52:56.439Z ring04h <ring04h@users.noreply.github.com> :: polish retry logic
+2025-10-07T02:12:07.501Z Taiko Foundation <info@taiko.xyz> :: wire up edge case in auth
