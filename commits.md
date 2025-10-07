@@ -1905,3 +1905,4 @@
 2025-10-06T23:37:27.027Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: wire up config defaults
 2025-10-07T00:12:37.151Z LN <ln-dev7@users.noreply.github.com> :: remove edge case in auth
 2025-10-07T00:22:42.341Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump flaky test
+2025-10-07T01:14:52.303Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: tweak config defaults
