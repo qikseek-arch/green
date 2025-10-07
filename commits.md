@@ -1909,3 +1909,4 @@
 2025-10-07T01:15:31.477Z sharkeer <sharkeer@users.noreply.github.com> :: remove retry logic
 2025-10-07T01:46:58.673Z Jimmy Bogard <jbogard@users.noreply.github.com> :: wire up error handling
 2025-10-07T02:23:22.006Z sharkeer <sharkeer@users.noreply.github.com> :: fix retry logic
+2025-10-07T02:48:54.967Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: wire up dependency versions
