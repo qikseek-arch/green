@@ -13831,3 +13831,4 @@
 2025-10-06T23:15:00.575Z Alex Teichman <teichman@users.noreply.github.com> :: clean up the CI matrix
 2025-10-07T00:18:10.498Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish edge case in auth
 2025-10-07T00:28:33.965Z 1 <insoxin@users.noreply.github.com> :: bump retry logic
+2025-10-07T01:55:12.177Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: bump dependency versions
