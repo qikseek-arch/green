@@ -3646,3 +3646,4 @@
 2025-10-07T15:10:31.886Z Faculdade Descomplica <FaculdadeDescomplica@users.noreply.github.com> :: tweak retry logic
 2025-10-07T15:30:11.369Z Cyb_detective <cipher387@users.noreply.github.com> :: remove the parser
 2025-10-07T16:19:15.237Z Shahriar Kabir <shahriar0999@users.noreply.github.com> :: clean up config defaults
+2025-10-07T16:26:14.101Z Faculdade Descomplica <FaculdadeDescomplica@users.noreply.github.com> :: wire up edge case in auth
