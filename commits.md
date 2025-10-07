@@ -3921,3 +3921,4 @@
 2025-10-06T21:03:09.044Z Matt Holt <mholt@users.noreply.github.com> :: fix dead code
 2025-10-06T22:29:46.098Z Robert C. Martin <robert.c.martin@fake.invalid> :: refactor error handling
 2025-10-07T00:08:56.654Z rusty-moose99 <rusty-moose99@fake.invalid> :: add the CI matrix
+2025-10-07T00:13:24.200Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: update dependency versions
