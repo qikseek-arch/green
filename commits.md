@@ -13836,3 +13836,4 @@
 2025-10-07T07:21:09.354Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up retry logic
 2025-10-07T09:27:18.998Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak the parser
 2025-10-07T10:26:08.394Z Dove Letter <skydoves2@gmail.com> :: tweak the CI matrix
+2025-10-07T10:54:31.813Z Odi <mathdroid@users.noreply.github.com> :: add the CI matrix
