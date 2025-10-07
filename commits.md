@@ -1289,3 +1289,4 @@
 2025-10-07T11:11:51.362Z Siraj Raval <llSourcell@users.noreply.github.com> :: add the parser
 2025-10-07T14:22:30.667Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: add logging
 2025-10-07T15:17:00.727Z HashLips <HashLips@users.noreply.github.com> :: polish the CI matrix
+2025-10-07T15:37:36.222Z Termux <contact@termux.dev> :: update error handling
