@@ -13839,3 +13839,4 @@
 2025-10-07T10:54:31.813Z Odi <mathdroid@users.noreply.github.com> :: add the CI matrix
 2025-10-07T11:05:13.420Z Lipis <lipis@users.noreply.github.com> :: refactor edge case in auth
 2025-10-07T11:54:39.390Z Alex Teichman <teichman@users.noreply.github.com> :: clean up retry logic
+2025-10-07T12:04:39.475Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix null check
