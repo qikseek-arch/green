@@ -4149,3 +4149,4 @@
 2025-10-07T07:31:38.593Z Adam Łucek <ALucek@users.noreply.github.com> :: remove cache keys
 2025-10-07T08:43:28.214Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove retry logic
 2025-10-07T09:19:24.312Z David Clark <nullptrException100@users.noreply.github.com> :: update error handling
+2025-10-07T09:40:33.081Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish null check
