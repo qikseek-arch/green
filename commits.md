@@ -1281,3 +1281,4 @@
 2025-10-07T00:14:41.629Z Iuri Silva <iuricode@users.noreply.github.com> :: remove error handling
 2025-10-07T00:58:10.263Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove cache keys
 2025-10-07T01:10:55.586Z Jordan Harband <ljharb@users.noreply.github.com> :: fix retry logic
+2025-10-07T04:03:26.010Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: tweak edge case in auth
