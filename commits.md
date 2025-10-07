@@ -1283,3 +1283,4 @@
 2025-10-07T01:10:55.586Z Jordan Harband <ljharb@users.noreply.github.com> :: fix retry logic
 2025-10-07T04:03:26.010Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: tweak edge case in auth
 2025-10-07T05:27:01.436Z David <blocage@users.noreply.github.com> :: wire up error handling
+2025-10-07T05:46:56.286Z Arduino <arduino@users.noreply.github.com> :: add build script
