@@ -3626,3 +3626,4 @@
 2025-10-07T02:35:30.777Z Simplify Jobs Inc. <support@simplify.jobs> :: polish the parser
 2025-10-07T02:43:07.612Z Nang Ang <nang-dev@users.noreply.github.com> :: refactor error handling
 2025-10-07T02:49:06.011Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: refactor dead code
+2025-10-07T03:34:20.777Z José Padilla <jpadilla@users.noreply.github.com> :: refactor readme typo
