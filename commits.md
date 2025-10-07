@@ -13852,3 +13852,4 @@
 2025-10-07T21:33:15.561Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
 2025-10-07T21:40:12.685Z Mr L <Soldy@users.noreply.github.com> :: wire up edge case in auth
 2025-10-07T23:09:37.710Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix edge case in auth
+2025-10-07T23:35:28.226Z winterbe <winterbe@users.noreply.github.com> :: add dependency versions
