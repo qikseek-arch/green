@@ -15,3 +15,4 @@
 2025-10-06T11:16:27.943Z Sasha Rush <srush@users.noreply.github.com> :: remove readme typo
 2025-10-06T14:24:18.200Z Chad Sharp <cmlsharp@users.noreply.github.com> :: bump edge case in auth
 2025-10-06T16:31:30.578Z FastAPI <fastapi@users.noreply.github.com> :: wire up build script
+2025-10-07T02:09:58.969Z Ce Gao <gaocegege@users.noreply.github.com> :: fix error handling
