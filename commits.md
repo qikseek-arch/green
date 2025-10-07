@@ -13847,3 +13847,4 @@
 2025-10-07T18:37:48.933Z cytopia <cytopia@users.noreply.github.com> :: wire up dead code
 2025-10-07T20:08:40.168Z rxi <rxi@users.noreply.github.com> :: polish flaky test
 2025-10-07T20:14:45.089Z Alex Teichman <teichman@users.noreply.github.com> :: add edge case in auth
+2025-10-07T20:36:27.493Z John Schulman <joschu@users.noreply.github.com> :: tweak the CI matrix
