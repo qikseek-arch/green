@@ -3631,3 +3631,4 @@
 2025-10-07T04:26:43.521Z QuarkusIO <quarkusio@users.noreply.github.com> :: bump the CI matrix
 2025-10-07T04:35:11.759Z Open Food Facts <contact@openfoodfacts.org> :: wire up build script
 2025-10-07T04:54:55.983Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up null check
+2025-10-07T05:24:14.803Z Sahil <sahils0@users.noreply.github.com> :: wire up error handling
