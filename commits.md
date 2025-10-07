@@ -3935,3 +3935,4 @@
 2025-10-07T12:18:40.512Z DustyCobra <dustycobra@fake.invalid> :: add logging
 2025-10-07T12:53:02.522Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: remove flaky test
 2025-10-07T13:13:16.883Z FeralHamster <feralhamster@fake.invalid> :: wire up cache keys
+2025-10-07T16:03:04.312Z Guido van Rossum <guido.van.rossum@fake.invalid> :: clean up null check
