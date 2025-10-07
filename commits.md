@@ -3938,3 +3938,4 @@
 2025-10-07T16:03:04.312Z Guido van Rossum <guido.van.rossum@fake.invalid> :: clean up null check
 2025-10-07T16:55:16.676Z glitchywalrus733 <glitchywalrus733@fake.invalid> :: clean up readme typo
 2025-10-07T18:49:11.523Z LazyBadger <lazybadger@fake.invalid> :: clean up error handling
+2025-10-07T20:27:46.101Z crimson-vulture_x <crimson-vulture_x@fake.invalid> :: tweak null check
