@@ -1278,3 +1278,4 @@
 2025-10-06T22:31:46.337Z in28minutes <in28minutes@users.noreply.github.com> :: wire up edge case in auth
 2025-10-06T23:36:13.444Z Iuri Silva <iuricode@users.noreply.github.com> :: add error handling
 2025-10-06T23:53:43.202Z Justin Johnson <jcjohnson@users.noreply.github.com> :: bump logging
+2025-10-07T00:14:41.629Z Iuri Silva <iuricode@users.noreply.github.com> :: remove error handling
