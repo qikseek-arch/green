@@ -3652,3 +3652,5 @@
 2025-10-07T18:25:44.703Z LinkedIn Learning <LinkedInLearning@users.noreply.github.com> :: update dependency versions
 2025-10-07T19:32:54.315Z Belleve <be5invis@users.noreply.github.com> :: update logging
 2025-10-07T19:41:43.495Z Saleem Abdulrasool <compnerd@users.noreply.github.com> :: polish the CI matrix
+2025-10-01T11:07:15.529Z flaneur <flaneur2020@users.noreply.github.com> :: polish edge case in auth
+2025-10-07T21:45:29.239Z Brandon Estrella <onamfc@users.noreply.github.com> :: update error handling
