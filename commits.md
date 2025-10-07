@@ -13829,3 +13829,4 @@
 2025-10-06T21:56:27.132Z Henry <hzoo@users.noreply.github.com> :: clean up error handling
 2025-10-06T22:03:25.247Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up null check
 2025-10-06T23:15:00.575Z Alex Teichman <teichman@users.noreply.github.com> :: clean up the CI matrix
+2025-10-07T00:18:10.498Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish edge case in auth
