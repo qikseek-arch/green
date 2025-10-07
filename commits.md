@@ -13833,3 +13833,4 @@
 2025-10-07T00:28:33.965Z 1 <insoxin@users.noreply.github.com> :: bump retry logic
 2025-10-07T01:55:12.177Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: bump dependency versions
 2025-10-07T04:50:22.704Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: bump flaky test
+2025-10-07T07:21:09.354Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up retry logic
