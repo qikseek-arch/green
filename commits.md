@@ -13837,3 +13837,4 @@
 2025-10-07T09:27:18.998Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak the parser
 2025-10-07T10:26:08.394Z Dove Letter <skydoves2@gmail.com> :: tweak the CI matrix
 2025-10-07T10:54:31.813Z Odi <mathdroid@users.noreply.github.com> :: add the CI matrix
+2025-10-07T11:05:13.420Z Lipis <lipis@users.noreply.github.com> :: refactor edge case in auth
