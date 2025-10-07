@@ -3620,3 +3620,4 @@
 2025-10-06T22:38:03.354Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: remove the CI matrix
 2025-10-07T00:03:02.702Z TiffinTech <TiffinTech@users.noreply.github.com> :: tweak edge case in auth
 2025-10-07T01:18:25.451Z Camille <vinamega@users.noreply.github.com> :: bump config defaults
+2025-10-07T01:55:18.682Z WilliamZhu <allwefantasy@users.noreply.github.com> :: fix config defaults
