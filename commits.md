@@ -13848,3 +13848,4 @@
 2025-10-07T20:08:40.168Z rxi <rxi@users.noreply.github.com> :: polish flaky test
 2025-10-07T20:14:45.089Z Alex Teichman <teichman@users.noreply.github.com> :: add edge case in auth
 2025-10-07T20:36:27.493Z John Schulman <joschu@users.noreply.github.com> :: tweak the CI matrix
+2025-10-07T21:18:07.273Z Collabnix <collabnix@users.noreply.github.com> :: fix retry logic
