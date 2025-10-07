@@ -3933,3 +3933,4 @@
 2025-10-07T11:43:27.144Z socket_glitchy <socket_glitchy@fake.invalid> :: bump readme typo
 2025-10-07T11:55:20.480Z Larry Wall <larry.wall@fake.invalid> :: refactor the CI matrix
 2025-10-07T12:18:40.512Z DustyCobra <dustycobra@fake.invalid> :: add logging
+2025-10-07T12:53:02.522Z molten-beacon1337 <molten-beacon1337@fake.invalid> :: remove flaky test
