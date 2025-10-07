@@ -3940,3 +3940,4 @@
 2025-10-07T18:49:11.523Z LazyBadger <lazybadger@fake.invalid> :: clean up error handling
 2025-10-07T20:27:46.101Z crimson-vulture_x <crimson-vulture_x@fake.invalid> :: tweak null check
 2025-10-07T20:32:13.144Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: add build script
+2025-10-07T20:59:49.052Z Emmy Noether <emmy.noether@fake.invalid> :: tweak build script
