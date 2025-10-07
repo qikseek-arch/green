@@ -3927,3 +3927,4 @@
 2025-10-07T06:13:50.119Z Alex / KATT <KATT@users.noreply.github.com> :: wire up readme typo
 2025-10-07T07:31:46.410Z crimson-vulture_x <crimson-vulture_x@fake.invalid> :: bump dead code
 2025-10-07T07:51:38.148Z patak <patak-cat@users.noreply.github.com> :: update the parser
+2025-10-07T09:06:26.872Z Tom Dörr <tom-doerr@users.noreply.github.com> :: refactor retry logic
