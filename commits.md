@@ -4153,3 +4153,4 @@
 2025-10-07T10:18:38.310Z vb <Vaibhavs10@users.noreply.github.com> :: refactor readme typo
 2025-10-07T11:37:18.362Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak flaky test
 2025-10-07T11:40:51.393Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove config defaults
+2025-10-07T11:57:34.443Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix error handling
