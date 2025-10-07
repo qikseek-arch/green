@@ -1290,3 +1290,4 @@
 2025-10-07T14:22:30.667Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: add logging
 2025-10-07T15:17:00.727Z HashLips <HashLips@users.noreply.github.com> :: polish the CI matrix
 2025-10-07T15:37:36.222Z Termux <contact@termux.dev> :: update error handling
+2025-10-07T17:06:15.295Z Peter Steinberger <steipete@users.noreply.github.com> :: add dead code
