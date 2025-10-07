@@ -1280,3 +1280,4 @@
 2025-10-06T23:53:43.202Z Justin Johnson <jcjohnson@users.noreply.github.com> :: bump logging
 2025-10-07T00:14:41.629Z Iuri Silva <iuricode@users.noreply.github.com> :: remove error handling
 2025-10-07T00:58:10.263Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove cache keys
+2025-10-07T01:10:55.586Z Jordan Harband <ljharb@users.noreply.github.com> :: fix retry logic
