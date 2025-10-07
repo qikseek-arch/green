@@ -13849,3 +13849,4 @@
 2025-10-07T20:14:45.089Z Alex Teichman <teichman@users.noreply.github.com> :: add edge case in auth
 2025-10-07T20:36:27.493Z John Schulman <joschu@users.noreply.github.com> :: tweak the CI matrix
 2025-10-07T21:18:07.273Z Collabnix <collabnix@users.noreply.github.com> :: fix retry logic
+2025-10-07T21:33:15.561Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
