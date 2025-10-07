@@ -1913,3 +1913,4 @@
 2025-10-07T02:55:40.214Z Paul Deitel <pdeitel@users.noreply.github.com> :: update config defaults
 2025-10-07T03:13:41.420Z Jonathan <Grafikart@users.noreply.github.com> :: bump dead code
 2025-10-07T03:36:06.165Z José Valim <josevalim@users.noreply.github.com> :: refactor flaky test
+2025-10-07T03:52:23.047Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: clean up build script
