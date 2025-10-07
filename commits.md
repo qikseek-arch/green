@@ -1294,3 +1294,4 @@
 2025-10-07T17:40:22.319Z Y11 <XiaomingX@users.noreply.github.com> :: bump config defaults
 2025-10-07T18:34:21.504Z Yangqing Jia <Yangqing@users.noreply.github.com> :: tweak cache keys
 2025-10-07T19:32:42.000Z Justin Johnson <jcjohnson@users.noreply.github.com> :: fix the parser
+2025-10-07T19:38:53.239Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up config defaults
