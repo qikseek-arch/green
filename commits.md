@@ -3635,3 +3635,4 @@
 2025-10-07T05:38:16.508Z Sahil <sahils0@users.noreply.github.com> :: bump cache keys
 2025-10-07T05:45:24.998Z TiffinTech <TiffinTech@users.noreply.github.com> :: refactor the parser
 2025-10-07T06:03:09.466Z Alex Holachek <aholachek@users.noreply.github.com> :: add logging
+2025-10-07T08:19:15.464Z Simplify Jobs Inc. <support@simplify.jobs> :: update null check
