@@ -1917,3 +1917,4 @@
 2025-10-07T05:06:29.727Z Vivid Network <vivid.network@outlook.com> :: fix cache keys
 2025-10-07T07:31:01.410Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update error handling
 2025-10-07T07:34:41.689Z Geer Sun <sungeer@users.noreply.github.com> :: update the CI matrix
+2025-10-07T07:36:52.508Z Nik Graf <nikgraf@users.noreply.github.com> :: bump readme typo
