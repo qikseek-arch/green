@@ -1306,3 +1306,4 @@
 2025-10-08T07:48:53.309Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: update readme typo
 2025-10-08T07:59:38.044Z Meta Llama <meta-llama@users.noreply.github.com> :: bump flaky test
 2025-10-08T08:13:51.578Z Mistral AI <contact@mistral.ai> :: polish dependency versions
+2025-10-08T08:39:31.836Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix null check
