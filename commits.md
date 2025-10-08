@@ -13862,3 +13862,4 @@
 2025-10-08T07:34:18.109Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: refactor the CI matrix
 2025-10-08T09:34:16.550Z LMSYS <lm-sys@users.noreply.github.com> :: update cache keys
 2025-10-08T11:22:21.011Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix build script
+2025-10-08T11:49:04.269Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor error handling
