@@ -1327,3 +1327,4 @@
 2025-10-08T18:53:09.258Z George Hotz <geohot@users.noreply.github.com> :: wire up flaky test
 2025-10-08T19:16:58.025Z Siraj Raval <llSourcell@users.noreply.github.com> :: tweak null check
 2025-10-08T19:19:38.446Z Home Assistant <hello@home-assistant.io> :: wire up error handling
+2025-10-08T19:50:28.677Z Jackson Tian <JacksonTian@users.noreply.github.com> :: polish config defaults
