@@ -3664,3 +3664,4 @@
 2025-10-08T06:05:48.624Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: update dead code
 2025-10-08T07:13:05.463Z Nang Ang <nang-dev@users.noreply.github.com> :: refactor dependency versions
 2025-10-08T08:40:32.400Z Riley Testut <rileytestut@users.noreply.github.com> :: polish the CI matrix
+2025-10-08T08:41:58.387Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up dependency versions
