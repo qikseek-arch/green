@@ -3666,3 +3666,4 @@
 2025-10-08T08:40:32.400Z Riley Testut <rileytestut@users.noreply.github.com> :: polish the CI matrix
 2025-10-08T08:41:58.387Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up dependency versions
 2025-10-08T08:44:10.965Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: add readme typo
+2025-10-08T09:12:34.801Z Liang <deIiverer@users.noreply.github.com> :: update build script
