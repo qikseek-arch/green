@@ -3667,3 +3667,4 @@
 2025-10-08T08:41:58.387Z 黄健宏 <huangzworks@users.noreply.github.com> :: clean up dependency versions
 2025-10-08T08:44:10.965Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: add readme typo
 2025-10-08T09:12:34.801Z Liang <deIiverer@users.noreply.github.com> :: update build script
+2025-10-08T09:22:17.275Z Open Food Facts <contact@openfoodfacts.org> :: bump retry logic
