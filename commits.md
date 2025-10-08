@@ -3689,3 +3689,4 @@
 2025-10-08T21:15:09.576Z Pradumna Saraf <Pradumnasaraf@users.noreply.github.com> :: clean up the CI matrix
 2025-10-08T21:29:13.627Z Bunlong VAN <Bunlong@users.noreply.github.com> :: remove edge case in auth
 2025-10-08T21:52:45.045Z Bunlong VAN <Bunlong@users.noreply.github.com> :: wire up error handling
+2025-10-08T22:22:26.289Z Shuichi Tsutsumi <shu223@users.noreply.github.com> :: tweak error handling
