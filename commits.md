@@ -3679,3 +3679,4 @@
 2025-10-08T14:49:51.398Z Cyb_detective <cipher387@users.noreply.github.com> :: refactor config defaults
 2025-10-08T15:24:06.428Z TiffinTech <TiffinTech@users.noreply.github.com> :: update edge case in auth
 2025-10-08T16:53:59.222Z @greweb <gre@users.noreply.github.com> :: polish dead code
+2025-10-08T17:13:46.168Z TiffinTech <TiffinTech@users.noreply.github.com> :: add the CI matrix
