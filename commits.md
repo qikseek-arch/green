@@ -3675,3 +3675,4 @@
 2025-10-08T13:18:49.936Z Xargin <cch123@users.noreply.github.com> :: tweak the parser
 2025-10-08T13:41:36.040Z Otávio Miranda <luizomf@users.noreply.github.com> :: bump dead code
 2025-10-08T13:47:00.672Z First of ME <IFirstYou@users.noreply.github.com> :: wire up build script
+2025-10-08T14:43:37.943Z Ian Storm Taylor <ianstormtaylor@users.noreply.github.com> :: add dead code
