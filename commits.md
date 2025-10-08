@@ -1962,3 +1962,4 @@
 2025-10-08T14:31:05.807Z Emil Wallner <emilwallner@users.noreply.github.com> :: tweak edge case in auth
 2025-10-08T14:46:24.921Z Navin Reddy <navinreddy20@users.noreply.github.com> :: polish readme typo
 2025-10-08T17:35:50.212Z LN <ln-dev7@users.noreply.github.com> :: clean up build script
+2025-10-08T18:15:01.716Z Thomas Wolf <thomwolf@users.noreply.github.com> :: update config defaults
