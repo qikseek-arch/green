@@ -4179,3 +4179,4 @@
 2025-10-08T13:24:35.384Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor the CI matrix
 2025-10-08T14:34:14.967Z ring04h <ring04h@users.noreply.github.com> :: refactor null check
 2025-10-08T15:10:01.601Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak logging
+2025-10-08T15:45:05.853Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
