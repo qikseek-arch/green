@@ -4175,3 +4175,4 @@
 2025-10-08T09:43:03.285Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add config defaults
 2025-10-08T10:07:35.344Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
 2025-10-08T12:14:06.606Z ㅤxander <vampirist@users.noreply.github.com> :: polish build script
+2025-10-08T12:35:32.063Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak retry logic
