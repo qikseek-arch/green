@@ -3953,3 +3953,4 @@
 2025-10-08T11:15:35.891Z Claude Shannon <claude.shannon@fake.invalid> :: clean up logging
 2025-10-08T11:54:29.925Z crimson-vulture_x <crimson-vulture_x@fake.invalid> :: tweak build script
 2025-10-08T12:28:21.077Z Barbara Liskov <barbara.liskov@fake.invalid> :: update retry logic
+2025-10-08T12:52:47.172Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: polish null check
