@@ -1330,3 +1330,4 @@
 2025-10-08T19:50:28.677Z Jackson Tian <JacksonTian@users.noreply.github.com> :: polish config defaults
 2025-10-08T21:20:29.282Z Carbo <BYVoid@users.noreply.github.com> :: update readme typo
 2025-10-08T21:34:42.889Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: polish the parser
+2025-10-08T21:41:18.969Z seehiong <seehiong@users.noreply.github.com> :: clean up config defaults
