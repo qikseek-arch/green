@@ -3682,3 +3682,4 @@
 2025-10-08T17:13:46.168Z TiffinTech <TiffinTech@users.noreply.github.com> :: add the CI matrix
 2025-10-08T17:15:29.928Z Andrea Leopardi <whatyouhide@users.noreply.github.com> :: update null check
 2025-10-08T17:50:46.500Z Google <opensource@google.com> :: bump null check
+2025-10-08T19:33:59.137Z Open Food Facts <contact@openfoodfacts.org> :: refactor logging
