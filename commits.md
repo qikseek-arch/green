@@ -1937,3 +1937,4 @@
 2025-10-07T22:35:29.158Z Nik Graf <nikgraf@users.noreply.github.com> :: refactor retry logic
 2025-10-08T00:28:22.991Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update config defaults
 2025-10-08T00:35:51.751Z Emil Wallner <emilwallner@users.noreply.github.com> :: clean up edge case in auth
+2025-10-08T01:02:09.053Z Composio <hello@composio.dev> :: bump the CI matrix
