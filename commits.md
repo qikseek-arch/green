@@ -13864,3 +13864,4 @@
 2025-10-08T11:22:21.011Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix build script
 2025-10-08T11:49:04.269Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor error handling
 2025-10-08T12:44:48.531Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak readme typo
+2025-10-08T12:58:14.258Z Lipis <lipis@users.noreply.github.com> :: wire up edge case in auth
