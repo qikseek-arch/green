@@ -1951,3 +1951,4 @@
 2025-10-08T10:08:39.974Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up flaky test
 2025-10-08T10:12:18.157Z Vitor Freitas <vitorfs@users.noreply.github.com> :: fix error handling
 2025-10-08T10:17:56.469Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix the CI matrix
+2025-10-08T10:33:23.141Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up dead code
