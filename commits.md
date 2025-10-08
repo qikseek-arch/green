@@ -13869,3 +13869,4 @@
 2025-10-08T14:40:05.550Z Yiming Cui <ymcui@users.noreply.github.com> :: add dependency versions
 2025-10-08T15:37:42.223Z LMSYS <lm-sys@users.noreply.github.com> :: clean up flaky test
 2025-10-08T16:35:59.583Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove dead code
+2025-10-08T18:16:11.429Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
