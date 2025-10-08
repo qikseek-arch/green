@@ -13878,3 +13878,4 @@
 2025-10-08T21:32:38.215Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix readme typo
 2025-10-08T21:53:40.286Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up error handling
 2025-10-08T22:00:27.989Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update cache keys
+2025-10-08T23:12:04.010Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix dependency versions
