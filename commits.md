@@ -13880,3 +13880,4 @@
 2025-10-08T22:00:27.989Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update cache keys
 2025-10-08T23:12:04.010Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix dependency versions
 2025-10-08T23:16:15.746Z OpenBMB <openbmb@gmail.com> :: fix null check
+2025-10-08T23:23:47.373Z Damian Gryski <dgryski@users.noreply.github.com> :: add error handling
