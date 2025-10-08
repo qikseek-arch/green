@@ -3669,3 +3669,4 @@
 2025-10-08T09:12:34.801Z Liang <deIiverer@users.noreply.github.com> :: update build script
 2025-10-08T09:22:17.275Z Open Food Facts <contact@openfoodfacts.org> :: bump retry logic
 2025-10-08T09:44:31.807Z LinkedIn Learning <LinkedInLearning@users.noreply.github.com> :: remove config defaults
+2025-10-08T10:25:38.573Z WilliamZhu <allwefantasy@users.noreply.github.com> :: tweak logging
