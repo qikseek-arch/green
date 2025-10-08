@@ -3951,3 +3951,4 @@
 2025-10-08T10:47:53.507Z wiredotter374 <wiredotter374@fake.invalid> :: wire up flaky test
 2025-10-08T11:13:10.173Z saltyraptor241 <saltyraptor241@fake.invalid> :: add error handling
 2025-10-08T11:15:35.891Z Claude Shannon <claude.shannon@fake.invalid> :: clean up logging
+2025-10-08T11:54:29.925Z crimson-vulture_x <crimson-vulture_x@fake.invalid> :: tweak build script
