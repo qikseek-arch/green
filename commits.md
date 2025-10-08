@@ -1938,3 +1938,4 @@
 2025-10-08T00:28:22.991Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update config defaults
 2025-10-08T00:35:51.751Z Emil Wallner <emilwallner@users.noreply.github.com> :: clean up edge case in auth
 2025-10-08T01:02:09.053Z Composio <hello@composio.dev> :: bump the CI matrix
+2025-10-08T01:15:14.824Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump the CI matrix
