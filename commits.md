@@ -1943,3 +1943,4 @@
 2025-10-08T04:43:27.140Z Blue <blueedgetechno@users.noreply.github.com> :: update dead code
 2025-10-08T05:41:43.470Z David Bourgin <ddbourgin@users.noreply.github.com> :: bump the CI matrix
 2025-10-08T06:06:38.961Z Philip Walton <philipwalton@users.noreply.github.com> :: refactor dependency versions
+2025-10-08T07:23:58.106Z David Bourgin <ddbourgin@users.noreply.github.com> :: wire up flaky test
