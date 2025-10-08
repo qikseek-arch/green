@@ -4173,3 +4173,4 @@
 2025-10-08T07:24:49.866Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak config defaults
 2025-10-08T07:51:51.839Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix cache keys
 2025-10-08T09:43:03.285Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add config defaults
+2025-10-08T10:07:35.344Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
