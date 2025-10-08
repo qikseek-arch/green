@@ -1950,3 +1950,4 @@
 2025-10-08T09:58:42.142Z PostgreSQL <postgres@users.noreply.github.com> :: bump build script
 2025-10-08T10:08:39.974Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up flaky test
 2025-10-08T10:12:18.157Z Vitor Freitas <vitorfs@users.noreply.github.com> :: fix error handling
+2025-10-08T10:17:56.469Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix the CI matrix
