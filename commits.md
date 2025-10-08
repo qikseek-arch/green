@@ -1309,3 +1309,4 @@
 2025-10-08T08:39:31.836Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix null check
 2025-10-08T08:52:40.011Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: remove null check
 2025-10-08T09:15:02.465Z Arduino <arduino@users.noreply.github.com> :: tweak logging
+2025-10-08T09:27:31.666Z EGOIST <egoist@users.noreply.github.com> :: clean up edge case in auth
