@@ -3957,3 +3957,4 @@
 2025-10-08T13:15:08.826Z cosmicmuffin900 <cosmicmuffin900@fake.invalid> :: bump flaky test
 2025-10-08T13:37:26.001Z arcane-muffin <arcane-muffin@fake.invalid> :: update config defaults
 2025-10-08T15:38:13.169Z Ryan Dahl <ryan.dahl@fake.invalid> :: fix edge case in auth
+2025-10-08T15:46:15.216Z salty-socket <salty-socket@fake.invalid> :: clean up dead code
