@@ -3956,3 +3956,4 @@
 2025-10-08T12:52:47.172Z ChrisTruncer <ChrisTruncer@users.noreply.github.com> :: polish null check
 2025-10-08T13:15:08.826Z cosmicmuffin900 <cosmicmuffin900@fake.invalid> :: bump flaky test
 2025-10-08T13:37:26.001Z arcane-muffin <arcane-muffin@fake.invalid> :: update config defaults
+2025-10-08T15:38:13.169Z Ryan Dahl <ryan.dahl@fake.invalid> :: fix edge case in auth
