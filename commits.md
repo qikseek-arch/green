@@ -1949,3 +1949,4 @@
 2025-10-01T12:20:07.351Z Coding in Flow <codinginflow@users.noreply.github.com> :: remove flaky test
 2025-10-08T09:58:42.142Z PostgreSQL <postgres@users.noreply.github.com> :: bump build script
 2025-10-08T10:08:39.974Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up flaky test
+2025-10-08T10:12:18.157Z Vitor Freitas <vitorfs@users.noreply.github.com> :: fix error handling
