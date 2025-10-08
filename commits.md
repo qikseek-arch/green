@@ -1317,3 +1317,4 @@
 2025-10-08T13:11:22.258Z Any Association <anyproto@users.noreply.github.com> :: tweak retry logic
 2025-10-08T13:34:15.278Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: update flaky test
 2025-10-08T14:03:31.084Z xyfir <MrXyfir@users.noreply.github.com> :: fix edge case in auth
+2025-10-08T15:35:11.535Z Astral <hey@astral.sh> :: polish the CI matrix
