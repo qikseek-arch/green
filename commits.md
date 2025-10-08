@@ -3694,3 +3694,4 @@
 2025-10-08T23:06:40.049Z Vanced <TeamVanced@users.noreply.github.com> :: remove edge case in auth
 2025-10-08T23:11:16.412Z Anton Osika <AntonOsika@users.noreply.github.com> :: wire up error handling
 2025-10-08T23:21:23.682Z Ian Storm Taylor <ianstormtaylor@users.noreply.github.com> :: add edge case in auth
+2025-10-08T23:52:13.988Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: wire up the CI matrix
