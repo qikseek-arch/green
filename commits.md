@@ -3674,3 +3674,4 @@
 2025-10-08T13:09:47.763Z Pradumna Saraf <Pradumnasaraf@users.noreply.github.com> :: polish flaky test
 2025-10-08T13:18:49.936Z Xargin <cch123@users.noreply.github.com> :: tweak the parser
 2025-10-08T13:41:36.040Z Otávio Miranda <luizomf@users.noreply.github.com> :: bump dead code
+2025-10-08T13:47:00.672Z First of ME <IFirstYou@users.noreply.github.com> :: wire up build script
