@@ -3958,3 +3958,4 @@
 2025-10-08T13:37:26.001Z arcane-muffin <arcane-muffin@fake.invalid> :: update config defaults
 2025-10-08T15:38:13.169Z Ryan Dahl <ryan.dahl@fake.invalid> :: fix edge case in auth
 2025-10-08T15:46:15.216Z salty-socket <salty-socket@fake.invalid> :: clean up dead code
+2025-10-08T16:17:35.837Z FeralHamster <feralhamster@fake.invalid> :: polish retry logic
