@@ -604,3 +604,4 @@
 2025-10-05T08:12:54.476Z Peter Steinberger <steipete@users.noreply.github.com> :: update dependency versions
 2025-10-06T08:01:31.696Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: refactor null check
 2025-10-07T03:03:12.263Z Anthony Fu <antfu@users.noreply.github.com> :: bump logging
+2025-10-08T06:09:52.571Z DeepSeek <service@deepseek.com> :: remove error handling
