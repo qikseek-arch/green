@@ -4167,3 +4167,4 @@
 2025-10-07T22:48:25.811Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak logging
 2025-10-08T00:13:37.010Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish dependency versions
 2025-10-08T03:20:04.333Z Damian Dulisz <shentao@users.noreply.github.com> :: remove dead code
+2025-10-08T03:45:41.126Z Aurélien Geron <ageron@users.noreply.github.com> :: fix the parser
