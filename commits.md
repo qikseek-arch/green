@@ -3663,3 +3663,4 @@
 2025-10-08T05:51:52.958Z Nick Nisi <nicknisi@users.noreply.github.com> :: polish flaky test
 2025-10-08T06:05:48.624Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: update dead code
 2025-10-08T07:13:05.463Z Nang Ang <nang-dev@users.noreply.github.com> :: refactor dependency versions
+2025-10-08T08:40:32.400Z Riley Testut <rileytestut@users.noreply.github.com> :: polish the CI matrix
