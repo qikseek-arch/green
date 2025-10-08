@@ -4184,3 +4184,4 @@
 2025-10-08T19:15:35.534Z markqvist <markqvist@users.noreply.github.com> :: refactor null check
 2025-10-08T19:20:08.040Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix readme typo
 2025-10-08T19:21:39.377Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add error handling
+2025-10-08T20:02:04.029Z Aurélien Geron <ageron@users.noreply.github.com> :: update build script
