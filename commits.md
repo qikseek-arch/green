@@ -1956,3 +1956,4 @@
 2025-10-08T11:29:08.902Z Shaian <zshaian@users.noreply.github.com> :: refactor flaky test
 2025-10-08T11:53:55.026Z John Blackbourn <johnbillion@users.noreply.github.com> :: tweak edge case in auth
 2025-10-08T12:04:28.352Z Thomas Wolf <thomwolf@users.noreply.github.com> :: clean up dead code
+2025-10-08T13:10:16.834Z Emil Wallner <emilwallner@users.noreply.github.com> :: remove dead code
