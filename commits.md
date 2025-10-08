@@ -1322,3 +1322,4 @@
 2025-10-08T17:40:41.177Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: fix retry logic
 2025-10-08T17:46:41.783Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: tweak the parser
 2025-10-08T18:11:01.735Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: fix the CI matrix
+2025-10-08T18:34:57.463Z LinuxServer.io <linuxserver@users.noreply.github.com> :: polish dead code
