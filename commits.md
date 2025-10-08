@@ -1942,3 +1942,4 @@
 2025-10-08T01:46:44.508Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: add readme typo
 2025-10-08T04:43:27.140Z Blue <blueedgetechno@users.noreply.github.com> :: update dead code
 2025-10-08T05:41:43.470Z David Bourgin <ddbourgin@users.noreply.github.com> :: bump the CI matrix
+2025-10-08T06:06:38.961Z Philip Walton <philipwalton@users.noreply.github.com> :: refactor dependency versions
