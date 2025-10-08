@@ -1936,3 +1936,4 @@
 2025-10-07T21:53:10.110Z Fabien Potencier <fabpot@users.noreply.github.com> :: polish dependency versions
 2025-10-07T22:35:29.158Z Nik Graf <nikgraf@users.noreply.github.com> :: refactor retry logic
 2025-10-08T00:28:22.991Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update config defaults
+2025-10-08T00:35:51.751Z Emil Wallner <emilwallner@users.noreply.github.com> :: clean up edge case in auth
