@@ -1299,3 +1299,4 @@
 2025-10-07T22:42:27.836Z Microsoft Azure <Azure@users.noreply.github.com> :: remove dependency versions
 2025-10-08T00:03:03.938Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak build script
 2025-10-08T02:01:45.511Z Justin Johnson <jcjohnson@users.noreply.github.com> :: refactor error handling
+2025-10-08T02:44:01.388Z Charm <vt100@charm.land> :: bump logging
