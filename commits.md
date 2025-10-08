@@ -3692,3 +3692,4 @@
 2025-10-08T22:22:26.289Z Shuichi Tsutsumi <shu223@users.noreply.github.com> :: tweak error handling
 2025-10-08T22:24:52.510Z Xargin <cch123@users.noreply.github.com> :: refactor dead code
 2025-10-08T23:06:40.049Z Vanced <TeamVanced@users.noreply.github.com> :: remove edge case in auth
+2025-10-08T23:11:16.412Z Anton Osika <AntonOsika@users.noreply.github.com> :: wire up error handling
