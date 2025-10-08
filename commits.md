@@ -1297,3 +1297,4 @@
 2025-10-07T19:38:53.239Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up config defaults
 2025-10-07T21:36:18.031Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor build script
 2025-10-07T22:42:27.836Z Microsoft Azure <Azure@users.noreply.github.com> :: remove dependency versions
+2025-10-08T00:03:03.938Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak build script
