@@ -1298,3 +1298,4 @@
 2025-10-07T21:36:18.031Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor build script
 2025-10-07T22:42:27.836Z Microsoft Azure <Azure@users.noreply.github.com> :: remove dependency versions
 2025-10-08T00:03:03.938Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak build script
+2025-10-08T02:01:45.511Z Justin Johnson <jcjohnson@users.noreply.github.com> :: refactor error handling
