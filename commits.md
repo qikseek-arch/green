@@ -4176,3 +4176,4 @@
 2025-10-08T10:07:35.344Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
 2025-10-08T12:14:06.606Z ㅤxander <vampirist@users.noreply.github.com> :: polish build script
 2025-10-08T12:35:32.063Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak retry logic
+2025-10-08T13:24:35.384Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor the CI matrix
