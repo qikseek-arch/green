@@ -3944,3 +3944,4 @@
 2025-10-07T22:57:20.300Z Tom Dörr <tom-doerr@users.noreply.github.com> :: remove logging
 2025-10-07T23:18:41.609Z Alex / KATT <KATT@users.noreply.github.com> :: bump dependency versions
 2025-10-08T01:54:02.976Z Bill Gates <bill.gates@fake.invalid> :: tweak dead code
+2025-10-08T03:18:55.935Z frozen-falcon1337 <frozen-falcon1337@fake.invalid> :: clean up edge case in auth
