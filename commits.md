@@ -3677,3 +3677,4 @@
 2025-10-08T13:47:00.672Z First of ME <IFirstYou@users.noreply.github.com> :: wire up build script
 2025-10-08T14:43:37.943Z Ian Storm Taylor <ianstormtaylor@users.noreply.github.com> :: add dead code
 2025-10-08T14:49:51.398Z Cyb_detective <cipher387@users.noreply.github.com> :: refactor config defaults
+2025-10-08T15:24:06.428Z TiffinTech <TiffinTech@users.noreply.github.com> :: update edge case in auth
