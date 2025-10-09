@@ -4213,3 +4213,4 @@
 2025-10-09T18:36:17.222Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix dead code
 2025-10-09T19:50:51.448Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add readme typo
 2025-10-09T21:09:14.298Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor build script
+2025-10-09T21:13:43.714Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: update readme typo
