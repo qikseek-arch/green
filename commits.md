@@ -4215,3 +4215,4 @@
 2025-10-09T21:09:14.298Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor build script
 2025-10-09T21:13:43.714Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: update readme typo
 2025-10-09T22:49:08.704Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix null check
+2025-10-09T22:50:10.131Z markqvist <markqvist@users.noreply.github.com> :: refactor null check
