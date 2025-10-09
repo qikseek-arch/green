@@ -3714,3 +3714,4 @@
 2025-10-09T18:39:22.607Z QuarkusIO <quarkusio@users.noreply.github.com> :: clean up null check
 2025-10-09T19:35:02.281Z Simplify Jobs Inc. <support@simplify.jobs> :: add edge case in auth
 2025-10-09T20:24:58.068Z Jordan Harband <ljharb@users.noreply.github.com> :: update null check
+2025-10-09T21:20:07.640Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: refactor edge case in auth
