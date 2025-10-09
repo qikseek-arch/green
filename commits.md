@@ -1335,3 +1335,4 @@
 2025-10-08T22:28:28.509Z Jordan Harband <ljharb@users.noreply.github.com> :: update flaky test
 2025-10-08T22:42:48.932Z Y11 <XiaomingX@users.noreply.github.com> :: bump cache keys
 2025-10-08T22:44:47.277Z Zen <zen-browser@users.noreply.github.com> :: bump logging
+2025-10-09T01:01:21.143Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: fix logging
