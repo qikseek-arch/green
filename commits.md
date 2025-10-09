@@ -1355,3 +1355,4 @@
 2025-10-09T10:39:49.282Z Pablo RM <murapadev@users.noreply.github.com> :: wire up retry logic
 2025-10-09T10:46:00.725Z S4IL <S4IL21@users.noreply.github.com> :: bump the parser
 2025-10-09T10:46:08.858Z Termux <contact@termux.dev> :: remove dead code
+2025-10-09T10:46:16.382Z xyfir <MrXyfir@users.noreply.github.com> :: fix dependency versions
