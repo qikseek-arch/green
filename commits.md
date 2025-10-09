@@ -1361,3 +1361,4 @@
 2025-10-09T11:30:54.124Z Brent Jackson <jxnblk@users.noreply.github.com> :: clean up the CI matrix
 2025-10-09T11:33:46.143Z Brent Jackson <jxnblk@users.noreply.github.com> :: refactor logging
 2025-10-09T11:42:31.987Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish error handling
+2025-10-09T14:11:50.341Z David <blocage@users.noreply.github.com> :: fix the parser
