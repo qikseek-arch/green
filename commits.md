@@ -1979,3 +1979,4 @@
 2025-10-09T10:01:09.871Z TON Connect <ton-connect@users.noreply.github.com> :: clean up retry logic
 2025-10-09T11:54:06.894Z Kenney <KenneyNL@users.noreply.github.com> :: polish the CI matrix
 2025-10-09T13:24:51.365Z Andrew Mead <andrewjmead@users.noreply.github.com> :: add dead code
+2025-10-09T14:20:41.954Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish readme typo
