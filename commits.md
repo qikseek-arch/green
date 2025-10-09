@@ -1981,3 +1981,4 @@
 2025-10-09T13:24:51.365Z Andrew Mead <andrewjmead@users.noreply.github.com> :: add dead code
 2025-10-09T14:20:41.954Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish readme typo
 2025-10-09T15:00:28.777Z 卡颂 <BetaSu@users.noreply.github.com> :: fix config defaults
+2025-10-09T15:19:12.464Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix the CI matrix
