@@ -4194,3 +4194,4 @@
 2025-10-09T04:22:06.696Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
 2025-10-09T05:40:09.850Z Damian Dulisz <shentao@users.noreply.github.com> :: fix dead code
 2025-10-09T05:45:10.519Z Damian Dulisz <shentao@users.noreply.github.com> :: add logging
+2025-10-09T05:51:54.363Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove config defaults
