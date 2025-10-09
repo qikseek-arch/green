@@ -1978,3 +1978,4 @@
 2025-10-09T09:32:41.508Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove edge case in auth
 2025-10-09T10:01:09.871Z TON Connect <ton-connect@users.noreply.github.com> :: clean up retry logic
 2025-10-09T11:54:06.894Z Kenney <KenneyNL@users.noreply.github.com> :: polish the CI matrix
+2025-10-09T13:24:51.365Z Andrew Mead <andrewjmead@users.noreply.github.com> :: add dead code
