@@ -1970,3 +1970,4 @@
 2025-10-08T22:12:07.200Z Jonathan <Grafikart@users.noreply.github.com> :: update the parser
 2025-10-08T22:25:50.902Z Diu <ddiu8081@users.noreply.github.com> :: tweak cache keys
 2025-10-09T01:39:25.833Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: clean up error handling
+2025-10-09T04:05:08.560Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add config defaults
