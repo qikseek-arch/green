@@ -1341,3 +1341,4 @@
 2025-10-09T02:07:58.085Z LinuxServer.io <linuxserver@users.noreply.github.com> :: refactor dependency versions
 2025-10-09T02:23:21.945Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add config defaults
 2025-10-09T02:24:46.706Z Nous Research <NousResearch@users.noreply.github.com> :: tweak flaky test
+2025-10-09T03:45:49.277Z Charm <vt100@charm.land> :: bump edge case in auth
