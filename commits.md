@@ -1350,3 +1350,4 @@
 2025-10-09T06:45:05.543Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: remove dead code
 2025-10-09T07:34:10.181Z Siraj Raval <llSourcell@users.noreply.github.com> :: tweak logging
 2025-10-09T09:41:34.919Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: wire up the parser
+2025-10-09T10:17:20.059Z Yangqing Jia <Yangqing@users.noreply.github.com> :: wire up edge case in auth
