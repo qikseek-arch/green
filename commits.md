@@ -1356,3 +1356,4 @@
 2025-10-09T10:46:00.725Z S4IL <S4IL21@users.noreply.github.com> :: bump the parser
 2025-10-09T10:46:08.858Z Termux <contact@termux.dev> :: remove dead code
 2025-10-09T10:46:16.382Z xyfir <MrXyfir@users.noreply.github.com> :: fix dependency versions
+2025-10-09T10:48:00.626Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up edge case in auth
