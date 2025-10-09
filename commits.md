@@ -1352,3 +1352,4 @@
 2025-10-09T09:41:34.919Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: wire up the parser
 2025-10-09T10:17:20.059Z Yangqing Jia <Yangqing@users.noreply.github.com> :: wire up edge case in auth
 2025-10-09T10:28:49.189Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: remove dead code
+2025-10-09T10:39:49.282Z Pablo RM <murapadev@users.noreply.github.com> :: wire up retry logic
