@@ -1363,3 +1363,4 @@
 2025-10-09T11:42:31.987Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish error handling
 2025-10-09T14:11:50.341Z David <blocage@users.noreply.github.com> :: fix the parser
 2025-10-09T16:21:17.800Z Daniel Lemire <lemire@users.noreply.github.com> :: refactor retry logic
+2025-10-09T17:37:47.875Z André Staltz <staltz@users.noreply.github.com> :: wire up error handling
