@@ -4190,3 +4190,4 @@
 2025-10-09T01:24:33.329Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up build script
 2025-10-09T01:42:05.323Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up the parser
 2025-10-09T02:22:28.883Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dead code
+2025-10-09T03:24:35.741Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the CI matrix
