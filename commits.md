@@ -13899,3 +13899,4 @@
 2025-10-09T19:23:12.417Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish config defaults
 2025-10-09T19:37:09.577Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update null check
 2025-10-09T20:52:32.542Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak edge case in auth
+2025-10-09T20:58:17.764Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add null check
