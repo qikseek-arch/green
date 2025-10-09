@@ -13896,3 +13896,4 @@
 2025-10-09T15:00:22.903Z Tom Dale <tomdale@users.noreply.github.com> :: bump build script
 2025-10-09T17:18:09.783Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update cache keys
 2025-10-09T19:12:18.418Z Snowflake Labs <opensource@snowflake.com> :: update flaky test
+2025-10-09T19:23:12.417Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish config defaults
