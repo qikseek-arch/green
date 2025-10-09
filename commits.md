@@ -1338,3 +1338,4 @@
 2025-10-09T01:01:21.143Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: fix logging
 2025-10-09T01:11:31.240Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: clean up error handling
 2025-10-09T01:48:51.011Z Rich Hickey <richhickey@users.noreply.github.com> :: polish logging
+2025-10-09T02:07:58.085Z LinuxServer.io <linuxserver@users.noreply.github.com> :: refactor dependency versions
