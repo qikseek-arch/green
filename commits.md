@@ -3710,3 +3710,4 @@
 2025-10-09T13:27:30.578Z Micael Mota <micaelomota@users.noreply.github.com> :: bump readme typo
 2025-10-09T14:19:00.578Z Soheil Salmani <SoheilGtex@users.noreply.github.com> :: polish edge case in auth
 2025-10-09T16:08:16.894Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: refactor cache keys
+2025-10-09T16:38:39.477Z Edward Viaene <wardviaene@users.noreply.github.com> :: update the parser
