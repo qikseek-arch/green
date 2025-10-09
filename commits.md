@@ -3700,3 +3700,4 @@
 2025-10-09T03:32:01.332Z Cyb_detective <cipher387@users.noreply.github.com> :: remove the CI matrix
 2025-10-09T03:42:57.825Z Julien <jbarbier@users.noreply.github.com> :: remove cache keys
 2025-10-09T05:32:31.659Z Xargin <cch123@users.noreply.github.com> :: update retry logic
+2025-10-09T05:39:55.363Z Anton Osika <AntonOsika@users.noreply.github.com> :: fix dependency versions
