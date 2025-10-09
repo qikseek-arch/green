@@ -20,3 +20,4 @@
 2025-10-08T08:43:44.168Z Sebastian <sebmck@users.noreply.github.com> :: clean up build script
 2025-10-08T09:42:52.401Z DeepSeek <service@deepseek.com> :: tweak flaky test
 2025-10-09T01:23:04.893Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: add cache keys
+2025-10-09T13:34:49.742Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: bump retry logic
