@@ -3708,3 +3708,4 @@
 2025-10-09T10:46:22.567Z Xargin <cch123@users.noreply.github.com> :: add retry logic
 2025-10-09T11:46:15.689Z Sebastian Raschka <rasbt@users.noreply.github.com> :: polish edge case in auth
 2025-10-09T13:27:30.578Z Micael Mota <micaelomota@users.noreply.github.com> :: bump readme typo
+2025-10-09T14:19:00.578Z Soheil Salmani <SoheilGtex@users.noreply.github.com> :: polish edge case in auth
