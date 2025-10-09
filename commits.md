@@ -4192,3 +4192,4 @@
 2025-10-09T02:22:28.883Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dead code
 2025-10-09T03:24:35.741Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the CI matrix
 2025-10-09T04:22:06.696Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
+2025-10-09T05:40:09.850Z Damian Dulisz <shentao@users.noreply.github.com> :: fix dead code
