@@ -3711,3 +3711,4 @@
 2025-10-09T14:19:00.578Z Soheil Salmani <SoheilGtex@users.noreply.github.com> :: polish edge case in auth
 2025-10-09T16:08:16.894Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: refactor cache keys
 2025-10-09T16:38:39.477Z Edward Viaene <wardviaene@users.noreply.github.com> :: update the parser
+2025-10-09T18:39:22.607Z QuarkusIO <quarkusio@users.noreply.github.com> :: clean up null check
