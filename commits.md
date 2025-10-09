@@ -4195,3 +4195,4 @@
 2025-10-09T05:40:09.850Z Damian Dulisz <shentao@users.noreply.github.com> :: fix dead code
 2025-10-09T05:45:10.519Z Damian Dulisz <shentao@users.noreply.github.com> :: add logging
 2025-10-09T05:51:54.363Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove config defaults
+2025-10-09T06:54:37.018Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add null check
