@@ -1977,3 +1977,4 @@
 2025-10-09T09:12:38.695Z Yann Collet <Cyan4973@users.noreply.github.com> :: polish error handling
 2025-10-09T09:32:41.508Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove edge case in auth
 2025-10-09T10:01:09.871Z TON Connect <ton-connect@users.noreply.github.com> :: clean up retry logic
+2025-10-09T11:54:06.894Z Kenney <KenneyNL@users.noreply.github.com> :: polish the CI matrix
