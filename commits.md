@@ -1336,3 +1336,4 @@
 2025-10-08T22:42:48.932Z Y11 <XiaomingX@users.noreply.github.com> :: bump cache keys
 2025-10-08T22:44:47.277Z Zen <zen-browser@users.noreply.github.com> :: bump logging
 2025-10-09T01:01:21.143Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: fix logging
+2025-10-09T01:11:31.240Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: clean up error handling
