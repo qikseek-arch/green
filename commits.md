@@ -1366,3 +1366,4 @@
 2025-10-09T17:37:47.875Z André Staltz <staltz@users.noreply.github.com> :: wire up error handling
 2025-10-09T17:46:44.651Z Maximilian <mschwarzmueller@users.noreply.github.com> :: wire up readme typo
 2025-10-09T18:12:12.151Z Maximilian <mschwarzmueller@users.noreply.github.com> :: fix build script
+2025-10-09T18:13:00.164Z George Hotz <geohot@users.noreply.github.com> :: clean up config defaults
