@@ -1987,3 +1987,4 @@
 2025-10-09T17:13:32.936Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor logging
 2025-10-09T18:10:55.373Z Chao Qin <win4r@users.noreply.github.com> :: refactor cache keys
 2025-10-09T18:29:17.899Z Lei Mao <leimao@users.noreply.github.com> :: update cache keys
+2025-10-09T22:57:18.299Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: update null check
