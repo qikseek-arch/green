@@ -4209,3 +4209,4 @@
 2025-10-09T15:37:44.236Z First Contributions <firstcontributions@gmail.com> :: bump dependency versions
 2025-10-09T15:54:25.658Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up dead code
 2025-10-09T16:45:49.357Z David Clark <nullptrException100@users.noreply.github.com> :: polish config defaults
+2025-10-09T18:24:40.700Z CTFs <ctfs@users.noreply.github.com> :: add build script
