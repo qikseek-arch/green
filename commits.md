@@ -1344,3 +1344,4 @@
 2025-10-09T03:45:49.277Z Charm <vt100@charm.land> :: bump edge case in auth
 2025-10-09T04:03:05.184Z Iuri Silva <iuricode@users.noreply.github.com> :: bump logging
 2025-10-09T04:13:44.345Z Yihui Xie <yihui@users.noreply.github.com> :: tweak error handling
+2025-10-09T04:27:40.374Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: bump error handling
