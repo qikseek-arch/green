@@ -4211,3 +4211,4 @@
 2025-10-09T16:45:49.357Z David Clark <nullptrException100@users.noreply.github.com> :: polish config defaults
 2025-10-09T18:24:40.700Z CTFs <ctfs@users.noreply.github.com> :: add build script
 2025-10-09T18:36:17.222Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix dead code
+2025-10-09T19:50:51.448Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add readme typo
