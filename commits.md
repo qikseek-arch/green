@@ -1359,3 +1359,4 @@
 2025-10-09T10:48:00.626Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up edge case in auth
 2025-10-09T11:12:03.017Z Mistral AI <contact@mistral.ai> :: tweak logging
 2025-10-09T11:30:54.124Z Brent Jackson <jxnblk@users.noreply.github.com> :: clean up the CI matrix
+2025-10-09T11:33:46.143Z Brent Jackson <jxnblk@users.noreply.github.com> :: refactor logging
