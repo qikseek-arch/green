@@ -1371,3 +1371,4 @@
 2025-10-09T20:03:00.369Z Astral <hey@astral.sh> :: bump the parser
 2025-10-09T21:31:26.366Z Alura Cursos Online <contato@alura.com.br> :: add logging
 2025-10-09T22:12:19.337Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove flaky test
+2025-10-09T22:50:46.915Z Termux <contact@termux.dev> :: tweak edge case in auth
