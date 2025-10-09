@@ -1972,3 +1972,4 @@
 2025-10-09T01:39:25.833Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: clean up error handling
 2025-10-09T04:05:08.560Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add config defaults
 2025-10-09T04:32:21.661Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish readme typo
+2025-10-09T05:08:01.977Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: tweak build script
