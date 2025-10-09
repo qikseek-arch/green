@@ -13897,3 +13897,4 @@
 2025-10-09T17:18:09.783Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update cache keys
 2025-10-09T19:12:18.418Z Snowflake Labs <opensource@snowflake.com> :: update flaky test
 2025-10-09T19:23:12.417Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish config defaults
+2025-10-09T19:37:09.577Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update null check
