@@ -1975,3 +1975,4 @@
 2025-10-09T05:08:01.977Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: tweak build script
 2025-10-09T05:09:22.713Z 郭飞 <guofei9987@users.noreply.github.com> :: update error handling
 2025-10-09T09:12:38.695Z Yann Collet <Cyan4973@users.noreply.github.com> :: polish error handling
+2025-10-09T09:32:41.508Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove edge case in auth
