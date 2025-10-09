@@ -4205,3 +4205,4 @@
 2025-10-09T10:44:52.747Z Inanc Gumus <inancgumus@users.noreply.github.com> :: wire up retry logic
 2025-10-09T12:49:35.355Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor retry logic
 2025-10-09T13:31:12.936Z md-5 <md-5@users.noreply.github.com> :: clean up dependency versions
+2025-10-09T14:34:18.509Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak config defaults
