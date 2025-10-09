@@ -1983,3 +1983,4 @@
 2025-10-09T15:00:28.777Z 卡颂 <BetaSu@users.noreply.github.com> :: fix config defaults
 2025-10-09T15:19:12.464Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix the CI matrix
 2025-10-09T16:51:21.627Z Paul Deitel <pdeitel@users.noreply.github.com> :: refactor cache keys
+2025-10-09T17:09:43.359Z TON Connect <ton-connect@users.noreply.github.com> :: remove readme typo
