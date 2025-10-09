@@ -1973,3 +1973,4 @@
 2025-10-09T04:05:08.560Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add config defaults
 2025-10-09T04:32:21.661Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish readme typo
 2025-10-09T05:08:01.977Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: tweak build script
+2025-10-09T05:09:22.713Z 郭飞 <guofei9987@users.noreply.github.com> :: update error handling
