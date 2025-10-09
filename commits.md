@@ -1342,3 +1342,4 @@
 2025-10-09T02:23:21.945Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add config defaults
 2025-10-09T02:24:46.706Z Nous Research <NousResearch@users.noreply.github.com> :: tweak flaky test
 2025-10-09T03:45:49.277Z Charm <vt100@charm.land> :: bump edge case in auth
+2025-10-09T04:03:05.184Z Iuri Silva <iuricode@users.noreply.github.com> :: bump logging
