@@ -1389,3 +1389,4 @@
 2025-10-10T06:03:06.835Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update dependency versions
 2025-10-10T07:18:26.154Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove retry logic
 2025-10-10T07:54:25.940Z Mistral AI <contact@mistral.ai> :: add the parser
+2025-10-10T08:04:07.203Z George Hotz <geohot@users.noreply.github.com> :: add dead code
