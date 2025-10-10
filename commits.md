@@ -1385,3 +1385,4 @@
 2025-10-10T03:55:20.733Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update edge case in auth
 2025-10-10T04:18:13.155Z Zen <zen-browser@users.noreply.github.com> :: tweak flaky test
 2025-10-10T05:30:19.511Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: remove flaky test
+2025-10-10T05:58:38.186Z Justin Johnson <jcjohnson@users.noreply.github.com> :: bump readme typo
