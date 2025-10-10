@@ -1395,3 +1395,4 @@
 2025-10-10T08:46:38.869Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: wire up retry logic
 2025-10-10T08:54:05.592Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: refactor the parser
 2025-10-10T09:13:03.055Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: clean up dead code
+2025-10-10T10:44:09.181Z Justin Johnson <jcjohnson@users.noreply.github.com> :: refactor readme typo
