@@ -13924,3 +13924,4 @@
 2025-10-10T15:07:36.841Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump error handling
 2025-10-10T17:31:15.734Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak logging
 2025-10-10T17:32:10.321Z OpenBSD <openbsd@users.noreply.github.com> :: polish config defaults
+2025-10-10T17:35:43.571Z Lipis <lipis@users.noreply.github.com> :: polish null check
