@@ -4222,3 +4222,4 @@
 2025-10-10T02:42:06.417Z BBC <bbc@users.noreply.github.com> :: polish null check
 2025-10-10T03:09:44.893Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump readme typo
 2025-10-10T03:43:29.083Z Arduino <arduino@users.noreply.github.com> :: update build script
+2025-10-10T04:06:15.977Z OpenJS Foundation <info@openjsf.org> :: remove build script
