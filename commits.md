@@ -1994,3 +1994,4 @@
 2025-10-10T01:59:42.936Z farza <farzaa@users.noreply.github.com> :: update dependency versions
 2025-10-10T03:45:25.090Z Gradio <admin@gradio.app> :: remove edge case in auth
 2025-10-10T04:27:50.368Z Beau Carnes <beaucarnes@users.noreply.github.com> :: update retry logic
+2025-10-10T04:53:22.994Z farza <farzaa@users.noreply.github.com> :: update readme typo
