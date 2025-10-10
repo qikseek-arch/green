@@ -1391,3 +1391,4 @@
 2025-10-10T07:54:25.940Z Mistral AI <contact@mistral.ai> :: add the parser
 2025-10-10T08:04:07.203Z George Hotz <geohot@users.noreply.github.com> :: add dead code
 2025-10-10T08:20:14.209Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: refactor logging
+2025-10-10T08:42:17.764Z George Hotz <geohot@users.noreply.github.com> :: refactor error handling
