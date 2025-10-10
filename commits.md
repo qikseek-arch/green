@@ -13930,3 +13930,4 @@
 2025-10-10T18:46:51.400Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update the parser
 2025-10-10T18:55:00.861Z John Schulman <joschu@users.noreply.github.com> :: refactor the parser
 2025-10-10T19:56:49.155Z Sky Ao <skyao@users.noreply.github.com> :: bump the CI matrix
+2025-10-10T20:06:44.592Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak config defaults
