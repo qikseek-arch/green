@@ -1397,3 +1397,4 @@
 2025-10-10T09:13:03.055Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: clean up dead code
 2025-10-10T10:44:09.181Z Justin Johnson <jcjohnson@users.noreply.github.com> :: refactor readme typo
 2025-10-10T11:02:54.923Z HashLips <HashLips@users.noreply.github.com> :: tweak null check
+2025-10-10T12:12:41.614Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak dependency versions
