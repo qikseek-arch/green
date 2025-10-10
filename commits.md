@@ -1400,3 +1400,4 @@
 2025-10-10T12:12:41.614Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak dependency versions
 2025-10-10T12:15:29.044Z xiaolai <xiaolai@users.noreply.github.com> :: fix null check
 2025-10-10T13:14:21.058Z Meta Llama <meta-llama@users.noreply.github.com> :: polish null check
+2025-10-10T13:37:05.788Z Astral <hey@astral.sh> :: refactor the parser
