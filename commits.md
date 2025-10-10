@@ -3738,3 +3738,4 @@
 2025-10-10T17:09:38.792Z TiffinTech <TiffinTech@users.noreply.github.com> :: add cache keys
 2025-10-10T19:17:18.316Z Ivan Vorobei <ivanvorobei@users.noreply.github.com> :: remove edge case in auth
 2025-10-10T19:34:00.708Z WilliamZhu <allwefantasy@users.noreply.github.com> :: update dependency versions
+2025-10-10T20:00:24.532Z beeman <beeman@users.noreply.github.com> :: refactor dependency versions
