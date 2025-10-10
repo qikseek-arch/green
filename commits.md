@@ -1999,3 +1999,4 @@
 2025-10-10T06:17:39.922Z Siemens <opensource@siemens.com> :: bump readme typo
 2025-10-10T07:45:00.354Z Beau Carnes <beaucarnes@users.noreply.github.com> :: fix the CI matrix
 2025-10-10T09:29:03.067Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish the parser
+2025-10-10T12:02:31.798Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: clean up dependency versions
