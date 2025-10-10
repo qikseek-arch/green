@@ -13926,3 +13926,4 @@
 2025-10-10T17:32:10.321Z OpenBSD <openbsd@users.noreply.github.com> :: polish config defaults
 2025-10-10T17:35:43.571Z Lipis <lipis@users.noreply.github.com> :: polish null check
 2025-10-10T18:14:38.474Z Andreas Kling <awesomekling@users.noreply.github.com> :: update error handling
+2025-10-10T18:39:49.873Z yakeIore <yakeIore@users.noreply.github.com> :: clean up dependency versions
