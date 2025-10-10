@@ -1380,3 +1380,4 @@
 2025-10-10T00:58:26.434Z Yangqing Jia <Yangqing@users.noreply.github.com> :: fix build script
 2025-10-10T01:09:04.372Z Maximilian <mschwarzmueller@users.noreply.github.com> :: refactor build script
 2025-10-10T02:05:41.396Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: clean up build script
+2025-10-10T02:19:58.413Z Siraj Raval <llSourcell@users.noreply.github.com> :: add config defaults
