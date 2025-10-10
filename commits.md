@@ -1396,3 +1396,4 @@
 2025-10-10T08:54:05.592Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: refactor the parser
 2025-10-10T09:13:03.055Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: clean up dead code
 2025-10-10T10:44:09.181Z Justin Johnson <jcjohnson@users.noreply.github.com> :: refactor readme typo
+2025-10-10T11:02:54.923Z HashLips <HashLips@users.noreply.github.com> :: tweak null check
