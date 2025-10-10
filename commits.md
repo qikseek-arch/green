@@ -13913,3 +13913,4 @@
 2025-10-10T06:44:06.275Z LMSYS <lm-sys@users.noreply.github.com> :: remove dependency versions
 2025-10-10T07:18:23.689Z OpenMEDLab <openmedlab@pjlab.org.cn> :: clean up build script
 2025-10-10T07:44:27.857Z Scott Chacon <schacon@users.noreply.github.com> :: clean up build script
+2025-10-10T08:23:21.346Z imput <hello@imput.net> :: remove config defaults
