@@ -13921,3 +13921,4 @@
 2025-10-10T11:56:30.076Z cytopia <cytopia@users.noreply.github.com> :: update edge case in auth
 2025-10-10T12:05:19.279Z OpenBSD <openbsd@users.noreply.github.com> :: fix build script
 2025-10-10T13:49:14.067Z 1 <insoxin@users.noreply.github.com> :: update the CI matrix
+2025-10-10T15:07:36.841Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump error handling
