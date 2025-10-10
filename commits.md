@@ -3733,3 +3733,4 @@
 2025-10-10T13:26:28.196Z Uknow <uknowsec@users.noreply.github.com> :: refactor edge case in auth
 2025-10-10T15:20:05.764Z Ritchie Vink <ritchie46@users.noreply.github.com> :: refactor logging
 2025-10-10T15:53:39.028Z Simplify Jobs Inc. <support@simplify.jobs> :: remove flaky test
+2025-10-10T16:45:02.132Z Simplify Jobs Inc. <support@simplify.jobs> :: clean up retry logic
