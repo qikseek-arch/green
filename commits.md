@@ -4241,3 +4241,4 @@
 2025-10-10T18:11:28.029Z Adam Łucek <ALucek@users.noreply.github.com> :: polish null check
 2025-10-10T19:13:51.546Z vb <Vaibhavs10@users.noreply.github.com> :: update null check
 2025-10-10T19:37:49.724Z Rei <chloerei@users.noreply.github.com> :: clean up build script
+2025-10-10T20:09:58.666Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
