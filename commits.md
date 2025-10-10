@@ -1407,3 +1407,4 @@
 2025-10-10T18:08:39.426Z 甬哥侃侃侃ygkkk <yonggekkk@users.noreply.github.com> :: polish retry logic
 2025-10-10T18:47:01.476Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: fix edge case in auth
 2025-10-10T21:06:51.954Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: bump edge case in auth
+2025-10-10T21:14:40.538Z Maximilian <mschwarzmueller@users.noreply.github.com> :: remove edge case in auth
