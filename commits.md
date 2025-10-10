@@ -1405,3 +1405,4 @@
 2025-10-10T15:54:50.087Z Chris Wanstrath <defunkt@users.noreply.github.com> :: update flaky test
 2025-10-10T16:23:04.540Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: add retry logic
 2025-10-10T18:08:39.426Z 甬哥侃侃侃ygkkk <yonggekkk@users.noreply.github.com> :: polish retry logic
+2025-10-10T18:47:01.476Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: fix edge case in auth
