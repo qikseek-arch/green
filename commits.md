@@ -4243,3 +4243,4 @@
 2025-10-10T19:37:49.724Z Rei <chloerei@users.noreply.github.com> :: clean up build script
 2025-10-10T20:09:58.666Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
 2025-10-10T21:22:59.826Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump edge case in auth
+2025-10-10T21:52:05.655Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish readme typo
