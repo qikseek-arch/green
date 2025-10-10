@@ -3731,3 +3731,4 @@
 2025-10-10T10:12:14.699Z Jordan Harband <ljharb@users.noreply.github.com> :: fix dead code
 2025-10-10T10:29:23.781Z ZHO-ZHO-ZHO <ZHO-ZHO-ZHO@users.noreply.github.com> :: add dependency versions
 2025-10-10T13:26:28.196Z Uknow <uknowsec@users.noreply.github.com> :: refactor edge case in auth
+2025-10-10T15:20:05.764Z Ritchie Vink <ritchie46@users.noreply.github.com> :: refactor logging
