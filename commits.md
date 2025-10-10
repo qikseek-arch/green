@@ -4238,3 +4238,4 @@
 2025-10-10T12:19:57.543Z ring04h <ring04h@users.noreply.github.com> :: fix config defaults
 2025-10-10T14:07:47.700Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak flaky test
 2025-10-10T14:36:42.004Z First Contributions <firstcontributions@gmail.com> :: polish the parser
+2025-10-10T18:11:28.029Z Adam Łucek <ALucek@users.noreply.github.com> :: polish null check
