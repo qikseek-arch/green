@@ -1376,3 +1376,4 @@
 2025-10-10T00:00:39.363Z seehiong <seehiong@users.noreply.github.com> :: clean up flaky test
 2025-10-10T00:05:34.766Z Felix Angelov <felangel@users.noreply.github.com> :: update dependency versions
 2025-10-10T00:07:15.847Z Brent Jackson <jxnblk@users.noreply.github.com> :: polish build script
+2025-10-10T00:13:41.156Z Peter Steinberger <steipete@users.noreply.github.com> :: polish null check
