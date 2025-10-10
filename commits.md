@@ -3717,3 +3717,4 @@
 2025-10-09T21:20:07.640Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: refactor edge case in auth
 2025-10-09T21:45:38.295Z QuarkusIO <quarkusio@users.noreply.github.com> :: clean up the CI matrix
 2025-10-09T23:02:18.017Z Orbiter Finance <Orbiter-Finance@users.noreply.github.com> :: bump error handling
+2025-10-10T01:44:17.677Z Anton Osika <AntonOsika@users.noreply.github.com> :: polish dead code
