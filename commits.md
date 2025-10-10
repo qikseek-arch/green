@@ -2009,3 +2009,4 @@
 2025-10-10T16:38:12.573Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: tweak error handling
 2025-10-10T17:49:48.596Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: clean up readme typo
 2025-10-10T17:59:27.271Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update edge case in auth
+2025-10-10T18:54:25.149Z Fabien Potencier <fabpot@users.noreply.github.com> :: update dependency versions
