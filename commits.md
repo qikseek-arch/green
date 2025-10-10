@@ -3736,3 +3736,4 @@
 2025-10-10T16:45:02.132Z Simplify Jobs Inc. <support@simplify.jobs> :: clean up retry logic
 2025-10-10T16:49:19.446Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove config defaults
 2025-10-10T17:09:38.792Z TiffinTech <TiffinTech@users.noreply.github.com> :: add cache keys
+2025-10-10T19:17:18.316Z Ivan Vorobei <ivanvorobei@users.noreply.github.com> :: remove edge case in auth
