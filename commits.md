@@ -1992,3 +1992,4 @@
 2025-10-09T23:32:17.903Z Gradio <admin@gradio.app> :: add build script
 2025-10-10T00:37:44.197Z 卡颂 <BetaSu@users.noreply.github.com> :: polish retry logic
 2025-10-10T01:59:42.936Z farza <farzaa@users.noreply.github.com> :: update dependency versions
+2025-10-10T03:45:25.090Z Gradio <admin@gradio.app> :: remove edge case in auth
