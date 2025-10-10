@@ -1374,3 +1374,4 @@
 2025-10-09T22:50:46.915Z Termux <contact@termux.dev> :: tweak edge case in auth
 2025-10-09T23:53:13.460Z Jeremy Thomas <jgthms@users.noreply.github.com> :: polish dead code
 2025-10-10T00:00:39.363Z seehiong <seehiong@users.noreply.github.com> :: clean up flaky test
+2025-10-10T00:05:34.766Z Felix Angelov <felangel@users.noreply.github.com> :: update dependency versions
