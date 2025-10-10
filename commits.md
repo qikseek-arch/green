@@ -3725,3 +3725,4 @@
 2025-10-10T05:30:54.156Z Shahriar Kabir <shahriar0999@users.noreply.github.com> :: clean up error handling
 2025-10-10T07:04:25.015Z Faculdade Descomplica <FaculdadeDescomplica@users.noreply.github.com> :: add retry logic
 2025-10-10T08:19:47.549Z Xargin <cch123@users.noreply.github.com> :: polish dependency versions
+2025-10-10T09:00:34.797Z Shahriar Kabir <shahriar0999@users.noreply.github.com> :: clean up null check
