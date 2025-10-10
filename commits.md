@@ -3740,3 +3740,4 @@
 2025-10-10T19:34:00.708Z WilliamZhu <allwefantasy@users.noreply.github.com> :: update dependency versions
 2025-10-10T20:00:24.532Z beeman <beeman@users.noreply.github.com> :: refactor dependency versions
 2025-10-10T20:18:41.245Z Ivan Vorobei <ivanvorobei@users.noreply.github.com> :: wire up dependency versions
+2025-10-10T21:23:29.895Z Dhaval Patel <dhavalsays@users.noreply.github.com> :: add config defaults
