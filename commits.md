@@ -2007,3 +2007,4 @@
 2025-10-10T15:11:13.303Z Philip Walton <philipwalton@users.noreply.github.com> :: tweak retry logic
 2025-10-10T15:33:56.241Z Paul Deitel <pdeitel@users.noreply.github.com> :: fix retry logic
 2025-10-10T16:38:12.573Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: tweak error handling
+2025-10-10T17:49:48.596Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: clean up readme typo
