@@ -4236,3 +4236,4 @@
 2025-10-10T11:15:58.523Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove config defaults
 2025-10-10T12:13:36.456Z vb <Vaibhavs10@users.noreply.github.com> :: bump build script
 2025-10-10T12:19:57.543Z ring04h <ring04h@users.noreply.github.com> :: fix config defaults
+2025-10-10T14:07:47.700Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak flaky test
