@@ -1387,3 +1387,4 @@
 2025-10-10T05:30:19.511Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: remove flaky test
 2025-10-10T05:58:38.186Z Justin Johnson <jcjohnson@users.noreply.github.com> :: bump readme typo
 2025-10-10T06:03:06.835Z LinuxServer.io <linuxserver@users.noreply.github.com> :: update dependency versions
+2025-10-10T07:18:26.154Z Siraj Raval <llSourcell@users.noreply.github.com> :: remove retry logic
