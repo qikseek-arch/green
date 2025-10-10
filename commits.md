@@ -2004,3 +2004,4 @@
 2025-10-10T13:23:28.712Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: fix logging
 2025-10-10T14:37:33.681Z Fabien Potencier <fabpot@users.noreply.github.com> :: wire up the parser
 2025-10-10T14:54:16.231Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: polish the parser
+2025-10-10T15:11:13.303Z Philip Walton <philipwalton@users.noreply.github.com> :: tweak retry logic
