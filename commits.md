@@ -4237,3 +4237,4 @@
 2025-10-10T12:13:36.456Z vb <Vaibhavs10@users.noreply.github.com> :: bump build script
 2025-10-10T12:19:57.543Z ring04h <ring04h@users.noreply.github.com> :: fix config defaults
 2025-10-10T14:07:47.700Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak flaky test
+2025-10-10T14:36:42.004Z First Contributions <firstcontributions@gmail.com> :: polish the parser
