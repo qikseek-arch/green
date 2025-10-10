@@ -1412,3 +1412,4 @@
 2025-10-10T22:43:29.995Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish readme typo
 2025-10-10T22:50:56.402Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: tweak dependency versions
 2025-10-10T22:54:48.649Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix config defaults
+2025-10-10T23:10:02.628Z Ben Balter <benbalter@users.noreply.github.com> :: tweak dead code
