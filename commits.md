@@ -13920,3 +13920,4 @@
 2025-10-10T11:16:30.529Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak dependency versions
 2025-10-10T11:56:30.076Z cytopia <cytopia@users.noreply.github.com> :: update edge case in auth
 2025-10-10T12:05:19.279Z OpenBSD <openbsd@users.noreply.github.com> :: fix build script
+2025-10-10T13:49:14.067Z 1 <insoxin@users.noreply.github.com> :: update the CI matrix
