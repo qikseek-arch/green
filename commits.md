@@ -1401,3 +1401,4 @@
 2025-10-10T12:15:29.044Z xiaolai <xiaolai@users.noreply.github.com> :: fix null check
 2025-10-10T13:14:21.058Z Meta Llama <meta-llama@users.noreply.github.com> :: polish null check
 2025-10-10T13:37:05.788Z Astral <hey@astral.sh> :: refactor the parser
+2025-10-10T15:04:08.006Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: bump the CI matrix
