@@ -13909,3 +13909,4 @@
 2025-10-10T05:34:55.230Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up retry logic
 2025-10-10T05:41:15.811Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor error handling
 2025-10-10T06:15:01.793Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish edge case in auth
+2025-10-10T06:41:03.034Z Lovell Fuller <lovell@users.noreply.github.com> :: wire up null check
