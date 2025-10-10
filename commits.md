@@ -4224,3 +4224,4 @@
 2025-10-10T03:43:29.083Z Arduino <arduino@users.noreply.github.com> :: update build script
 2025-10-10T04:06:15.977Z OpenJS Foundation <info@openjsf.org> :: remove build script
 2025-10-10T04:49:29.572Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update build script
+2025-10-10T05:30:08.309Z Bert Belder <piscisaureus@users.noreply.github.com> :: update error handling
