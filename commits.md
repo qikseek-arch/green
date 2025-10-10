@@ -3729,3 +3729,4 @@
 2025-10-10T09:01:41.110Z 黄健宏 <huangzworks@users.noreply.github.com> :: fix the parser
 2025-10-10T09:38:18.456Z Dhaval Patel <dhavalsays@users.noreply.github.com> :: fix readme typo
 2025-10-10T10:12:14.699Z Jordan Harband <ljharb@users.noreply.github.com> :: fix dead code
+2025-10-10T10:29:23.781Z ZHO-ZHO-ZHO <ZHO-ZHO-ZHO@users.noreply.github.com> :: add dependency versions
