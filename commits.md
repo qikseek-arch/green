@@ -3727,3 +3727,4 @@
 2025-10-10T08:19:47.549Z Xargin <cch123@users.noreply.github.com> :: polish dependency versions
 2025-10-10T09:00:34.797Z Shahriar Kabir <shahriar0999@users.noreply.github.com> :: clean up null check
 2025-10-10T09:01:41.110Z 黄健宏 <huangzworks@users.noreply.github.com> :: fix the parser
+2025-10-10T09:38:18.456Z Dhaval Patel <dhavalsays@users.noreply.github.com> :: fix readme typo
