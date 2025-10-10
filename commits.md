@@ -13932,3 +13932,4 @@
 2025-10-10T19:56:49.155Z Sky Ao <skyao@users.noreply.github.com> :: bump the CI matrix
 2025-10-10T20:06:44.592Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak config defaults
 2025-10-10T22:44:45.231Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix dependency versions
+2025-10-10T22:58:40.981Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update the CI matrix
