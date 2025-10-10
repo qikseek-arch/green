@@ -3746,3 +3746,4 @@
 2025-10-10T22:46:06.592Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: fix dead code
 2025-10-10T22:50:23.770Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: add cache keys
 2025-10-10T22:56:03.556Z Thomas Lin Pedersen <thomasp85@users.noreply.github.com> :: tweak logging
+2025-10-10T23:54:35.681Z Julien <jbarbier@users.noreply.github.com> :: tweak retry logic
