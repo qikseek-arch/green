@@ -1379,3 +1379,4 @@
 2025-10-10T00:13:41.156Z Peter Steinberger <steipete@users.noreply.github.com> :: polish null check
 2025-10-10T00:58:26.434Z Yangqing Jia <Yangqing@users.noreply.github.com> :: fix build script
 2025-10-10T01:09:04.372Z Maximilian <mschwarzmueller@users.noreply.github.com> :: refactor build script
+2025-10-10T02:05:41.396Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: clean up build script
