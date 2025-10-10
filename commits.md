@@ -2002,3 +2002,4 @@
 2025-10-10T12:02:31.798Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: clean up dependency versions
 2025-10-10T12:28:05.482Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: wire up the parser
 2025-10-10T13:23:28.712Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: fix logging
+2025-10-10T14:37:33.681Z Fabien Potencier <fabpot@users.noreply.github.com> :: wire up the parser
