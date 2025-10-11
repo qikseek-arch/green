@@ -13952,3 +13952,4 @@
 2025-10-11T13:03:32.843Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up logging
 2025-10-11T13:08:30.555Z Dove Letter <skydoves2@gmail.com> :: tweak dependency versions
 2025-10-11T13:44:32.923Z winterbe <winterbe@users.noreply.github.com> :: tweak retry logic
+2025-10-11T14:33:46.692Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
