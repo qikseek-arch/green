@@ -2036,3 +2036,4 @@
 2025-10-11T10:38:17.121Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up null check
 2025-10-11T11:06:29.472Z DailyDevOps Projects <adit.modi24@gmail.com> :: update the parser
 2025-10-11T11:33:48.890Z José Valim <josevalim@users.noreply.github.com> :: add edge case in auth
+2025-10-11T14:26:01.006Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: refactor build script
