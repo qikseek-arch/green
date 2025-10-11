@@ -3749,3 +3749,4 @@
 2025-10-10T23:54:35.681Z Julien <jbarbier@users.noreply.github.com> :: tweak retry logic
 2025-10-11T00:56:15.089Z Vladimir Tsyganov <tsyganovvv@users.noreply.github.com> :: wire up null check
 2025-10-11T01:17:51.446Z José Padilla <jpadilla@users.noreply.github.com> :: wire up dependency versions
+2025-10-11T02:26:59.612Z Simplify Jobs Inc. <support@simplify.jobs> :: add config defaults
