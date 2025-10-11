@@ -1425,3 +1425,4 @@
 2025-10-11T08:20:09.408Z Home Assistant <hello@home-assistant.io> :: clean up null check
 2025-10-11T09:49:40.353Z Maximilian <mschwarzmueller@users.noreply.github.com> :: polish dependency versions
 2025-10-11T09:54:39.411Z Jeremy Thomas <jgthms@users.noreply.github.com> :: polish edge case in auth
+2025-10-11T11:47:03.778Z Fazt <fazt@users.noreply.github.com> :: clean up retry logic
