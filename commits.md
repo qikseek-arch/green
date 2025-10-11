@@ -3751,3 +3751,4 @@
 2025-10-11T01:17:51.446Z José Padilla <jpadilla@users.noreply.github.com> :: wire up dependency versions
 2025-10-11T02:26:59.612Z Simplify Jobs Inc. <support@simplify.jobs> :: add config defaults
 2025-10-11T04:35:38.889Z Wojciech Maj <wojtekmaj@users.noreply.github.com> :: update retry logic
+2025-10-11T07:47:25.421Z Sheng-Hao Ma <aaaddress1@users.noreply.github.com> :: tweak config defaults
