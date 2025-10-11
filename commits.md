@@ -1440,3 +1440,4 @@
 2025-10-11T18:34:18.778Z S4IL <S4IL21@users.noreply.github.com> :: tweak retry logic
 2025-10-11T19:03:00.113Z Ben Balter <benbalter@users.noreply.github.com> :: polish retry logic
 2025-10-11T19:19:05.361Z Ben Balter <benbalter@users.noreply.github.com> :: remove edge case in auth
+2025-10-11T19:38:16.445Z Peter Steinberger <steipete@users.noreply.github.com> :: refactor readme typo
