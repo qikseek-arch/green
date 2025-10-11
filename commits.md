@@ -3775,3 +3775,4 @@
 2025-10-11T16:28:04.983Z First of ME <IFirstYou@users.noreply.github.com> :: tweak edge case in auth
 2025-10-11T17:33:39.006Z Cyb_detective <cipher387@users.noreply.github.com> :: clean up config defaults
 2025-10-11T17:44:29.152Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: bump the parser
+2025-10-11T19:58:25.679Z Riley Testut <rileytestut@users.noreply.github.com> :: tweak the parser
