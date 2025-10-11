@@ -3768,3 +3768,4 @@
 2025-10-11T13:29:28.158Z Ahmet Buğra Çakıcı <ahmetbcakici@users.noreply.github.com> :: clean up flaky test
 2025-10-11T13:43:34.952Z Brandon Estrella <onamfc@users.noreply.github.com> :: update readme typo
 2025-10-11T13:51:56.178Z Benny Huo <bennyhuo@users.noreply.github.com> :: wire up flaky test
+2025-10-11T14:09:50.943Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: add build script
