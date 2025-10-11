@@ -4251,3 +4251,4 @@
 2025-10-11T05:10:05.263Z Shubs <infosec-au@users.noreply.github.com> :: clean up edge case in auth
 2025-10-11T06:24:59.597Z David Clark <nullptrException100@users.noreply.github.com> :: fix cache keys
 2025-10-11T10:20:42.259Z Barret李靖 <barretlee@users.noreply.github.com> :: add null check
+2025-10-11T11:39:04.487Z Keith Smiley <keith@users.noreply.github.com> :: update dependency versions
