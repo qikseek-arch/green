@@ -3762,3 +3762,4 @@
 2025-10-11T10:38:24.198Z Julien <jbarbier@users.noreply.github.com> :: fix the parser
 2025-10-01T12:46:45.240Z Doug Gregor <DougGregor@users.noreply.github.com> :: tweak cache keys
 2025-10-11T11:28:12.626Z Anton Osika <AntonOsika@users.noreply.github.com> :: refactor cache keys
+2025-10-11T11:34:25.383Z beeman <beeman@users.noreply.github.com> :: refactor error handling
