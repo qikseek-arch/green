@@ -4261,3 +4261,4 @@
 2025-10-11T18:00:03.641Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update dead code
 2025-10-11T18:43:16.478Z David Fowler <davidfowl@users.noreply.github.com> :: polish null check
 2025-10-11T18:47:42.447Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
+2025-10-11T18:49:38.818Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
