@@ -1435,3 +1435,4 @@
 2025-10-11T15:13:00.338Z LinuxServer.io <linuxserver@users.noreply.github.com> :: remove the CI matrix
 2025-10-11T15:28:37.845Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: bump config defaults
 2025-10-11T15:29:29.412Z Home Assistant <hello@home-assistant.io> :: clean up readme typo
+2025-10-11T15:36:10.794Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: remove the CI matrix
