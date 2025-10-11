@@ -2021,3 +2021,4 @@
 2025-10-11T00:23:00.013Z Andrew Mead <andrewjmead@users.noreply.github.com> :: clean up error handling
 2025-10-11T00:27:22.357Z Composio <hello@composio.dev> :: bump config defaults
 2025-10-11T00:43:19.644Z Paul Deitel <pdeitel@users.noreply.github.com> :: clean up flaky test
+2025-10-11T01:16:20.767Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: bump readme typo
