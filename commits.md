@@ -2027,3 +2027,4 @@
 2025-10-11T03:06:17.914Z 开源中国 <oschina@users.noreply.github.com> :: refactor config defaults
 2025-10-11T03:55:54.512Z Adam Majmudar <adam-maj@users.noreply.github.com> :: tweak the parser
 2025-10-11T06:39:51.568Z Emil Wallner <emilwallner@users.noreply.github.com> :: add edge case in auth
+2025-10-11T07:37:34.332Z Nik Graf <nikgraf@users.noreply.github.com> :: remove dependency versions
