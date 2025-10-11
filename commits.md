@@ -1437,3 +1437,4 @@
 2025-10-11T15:29:29.412Z Home Assistant <hello@home-assistant.io> :: clean up readme typo
 2025-10-11T15:36:10.794Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: remove the CI matrix
 2025-10-11T15:58:13.790Z Jackson Tian <JacksonTian@users.noreply.github.com> :: fix build script
+2025-10-11T18:34:18.778Z S4IL <S4IL21@users.noreply.github.com> :: tweak retry logic
