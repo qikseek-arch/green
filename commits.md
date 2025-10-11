@@ -2035,3 +2035,4 @@
 2025-10-11T08:42:10.916Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: update build script
 2025-10-11T10:38:17.121Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up null check
 2025-10-11T11:06:29.472Z DailyDevOps Projects <adit.modi24@gmail.com> :: update the parser
+2025-10-11T11:33:48.890Z José Valim <josevalim@users.noreply.github.com> :: add edge case in auth
