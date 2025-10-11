@@ -3777,3 +3777,4 @@
 2025-10-11T17:44:29.152Z Erik Cupsa <Erik-Cupsa@users.noreply.github.com> :: bump the parser
 2025-10-11T19:58:25.679Z Riley Testut <rileytestut@users.noreply.github.com> :: tweak the parser
 2025-10-11T20:09:28.102Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
+2025-10-11T21:20:33.039Z Riley Testut <rileytestut@users.noreply.github.com> :: fix the CI matrix
