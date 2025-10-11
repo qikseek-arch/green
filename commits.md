@@ -2024,3 +2024,4 @@
 2025-10-11T01:16:20.767Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: bump readme typo
 2025-10-11T01:25:57.869Z 0chencc <0Chencc@users.noreply.github.com> :: wire up readme typo
 2025-10-11T02:48:10.051Z farza <farzaa@users.noreply.github.com> :: remove build script
+2025-10-11T03:06:17.914Z 开源中国 <oschina@users.noreply.github.com> :: refactor config defaults
