@@ -1422,3 +1422,4 @@
 2025-10-11T03:51:59.910Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: remove flaky test
 2025-10-11T04:41:09.341Z Ben Balter <benbalter@users.noreply.github.com> :: add retry logic
 2025-10-11T07:50:25.203Z Simon Willison <simonw@users.noreply.github.com> :: tweak flaky test
+2025-10-11T08:20:09.408Z Home Assistant <hello@home-assistant.io> :: clean up null check
