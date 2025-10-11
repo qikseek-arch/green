@@ -1431,3 +1431,4 @@
 2025-10-11T13:05:01.862Z Iuri Silva <iuricode@users.noreply.github.com> :: polish readme typo
 2025-10-11T13:35:02.753Z Yangqing Jia <Yangqing@users.noreply.github.com> :: tweak null check
 2025-10-11T13:55:23.188Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: tweak edge case in auth
+2025-10-11T14:17:36.177Z xyfir <MrXyfir@users.noreply.github.com> :: remove the parser
