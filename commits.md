@@ -24,3 +24,4 @@
 2025-10-09T23:39:16.971Z @XDevelopers <xdevplatform@users.noreply.github.com> :: bump the CI matrix
 2025-10-10T11:33:36.258Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: bump flaky test
 2025-10-11T07:36:38.951Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: wire up the parser
+2025-10-11T19:55:29.455Z DeepSeek <service@deepseek.com> :: remove error handling
