@@ -4255,3 +4255,4 @@
 2025-10-11T12:16:03.097Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up readme typo
 2025-10-11T13:57:35.425Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak flaky test
 2025-10-11T15:26:30.030Z heyli <lcxfs1991@users.noreply.github.com> :: update retry logic
+2025-10-11T16:02:18.115Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
