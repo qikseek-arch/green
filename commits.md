@@ -4262,3 +4262,4 @@
 2025-10-11T18:43:16.478Z David Fowler <davidfowl@users.noreply.github.com> :: polish null check
 2025-10-11T18:47:42.447Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
 2025-10-11T18:49:38.818Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
+2025-10-11T19:10:26.188Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish null check
