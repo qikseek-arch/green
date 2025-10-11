@@ -13951,3 +13951,4 @@
 2025-10-11T12:10:20.949Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix dead code
 2025-10-11T13:03:32.843Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up logging
 2025-10-11T13:08:30.555Z Dove Letter <skydoves2@gmail.com> :: tweak dependency versions
+2025-10-11T13:44:32.923Z winterbe <winterbe@users.noreply.github.com> :: tweak retry logic
