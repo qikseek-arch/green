@@ -2043,3 +2043,4 @@
 2025-10-11T19:09:12.131Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak config defaults
 2025-10-11T19:46:03.712Z codefollower <codefollower@users.noreply.github.com> :: update the CI matrix
 2025-10-11T19:56:17.364Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump edge case in auth
+2025-10-11T20:00:30.559Z StackBlitz <hello@stackblitz.com> :: clean up dependency versions
