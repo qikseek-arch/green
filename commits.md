@@ -13942,3 +13942,4 @@
 2025-10-11T05:58:51.871Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove the CI matrix
 2025-10-11T06:03:31.935Z OpenMEDLab <openmedlab@pjlab.org.cn> :: add retry logic
 2025-10-11T06:32:07.804Z yakeIore <yakeIore@users.noreply.github.com> :: add flaky test
+2025-10-11T08:26:18.335Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix config defaults
