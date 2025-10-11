@@ -3754,3 +3754,4 @@
 2025-10-11T07:47:25.421Z Sheng-Hao Ma <aaaddress1@users.noreply.github.com> :: tweak config defaults
 2025-10-11T08:04:06.972Z Open Food Facts <contact@openfoodfacts.org> :: polish config defaults
 2025-10-11T09:23:52.881Z Vladimir Tsyganov <tsyganovvv@users.noreply.github.com> :: bump build script
+2025-10-11T09:39:58.522Z Ravi Tamada <ravi8x@users.noreply.github.com> :: refactor logging
