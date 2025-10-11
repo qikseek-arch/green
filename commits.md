@@ -1428,3 +1428,4 @@
 2025-10-11T11:47:03.778Z Fazt <fazt@users.noreply.github.com> :: clean up retry logic
 2025-10-11T11:50:47.458Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up null check
 2025-10-11T12:29:06.033Z Nous Research <NousResearch@users.noreply.github.com> :: bump the parser
+2025-10-11T13:05:01.862Z Iuri Silva <iuricode@users.noreply.github.com> :: polish readme typo
