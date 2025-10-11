@@ -3771,3 +3771,4 @@
 2025-10-11T14:09:50.943Z Keijiro Takahashi <keijiro@users.noreply.github.com> :: add build script
 2025-10-11T14:33:00.040Z Shuichi Tsutsumi <shu223@users.noreply.github.com> :: add readme typo
 2025-10-11T15:22:02.017Z Edward Viaene <wardviaene@users.noreply.github.com> :: add readme typo
+2025-10-11T16:12:55.772Z José Padilla <jpadilla@users.noreply.github.com> :: polish dead code
