@@ -2033,3 +2033,4 @@
 2025-10-11T08:29:32.210Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up dead code
 2025-10-11T08:31:08.408Z Diu <ddiu8081@users.noreply.github.com> :: polish config defaults
 2025-10-11T08:42:10.916Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: update build script
+2025-10-11T10:38:17.121Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up null check
