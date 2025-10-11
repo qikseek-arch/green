@@ -1416,3 +1416,4 @@
 2025-10-11T00:11:46.316Z S4IL <S4IL21@users.noreply.github.com> :: clean up logging
 2025-10-11T01:26:17.854Z Daniel Lemire <lemire@users.noreply.github.com> :: clean up logging
 2025-10-11T01:31:15.242Z Yuanming Hu <yuanming-hu@users.noreply.github.com> :: add build script
+2025-10-11T01:44:21.863Z Any Association <anyproto@users.noreply.github.com> :: fix edge case in auth
