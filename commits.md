@@ -26,3 +26,4 @@
 2025-10-11T07:36:38.951Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: wire up the parser
 2025-10-11T19:55:29.455Z DeepSeek <service@deepseek.com> :: remove error handling
 2025-10-11T20:26:45.774Z Alex Yang <himself65@users.noreply.github.com> :: fix logging
+2025-10-11T21:56:53.413Z Iuri Silva <iuricode@users.noreply.github.com> :: remove retry logic
