@@ -2031,3 +2031,4 @@
 2025-10-11T07:39:17.732Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish retry logic
 2025-10-11T07:40:45.876Z 技术胖 <shenghy@users.noreply.github.com> :: clean up the CI matrix
 2025-10-11T08:29:32.210Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up dead code
+2025-10-11T08:31:08.408Z Diu <ddiu8081@users.noreply.github.com> :: polish config defaults
