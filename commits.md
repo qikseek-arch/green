@@ -1439,3 +1439,4 @@
 2025-10-11T15:58:13.790Z Jackson Tian <JacksonTian@users.noreply.github.com> :: fix build script
 2025-10-11T18:34:18.778Z S4IL <S4IL21@users.noreply.github.com> :: tweak retry logic
 2025-10-11T19:03:00.113Z Ben Balter <benbalter@users.noreply.github.com> :: polish retry logic
+2025-10-11T19:19:05.361Z Ben Balter <benbalter@users.noreply.github.com> :: remove edge case in auth
