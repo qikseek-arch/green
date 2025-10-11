@@ -2019,3 +2019,4 @@
 2025-10-10T23:04:39.075Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: bump logging
 2025-10-11T00:14:52.188Z z3r0yu <zer0yu@users.noreply.github.com> :: polish flaky test
 2025-10-11T00:23:00.013Z Andrew Mead <andrewjmead@users.noreply.github.com> :: clean up error handling
+2025-10-11T00:27:22.357Z Composio <hello@composio.dev> :: bump config defaults
