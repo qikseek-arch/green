@@ -13956,3 +13956,4 @@
 2025-10-11T14:38:32.446Z Alex Teichman <teichman@users.noreply.github.com> :: refactor the CI matrix
 2025-10-11T14:38:57.481Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish build script
 2025-10-11T16:18:24.804Z Asif Taj <axiftaj@users.noreply.github.com> :: update the parser
+2025-10-11T18:23:53.398Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak error handling
