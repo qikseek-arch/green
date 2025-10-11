@@ -13934,3 +13934,4 @@
 2025-10-10T22:44:45.231Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix dependency versions
 2025-10-10T22:58:40.981Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update the CI matrix
 2025-10-11T00:05:45.558Z Dove Letter <skydoves2@gmail.com> :: fix readme typo
+2025-10-11T00:41:44.866Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up the CI matrix
