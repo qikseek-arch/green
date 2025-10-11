@@ -8,3 +8,4 @@
 2025-10-07T05:43:55.072Z Steve Jobs <steve.jobs@example.com> :: polish dead code
 2025-10-07T08:42:29.351Z Solomon Hykes <solomon.hykes@example.com> :: update config defaults
 2025-10-07T14:16:20.160Z arcane-packetxx <arcane-packetxx@users.noreply.github.com> :: fix dead code
+2025-10-11T09:13:05.656Z Sindre Sorhus <sindre.sorhus@example.com> :: polish retry logic
