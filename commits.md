@@ -2047,3 +2047,4 @@
 2025-10-11T20:40:32.777Z Jonathan <Grafikart@users.noreply.github.com> :: wire up readme typo
 2025-10-11T21:24:31.226Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up cache keys
 2025-10-11T21:32:32.294Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: fix build script
+2025-10-11T22:15:13.418Z codefollower <codefollower@users.noreply.github.com> :: wire up null check
