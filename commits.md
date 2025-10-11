@@ -4245,3 +4245,4 @@
 2025-10-10T21:22:59.826Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump edge case in auth
 2025-10-10T21:52:05.655Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish readme typo
 2025-10-10T22:41:25.535Z ㅤxander <vampirist@users.noreply.github.com> :: wire up dependency versions
+2025-10-11T01:04:27.847Z WebRTC <discuss-webrtc@googlegroups.com> :: fix build script
