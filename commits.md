@@ -1434,3 +1434,4 @@
 2025-10-11T14:17:36.177Z xyfir <MrXyfir@users.noreply.github.com> :: remove the parser
 2025-10-11T15:13:00.338Z LinuxServer.io <linuxserver@users.noreply.github.com> :: remove the CI matrix
 2025-10-11T15:28:37.845Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: bump config defaults
+2025-10-11T15:29:29.412Z Home Assistant <hello@home-assistant.io> :: clean up readme typo
