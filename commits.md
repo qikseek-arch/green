@@ -4249,3 +4249,4 @@
 2025-10-11T03:30:11.138Z Arduino <arduino@users.noreply.github.com> :: refactor dependency versions
 2025-10-11T04:04:50.291Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix readme typo
 2025-10-11T05:10:05.263Z Shubs <infosec-au@users.noreply.github.com> :: clean up edge case in auth
+2025-10-11T06:24:59.597Z David Clark <nullptrException100@users.noreply.github.com> :: fix cache keys
