@@ -1414,3 +1414,4 @@
 2025-10-10T22:54:48.649Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix config defaults
 2025-10-10T23:10:02.628Z Ben Balter <benbalter@users.noreply.github.com> :: tweak dead code
 2025-10-11T00:11:46.316Z S4IL <S4IL21@users.noreply.github.com> :: clean up logging
+2025-10-11T01:26:17.854Z Daniel Lemire <lemire@users.noreply.github.com> :: clean up logging
