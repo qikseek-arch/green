@@ -13949,3 +13949,4 @@
 2025-10-11T11:34:14.905Z J.Baci <jbaci@users.noreply.github.com> :: refactor dependency versions
 2025-10-11T11:50:21.267Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: clean up dependency versions
 2025-10-11T12:10:20.949Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix dead code
+2025-10-11T13:03:32.843Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up logging
