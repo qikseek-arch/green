@@ -4247,3 +4247,4 @@
 2025-10-10T22:41:25.535Z ㅤxander <vampirist@users.noreply.github.com> :: wire up dependency versions
 2025-10-11T01:04:27.847Z WebRTC <discuss-webrtc@googlegroups.com> :: fix build script
 2025-10-11T03:30:11.138Z Arduino <arduino@users.noreply.github.com> :: refactor dependency versions
+2025-10-11T04:04:50.291Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix readme typo
