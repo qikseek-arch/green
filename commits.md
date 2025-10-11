@@ -13955,3 +13955,4 @@
 2025-10-11T14:33:46.692Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
 2025-10-11T14:38:32.446Z Alex Teichman <teichman@users.noreply.github.com> :: refactor the CI matrix
 2025-10-11T14:38:57.481Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish build script
+2025-10-11T16:18:24.804Z Asif Taj <axiftaj@users.noreply.github.com> :: update the parser
