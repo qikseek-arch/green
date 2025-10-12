@@ -13969,3 +13969,4 @@
 2025-10-12T08:35:32.033Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: refactor readme typo
 2025-10-12T08:45:48.505Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: refactor retry logic
 2025-10-12T08:51:02.540Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump dependency versions
+2025-10-12T09:25:17.841Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix dependency versions
