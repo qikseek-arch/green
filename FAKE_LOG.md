@@ -608,3 +608,4 @@
 2025-10-08T07:12:10.552Z The Octocat <octocat@users.noreply.github.com> :: add the parser
 2025-10-08T11:28:10.093Z Ruan YiFeng <ruanyf@users.noreply.github.com> :: refactor the CI matrix
 2025-10-11T09:13:15.890Z Kirat <hkirat@users.noreply.github.com> :: update logging
+2025-10-12T02:59:10.917Z Stephen Grider <StephenGrider@users.noreply.github.com> :: clean up build script
