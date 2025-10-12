@@ -4285,3 +4285,4 @@
 2025-10-12T16:40:37.857Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak cache keys
 2025-10-12T16:40:50.888Z heyli <lcxfs1991@users.noreply.github.com> :: remove config defaults
 2025-10-12T17:38:05.899Z Manu Arora <manuarora700@users.noreply.github.com> :: fix the parser
+2025-10-12T18:10:38.811Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish retry logic
