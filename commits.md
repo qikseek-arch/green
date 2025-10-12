@@ -2050,3 +2050,4 @@
 2025-10-11T22:15:13.418Z codefollower <codefollower@users.noreply.github.com> :: wire up null check
 2025-10-11T22:22:46.053Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: wire up dead code
 2025-10-11T22:45:02.023Z Codewars <info@codewars.com> :: remove dead code
+2025-10-12T00:47:11.805Z TON Connect <ton-connect@users.noreply.github.com> :: refactor the parser
