@@ -1446,3 +1446,4 @@
 2025-10-11T22:48:58.059Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: add the CI matrix
 2025-10-12T01:27:45.923Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: wire up build script
 2025-10-12T03:48:27.529Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: clean up retry logic
+2025-10-12T04:11:35.047Z Mistral AI <contact@mistral.ai> :: fix error handling
