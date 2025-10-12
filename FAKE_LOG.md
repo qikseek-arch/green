@@ -609,3 +609,4 @@
 2025-10-08T11:28:10.093Z Ruan YiFeng <ruanyf@users.noreply.github.com> :: refactor the CI matrix
 2025-10-11T09:13:15.890Z Kirat <hkirat@users.noreply.github.com> :: update logging
 2025-10-12T02:59:10.917Z Stephen Grider <StephenGrider@users.noreply.github.com> :: clean up build script
+2025-10-12T19:01:06.240Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: fix build script
