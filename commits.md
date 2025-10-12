@@ -13979,3 +13979,4 @@
 2025-10-12T18:09:45.373Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak readme typo
 2025-10-12T18:30:28.574Z Michael Jackson <mjackson@users.noreply.github.com> :: polish config defaults
 2025-10-12T20:08:12.982Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update the CI matrix
+2025-10-12T21:54:32.506Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix the CI matrix
