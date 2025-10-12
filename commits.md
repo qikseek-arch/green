@@ -1445,3 +1445,4 @@
 2025-10-11T21:43:46.282Z Vishwas <gopinav@users.noreply.github.com> :: polish the CI matrix
 2025-10-11T22:48:58.059Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: add the CI matrix
 2025-10-12T01:27:45.923Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: wire up build script
+2025-10-12T03:48:27.529Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: clean up retry logic
