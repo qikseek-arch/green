@@ -13978,3 +13978,4 @@
 2025-10-12T18:03:43.088Z cytopia <cytopia@users.noreply.github.com> :: wire up build script
 2025-10-12T18:09:45.373Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak readme typo
 2025-10-12T18:30:28.574Z Michael Jackson <mjackson@users.noreply.github.com> :: polish config defaults
+2025-10-12T20:08:12.982Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update the CI matrix
