@@ -4281,3 +4281,4 @@
 2025-10-12T13:26:27.308Z Getgems <getgems-io@users.noreply.github.com> :: add the CI matrix
 2025-10-12T13:35:53.921Z Sadık TURAN <sadikturan@users.noreply.github.com> :: fix dependency versions
 2025-10-12T14:24:56.834Z OpenJS Foundation <info@openjsf.org> :: add retry logic
+2025-10-12T14:30:41.361Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add readme typo
