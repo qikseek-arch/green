@@ -28,3 +28,4 @@
 2025-10-11T20:26:45.774Z Alex Yang <himself65@users.noreply.github.com> :: fix logging
 2025-10-11T21:56:53.413Z Iuri Silva <iuricode@users.noreply.github.com> :: remove retry logic
 2025-10-12T05:39:48.195Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: refactor config defaults
+2025-10-12T06:54:47.870Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: bump edge case in auth
