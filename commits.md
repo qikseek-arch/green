@@ -1464,3 +1464,4 @@
 2025-10-12T11:38:12.941Z xyfir <MrXyfir@users.noreply.github.com> :: bump logging
 2025-10-12T11:59:45.279Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix null check
 2025-10-12T13:54:30.835Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up null check
+2025-10-12T14:08:43.058Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish null check
