@@ -1448,3 +1448,4 @@
 2025-10-12T03:48:27.529Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: clean up retry logic
 2025-10-12T04:11:35.047Z Mistral AI <contact@mistral.ai> :: fix error handling
 2025-10-12T04:31:30.514Z David <blocage@users.noreply.github.com> :: clean up dependency versions
+2025-10-12T05:37:52.556Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: remove config defaults
