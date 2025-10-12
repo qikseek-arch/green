@@ -2059,3 +2059,4 @@
 2025-10-12T04:56:05.593Z Vivid Network <vivid.network@outlook.com> :: wire up cache keys
 2025-10-12T07:13:10.242Z 0chencc <0Chencc@users.noreply.github.com> :: add cache keys
 2025-10-12T07:14:18.761Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor dependency versions
+2025-10-12T07:53:24.092Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor config defaults
