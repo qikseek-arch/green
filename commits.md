@@ -3782,3 +3782,4 @@
 2025-10-12T01:25:30.575Z 今越星礼 <dwqs@users.noreply.github.com> :: update the parser
 2025-10-12T02:27:20.246Z Andreas Spiess <SensorsIot@users.noreply.github.com> :: polish the parser
 2025-10-12T02:53:54.308Z @greweb <gre@users.noreply.github.com> :: remove flaky test
+2025-10-12T02:55:33.506Z Cyb_detective <cipher387@users.noreply.github.com> :: polish edge case in auth
