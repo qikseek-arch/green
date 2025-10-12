@@ -13965,3 +13965,4 @@
 2025-10-12T00:57:53.465Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix flaky test
 2025-10-12T03:35:21.340Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor the parser
 2025-10-12T06:19:42.798Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor retry logic
+2025-10-12T08:28:12.438Z Collabnix <collabnix@users.noreply.github.com> :: fix null check
