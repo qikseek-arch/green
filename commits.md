@@ -4288,3 +4288,4 @@
 2025-10-12T18:10:38.811Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish retry logic
 2025-10-12T18:44:41.926Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix edge case in auth
 2025-10-12T19:10:51.657Z ㅤxander <vampirist@users.noreply.github.com> :: polish logging
+2025-10-12T19:54:51.094Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak build script
