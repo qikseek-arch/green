@@ -2053,3 +2053,4 @@
 2025-10-12T00:47:11.805Z TON Connect <ton-connect@users.noreply.github.com> :: refactor the parser
 2025-10-12T01:02:36.064Z Tuba Khan <tubakhxn@users.noreply.github.com> :: clean up dependency versions
 2025-10-12T02:20:15.238Z farza <farzaa@users.noreply.github.com> :: add dead code
+2025-10-12T04:01:53.071Z sharkeer <sharkeer@users.noreply.github.com> :: bump error handling
