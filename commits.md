@@ -1453,3 +1453,4 @@
 2025-10-12T05:47:10.016Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: update logging
 2025-10-12T06:11:07.553Z Fernando Cejas <android10@users.noreply.github.com> :: add edge case in auth
 2025-10-12T06:26:26.278Z Alura Cursos Online <contato@alura.com.br> :: bump flaky test
+2025-10-12T06:26:47.786Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: add build script
