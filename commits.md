@@ -1447,3 +1447,4 @@
 2025-10-12T01:27:45.923Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: wire up build script
 2025-10-12T03:48:27.529Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: clean up retry logic
 2025-10-12T04:11:35.047Z Mistral AI <contact@mistral.ai> :: fix error handling
+2025-10-12T04:31:30.514Z David <blocage@users.noreply.github.com> :: clean up dependency versions
