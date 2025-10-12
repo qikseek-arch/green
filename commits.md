@@ -3779,3 +3779,4 @@
 2025-10-11T20:09:28.102Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
 2025-10-11T21:20:33.039Z Riley Testut <rileytestut@users.noreply.github.com> :: fix the CI matrix
 2025-10-11T23:35:37.099Z Benny Huo <bennyhuo@users.noreply.github.com> :: refactor dependency versions
+2025-10-12T01:25:30.575Z 今越星礼 <dwqs@users.noreply.github.com> :: update the parser
