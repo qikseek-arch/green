@@ -2051,3 +2051,4 @@
 2025-10-11T22:22:46.053Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: wire up dead code
 2025-10-11T22:45:02.023Z Codewars <info@codewars.com> :: remove dead code
 2025-10-12T00:47:11.805Z TON Connect <ton-connect@users.noreply.github.com> :: refactor the parser
+2025-10-12T01:02:36.064Z Tuba Khan <tubakhxn@users.noreply.github.com> :: clean up dependency versions
