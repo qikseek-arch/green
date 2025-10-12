@@ -2075,3 +2075,4 @@
 2025-10-12T22:01:08.636Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: clean up config defaults
 2025-10-12T22:04:51.239Z Aditya Shakya <adi1090x@users.noreply.github.com> :: polish error handling
 2025-10-12T22:29:58.751Z Yuan Sun <sunnyxx@users.noreply.github.com> :: add the parser
+2025-10-12T23:00:26.933Z Vitor Freitas <vitorfs@users.noreply.github.com> :: update build script
