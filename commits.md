@@ -13966,3 +13966,4 @@
 2025-10-12T03:35:21.340Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor the parser
 2025-10-12T06:19:42.798Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor retry logic
 2025-10-12T08:28:12.438Z Collabnix <collabnix@users.noreply.github.com> :: fix null check
+2025-10-12T08:35:32.033Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: refactor readme typo
