@@ -2066,3 +2066,4 @@
 2025-10-12T13:51:47.221Z OpenXLA <openxla@users.noreply.github.com> :: add flaky test
 2025-10-12T14:51:12.971Z Codewars <info@codewars.com> :: remove readme typo
 2025-10-12T15:32:57.112Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove the CI matrix
+2025-10-12T16:31:42.084Z farza <farzaa@users.noreply.github.com> :: bump edge case in auth
