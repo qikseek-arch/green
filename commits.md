@@ -13977,3 +13977,4 @@
 2025-10-12T17:49:10.861Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: bump dead code
 2025-10-12T18:03:43.088Z cytopia <cytopia@users.noreply.github.com> :: wire up build script
 2025-10-12T18:09:45.373Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak readme typo
+2025-10-12T18:30:28.574Z Michael Jackson <mjackson@users.noreply.github.com> :: polish config defaults
