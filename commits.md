@@ -2068,3 +2068,4 @@
 2025-10-12T15:32:57.112Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove the CI matrix
 2025-10-12T16:31:42.084Z farza <farzaa@users.noreply.github.com> :: bump edge case in auth
 2025-10-12T16:35:52.113Z Fabien Potencier <fabpot@users.noreply.github.com> :: polish the CI matrix
+2025-10-12T17:15:23.322Z z3r0yu <zer0yu@users.noreply.github.com> :: fix the CI matrix
