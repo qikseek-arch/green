@@ -4270,3 +4270,4 @@
 2025-10-12T01:14:59.322Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish flaky test
 2025-10-12T01:20:30.299Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor dependency versions
 2025-10-12T02:18:19.897Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor error handling
+2025-10-12T04:53:52.338Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak null check
