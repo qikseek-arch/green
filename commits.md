@@ -4283,3 +4283,4 @@
 2025-10-12T14:24:56.834Z OpenJS Foundation <info@openjsf.org> :: add retry logic
 2025-10-12T14:30:41.361Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add readme typo
 2025-10-12T16:40:37.857Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak cache keys
+2025-10-12T16:40:50.888Z heyli <lcxfs1991@users.noreply.github.com> :: remove config defaults
