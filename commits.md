@@ -14010,3 +14010,4 @@
 2025-10-13T20:48:19.500Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix the CI matrix
 2025-10-13T21:01:16.031Z Collabnix <collabnix@users.noreply.github.com> :: refactor flaky test
 2025-10-13T22:46:20.889Z yakeIore <yakeIore@users.noreply.github.com> :: wire up logging
+2025-10-13T22:52:50.451Z Scott Chacon <schacon@users.noreply.github.com> :: fix config defaults
