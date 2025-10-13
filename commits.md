@@ -13998,3 +13998,4 @@
 2025-10-13T09:46:22.162Z cytopia <cytopia@users.noreply.github.com> :: tweak null check
 2025-10-13T10:51:06.552Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove logging
 2025-10-13T10:53:58.143Z J.Baci <jbaci@users.noreply.github.com> :: remove dependency versions
+2025-10-13T11:13:23.903Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove the parser
