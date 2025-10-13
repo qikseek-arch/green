@@ -1477,3 +1477,4 @@
 2025-10-13T03:27:01.771Z Simon Willison <simonw@users.noreply.github.com> :: tweak build script
 2025-10-13T04:10:03.727Z S4IL <S4IL21@users.noreply.github.com> :: fix the parser
 2025-10-13T05:05:16.922Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the CI matrix
+2025-10-13T06:20:47.449Z Any Association <anyproto@users.noreply.github.com> :: fix error handling
