@@ -2093,3 +2093,4 @@
 2025-10-13T13:25:32.877Z TON Connect <ton-connect@users.noreply.github.com> :: tweak config defaults
 2025-10-13T13:43:27.189Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: fix logging
 2025-10-13T15:11:55.124Z John Blackbourn <johnbillion@users.noreply.github.com> :: wire up the CI matrix
+2025-10-13T15:55:43.411Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: bump error handling
