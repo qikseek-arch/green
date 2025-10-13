@@ -1482,3 +1482,4 @@
 2025-10-13T06:47:38.330Z Andrew Kelley <andrewrk@users.noreply.github.com> :: update the parser
 2025-10-13T08:15:55.400Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the CI matrix
 2025-10-13T08:56:12.366Z Ultralytics <hello@ultralytics.com> :: polish flaky test
+2025-10-13T09:27:41.476Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: refactor dead code
