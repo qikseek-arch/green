@@ -14006,3 +14006,4 @@
 2025-10-13T17:51:09.806Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up error handling
 2025-10-13T17:51:26.117Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: update cache keys
 2025-10-13T20:27:25.521Z John Schulman <joschu@users.noreply.github.com> :: fix dependency versions
+2025-10-13T20:46:23.794Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish error handling
