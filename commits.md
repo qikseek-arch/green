@@ -2080,3 +2080,4 @@
 2025-10-13T00:28:08.811Z Andrew Mead <andrewjmead@users.noreply.github.com> :: remove the parser
 2025-10-13T03:01:49.791Z Vitor Freitas <vitorfs@users.noreply.github.com> :: refactor dead code
 2025-10-13T03:16:49.027Z Xe Iaso <Xe@users.noreply.github.com> :: polish edge case in auth
+2025-10-13T05:06:31.644Z ElevenLabs <developers@elevenlabs.io> :: fix dead code
