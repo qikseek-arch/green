@@ -2077,3 +2077,4 @@
 2025-10-12T22:29:58.751Z Yuan Sun <sunnyxx@users.noreply.github.com> :: add the parser
 2025-10-12T23:00:26.933Z Vitor Freitas <vitorfs@users.noreply.github.com> :: update build script
 2025-10-13T00:12:35.243Z StackBlitz <hello@stackblitz.com> :: refactor build script
+2025-10-13T00:28:08.811Z Andrew Mead <andrewjmead@users.noreply.github.com> :: remove the parser
