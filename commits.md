@@ -2082,3 +2082,4 @@
 2025-10-13T03:16:49.027Z Xe Iaso <Xe@users.noreply.github.com> :: polish edge case in auth
 2025-10-13T05:06:31.644Z ElevenLabs <developers@elevenlabs.io> :: fix dead code
 2025-10-13T05:24:22.824Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: wire up build script
+2025-10-13T06:18:52.011Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: add the parser
