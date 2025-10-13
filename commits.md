@@ -1480,3 +1480,4 @@
 2025-10-13T06:20:47.449Z Any Association <anyproto@users.noreply.github.com> :: fix error handling
 2025-10-13T06:46:10.594Z Iuri Silva <iuricode@users.noreply.github.com> :: refactor readme typo
 2025-10-13T06:47:38.330Z Andrew Kelley <andrewrk@users.noreply.github.com> :: update the parser
+2025-10-13T08:15:55.400Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the CI matrix
