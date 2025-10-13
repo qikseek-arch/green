@@ -1491,3 +1491,4 @@
 2025-10-13T12:30:23.334Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: add build script
 2025-10-13T12:45:46.606Z Daniel Eden <daneden@users.noreply.github.com> :: tweak error handling
 2025-10-13T13:10:32.279Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix edge case in auth
+2025-10-13T14:36:48.138Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: fix readme typo
