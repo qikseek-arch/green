@@ -14001,3 +14001,4 @@
 2025-10-13T11:13:23.903Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove the parser
 2025-10-13T14:29:11.787Z OpenBMB <openbmb@gmail.com> :: fix retry logic
 2025-10-13T14:40:03.009Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up error handling
+2025-10-13T15:51:52.445Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up retry logic
