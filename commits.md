@@ -2091,3 +2091,4 @@
 2025-10-13T09:12:07.249Z Philip Walton <philipwalton@users.noreply.github.com> :: clean up readme typo
 2025-10-13T10:41:36.446Z Nik Graf <nikgraf@users.noreply.github.com> :: bump cache keys
 2025-10-13T13:25:32.877Z TON Connect <ton-connect@users.noreply.github.com> :: tweak config defaults
+2025-10-13T13:43:27.189Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: fix logging
