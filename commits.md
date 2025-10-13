@@ -13992,3 +13992,4 @@
 2025-10-13T05:39:46.072Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak retry logic
 2025-10-13T07:26:29.470Z yakeIore <yakeIore@users.noreply.github.com> :: add error handling
 2025-10-13T07:45:05.897Z Dove Letter <skydoves2@gmail.com> :: wire up readme typo
+2025-10-13T09:13:01.952Z Lovell Fuller <lovell@users.noreply.github.com> :: update the CI matrix
