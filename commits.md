@@ -2081,3 +2081,4 @@
 2025-10-13T03:01:49.791Z Vitor Freitas <vitorfs@users.noreply.github.com> :: refactor dead code
 2025-10-13T03:16:49.027Z Xe Iaso <Xe@users.noreply.github.com> :: polish edge case in auth
 2025-10-13T05:06:31.644Z ElevenLabs <developers@elevenlabs.io> :: fix dead code
+2025-10-13T05:24:22.824Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: wire up build script
