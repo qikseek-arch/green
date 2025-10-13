@@ -14003,3 +14003,4 @@
 2025-10-13T14:40:03.009Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up error handling
 2025-10-13T15:51:52.445Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up retry logic
 2025-10-13T16:07:03.810Z Michael Jackson <mjackson@users.noreply.github.com> :: remove null check
+2025-10-13T17:51:09.806Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up error handling
