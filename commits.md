@@ -4290,3 +4290,4 @@
 2025-10-12T19:10:51.657Z ㅤxander <vampirist@users.noreply.github.com> :: polish logging
 2025-10-12T19:54:51.094Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak build script
 2025-10-12T23:38:57.742Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor the CI matrix
+2025-10-13T01:08:12.072Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up logging
