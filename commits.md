@@ -2100,3 +2100,4 @@
 2025-10-13T18:05:27.700Z Tuba Khan <tubakhxn@users.noreply.github.com> :: fix dependency versions
 2025-10-13T18:11:26.392Z codefollower <codefollower@users.noreply.github.com> :: wire up retry logic
 2025-10-13T19:21:15.128Z Brandon Dail <aweary@users.noreply.github.com> :: remove cache keys
+2025-10-13T20:03:36.482Z Kenney <KenneyNL@users.noreply.github.com> :: update config defaults
