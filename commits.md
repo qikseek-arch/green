@@ -13989,3 +13989,4 @@
 2025-10-13T04:23:37.495Z John Schulman <joschu@users.noreply.github.com> :: refactor the parser
 2025-10-13T04:39:08.333Z Collabnix <collabnix@users.noreply.github.com> :: add edge case in auth
 2025-10-13T04:56:56.889Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: refactor the CI matrix
+2025-10-13T05:39:46.072Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak retry logic
