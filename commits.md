@@ -1487,3 +1487,4 @@
 2025-10-13T09:59:51.691Z Fernando Cejas <android10@users.noreply.github.com> :: update the parser
 2025-10-13T10:04:38.482Z Pablo RM <murapadev@users.noreply.github.com> :: wire up build script
 2025-10-13T10:31:52.404Z Maximilian <mschwarzmueller@users.noreply.github.com> :: fix dependency versions
+2025-10-13T11:49:00.458Z Astral <hey@astral.sh> :: clean up null check
