@@ -4298,3 +4298,4 @@
 2025-10-13T04:15:19.079Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish null check
 2025-10-13T04:20:46.540Z Shubs <infosec-au@users.noreply.github.com> :: refactor dependency versions
 2025-10-13T05:32:29.553Z ㅤxander <vampirist@users.noreply.github.com> :: refactor flaky test
+2025-10-13T08:10:44.894Z LILYGO <LilyGO@users.noreply.github.com> :: clean up readme typo
