@@ -2103,3 +2103,4 @@
 2025-10-13T20:03:36.482Z Kenney <KenneyNL@users.noreply.github.com> :: update config defaults
 2025-10-13T21:35:40.788Z Kenney <KenneyNL@users.noreply.github.com> :: update build script
 2025-10-13T21:43:08.376Z Gradio <admin@gradio.app> :: update retry logic
+2025-10-13T22:22:54.736Z Vitor Freitas <vitorfs@users.noreply.github.com> :: refactor dependency versions
