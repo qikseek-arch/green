@@ -14018,3 +14018,4 @@
 2025-10-14T03:34:28.408Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update error handling
 2025-10-14T03:52:03.587Z Scott Chacon <schacon@users.noreply.github.com> :: add flaky test
 2025-10-14T03:54:39.187Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak dead code
+2025-10-14T04:14:18.519Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor readme typo
