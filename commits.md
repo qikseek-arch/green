@@ -2121,3 +2121,4 @@
 2025-10-14T12:22:07.512Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: fix null check
 2025-10-14T12:50:19.458Z 卡颂 <BetaSu@users.noreply.github.com> :: tweak the CI matrix
 2025-10-14T13:54:39.812Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: polish config defaults
+2025-10-14T18:01:10.473Z Emil Wallner <emilwallner@users.noreply.github.com> :: add the parser
