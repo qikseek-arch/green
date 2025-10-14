@@ -14015,3 +14015,4 @@
 2025-10-14T01:10:15.104Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update cache keys
 2025-10-14T01:13:06.913Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the parser
 2025-10-14T01:43:32.346Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove logging
+2025-10-14T03:34:28.408Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update error handling
