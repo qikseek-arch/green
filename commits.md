@@ -1516,3 +1516,4 @@
 2025-10-14T19:10:16.635Z George Hotz <geohot@users.noreply.github.com> :: bump dependency versions
 2025-10-14T19:47:12.076Z Simon Willison <simonw@users.noreply.github.com> :: refactor dead code
 2025-10-14T20:07:17.264Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: update flaky test
+2025-10-14T20:11:46.273Z Google <opensource@google.com> :: clean up null check
