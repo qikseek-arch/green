@@ -14026,3 +14026,4 @@
 2025-10-14T07:07:12.218Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix dead code
 2025-10-14T08:14:35.475Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor dead code
 2025-10-14T09:09:00.188Z John Schulman <joschu@users.noreply.github.com> :: update build script
+2025-10-14T09:22:24.443Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up edge case in auth
