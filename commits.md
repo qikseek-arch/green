@@ -4329,3 +4329,4 @@
 2025-10-14T09:42:10.676Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix readme typo
 2025-10-14T10:27:06.941Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up flaky test
 2025-10-14T10:28:08.538Z Adam Łucek <ALucek@users.noreply.github.com> :: update build script
+2025-10-14T10:37:11.245Z LILYGO <LilyGO@users.noreply.github.com> :: refactor null check
