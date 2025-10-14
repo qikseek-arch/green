@@ -14027,3 +14027,4 @@
 2025-10-14T08:14:35.475Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor dead code
 2025-10-14T09:09:00.188Z John Schulman <joschu@users.noreply.github.com> :: update build script
 2025-10-14T09:22:24.443Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up edge case in auth
+2025-10-14T09:30:56.266Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove dependency versions
