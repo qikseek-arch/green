@@ -4324,3 +4324,4 @@
 2025-10-14T06:53:12.099Z vb <Vaibhavs10@users.noreply.github.com> :: update dead code
 2025-10-14T06:56:29.022Z Getgems <getgems-io@users.noreply.github.com> :: fix the parser
 2025-10-14T09:00:05.823Z AI4Bhārat <opensource@ai4bharat.org> :: fix retry logic
+2025-10-14T09:07:41.965Z Keith Smiley <keith@users.noreply.github.com> :: tweak dead code
