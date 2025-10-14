@@ -1499,3 +1499,4 @@
 2025-10-13T20:24:14.457Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: remove the parser
 2025-10-13T20:40:14.879Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: bump cache keys
 2025-10-13T23:53:22.310Z Brent Jackson <jxnblk@users.noreply.github.com> :: polish the CI matrix
+2025-10-14T00:13:06.872Z Any Association <anyproto@users.noreply.github.com> :: fix the CI matrix
