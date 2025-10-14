@@ -1514,3 +1514,4 @@
 2025-10-14T11:18:49.561Z Arduino <arduino@users.noreply.github.com> :: remove readme typo
 2025-10-14T18:54:57.757Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: bump error handling
 2025-10-14T19:10:16.635Z George Hotz <geohot@users.noreply.github.com> :: bump dependency versions
+2025-10-14T19:47:12.076Z Simon Willison <simonw@users.noreply.github.com> :: refactor dead code
