@@ -2108,3 +2108,4 @@
 2025-10-14T00:27:55.574Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: add null check
 2025-10-14T01:32:30.526Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak flaky test
 2025-10-14T03:25:27.598Z 卡颂 <BetaSu@users.noreply.github.com> :: tweak flaky test
+2025-10-14T03:28:53.033Z jist <george0st@users.noreply.github.com> :: polish config defaults
