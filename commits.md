@@ -4330,3 +4330,4 @@
 2025-10-14T10:27:06.941Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up flaky test
 2025-10-14T10:28:08.538Z Adam Łucek <ALucek@users.noreply.github.com> :: update build script
 2025-10-14T10:37:11.245Z LILYGO <LilyGO@users.noreply.github.com> :: refactor null check
+2025-10-14T10:44:57.021Z Daniel Eden <daneden@users.noreply.github.com> :: clean up error handling
