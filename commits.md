@@ -14029,3 +14029,4 @@
 2025-10-14T09:22:24.443Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up edge case in auth
 2025-10-14T09:30:56.266Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove dependency versions
 2025-10-14T09:54:46.300Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up cache keys
+2025-10-14T10:00:38.154Z Andreas Kling <awesomekling@users.noreply.github.com> :: add the CI matrix
