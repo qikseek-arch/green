@@ -2125,3 +2125,4 @@
 2025-10-14T19:51:04.291Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish the CI matrix
 2025-10-14T21:22:16.117Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: update config defaults
 2025-10-14T21:56:53.228Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: tweak dependency versions
+2025-10-14T22:57:04.001Z Steve Gordon <stevejgordon@users.noreply.github.com> :: update build script
