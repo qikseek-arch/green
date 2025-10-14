@@ -4336,3 +4336,4 @@
 2025-10-14T13:19:34.194Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak logging
 2025-10-14T13:42:30.635Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update edge case in auth
 2025-10-14T14:03:05.635Z Getgems <getgems-io@users.noreply.github.com> :: polish null check
+2025-10-14T15:40:55.939Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: remove retry logic
