@@ -2114,3 +2114,4 @@
 2025-10-14T04:37:55.099Z Thomas Wolf <thomwolf@users.noreply.github.com> :: polish the CI matrix
 2025-10-14T04:38:40.447Z Tuba Khan <tubakhxn@users.noreply.github.com> :: refactor cache keys
 2025-10-14T04:55:40.609Z codefollower <codefollower@users.noreply.github.com> :: remove readme typo
+2025-10-14T08:03:57.319Z farza <farzaa@users.noreply.github.com> :: tweak error handling
