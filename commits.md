@@ -1508,3 +1508,4 @@
 2025-10-14T06:25:46.749Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: wire up edge case in auth
 2025-10-14T06:28:10.343Z Zen <zen-browser@users.noreply.github.com> :: tweak null check
 2025-10-14T06:46:18.224Z Part Time Larry <hackingthemarkets@users.noreply.github.com> :: refactor edge case in auth
+2025-10-14T09:47:45.965Z Siraj Raval <llSourcell@users.noreply.github.com> :: tweak error handling
