@@ -14032,3 +14032,4 @@
 2025-10-14T10:00:38.154Z Andreas Kling <awesomekling@users.noreply.github.com> :: add the CI matrix
 2025-10-14T10:51:13.907Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: update cache keys
 2025-10-14T11:40:28.110Z Andreas Kling <awesomekling@users.noreply.github.com> :: update the parser
+2025-10-14T12:25:28.853Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish dependency versions
