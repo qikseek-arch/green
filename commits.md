@@ -4316,3 +4316,4 @@
 2025-10-13T22:09:46.731Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump config defaults
 2025-10-13T23:55:30.113Z Taiko Foundation <info@taiko.xyz> :: remove the parser
 2025-10-14T01:04:48.411Z First Contributions <firstcontributions@gmail.com> :: polish the parser
+2025-10-14T02:53:34.801Z OpenJS Foundation <info@openjsf.org> :: add build script
