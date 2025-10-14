@@ -2116,3 +2116,4 @@
 2025-10-14T04:55:40.609Z codefollower <codefollower@users.noreply.github.com> :: remove readme typo
 2025-10-14T08:03:57.319Z farza <farzaa@users.noreply.github.com> :: tweak error handling
 2025-10-14T08:06:53.565Z Blue <blueedgetechno@users.noreply.github.com> :: bump cache keys
+2025-10-14T11:43:08.350Z Paul Deitel <pdeitel@users.noreply.github.com> :: bump null check
