@@ -2109,3 +2109,4 @@
 2025-10-14T01:32:30.526Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak flaky test
 2025-10-14T03:25:27.598Z 卡颂 <BetaSu@users.noreply.github.com> :: tweak flaky test
 2025-10-14T03:28:53.033Z jist <george0st@users.noreply.github.com> :: polish config defaults
+2025-10-14T04:03:31.196Z Aditya Shakya <adi1090x@users.noreply.github.com> :: update dependency versions
