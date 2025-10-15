@@ -2138,3 +2138,4 @@
 2025-10-15T08:20:03.959Z Aditya Shakya <adi1090x@users.noreply.github.com> :: clean up retry logic
 2025-10-15T10:27:33.712Z sharkeer <sharkeer@users.noreply.github.com> :: update config defaults
 2025-10-15T11:50:02.471Z ligi <ligi@users.noreply.github.com> :: tweak error handling
+2025-10-15T12:51:50.314Z jist <george0st@users.noreply.github.com> :: wire up the CI matrix
