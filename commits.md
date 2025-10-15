@@ -1536,3 +1536,4 @@
 2025-10-15T11:21:23.137Z Home Assistant <hello@home-assistant.io> :: update readme typo
 2025-10-15T11:59:01.814Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: refactor retry logic
 2025-10-15T12:03:00.967Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: add config defaults
+2025-10-15T12:05:08.032Z Kubernetes <kubernetes@users.noreply.github.com> :: fix dependency versions
