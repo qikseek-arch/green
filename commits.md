@@ -14066,3 +14066,4 @@
 2025-10-15T15:37:59.938Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove dead code
 2025-10-15T16:40:14.725Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up build script
 2025-10-15T16:50:53.491Z Tom Dale <tomdale@users.noreply.github.com> :: add the parser
+2025-10-15T17:06:07.888Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
