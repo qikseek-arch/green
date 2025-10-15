@@ -1535,3 +1535,4 @@
 2025-10-15T10:31:12.759Z S4IL <S4IL21@users.noreply.github.com> :: clean up dead code
 2025-10-15T11:21:23.137Z Home Assistant <hello@home-assistant.io> :: update readme typo
 2025-10-15T11:59:01.814Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: refactor retry logic
+2025-10-15T12:03:00.967Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: add config defaults
