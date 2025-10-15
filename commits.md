@@ -4353,3 +4353,4 @@
 2025-10-15T07:15:11.990Z OpenJS Foundation <info@openjsf.org> :: add logging
 2025-10-15T08:17:55.546Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove config defaults
 2025-10-15T09:04:44.972Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak error handling
+2025-10-15T09:41:13.938Z Getgems <getgems-io@users.noreply.github.com> :: fix edge case in auth
