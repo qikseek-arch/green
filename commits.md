@@ -2145,3 +2145,4 @@
 2025-10-15T17:16:21.042Z Andrew Mead <andrewjmead@users.noreply.github.com> :: refactor error handling
 2025-10-15T18:17:59.719Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix config defaults
 2025-10-15T18:43:46.143Z TON Connect <ton-connect@users.noreply.github.com> :: update error handling
+2025-10-15T18:53:39.533Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: fix retry logic
