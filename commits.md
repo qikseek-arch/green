@@ -14069,3 +14069,4 @@
 2025-10-15T17:06:07.888Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
 2025-10-15T18:08:56.618Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add cache keys
 2025-10-15T19:08:56.590Z Jordan Harband <ljharb@users.noreply.github.com> :: update readme typo
+2025-10-15T20:05:10.249Z Amnezia VPN <support@amnezia.org> :: clean up edge case in auth
