@@ -4358,3 +4358,4 @@
 2025-10-15T10:00:01.038Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add the CI matrix
 2025-10-15T11:19:49.379Z Keith Smiley <keith@users.noreply.github.com> :: bump dependency versions
 2025-10-15T11:32:34.014Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add config defaults
+2025-10-15T18:14:38.256Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump config defaults
