@@ -1542,3 +1542,4 @@
 2025-10-15T14:05:17.637Z LinuxServer.io <linuxserver@users.noreply.github.com> :: remove logging
 2025-10-15T15:32:00.275Z Chris Wanstrath <defunkt@users.noreply.github.com> :: remove config defaults
 2025-10-15T17:26:50.033Z Bitcoin <bitcoin@users.noreply.github.com> :: tweak edge case in auth
+2025-10-15T20:58:16.479Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: add dependency versions
