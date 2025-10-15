@@ -4344,3 +4344,4 @@
 2025-10-14T22:41:50.208Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump build script
 2025-10-15T00:33:57.430Z Taiko Foundation <info@taiko.xyz> :: update readme typo
 2025-10-15T01:07:41.692Z AI4Bhārat <opensource@ai4bharat.org> :: fix dead code
+2025-10-15T01:49:22.561Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up build script
