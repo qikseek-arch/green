@@ -14062,3 +14062,4 @@
 2025-10-15T13:32:35.212Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update error handling
 2025-10-15T13:42:24.150Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor null check
 2025-10-15T14:02:42.741Z Tom Dale <tomdale@users.noreply.github.com> :: wire up edge case in auth
+2025-10-15T15:32:47.852Z Collabnix <collabnix@users.noreply.github.com> :: update build script
