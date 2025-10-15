@@ -4350,3 +4350,4 @@
 2025-10-15T02:19:17.227Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump logging
 2025-10-15T05:13:02.627Z vb <Vaibhavs10@users.noreply.github.com> :: wire up error handling
 2025-10-15T07:03:50.254Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak flaky test
+2025-10-15T07:15:11.990Z OpenJS Foundation <info@openjsf.org> :: add logging
