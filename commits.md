@@ -14055,3 +14055,4 @@
 2025-10-15T09:05:13.856Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor config defaults
 2025-10-15T10:35:27.208Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up dependency versions
 2025-10-15T10:49:48.172Z John Schulman <joschu@users.noreply.github.com> :: wire up dependency versions
+2025-10-15T11:47:51.999Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up edge case in auth
