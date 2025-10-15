@@ -2155,3 +2155,4 @@
 2025-10-15T22:24:51.289Z 卡颂 <BetaSu@users.noreply.github.com> :: bump retry logic
 2025-10-15T22:29:24.393Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: add dependency versions
 2025-10-15T22:32:01.552Z Navin Reddy <navinreddy20@users.noreply.github.com> :: wire up config defaults
+2025-10-15T22:35:37.479Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix null check
