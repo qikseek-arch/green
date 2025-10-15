@@ -2142,3 +2142,4 @@
 2025-10-15T14:54:55.893Z ElevenLabs <developers@elevenlabs.io> :: update edge case in auth
 2025-10-15T16:51:31.521Z 技术胖 <shenghy@users.noreply.github.com> :: add retry logic
 2025-10-15T16:57:22.936Z 开源中国 <oschina@users.noreply.github.com> :: remove dead code
+2025-10-15T17:16:21.042Z Andrew Mead <andrewjmead@users.noreply.github.com> :: refactor error handling
