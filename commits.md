@@ -2140,3 +2140,4 @@
 2025-10-15T11:50:02.471Z ligi <ligi@users.noreply.github.com> :: tweak error handling
 2025-10-15T12:51:50.314Z jist <george0st@users.noreply.github.com> :: wire up the CI matrix
 2025-10-15T14:54:55.893Z ElevenLabs <developers@elevenlabs.io> :: update edge case in auth
+2025-10-15T16:51:31.521Z 技术胖 <shenghy@users.noreply.github.com> :: add retry logic
