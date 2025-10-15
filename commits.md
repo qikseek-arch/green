@@ -1543,3 +1543,4 @@
 2025-10-15T15:32:00.275Z Chris Wanstrath <defunkt@users.noreply.github.com> :: remove config defaults
 2025-10-15T17:26:50.033Z Bitcoin <bitcoin@users.noreply.github.com> :: tweak edge case in auth
 2025-10-15T20:58:16.479Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: add dependency versions
+2025-10-15T21:11:43.771Z Simon Willison <simonw@users.noreply.github.com> :: bump retry logic
