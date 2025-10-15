@@ -2156,3 +2156,4 @@
 2025-10-15T22:29:24.393Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: add dependency versions
 2025-10-15T22:32:01.552Z Navin Reddy <navinreddy20@users.noreply.github.com> :: wire up config defaults
 2025-10-15T22:35:37.479Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix null check
+2025-10-15T23:11:34.346Z sharkeer <sharkeer@users.noreply.github.com> :: update edge case in auth
