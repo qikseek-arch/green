@@ -2136,3 +2136,4 @@
 2025-10-15T08:03:04.903Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: refactor the CI matrix
 2025-10-15T08:18:27.714Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish retry logic
 2025-10-15T08:20:03.959Z Aditya Shakya <adi1090x@users.noreply.github.com> :: clean up retry logic
+2025-10-15T10:27:33.712Z sharkeer <sharkeer@users.noreply.github.com> :: update config defaults
