@@ -1544,3 +1544,4 @@
 2025-10-15T17:26:50.033Z Bitcoin <bitcoin@users.noreply.github.com> :: tweak edge case in auth
 2025-10-15T20:58:16.479Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: add dependency versions
 2025-10-15T21:11:43.771Z Simon Willison <simonw@users.noreply.github.com> :: bump retry logic
+2025-10-15T22:26:53.999Z Ultralytics <hello@ultralytics.com> :: update null check
