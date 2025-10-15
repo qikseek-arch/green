@@ -14052,3 +14052,4 @@
 2025-10-15T03:18:58.333Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak retry logic
 2025-10-15T03:20:48.943Z Morvan <MorvanZhou@users.noreply.github.com> :: clean up the parser
 2025-10-15T06:17:32.267Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up dependency versions
+2025-10-15T09:05:13.856Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor config defaults
