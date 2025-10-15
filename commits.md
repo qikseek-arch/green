@@ -2132,3 +2132,4 @@
 2025-10-15T03:00:36.562Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: tweak dependency versions
 2025-10-15T03:30:52.918Z Gradio <admin@gradio.app> :: bump flaky test
 2025-10-15T05:10:33.154Z Navin Reddy <navinreddy20@users.noreply.github.com> :: wire up cache keys
+2025-10-15T06:30:12.258Z Thomas Wolf <thomwolf@users.noreply.github.com> :: polish logging
