@@ -14063,3 +14063,4 @@
 2025-10-15T13:42:24.150Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor null check
 2025-10-15T14:02:42.741Z Tom Dale <tomdale@users.noreply.github.com> :: wire up edge case in auth
 2025-10-15T15:32:47.852Z Collabnix <collabnix@users.noreply.github.com> :: update build script
+2025-10-15T15:37:59.938Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove dead code
