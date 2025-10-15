@@ -2129,3 +2129,4 @@
 2025-10-15T01:17:24.485Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: update config defaults
 2025-10-15T02:00:10.461Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: add flaky test
 2025-10-15T02:54:00.382Z LN <ln-dev7@users.noreply.github.com> :: fix readme typo
+2025-10-15T03:00:36.562Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: tweak dependency versions
