@@ -4360,3 +4360,4 @@
 2025-10-15T11:32:34.014Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add config defaults
 2025-10-15T18:14:38.256Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump config defaults
 2025-10-15T18:47:30.634Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
+2025-10-15T18:54:26.126Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix edge case in auth
