@@ -2151,3 +2151,4 @@
 2025-10-15T20:34:55.651Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump readme typo
 2025-10-15T21:05:19.748Z 郭飞 <guofei9987@users.noreply.github.com> :: wire up the parser
 2025-10-15T21:12:45.898Z ligi <ligi@users.noreply.github.com> :: polish the parser
+2025-10-15T22:13:08.038Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: update dead code
