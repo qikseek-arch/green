@@ -2147,3 +2147,4 @@
 2025-10-15T18:43:46.143Z TON Connect <ton-connect@users.noreply.github.com> :: update error handling
 2025-10-15T18:53:39.533Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: fix retry logic
 2025-10-15T18:58:01.421Z Aditya Shakya <adi1090x@users.noreply.github.com> :: bump the parser
+2025-10-15T19:56:20.371Z Composio <hello@composio.dev> :: add readme typo
