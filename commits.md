@@ -1522,3 +1522,4 @@
 2025-10-14T22:29:56.531Z Bitcoin <bitcoin@users.noreply.github.com> :: clean up null check
 2025-10-14T23:41:35.570Z Peter Steinberger <steipete@users.noreply.github.com> :: tweak edge case in auth
 2025-10-15T03:04:34.411Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: bump flaky test
+2025-10-15T03:45:47.824Z LinuxServer.io <linuxserver@users.noreply.github.com> :: fix build script
