@@ -14060,3 +14060,4 @@
 2025-10-15T12:50:07.599Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove dependency versions
 2025-10-15T13:02:52.325Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove logging
 2025-10-15T13:32:35.212Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update error handling
+2025-10-15T13:42:24.150Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor null check
