@@ -14071,3 +14071,4 @@
 2025-10-15T19:08:56.590Z Jordan Harband <ljharb@users.noreply.github.com> :: update readme typo
 2025-10-15T20:05:10.249Z Amnezia VPN <support@amnezia.org> :: clean up edge case in auth
 2025-10-15T20:09:32.729Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: fix retry logic
+2025-10-15T20:20:00.151Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
