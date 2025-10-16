@@ -4368,3 +4368,4 @@
 2025-10-16T03:17:35.881Z Adam Bell <b3ll@users.noreply.github.com> :: remove edge case in auth
 2025-10-16T03:56:49.846Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: update logging
 2025-10-16T03:59:30.202Z David Fowler <davidfowl@users.noreply.github.com> :: tweak null check
+2025-10-16T04:17:41.116Z Manu Arora <manuarora700@users.noreply.github.com> :: add null check
