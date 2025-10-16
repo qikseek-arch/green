@@ -2166,3 +2166,4 @@
 2025-10-16T05:06:57.189Z Kenney <KenneyNL@users.noreply.github.com> :: clean up dependency versions
 2025-10-16T05:27:27.843Z Vivid Network <vivid.network@outlook.com> :: polish edge case in auth
 2025-10-16T05:33:45.794Z Philip Walton <philipwalton@users.noreply.github.com> :: clean up the CI matrix
+2025-10-16T06:04:48.411Z Aditya Shakya <adi1090x@users.noreply.github.com> :: refactor edge case in auth
