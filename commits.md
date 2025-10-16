@@ -4383,3 +4383,4 @@
 2025-10-16T16:01:17.390Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak retry logic
 2025-10-16T17:40:22.720Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up retry logic
 2025-10-16T19:25:36.922Z SouJunior <wouerner@soujunior.tech> :: add build script
+2025-10-16T19:27:16.377Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak config defaults
