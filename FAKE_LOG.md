@@ -301,3 +301,4 @@
 2025-10-04T10:29:36.669Z velvet-cobra_io <velvet-cobra_io@fake.invalid> :: clean up logging
 2025-10-09T02:32:47.382Z quantumcobra988 <quantumcobra988@fake.invalid> :: add edge case in auth
 2025-10-14T06:51:38.099Z turbo-otter <turbo-otter@fake.invalid> :: add the CI matrix | Co-authored-by: DeepSeek <service@deepseek.com>
+2025-10-16T15:46:36.425Z onyx <onyx@fake.invalid> :: update build script
