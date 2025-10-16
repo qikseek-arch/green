@@ -4362,3 +4362,4 @@
 2025-10-15T18:47:30.634Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
 2025-10-15T18:54:26.126Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix edge case in auth
 2025-10-15T21:17:42.064Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak edge case in auth
+2025-10-16T00:31:18.176Z Manu Arora <manuarora700@users.noreply.github.com> :: remove build script
