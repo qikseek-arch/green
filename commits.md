@@ -4376,3 +4376,4 @@
 2025-10-16T12:23:10.392Z Bytedance Inc. <bytedance@users.noreply.github.com> :: wire up build script
 2025-10-16T13:28:26.306Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak dead code
 2025-10-16T13:42:27.552Z Aurélien Geron <ageron@users.noreply.github.com> :: bump config defaults
+2025-10-16T13:58:55.974Z First Contributions <firstcontributions@gmail.com> :: clean up error handling
