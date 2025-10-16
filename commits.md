@@ -14093,3 +14093,4 @@
 2025-10-16T13:09:04.613Z Collabnix <collabnix@users.noreply.github.com> :: tweak build script
 2025-10-16T15:49:11.636Z OpenBMB <openbmb@gmail.com> :: remove flaky test
 2025-10-16T17:30:47.475Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish retry logic
+2025-10-16T17:59:05.154Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: update config defaults
