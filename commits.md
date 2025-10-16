@@ -1569,3 +1569,4 @@
 2025-10-16T17:48:39.221Z Aplus Developer <aplus-developer@users.noreply.github.com> :: bump edge case in auth
 2025-10-16T18:04:36.177Z Arduino <arduino@users.noreply.github.com> :: update dead code
 2025-10-16T18:36:21.801Z Nous Research <NousResearch@users.noreply.github.com> :: bump edge case in auth
+2025-10-16T19:29:46.079Z Peter Steinberger <steipete@users.noreply.github.com> :: add the CI matrix
