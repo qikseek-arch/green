@@ -14096,3 +14096,4 @@
 2025-10-16T17:59:05.154Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: update config defaults
 2025-10-16T19:09:45.254Z OpenBMB <openbmb@gmail.com> :: tweak build script
 2025-10-16T19:15:08.673Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak error handling
+2025-10-16T19:36:26.305Z Brian Holt <btholt@users.noreply.github.com> :: clean up dependency versions
