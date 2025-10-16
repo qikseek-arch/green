@@ -4388,3 +4388,4 @@
 2025-10-16T20:14:09.478Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add the CI matrix
 2025-10-16T21:44:40.837Z Barret李靖 <barretlee@users.noreply.github.com> :: polish flaky test
 2025-10-16T22:19:00.844Z Shubs <infosec-au@users.noreply.github.com> :: fix logging
+2025-10-16T22:31:39.459Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish config defaults
