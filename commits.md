@@ -1565,3 +1565,4 @@
 2025-10-16T16:00:15.448Z Arduino <arduino@users.noreply.github.com> :: tweak readme typo
 2025-10-16T16:20:05.736Z Bitcoin <bitcoin@users.noreply.github.com> :: bump error handling
 2025-10-16T16:35:13.877Z Vishwas <gopinav@users.noreply.github.com> :: wire up build script
+2025-10-16T17:26:56.095Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: update null check
