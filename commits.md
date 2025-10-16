@@ -4372,3 +4372,4 @@
 2025-10-16T08:58:16.568Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
 2025-10-16T10:14:58.110Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dead code
 2025-10-16T11:08:47.528Z markqvist <markqvist@users.noreply.github.com> :: wire up config defaults
+2025-10-16T12:03:53.001Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix edge case in auth
