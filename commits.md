@@ -4385,3 +4385,4 @@
 2025-10-16T19:25:36.922Z SouJunior <wouerner@soujunior.tech> :: add build script
 2025-10-16T19:27:16.377Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak config defaults
 2025-10-16T19:49:00.104Z WebRTC <discuss-webrtc@googlegroups.com> :: bump the parser
+2025-10-16T20:14:09.478Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add the CI matrix
