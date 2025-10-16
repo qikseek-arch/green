@@ -2176,3 +2176,4 @@
 2025-10-16T15:46:22.135Z Blue <blueedgetechno@users.noreply.github.com> :: bump build script
 2025-10-16T15:46:48.899Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: remove readme typo
 2025-10-16T16:11:15.046Z 卡颂 <BetaSu@users.noreply.github.com> :: remove retry logic
+2025-10-16T16:38:51.824Z Emil Wallner <emilwallner@users.noreply.github.com> :: wire up config defaults
