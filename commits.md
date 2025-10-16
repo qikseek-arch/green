@@ -4364,3 +4364,4 @@
 2025-10-15T21:17:42.064Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak edge case in auth
 2025-10-16T00:31:18.176Z Manu Arora <manuarora700@users.noreply.github.com> :: remove build script
 2025-10-16T01:43:29.632Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update the parser
+2025-10-16T02:13:39.014Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak retry logic
