@@ -1570,3 +1570,4 @@
 2025-10-16T18:04:36.177Z Arduino <arduino@users.noreply.github.com> :: update dead code
 2025-10-16T18:36:21.801Z Nous Research <NousResearch@users.noreply.github.com> :: bump edge case in auth
 2025-10-16T19:29:46.079Z Peter Steinberger <steipete@users.noreply.github.com> :: add the CI matrix
+2025-10-16T19:47:59.224Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: clean up retry logic
