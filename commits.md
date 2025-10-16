@@ -1557,3 +1557,4 @@
 2025-10-16T06:40:38.607Z HashLips <HashLips@users.noreply.github.com> :: refactor the CI matrix
 2025-10-16T07:34:30.213Z Astral <hey@astral.sh> :: tweak flaky test
 2025-10-16T07:44:48.980Z Any Association <anyproto@users.noreply.github.com> :: refactor logging
+2025-10-16T12:08:12.096Z Maximilian <mschwarzmueller@users.noreply.github.com> :: refactor retry logic
