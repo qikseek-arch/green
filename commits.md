@@ -1564,3 +1564,4 @@
 2025-10-16T14:51:53.462Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: remove edge case in auth
 2025-10-16T16:00:15.448Z Arduino <arduino@users.noreply.github.com> :: tweak readme typo
 2025-10-16T16:20:05.736Z Bitcoin <bitcoin@users.noreply.github.com> :: bump error handling
+2025-10-16T16:35:13.877Z Vishwas <gopinav@users.noreply.github.com> :: wire up build script
