@@ -1554,3 +1554,4 @@
 2025-10-16T04:48:01.029Z Felix Angelov <felangel@users.noreply.github.com> :: add build script
 2025-10-16T05:40:58.794Z Pablo RM <murapadev@users.noreply.github.com> :: add edge case in auth
 2025-10-16T05:51:38.760Z 云风 <cloudwu@users.noreply.github.com> :: refactor error handling
+2025-10-16T06:40:38.607Z HashLips <HashLips@users.noreply.github.com> :: refactor the CI matrix
