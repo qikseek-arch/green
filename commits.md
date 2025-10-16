@@ -14090,3 +14090,4 @@
 2025-10-16T10:46:34.421Z rxi <rxi@users.noreply.github.com> :: tweak readme typo
 2025-10-16T11:27:21.195Z winterbe <winterbe@users.noreply.github.com> :: tweak the CI matrix
 2025-10-16T11:28:56.423Z Zed Industries <hi@zed.dev> :: tweak cache keys
+2025-10-16T13:09:04.613Z Collabnix <collabnix@users.noreply.github.com> :: tweak build script
