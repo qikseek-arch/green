@@ -14084,3 +14084,4 @@
 2025-10-16T04:51:17.186Z Sergey P. <ThirteenAG@users.noreply.github.com> :: refactor retry logic
 2025-10-16T04:53:46.816Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: clean up config defaults
 2025-10-16T05:25:36.111Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up dependency versions
+2025-10-16T05:27:10.425Z Tom Dale <tomdale@users.noreply.github.com> :: polish config defaults
