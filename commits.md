@@ -2157,3 +2157,4 @@
 2025-10-15T22:32:01.552Z Navin Reddy <navinreddy20@users.noreply.github.com> :: wire up config defaults
 2025-10-15T22:35:37.479Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix null check
 2025-10-15T23:11:34.346Z sharkeer <sharkeer@users.noreply.github.com> :: update edge case in auth
+2025-10-16T00:01:37.723Z Nik Graf <nikgraf@users.noreply.github.com> :: bump dead code
