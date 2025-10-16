@@ -2180,3 +2180,4 @@
 2025-10-16T17:21:36.780Z Leap 离谱 <byoungd@users.noreply.github.com> :: refactor config defaults
 2025-10-16T19:58:19.438Z Dan Gohman <sunfishcode@users.noreply.github.com> :: tweak edge case in auth
 2025-10-16T21:35:18.136Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: wire up flaky test
+2025-10-16T22:31:08.971Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up edge case in auth
