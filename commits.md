@@ -4380,3 +4380,4 @@
 2025-10-16T14:07:06.490Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dependency versions
 2025-10-16T14:43:50.315Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up edge case in auth
 2025-10-16T15:11:49.548Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up edge case in auth
+2025-10-16T16:01:17.390Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak retry logic
