@@ -33,3 +33,4 @@
 2025-10-13T10:57:14.865Z GitHub Community <community@users.noreply.github.com> :: bump edge case in auth
 2025-10-13T13:27:28.010Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: remove edge case in auth
 2025-10-14T04:20:45.689Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: remove flaky test
+2025-10-16T20:01:18.961Z Mark Erikson <markerikson@users.noreply.github.com> :: tweak the CI matrix
