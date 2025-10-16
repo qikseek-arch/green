@@ -4371,3 +4371,4 @@
 2025-10-16T04:17:41.116Z Manu Arora <manuarora700@users.noreply.github.com> :: add null check
 2025-10-16T08:58:16.568Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
 2025-10-16T10:14:58.110Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dead code
+2025-10-16T11:08:47.528Z markqvist <markqvist@users.noreply.github.com> :: wire up config defaults
