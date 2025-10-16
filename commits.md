@@ -14087,3 +14087,4 @@
 2025-10-16T05:27:10.425Z Tom Dale <tomdale@users.noreply.github.com> :: polish config defaults
 2025-10-16T08:38:36.925Z in28minutes <in28minutes@users.noreply.github.com> :: polish flaky test
 2025-10-16T10:32:39.779Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up edge case in auth
+2025-10-16T10:46:34.421Z rxi <rxi@users.noreply.github.com> :: tweak readme typo
