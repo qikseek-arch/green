@@ -2175,3 +2175,4 @@
 2025-10-16T12:52:30.865Z Andrew Mead <andrewjmead@users.noreply.github.com> :: refactor dependency versions
 2025-10-16T15:46:22.135Z Blue <blueedgetechno@users.noreply.github.com> :: bump build script
 2025-10-16T15:46:48.899Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: remove readme typo
+2025-10-16T16:11:15.046Z 卡颂 <BetaSu@users.noreply.github.com> :: remove retry logic
