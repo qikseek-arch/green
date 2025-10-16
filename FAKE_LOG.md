@@ -10,3 +10,4 @@
 2025-10-07T14:16:20.160Z arcane-packetxx <arcane-packetxx@users.noreply.github.com> :: fix dead code
 2025-10-11T09:13:05.656Z Sindre Sorhus <sindre.sorhus@example.com> :: polish retry logic
 2025-10-14T20:45:50.923Z Margaret Hamilton <margaret.hamilton@example.com> :: tweak edge case in auth
+2025-10-16T06:51:17.342Z arcane-muffin_io <arcane-muffin_io@users.noreply.github.com> :: clean up dead code
