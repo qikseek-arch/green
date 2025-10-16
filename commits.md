@@ -4367,3 +4367,4 @@
 2025-10-16T02:13:39.014Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak retry logic
 2025-10-16T03:17:35.881Z Adam Bell <b3ll@users.noreply.github.com> :: remove edge case in auth
 2025-10-16T03:56:49.846Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: update logging
+2025-10-16T03:59:30.202Z David Fowler <davidfowl@users.noreply.github.com> :: tweak null check
