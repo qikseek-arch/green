@@ -612,3 +612,4 @@
 2025-10-12T19:01:06.240Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: fix build script
 2025-10-13T14:52:22.974Z Chip Huyen <chiphuyen@users.noreply.github.com> :: update the parser
 2025-10-13T23:25:34.325Z Andrej Marinchenko <BEPb@users.noreply.github.com> :: wire up readme typo
+2025-10-17T19:06:18.934Z Chip Huyen <chiphuyen@users.noreply.github.com> :: tweak the CI matrix
