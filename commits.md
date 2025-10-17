@@ -14102,3 +14102,4 @@
 2025-10-16T23:02:28.624Z Tom Dale <tomdale@users.noreply.github.com> :: polish retry logic
 2025-10-16T23:27:28.065Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: fix logging
 2025-10-17T00:48:52.680Z Snowflake Labs <opensource@snowflake.com> :: add the CI matrix
+2025-10-17T01:06:43.191Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the parser
