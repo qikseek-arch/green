@@ -4404,3 +4404,4 @@
 2025-10-17T08:44:33.126Z David Clark <nullptrException100@users.noreply.github.com> :: fix edge case in auth
 2025-10-17T09:17:37.704Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: tweak error handling
 2025-10-17T09:31:27.326Z Claude <claude@users.noreply.github.com> :: refactor error handling
+2025-10-17T09:37:59.407Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak dependency versions
