@@ -14122,3 +14122,4 @@
 2025-10-17T18:31:44.191Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak the CI matrix
 2025-10-17T19:03:27.448Z Snowflake Labs <opensource@snowflake.com> :: add edge case in auth
 2025-10-17T19:12:00.987Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up error handling
+2025-10-17T19:43:11.929Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: bump build script
