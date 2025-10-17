@@ -2188,3 +2188,4 @@
 2025-10-17T01:01:01.081Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak edge case in auth
 2025-10-17T01:05:48.909Z Gradio <admin@gradio.app> :: add null check
 2025-10-17T02:24:01.598Z John Papa <johnpapa@users.noreply.github.com> :: polish cache keys
+2025-10-17T03:25:17.093Z John Papa <johnpapa@users.noreply.github.com> :: refactor error handling
