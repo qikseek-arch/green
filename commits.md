@@ -4402,3 +4402,4 @@
 2025-10-17T07:29:14.112Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up null check
 2025-10-17T08:26:22.314Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak null check
 2025-10-17T08:44:33.126Z David Clark <nullptrException100@users.noreply.github.com> :: fix edge case in auth
+2025-10-17T09:17:37.704Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: tweak error handling
