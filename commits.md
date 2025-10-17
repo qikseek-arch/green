@@ -4394,3 +4394,4 @@
 2025-10-17T00:50:42.375Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove retry logic
 2025-10-17T00:52:46.598Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix error handling
 2025-10-17T01:30:58.213Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up the parser
+2025-10-17T03:33:34.999Z qiye <qiyeboy@users.noreply.github.com> :: tweak the parser
