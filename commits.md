@@ -2195,3 +2195,4 @@
 2025-10-17T08:53:40.168Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: add null check
 2025-10-17T08:53:49.725Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: update dead code
 2025-10-17T09:06:22.645Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish the parser
+2025-10-17T10:49:46.790Z TON Connect <ton-connect@users.noreply.github.com> :: clean up the CI matrix
