@@ -14116,3 +14116,4 @@
 2025-10-17T10:04:46.609Z OpenBMB <openbmb@gmail.com> :: add dependency versions
 2025-10-17T10:39:37.574Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove the CI matrix
 2025-10-17T13:26:35.198Z J.Baci <jbaci@users.noreply.github.com> :: remove cache keys
+2025-10-17T15:23:15.783Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: remove error handling
