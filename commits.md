@@ -1581,3 +1581,4 @@
 2025-10-16T23:30:01.520Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: add readme typo
 2025-10-16T23:38:02.891Z Fernando Cejas <android10@users.noreply.github.com> :: update cache keys
 2025-10-17T00:12:14.978Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak edge case in auth
+2025-10-17T01:06:54.326Z Barry vd. Heuvel <barryvdh@users.noreply.github.com> :: update the parser
