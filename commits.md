@@ -4409,3 +4409,4 @@
 2025-10-17T14:00:53.486Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: fix flaky test
 2025-10-17T15:17:15.982Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
 2025-10-17T15:49:58.476Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
+2025-10-17T16:18:52.452Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update null check
