@@ -2185,3 +2185,4 @@
 2025-10-17T00:07:01.272Z John Blackbourn <johnbillion@users.noreply.github.com> :: update dead code
 2025-10-17T00:10:52.547Z 卡颂 <BetaSu@users.noreply.github.com> :: fix flaky test
 2025-10-17T00:26:51.159Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: remove cache keys
+2025-10-17T01:01:01.081Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak edge case in auth
