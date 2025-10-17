@@ -1597,3 +1597,4 @@
 2025-10-17T15:07:02.318Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: update build script
 2025-10-17T16:44:56.416Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor edge case in auth
 2025-10-17T17:49:36.603Z Charm <vt100@charm.land> :: wire up readme typo
+2025-10-17T19:25:19.407Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor error handling
