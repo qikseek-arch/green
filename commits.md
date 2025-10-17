@@ -1599,3 +1599,4 @@
 2025-10-17T17:49:36.603Z Charm <vt100@charm.land> :: wire up readme typo
 2025-10-17T19:25:19.407Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor error handling
 2025-10-17T19:58:05.374Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: refactor error handling
+2025-10-17T20:50:00.137Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor readme typo
