@@ -2182,3 +2182,4 @@
 2025-10-16T21:35:18.136Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: wire up flaky test
 2025-10-16T22:31:08.971Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up edge case in auth
 2025-10-16T23:30:43.854Z Yann Collet <Cyan4973@users.noreply.github.com> :: remove config defaults
+2025-10-17T00:07:01.272Z John Blackbourn <johnbillion@users.noreply.github.com> :: update dead code
