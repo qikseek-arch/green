@@ -2202,3 +2202,4 @@
 2025-10-17T14:40:41.369Z 卡颂 <BetaSu@users.noreply.github.com> :: bump config defaults
 2025-10-17T14:49:31.469Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: clean up cache keys
 2025-10-17T16:06:23.467Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: bump error handling
+2025-10-17T17:07:28.596Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: fix the CI matrix
