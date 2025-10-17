@@ -14124,3 +14124,4 @@
 2025-10-17T19:12:00.987Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up error handling
 2025-10-17T19:43:11.929Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: bump build script
 2025-10-17T20:02:57.623Z John Schulman <joschu@users.noreply.github.com> :: tweak dependency versions
+2025-10-17T21:10:00.790Z SurrealDB <surrealdb@users.noreply.github.com> :: add cache keys
