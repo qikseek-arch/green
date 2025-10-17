@@ -1591,3 +1591,4 @@
 2025-10-17T06:52:09.756Z Chris Wanstrath <defunkt@users.noreply.github.com> :: remove config defaults
 2025-10-17T07:57:49.327Z Fernando Cejas <android10@users.noreply.github.com> :: update flaky test
 2025-10-17T11:10:29.459Z Elzero Web School <ElzeroWebSchool@users.noreply.github.com> :: bump readme typo
+2025-10-17T11:52:41.279Z David <blocage@users.noreply.github.com> :: bump the parser
