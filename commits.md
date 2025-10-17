@@ -2197,3 +2197,4 @@
 2025-10-17T09:06:22.645Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish the parser
 2025-10-17T10:49:46.790Z TON Connect <ton-connect@users.noreply.github.com> :: clean up the CI matrix
 2025-10-17T12:30:40.240Z 卡颂 <BetaSu@users.noreply.github.com> :: add the CI matrix
+2025-10-17T14:27:10.083Z ligi <ligi@users.noreply.github.com> :: fix edge case in auth
