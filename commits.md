@@ -14111,3 +14111,4 @@
 2025-10-17T04:07:02.241Z Brian Holt <btholt@users.noreply.github.com> :: remove build script
 2025-10-17T06:26:44.096Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak config defaults
 2025-10-17T06:28:19.941Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish error handling
+2025-10-17T06:38:49.768Z OpenBSD <openbsd@users.noreply.github.com> :: update retry logic
