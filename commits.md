@@ -4406,3 +4406,4 @@
 2025-10-17T09:31:27.326Z Claude <claude@users.noreply.github.com> :: refactor error handling
 2025-10-17T09:37:59.407Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak dependency versions
 2025-10-17T13:55:42.437Z ㅤxander <vampirist@users.noreply.github.com> :: bump error handling
+2025-10-17T14:00:53.486Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: fix flaky test
