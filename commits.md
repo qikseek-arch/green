@@ -2186,3 +2186,4 @@
 2025-10-17T00:10:52.547Z 卡颂 <BetaSu@users.noreply.github.com> :: fix flaky test
 2025-10-17T00:26:51.159Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: remove cache keys
 2025-10-17T01:01:01.081Z Vitor Freitas <vitorfs@users.noreply.github.com> :: tweak edge case in auth
+2025-10-17T01:05:48.909Z Gradio <admin@gradio.app> :: add null check
