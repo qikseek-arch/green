@@ -14105,3 +14105,4 @@
 2025-10-17T01:06:43.191Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the parser
 2025-10-17T01:14:41.272Z Lovell Fuller <lovell@users.noreply.github.com> :: fix null check
 2025-10-17T01:48:57.745Z OpenBSD <openbsd@users.noreply.github.com> :: polish dependency versions
+2025-10-17T02:05:38.255Z winterbe <winterbe@users.noreply.github.com> :: clean up dead code
