@@ -14127,3 +14127,4 @@
 2025-10-17T21:10:00.790Z SurrealDB <surrealdb@users.noreply.github.com> :: add cache keys
 2025-10-17T22:20:00.397Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: update dependency versions
 2025-10-17T23:18:05.030Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update readme typo
+2025-10-17T23:54:17.175Z in28minutes <in28minutes@users.noreply.github.com> :: remove null check
