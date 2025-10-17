@@ -2204,3 +2204,4 @@
 2025-10-17T16:06:23.467Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: bump error handling
 2025-10-17T17:07:28.596Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: fix the CI matrix
 2025-10-17T18:05:00.373Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak error handling
+2025-10-17T20:10:35.893Z Siemens <opensource@siemens.com> :: fix config defaults
