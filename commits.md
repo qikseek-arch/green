@@ -14104,3 +14104,4 @@
 2025-10-17T00:48:52.680Z Snowflake Labs <opensource@snowflake.com> :: add the CI matrix
 2025-10-17T01:06:43.191Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the parser
 2025-10-17T01:14:41.272Z Lovell Fuller <lovell@users.noreply.github.com> :: fix null check
+2025-10-17T01:48:57.745Z OpenBSD <openbsd@users.noreply.github.com> :: polish dependency versions
