@@ -1585,3 +1585,4 @@
 2025-10-17T01:12:09.091Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: tweak logging
 2025-10-17T02:17:56.345Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix error handling
 2025-10-17T03:00:53.402Z Iuri Silva <iuricode@users.noreply.github.com> :: wire up retry logic
+2025-10-17T03:51:40.286Z Jason Taylor <jasontaylordev@users.noreply.github.com> :: clean up retry logic
