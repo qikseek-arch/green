@@ -4415,3 +4415,4 @@
 2025-10-17T18:56:07.797Z Taiko Foundation <info@taiko.xyz> :: polish build script
 2025-10-17T19:41:13.915Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up error handling
 2025-10-17T20:45:09.804Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
+2025-10-17T22:32:07.802Z LILYGO <LilyGO@users.noreply.github.com> :: add config defaults
