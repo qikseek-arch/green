@@ -1595,3 +1595,4 @@
 2025-10-17T12:18:09.019Z Home Assistant <hello@home-assistant.io> :: wire up null check
 2025-10-17T14:40:39.494Z Ben Balter <benbalter@users.noreply.github.com> :: remove the parser
 2025-10-17T15:07:02.318Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: update build script
+2025-10-17T16:44:56.416Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor edge case in auth
