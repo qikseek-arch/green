@@ -4411,3 +4411,4 @@
 2025-10-17T15:49:58.476Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
 2025-10-17T16:18:52.452Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update null check
 2025-10-17T18:00:39.242Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up error handling
+2025-10-17T18:07:59.835Z Taiko Foundation <info@taiko.xyz> :: tweak the CI matrix
