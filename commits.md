@@ -1623,3 +1623,4 @@
 2025-10-18T15:35:49.659Z Daniel Eden <daneden@users.noreply.github.com> :: polish cache keys
 2025-10-18T16:04:28.405Z Siraj Raval <llSourcell@users.noreply.github.com> :: update readme typo
 2025-10-18T17:25:06.174Z Google <opensource@google.com> :: wire up config defaults
+2025-10-18T18:09:00.809Z Yangqing Jia <Yangqing@users.noreply.github.com> :: clean up dependency versions
