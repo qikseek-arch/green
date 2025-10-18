@@ -4434,3 +4434,4 @@
 2025-10-18T11:04:36.709Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove the parser
 2025-10-18T12:17:12.223Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add config defaults
 2025-10-18T12:31:23.228Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add retry logic
+2025-10-18T13:36:56.151Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove config defaults
