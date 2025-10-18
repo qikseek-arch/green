@@ -2222,3 +2222,4 @@
 2025-10-18T11:03:53.575Z 卡颂 <BetaSu@users.noreply.github.com> :: fix dependency versions
 2025-10-18T12:29:11.325Z jist <george0st@users.noreply.github.com> :: refactor readme typo
 2025-10-18T12:58:32.496Z Thomas Wolf <thomwolf@users.noreply.github.com> :: add retry logic
+2025-10-18T13:30:04.075Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: tweak config defaults
