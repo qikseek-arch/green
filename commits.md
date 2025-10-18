@@ -1622,3 +1622,4 @@
 2025-10-18T15:07:53.039Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak dependency versions
 2025-10-18T15:35:49.659Z Daniel Eden <daneden@users.noreply.github.com> :: polish cache keys
 2025-10-18T16:04:28.405Z Siraj Raval <llSourcell@users.noreply.github.com> :: update readme typo
+2025-10-18T17:25:06.174Z Google <opensource@google.com> :: wire up config defaults
