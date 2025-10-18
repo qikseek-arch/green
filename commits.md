@@ -4432,3 +4432,4 @@
 2025-10-18T09:49:14.257Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up error handling
 2025-10-18T10:23:56.313Z ㅤxander <vampirist@users.noreply.github.com> :: update the parser
 2025-10-18T11:04:36.709Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove the parser
+2025-10-18T12:17:12.223Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add config defaults
