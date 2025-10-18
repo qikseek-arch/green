@@ -1632,3 +1632,4 @@
 2025-10-18T20:30:43.730Z Termux <contact@termux.dev> :: refactor dependency versions
 2025-10-18T20:36:57.177Z Abdeen Mohamed <AbdeenM@users.noreply.github.com> :: remove dead code
 2025-10-18T20:56:48.420Z Shu Ding <shuding@users.noreply.github.com> :: clean up dead code
+2025-10-18T22:20:30.922Z Iuri Silva <iuricode@users.noreply.github.com> :: polish build script
