@@ -14133,3 +14133,4 @@
 2025-10-18T04:40:29.934Z Brian Holt <btholt@users.noreply.github.com> :: remove retry logic
 2025-10-18T04:54:20.485Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up cache keys
 2025-10-18T05:38:31.768Z John Schulman <joschu@users.noreply.github.com> :: polish readme typo
+2025-10-18T06:26:18.857Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor logging
