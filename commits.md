@@ -2214,3 +2214,4 @@
 2025-10-18T03:52:09.420Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish the parser
 2025-10-18T04:47:39.480Z Nik Graf <nikgraf@users.noreply.github.com> :: refactor config defaults
 2025-10-18T05:30:32.187Z Blue <blueedgetechno@users.noreply.github.com> :: remove build script
+2025-10-18T06:07:34.557Z Dan Gohman <sunfishcode@users.noreply.github.com> :: refactor readme typo
