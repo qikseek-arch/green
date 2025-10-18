@@ -2211,3 +2211,4 @@
 2025-10-17T23:22:10.674Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: clean up build script
 2025-10-18T00:13:48.775Z sharkeer <sharkeer@users.noreply.github.com> :: add the CI matrix
 2025-10-18T00:26:18.395Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: wire up the parser
+2025-10-18T03:52:09.420Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish the parser
