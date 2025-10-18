@@ -1604,3 +1604,4 @@
 2025-10-17T23:46:44.494Z Arduino <arduino@users.noreply.github.com> :: update config defaults
 2025-10-18T00:07:09.763Z Yichun Zhang <agentzh@users.noreply.github.com> :: update error handling
 2025-10-18T00:26:17.201Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: update dead code
+2025-10-18T00:56:43.779Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: tweak null check
