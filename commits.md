@@ -4438,3 +4438,4 @@
 2025-10-18T13:37:34.714Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up edge case in auth
 2025-10-18T13:47:35.691Z OpenJS Foundation <info@openjsf.org> :: bump edge case in auth
 2025-10-18T14:06:55.080Z Damian Dulisz <shentao@users.noreply.github.com> :: update readme typo
+2025-10-18T15:34:02.167Z AI4Bhārat <opensource@ai4bharat.org> :: add build script
