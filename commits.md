@@ -14140,3 +14140,4 @@
 2025-10-18T08:33:03.287Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update flaky test
 2025-10-18T08:41:37.666Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak config defaults
 2025-10-18T10:45:11.925Z 毒奶博主 <limbopro@users.noreply.github.com> :: update flaky test
+2025-10-18T11:57:19.405Z Casey Muratori <cmuratori@users.noreply.github.com> :: bump the parser
