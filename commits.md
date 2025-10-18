@@ -1614,3 +1614,4 @@
 2025-10-18T07:38:26.138Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: bump null check
 2025-10-18T08:56:13.748Z Bitcoin <bitcoin@users.noreply.github.com> :: remove readme typo
 2025-10-18T09:05:27.421Z Jeremy Thomas <jgthms@users.noreply.github.com> :: bump cache keys
+2025-10-18T09:35:46.013Z Y11 <XiaomingX@users.noreply.github.com> :: remove config defaults
