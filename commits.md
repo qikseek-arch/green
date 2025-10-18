@@ -1626,3 +1626,4 @@
 2025-10-18T18:09:00.809Z Yangqing Jia <Yangqing@users.noreply.github.com> :: clean up dependency versions
 2025-10-18T18:28:14.164Z Mahsima Dastan <mahseema@users.noreply.github.com> :: wire up config defaults
 2025-10-18T18:48:09.166Z Fazt <fazt@users.noreply.github.com> :: update config defaults
+2025-10-18T19:05:08.465Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: tweak null check
