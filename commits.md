@@ -2221,3 +2221,4 @@
 2025-10-18T10:42:20.154Z z3r0yu <zer0yu@users.noreply.github.com> :: tweak the CI matrix
 2025-10-18T11:03:53.575Z 卡颂 <BetaSu@users.noreply.github.com> :: fix dependency versions
 2025-10-18T12:29:11.325Z jist <george0st@users.noreply.github.com> :: refactor readme typo
+2025-10-18T12:58:32.496Z Thomas Wolf <thomwolf@users.noreply.github.com> :: add retry logic
