@@ -4439,3 +4439,4 @@
 2025-10-18T13:47:35.691Z OpenJS Foundation <info@openjsf.org> :: bump edge case in auth
 2025-10-18T14:06:55.080Z Damian Dulisz <shentao@users.noreply.github.com> :: update readme typo
 2025-10-18T15:34:02.167Z AI4Bhārat <opensource@ai4bharat.org> :: add build script
+2025-10-18T16:17:04.942Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up readme typo
