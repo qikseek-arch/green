@@ -4428,3 +4428,4 @@
 2025-10-18T08:10:20.532Z Adam Łucek <ALucek@users.noreply.github.com> :: update flaky test
 2025-10-18T08:20:50.240Z Damian Dulisz <shentao@users.noreply.github.com> :: polish flaky test
 2025-10-18T08:51:41.851Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix readme typo
+2025-10-18T09:36:34.451Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up error handling
