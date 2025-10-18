@@ -1627,3 +1627,4 @@
 2025-10-18T18:28:14.164Z Mahsima Dastan <mahseema@users.noreply.github.com> :: wire up config defaults
 2025-10-18T18:48:09.166Z Fazt <fazt@users.noreply.github.com> :: update config defaults
 2025-10-18T19:05:08.465Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: tweak null check
+2025-10-18T19:27:58.315Z Fernando Cejas <android10@users.noreply.github.com> :: fix dependency versions
