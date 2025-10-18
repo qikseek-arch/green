@@ -2215,3 +2215,4 @@
 2025-10-18T04:47:39.480Z Nik Graf <nikgraf@users.noreply.github.com> :: refactor config defaults
 2025-10-18T05:30:32.187Z Blue <blueedgetechno@users.noreply.github.com> :: remove build script
 2025-10-18T06:07:34.557Z Dan Gohman <sunfishcode@users.noreply.github.com> :: refactor readme typo
+2025-10-18T08:27:23.506Z jist <george0st@users.noreply.github.com> :: add null check
