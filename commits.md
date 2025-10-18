@@ -1616,3 +1616,4 @@
 2025-10-18T09:05:27.421Z Jeremy Thomas <jgthms@users.noreply.github.com> :: bump cache keys
 2025-10-18T09:35:46.013Z Y11 <XiaomingX@users.noreply.github.com> :: remove config defaults
 2025-10-18T09:58:58.841Z Charm <vt100@charm.land> :: clean up edge case in auth
+2025-10-18T10:31:23.156Z HashLips <HashLips@users.noreply.github.com> :: clean up dependency versions
