@@ -2230,3 +2230,4 @@
 2025-10-18T18:02:30.523Z Steve Gordon <stevejgordon@users.noreply.github.com> :: polish logging
 2025-10-18T18:22:57.941Z Yann Collet <Cyan4973@users.noreply.github.com> :: bump retry logic
 2025-10-18T20:15:39.750Z jist <george0st@users.noreply.github.com> :: tweak dead code
+2025-10-18T22:13:30.780Z Paul Deitel <pdeitel@users.noreply.github.com> :: add build script
