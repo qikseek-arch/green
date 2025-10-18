@@ -4443,3 +4443,4 @@
 2025-10-18T16:59:19.566Z vb <Vaibhavs10@users.noreply.github.com> :: fix flaky test
 2025-10-18T17:41:16.114Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up edge case in auth
 2025-10-18T18:03:05.412Z David Clark <nullptrException100@users.noreply.github.com> :: update edge case in auth
+2025-10-18T18:17:21.228Z Bert Belder <piscisaureus@users.noreply.github.com> :: add build script
