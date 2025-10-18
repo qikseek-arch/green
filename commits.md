@@ -1628,3 +1628,4 @@
 2025-10-18T18:48:09.166Z Fazt <fazt@users.noreply.github.com> :: update config defaults
 2025-10-18T19:05:08.465Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: tweak null check
 2025-10-18T19:27:58.315Z Fernando Cejas <android10@users.noreply.github.com> :: fix dependency versions
+2025-10-18T19:34:42.756Z Siraj Raval <llSourcell@users.noreply.github.com> :: add dependency versions
