@@ -2217,3 +2217,4 @@
 2025-10-18T06:07:34.557Z Dan Gohman <sunfishcode@users.noreply.github.com> :: refactor readme typo
 2025-10-18T08:27:23.506Z jist <george0st@users.noreply.github.com> :: add null check
 2025-10-18T08:33:12.178Z Kenney <KenneyNL@users.noreply.github.com> :: tweak config defaults
+2025-10-18T08:50:13.032Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add edge case in auth
