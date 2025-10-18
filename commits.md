@@ -4436,3 +4436,4 @@
 2025-10-18T12:31:23.228Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add retry logic
 2025-10-18T13:36:56.151Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove config defaults
 2025-10-18T13:37:34.714Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up edge case in auth
+2025-10-18T13:47:35.691Z OpenJS Foundation <info@openjsf.org> :: bump edge case in auth
