@@ -1602,3 +1602,4 @@
 2025-10-17T20:50:00.137Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor readme typo
 2025-10-17T21:46:21.144Z Jukka Seppänen <kijai@users.noreply.github.com> :: tweak dead code
 2025-10-17T23:46:44.494Z Arduino <arduino@users.noreply.github.com> :: update config defaults
+2025-10-18T00:07:09.763Z Yichun Zhang <agentzh@users.noreply.github.com> :: update error handling
