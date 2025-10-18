@@ -1610,3 +1610,4 @@
 2025-10-18T05:20:18.486Z Ultralytics <hello@ultralytics.com> :: add flaky test
 2025-10-18T06:37:59.801Z Daniel Eden <daneden@users.noreply.github.com> :: remove flaky test
 2025-10-18T06:54:38.914Z George Hotz <geohot@users.noreply.github.com> :: tweak cache keys
+2025-10-18T07:02:32.909Z Felix Angelov <felangel@users.noreply.github.com> :: add dependency versions
