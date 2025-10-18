@@ -4418,3 +4418,4 @@
 2025-10-17T22:32:07.802Z LILYGO <LilyGO@users.noreply.github.com> :: add config defaults
 2025-10-17T23:42:39.041Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add readme typo
 2025-10-18T02:25:51.378Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update cache keys
+2025-10-18T03:26:09.010Z ㅤxander <vampirist@users.noreply.github.com> :: remove the parser
