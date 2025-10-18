@@ -14134,3 +14134,4 @@
 2025-10-18T04:54:20.485Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up cache keys
 2025-10-18T05:38:31.768Z John Schulman <joschu@users.noreply.github.com> :: polish readme typo
 2025-10-18T06:26:18.857Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor logging
+2025-10-18T06:30:56.069Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add the CI matrix
