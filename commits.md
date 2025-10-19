@@ -14162,3 +14162,4 @@
 2025-10-19T13:05:59.103Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor null check
 2025-10-19T13:51:05.998Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump flaky test
 2025-10-19T14:11:18.881Z Brian Holt <btholt@users.noreply.github.com> :: update the parser
+2025-10-19T14:11:52.161Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update readme typo
