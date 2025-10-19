@@ -2252,3 +2252,4 @@
 2025-10-19T17:13:51.508Z 0chencc <0Chencc@users.noreply.github.com> :: add cache keys
 2025-10-19T20:11:22.947Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: refactor the CI matrix
 2025-10-19T20:35:49.348Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: tweak the parser
+2025-10-19T22:07:22.091Z LN <ln-dev7@users.noreply.github.com> :: fix config defaults
