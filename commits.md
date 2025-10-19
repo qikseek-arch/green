@@ -14156,3 +14156,4 @@
 2025-10-19T10:49:16.645Z LMSYS <lm-sys@users.noreply.github.com> :: tweak cache keys
 2025-10-19T11:37:50.900Z Tom Dale <tomdale@users.noreply.github.com> :: tweak flaky test
 2025-10-19T11:44:56.474Z OpenBSD <openbsd@users.noreply.github.com> :: refactor readme typo
+2025-10-19T11:47:58.691Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up config defaults
