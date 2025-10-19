@@ -2254,3 +2254,4 @@
 2025-10-19T20:35:49.348Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: tweak the parser
 2025-10-19T22:07:22.091Z LN <ln-dev7@users.noreply.github.com> :: fix config defaults
 2025-10-19T22:55:23.547Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish error handling
+2025-10-19T23:19:51.255Z farza <farzaa@users.noreply.github.com> :: refactor retry logic
