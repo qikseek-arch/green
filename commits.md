@@ -1662,3 +1662,4 @@
 2025-10-19T18:01:07.529Z Rich Hickey <richhickey@users.noreply.github.com> :: polish the CI matrix
 2025-10-19T19:42:52.216Z PaddlePaddle <PaddlePaddle@users.noreply.github.com> :: wire up error handling
 2025-10-19T21:16:41.056Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix error handling
+2025-10-19T21:35:59.911Z Iuri Silva <iuricode@users.noreply.github.com> :: clean up the CI matrix
