@@ -14170,3 +14170,4 @@
 2025-10-19T18:40:36.161Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: polish the parser
 2025-10-19T18:40:39.608Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: wire up readme typo
 2025-10-19T19:35:53.749Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up logging
+2025-10-19T20:06:00.763Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak config defaults
