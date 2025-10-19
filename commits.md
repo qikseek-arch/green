@@ -1656,3 +1656,4 @@
 2025-10-19T15:38:22.443Z Ben Balter <benbalter@users.noreply.github.com> :: bump null check
 2025-10-19T15:45:13.857Z Justin Johnson <jcjohnson@users.noreply.github.com> :: bump retry logic
 2025-10-19T15:45:14.010Z Simon Willison <simonw@users.noreply.github.com> :: update error handling
+2025-10-19T16:31:36.665Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor config defaults
