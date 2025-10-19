@@ -1664,3 +1664,4 @@
 2025-10-19T21:16:41.056Z Brent Jackson <jxnblk@users.noreply.github.com> :: fix error handling
 2025-10-19T21:35:59.911Z Iuri Silva <iuricode@users.noreply.github.com> :: clean up the CI matrix
 2025-10-19T22:50:00.235Z Jeremy Thomas <jgthms@users.noreply.github.com> :: clean up config defaults
+2025-10-19T23:29:21.909Z EGOIST <egoist@users.noreply.github.com> :: bump build script
