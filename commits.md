@@ -4450,3 +4450,4 @@
 2025-10-18T20:37:27.605Z LILYGO <LilyGO@users.noreply.github.com> :: refactor build script
 2025-10-18T21:44:34.255Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up dead code
 2025-10-19T01:53:18.705Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add retry logic
+2025-10-19T03:23:56.986Z md-5 <md-5@users.noreply.github.com> :: tweak the parser
