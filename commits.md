@@ -14159,3 +14159,4 @@
 2025-10-19T11:47:58.691Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up config defaults
 2025-10-19T12:17:45.254Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix the parser
 2025-10-19T12:42:53.213Z winterbe <winterbe@users.noreply.github.com> :: bump flaky test
+2025-10-19T13:05:59.103Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor null check
