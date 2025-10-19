@@ -4462,3 +4462,4 @@
 2025-10-19T12:46:33.894Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove null check
 2025-10-19T14:02:29.833Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor logging
 2025-10-19T14:30:45.397Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor retry logic
+2025-10-19T15:28:10.934Z Sachin Soni <techiesms@users.noreply.github.com> :: update build script
