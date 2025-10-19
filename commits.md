@@ -36,3 +36,4 @@
 2025-10-16T20:01:18.961Z Mark Erikson <markerikson@users.noreply.github.com> :: tweak the CI matrix
 2025-10-17T04:31:36.285Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak config defaults
 2025-10-17T14:06:06.622Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: fix config defaults
+2025-10-19T03:10:51.414Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: update dependency versions
