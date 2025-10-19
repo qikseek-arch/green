@@ -1647,3 +1647,4 @@
 2025-10-19T08:26:51.917Z Iuri Silva <iuricode@users.noreply.github.com> :: clean up the parser
 2025-10-19T09:49:38.681Z Siraj Raval <llSourcell@users.noreply.github.com> :: refactor the CI matrix
 2025-10-19T09:53:47.927Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: refactor dependency versions
+2025-10-19T10:02:08.178Z S4IL <S4IL21@users.noreply.github.com> :: fix null check
