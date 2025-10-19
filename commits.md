@@ -1639,3 +1639,4 @@
 2025-10-19T01:02:26.373Z Yuanming Hu <yuanming-hu@users.noreply.github.com> :: tweak edge case in auth
 2025-10-19T02:50:01.011Z George Hotz <geohot@users.noreply.github.com> :: tweak cache keys
 2025-10-19T03:24:03.352Z HashLips <HashLips@users.noreply.github.com> :: tweak error handling
+2025-10-19T04:29:34.070Z Peter Steinberger <steipete@users.noreply.github.com> :: polish the CI matrix
