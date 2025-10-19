@@ -14165,3 +14165,4 @@
 2025-10-19T14:11:52.161Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update readme typo
 2025-10-19T15:41:47.059Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor the CI matrix
 2025-10-19T15:43:32.207Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak edge case in auth
+2025-10-19T16:37:29.162Z 千古壹号 <qianguyihao@users.noreply.github.com> :: add null check
