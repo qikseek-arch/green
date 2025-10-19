@@ -1653,3 +1653,4 @@
 2025-10-19T11:57:41.062Z Peter Norvig <norvig@users.noreply.github.com> :: refactor the parser
 2025-10-19T14:17:29.863Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: polish flaky test
 2025-10-19T14:37:37.246Z Amazon Web Services - Labs <awslabs@users.noreply.github.com> :: tweak dead code
+2025-10-19T15:38:22.443Z Ben Balter <benbalter@users.noreply.github.com> :: bump null check
