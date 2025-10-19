@@ -1646,3 +1646,4 @@
 2025-10-19T08:26:45.044Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor edge case in auth
 2025-10-19T08:26:51.917Z Iuri Silva <iuricode@users.noreply.github.com> :: clean up the parser
 2025-10-19T09:49:38.681Z Siraj Raval <llSourcell@users.noreply.github.com> :: refactor the CI matrix
+2025-10-19T09:53:47.927Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: refactor dependency versions
