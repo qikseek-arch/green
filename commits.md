@@ -2243,3 +2243,4 @@
 2025-10-19T07:00:01.840Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor flaky test
 2025-10-19T09:30:03.834Z Nik Graf <nikgraf@users.noreply.github.com> :: bump cache keys
 2025-10-19T10:01:42.926Z sharkeer <sharkeer@users.noreply.github.com> :: update flaky test
+2025-10-19T12:27:34.027Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: polish edge case in auth
