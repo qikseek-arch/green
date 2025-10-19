@@ -1635,3 +1635,4 @@
 2025-10-18T22:20:30.922Z Iuri Silva <iuricode@users.noreply.github.com> :: polish build script
 2025-10-18T22:42:52.667Z Denis Pushkarev <zloirock@users.noreply.github.com> :: bump build script
 2025-10-19T00:42:22.652Z Y11 <XiaomingX@users.noreply.github.com> :: fix the parser
+2025-10-19T00:56:54.496Z Ben Balter <benbalter@users.noreply.github.com> :: tweak config defaults
