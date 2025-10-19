@@ -2234,3 +2234,4 @@
 2025-10-19T00:14:13.004Z Gradio <admin@gradio.app> :: remove retry logic
 2025-10-19T00:33:12.998Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: fix dead code
 2025-10-19T01:50:02.848Z Vincenzo Fornaro <JustVugg@users.noreply.github.com> :: polish the CI matrix
+2025-10-19T01:58:04.297Z Nik Graf <nikgraf@users.noreply.github.com> :: update edge case in auth
