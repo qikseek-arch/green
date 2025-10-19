@@ -14150,3 +14150,4 @@
 2025-10-19T00:03:44.963Z Chetan Jogi <voidChetan@users.noreply.github.com> :: wire up the parser
 2025-10-19T01:27:34.869Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up config defaults
 2025-10-19T03:41:07.215Z OpenBMB <openbmb@gmail.com> :: wire up build script
+2025-10-19T04:13:44.277Z Damian Gryski <dgryski@users.noreply.github.com> :: add edge case in auth
