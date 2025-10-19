@@ -4467,3 +4467,4 @@
 2025-10-19T19:07:51.228Z AI4Bhārat <opensource@ai4bharat.org> :: bump build script
 2025-10-19T20:22:10.091Z CTFs <ctfs@users.noreply.github.com> :: wire up cache keys
 2025-10-19T23:02:48.024Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add the CI matrix
+2025-10-19T23:10:20.247Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove config defaults
