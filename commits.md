@@ -4461,3 +4461,4 @@
 2025-10-19T11:52:52.952Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix the parser
 2025-10-19T12:46:33.894Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove null check
 2025-10-19T14:02:29.833Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor logging
+2025-10-19T14:30:45.397Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor retry logic
