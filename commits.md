@@ -4459,3 +4459,4 @@
 2025-10-19T07:45:18.454Z Getgems <getgems-io@users.noreply.github.com> :: update the parser
 2025-10-19T10:06:59.327Z CTFs <ctfs@users.noreply.github.com> :: bump null check
 2025-10-19T11:52:52.952Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix the parser
+2025-10-19T12:46:33.894Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove null check
