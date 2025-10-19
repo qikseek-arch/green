@@ -1659,3 +1659,4 @@
 2025-10-19T16:31:36.665Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor config defaults
 2025-10-19T17:09:01.943Z Yuanming Hu <yuanming-hu@users.noreply.github.com> :: bump retry logic
 2025-10-19T17:15:56.331Z Ben Balter <benbalter@users.noreply.github.com> :: refactor build script
+2025-10-19T18:01:07.529Z Rich Hickey <richhickey@users.noreply.github.com> :: polish the CI matrix
