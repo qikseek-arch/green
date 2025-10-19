@@ -4452,3 +4452,4 @@
 2025-10-19T01:53:18.705Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add retry logic
 2025-10-19T03:23:56.986Z md-5 <md-5@users.noreply.github.com> :: tweak the parser
 2025-10-19T03:49:39.320Z Taiko Foundation <info@taiko.xyz> :: tweak logging
+2025-10-19T03:54:52.883Z ring04h <ring04h@users.noreply.github.com> :: fix the CI matrix
