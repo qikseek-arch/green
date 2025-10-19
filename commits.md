@@ -14167,3 +14167,4 @@
 2025-10-19T15:43:32.207Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak edge case in auth
 2025-10-19T16:37:29.162Z 千古壹号 <qianguyihao@users.noreply.github.com> :: add null check
 2025-10-19T17:50:48.649Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump readme typo
+2025-10-19T18:40:36.161Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: polish the parser
