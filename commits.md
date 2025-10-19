@@ -1637,3 +1637,4 @@
 2025-10-19T00:42:22.652Z Y11 <XiaomingX@users.noreply.github.com> :: fix the parser
 2025-10-19T00:56:54.496Z Ben Balter <benbalter@users.noreply.github.com> :: tweak config defaults
 2025-10-19T01:02:26.373Z Yuanming Hu <yuanming-hu@users.noreply.github.com> :: tweak edge case in auth
+2025-10-19T02:50:01.011Z George Hotz <geohot@users.noreply.github.com> :: tweak cache keys
