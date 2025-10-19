@@ -1644,3 +1644,4 @@
 2025-10-19T05:18:48.633Z Ben Balter <benbalter@users.noreply.github.com> :: remove error handling
 2025-10-19T06:08:04.834Z Charm <vt100@charm.land> :: remove logging
 2025-10-19T08:26:45.044Z Denis Pushkarev <zloirock@users.noreply.github.com> :: refactor edge case in auth
+2025-10-19T08:26:51.917Z Iuri Silva <iuricode@users.noreply.github.com> :: clean up the parser
