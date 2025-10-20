@@ -4489,3 +4489,4 @@
 2025-10-20T09:39:29.808Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish dependency versions
 2025-10-20T10:05:10.414Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up build script
 2025-10-20T13:20:11.308Z BBC <bbc@users.noreply.github.com> :: remove readme typo
+2025-10-20T14:53:39.628Z Keith Smiley <keith@users.noreply.github.com> :: fix readme typo
