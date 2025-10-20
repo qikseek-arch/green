@@ -1670,3 +1670,4 @@
 2025-10-20T03:42:46.558Z Bitcoin <bitcoin@users.noreply.github.com> :: tweak edge case in auth
 2025-10-20T04:12:05.039Z David <blocage@users.noreply.github.com> :: tweak null check
 2025-10-20T04:12:09.051Z Mahsima Dastan <mahseema@users.noreply.github.com> :: clean up null check
+2025-10-20T05:00:37.506Z Amazon Web Services - Labs <awslabs@users.noreply.github.com> :: update dead code
