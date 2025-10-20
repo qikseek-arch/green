@@ -2265,3 +2265,4 @@
 2025-10-20T08:54:35.974Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish dead code
 2025-10-20T09:01:21.049Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak error handling
 2025-10-20T09:23:58.259Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: polish edge case in auth
+2025-10-20T09:54:28.620Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add logging
