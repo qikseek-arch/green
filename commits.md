@@ -4471,3 +4471,4 @@
 2025-10-20T00:07:11.705Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump flaky test
 2025-10-20T00:22:07.642Z Ryan Bigg <radar@users.noreply.github.com> :: add config defaults
 2025-10-20T01:38:25.975Z CTFs <ctfs@users.noreply.github.com> :: add retry logic
+2025-10-20T01:46:37.542Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dependency versions
