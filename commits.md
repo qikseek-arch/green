@@ -4478,3 +4478,4 @@
 2025-10-20T03:09:21.124Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up the CI matrix
 2025-10-20T03:58:28.292Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump edge case in auth
 2025-10-20T05:10:25.861Z Almas Baim <AlmasB@users.noreply.github.com> :: add edge case in auth
+2025-10-20T05:26:12.758Z Duy Tran <khanhduytran0@users.noreply.github.com> :: clean up the parser
