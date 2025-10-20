@@ -1696,3 +1696,4 @@
 2025-10-20T19:13:31.902Z Fazt <fazt@users.noreply.github.com> :: bump dead code
 2025-10-20T19:27:56.579Z meliksahyorulmazlar <meliksahyorulmazlar@users.noreply.github.com> :: clean up error handling
 2025-10-20T19:46:14.236Z Spring <spring-projects@users.noreply.github.com> :: tweak edge case in auth
+2025-10-20T20:01:05.921Z Mahsima Dastan <mahseema@users.noreply.github.com> :: wire up readme typo
