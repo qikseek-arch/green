@@ -4493,3 +4493,4 @@
 2025-10-20T17:10:13.062Z heyli <lcxfs1991@users.noreply.github.com> :: add the CI matrix
 2025-10-20T18:09:22.418Z Tim MacDonald <timacdonald@users.noreply.github.com> :: tweak error handling
 2025-10-20T18:10:04.953Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update cache keys
+2025-10-20T19:30:42.890Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dead code
