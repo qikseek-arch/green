@@ -1685,3 +1685,4 @@
 2025-10-20T10:02:12.241Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: remove readme typo
 2025-10-20T11:02:45.485Z Vishwas <gopinav@users.noreply.github.com> :: remove retry logic
 2025-10-20T11:25:28.354Z LinuxServer.io <linuxserver@users.noreply.github.com> :: add dead code
+2025-10-20T12:31:38.162Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: update error handling
