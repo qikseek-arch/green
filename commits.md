@@ -14182,3 +14182,4 @@
 2025-10-20T07:02:38.942Z imput <hello@imput.net> :: fix build script
 2025-10-20T07:43:19.893Z Alex Teichman <teichman@users.noreply.github.com> :: refactor the parser
 2025-10-20T10:32:20.415Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump logging
+2025-10-20T11:35:58.107Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: wire up build script
