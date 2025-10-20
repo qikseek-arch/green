@@ -14204,3 +14204,4 @@
 2025-10-20T20:28:38.580Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak logging
 2025-10-20T20:55:57.401Z cytopia <cytopia@users.noreply.github.com> :: clean up config defaults
 2025-10-20T22:31:01.309Z Odi <mathdroid@users.noreply.github.com> :: refactor null check
+2025-10-20T23:11:37.706Z Aman Kumar <Amanc77@users.noreply.github.com> :: update config defaults
