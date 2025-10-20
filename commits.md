@@ -2266,3 +2266,4 @@
 2025-10-20T09:01:21.049Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak error handling
 2025-10-20T09:23:58.259Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: polish edge case in auth
 2025-10-20T09:54:28.620Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add logging
+2025-10-20T10:38:54.450Z 황준일 <JunilHwang@users.noreply.github.com> :: update readme typo
