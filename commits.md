@@ -1694,3 +1694,4 @@
 2025-10-20T16:57:17.254Z Justin Johnson <jcjohnson@users.noreply.github.com> :: polish cache keys
 2025-10-20T17:29:33.617Z chencheng (云谦) <sorrycc@users.noreply.github.com> :: fix config defaults
 2025-10-20T19:13:31.902Z Fazt <fazt@users.noreply.github.com> :: bump dead code
+2025-10-20T19:27:56.579Z meliksahyorulmazlar <meliksahyorulmazlar@users.noreply.github.com> :: clean up error handling
