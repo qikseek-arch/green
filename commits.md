@@ -1701,3 +1701,4 @@
 2025-10-20T20:36:35.659Z David <blocage@users.noreply.github.com> :: add config defaults
 2025-10-20T22:45:21.140Z Brent Jackson <jxnblk@users.noreply.github.com> :: polish build script
 2025-10-20T23:12:45.434Z Microsoft Azure <Azure@users.noreply.github.com> :: fix error handling
+2025-10-20T23:40:08.420Z Bitcoin <bitcoin@users.noreply.github.com> :: remove error handling
