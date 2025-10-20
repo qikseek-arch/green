@@ -4474,3 +4474,4 @@
 2025-10-20T01:46:37.542Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dependency versions
 2025-10-20T01:52:38.043Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add null check
 2025-10-20T02:04:06.591Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak null check
+2025-10-20T02:45:24.590Z ring04h <ring04h@users.noreply.github.com> :: tweak error handling
