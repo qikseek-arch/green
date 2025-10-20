@@ -14198,3 +14198,4 @@
 2025-10-20T17:04:40.345Z cytopia <cytopia@users.noreply.github.com> :: bump the parser
 2025-10-20T18:25:30.962Z SurrealDB <surrealdb@users.noreply.github.com> :: fix edge case in auth
 2025-10-20T18:47:42.813Z Morvan <MorvanZhou@users.noreply.github.com> :: polish logging
+2025-10-20T19:13:31.390Z Xingang Pan <XingangPan@users.noreply.github.com> :: wire up the CI matrix
