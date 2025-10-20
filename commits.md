@@ -14194,3 +14194,4 @@
 2025-10-20T15:51:23.592Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove the parser
 2025-10-20T16:05:05.668Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak the CI matrix
 2025-10-20T16:28:02.795Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix the CI matrix
+2025-10-20T16:44:09.638Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove retry logic
