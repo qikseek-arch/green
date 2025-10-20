@@ -14191,3 +14191,4 @@
 2025-10-20T15:09:56.574Z Asif Taj <axiftaj@users.noreply.github.com> :: add logging
 2025-10-20T15:34:17.803Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak config defaults
 2025-10-20T15:34:27.279Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up the parser
+2025-10-20T15:51:23.592Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove the parser
