@@ -4490,3 +4490,4 @@
 2025-10-20T10:05:10.414Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up build script
 2025-10-20T13:20:11.308Z BBC <bbc@users.noreply.github.com> :: remove readme typo
 2025-10-20T14:53:39.628Z Keith Smiley <keith@users.noreply.github.com> :: fix readme typo
+2025-10-20T17:10:13.062Z heyli <lcxfs1991@users.noreply.github.com> :: add the CI matrix
