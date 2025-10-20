@@ -615,3 +615,4 @@
 2025-10-17T19:06:18.934Z Chip Huyen <chiphuyen@users.noreply.github.com> :: tweak the CI matrix
 2025-10-19T08:37:49.521Z Chris Wanstrath <defunkt@users.noreply.github.com> :: bump the parser
 2025-10-20T10:38:35.273Z 稚晖 <peng-zhihui@users.noreply.github.com> :: polish edge case in auth
+2025-10-20T22:23:50.656Z Flutter <flutter@users.noreply.github.com> :: tweak retry logic
