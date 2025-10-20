@@ -4499,3 +4499,4 @@
 2025-10-20T21:57:20.368Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove cache keys
 2025-10-20T21:59:52.160Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor error handling
 2025-10-20T22:00:04.167Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
+2025-10-20T22:29:38.260Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the parser
