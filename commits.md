@@ -1679,3 +1679,4 @@
 2025-10-20T08:04:37.929Z Brittany Chiang <bchiang7@users.noreply.github.com> :: update readme typo
 2025-10-20T08:19:28.658Z Denis Pushkarev <zloirock@users.noreply.github.com> :: bump null check
 2025-10-20T08:51:53.866Z Cuttlefish <ddgksf2013@users.noreply.github.com> :: bump the CI matrix
+2025-10-20T09:17:47.078Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix logging
