@@ -2262,3 +2262,4 @@
 2025-10-20T04:35:31.330Z Diu <ddiu8081@users.noreply.github.com> :: refactor logging
 2025-10-20T05:58:53.489Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: clean up flaky test
 2025-10-20T07:33:34.726Z farza <farzaa@users.noreply.github.com> :: add edge case in auth
+2025-10-20T08:54:35.974Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish dead code
