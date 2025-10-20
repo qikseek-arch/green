@@ -2272,3 +2272,4 @@
 2025-10-20T13:17:44.278Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: tweak dependency versions
 2025-10-20T13:23:50.562Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: clean up config defaults
 2025-10-20T14:09:14.545Z Diu <ddiu8081@users.noreply.github.com> :: polish the CI matrix
+2025-10-20T16:28:44.595Z Gradio <admin@gradio.app> :: update readme typo
