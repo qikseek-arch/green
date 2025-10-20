@@ -1682,3 +1682,4 @@
 2025-10-20T09:17:47.078Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: fix logging
 2025-10-20T09:27:01.156Z Andrew Kelley <andrewrk@users.noreply.github.com> :: refactor config defaults
 2025-10-20T10:00:06.260Z in28minutes <in28minutes@users.noreply.github.com> :: refactor dependency versions
+2025-10-20T10:02:12.241Z Learn with Sumit <learnwithsumit@users.noreply.github.com> :: remove readme typo
