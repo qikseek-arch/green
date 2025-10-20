@@ -2268,3 +2268,4 @@
 2025-10-20T09:54:28.620Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add logging
 2025-10-20T10:38:54.450Z 황준일 <JunilHwang@users.noreply.github.com> :: update readme typo
 2025-10-20T12:15:43.114Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak readme typo
+2025-10-20T12:58:02.158Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: refactor error handling
