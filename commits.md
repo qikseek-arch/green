@@ -4500,3 +4500,4 @@
 2025-10-20T21:59:52.160Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor error handling
 2025-10-20T22:00:04.167Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
 2025-10-20T22:29:38.260Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the parser
+2025-10-20T23:21:11.192Z Taiko Foundation <info@taiko.xyz> :: tweak retry logic
