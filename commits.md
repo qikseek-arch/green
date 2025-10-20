@@ -2255,3 +2255,4 @@
 2025-10-19T22:07:22.091Z LN <ln-dev7@users.noreply.github.com> :: fix config defaults
 2025-10-19T22:55:23.547Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish error handling
 2025-10-19T23:19:51.255Z farza <farzaa@users.noreply.github.com> :: refactor retry logic
+2025-10-20T00:14:47.387Z 郭飞 <guofei9987@users.noreply.github.com> :: clean up edge case in auth
