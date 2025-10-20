@@ -14197,3 +14197,4 @@
 2025-10-20T16:44:09.638Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove retry logic
 2025-10-20T17:04:40.345Z cytopia <cytopia@users.noreply.github.com> :: bump the parser
 2025-10-20T18:25:30.962Z SurrealDB <surrealdb@users.noreply.github.com> :: fix edge case in auth
+2025-10-20T18:47:42.813Z Morvan <MorvanZhou@users.noreply.github.com> :: polish logging
