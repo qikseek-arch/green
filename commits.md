@@ -14189,3 +14189,4 @@
 2025-10-20T13:38:07.151Z Shougo <Shougo@users.noreply.github.com> :: polish the CI matrix
 2025-10-20T14:57:12.758Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add the parser
 2025-10-20T15:09:56.574Z Asif Taj <axiftaj@users.noreply.github.com> :: add logging
+2025-10-20T15:34:17.803Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak config defaults
