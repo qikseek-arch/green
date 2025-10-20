@@ -4498,3 +4498,4 @@
 2025-10-20T21:56:39.892Z Sachin Soni <techiesms@users.noreply.github.com> :: polish edge case in auth
 2025-10-20T21:57:20.368Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove cache keys
 2025-10-20T21:59:52.160Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor error handling
+2025-10-20T22:00:04.167Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
