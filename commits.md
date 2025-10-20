@@ -4488,3 +4488,4 @@
 2025-10-20T09:29:46.889Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor the parser
 2025-10-20T09:39:29.808Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish dependency versions
 2025-10-20T10:05:10.414Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up build script
+2025-10-20T13:20:11.308Z BBC <bbc@users.noreply.github.com> :: remove readme typo
