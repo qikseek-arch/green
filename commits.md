@@ -1675,3 +1675,4 @@
 2025-10-20T06:05:31.458Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: bump edge case in auth
 2025-10-20T06:19:17.527Z Any Association <anyproto@users.noreply.github.com> :: update logging
 2025-10-20T06:35:42.894Z David <blocage@users.noreply.github.com> :: tweak readme typo
+2025-10-20T07:04:56.524Z Triet Trinh <trinhminhtriet@users.noreply.github.com> :: remove error handling
