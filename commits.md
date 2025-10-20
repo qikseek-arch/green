@@ -1689,3 +1689,4 @@
 2025-10-20T13:26:58.366Z Y11 <XiaomingX@users.noreply.github.com> :: tweak dependency versions
 2025-10-20T14:25:51.644Z Fernando Cejas <android10@users.noreply.github.com> :: tweak null check
 2025-10-20T14:36:46.216Z Yangqing Jia <Yangqing@users.noreply.github.com> :: update cache keys
+2025-10-20T14:43:26.961Z LinuxServer.io <linuxserver@users.noreply.github.com> :: remove dependency versions
