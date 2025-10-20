@@ -1698,3 +1698,4 @@
 2025-10-20T19:46:14.236Z Spring <spring-projects@users.noreply.github.com> :: tweak edge case in auth
 2025-10-20T20:01:05.921Z Mahsima Dastan <mahseema@users.noreply.github.com> :: wire up readme typo
 2025-10-20T20:21:44.916Z Peter Kimanzi <peter-kimanzi@users.noreply.github.com> :: update cache keys
+2025-10-20T20:36:35.659Z David <blocage@users.noreply.github.com> :: add config defaults
