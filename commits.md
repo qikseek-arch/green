@@ -4495,3 +4495,4 @@
 2025-10-20T18:10:04.953Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update cache keys
 2025-10-20T19:30:42.890Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dead code
 2025-10-20T21:10:33.572Z Adam Bell <b3ll@users.noreply.github.com> :: polish readme typo
+2025-10-20T21:56:39.892Z Sachin Soni <techiesms@users.noreply.github.com> :: polish edge case in auth
