@@ -1709,3 +1709,4 @@
 2025-10-21T06:24:06.686Z Zen <zen-browser@users.noreply.github.com> :: tweak cache keys
 2025-10-21T07:29:40.204Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor null check
 2025-10-21T07:36:03.703Z 云风 <cloudwu@users.noreply.github.com> :: remove readme typo
+2025-10-21T10:01:29.147Z in28minutes <in28minutes@users.noreply.github.com> :: refactor error handling
