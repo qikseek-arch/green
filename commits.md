@@ -1729,3 +1729,4 @@
 2025-10-21T19:11:41.068Z Iuri Silva <iuricode@users.noreply.github.com> :: fix dependency versions
 2025-10-21T19:16:23.298Z Crypto Michael <michaelliao@users.noreply.github.com> :: add build script
 2025-10-21T19:34:05.275Z Termux <contact@termux.dev> :: wire up cache keys
+2025-10-21T19:35:13.779Z Jeremy Thomas <jgthms@users.noreply.github.com> :: remove readme typo
