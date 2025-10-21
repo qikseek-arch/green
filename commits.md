@@ -2295,3 +2295,4 @@
 2025-10-21T18:30:47.429Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: refactor the parser
 2025-10-21T18:35:26.451Z Codewars <info@codewars.com> :: update build script
 2025-10-21T20:47:28.719Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix the parser
+2025-10-21T21:39:21.312Z 황준일 <JunilHwang@users.noreply.github.com> :: tweak dependency versions
