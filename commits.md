@@ -1708,3 +1708,4 @@
 2025-10-21T06:10:23.242Z Justin Johnson <jcjohnson@users.noreply.github.com> :: tweak readme typo
 2025-10-21T06:24:06.686Z Zen <zen-browser@users.noreply.github.com> :: tweak cache keys
 2025-10-21T07:29:40.204Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor null check
+2025-10-21T07:36:03.703Z 云风 <cloudwu@users.noreply.github.com> :: remove readme typo
