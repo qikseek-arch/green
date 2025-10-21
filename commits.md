@@ -2291,3 +2291,4 @@
 2025-10-21T15:45:27.705Z Aditya Shakya <adi1090x@users.noreply.github.com> :: update retry logic
 2025-10-21T16:04:26.310Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: update edge case in auth
 2025-10-21T16:26:39.236Z farza <farzaa@users.noreply.github.com> :: polish logging
+2025-10-21T17:10:55.421Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add the parser
