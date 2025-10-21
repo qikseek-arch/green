@@ -2287,3 +2287,4 @@
 2025-10-21T14:10:03.647Z Paul Deitel <pdeitel@users.noreply.github.com> :: tweak retry logic
 2025-10-21T14:10:53.417Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: clean up config defaults
 2025-10-21T14:39:35.871Z Emil Wallner <emilwallner@users.noreply.github.com> :: add the CI matrix
+2025-10-21T15:12:56.499Z Philip Walton <philipwalton@users.noreply.github.com> :: fix the CI matrix
