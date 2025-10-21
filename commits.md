@@ -14213,3 +14213,4 @@
 2025-10-21T03:02:43.757Z Amnezia VPN <support@amnezia.org> :: bump config defaults
 2025-10-21T03:10:59.941Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove logging
 2025-10-21T03:15:01.027Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the parser
+2025-10-21T04:44:43.433Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove readme typo
