@@ -4503,3 +4503,4 @@
 2025-10-20T23:21:11.192Z Taiko Foundation <info@taiko.xyz> :: tweak retry logic
 2025-10-21T01:36:18.570Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak retry logic
 2025-10-21T03:14:26.938Z Getgems <getgems-io@users.noreply.github.com> :: update dependency versions
+2025-10-21T04:40:37.321Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove the parser
