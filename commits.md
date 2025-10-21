@@ -2281,3 +2281,4 @@
 2025-10-21T09:04:04.200Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: refactor dead code
 2025-10-21T09:18:10.060Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: tweak build script
 2025-10-21T09:21:55.239Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: polish logging
+2025-10-21T10:59:39.166Z Andrew Mead <andrewjmead@users.noreply.github.com> :: refactor edge case in auth
