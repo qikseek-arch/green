@@ -14206,3 +14206,4 @@
 2025-10-20T22:31:01.309Z Odi <mathdroid@users.noreply.github.com> :: refactor null check
 2025-10-20T23:11:37.706Z Aman Kumar <Amanc77@users.noreply.github.com> :: update config defaults
 2025-10-21T01:11:41.091Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add config defaults
+2025-10-21T01:21:25.506Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: update null check
