@@ -2289,3 +2289,4 @@
 2025-10-21T14:39:35.871Z Emil Wallner <emilwallner@users.noreply.github.com> :: add the CI matrix
 2025-10-21T15:12:56.499Z Philip Walton <philipwalton@users.noreply.github.com> :: fix the CI matrix
 2025-10-21T15:45:27.705Z Aditya Shakya <adi1090x@users.noreply.github.com> :: update retry logic
+2025-10-21T16:04:26.310Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: update edge case in auth
