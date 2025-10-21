@@ -2285,3 +2285,4 @@
 2025-10-21T11:12:20.826Z OpenShift <openshift@users.noreply.github.com> :: add retry logic
 2025-10-21T11:20:00.278Z Leap 离谱 <byoungd@users.noreply.github.com> :: polish logging
 2025-10-21T14:10:03.647Z Paul Deitel <pdeitel@users.noreply.github.com> :: tweak retry logic
+2025-10-21T14:10:53.417Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: clean up config defaults
