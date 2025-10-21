@@ -1715,3 +1715,4 @@
 2025-10-21T11:02:33.420Z Justin Johnson <jcjohnson@users.noreply.github.com> :: update cache keys
 2025-10-21T11:16:08.610Z Yichun Zhang <agentzh@users.noreply.github.com> :: polish config defaults
 2025-10-21T11:41:25.316Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak config defaults
+2025-10-21T11:43:41.046Z Charm <vt100@charm.land> :: polish config defaults
