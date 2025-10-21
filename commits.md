@@ -4506,3 +4506,4 @@
 2025-10-21T04:40:37.321Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove the parser
 2025-10-21T05:29:42.917Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish dependency versions
 2025-10-21T06:45:31.819Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up retry logic
+2025-10-21T08:21:16.852Z Shubs <infosec-au@users.noreply.github.com> :: add cache keys
