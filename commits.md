@@ -1704,3 +1704,4 @@
 2025-10-20T23:40:08.420Z Bitcoin <bitcoin@users.noreply.github.com> :: remove error handling
 2025-10-21T00:46:58.393Z Vishwas <gopinav@users.noreply.github.com> :: remove build script
 2025-10-21T03:00:35.819Z Justin Johnson <jcjohnson@users.noreply.github.com> :: tweak build script
+2025-10-21T04:26:43.682Z Iuri Silva <iuricode@users.noreply.github.com> :: polish the CI matrix
