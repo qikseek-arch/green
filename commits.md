@@ -2294,3 +2294,4 @@
 2025-10-21T17:10:55.421Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add the parser
 2025-10-21T18:30:47.429Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: refactor the parser
 2025-10-21T18:35:26.451Z Codewars <info@codewars.com> :: update build script
+2025-10-21T20:47:28.719Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix the parser
