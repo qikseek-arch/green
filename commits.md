@@ -4501,3 +4501,4 @@
 2025-10-20T22:00:04.167Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
 2025-10-20T22:29:38.260Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the parser
 2025-10-20T23:21:11.192Z Taiko Foundation <info@taiko.xyz> :: tweak retry logic
+2025-10-21T01:36:18.570Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak retry logic
