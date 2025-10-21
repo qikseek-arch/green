@@ -4520,3 +4520,4 @@
 2025-10-21T18:32:39.396Z Adam Bell <b3ll@users.noreply.github.com> :: refactor cache keys
 2025-10-21T18:35:14.934Z Barret李靖 <barretlee@users.noreply.github.com> :: bump dependency versions
 2025-10-21T18:38:35.829Z Getgems <getgems-io@users.noreply.github.com> :: refactor null check
+2025-10-21T20:31:42.863Z SouJunior <wouerner@soujunior.tech> :: polish error handling
