@@ -2292,3 +2292,4 @@
 2025-10-21T16:04:26.310Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: update edge case in auth
 2025-10-21T16:26:39.236Z farza <farzaa@users.noreply.github.com> :: polish logging
 2025-10-21T17:10:55.421Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add the parser
+2025-10-21T18:30:47.429Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: refactor the parser
