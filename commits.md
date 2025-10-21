@@ -40,3 +40,4 @@
 2025-10-19T15:05:14.872Z Rob Fuller <mubix@users.noreply.github.com> :: remove build script
 2025-10-20T15:02:49.807Z t11s <transmissions11@users.noreply.github.com> :: add build script
 2025-10-21T11:20:00.467Z Chad Sharp <cmlsharp@users.noreply.github.com> :: remove readme typo
+2025-10-21T14:43:16.869Z Leon AI <louis@getleon.ai> :: polish retry logic
