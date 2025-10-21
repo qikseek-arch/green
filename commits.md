@@ -1732,3 +1732,4 @@
 2025-10-21T19:35:13.779Z Jeremy Thomas <jgthms@users.noreply.github.com> :: remove readme typo
 2025-10-21T20:31:35.014Z Y11 <XiaomingX@users.noreply.github.com> :: polish flaky test
 2025-10-21T20:47:32.404Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: clean up build script
+2025-10-21T21:03:37.584Z Vishwas <gopinav@users.noreply.github.com> :: fix null check
