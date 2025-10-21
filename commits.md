@@ -1727,3 +1727,4 @@
 2025-10-21T16:29:58.998Z S4IL <S4IL21@users.noreply.github.com> :: refactor retry logic
 2025-10-21T18:54:45.998Z Chinmay Kaitade <ChinmayKaitade@users.noreply.github.com> :: fix flaky test
 2025-10-21T19:11:41.068Z Iuri Silva <iuricode@users.noreply.github.com> :: fix dependency versions
+2025-10-21T19:16:23.298Z Crypto Michael <michaelliao@users.noreply.github.com> :: add build script
