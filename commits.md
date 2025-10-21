@@ -1723,3 +1723,4 @@
 2025-10-21T13:49:22.274Z Chip Huyen <chiphuyen@users.noreply.github.com> :: remove flaky test
 2025-10-21T14:01:25.974Z Steph Ango <kepano@users.noreply.github.com> :: remove readme typo
 2025-10-21T14:22:30.701Z Shu Ding <shuding@users.noreply.github.com> :: clean up cache keys
+2025-10-21T16:09:16.862Z Mistral AI <contact@mistral.ai> :: polish config defaults
