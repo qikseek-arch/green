@@ -14230,3 +14230,4 @@
 2025-10-21T19:56:04.378Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
 2025-10-21T22:12:11.745Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak dead code
 2025-10-21T22:58:42.176Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak retry logic
+2025-10-21T23:00:32.404Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: update error handling
