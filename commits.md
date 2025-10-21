@@ -14221,3 +14221,4 @@
 2025-10-21T10:31:02.008Z Jabrils <Jabrils@users.noreply.github.com> :: bump retry logic
 2025-10-21T10:31:27.171Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish dependency versions
 2025-10-21T13:32:42.788Z Henry <hzoo@users.noreply.github.com> :: tweak edge case in auth
+2025-10-21T15:30:56.912Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish dead code
