@@ -39,3 +39,4 @@
 2025-10-19T03:10:51.414Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: update dependency versions
 2025-10-19T15:05:14.872Z Rob Fuller <mubix@users.noreply.github.com> :: remove build script
 2025-10-20T15:02:49.807Z t11s <transmissions11@users.noreply.github.com> :: add build script
+2025-10-21T11:20:00.467Z Chad Sharp <cmlsharp@users.noreply.github.com> :: remove readme typo
