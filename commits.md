@@ -14227,3 +14227,4 @@
 2025-10-21T16:49:44.566Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: wire up cache keys
 2025-10-21T19:12:21.778Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up logging
 2025-10-21T19:38:05.726Z rxi <rxi@users.noreply.github.com> :: polish dependency versions
+2025-10-21T19:56:04.378Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
