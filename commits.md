@@ -14222,3 +14222,4 @@
 2025-10-21T10:31:27.171Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish dependency versions
 2025-10-21T13:32:42.788Z Henry <hzoo@users.noreply.github.com> :: tweak edge case in auth
 2025-10-21T15:30:56.912Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish dead code
+2025-10-21T15:41:06.947Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish edge case in auth
