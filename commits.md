@@ -14241,3 +14241,4 @@
 2025-10-22T06:27:44.265Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
 2025-10-22T06:27:51.832Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: refactor null check
 2025-10-22T06:35:44.649Z Amnezia VPN <support@amnezia.org> :: remove config defaults
+2025-10-22T07:22:23.924Z Alex Teichman <teichman@users.noreply.github.com> :: remove dead code
