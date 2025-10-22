@@ -14251,3 +14251,4 @@
 2025-10-22T14:15:50.426Z Morvan <MorvanZhou@users.noreply.github.com> :: add flaky test
 2025-10-22T14:54:11.013Z OpenBMB <openbmb@gmail.com> :: bump cache keys
 2025-10-22T15:11:59.698Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish config defaults
+2025-10-22T16:50:30.245Z Tom Dale <tomdale@users.noreply.github.com> :: add null check
