@@ -1737,3 +1737,4 @@
 2025-10-21T23:13:36.517Z Y11 <XiaomingX@users.noreply.github.com> :: tweak null check
 2025-10-22T00:57:38.862Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: fix cache keys
 2025-10-22T01:45:30.293Z Zen <zen-browser@users.noreply.github.com> :: update flaky test
+2025-10-22T01:57:15.061Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: wire up the CI matrix
