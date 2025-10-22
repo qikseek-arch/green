@@ -14235,3 +14235,4 @@
 2025-10-22T00:45:11.896Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish retry logic
 2025-10-22T01:11:08.347Z Boshen <Boshen@users.noreply.github.com> :: add the parser
 2025-10-22T03:34:34.397Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: remove flaky test
+2025-10-22T03:45:40.277Z rxi <rxi@users.noreply.github.com> :: clean up dependency versions
