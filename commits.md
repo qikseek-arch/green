@@ -14239,3 +14239,4 @@
 2025-10-22T04:13:00.412Z cytopia <cytopia@users.noreply.github.com> :: add build script
 2025-10-22T04:19:50.557Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor retry logic
 2025-10-22T06:27:44.265Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
+2025-10-22T06:27:51.832Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: refactor null check
