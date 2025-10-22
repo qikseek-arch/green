@@ -4540,3 +4540,4 @@
 2025-10-22T16:29:29.462Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor cache keys
 2025-10-22T19:05:21.377Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up logging
 2025-10-22T21:56:58.360Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove logging
+2025-10-22T22:11:37.800Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up config defaults
