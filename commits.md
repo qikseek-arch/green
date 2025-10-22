@@ -14255,3 +14255,4 @@
 2025-10-22T17:45:05.502Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak flaky test
 2025-10-22T19:12:17.526Z in28minutes <in28minutes@users.noreply.github.com> :: fix flaky test
 2025-10-22T21:31:38.263Z Odi <mathdroid@users.noreply.github.com> :: polish null check
+2025-10-22T23:09:50.307Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the parser
