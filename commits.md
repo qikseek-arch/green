@@ -4527,3 +4527,4 @@
 2025-10-21T23:15:58.775Z Ryan Bigg <radar@users.noreply.github.com> :: update readme typo
 2025-10-22T02:25:11.307Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up the CI matrix
 2025-10-22T04:33:10.948Z ring04h <ring04h@users.noreply.github.com> :: clean up config defaults
+2025-10-22T04:36:45.100Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak retry logic
