@@ -2330,3 +2330,4 @@
 2025-10-22T17:20:04.213Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: refactor null check
 2025-10-22T20:50:54.528Z Diu <ddiu8081@users.noreply.github.com> :: polish the CI matrix
 2025-10-22T20:51:22.817Z TON Connect <ton-connect@users.noreply.github.com> :: refactor cache keys
+2025-10-22T21:10:30.490Z Dan Gohman <sunfishcode@users.noreply.github.com> :: add dead code
