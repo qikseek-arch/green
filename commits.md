@@ -14232,3 +14232,4 @@
 2025-10-21T22:58:42.176Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak retry logic
 2025-10-21T23:00:32.404Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: update error handling
 2025-10-21T23:57:47.613Z SurrealDB <surrealdb@users.noreply.github.com> :: polish null check
+2025-10-22T00:45:11.896Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish retry logic
