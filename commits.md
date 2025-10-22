@@ -2299,3 +2299,4 @@
 2025-10-21T22:33:52.309Z Yann Collet <Cyan4973@users.noreply.github.com> :: add logging
 2025-10-21T23:22:20.550Z Blue <blueedgetechno@users.noreply.github.com> :: update the CI matrix
 2025-10-21T23:58:56.864Z Codewars <info@codewars.com> :: wire up retry logic
+2025-10-22T00:46:10.432Z ligi <ligi@users.noreply.github.com> :: fix the parser
