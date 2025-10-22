@@ -1744,3 +1744,4 @@
 2025-10-22T04:07:30.737Z seehiong <seehiong@users.noreply.github.com> :: fix dependency versions
 2025-10-22T04:22:18.715Z Spring <spring-projects@users.noreply.github.com> :: polish flaky test
 2025-10-22T05:12:01.660Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: bump dependency versions
+2025-10-22T05:34:07.852Z Fernando Cejas <android10@users.noreply.github.com> :: tweak dead code
