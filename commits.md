@@ -1748,3 +1748,4 @@
 2025-10-22T06:13:07.633Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove retry logic
 2025-10-22T08:10:39.496Z Charm <vt100@charm.land> :: wire up build script
 2025-10-22T08:23:44.532Z Paul Irish <paulirish@users.noreply.github.com> :: wire up cache keys
+2025-10-22T08:41:09.762Z Siraj Raval <llSourcell@users.noreply.github.com> :: polish dead code
