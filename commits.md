@@ -1739,3 +1739,4 @@
 2025-10-22T01:45:30.293Z Zen <zen-browser@users.noreply.github.com> :: update flaky test
 2025-10-22T01:57:15.061Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: wire up the CI matrix
 2025-10-22T03:01:49.274Z Termux <contact@termux.dev> :: clean up config defaults
+2025-10-22T03:14:08.440Z Brent Jackson <jxnblk@users.noreply.github.com> :: update dead code
