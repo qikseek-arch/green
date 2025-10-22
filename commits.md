@@ -4534,3 +4534,4 @@
 2025-10-22T05:30:34.921Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump retry logic
 2025-10-22T06:18:50.858Z AI4Bhārat <opensource@ai4bharat.org> :: clean up config defaults
 2025-10-22T07:53:40.387Z Manu Arora <manuarora700@users.noreply.github.com> :: add error handling
+2025-10-22T09:35:08.488Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dependency versions
