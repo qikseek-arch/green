@@ -1746,3 +1746,4 @@
 2025-10-22T05:12:01.660Z ⚡️ Lightning AI <Lightning-AI@users.noreply.github.com> :: bump dependency versions
 2025-10-22T05:34:07.852Z Fernando Cejas <android10@users.noreply.github.com> :: tweak dead code
 2025-10-22T06:13:07.633Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove retry logic
+2025-10-22T08:10:39.496Z Charm <vt100@charm.land> :: wire up build script
