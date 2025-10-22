@@ -2317,3 +2317,4 @@
 2025-10-22T10:55:32.539Z Blue <blueedgetechno@users.noreply.github.com> :: wire up logging
 2025-10-22T11:18:27.211Z 卡颂 <BetaSu@users.noreply.github.com> :: refactor readme typo
 2025-10-22T11:56:38.461Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: wire up error handling
+2025-10-22T12:21:56.461Z Fabien Potencier <fabpot@users.noreply.github.com> :: add dependency versions
