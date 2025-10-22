@@ -1741,3 +1741,4 @@
 2025-10-22T03:01:49.274Z Termux <contact@termux.dev> :: clean up config defaults
 2025-10-22T03:14:08.440Z Brent Jackson <jxnblk@users.noreply.github.com> :: update dead code
 2025-10-22T04:02:55.572Z Serhii Herasymov <xcontcom@users.noreply.github.com> :: bump the CI matrix
+2025-10-22T04:07:30.737Z seehiong <seehiong@users.noreply.github.com> :: fix dependency versions
