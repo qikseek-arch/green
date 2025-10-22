@@ -14247,3 +14247,4 @@
 2025-10-22T10:20:22.589Z rxi <rxi@users.noreply.github.com> :: wire up dependency versions
 2025-10-22T11:22:37.380Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove build script
 2025-10-22T13:30:05.820Z Lovell Fuller <lovell@users.noreply.github.com> :: update config defaults
+2025-10-22T13:35:27.227Z Collabnix <collabnix@users.noreply.github.com> :: update config defaults
