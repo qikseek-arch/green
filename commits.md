@@ -2312,3 +2312,4 @@
 2025-10-22T06:25:48.352Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: bump build script
 2025-10-22T08:14:24.866Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: update dependency versions
 2025-10-22T08:48:01.805Z Codewars <info@codewars.com> :: bump dependency versions
+2025-10-22T09:02:35.379Z Andrew Mead <andrewjmead@users.noreply.github.com> :: fix dependency versions
