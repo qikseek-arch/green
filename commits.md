@@ -4538,3 +4538,4 @@
 2025-10-22T11:15:25.902Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor edge case in auth
 2025-10-22T13:55:11.993Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix edge case in auth
 2025-10-22T16:29:29.462Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor cache keys
+2025-10-22T19:05:21.377Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up logging
