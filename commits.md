@@ -2308,3 +2308,4 @@
 2025-10-22T04:13:05.089Z Yann Collet <Cyan4973@users.noreply.github.com> :: remove edge case in auth
 2025-10-22T05:07:09.076Z Aditya Shakya <adi1090x@users.noreply.github.com> :: wire up retry logic
 2025-10-22T05:19:20.326Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: update retry logic
+2025-10-22T05:50:59.799Z Paul Deitel <pdeitel@users.noreply.github.com> :: polish error handling
