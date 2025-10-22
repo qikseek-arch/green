@@ -2300,3 +2300,4 @@
 2025-10-21T23:22:20.550Z Blue <blueedgetechno@users.noreply.github.com> :: update the CI matrix
 2025-10-21T23:58:56.864Z Codewars <info@codewars.com> :: wire up retry logic
 2025-10-22T00:46:10.432Z ligi <ligi@users.noreply.github.com> :: fix the parser
+2025-10-22T00:49:30.063Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: add readme typo
