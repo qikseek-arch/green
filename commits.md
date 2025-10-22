@@ -14238,3 +14238,4 @@
 2025-10-22T03:45:40.277Z rxi <rxi@users.noreply.github.com> :: clean up dependency versions
 2025-10-22T04:13:00.412Z cytopia <cytopia@users.noreply.github.com> :: add build script
 2025-10-22T04:19:50.557Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor retry logic
+2025-10-22T06:27:44.265Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
