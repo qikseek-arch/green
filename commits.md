@@ -2324,3 +2324,4 @@
 2025-10-22T13:59:13.258Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: wire up config defaults
 2025-10-22T14:48:32.411Z Jonathan <Grafikart@users.noreply.github.com> :: fix cache keys
 2025-10-22T15:30:10.403Z jist <george0st@users.noreply.github.com> :: update null check
+2025-10-22T16:52:26.506Z Kenney <KenneyNL@users.noreply.github.com> :: remove config defaults
