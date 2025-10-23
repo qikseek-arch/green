@@ -4556,3 +4556,4 @@
 2025-10-23T10:09:54.281Z Fady Farag <iidmsa@users.noreply.github.com> :: update flaky test
 2025-10-23T10:41:37.184Z Adam Bell <b3ll@users.noreply.github.com> :: polish readme typo
 2025-10-23T12:04:22.919Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove the parser
+2025-10-23T12:09:41.180Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix error handling
