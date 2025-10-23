@@ -2362,3 +2362,4 @@
 2025-10-23T20:15:08.347Z Canonical <canonical@users.noreply.github.com> :: bump readme typo
 2025-10-23T20:36:29.002Z StackBlitz <hello@stackblitz.com> :: clean up retry logic
 2025-10-23T20:53:02.943Z Kenney <KenneyNL@users.noreply.github.com> :: polish null check
+2025-10-23T21:38:42.687Z Thomas Wolf <thomwolf@users.noreply.github.com> :: update retry logic
