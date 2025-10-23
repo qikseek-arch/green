@@ -45,3 +45,4 @@
 2025-10-22T00:04:37.456Z Yiming Cui <ymcui@users.noreply.github.com> :: update the CI matrix
 2025-10-22T03:07:40.187Z Craig <geekcomputers@users.noreply.github.com> :: add logging
 2025-10-23T00:01:25.528Z Astral <hey@astral.sh> :: update dead code
+2025-10-23T02:19:57.860Z Mark Erikson <markerikson@users.noreply.github.com> :: polish error handling
