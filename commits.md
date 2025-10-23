@@ -4550,3 +4550,4 @@
 2025-10-23T03:05:06.625Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up edge case in auth
 2025-10-23T04:28:33.615Z Adam Wathan <adamwathan@users.noreply.github.com> :: tweak the parser
 2025-10-23T07:22:04.101Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish dependency versions
+2025-10-23T07:30:06.254Z Ben Hamner <benhamner@users.noreply.github.com> :: fix the CI matrix
