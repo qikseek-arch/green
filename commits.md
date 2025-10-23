@@ -4542,3 +4542,4 @@
 2025-10-22T21:56:58.360Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove logging
 2025-10-22T22:11:37.800Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up config defaults
 2025-10-22T23:50:56.333Z WebRTC <discuss-webrtc@googlegroups.com> :: fix flaky test
+2025-10-23T00:59:35.186Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump dependency versions
