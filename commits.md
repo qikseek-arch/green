@@ -2359,3 +2359,4 @@
 2025-10-23T17:31:12.392Z 卡颂 <BetaSu@users.noreply.github.com> :: fix the parser
 2025-10-23T17:49:50.343Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak readme typo
 2025-10-23T18:49:25.763Z Navin Reddy <navinreddy20@users.noreply.github.com> :: update config defaults
+2025-10-23T20:15:08.347Z Canonical <canonical@users.noreply.github.com> :: bump readme typo
