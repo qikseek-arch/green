@@ -14261,3 +14261,4 @@
 2025-10-23T01:43:21.551Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add build script
 2025-10-23T02:03:06.374Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix dependency versions
 2025-10-23T02:41:57.810Z Brian Holt <btholt@users.noreply.github.com> :: refactor edge case in auth
+2025-10-23T03:49:47.866Z Casey Muratori <cmuratori@users.noreply.github.com> :: wire up edge case in auth
