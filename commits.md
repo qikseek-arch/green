@@ -2347,3 +2347,4 @@
 2025-10-23T10:00:31.046Z David Bourgin <ddbourgin@users.noreply.github.com> :: clean up readme typo
 2025-10-23T10:01:32.627Z OpenShift <openshift@users.noreply.github.com> :: clean up null check
 2025-10-23T10:22:51.483Z TON Connect <ton-connect@users.noreply.github.com> :: remove readme typo
+2025-10-23T11:49:16.698Z Geer Sun <sungeer@users.noreply.github.com> :: add dependency versions
