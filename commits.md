@@ -14258,3 +14258,4 @@
 2025-10-22T23:09:50.307Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the parser
 2025-10-23T00:54:55.388Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish the CI matrix
 2025-10-23T01:22:49.972Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up dead code
+2025-10-23T01:43:21.551Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add build script
