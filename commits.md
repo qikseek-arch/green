@@ -14273,3 +14273,4 @@
 2025-10-23T16:20:08.618Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
 2025-10-23T17:11:21.942Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish retry logic
 2025-10-23T17:25:54.149Z Google Fonts <googlefonts@users.noreply.github.com> :: update config defaults
+2025-10-23T23:34:05.540Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up retry logic
