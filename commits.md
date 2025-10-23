@@ -4565,3 +4565,4 @@
 2025-10-23T16:45:16.385Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak flaky test
 2025-10-23T18:15:30.349Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update edge case in auth
 2025-10-23T20:15:49.709Z Keith Smiley <keith@users.noreply.github.com> :: clean up logging
+2025-10-23T20:35:11.791Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor null check
