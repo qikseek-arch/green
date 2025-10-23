@@ -2337,3 +2337,4 @@
 2025-10-23T00:47:20.994Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: fix build script
 2025-10-23T02:03:02.698Z 开源中国 <oschina@users.noreply.github.com> :: update cache keys
 2025-10-23T02:27:12.626Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: wire up the CI matrix
+2025-10-23T03:12:15.835Z Yann Collet <Cyan4973@users.noreply.github.com> :: clean up dependency versions
