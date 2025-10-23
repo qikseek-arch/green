@@ -2341,3 +2341,4 @@
 2025-10-23T05:17:04.657Z 郭飞 <guofei9987@users.noreply.github.com> :: add build script
 2025-10-23T05:23:47.356Z OpenXLA <openxla@users.noreply.github.com> :: remove cache keys
 2025-10-23T05:24:18.538Z 陈继军 <android-cjj@users.noreply.github.com> :: update the parser
+2025-10-23T06:05:50.990Z sharkeer <sharkeer@users.noreply.github.com> :: add edge case in auth
