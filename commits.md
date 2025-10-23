@@ -4557,3 +4557,4 @@
 2025-10-23T10:41:37.184Z Adam Bell <b3ll@users.noreply.github.com> :: polish readme typo
 2025-10-23T12:04:22.919Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove the parser
 2025-10-23T12:09:41.180Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix error handling
+2025-10-23T13:40:33.225Z markqvist <markqvist@users.noreply.github.com> :: fix logging
