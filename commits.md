@@ -4560,3 +4560,4 @@
 2025-10-23T13:40:33.225Z markqvist <markqvist@users.noreply.github.com> :: fix logging
 2025-10-23T14:07:09.621Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor null check
 2025-10-23T14:43:09.282Z Rei <chloerei@users.noreply.github.com> :: remove readme typo
+2025-10-23T15:08:48.352Z Keith Smiley <keith@users.noreply.github.com> :: fix dependency versions
