@@ -4566,3 +4566,4 @@
 2025-10-23T18:15:30.349Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update edge case in auth
 2025-10-23T20:15:49.709Z Keith Smiley <keith@users.noreply.github.com> :: clean up logging
 2025-10-23T20:35:11.791Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor null check
+2025-10-23T21:26:48.260Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish null check
