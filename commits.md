@@ -4546,3 +4546,4 @@
 2025-10-23T01:31:15.979Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up dead code
 2025-10-23T01:41:18.819Z md-5 <md-5@users.noreply.github.com> :: add config defaults
 2025-10-23T02:27:40.771Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up cache keys
+2025-10-23T02:27:43.004Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add null check
