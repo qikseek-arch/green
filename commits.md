@@ -14260,3 +14260,4 @@
 2025-10-23T01:22:49.972Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up dead code
 2025-10-23T01:43:21.551Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add build script
 2025-10-23T02:03:06.374Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix dependency versions
+2025-10-23T02:41:57.810Z Brian Holt <btholt@users.noreply.github.com> :: refactor edge case in auth
