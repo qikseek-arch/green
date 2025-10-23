@@ -4567,3 +4567,4 @@
 2025-10-23T20:15:49.709Z Keith Smiley <keith@users.noreply.github.com> :: clean up logging
 2025-10-23T20:35:11.791Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor null check
 2025-10-23T21:26:48.260Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish null check
+2025-10-23T22:21:42.041Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update config defaults
