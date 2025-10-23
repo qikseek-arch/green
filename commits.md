@@ -2360,3 +2360,4 @@
 2025-10-23T17:49:50.343Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak readme typo
 2025-10-23T18:49:25.763Z Navin Reddy <navinreddy20@users.noreply.github.com> :: update config defaults
 2025-10-23T20:15:08.347Z Canonical <canonical@users.noreply.github.com> :: bump readme typo
+2025-10-23T20:36:29.002Z StackBlitz <hello@stackblitz.com> :: clean up retry logic
