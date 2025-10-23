@@ -14266,3 +14266,4 @@
 2025-10-23T05:48:12.833Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: refactor edge case in auth
 2025-10-23T07:35:37.112Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: clean up flaky test
 2025-10-23T09:28:05.584Z Jordan Harband <ljharb@users.noreply.github.com> :: update dependency versions
+2025-10-23T10:36:02.951Z Petar Veličković <PetarV-@users.noreply.github.com> :: add logging
