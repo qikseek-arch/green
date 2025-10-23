@@ -14269,3 +14269,4 @@
 2025-10-23T10:36:02.951Z Petar Veličković <PetarV-@users.noreply.github.com> :: add logging
 2025-10-23T13:14:05.787Z Brendan Gregg <brendangregg@users.noreply.github.com> :: refactor flaky test
 2025-10-23T15:22:33.846Z Dove Letter <skydoves2@gmail.com> :: bump retry logic
+2025-10-23T15:53:46.924Z Daniel Reis <danielhe4rt@users.noreply.github.com> :: fix the CI matrix
