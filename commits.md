@@ -2349,3 +2349,4 @@
 2025-10-23T10:22:51.483Z TON Connect <ton-connect@users.noreply.github.com> :: remove readme typo
 2025-10-23T11:49:16.698Z Geer Sun <sungeer@users.noreply.github.com> :: add dependency versions
 2025-10-23T11:52:58.594Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: bump flaky test
+2025-10-23T13:23:26.037Z Leap 离谱 <byoungd@users.noreply.github.com> :: remove dependency versions
