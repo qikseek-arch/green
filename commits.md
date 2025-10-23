@@ -4559,3 +4559,4 @@
 2025-10-23T12:09:41.180Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix error handling
 2025-10-23T13:40:33.225Z markqvist <markqvist@users.noreply.github.com> :: fix logging
 2025-10-23T14:07:09.621Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor null check
+2025-10-23T14:43:09.282Z Rei <chloerei@users.noreply.github.com> :: remove readme typo
