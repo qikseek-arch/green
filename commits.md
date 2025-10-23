@@ -2336,3 +2336,4 @@
 2025-10-22T23:50:52.324Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: refactor error handling
 2025-10-23T00:47:20.994Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: fix build script
 2025-10-23T02:03:02.698Z 开源中国 <oschina@users.noreply.github.com> :: update cache keys
+2025-10-23T02:27:12.626Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: wire up the CI matrix
