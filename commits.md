@@ -14282,3 +14282,4 @@
 2025-10-24T03:31:09.658Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish edge case in auth
 2025-10-24T03:50:15.978Z 1 <insoxin@users.noreply.github.com> :: refactor readme typo
 2025-10-24T03:59:55.081Z Elliott Minns <elliottminns@users.noreply.github.com> :: add the parser
+2025-10-24T06:57:47.486Z cytopia <cytopia@users.noreply.github.com> :: polish build script
