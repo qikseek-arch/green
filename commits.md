@@ -14280,3 +14280,4 @@
 2025-10-24T02:18:54.481Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove the CI matrix
 2025-10-24T02:42:05.778Z in28minutes <in28minutes@users.noreply.github.com> :: tweak dead code
 2025-10-24T03:31:09.658Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish edge case in auth
+2025-10-24T03:50:15.978Z 1 <insoxin@users.noreply.github.com> :: refactor readme typo
