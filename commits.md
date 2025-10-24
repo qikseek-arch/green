@@ -14284,3 +14284,4 @@
 2025-10-24T03:59:55.081Z Elliott Minns <elliottminns@users.noreply.github.com> :: add the parser
 2025-10-24T06:57:47.486Z cytopia <cytopia@users.noreply.github.com> :: polish build script
 2025-10-24T07:37:59.550Z Tom Dale <tomdale@users.noreply.github.com> :: tweak readme typo
+2025-10-24T07:49:47.076Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish retry logic
