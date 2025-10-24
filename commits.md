@@ -14299,3 +14299,4 @@
 2025-10-24T20:05:07.972Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: clean up error handling
 2025-10-24T20:16:32.370Z Lipis <lipis@users.noreply.github.com> :: refactor cache keys
 2025-10-24T20:21:12.283Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak logging
+2025-10-24T20:47:12.202Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak null check
