@@ -14289,3 +14289,4 @@
 2025-10-24T10:04:28.481Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: refactor config defaults
 2025-10-24T11:20:07.700Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add retry logic
 2025-10-24T12:40:41.235Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: add readme typo
+2025-10-24T13:21:52.523Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: refactor cache keys
