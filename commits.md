@@ -2393,3 +2393,4 @@
 2025-10-24T21:27:16.363Z PostgreSQL <postgres@users.noreply.github.com> :: fix flaky test
 2025-10-24T21:32:39.461Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: remove edge case in auth
 2025-10-24T21:54:55.264Z Vitor Freitas <vitorfs@users.noreply.github.com> :: fix retry logic
+2025-10-24T22:46:31.992Z Andrew Mead <andrewjmead@users.noreply.github.com> :: tweak the CI matrix
