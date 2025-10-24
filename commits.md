@@ -14301,3 +14301,4 @@
 2025-10-24T20:21:12.283Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak logging
 2025-10-24T20:47:12.202Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak null check
 2025-10-24T21:15:33.144Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix the parser
+2025-10-24T21:24:15.700Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up the parser
