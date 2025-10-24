@@ -4597,3 +4597,4 @@
 2025-10-24T20:52:38.493Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add error handling
 2025-10-24T20:58:02.807Z Keith Smiley <keith@users.noreply.github.com> :: add edge case in auth
 2025-10-24T22:18:26.044Z Arduino <arduino@users.noreply.github.com> :: refactor dead code
+2025-10-24T23:11:07.850Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove config defaults
