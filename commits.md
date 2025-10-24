@@ -4570,3 +4570,4 @@
 2025-10-23T22:21:42.041Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update config defaults
 2025-10-23T22:23:31.263Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump edge case in auth
 2025-10-23T23:04:06.604Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove dependency versions
+2025-10-24T00:24:44.071Z md-5 <md-5@users.noreply.github.com> :: fix cache keys
