@@ -4592,3 +4592,4 @@
 2025-10-24T15:18:48.363Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix flaky test
 2025-10-24T16:58:42.343Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix build script
 2025-10-24T19:41:25.865Z Rodrigo Pombo <pomber@users.noreply.github.com> :: polish the parser
+2025-10-24T19:59:52.838Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump retry logic
