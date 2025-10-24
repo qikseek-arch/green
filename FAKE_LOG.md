@@ -201,3 +201,4 @@
 2025-10-13T01:20:07.407Z mimic <mimic@fake.invalid> :: add readme typo
 2025-10-17T10:40:34.744Z lumen <lumen@fake.invalid> :: remove retry logic
 2025-10-23T18:33:03.137Z wisp <wisp@fake.invalid> :: tweak dependency versions
+2025-10-24T15:05:53.256Z void <void@fake.invalid> :: add build script
