@@ -2384,3 +2384,4 @@
 2025-10-24T14:54:30.915Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: bump the CI matrix
 2025-10-24T15:41:25.389Z Jimmy Bogard <jbogard@users.noreply.github.com> :: remove the parser
 2025-10-24T15:50:02.992Z codefollower <codefollower@users.noreply.github.com> :: bump dead code
+2025-10-24T17:49:09.502Z itch.io <support@itch.io> :: clean up cache keys
