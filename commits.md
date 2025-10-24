@@ -14279,3 +14279,4 @@
 2025-10-24T02:16:32.281Z Scott Chacon <schacon@users.noreply.github.com> :: fix cache keys
 2025-10-24T02:18:54.481Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove the CI matrix
 2025-10-24T02:42:05.778Z in28minutes <in28minutes@users.noreply.github.com> :: tweak dead code
+2025-10-24T03:31:09.658Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish edge case in auth
