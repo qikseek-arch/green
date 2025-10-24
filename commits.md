@@ -4578,3 +4578,4 @@
 2025-10-24T04:49:03.587Z Ryan Bigg <radar@users.noreply.github.com> :: wire up config defaults
 2025-10-24T05:05:53.420Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump dead code
 2025-10-24T05:47:07.445Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
+2025-10-24T06:08:05.528Z Adam Bell <b3ll@users.noreply.github.com> :: polish retry logic
