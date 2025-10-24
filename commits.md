@@ -14285,3 +14285,4 @@
 2025-10-24T06:57:47.486Z cytopia <cytopia@users.noreply.github.com> :: polish build script
 2025-10-24T07:37:59.550Z Tom Dale <tomdale@users.noreply.github.com> :: tweak readme typo
 2025-10-24T07:49:47.076Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish retry logic
+2025-10-24T07:58:41.731Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up config defaults
