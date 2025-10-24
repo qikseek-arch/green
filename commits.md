@@ -4590,3 +4590,4 @@
 2025-10-24T13:42:24.341Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump error handling
 2025-10-24T14:19:19.187Z qiye <qiyeboy@users.noreply.github.com> :: remove error handling
 2025-10-24T15:18:48.363Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix flaky test
+2025-10-24T16:58:42.343Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix build script
