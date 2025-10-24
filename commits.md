@@ -2386,3 +2386,4 @@
 2025-10-24T15:50:02.992Z codefollower <codefollower@users.noreply.github.com> :: bump dead code
 2025-10-24T17:49:09.502Z itch.io <support@itch.io> :: clean up cache keys
 2025-10-24T18:41:48.682Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: update readme typo
+2025-10-24T19:54:27.970Z John Blackbourn <johnbillion@users.noreply.github.com> :: wire up the CI matrix
