@@ -2368,3 +2368,4 @@
 2025-10-24T02:01:45.011Z 郭飞 <guofei9987@users.noreply.github.com> :: polish edge case in auth
 2025-10-24T02:05:02.919Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: tweak dependency versions
 2025-10-24T02:08:49.242Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: bump dead code
+2025-10-24T03:00:39.563Z 황준일 <JunilHwang@users.noreply.github.com> :: tweak error handling
