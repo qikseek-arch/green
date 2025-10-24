@@ -2382,3 +2382,4 @@
 2025-10-24T14:46:43.615Z Yann Collet <Cyan4973@users.noreply.github.com> :: add null check
 2025-10-24T14:53:31.688Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: refactor the CI matrix
 2025-10-24T14:54:30.915Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: bump the CI matrix
+2025-10-24T15:41:25.389Z Jimmy Bogard <jbogard@users.noreply.github.com> :: remove the parser
