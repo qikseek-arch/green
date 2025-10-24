@@ -4572,3 +4572,4 @@
 2025-10-23T23:04:06.604Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove dependency versions
 2025-10-24T00:24:44.071Z md-5 <md-5@users.noreply.github.com> :: fix cache keys
 2025-10-24T02:55:29.177Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up retry logic
+2025-10-24T02:59:09.245Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
