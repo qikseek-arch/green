@@ -2365,3 +2365,4 @@
 2025-10-23T21:38:42.687Z Thomas Wolf <thomwolf@users.noreply.github.com> :: update retry logic
 2025-10-23T21:55:36.675Z 0chencc <0Chencc@users.noreply.github.com> :: fix config defaults
 2025-10-24T01:34:47.168Z 0chencc <0Chencc@users.noreply.github.com> :: bump logging
+2025-10-24T02:01:45.011Z 郭飞 <guofei9987@users.noreply.github.com> :: polish edge case in auth
