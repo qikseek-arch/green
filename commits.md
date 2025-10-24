@@ -14295,3 +14295,4 @@
 2025-10-24T17:37:31.418Z Prometheus <prometheus@users.noreply.github.com> :: clean up error handling
 2025-10-24T18:55:26.888Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish flaky test
 2025-10-24T19:07:02.608Z Henry <hzoo@users.noreply.github.com> :: tweak logging
+2025-10-24T19:53:17.774Z Dove Letter <skydoves2@gmail.com> :: refactor edge case in auth
