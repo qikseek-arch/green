@@ -203,3 +203,4 @@
 2025-10-23T18:33:03.137Z wisp <wisp@fake.invalid> :: tweak dependency versions
 2025-10-24T15:05:53.256Z void <void@fake.invalid> :: add build script
 2025-10-25T04:37:22.050Z vex <vex@fake.invalid> :: update the CI matrix
+2025-10-25T23:54:38.039Z root <root@fake.invalid> :: add retry logic
