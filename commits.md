@@ -14328,3 +14328,4 @@
 2025-10-25T18:46:25.481Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
 2025-10-25T18:55:43.404Z Sky Ao <skyao@users.noreply.github.com> :: clean up edge case in auth
 2025-10-25T18:57:41.265Z imput <hello@imput.net> :: bump dead code
+2025-10-25T19:18:01.244Z Lipis <lipis@users.noreply.github.com> :: update config defaults
