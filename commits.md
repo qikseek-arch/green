@@ -4609,3 +4609,4 @@
 2025-10-25T06:37:34.934Z ring04h <ring04h@users.noreply.github.com> :: tweak flaky test
 2025-10-25T06:47:56.411Z Adam Bell <b3ll@users.noreply.github.com> :: tweak config defaults
 2025-10-25T07:04:05.716Z Getgems <getgems-io@users.noreply.github.com> :: update edge case in auth
+2025-10-25T07:06:40.337Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove retry logic
