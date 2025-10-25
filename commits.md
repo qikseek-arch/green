@@ -2416,3 +2416,4 @@
 2025-10-25T19:33:31.954Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: clean up the parser
 2025-10-25T20:49:15.820Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: remove the CI matrix
 2025-10-25T20:49:51.801Z sharkeer <sharkeer@users.noreply.github.com> :: add logging
+2025-10-25T23:06:49.546Z OpenShift <openshift@users.noreply.github.com> :: remove null check
