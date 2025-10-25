@@ -14331,3 +14331,4 @@
 2025-10-25T19:18:01.244Z Lipis <lipis@users.noreply.github.com> :: update config defaults
 2025-10-25T19:44:22.478Z Asif Taj <axiftaj@users.noreply.github.com> :: add error handling
 2025-10-25T19:55:03.939Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove build script
+2025-10-25T21:05:53.685Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up null check
