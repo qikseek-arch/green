@@ -4621,3 +4621,4 @@
 2025-10-25T15:04:23.076Z Rafal <RafalW3bCraft@users.noreply.github.com> :: tweak cache keys
 2025-10-25T16:02:13.148Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
 2025-10-25T18:27:31.801Z LILYGO <LilyGO@users.noreply.github.com> :: bump cache keys
+2025-10-25T19:55:44.930Z Claude <claude@users.noreply.github.com> :: fix config defaults
