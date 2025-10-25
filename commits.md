@@ -14304,3 +14304,4 @@
 2025-10-24T21:24:15.700Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up the parser
 2025-10-24T21:36:47.943Z Amnezia VPN <support@amnezia.org> :: clean up dead code
 2025-10-25T00:19:09.060Z imput <hello@imput.net> :: update the parser
+2025-10-25T00:33:02.594Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump error handling
