@@ -14306,3 +14306,4 @@
 2025-10-25T00:19:09.060Z imput <hello@imput.net> :: update the parser
 2025-10-25T00:33:02.594Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump error handling
 2025-10-25T02:05:05.683Z cytopia <cytopia@users.noreply.github.com> :: bump edge case in auth
+2025-10-25T02:14:02.002Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: wire up the parser
