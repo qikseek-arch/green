@@ -2400,3 +2400,4 @@
 2025-10-25T02:57:00.922Z Composio <hello@composio.dev> :: add build script
 2025-10-25T03:03:12.420Z Leap 离谱 <byoungd@users.noreply.github.com> :: fix the CI matrix
 2025-10-25T03:05:32.315Z StackBlitz <hello@stackblitz.com> :: clean up flaky test
+2025-10-25T03:11:28.999Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: clean up edge case in auth
