@@ -4615,3 +4615,4 @@
 2025-10-25T10:41:41.792Z Adam Bell <b3ll@users.noreply.github.com> :: fix logging
 2025-10-25T11:24:24.010Z Andreas Kling <awesomekling@users.noreply.github.com> :: add config defaults
 2025-10-25T11:40:44.128Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor dependency versions
+2025-10-25T11:40:55.983Z Ryan Bigg <radar@users.noreply.github.com> :: clean up logging
