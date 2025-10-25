@@ -14316,3 +14316,4 @@
 2025-10-25T06:57:28.014Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove retry logic
 2025-10-25T07:31:46.243Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up null check
 2025-10-25T08:53:11.503Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the CI matrix
+2025-10-25T09:09:25.482Z Dove Letter <skydoves2@gmail.com> :: refactor the parser
