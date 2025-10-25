@@ -14325,3 +14325,4 @@
 2025-10-25T15:36:00.424Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor the parser
 2025-10-25T16:24:27.929Z imput <hello@imput.net> :: update the parser
 2025-10-25T16:49:33.519Z Amnezia VPN <support@amnezia.org> :: bump dead code
+2025-10-25T18:46:25.481Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
