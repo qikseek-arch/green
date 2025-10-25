@@ -14329,3 +14329,4 @@
 2025-10-25T18:55:43.404Z Sky Ao <skyao@users.noreply.github.com> :: clean up edge case in auth
 2025-10-25T18:57:41.265Z imput <hello@imput.net> :: bump dead code
 2025-10-25T19:18:01.244Z Lipis <lipis@users.noreply.github.com> :: update config defaults
+2025-10-25T19:44:22.478Z Asif Taj <axiftaj@users.noreply.github.com> :: add error handling
