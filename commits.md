@@ -14330,3 +14330,4 @@
 2025-10-25T18:57:41.265Z imput <hello@imput.net> :: bump dead code
 2025-10-25T19:18:01.244Z Lipis <lipis@users.noreply.github.com> :: update config defaults
 2025-10-25T19:44:22.478Z Asif Taj <axiftaj@users.noreply.github.com> :: add error handling
+2025-10-25T19:55:03.939Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove build script
