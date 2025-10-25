@@ -2403,3 +2403,4 @@
 2025-10-25T03:11:28.999Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: clean up edge case in auth
 2025-10-25T04:05:02.902Z Blue <blueedgetechno@users.noreply.github.com> :: fix flaky test
 2025-10-25T06:43:04.841Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: polish readme typo
+2025-10-25T07:00:14.754Z Nik Graf <nikgraf@users.noreply.github.com> :: wire up error handling
