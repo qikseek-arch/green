@@ -2408,3 +2408,4 @@
 2025-10-25T10:07:27.577Z Adam Majmudar <adam-maj@users.noreply.github.com> :: wire up error handling
 2025-10-25T15:05:16.373Z Fabien Potencier <fabpot@users.noreply.github.com> :: add null check
 2025-10-25T15:18:51.433Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: fix config defaults
+2025-10-25T16:54:53.611Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: wire up dependency versions
