@@ -2409,3 +2409,4 @@
 2025-10-25T15:05:16.373Z Fabien Potencier <fabpot@users.noreply.github.com> :: add null check
 2025-10-25T15:18:51.433Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: fix config defaults
 2025-10-25T16:54:53.611Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: wire up dependency versions
+2025-10-25T17:57:46.277Z Lei Mao <leimao@users.noreply.github.com> :: clean up error handling
