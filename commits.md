@@ -4622,3 +4622,4 @@
 2025-10-25T16:02:13.148Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
 2025-10-25T18:27:31.801Z LILYGO <LilyGO@users.noreply.github.com> :: bump cache keys
 2025-10-25T19:55:44.930Z Claude <claude@users.noreply.github.com> :: fix config defaults
+2025-10-25T22:30:37.675Z Adam Bell <b3ll@users.noreply.github.com> :: remove retry logic
