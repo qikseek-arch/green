@@ -14321,3 +14321,4 @@
 2025-10-25T12:25:44.227Z DefTruth <DefTruth@users.noreply.github.com> :: fix error handling
 2025-10-25T13:09:48.792Z SurrealDB <surrealdb@users.noreply.github.com> :: bump null check
 2025-10-25T13:42:50.235Z Tom Dale <tomdale@users.noreply.github.com> :: polish edge case in auth
+2025-10-25T13:58:28.991Z John Schulman <joschu@users.noreply.github.com> :: update the parser
