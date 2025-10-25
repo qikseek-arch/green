@@ -2405,3 +2405,4 @@
 2025-10-25T06:43:04.841Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: polish readme typo
 2025-10-25T07:00:14.754Z Nik Graf <nikgraf@users.noreply.github.com> :: wire up error handling
 2025-10-25T09:26:37.511Z Emil Wallner <emilwallner@users.noreply.github.com> :: remove edge case in auth
+2025-10-25T10:07:27.577Z Adam Majmudar <adam-maj@users.noreply.github.com> :: wire up error handling
