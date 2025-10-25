@@ -4613,3 +4613,4 @@
 2025-10-25T07:53:56.545Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up flaky test
 2025-10-25T09:31:10.948Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove retry logic
 2025-10-25T10:41:41.792Z Adam Bell <b3ll@users.noreply.github.com> :: fix logging
+2025-10-25T11:24:24.010Z Andreas Kling <awesomekling@users.noreply.github.com> :: add config defaults
