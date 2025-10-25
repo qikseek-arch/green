@@ -2413,3 +2413,4 @@
 2025-10-25T18:16:41.197Z Yagiz Nizipli <anonrig@users.noreply.github.com> :: polish the parser
 2025-10-25T18:49:34.803Z Gradio <admin@gradio.app> :: polish the parser
 2025-10-25T19:11:14.678Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak error handling
+2025-10-25T19:33:31.954Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: clean up the parser
