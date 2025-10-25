@@ -4617,3 +4617,4 @@
 2025-10-25T11:40:44.128Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor dependency versions
 2025-10-25T11:40:55.983Z Ryan Bigg <radar@users.noreply.github.com> :: clean up logging
 2025-10-25T13:33:57.577Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix error handling
+2025-10-25T14:27:11.859Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up readme typo
