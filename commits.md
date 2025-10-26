@@ -2424,3 +2424,4 @@
 2025-10-26T03:15:05.539Z PostgreSQL <postgres@users.noreply.github.com> :: tweak edge case in auth
 2025-10-26T04:03:34.528Z Codewars <info@codewars.com> :: clean up edge case in auth
 2025-10-26T04:53:11.991Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: update dead code
+2025-10-26T05:44:04.449Z ligi <ligi@users.noreply.github.com> :: update build script
