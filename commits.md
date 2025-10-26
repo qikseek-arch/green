@@ -2418,3 +2418,4 @@
 2025-10-25T20:49:51.801Z sharkeer <sharkeer@users.noreply.github.com> :: add logging
 2025-10-25T23:06:49.546Z OpenShift <openshift@users.noreply.github.com> :: remove null check
 2025-10-25T23:45:29.797Z farza <farzaa@users.noreply.github.com> :: polish readme typo
+2025-10-26T00:19:12.529Z jist <george0st@users.noreply.github.com> :: wire up dead code
