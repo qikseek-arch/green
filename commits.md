@@ -4624,3 +4624,4 @@
 2025-10-25T19:55:44.930Z Claude <claude@users.noreply.github.com> :: fix config defaults
 2025-10-25T22:30:37.675Z Adam Bell <b3ll@users.noreply.github.com> :: remove retry logic
 2025-10-25T22:59:29.708Z Ryan Bigg <radar@users.noreply.github.com> :: update the CI matrix
+2025-10-26T00:14:04.456Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up the parser
