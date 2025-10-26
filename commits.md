@@ -4650,3 +4650,4 @@
 2025-10-26T19:04:27.453Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish config defaults
 2025-10-26T19:56:01.377Z WebRTC <discuss-webrtc@googlegroups.com> :: remove error handling
 2025-10-26T20:18:30.463Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up readme typo
+2025-10-26T21:49:16.685Z Taiko Foundation <info@taiko.xyz> :: update retry logic
