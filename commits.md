@@ -14345,3 +14345,4 @@
 2025-10-26T06:24:36.642Z Asif Taj <axiftaj@users.noreply.github.com> :: wire up cache keys
 2025-10-26T08:22:37.175Z 1 <insoxin@users.noreply.github.com> :: fix error handling
 2025-10-26T10:17:59.291Z yakeIore <yakeIore@users.noreply.github.com> :: tweak readme typo
+2025-10-26T10:45:12.505Z Shougo <Shougo@users.noreply.github.com> :: refactor edge case in auth
