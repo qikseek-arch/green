@@ -2442,3 +2442,4 @@
 2025-10-26T15:38:53.584Z Composio <hello@composio.dev> :: bump the parser
 2025-10-26T16:04:53.553Z Blue <blueedgetechno@users.noreply.github.com> :: bump cache keys
 2025-10-26T16:14:29.552Z Thomas Wolf <thomwolf@users.noreply.github.com> :: clean up the CI matrix
+2025-10-26T16:27:14.724Z Tim Holman <tholman@users.noreply.github.com> :: add retry logic
