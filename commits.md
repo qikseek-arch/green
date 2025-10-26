@@ -2435,3 +2435,4 @@
 2025-10-26T12:02:44.297Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: remove the CI matrix
 2025-10-26T12:30:59.758Z Jonathan <Grafikart@users.noreply.github.com> :: polish build script
 2025-10-26T12:58:37.343Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix config defaults
+2025-10-26T13:49:53.821Z ligi <ligi@users.noreply.github.com> :: refactor readme typo
