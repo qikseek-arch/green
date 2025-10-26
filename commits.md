@@ -14333,3 +14333,4 @@
 2025-10-25T19:55:03.939Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove build script
 2025-10-25T21:05:53.685Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up null check
 2025-10-25T23:07:05.791Z Brian Holt <btholt@users.noreply.github.com> :: fix dead code
+2025-10-26T00:17:46.819Z LMSYS <lm-sys@users.noreply.github.com> :: polish config defaults
