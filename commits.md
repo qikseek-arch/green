@@ -2439,3 +2439,4 @@
 2025-10-26T14:41:40.641Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: remove build script
 2025-10-26T14:53:43.120Z Emil Wallner <emilwallner@users.noreply.github.com> :: tweak build script
 2025-10-26T15:20:14.203Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak dead code
+2025-10-26T15:38:53.584Z Composio <hello@composio.dev> :: bump the parser
