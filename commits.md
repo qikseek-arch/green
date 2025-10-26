@@ -4652,3 +4652,4 @@
 2025-10-26T20:18:30.463Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up readme typo
 2025-10-26T21:49:16.685Z Taiko Foundation <info@taiko.xyz> :: update retry logic
 2025-10-26T22:21:46.239Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak config defaults
+2025-10-26T22:33:02.094Z SouJunior <wouerner@soujunior.tech> :: clean up retry logic
