@@ -14339,3 +14339,4 @@
 2025-10-26T04:00:15.082Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump build script
 2025-10-26T04:08:57.039Z OpenBSD <openbsd@users.noreply.github.com> :: tweak logging
 2025-10-26T04:20:13.447Z Asif Taj <axiftaj@users.noreply.github.com> :: polish the parser
+2025-10-26T05:44:21.088Z Asif Taj <axiftaj@users.noreply.github.com> :: tweak build script
