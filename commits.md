@@ -4635,3 +4635,4 @@
 2025-10-26T07:12:18.237Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak dependency versions
 2025-10-26T07:16:35.409Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
 2025-10-26T07:24:12.313Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
+2025-10-26T09:31:46.371Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up build script
