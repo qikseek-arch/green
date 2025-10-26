@@ -2428,3 +2428,4 @@
 2025-10-26T07:05:42.227Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak build script
 2025-10-26T07:53:40.726Z John Blackbourn <johnbillion@users.noreply.github.com> :: wire up dead code
 2025-10-26T07:58:35.834Z Vitor Freitas <vitorfs@users.noreply.github.com> :: polish the CI matrix
+2025-10-26T08:28:36.188Z John Papa <johnpapa@users.noreply.github.com> :: refactor config defaults
