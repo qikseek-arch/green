@@ -4629,3 +4629,4 @@
 2025-10-26T02:56:28.163Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
 2025-10-26T03:17:41.826Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up dependency versions
 2025-10-26T03:37:56.188Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak error handling
+2025-10-26T04:01:52.108Z LILYGO <LilyGO@users.noreply.github.com> :: add cache keys
