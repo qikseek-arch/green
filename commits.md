@@ -2444,3 +2444,4 @@
 2025-10-26T16:14:29.552Z Thomas Wolf <thomwolf@users.noreply.github.com> :: clean up the CI matrix
 2025-10-26T16:27:14.724Z Tim Holman <tholman@users.noreply.github.com> :: add retry logic
 2025-10-26T16:50:22.684Z Codrops <codrops@users.noreply.github.com> :: clean up logging
+2025-10-26T17:25:03.587Z Paul Deitel <pdeitel@users.noreply.github.com> :: tweak edge case in auth
