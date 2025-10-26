@@ -4648,3 +4648,4 @@
 2025-10-26T16:44:50.618Z OpenJS Foundation <info@openjsf.org> :: fix config defaults
 2025-10-26T18:27:45.209Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix cache keys
 2025-10-26T19:04:27.453Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish config defaults
+2025-10-26T19:56:01.377Z WebRTC <discuss-webrtc@googlegroups.com> :: remove error handling
