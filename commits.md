@@ -2421,3 +2421,4 @@
 2025-10-26T00:19:12.529Z jist <george0st@users.noreply.github.com> :: wire up dead code
 2025-10-26T00:48:49.858Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: bump retry logic
 2025-10-26T03:04:17.085Z 0chencc <0Chencc@users.noreply.github.com> :: bump build script
+2025-10-26T03:15:05.539Z PostgreSQL <postgres@users.noreply.github.com> :: tweak edge case in auth
