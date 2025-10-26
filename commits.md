@@ -4633,3 +4633,4 @@
 2025-10-26T05:06:20.165Z WebRTC <discuss-webrtc@googlegroups.com> :: remove edge case in auth
 2025-10-26T05:49:52.725Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: bump cache keys
 2025-10-26T07:12:18.237Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak dependency versions
+2025-10-26T07:16:35.409Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
