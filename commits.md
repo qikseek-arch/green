@@ -4626,3 +4626,4 @@
 2025-10-25T22:59:29.708Z Ryan Bigg <radar@users.noreply.github.com> :: update the CI matrix
 2025-10-26T00:14:04.456Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up the parser
 2025-10-26T00:45:17.285Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove build script
+2025-10-26T02:56:28.163Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
