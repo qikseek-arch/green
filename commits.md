@@ -4642,3 +4642,4 @@
 2025-10-26T12:05:01.099Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix dead code
 2025-10-26T12:07:11.088Z heyli <lcxfs1991@users.noreply.github.com> :: add readme typo
 2025-10-26T12:31:24.295Z LILYGO <LilyGO@users.noreply.github.com> :: remove retry logic
+2025-10-26T15:14:52.819Z markqvist <markqvist@users.noreply.github.com> :: wire up edge case in auth
