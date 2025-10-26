@@ -4654,3 +4654,4 @@
 2025-10-26T22:21:46.239Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak config defaults
 2025-10-26T22:33:02.094Z SouJunior <wouerner@soujunior.tech> :: clean up retry logic
 2025-10-26T22:42:22.582Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update the parser
+2025-10-26T23:24:49.279Z markqvist <markqvist@users.noreply.github.com> :: clean up null check
