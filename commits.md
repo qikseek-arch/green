@@ -4645,3 +4645,4 @@
 2025-10-26T15:14:52.819Z markqvist <markqvist@users.noreply.github.com> :: wire up edge case in auth
 2025-10-26T15:22:37.998Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
 2025-10-26T16:26:56.236Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix cache keys
+2025-10-26T16:44:50.618Z OpenJS Foundation <info@openjsf.org> :: fix config defaults
