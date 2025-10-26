@@ -2433,3 +2433,4 @@
 2025-10-26T09:16:56.730Z Nik Graf <nikgraf@users.noreply.github.com> :: refactor flaky test
 2025-10-26T10:34:03.019Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: add flaky test
 2025-10-26T12:02:44.297Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: remove the CI matrix
+2025-10-26T12:30:59.758Z Jonathan <Grafikart@users.noreply.github.com> :: polish build script
