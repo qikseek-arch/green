@@ -14351,3 +14351,4 @@
 2025-10-26T18:50:07.137Z Elliott Minns <elliottminns@users.noreply.github.com> :: remove cache keys
 2025-10-26T19:23:05.820Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: add cache keys
 2025-10-26T19:53:54.081Z Alex Teichman <teichman@users.noreply.github.com> :: tweak readme typo
+2025-10-26T19:57:12.932Z DefTruth <DefTruth@users.noreply.github.com> :: wire up build script
