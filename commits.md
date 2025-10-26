@@ -4643,3 +4643,4 @@
 2025-10-26T12:07:11.088Z heyli <lcxfs1991@users.noreply.github.com> :: add readme typo
 2025-10-26T12:31:24.295Z LILYGO <LilyGO@users.noreply.github.com> :: remove retry logic
 2025-10-26T15:14:52.819Z markqvist <markqvist@users.noreply.github.com> :: wire up edge case in auth
+2025-10-26T15:22:37.998Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
