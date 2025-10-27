@@ -14357,3 +14357,4 @@
 2025-10-27T03:26:23.935Z LocalSend <localsend@users.noreply.github.com> :: tweak dead code
 2025-10-27T04:13:00.093Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish retry logic
 2025-10-27T04:20:27.421Z John Schulman <joschu@users.noreply.github.com> :: wire up null check
+2025-10-27T04:53:18.241Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: bump readme typo
