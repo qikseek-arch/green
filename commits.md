@@ -4679,3 +4679,4 @@
 2025-10-27T20:37:58.637Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up the CI matrix
 2025-10-27T20:58:05.668Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up dependency versions
 2025-10-27T21:58:16.959Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump build script
+2025-10-27T22:04:38.050Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump dependency versions
