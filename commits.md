@@ -14365,3 +14365,4 @@
 2025-10-27T13:00:43.932Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish dependency versions
 2025-10-27T13:38:59.777Z Jordan Harband <ljharb@users.noreply.github.com> :: polish cache keys
 2025-10-27T14:26:23.616Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak config defaults
+2025-10-27T15:35:28.857Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
