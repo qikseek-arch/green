@@ -4663,3 +4663,4 @@
 2025-10-27T05:09:15.682Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump cache keys
 2025-10-27T08:02:34.198Z qiye <qiyeboy@users.noreply.github.com> :: add the parser
 2025-10-27T10:05:35.000Z owenzhang <owenzhang@users.noreply.github.com> :: wire up readme typo
+2025-10-27T10:30:45.676Z Odi <mathdroid@users.noreply.github.com> :: clean up dependency versions
