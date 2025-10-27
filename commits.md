@@ -14354,3 +14354,4 @@
 2025-10-26T19:57:12.932Z DefTruth <DefTruth@users.noreply.github.com> :: wire up build script
 2025-10-26T23:46:21.720Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor cache keys
 2025-10-27T00:23:54.660Z rxi <rxi@users.noreply.github.com> :: add build script
+2025-10-27T03:26:23.935Z LocalSend <localsend@users.noreply.github.com> :: tweak dead code
