@@ -2469,3 +2469,4 @@
 2025-10-27T14:33:57.674Z José Valim <josevalim@users.noreply.github.com> :: refactor edge case in auth
 2025-10-27T15:10:24.626Z TON Connect <ton-connect@users.noreply.github.com> :: update build script
 2025-10-27T16:33:02.672Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: bump config defaults
+2025-10-27T16:44:43.614Z Navin Reddy <navinreddy20@users.noreply.github.com> :: remove edge case in auth
