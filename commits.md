@@ -2449,3 +2449,4 @@
 2025-10-26T19:48:51.082Z Eugene Yan <eugeneyan@users.noreply.github.com> :: clean up config defaults
 2025-10-26T22:02:29.370Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor build script
 2025-10-27T00:56:33.781Z 郭飞 <guofei9987@users.noreply.github.com> :: polish config defaults
+2025-10-27T02:19:18.338Z Lei Mao <leimao@users.noreply.github.com> :: wire up null check
