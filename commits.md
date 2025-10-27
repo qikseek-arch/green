@@ -14374,3 +14374,4 @@
 2025-10-27T19:51:26.888Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor build script
 2025-10-27T20:52:34.364Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor dependency versions
 2025-10-27T22:28:21.405Z Huang Haiguang <fengdu78@users.noreply.github.com> :: tweak dead code
+2025-10-27T23:20:09.067Z Scott Chacon <schacon@users.noreply.github.com> :: add null check
