@@ -2451,3 +2451,4 @@
 2025-10-27T00:56:33.781Z 郭飞 <guofei9987@users.noreply.github.com> :: polish config defaults
 2025-10-27T02:19:18.338Z Lei Mao <leimao@users.noreply.github.com> :: wire up null check
 2025-10-27T04:15:39.638Z Gradio <admin@gradio.app> :: clean up the parser
+2025-10-27T04:15:48.862Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: remove edge case in auth
