@@ -14359,3 +14359,4 @@
 2025-10-27T04:20:27.421Z John Schulman <joschu@users.noreply.github.com> :: wire up null check
 2025-10-27T04:53:18.241Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: bump readme typo
 2025-10-27T05:20:24.658Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak the parser
+2025-10-27T05:20:37.986Z winterbe <winterbe@users.noreply.github.com> :: polish readme typo
