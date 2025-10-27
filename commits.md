@@ -4657,3 +4657,4 @@
 2025-10-26T23:24:49.279Z markqvist <markqvist@users.noreply.github.com> :: clean up null check
 2025-10-27T00:45:40.939Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix logging
 2025-10-27T01:35:07.003Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak logging
+2025-10-27T01:40:50.743Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up dead code
