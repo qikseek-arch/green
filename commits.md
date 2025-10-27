@@ -4667,3 +4667,4 @@
 2025-10-27T10:50:49.654Z Rei <chloerei@users.noreply.github.com> :: tweak the parser
 2025-10-27T11:13:11.684Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add readme typo
 2025-10-27T11:15:42.814Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove the parser
+2025-10-27T13:08:09.421Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak error handling
