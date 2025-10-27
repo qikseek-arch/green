@@ -4677,3 +4677,4 @@
 2025-10-27T20:32:39.449Z md-5 <md-5@users.noreply.github.com> :: update edge case in auth
 2025-10-27T20:34:01.796Z Manu Arora <manuarora700@users.noreply.github.com> :: fix cache keys
 2025-10-27T20:37:58.637Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up the CI matrix
+2025-10-27T20:58:05.668Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up dependency versions
