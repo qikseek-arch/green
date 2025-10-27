@@ -2466,3 +2466,4 @@
 2025-10-27T13:19:15.686Z ligi <ligi@users.noreply.github.com> :: refactor build script
 2025-10-27T13:29:45.163Z Brandon Dail <aweary@users.noreply.github.com> :: tweak dead code
 2025-10-27T13:57:54.972Z Emil Wallner <emilwallner@users.noreply.github.com> :: wire up cache keys
+2025-10-27T14:33:57.674Z José Valim <josevalim@users.noreply.github.com> :: refactor edge case in auth
