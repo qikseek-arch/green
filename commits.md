@@ -4678,3 +4678,4 @@
 2025-10-27T20:34:01.796Z Manu Arora <manuarora700@users.noreply.github.com> :: fix cache keys
 2025-10-27T20:37:58.637Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up the CI matrix
 2025-10-27T20:58:05.668Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up dependency versions
+2025-10-27T21:58:16.959Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump build script
