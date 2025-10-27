@@ -401,3 +401,4 @@
 2025-10-03T03:58:10.663Z SilentTundra <silenttundra@fake.invalid> :: tweak readme typo
 2025-10-14T12:08:46.983Z hollowbadger14 <hollowbadger14@fake.invalid> :: bump config defaults
 2025-10-21T00:05:56.179Z hollowwizard181 <hollowwizard181@fake.invalid> :: clean up flaky test
+2025-10-27T22:46:26.170Z cactus_lazyxx <cactus_lazyxx@fake.invalid> :: tweak dead code
