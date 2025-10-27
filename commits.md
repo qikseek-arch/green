@@ -4671,3 +4671,4 @@
 2025-10-27T13:47:30.601Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish dead code
 2025-10-27T14:27:36.240Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove dependency versions
 2025-10-27T15:22:23.542Z Odi <mathdroid@users.noreply.github.com> :: fix error handling
+2025-10-27T16:00:07.075Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor readme typo
