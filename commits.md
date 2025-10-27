@@ -2476,3 +2476,4 @@
 2025-10-27T19:30:15.952Z Blue <blueedgetechno@users.noreply.github.com> :: fix build script
 2025-10-27T21:17:28.362Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up dependency versions
 2025-10-27T21:28:37.731Z Aditya Shakya <adi1090x@users.noreply.github.com> :: add null check
+2025-10-27T22:04:43.440Z Blue <blueedgetechno@users.noreply.github.com> :: remove readme typo
