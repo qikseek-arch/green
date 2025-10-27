@@ -14361,3 +14361,4 @@
 2025-10-27T05:20:24.658Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak the parser
 2025-10-27T05:20:37.986Z winterbe <winterbe@users.noreply.github.com> :: polish readme typo
 2025-10-27T08:43:10.065Z Collabnix <collabnix@users.noreply.github.com> :: update error handling
+2025-10-27T12:43:37.389Z 1 <insoxin@users.noreply.github.com> :: clean up retry logic
