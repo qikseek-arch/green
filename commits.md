@@ -2479,3 +2479,4 @@
 2025-10-27T22:04:43.440Z Blue <blueedgetechno@users.noreply.github.com> :: remove readme typo
 2025-10-27T22:19:24.665Z Steve Gordon <stevejgordon@users.noreply.github.com> :: remove the parser
 2025-10-27T23:15:33.960Z Eugene Yan <eugeneyan@users.noreply.github.com> :: tweak the parser
+2025-10-27T23:30:25.536Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor null check
