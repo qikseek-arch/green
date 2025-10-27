@@ -14368,3 +14368,4 @@
 2025-10-27T15:35:28.857Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
 2025-10-27T16:31:02.241Z rxi <rxi@users.noreply.github.com> :: bump null check
 2025-10-27T18:14:23.932Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add config defaults
+2025-10-27T18:15:15.380Z Snowflake Labs <opensource@snowflake.com> :: fix null check
