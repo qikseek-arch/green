@@ -4673,3 +4673,4 @@
 2025-10-27T15:22:23.542Z Odi <mathdroid@users.noreply.github.com> :: fix error handling
 2025-10-27T16:00:07.075Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor readme typo
 2025-10-27T17:17:02.066Z ㅤxander <vampirist@users.noreply.github.com> :: refactor build script
+2025-10-27T18:49:04.926Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
