@@ -2474,3 +2474,4 @@
 2025-10-27T18:16:16.702Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update flaky test
 2025-10-27T18:31:46.530Z Jimmy Bogard <jbogard@users.noreply.github.com> :: bump null check
 2025-10-27T19:30:15.952Z Blue <blueedgetechno@users.noreply.github.com> :: fix build script
+2025-10-27T21:17:28.362Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up dependency versions
