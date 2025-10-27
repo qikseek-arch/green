@@ -14370,3 +14370,4 @@
 2025-10-27T18:14:23.932Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add config defaults
 2025-10-27T18:15:15.380Z Snowflake Labs <opensource@snowflake.com> :: fix null check
 2025-10-27T18:41:29.717Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up logging
+2025-10-27T19:45:10.308Z Prometheus <prometheus@users.noreply.github.com> :: add build script
