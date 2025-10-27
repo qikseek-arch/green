@@ -4674,3 +4674,4 @@
 2025-10-27T16:00:07.075Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor readme typo
 2025-10-27T17:17:02.066Z ㅤxander <vampirist@users.noreply.github.com> :: refactor build script
 2025-10-27T18:49:04.926Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
+2025-10-27T20:32:39.449Z md-5 <md-5@users.noreply.github.com> :: update edge case in auth
