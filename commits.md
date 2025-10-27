@@ -14367,3 +14367,4 @@
 2025-10-27T14:26:23.616Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak config defaults
 2025-10-27T15:35:28.857Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
 2025-10-27T16:31:02.241Z rxi <rxi@users.noreply.github.com> :: bump null check
+2025-10-27T18:14:23.932Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add config defaults
