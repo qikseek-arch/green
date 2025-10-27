@@ -2454,3 +2454,4 @@
 2025-10-27T04:15:48.862Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: remove edge case in auth
 2025-10-27T04:17:58.050Z Kenney <KenneyNL@users.noreply.github.com> :: remove config defaults
 2025-10-27T04:27:31.601Z Codewars <info@codewars.com> :: fix null check
+2025-10-27T05:10:27.164Z Kenney <KenneyNL@users.noreply.github.com> :: fix dependency versions
