@@ -4665,3 +4665,4 @@
 2025-10-27T10:05:35.000Z owenzhang <owenzhang@users.noreply.github.com> :: wire up readme typo
 2025-10-27T10:30:45.676Z Odi <mathdroid@users.noreply.github.com> :: clean up dependency versions
 2025-10-27T10:50:49.654Z Rei <chloerei@users.noreply.github.com> :: tweak the parser
+2025-10-27T11:13:11.684Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add readme typo
