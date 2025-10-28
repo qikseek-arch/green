@@ -2495,3 +2495,4 @@
 2025-10-28T10:58:16.974Z Andrew Mead <andrewjmead@users.noreply.github.com> :: wire up dependency versions
 2025-10-28T11:20:57.114Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: bump readme typo
 2025-10-28T11:57:24.404Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: wire up dependency versions
+2025-10-28T13:27:30.240Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: update the CI matrix
