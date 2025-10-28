@@ -4705,3 +4705,4 @@
 2025-10-28T12:51:58.054Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up retry logic
 2025-10-28T13:05:39.484Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix flaky test
 2025-10-28T14:13:26.307Z BBC <bbc@users.noreply.github.com> :: tweak null check
+2025-10-28T14:26:44.246Z qiye <qiyeboy@users.noreply.github.com> :: add null check
