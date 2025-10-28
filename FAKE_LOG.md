@@ -505,3 +505,4 @@
 2025-10-17T01:15:08.403Z Bruno Simon <brunosimon@users.noreply.github.com> :: add edge case in auth
 2025-10-18T10:59:28.269Z Andrej <karpathy@users.noreply.github.com> :: bump dead code
 2025-10-19T08:54:45.828Z Addy Osmani <addyosmani@users.noreply.github.com> :: tweak dependency versions
+2025-10-28T00:28:40.405Z Jeff Delaney <codediodeio@users.noreply.github.com> :: wire up readme typo
