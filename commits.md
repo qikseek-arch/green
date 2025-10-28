@@ -4692,3 +4692,4 @@
 2025-10-28T05:17:02.187Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix config defaults
 2025-10-28T05:29:59.827Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish the parser
 2025-10-28T06:53:46.834Z Shubs <infosec-au@users.noreply.github.com> :: bump readme typo
+2025-10-28T07:40:31.559Z Keith Smiley <keith@users.noreply.github.com> :: clean up readme typo
