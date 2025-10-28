@@ -2489,3 +2489,4 @@
 2025-10-28T04:38:00.520Z Siemens <opensource@siemens.com> :: remove error handling
 2025-10-28T05:41:33.017Z Kenney <KenneyNL@users.noreply.github.com> :: refactor logging
 2025-10-28T07:14:52.139Z Navin Reddy <navinreddy20@users.noreply.github.com> :: tweak logging
+2025-10-28T07:16:23.402Z Thomas Wolf <thomwolf@users.noreply.github.com> :: clean up readme typo
