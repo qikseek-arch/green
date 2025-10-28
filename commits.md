@@ -14392,3 +14392,4 @@
 2025-10-28T08:13:59.535Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak config defaults
 2025-10-28T08:37:29.324Z Elliott Minns <elliottminns@users.noreply.github.com> :: add logging
 2025-10-28T09:47:33.030Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor null check
+2025-10-28T10:58:08.663Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix retry logic
