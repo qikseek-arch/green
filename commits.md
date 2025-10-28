@@ -4695,3 +4695,4 @@
 2025-10-28T07:40:31.559Z Keith Smiley <keith@users.noreply.github.com> :: clean up readme typo
 2025-10-28T07:57:23.143Z OpenJS Foundation <info@openjsf.org> :: refactor dependency versions
 2025-10-28T08:44:13.826Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump error handling
+2025-10-28T09:17:15.411Z BBC <bbc@users.noreply.github.com> :: refactor config defaults
