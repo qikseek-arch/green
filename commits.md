@@ -14390,3 +14390,4 @@
 2025-10-28T06:43:24.566Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix retry logic
 2025-10-28T07:26:31.894Z Lovell Fuller <lovell@users.noreply.github.com> :: bump retry logic
 2025-10-28T08:13:59.535Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak config defaults
+2025-10-28T08:37:29.324Z Elliott Minns <elliottminns@users.noreply.github.com> :: add logging
