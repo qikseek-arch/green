@@ -14404,3 +14404,4 @@
 2025-10-28T17:53:43.583Z OpenBMB <openbmb@gmail.com> :: clean up flaky test
 2025-10-28T18:04:50.890Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix null check
 2025-10-28T19:42:45.784Z Tom Dale <tomdale@users.noreply.github.com> :: add dead code
+2025-10-28T19:57:01.343Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove null check
