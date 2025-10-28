@@ -2480,3 +2480,4 @@
 2025-10-27T22:19:24.665Z Steve Gordon <stevejgordon@users.noreply.github.com> :: remove the parser
 2025-10-27T23:15:33.960Z Eugene Yan <eugeneyan@users.noreply.github.com> :: tweak the parser
 2025-10-27T23:30:25.536Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor null check
+2025-10-28T00:00:52.064Z José Valim <josevalim@users.noreply.github.com> :: polish build script
