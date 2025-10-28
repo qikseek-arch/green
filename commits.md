@@ -4682,3 +4682,4 @@
 2025-10-27T22:04:38.050Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump dependency versions
 2025-10-27T22:10:36.186Z Inanc Gumus <inancgumus@users.noreply.github.com> :: clean up null check
 2025-10-27T23:16:04.489Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add null check
+2025-10-28T00:38:40.329Z LILYGO <LilyGO@users.noreply.github.com> :: bump retry logic
