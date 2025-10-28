@@ -622,3 +622,4 @@
 2025-10-27T02:50:05.109Z Bruno Simon <brunosimon@users.noreply.github.com> :: fix flaky test
 2025-10-27T15:50:10.503Z Hitesh Choudhary <hiteshchoudhary@users.noreply.github.com> :: bump dead code
 2025-10-27T20:44:50.862Z Adrian Hajdin - JS Mastery <adrianhajdin@users.noreply.github.com> :: add dead code
+2025-10-28T05:26:32.811Z 编程随想 <programthink@users.noreply.github.com> :: tweak config defaults
