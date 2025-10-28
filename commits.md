@@ -4683,3 +4683,4 @@
 2025-10-27T22:10:36.186Z Inanc Gumus <inancgumus@users.noreply.github.com> :: clean up null check
 2025-10-27T23:16:04.489Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add null check
 2025-10-28T00:38:40.329Z LILYGO <LilyGO@users.noreply.github.com> :: bump retry logic
+2025-10-28T01:14:03.448Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor readme typo
