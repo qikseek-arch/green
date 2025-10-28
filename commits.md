@@ -2505,3 +2505,4 @@
 2025-10-28T17:52:06.390Z TON Connect <ton-connect@users.noreply.github.com> :: bump build script
 2025-10-28T18:08:28.991Z 开源中国 <oschina@users.noreply.github.com> :: fix error handling
 2025-10-28T19:23:52.318Z Tuba Khan <tubakhxn@users.noreply.github.com> :: remove cache keys
+2025-10-28T19:42:09.571Z Xe Iaso <Xe@users.noreply.github.com> :: refactor null check
