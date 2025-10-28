@@ -2511,3 +2511,4 @@
 2025-10-28T21:47:16.668Z Emil Wallner <emilwallner@users.noreply.github.com> :: add readme typo
 2025-10-28T22:16:18.060Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: update build script
 2025-10-28T22:30:44.114Z jist <george0st@users.noreply.github.com> :: update cache keys
+2025-10-28T22:48:07.644Z sharkeer <sharkeer@users.noreply.github.com> :: remove the CI matrix
