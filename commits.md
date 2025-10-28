@@ -4688,3 +4688,4 @@
 2025-10-28T01:46:08.410Z heyli <lcxfs1991@users.noreply.github.com> :: update dependency versions
 2025-10-28T02:11:12.817Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump the parser
 2025-10-28T04:18:06.426Z Aurélien Geron <ageron@users.noreply.github.com> :: add config defaults
+2025-10-28T04:28:12.723Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up retry logic
