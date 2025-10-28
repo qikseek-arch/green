@@ -4686,3 +4686,4 @@
 2025-10-28T01:14:03.448Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor readme typo
 2025-10-28T01:29:04.627Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish null check
 2025-10-28T01:46:08.410Z heyli <lcxfs1991@users.noreply.github.com> :: update dependency versions
+2025-10-28T02:11:12.817Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump the parser
