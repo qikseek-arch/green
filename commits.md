@@ -14396,3 +14396,4 @@
 2025-10-28T11:18:44.580Z winterbe <winterbe@users.noreply.github.com> :: fix the parser
 2025-10-28T11:33:36.218Z Google Fonts <googlefonts@users.noreply.github.com> :: fix dependency versions
 2025-10-28T11:51:56.338Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor the CI matrix
+2025-10-28T12:19:33.673Z cytopia <cytopia@users.noreply.github.com> :: wire up error handling
