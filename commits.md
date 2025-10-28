@@ -4715,3 +4715,4 @@
 2025-10-28T18:56:23.929Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix edge case in auth
 2025-10-28T19:49:51.073Z Adam Bell <b3ll@users.noreply.github.com> :: fix dependency versions
 2025-10-28T21:51:25.483Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up error handling
+2025-10-28T23:12:40.051Z Taiko Foundation <info@taiko.xyz> :: clean up logging
