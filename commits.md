@@ -2497,3 +2497,4 @@
 2025-10-28T11:57:24.404Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: wire up dependency versions
 2025-10-28T13:27:30.240Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: update the CI matrix
 2025-10-28T14:10:08.005Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish retry logic
+2025-10-28T14:28:32.069Z 0chencc <0Chencc@users.noreply.github.com> :: remove the CI matrix
