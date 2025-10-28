@@ -2493,3 +2493,4 @@
 2025-10-28T07:50:52.894Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: bump retry logic
 2025-10-28T08:58:58.057Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: polish cache keys
 2025-10-28T10:58:16.974Z Andrew Mead <andrewjmead@users.noreply.github.com> :: wire up dependency versions
+2025-10-28T11:20:57.114Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: bump readme typo
