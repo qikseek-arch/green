@@ -2500,3 +2500,4 @@
 2025-10-28T14:28:32.069Z 0chencc <0Chencc@users.noreply.github.com> :: remove the CI matrix
 2025-10-28T15:02:30.275Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: wire up cache keys
 2025-10-28T15:42:37.714Z Gradio <admin@gradio.app> :: bump readme typo
+2025-10-28T16:32:00.535Z 卡颂 <BetaSu@users.noreply.github.com> :: remove the parser
