@@ -2502,3 +2502,4 @@
 2025-10-28T15:42:37.714Z Gradio <admin@gradio.app> :: bump readme typo
 2025-10-28T16:32:00.535Z 卡颂 <BetaSu@users.noreply.github.com> :: remove the parser
 2025-10-28T16:58:46.663Z Blue <blueedgetechno@users.noreply.github.com> :: update config defaults
+2025-10-28T17:52:06.390Z TON Connect <ton-connect@users.noreply.github.com> :: bump build script
