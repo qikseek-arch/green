@@ -4701,3 +4701,4 @@
 2025-10-28T11:44:34.174Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor cache keys
 2025-10-28T11:55:47.014Z Keith Smiley <keith@users.noreply.github.com> :: bump logging
 2025-10-28T12:20:48.985Z Ryan Bigg <radar@users.noreply.github.com> :: polish retry logic
+2025-10-28T12:38:48.767Z Manu Arora <manuarora700@users.noreply.github.com> :: remove retry logic
