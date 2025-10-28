@@ -14398,3 +14398,4 @@
 2025-10-28T11:51:56.338Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor the CI matrix
 2025-10-28T12:19:33.673Z cytopia <cytopia@users.noreply.github.com> :: wire up error handling
 2025-10-28T13:33:07.776Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove dependency versions
+2025-10-28T15:14:54.946Z Brian Holt <btholt@users.noreply.github.com> :: refactor the parser
