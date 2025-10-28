@@ -14406,3 +14406,4 @@
 2025-10-28T19:42:45.784Z Tom Dale <tomdale@users.noreply.github.com> :: add dead code
 2025-10-28T19:57:01.343Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove null check
 2025-10-28T20:20:39.358Z SurrealDB <surrealdb@users.noreply.github.com> :: bump build script
+2025-10-28T21:07:38.403Z OpenBMB <openbmb@gmail.com> :: wire up error handling
