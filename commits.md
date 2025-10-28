@@ -4691,3 +4691,4 @@
 2025-10-28T04:28:12.723Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up retry logic
 2025-10-28T05:17:02.187Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix config defaults
 2025-10-28T05:29:59.827Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish the parser
+2025-10-28T06:53:46.834Z Shubs <infosec-au@users.noreply.github.com> :: bump readme typo
