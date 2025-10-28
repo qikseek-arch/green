@@ -2506,3 +2506,4 @@
 2025-10-28T18:08:28.991Z 开源中国 <oschina@users.noreply.github.com> :: fix error handling
 2025-10-28T19:23:52.318Z Tuba Khan <tubakhxn@users.noreply.github.com> :: remove cache keys
 2025-10-28T19:42:09.571Z Xe Iaso <Xe@users.noreply.github.com> :: refactor null check
+2025-10-28T19:49:12.808Z Vivid Network <vivid.network@outlook.com> :: add the parser
