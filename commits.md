@@ -4713,3 +4713,4 @@
 2025-10-28T17:50:57.046Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump dependency versions
 2025-10-28T18:11:40.260Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix build script
 2025-10-28T18:56:23.929Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix edge case in auth
+2025-10-28T19:49:51.073Z Adam Bell <b3ll@users.noreply.github.com> :: fix dependency versions
