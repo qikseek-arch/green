@@ -14383,3 +14383,4 @@
 2025-10-28T01:59:29.016Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix flaky test
 2025-10-28T02:01:18.831Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak error handling
 2025-10-28T02:24:38.728Z Collabnix <collabnix@users.noreply.github.com> :: bump logging
+2025-10-28T02:39:04.614Z cytopia <cytopia@users.noreply.github.com> :: bump edge case in auth
