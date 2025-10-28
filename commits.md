@@ -4693,3 +4693,4 @@
 2025-10-28T05:29:59.827Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish the parser
 2025-10-28T06:53:46.834Z Shubs <infosec-au@users.noreply.github.com> :: bump readme typo
 2025-10-28T07:40:31.559Z Keith Smiley <keith@users.noreply.github.com> :: clean up readme typo
+2025-10-28T07:57:23.143Z OpenJS Foundation <info@openjsf.org> :: refactor dependency versions
