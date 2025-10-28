@@ -2508,3 +2508,4 @@
 2025-10-28T19:42:09.571Z Xe Iaso <Xe@users.noreply.github.com> :: refactor null check
 2025-10-28T19:49:12.808Z Vivid Network <vivid.network@outlook.com> :: add the parser
 2025-10-28T20:35:02.128Z Paul Deitel <pdeitel@users.noreply.github.com> :: wire up readme typo
+2025-10-28T21:47:16.668Z Emil Wallner <emilwallner@users.noreply.github.com> :: add readme typo
