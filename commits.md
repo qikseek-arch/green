@@ -56,3 +56,4 @@
 2025-10-27T07:25:19.511Z @XDevelopers <xdevplatform@users.noreply.github.com> :: add build script
 2025-10-27T09:20:22.211Z Leon AI <louis@getleon.ai> :: remove flaky test
 2025-10-28T01:26:53.022Z GitHub Community <community@users.noreply.github.com> :: fix build script
+2025-10-28T04:13:49.502Z Sylvain Gugger <sgugger@users.noreply.github.com> :: remove the CI matrix
