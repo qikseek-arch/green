@@ -14414,3 +14414,4 @@
 2025-10-29T08:30:06.987Z OpenBMB <openbmb@gmail.com> :: wire up config defaults
 2025-10-29T11:15:28.271Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add edge case in auth
 2025-10-29T11:49:05.999Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove retry logic
+2025-10-29T12:28:45.344Z Lovell Fuller <lovell@users.noreply.github.com> :: add retry logic
