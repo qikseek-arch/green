@@ -4738,3 +4738,4 @@
 2025-10-29T10:11:01.359Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump null check
 2025-10-29T12:23:50.187Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak cache keys
 2025-10-29T12:31:39.414Z markqvist <markqvist@users.noreply.github.com> :: update dead code
+2025-10-29T12:51:24.196Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor edge case in auth
