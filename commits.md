@@ -14425,3 +14425,4 @@
 2025-10-29T19:47:41.779Z SurrealDB <surrealdb@users.noreply.github.com> :: bump retry logic
 2025-10-29T19:52:28.090Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish logging
 2025-10-29T20:01:04.192Z OpenBSD <openbsd@users.noreply.github.com> :: update edge case in auth
+2025-10-29T21:23:33.511Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump cache keys
