@@ -14412,3 +14412,4 @@
 2025-10-29T04:21:31.073Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish the CI matrix
 2025-10-29T04:27:18.315Z Brian Holt <btholt@users.noreply.github.com> :: tweak config defaults
 2025-10-29T08:30:06.987Z OpenBMB <openbmb@gmail.com> :: wire up config defaults
+2025-10-29T11:15:28.271Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add edge case in auth
