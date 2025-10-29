@@ -4745,3 +4745,4 @@
 2025-10-29T13:29:57.713Z David Clark <nullptrException100@users.noreply.github.com> :: update null check
 2025-10-29T14:13:22.632Z BBC <bbc@users.noreply.github.com> :: add error handling
 2025-10-29T14:15:04.197Z David Clark <nullptrException100@users.noreply.github.com> :: fix build script
+2025-10-29T17:27:14.963Z Keith Smiley <keith@users.noreply.github.com> :: fix logging
