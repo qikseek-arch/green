@@ -4746,3 +4746,4 @@
 2025-10-29T14:13:22.632Z BBC <bbc@users.noreply.github.com> :: add error handling
 2025-10-29T14:15:04.197Z David Clark <nullptrException100@users.noreply.github.com> :: fix build script
 2025-10-29T17:27:14.963Z Keith Smiley <keith@users.noreply.github.com> :: fix logging
+2025-10-29T18:02:50.213Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add the parser
