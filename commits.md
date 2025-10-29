@@ -58,3 +58,4 @@
 2025-10-28T01:26:53.022Z GitHub Community <community@users.noreply.github.com> :: fix build script
 2025-10-28T04:13:49.502Z Sylvain Gugger <sgugger@users.noreply.github.com> :: remove the CI matrix
 2025-10-29T19:12:47.556Z Colt Steele <Colt@users.noreply.github.com> :: bump dependency versions
+2025-10-29T19:39:47.417Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: polish build script
