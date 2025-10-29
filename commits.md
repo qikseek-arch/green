@@ -2513,3 +2513,4 @@
 2025-10-28T22:30:44.114Z jist <george0st@users.noreply.github.com> :: update cache keys
 2025-10-28T22:48:07.644Z sharkeer <sharkeer@users.noreply.github.com> :: remove the CI matrix
 2025-10-29T02:44:04.243Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: update error handling
+2025-10-29T04:03:30.459Z Philip Walton <philipwalton@users.noreply.github.com> :: update dependency versions
