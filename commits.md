@@ -14416,3 +14416,4 @@
 2025-10-29T11:49:05.999Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove retry logic
 2025-10-29T12:28:45.344Z Lovell Fuller <lovell@users.noreply.github.com> :: add retry logic
 2025-10-29T12:59:03.102Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak readme typo
+2025-10-29T13:01:55.576Z Scott Chacon <schacon@users.noreply.github.com> :: add config defaults
