@@ -14418,3 +14418,4 @@
 2025-10-29T12:59:03.102Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak readme typo
 2025-10-29T13:01:55.576Z Scott Chacon <schacon@users.noreply.github.com> :: add config defaults
 2025-10-29T13:35:20.039Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update dependency versions
+2025-10-29T14:07:08.109Z Lovell Fuller <lovell@users.noreply.github.com> :: wire up the parser
