@@ -14424,3 +14424,4 @@
 2025-10-29T17:59:20.069Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak null check
 2025-10-29T19:47:41.779Z SurrealDB <surrealdb@users.noreply.github.com> :: bump retry logic
 2025-10-29T19:52:28.090Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish logging
+2025-10-29T20:01:04.192Z OpenBSD <openbsd@users.noreply.github.com> :: update edge case in auth
