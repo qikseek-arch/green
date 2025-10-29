@@ -2521,3 +2521,4 @@
 2025-10-29T08:58:18.319Z LN <ln-dev7@users.noreply.github.com> :: bump flaky test
 2025-10-29T09:36:04.429Z Chao Qin <win4r@users.noreply.github.com> :: update config defaults
 2025-10-29T09:49:26.610Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: clean up error handling
+2025-10-29T12:55:55.033Z PostgreSQL <postgres@users.noreply.github.com> :: fix null check
