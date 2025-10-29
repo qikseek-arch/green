@@ -4740,3 +4740,4 @@
 2025-10-29T12:31:39.414Z markqvist <markqvist@users.noreply.github.com> :: update dead code
 2025-10-29T12:51:24.196Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor edge case in auth
 2025-10-29T13:09:02.714Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
+2025-10-29T13:21:50.721Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix build script
