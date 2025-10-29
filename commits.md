@@ -2529,3 +2529,4 @@
 2025-10-29T14:16:28.822Z John Papa <johnpapa@users.noreply.github.com> :: refactor dead code
 2025-10-29T15:54:12.603Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: add build script
 2025-10-29T16:21:52.270Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: update build script
+2025-10-29T16:32:38.729Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: update the CI matrix
