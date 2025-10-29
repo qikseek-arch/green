@@ -4719,3 +4719,4 @@
 2025-10-28T23:57:38.735Z Claude <claude@users.noreply.github.com> :: wire up null check
 2025-10-29T00:46:19.293Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish config defaults
 2025-10-29T02:08:13.594Z CTFs <ctfs@users.noreply.github.com> :: polish retry logic
+2025-10-29T02:25:26.286Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak the parser
