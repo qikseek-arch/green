@@ -4743,3 +4743,4 @@
 2025-10-29T13:21:50.721Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix build script
 2025-10-29T13:29:22.779Z Taiko Foundation <info@taiko.xyz> :: tweak null check
 2025-10-29T13:29:57.713Z David Clark <nullptrException100@users.noreply.github.com> :: update null check
+2025-10-29T14:13:22.632Z BBC <bbc@users.noreply.github.com> :: add error handling
