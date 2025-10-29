@@ -4753,3 +4753,4 @@
 2025-10-29T21:03:37.457Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add readme typo
 2025-10-29T21:40:08.387Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove the CI matrix
 2025-10-29T21:52:47.793Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up null check
+2025-10-29T23:32:03.933Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up retry logic
