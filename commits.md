@@ -4734,3 +4734,4 @@
 2025-10-29T08:26:22.684Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: bump dead code
 2025-10-29T08:27:39.881Z Damian Dulisz <shentao@users.noreply.github.com> :: fix logging
 2025-10-29T09:01:40.594Z OpenJS Foundation <info@openjsf.org> :: bump dependency versions
+2025-10-29T09:14:54.380Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish dead code
