@@ -2532,3 +2532,4 @@
 2025-10-29T16:32:38.729Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: update the CI matrix
 2025-10-29T17:33:57.842Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix edge case in auth
 2025-10-29T17:51:15.596Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: polish null check
+2025-10-29T19:12:41.342Z DailyDevOps Projects <adit.modi24@gmail.com> :: tweak build script
