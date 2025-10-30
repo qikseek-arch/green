@@ -63,3 +63,4 @@
 2025-10-30T03:06:12.142Z David Robinson <dgrtwo@users.noreply.github.com> :: polish flaky test
 2025-10-30T07:27:53.198Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: bump cache keys
 2025-10-30T08:50:15.191Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: remove retry logic
+2025-10-30T13:47:33.236Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: update edge case in auth
