@@ -4771,3 +4771,4 @@
 2025-10-30T11:50:52.927Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add dependency versions
 2025-10-30T12:16:55.458Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update retry logic
 2025-10-30T13:45:02.068Z ㅤxander <vampirist@users.noreply.github.com> :: add config defaults
+2025-10-30T13:54:56.045Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump the CI matrix
