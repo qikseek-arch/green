@@ -4772,3 +4772,4 @@
 2025-10-30T12:16:55.458Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update retry logic
 2025-10-30T13:45:02.068Z ㅤxander <vampirist@users.noreply.github.com> :: add config defaults
 2025-10-30T13:54:56.045Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump the CI matrix
+2025-10-30T15:21:48.130Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update config defaults
