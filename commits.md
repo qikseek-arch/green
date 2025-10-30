@@ -2537,3 +2537,4 @@
 2025-10-29T22:52:45.544Z 0chencc <0Chencc@users.noreply.github.com> :: polish cache keys
 2025-10-29T23:38:14.589Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix edge case in auth
 2025-10-30T00:30:13.789Z Siemens <opensource@siemens.com> :: tweak build script
+2025-10-30T01:29:38.630Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: tweak the parser
