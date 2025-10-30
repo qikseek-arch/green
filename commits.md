@@ -4760,3 +4760,4 @@
 2025-10-30T00:16:49.644Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
 2025-10-30T03:45:16.337Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish edge case in auth
 2025-10-30T03:54:53.087Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak retry logic
+2025-10-30T03:56:12.423Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove edge case in auth
