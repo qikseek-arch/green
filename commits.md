@@ -4773,3 +4773,4 @@
 2025-10-30T13:45:02.068Z ㅤxander <vampirist@users.noreply.github.com> :: add config defaults
 2025-10-30T13:54:56.045Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump the CI matrix
 2025-10-30T15:21:48.130Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update config defaults
+2025-10-30T15:27:40.955Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
