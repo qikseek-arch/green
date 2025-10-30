@@ -64,3 +64,4 @@
 2025-10-30T07:27:53.198Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: bump cache keys
 2025-10-30T08:50:15.191Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: remove retry logic
 2025-10-30T13:47:33.236Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: update edge case in auth
+2025-10-30T15:25:43.547Z Mark Murphy <commonsguy@users.noreply.github.com> :: update build script
