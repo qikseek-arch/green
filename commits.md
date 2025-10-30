@@ -4777,3 +4777,4 @@
 2025-10-30T15:35:36.362Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix cache keys
 2025-10-30T16:31:47.164Z Taiko Foundation <info@taiko.xyz> :: remove null check
 2025-10-30T18:34:07.614Z Keith Smiley <keith@users.noreply.github.com> :: clean up flaky test
+2025-10-30T19:48:05.083Z David Fowler <davidfowl@users.noreply.github.com> :: bump dead code
