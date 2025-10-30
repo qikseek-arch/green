@@ -4759,3 +4759,4 @@
 2025-10-30T00:16:20.245Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update dependency versions
 2025-10-30T00:16:49.644Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
 2025-10-30T03:45:16.337Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish edge case in auth
+2025-10-30T03:54:53.087Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak retry logic
