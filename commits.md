@@ -14433,3 +14433,4 @@
 2025-10-30T00:00:05.488Z in28minutes <in28minutes@users.noreply.github.com> :: refactor retry logic
 2025-10-30T01:00:16.128Z Lovell Fuller <lovell@users.noreply.github.com> :: wire up flaky test
 2025-10-30T02:00:23.973Z Tom Dale <tomdale@users.noreply.github.com> :: fix the parser
+2025-10-30T02:52:14.022Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up config defaults
