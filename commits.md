@@ -2553,3 +2553,4 @@
 2025-10-30T10:37:29.599Z z3r0yu <zer0yu@users.noreply.github.com> :: polish flaky test
 2025-10-30T13:07:33.947Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak edge case in auth
 2025-10-30T13:47:37.232Z Nik Graf <nikgraf@users.noreply.github.com> :: bump error handling
+2025-10-30T15:45:18.077Z StackBlitz <hello@stackblitz.com> :: fix config defaults
