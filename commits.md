@@ -4775,3 +4775,4 @@
 2025-10-30T15:21:48.130Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update config defaults
 2025-10-30T15:27:40.955Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2025-10-30T15:35:36.362Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix cache keys
+2025-10-30T16:31:47.164Z Taiko Foundation <info@taiko.xyz> :: remove null check
