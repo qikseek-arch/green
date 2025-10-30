@@ -14435,3 +14435,4 @@
 2025-10-30T02:00:23.973Z Tom Dale <tomdale@users.noreply.github.com> :: fix the parser
 2025-10-30T02:52:14.022Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up config defaults
 2025-10-30T04:06:08.952Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix build script
+2025-10-30T04:34:01.646Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak error handling
