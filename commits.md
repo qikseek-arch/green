@@ -2555,3 +2555,4 @@
 2025-10-30T13:47:37.232Z Nik Graf <nikgraf@users.noreply.github.com> :: bump error handling
 2025-10-30T15:45:18.077Z StackBlitz <hello@stackblitz.com> :: fix config defaults
 2025-10-30T16:03:34.785Z sharkeer <sharkeer@users.noreply.github.com> :: remove build script
+2025-10-30T16:14:37.882Z John Blackbourn <johnbillion@users.noreply.github.com> :: refactor retry logic
