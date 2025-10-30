@@ -4758,3 +4758,4 @@
 2025-10-30T00:08:46.784Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up flaky test
 2025-10-30T00:16:20.245Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update dependency versions
 2025-10-30T00:16:49.644Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
+2025-10-30T03:45:16.337Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish edge case in auth
