@@ -2551,3 +2551,4 @@
 2025-10-30T06:50:43.736Z Emil Wallner <emilwallner@users.noreply.github.com> :: remove build script
 2025-10-30T08:27:40.330Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: refactor edge case in auth
 2025-10-30T10:37:29.599Z z3r0yu <zer0yu@users.noreply.github.com> :: polish flaky test
+2025-10-30T13:07:33.947Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak edge case in auth
