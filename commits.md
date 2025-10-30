@@ -2542,3 +2542,4 @@
 2025-10-30T01:56:01.912Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: tweak logging
 2025-10-30T02:02:50.224Z Codewars <info@codewars.com> :: refactor dependency versions
 2025-10-30T02:19:52.729Z Vivid Network <vivid.network@outlook.com> :: tweak dead code
+2025-10-30T04:48:40.281Z Nik Graf <nikgraf@users.noreply.github.com> :: fix build script
