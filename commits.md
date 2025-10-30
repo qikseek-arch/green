@@ -4757,3 +4757,4 @@
 2025-10-29T23:56:08.282Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish config defaults
 2025-10-30T00:08:46.784Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up flaky test
 2025-10-30T00:16:20.245Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update dependency versions
+2025-10-30T00:16:49.644Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
