@@ -2560,3 +2560,4 @@
 2025-10-30T17:50:55.770Z Geer Sun <sungeer@users.noreply.github.com> :: fix null check
 2025-10-30T21:17:52.850Z Thomas Wolf <thomwolf@users.noreply.github.com> :: refactor flaky test
 2025-10-30T21:43:37.443Z Paul Deitel <pdeitel@users.noreply.github.com> :: bump error handling
+2025-10-30T22:02:51.828Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: tweak config defaults
