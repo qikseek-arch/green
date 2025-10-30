@@ -4762,3 +4762,4 @@
 2025-10-30T03:54:53.087Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak retry logic
 2025-10-30T03:56:12.423Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove edge case in auth
 2025-10-30T06:03:24.108Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor build script
+2025-10-30T06:53:44.508Z Shubs <infosec-au@users.noreply.github.com> :: add retry logic
