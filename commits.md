@@ -14438,3 +14438,4 @@
 2025-10-30T04:34:01.646Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak error handling
 2025-10-30T10:08:16.145Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix dependency versions
 2025-10-30T10:55:52.300Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor readme typo
+2025-10-30T11:44:45.649Z Mr L <Soldy@users.noreply.github.com> :: refactor config defaults
