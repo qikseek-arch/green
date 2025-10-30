@@ -14444,3 +14444,4 @@
 2025-10-30T13:19:07.515Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor config defaults
 2025-10-30T14:33:24.261Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add logging
 2025-10-30T15:19:52.129Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up retry logic
+2025-10-30T21:57:01.849Z Sergey P. <ThirteenAG@users.noreply.github.com> :: wire up edge case in auth
