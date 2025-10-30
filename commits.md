@@ -4764,3 +4764,4 @@
 2025-10-30T06:03:24.108Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor build script
 2025-10-30T06:53:44.508Z Shubs <infosec-au@users.noreply.github.com> :: add retry logic
 2025-10-30T08:03:30.717Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove flaky test
+2025-10-30T08:30:36.663Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump edge case in auth
