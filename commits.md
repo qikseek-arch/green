@@ -14440,3 +14440,4 @@
 2025-10-30T10:55:52.300Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor readme typo
 2025-10-30T11:44:45.649Z Mr L <Soldy@users.noreply.github.com> :: refactor config defaults
 2025-10-30T11:47:34.037Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish flaky test
+2025-10-30T13:05:18.793Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: refactor error handling
