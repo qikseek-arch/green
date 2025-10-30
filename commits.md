@@ -65,3 +65,4 @@
 2025-10-30T08:50:15.191Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: remove retry logic
 2025-10-30T13:47:33.236Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: update edge case in auth
 2025-10-30T15:25:43.547Z Mark Murphy <commonsguy@users.noreply.github.com> :: update build script
+2025-10-30T18:52:14.523Z Merve Noyan <merveenoyan@users.noreply.github.com> :: polish readme typo
