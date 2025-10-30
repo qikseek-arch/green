@@ -4768,3 +4768,4 @@
 2025-10-30T10:15:39.218Z Arduino <arduino@users.noreply.github.com> :: update dead code
 2025-10-30T10:42:03.750Z Arduino <arduino@users.noreply.github.com> :: bump null check
 2025-10-30T11:05:29.518Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump flaky test
+2025-10-30T11:50:52.927Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add dependency versions
