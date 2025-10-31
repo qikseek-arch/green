@@ -66,3 +66,4 @@
 2025-10-30T13:47:33.236Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: update edge case in auth
 2025-10-30T15:25:43.547Z Mark Murphy <commonsguy@users.noreply.github.com> :: update build script
 2025-10-30T18:52:14.523Z Merve Noyan <merveenoyan@users.noreply.github.com> :: polish readme typo
+2025-10-31T00:48:34.330Z Draven <draveness@users.noreply.github.com> :: remove error handling
