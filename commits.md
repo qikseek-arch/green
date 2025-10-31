@@ -2573,3 +2573,4 @@
 2025-10-31T03:55:11.588Z jist <george0st@users.noreply.github.com> :: tweak config defaults
 2025-10-31T06:30:22.157Z Xe Iaso <Xe@users.noreply.github.com> :: bump build script
 2025-10-31T07:40:51.208Z Andrew Mead <andrewjmead@users.noreply.github.com> :: wire up config defaults
+2025-10-31T12:16:21.616Z Nik Graf <nikgraf@users.noreply.github.com> :: remove build script
