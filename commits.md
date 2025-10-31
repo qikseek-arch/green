@@ -2586,3 +2586,4 @@
 2025-10-31T18:21:31.933Z Emil Wallner <emilwallner@users.noreply.github.com> :: bump flaky test
 2025-10-31T18:37:30.514Z Nik Graf <nikgraf@users.noreply.github.com> :: clean up config defaults
 2025-10-31T18:48:03.314Z TON Connect <ton-connect@users.noreply.github.com> :: tweak logging
+2025-10-31T19:15:27.407Z OpenShift <openshift@users.noreply.github.com> :: wire up dead code
