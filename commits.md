@@ -14457,3 +14457,4 @@
 2025-10-31T02:26:59.257Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak edge case in auth
 2025-10-31T02:39:14.968Z Snowflake Labs <opensource@snowflake.com> :: add readme typo
 2025-10-31T02:39:45.310Z Prometheus <prometheus@users.noreply.github.com> :: refactor the parser
+2025-10-31T02:49:16.390Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up config defaults
