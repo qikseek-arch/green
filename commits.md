@@ -2585,3 +2585,4 @@
 2025-10-31T17:48:02.504Z codefollower <codefollower@users.noreply.github.com> :: polish logging
 2025-10-31T18:21:31.933Z Emil Wallner <emilwallner@users.noreply.github.com> :: bump flaky test
 2025-10-31T18:37:30.514Z Nik Graf <nikgraf@users.noreply.github.com> :: clean up config defaults
+2025-10-31T18:48:03.314Z TON Connect <ton-connect@users.noreply.github.com> :: tweak logging
