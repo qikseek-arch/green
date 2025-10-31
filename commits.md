@@ -14474,3 +14474,4 @@
 2025-10-31T09:40:13.906Z Xingang Pan <XingangPan@users.noreply.github.com> :: update the parser
 2025-10-31T11:33:59.495Z Collabnix <collabnix@users.noreply.github.com> :: add the CI matrix
 2025-10-31T12:41:40.570Z John Schulman <joschu@users.noreply.github.com> :: tweak edge case in auth
+2025-10-31T13:57:44.037Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update the CI matrix
