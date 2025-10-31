@@ -2582,3 +2582,4 @@
 2025-10-31T15:22:26.244Z Dan Gohman <sunfishcode@users.noreply.github.com> :: add readme typo
 2025-10-31T15:56:17.943Z farza <farzaa@users.noreply.github.com> :: remove cache keys
 2025-10-31T17:28:18.496Z Lei Mao <leimao@users.noreply.github.com> :: refactor config defaults
+2025-10-31T17:48:02.504Z codefollower <codefollower@users.noreply.github.com> :: polish logging
