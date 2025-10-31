@@ -2588,3 +2588,4 @@
 2025-10-31T18:48:03.314Z TON Connect <ton-connect@users.noreply.github.com> :: tweak logging
 2025-10-31T19:15:27.407Z OpenShift <openshift@users.noreply.github.com> :: wire up dead code
 2025-10-31T20:14:49.226Z TON Connect <ton-connect@users.noreply.github.com> :: fix null check
+2025-10-31T20:19:06.102Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: add build script
