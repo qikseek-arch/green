@@ -4784,3 +4784,4 @@
 2025-10-31T03:09:12.293Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump config defaults
 2025-10-31T05:14:31.961Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump cache keys
 2025-10-31T06:34:16.938Z qiye <qiyeboy@users.noreply.github.com> :: remove dependency versions
+2025-10-31T06:41:59.549Z Odi <mathdroid@users.noreply.github.com> :: remove the parser
