@@ -4795,3 +4795,4 @@
 2025-10-31T17:30:39.082Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak null check
 2025-10-31T17:34:20.316Z Claude <claude@users.noreply.github.com> :: add the CI matrix
 2025-10-31T18:35:27.946Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak readme typo
+2025-10-31T19:28:14.622Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor null check
