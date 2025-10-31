@@ -4781,3 +4781,4 @@
 2025-10-30T20:39:58.738Z Ryan Bigg <radar@users.noreply.github.com> :: add null check
 2025-10-31T00:14:18.931Z Adam Bell <b3ll@users.noreply.github.com> :: update cache keys
 2025-10-31T01:10:09.953Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up edge case in auth
+2025-10-31T03:09:12.293Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump config defaults
