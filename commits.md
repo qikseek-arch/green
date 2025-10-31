@@ -14476,3 +14476,4 @@
 2025-10-31T12:41:40.570Z John Schulman <joschu@users.noreply.github.com> :: tweak edge case in auth
 2025-10-31T13:57:44.037Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update the CI matrix
 2025-10-31T14:05:51.372Z Boshen <Boshen@users.noreply.github.com> :: clean up edge case in auth
+2025-10-31T14:12:15.002Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish edge case in auth
