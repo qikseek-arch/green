@@ -2567,3 +2567,4 @@
 2025-10-31T00:50:34.688Z John Papa <johnpapa@users.noreply.github.com> :: update build script
 2025-10-31T00:56:58.378Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: polish config defaults
 2025-10-31T01:46:31.332Z John Blackbourn <johnbillion@users.noreply.github.com> :: fix build script
+2025-10-31T01:55:55.828Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: refactor error handling
