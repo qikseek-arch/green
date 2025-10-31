@@ -2590,3 +2590,4 @@
 2025-10-31T20:14:49.226Z TON Connect <ton-connect@users.noreply.github.com> :: fix null check
 2025-10-31T20:19:06.102Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: add build script
 2025-10-31T21:32:05.793Z David Bourgin <ddbourgin@users.noreply.github.com> :: remove edge case in auth
+2025-10-31T21:36:36.641Z Fabien Potencier <fabpot@users.noreply.github.com> :: fix edge case in auth
