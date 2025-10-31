@@ -2580,3 +2580,4 @@
 2025-10-31T15:07:07.584Z Yann Collet <Cyan4973@users.noreply.github.com> :: add config defaults
 2025-10-31T15:14:26.319Z TON Connect <ton-connect@users.noreply.github.com> :: wire up error handling
 2025-10-31T15:22:26.244Z Dan Gohman <sunfishcode@users.noreply.github.com> :: add readme typo
+2025-10-31T15:56:17.943Z farza <farzaa@users.noreply.github.com> :: remove cache keys
