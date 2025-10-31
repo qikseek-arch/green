@@ -4787,3 +4787,4 @@
 2025-10-31T06:41:59.549Z Odi <mathdroid@users.noreply.github.com> :: remove the parser
 2025-10-31T07:48:29.246Z Almas Baim <AlmasB@users.noreply.github.com> :: fix cache keys
 2025-10-31T08:42:33.068Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix readme typo
+2025-10-31T10:39:24.253Z Getgems <getgems-io@users.noreply.github.com> :: update retry logic
