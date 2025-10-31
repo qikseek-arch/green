@@ -4792,3 +4792,4 @@
 2025-10-31T11:30:25.314Z Taiko Foundation <info@taiko.xyz> :: refactor error handling
 2025-10-31T13:32:40.147Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up dependency versions
 2025-10-31T14:25:12.005Z Keith Smiley <keith@users.noreply.github.com> :: refactor null check
+2025-10-31T17:30:39.082Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak null check
