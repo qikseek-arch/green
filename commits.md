@@ -14454,3 +14454,4 @@
 2025-10-31T00:42:07.761Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix readme typo
 2025-10-31T01:40:16.168Z Dove Letter <skydoves2@gmail.com> :: polish error handling
 2025-10-31T02:21:51.902Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the parser
+2025-10-31T02:26:59.257Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak edge case in auth
