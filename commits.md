@@ -2566,3 +2566,4 @@
 2025-10-31T00:21:02.184Z Ricky <rickhanlonii@users.noreply.github.com> :: bump dependency versions
 2025-10-31T00:50:34.688Z John Papa <johnpapa@users.noreply.github.com> :: update build script
 2025-10-31T00:56:58.378Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: polish config defaults
+2025-10-31T01:46:31.332Z John Blackbourn <johnbillion@users.noreply.github.com> :: fix build script
