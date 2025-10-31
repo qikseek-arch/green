@@ -2575,3 +2575,4 @@
 2025-10-31T07:40:51.208Z Andrew Mead <andrewjmead@users.noreply.github.com> :: wire up config defaults
 2025-10-31T12:16:21.616Z Nik Graf <nikgraf@users.noreply.github.com> :: remove build script
 2025-10-31T12:25:38.839Z 0chencc <0Chencc@users.noreply.github.com> :: wire up logging
+2025-10-31T13:48:06.047Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: fix null check
