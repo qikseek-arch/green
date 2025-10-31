@@ -14460,3 +14460,4 @@
 2025-10-31T02:49:16.390Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up config defaults
 2025-10-31T02:53:12.173Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak edge case in auth
 2025-10-31T03:25:07.628Z 薛翔 <xuexiangjys@users.noreply.github.com> :: wire up retry logic
+2025-10-31T03:35:53.990Z Lovell Fuller <lovell@users.noreply.github.com> :: update dependency versions
