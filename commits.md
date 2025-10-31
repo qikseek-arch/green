@@ -2570,3 +2570,4 @@
 2025-10-31T01:55:55.828Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: refactor error handling
 2025-10-31T02:50:06.100Z 0chencc <0Chencc@users.noreply.github.com> :: add dead code
 2025-10-31T02:50:32.437Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: polish logging
+2025-10-31T03:55:11.588Z jist <george0st@users.noreply.github.com> :: tweak config defaults
