@@ -4800,3 +4800,4 @@
 2025-10-31T19:51:14.143Z Keith Smiley <keith@users.noreply.github.com> :: polish error handling
 2025-10-31T20:07:51.736Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up cache keys
 2025-10-31T21:01:55.994Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove readme typo
+2025-10-31T23:51:24.529Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish build script
