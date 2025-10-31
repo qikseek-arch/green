@@ -2565,3 +2565,4 @@
 2025-10-30T23:08:20.023Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: bump error handling
 2025-10-31T00:21:02.184Z Ricky <rickhanlonii@users.noreply.github.com> :: bump dependency versions
 2025-10-31T00:50:34.688Z John Papa <johnpapa@users.noreply.github.com> :: update build script
+2025-10-31T00:56:58.378Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: polish config defaults
