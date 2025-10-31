@@ -2564,3 +2564,4 @@
 2025-10-30T22:09:48.375Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: fix readme typo
 2025-10-30T23:08:20.023Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: bump error handling
 2025-10-31T00:21:02.184Z Ricky <rickhanlonii@users.noreply.github.com> :: bump dependency versions
+2025-10-31T00:50:34.688Z John Papa <johnpapa@users.noreply.github.com> :: update build script
