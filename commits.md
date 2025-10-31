@@ -4786,3 +4786,4 @@
 2025-10-31T06:34:16.938Z qiye <qiyeboy@users.noreply.github.com> :: remove dependency versions
 2025-10-31T06:41:59.549Z Odi <mathdroid@users.noreply.github.com> :: remove the parser
 2025-10-31T07:48:29.246Z Almas Baim <AlmasB@users.noreply.github.com> :: fix cache keys
+2025-10-31T08:42:33.068Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix readme typo
