@@ -2609,3 +2609,4 @@
 2025-11-01T20:27:55.331Z PostgreSQL <postgres@users.noreply.github.com> :: clean up dependency versions
 2025-11-01T21:10:26.473Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: add config defaults
 2025-11-01T21:56:54.794Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: clean up error handling
+2025-11-01T22:23:27.030Z LN <ln-dev7@users.noreply.github.com> :: polish edge case in auth
