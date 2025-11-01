@@ -2594,3 +2594,4 @@
 2025-10-31T22:08:52.301Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up readme typo
 2025-10-31T22:29:13.764Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: wire up build script
 2025-11-01T00:09:04.088Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: bump config defaults
+2025-11-01T00:53:52.775Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish null check
