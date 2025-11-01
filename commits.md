@@ -2608,3 +2608,4 @@
 2025-11-01T18:10:21.174Z Paul Deitel <pdeitel@users.noreply.github.com> :: tweak readme typo
 2025-11-01T20:27:55.331Z PostgreSQL <postgres@users.noreply.github.com> :: clean up dependency versions
 2025-11-01T21:10:26.473Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: add config defaults
+2025-11-01T21:56:54.794Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: clean up error handling
