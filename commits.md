@@ -4830,3 +4830,4 @@
 2025-11-01T20:14:21.270Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add config defaults
 2025-11-01T20:22:10.601Z markqvist <markqvist@users.noreply.github.com> :: update logging
 2025-11-01T20:39:12.124Z ring04h <ring04h@users.noreply.github.com> :: update cache keys
+2025-11-01T20:59:35.982Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up edge case in auth
