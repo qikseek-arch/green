@@ -14519,3 +14519,4 @@
 2025-11-01T19:32:01.373Z in28minutes <in28minutes@users.noreply.github.com> :: fix flaky test
 2025-11-01T19:32:13.383Z Snowflake Labs <opensource@snowflake.com> :: bump dependency versions
 2025-11-01T19:41:59.598Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak flaky test
+2025-11-01T21:02:48.962Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update build script
