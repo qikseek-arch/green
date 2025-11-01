@@ -14508,3 +14508,4 @@
 2025-11-01T11:51:41.553Z LMSYS <lm-sys@users.noreply.github.com> :: update dead code
 2025-11-01T11:55:00.297Z LMSYS <lm-sys@users.noreply.github.com> :: fix the parser
 2025-11-01T12:15:25.020Z LocalSend <localsend@users.noreply.github.com> :: fix cache keys
+2025-11-01T12:39:50.773Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: remove null check
