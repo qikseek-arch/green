@@ -4817,3 +4817,4 @@
 2025-11-01T07:23:28.443Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish flaky test
 2025-11-01T07:53:12.076Z ㅤxander <vampirist@users.noreply.github.com> :: update null check
 2025-11-01T07:56:06.882Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up readme typo
+2025-11-01T09:20:20.551Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: fix dead code
