@@ -4825,3 +4825,4 @@
 2025-11-01T11:25:31.517Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix null check
 2025-11-01T16:55:24.192Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove the CI matrix
 2025-11-01T17:26:38.355Z First Contributions <firstcontributions@gmail.com> :: bump retry logic
+2025-11-01T18:45:58.751Z heyli <lcxfs1991@users.noreply.github.com> :: tweak the CI matrix
