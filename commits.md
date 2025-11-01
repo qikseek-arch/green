@@ -4803,3 +4803,4 @@
 2025-10-31T23:51:24.529Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish build script
 2025-11-01T00:22:25.646Z Keith Smiley <keith@users.noreply.github.com> :: wire up dependency versions
 2025-11-01T01:01:24.208Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix config defaults
+2025-11-01T01:30:58.379Z Taiko Foundation <info@taiko.xyz> :: remove error handling
