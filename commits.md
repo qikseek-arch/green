@@ -14497,3 +14497,4 @@
 2025-11-01T03:46:27.309Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the CI matrix
 2025-11-01T03:59:17.385Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update dead code
 2025-11-01T04:19:35.959Z in28minutes <in28minutes@users.noreply.github.com> :: clean up logging
+2025-11-01T05:10:53.904Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump edge case in auth
