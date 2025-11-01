@@ -4822,3 +4822,4 @@
 2025-11-01T10:10:16.518Z ㅤxander <vampirist@users.noreply.github.com> :: wire up retry logic
 2025-11-01T10:34:48.169Z Claude <claude@users.noreply.github.com> :: polish edge case in auth
 2025-11-01T11:06:35.030Z LILYGO <LilyGO@users.noreply.github.com> :: bump dead code
+2025-11-01T11:25:31.517Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix null check
