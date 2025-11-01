@@ -4801,3 +4801,4 @@
 2025-10-31T20:07:51.736Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up cache keys
 2025-10-31T21:01:55.994Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove readme typo
 2025-10-31T23:51:24.529Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish build script
+2025-11-01T00:22:25.646Z Keith Smiley <keith@users.noreply.github.com> :: wire up dependency versions
