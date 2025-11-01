@@ -71,3 +71,4 @@
 2025-10-31T19:46:12.745Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: fix flaky test
 2025-10-31T23:42:58.994Z Connor <Connor9994@users.noreply.github.com> :: wire up error handling
 2025-11-01T09:48:04.444Z Holtz Yan <holtzy@users.noreply.github.com> :: polish config defaults
+2025-11-01T12:00:42.987Z Craig <geekcomputers@users.noreply.github.com> :: refactor edge case in auth
