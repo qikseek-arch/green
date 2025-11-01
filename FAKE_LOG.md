@@ -624,3 +624,4 @@
 2025-10-27T20:44:50.862Z Adrian Hajdin - JS Mastery <adrianhajdin@users.noreply.github.com> :: add dead code
 2025-10-28T05:26:32.811Z 编程随想 <programthink@users.noreply.github.com> :: tweak config defaults
 2025-10-30T09:08:22.134Z 稚晖 <peng-zhihui@users.noreply.github.com> :: bump logging
+2025-11-01T01:54:12.460Z Andrej <karpathy@users.noreply.github.com> :: tweak error handling
