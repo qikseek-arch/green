@@ -14522,3 +14522,4 @@
 2025-11-01T21:02:48.962Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update build script
 2025-11-01T21:35:56.312Z Odi <mathdroid@users.noreply.github.com> :: bump cache keys
 2025-11-01T23:16:20.594Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump retry logic
+2025-11-01T23:37:56.902Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove dependency versions
