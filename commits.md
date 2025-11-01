@@ -14494,3 +14494,4 @@
 2025-11-01T01:03:14.850Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up dependency versions
 2025-11-01T01:28:52.532Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up flaky test
 2025-11-01T03:39:46.810Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up cache keys
+2025-11-01T03:46:27.309Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the CI matrix
