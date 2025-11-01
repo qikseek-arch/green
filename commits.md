@@ -14491,3 +14491,4 @@
 2025-10-31T21:37:59.838Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: bump flaky test
 2025-10-31T23:32:09.273Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor error handling
 2025-11-01T00:27:14.018Z winterbe <winterbe@users.noreply.github.com> :: remove error handling
+2025-11-01T01:03:14.850Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up dependency versions
