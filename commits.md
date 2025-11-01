@@ -4804,3 +4804,4 @@
 2025-11-01T00:22:25.646Z Keith Smiley <keith@users.noreply.github.com> :: wire up dependency versions
 2025-11-01T01:01:24.208Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix config defaults
 2025-11-01T01:30:58.379Z Taiko Foundation <info@taiko.xyz> :: remove error handling
+2025-11-01T02:55:56.561Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish the CI matrix
