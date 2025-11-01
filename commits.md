@@ -14511,3 +14511,4 @@
 2025-11-01T12:39:50.773Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: remove null check
 2025-11-01T15:44:24.722Z Prometheus <prometheus@users.noreply.github.com> :: tweak logging
 2025-11-01T15:47:42.253Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump cache keys
+2025-11-01T15:57:19.935Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove the CI matrix
