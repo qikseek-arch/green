@@ -4834,3 +4834,4 @@
 2025-11-01T21:26:20.087Z Adam Bell <b3ll@users.noreply.github.com> :: add the CI matrix
 2025-11-01T21:26:46.656Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove flaky test
 2025-11-01T22:17:48.676Z CTFs <ctfs@users.noreply.github.com> :: remove dead code
+2025-11-01T23:11:31.072Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak error handling
