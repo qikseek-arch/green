@@ -2618,3 +2618,4 @@
 2025-11-02T05:58:51.158Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove readme typo
 2025-11-02T06:01:05.112Z Philip Walton <philipwalton@users.noreply.github.com> :: clean up edge case in auth
 2025-11-02T06:26:48.184Z Siemens <opensource@siemens.com> :: polish null check
+2025-11-02T07:00:50.753Z Kenney <KenneyNL@users.noreply.github.com> :: clean up dead code
