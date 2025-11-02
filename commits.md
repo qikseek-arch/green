@@ -4847,3 +4847,4 @@
 2025-11-02T09:44:35.359Z Selenium <SeleniumHQ@users.noreply.github.com> :: add retry logic
 2025-11-02T10:56:23.362Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
 2025-11-02T13:06:04.827Z Keith Smiley <keith@users.noreply.github.com> :: tweak flaky test
+2025-11-02T13:13:17.729Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: tweak error handling
