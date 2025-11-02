@@ -14529,3 +14529,4 @@
 2025-11-02T05:44:39.169Z 1 <insoxin@users.noreply.github.com> :: wire up readme typo
 2025-11-02T06:41:02.896Z Boshen <Boshen@users.noreply.github.com> :: bump the parser
 2025-11-02T07:18:40.703Z Asif Taj <axiftaj@users.noreply.github.com> :: update dead code
+2025-11-02T07:28:44.343Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix the parser
