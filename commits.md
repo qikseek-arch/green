@@ -74,3 +74,4 @@
 2025-11-01T12:00:42.987Z Craig <geekcomputers@users.noreply.github.com> :: refactor edge case in auth
 2025-11-01T16:02:28.913Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: update config defaults
 2025-11-02T02:17:33.187Z xer0dayz <1N3@users.noreply.github.com> :: fix null check
+2025-11-02T09:59:39.134Z Yiming Cui <ymcui@users.noreply.github.com> :: polish error handling
