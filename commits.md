@@ -2611,3 +2611,4 @@
 2025-11-01T21:56:54.794Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: clean up error handling
 2025-11-01T22:23:27.030Z LN <ln-dev7@users.noreply.github.com> :: polish edge case in auth
 2025-11-01T22:27:55.374Z Shaian <zshaian@users.noreply.github.com> :: fix logging
+2025-11-02T01:45:30.948Z Tuba Khan <tubakhxn@users.noreply.github.com> :: remove retry logic
