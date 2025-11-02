@@ -2629,3 +2629,4 @@
 2025-11-02T13:21:20.964Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: refactor build script
 2025-11-02T13:27:27.166Z OpenShift <openshift@users.noreply.github.com> :: polish dependency versions
 2025-11-02T13:43:59.097Z Jimmy Bogard <jbogard@users.noreply.github.com> :: update the CI matrix
+2025-11-02T14:02:18.624Z 郭飞 <guofei9987@users.noreply.github.com> :: update readme typo
