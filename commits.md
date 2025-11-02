@@ -14538,3 +14538,4 @@
 2025-11-02T14:28:19.943Z OpenBSD <openbsd@users.noreply.github.com> :: fix cache keys
 2025-11-02T14:28:41.699Z OpenBMB <openbmb@gmail.com> :: polish edge case in auth
 2025-11-02T16:55:29.001Z Shougo <Shougo@users.noreply.github.com> :: polish error handling
+2025-11-02T17:14:05.507Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up edge case in auth
