@@ -2631,3 +2631,4 @@
 2025-11-02T13:43:59.097Z Jimmy Bogard <jbogard@users.noreply.github.com> :: update the CI matrix
 2025-11-02T14:02:18.624Z 郭飞 <guofei9987@users.noreply.github.com> :: update readme typo
 2025-11-02T14:09:43.824Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor readme typo
+2025-11-02T16:38:46.730Z Jonathan <Grafikart@users.noreply.github.com> :: wire up the parser
