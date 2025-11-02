@@ -2623,3 +2623,4 @@
 2025-11-02T07:23:13.715Z David Bourgin <ddbourgin@users.noreply.github.com> :: remove the CI matrix
 2025-11-02T07:37:42.605Z Blue <blueedgetechno@users.noreply.github.com> :: remove error handling
 2025-11-02T08:15:40.726Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: fix flaky test
+2025-11-02T09:11:13.676Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: refactor readme typo
