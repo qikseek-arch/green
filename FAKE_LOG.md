@@ -205,3 +205,4 @@
 2025-10-25T04:37:22.050Z vex <vex@fake.invalid> :: update the CI matrix
 2025-10-25T23:54:38.039Z root <root@fake.invalid> :: add retry logic
 2025-10-28T04:46:17.218Z echo <echo@fake.invalid> :: bump dependency versions
+2025-11-02T15:00:25.199Z mimic <mimic@fake.invalid> :: tweak null check
