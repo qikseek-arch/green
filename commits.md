@@ -14532,3 +14532,4 @@
 2025-11-02T07:28:44.343Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix the parser
 2025-11-02T08:30:27.381Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove null check
 2025-11-02T09:22:18.201Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: refactor the CI matrix
+2025-11-02T09:57:29.610Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: bump null check
