@@ -305,3 +305,4 @@
 2025-10-18T09:49:26.742Z cactus_hyper1337 <cactus_hyper1337@fake.invalid> :: tweak flaky test | Co-authored-by: PewDiePie <pewdiepie-archdaemon@users.noreply.github.com>
 2025-10-23T23:19:42.280Z Carl Sagan <carl.sagan@fake.invalid> :: tweak error handling | Co-authored-by: Sarah Drasner <sdras@users.noreply.github.com>
 2025-10-28T05:00:57.965Z HyperFalcon <hyperfalcon@fake.invalid> :: add readme typo
+2025-11-02T05:29:50.041Z silly-cactus_io <silly-cactus_io@fake.invalid> :: refactor config defaults
