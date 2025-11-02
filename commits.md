@@ -2636,3 +2636,4 @@
 2025-11-02T16:57:52.698Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: polish readme typo
 2025-11-02T17:36:32.485Z Codewars <info@codewars.com> :: clean up the CI matrix
 2025-11-02T17:41:30.011Z PostgreSQL <postgres@users.noreply.github.com> :: wire up retry logic
+2025-11-02T18:34:05.173Z Gradio <admin@gradio.app> :: clean up null check
