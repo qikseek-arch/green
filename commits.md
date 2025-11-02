@@ -2615,3 +2615,4 @@
 2025-11-02T03:31:21.765Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: clean up readme typo
 2025-11-02T04:55:20.618Z Leap 离谱 <byoungd@users.noreply.github.com> :: tweak readme typo
 2025-11-02T05:51:28.285Z TON Connect <ton-connect@users.noreply.github.com> :: add logging
+2025-11-02T05:58:51.158Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove readme typo
