@@ -4838,3 +4838,4 @@
 2025-11-02T00:19:46.081Z Aurélien Geron <ageron@users.noreply.github.com> :: remove logging
 2025-11-02T00:39:08.473Z First Contributions <firstcontributions@gmail.com> :: remove dead code
 2025-11-02T02:26:00.458Z Getgems <getgems-io@users.noreply.github.com> :: clean up cache keys
+2025-11-02T02:30:28.672Z First Contributions <firstcontributions@gmail.com> :: tweak build script
