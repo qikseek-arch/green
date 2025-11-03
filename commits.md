@@ -4874,3 +4874,4 @@
 2025-11-03T08:06:39.095Z David Clark <nullptrException100@users.noreply.github.com> :: bump flaky test
 2025-11-03T08:22:26.672Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor config defaults
 2025-11-03T09:32:34.838Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak readme typo
+2025-11-03T10:04:02.721Z AI4Bhārat <opensource@ai4bharat.org> :: remove dependency versions
