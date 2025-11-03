@@ -2654,3 +2654,4 @@
 2025-11-03T14:35:51.598Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: bump the CI matrix
 2025-11-03T15:02:18.147Z farza <farzaa@users.noreply.github.com> :: tweak flaky test
 2025-11-03T17:29:14.729Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix config defaults
+2025-11-03T17:58:52.538Z Fabien Potencier <fabpot@users.noreply.github.com> :: update the parser
