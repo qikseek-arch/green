@@ -4885,3 +4885,4 @@
 2025-11-03T21:18:28.112Z owenzhang <owenzhang@users.noreply.github.com> :: clean up cache keys
 2025-11-03T22:05:04.455Z Arduino <arduino@users.noreply.github.com> :: polish cache keys
 2025-11-03T23:24:48.807Z owenzhang <owenzhang@users.noreply.github.com> :: wire up null check
+2025-11-03T23:41:38.959Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up build script
