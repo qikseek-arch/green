@@ -2640,3 +2640,4 @@
 2025-11-02T21:10:18.188Z Xe Iaso <Xe@users.noreply.github.com> :: remove dependency versions
 2025-11-02T21:17:51.496Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: wire up the parser
 2025-11-02T23:37:23.993Z Blue <blueedgetechno@users.noreply.github.com> :: update error handling
+2025-11-03T00:45:14.119Z TON Connect <ton-connect@users.noreply.github.com> :: remove readme typo
