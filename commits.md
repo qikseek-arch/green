@@ -14556,3 +14556,4 @@
 2025-11-03T10:40:52.395Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix config defaults
 2025-11-03T10:40:54.946Z Collabnix <collabnix@users.noreply.github.com> :: clean up retry logic
 2025-11-03T12:47:29.816Z Snowflake Labs <opensource@snowflake.com> :: tweak cache keys
+2025-11-03T14:12:19.171Z Dove Letter <skydoves2@gmail.com> :: refactor dependency versions
