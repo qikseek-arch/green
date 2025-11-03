@@ -4866,3 +4866,4 @@
 2025-11-03T03:17:23.368Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up edge case in auth
 2025-11-03T04:06:00.699Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor dependency versions
 2025-11-03T04:08:43.072Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish readme typo
+2025-11-03T05:05:04.507Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump null check
