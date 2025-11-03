@@ -2662,3 +2662,4 @@
 2025-11-03T20:38:19.158Z farza <farzaa@users.noreply.github.com> :: tweak logging
 2025-11-03T21:07:52.988Z Geer Sun <sungeer@users.noreply.github.com> :: add flaky test
 2025-11-03T21:30:42.147Z Thomas Wolf <thomwolf@users.noreply.github.com> :: wire up dependency versions
+2025-11-03T21:41:07.196Z 开源中国 <oschina@users.noreply.github.com> :: remove edge case in auth
