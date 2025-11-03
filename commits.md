@@ -4859,3 +4859,4 @@
 2025-11-02T23:02:06.806Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish the CI matrix
 2025-11-02T23:48:43.182Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up config defaults
 2025-11-03T00:35:38.984Z Sachin Soni <techiesms@users.noreply.github.com> :: fix dependency versions
+2025-11-03T00:50:48.972Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump the parser
