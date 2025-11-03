@@ -79,3 +79,4 @@
 2025-11-03T11:23:30.462Z 左程云 <algorithmzuo@users.noreply.github.com> :: update dead code
 2025-11-03T11:36:14.842Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: fix the parser
 2025-11-03T19:32:28.103Z Sebastian <sebmck@users.noreply.github.com> :: fix edge case in auth
+2025-11-03T21:20:25.043Z Sylvain Gugger <sgugger@users.noreply.github.com> :: fix build script
