@@ -14553,3 +14553,4 @@
 2025-11-03T08:44:54.866Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add logging
 2025-11-03T09:12:19.872Z OpenBMB <openbmb@gmail.com> :: polish flaky test
 2025-11-03T09:21:12.527Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor null check
+2025-11-03T10:40:52.395Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix config defaults
