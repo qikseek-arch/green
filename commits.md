@@ -4873,3 +4873,4 @@
 2025-11-03T07:32:38.263Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish null check
 2025-11-03T08:06:39.095Z David Clark <nullptrException100@users.noreply.github.com> :: bump flaky test
 2025-11-03T08:22:26.672Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor config defaults
+2025-11-03T09:32:34.838Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak readme typo
