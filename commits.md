@@ -4879,3 +4879,4 @@
 2025-11-03T11:30:19.082Z SouJunior <wouerner@soujunior.tech> :: tweak retry logic
 2025-11-03T14:27:19.710Z qiye <qiyeboy@users.noreply.github.com> :: add readme typo
 2025-11-03T14:53:30.626Z SouJunior <wouerner@soujunior.tech> :: polish dependency versions
+2025-11-03T16:51:45.692Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the parser
