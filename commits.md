@@ -4864,3 +4864,4 @@
 2025-11-03T02:44:58.218Z ㅤxander <vampirist@users.noreply.github.com> :: tweak error handling
 2025-11-03T02:51:43.469Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix cache keys
 2025-11-03T03:17:23.368Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up edge case in auth
+2025-11-03T04:06:00.699Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor dependency versions
