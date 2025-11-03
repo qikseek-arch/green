@@ -14563,3 +14563,4 @@
 2025-11-03T19:07:32.006Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix dead code
 2025-11-03T19:13:30.171Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor config defaults
 2025-11-03T19:40:56.908Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish logging
+2025-11-03T19:42:25.906Z Xingang Pan <XingangPan@users.noreply.github.com> :: add error handling
