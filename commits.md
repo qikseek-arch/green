@@ -14552,3 +14552,4 @@
 2025-11-03T08:24:24.848Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up the parser
 2025-11-03T08:44:54.866Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add logging
 2025-11-03T09:12:19.872Z OpenBMB <openbmb@gmail.com> :: polish flaky test
+2025-11-03T09:21:12.527Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor null check
