@@ -14558,3 +14558,4 @@
 2025-11-03T12:47:29.816Z Snowflake Labs <opensource@snowflake.com> :: tweak cache keys
 2025-11-03T14:12:19.171Z Dove Letter <skydoves2@gmail.com> :: refactor dependency versions
 2025-11-03T14:17:59.860Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump dependency versions
+2025-11-03T15:45:41.407Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dead code
