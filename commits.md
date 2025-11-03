@@ -2646,3 +2646,4 @@
 2025-11-03T04:02:35.576Z Blue <blueedgetechno@users.noreply.github.com> :: fix the parser
 2025-11-03T04:38:53.680Z Gradio <admin@gradio.app> :: refactor build script
 2025-11-03T05:17:57.516Z sharkeer <sharkeer@users.noreply.github.com> :: clean up logging
+2025-11-03T05:38:04.613Z Yann Collet <Cyan4973@users.noreply.github.com> :: refactor null check
