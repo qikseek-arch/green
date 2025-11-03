@@ -2665,3 +2665,4 @@
 2025-11-03T21:41:07.196Z 开源中国 <oschina@users.noreply.github.com> :: remove edge case in auth
 2025-11-03T22:19:30.222Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: fix error handling
 2025-11-03T22:44:53.298Z Gradio <admin@gradio.app> :: add dependency versions
+2025-11-03T23:02:28.399Z farza <farzaa@users.noreply.github.com> :: wire up logging
