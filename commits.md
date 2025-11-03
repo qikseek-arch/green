@@ -4869,3 +4869,4 @@
 2025-11-03T05:05:04.507Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump null check
 2025-11-03T06:25:16.278Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump config defaults
 2025-11-03T06:58:41.547Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
+2025-11-03T07:20:29.890Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak retry logic
