@@ -2663,3 +2663,4 @@
 2025-11-03T21:07:52.988Z Geer Sun <sungeer@users.noreply.github.com> :: add flaky test
 2025-11-03T21:30:42.147Z Thomas Wolf <thomwolf@users.noreply.github.com> :: wire up dependency versions
 2025-11-03T21:41:07.196Z 开源中国 <oschina@users.noreply.github.com> :: remove edge case in auth
+2025-11-03T22:19:30.222Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: fix error handling
