@@ -2643,3 +2643,4 @@
 2025-11-03T00:45:14.119Z TON Connect <ton-connect@users.noreply.github.com> :: remove readme typo
 2025-11-03T02:08:28.369Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: bump dependency versions
 2025-11-03T02:50:15.609Z Codrops <codrops@users.noreply.github.com> :: tweak edge case in auth
+2025-11-03T04:02:35.576Z Blue <blueedgetechno@users.noreply.github.com> :: fix the parser
