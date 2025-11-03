@@ -14562,3 +14562,4 @@
 2025-11-03T17:11:51.375Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor cache keys
 2025-11-03T19:07:32.006Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix dead code
 2025-11-03T19:13:30.171Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor config defaults
+2025-11-03T19:40:56.908Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish logging
