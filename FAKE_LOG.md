@@ -20,3 +20,4 @@
 2025-11-01T12:17:51.302Z turbo-sockethq <turbo-sockethq@users.noreply.github.com> :: clean up dead code
 2025-11-01T13:20:58.869Z SaltyRaptor <saltyraptor@users.noreply.github.com> :: polish dependency versions
 2025-11-03T01:07:26.765Z wired-yak99 <wired-yak99@users.noreply.github.com> :: bump flaky test
+2025-11-03T12:16:42.932Z Margaret Hamilton <margaret.hamilton@example.com> :: clean up edge case in auth
