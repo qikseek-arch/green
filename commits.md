@@ -2669,3 +2669,4 @@
 2025-11-04T00:06:47.842Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: wire up dead code
 2025-11-04T00:51:05.936Z farza <farzaa@users.noreply.github.com> :: clean up edge case in auth
 2025-11-04T01:22:49.185Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: refactor readme typo
+2025-11-04T02:45:43.597Z farza <farzaa@users.noreply.github.com> :: update error handling
