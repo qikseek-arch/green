@@ -14590,3 +14590,4 @@
 2025-11-04T16:43:35.396Z OpenBMB <openbmb@gmail.com> :: refactor retry logic
 2025-11-04T16:48:41.715Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove retry logic
 2025-11-04T16:53:45.593Z DefTruth <DefTruth@users.noreply.github.com> :: add the CI matrix
+2025-11-04T17:37:17.196Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix dependency versions
