@@ -2670,3 +2670,4 @@
 2025-11-04T00:51:05.936Z farza <farzaa@users.noreply.github.com> :: clean up edge case in auth
 2025-11-04T01:22:49.185Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: refactor readme typo
 2025-11-04T02:45:43.597Z farza <farzaa@users.noreply.github.com> :: update error handling
+2025-11-04T02:47:58.839Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: refactor logging
