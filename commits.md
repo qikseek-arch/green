@@ -4921,3 +4921,4 @@
 2025-11-04T21:25:32.558Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up cache keys
 2025-11-04T21:32:59.575Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
 2025-11-04T22:04:24.049Z md-5 <md-5@users.noreply.github.com> :: update readme typo
+2025-11-04T22:14:45.079Z CTFs <ctfs@users.noreply.github.com> :: wire up error handling
