@@ -2684,3 +2684,4 @@
 2025-11-04T13:16:44.539Z 开源中国 <oschina@users.noreply.github.com> :: tweak dependency versions
 2025-11-04T13:27:52.511Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: remove logging
 2025-11-04T13:34:29.691Z jist <george0st@users.noreply.github.com> :: refactor the CI matrix
+2025-11-04T13:54:35.589Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish the CI matrix
