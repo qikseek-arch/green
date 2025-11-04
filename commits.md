@@ -2681,3 +2681,4 @@
 2025-11-04T11:48:40.770Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: refactor dependency versions
 2025-11-04T11:52:46.932Z Andrew Mead <andrewjmead@users.noreply.github.com> :: bump edge case in auth
 2025-11-04T11:58:23.033Z LN <ln-dev7@users.noreply.github.com> :: polish edge case in auth
+2025-11-04T13:16:44.539Z 开源中国 <oschina@users.noreply.github.com> :: tweak dependency versions
