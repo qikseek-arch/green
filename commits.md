@@ -14578,3 +14578,4 @@
 2025-11-04T10:21:09.222Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor edge case in auth
 2025-11-04T10:32:12.132Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: remove edge case in auth
 2025-11-04T10:37:16.660Z Brian Holt <btholt@users.noreply.github.com> :: wire up dead code
+2025-11-04T11:09:32.511Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak the CI matrix
