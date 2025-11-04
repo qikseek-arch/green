@@ -2679,3 +2679,4 @@
 2025-11-04T08:10:50.349Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: bump cache keys
 2025-11-04T10:58:43.329Z nf <nf@users.noreply.github.com> :: clean up logging
 2025-11-04T11:48:40.770Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: refactor dependency versions
+2025-11-04T11:52:46.932Z Andrew Mead <andrewjmead@users.noreply.github.com> :: bump edge case in auth
