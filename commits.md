@@ -4912,3 +4912,4 @@
 2025-11-04T12:52:32.363Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak null check
 2025-11-04T13:07:18.514Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up config defaults
 2025-11-04T13:10:13.454Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up build script
+2025-11-04T15:26:44.306Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dead code
