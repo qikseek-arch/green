@@ -4893,3 +4893,4 @@
 2025-11-04T01:21:56.825Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove build script
 2025-11-04T01:22:15.312Z ring04h <ring04h@users.noreply.github.com> :: remove cache keys
 2025-11-04T01:58:55.888Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
+2025-11-04T02:10:04.514Z Taiko Foundation <info@taiko.xyz> :: update the parser
