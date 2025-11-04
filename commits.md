@@ -4905,3 +4905,4 @@
 2025-11-04T07:26:53.682Z heyli <lcxfs1991@users.noreply.github.com> :: bump the parser
 2025-11-04T09:15:04.543Z Claude <claude@users.noreply.github.com> :: add flaky test
 2025-11-04T09:33:31.520Z Getgems <getgems-io@users.noreply.github.com> :: bump the CI matrix
+2025-11-04T09:43:26.187Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
