@@ -4919,3 +4919,4 @@
 2025-11-04T19:16:31.900Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish readme typo
 2025-11-04T19:58:23.055Z Rei <chloerei@users.noreply.github.com> :: polish build script
 2025-11-04T21:25:32.558Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up cache keys
+2025-11-04T21:32:59.575Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
