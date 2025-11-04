@@ -80,3 +80,4 @@
 2025-11-03T11:36:14.842Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: fix the parser
 2025-11-03T19:32:28.103Z Sebastian <sebmck@users.noreply.github.com> :: fix edge case in auth
 2025-11-03T21:20:25.043Z Sylvain Gugger <sgugger@users.noreply.github.com> :: fix build script
+2025-11-04T01:06:59.888Z Alon Zakai <kripken@users.noreply.github.com> :: update retry logic
