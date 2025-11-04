@@ -2667,3 +2667,4 @@
 2025-11-03T22:44:53.298Z Gradio <admin@gradio.app> :: add dependency versions
 2025-11-03T23:02:28.399Z farza <farzaa@users.noreply.github.com> :: wire up logging
 2025-11-04T00:06:47.842Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: wire up dead code
+2025-11-04T00:51:05.936Z farza <farzaa@users.noreply.github.com> :: clean up edge case in auth
