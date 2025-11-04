@@ -2675,3 +2675,4 @@
 2025-11-04T04:56:27.377Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: clean up flaky test
 2025-11-04T05:28:53.820Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up config defaults
 2025-11-04T07:39:02.142Z Aditya Shakya <adi1090x@users.noreply.github.com> :: tweak error handling
+2025-11-04T07:52:12.223Z ElevenLabs <developers@elevenlabs.io> :: add error handling
