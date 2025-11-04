@@ -2686,3 +2686,4 @@
 2025-11-04T13:34:29.691Z jist <george0st@users.noreply.github.com> :: refactor the CI matrix
 2025-11-04T13:54:35.589Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish the CI matrix
 2025-11-04T15:56:29.764Z Codewars <info@codewars.com> :: polish dependency versions
+2025-11-04T18:09:29.982Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: tweak error handling
