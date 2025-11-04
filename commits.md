@@ -4911,3 +4911,4 @@
 2025-11-04T11:49:12.018Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the CI matrix
 2025-11-04T12:52:32.363Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak null check
 2025-11-04T13:07:18.514Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up config defaults
+2025-11-04T13:10:13.454Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up build script
