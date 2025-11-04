@@ -2683,3 +2683,4 @@
 2025-11-04T11:58:23.033Z LN <ln-dev7@users.noreply.github.com> :: polish edge case in auth
 2025-11-04T13:16:44.539Z 开源中国 <oschina@users.noreply.github.com> :: tweak dependency versions
 2025-11-04T13:27:52.511Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: remove logging
+2025-11-04T13:34:29.691Z jist <george0st@users.noreply.github.com> :: refactor the CI matrix
