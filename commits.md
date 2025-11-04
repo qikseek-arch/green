@@ -4900,3 +4900,4 @@
 2025-11-04T05:30:19.893Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump config defaults
 2025-11-04T05:32:46.557Z WebRTC <discuss-webrtc@googlegroups.com> :: bump logging
 2025-11-04T05:55:16.118Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update logging
+2025-11-04T07:06:11.875Z Ryan Bigg <radar@users.noreply.github.com> :: remove dependency versions
