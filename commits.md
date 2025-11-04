@@ -4894,3 +4894,4 @@
 2025-11-04T01:22:15.312Z ring04h <ring04h@users.noreply.github.com> :: remove cache keys
 2025-11-04T01:58:55.888Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
 2025-11-04T02:10:04.514Z Taiko Foundation <info@taiko.xyz> :: update the parser
+2025-11-04T02:40:00.545Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump retry logic
