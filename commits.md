@@ -14566,3 +14566,4 @@
 2025-11-03T19:42:25.906Z Xingang Pan <XingangPan@users.noreply.github.com> :: add error handling
 2025-11-03T21:54:25.771Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove cache keys
 2025-11-04T00:01:19.850Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up readme typo
+2025-11-04T01:20:48.940Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor retry logic
