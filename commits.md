@@ -14573,3 +14573,4 @@
 2025-11-04T05:51:01.747Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor logging
 2025-11-04T06:32:57.656Z Asif Taj <axiftaj@users.noreply.github.com> :: refactor dependency versions
 2025-11-04T06:38:20.222Z cytopia <cytopia@users.noreply.github.com> :: refactor readme typo
+2025-11-04T07:21:07.528Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove edge case in auth
