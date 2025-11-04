@@ -4895,3 +4895,4 @@
 2025-11-04T01:58:55.888Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
 2025-11-04T02:10:04.514Z Taiko Foundation <info@taiko.xyz> :: update the parser
 2025-11-04T02:40:00.545Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump retry logic
+2025-11-04T02:58:13.297Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak retry logic
