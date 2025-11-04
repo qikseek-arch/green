@@ -306,3 +306,4 @@
 2025-10-23T23:19:42.280Z Carl Sagan <carl.sagan@fake.invalid> :: tweak error handling | Co-authored-by: Sarah Drasner <sdras@users.noreply.github.com>
 2025-10-28T05:00:57.965Z HyperFalcon <hyperfalcon@fake.invalid> :: add readme typo
 2025-11-02T05:29:50.041Z silly-cactus_io <silly-cactus_io@fake.invalid> :: refactor config defaults
+2025-11-04T10:54:54.214Z Solomon Hykes <solomon.hykes@fake.invalid> :: bump cache keys | Co-authored-by: Gustavo Guanabara <gustavoguanabara@users.noreply.github.com>
