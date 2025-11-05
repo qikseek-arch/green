@@ -82,3 +82,4 @@
 2025-11-03T21:20:25.043Z Sylvain Gugger <sgugger@users.noreply.github.com> :: fix build script
 2025-11-04T01:06:59.888Z Alon Zakai <kripken@users.noreply.github.com> :: update retry logic
 2025-11-04T02:37:33.106Z @XDevelopers <xdevplatform@users.noreply.github.com> :: add error handling
+2025-11-05T01:33:13.932Z Leon AI <louis@getleon.ai> :: tweak the CI matrix
