@@ -4942,3 +4942,4 @@
 2025-11-05T12:42:49.274Z owenzhang <owenzhang@users.noreply.github.com> :: remove flaky test
 2025-11-05T12:46:38.948Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor dependency versions
 2025-11-05T12:48:03.062Z CTFs <ctfs@users.noreply.github.com> :: add flaky test
+2025-11-05T13:10:32.121Z ㅤxander <vampirist@users.noreply.github.com> :: refactor config defaults
