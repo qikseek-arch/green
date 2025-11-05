@@ -4938,3 +4938,4 @@
 2025-11-05T07:40:20.091Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update readme typo
 2025-11-05T10:52:31.768Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak flaky test
 2025-11-05T11:49:36.511Z Selenium <SeleniumHQ@users.noreply.github.com> :: update build script
+2025-11-05T11:52:00.497Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak null check
