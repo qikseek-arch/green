@@ -14623,3 +14623,4 @@
 2025-11-05T20:21:27.295Z cytopia <cytopia@users.noreply.github.com> :: bump error handling
 2025-11-05T21:08:48.707Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up edge case in auth
 2025-11-05T22:55:58.458Z Marcel Pociot <mpociot@users.noreply.github.com> :: polish cache keys
+2025-11-05T23:12:15.211Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove config defaults
