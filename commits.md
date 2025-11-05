@@ -14613,3 +14613,4 @@
 2025-11-05T10:20:19.797Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up error handling
 2025-11-05T11:48:38.070Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump the parser
 2025-11-05T12:46:46.765Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up dependency versions
+2025-11-05T13:09:02.235Z Lipis <lipis@users.noreply.github.com> :: add the CI matrix
