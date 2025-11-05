@@ -4927,3 +4927,4 @@
 2025-11-05T00:52:42.349Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish dead code
 2025-11-05T01:09:14.519Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak error handling
 2025-11-05T01:40:48.949Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the parser
+2025-11-05T02:18:22.779Z Almas Baim <AlmasB@users.noreply.github.com> :: fix config defaults
