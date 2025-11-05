@@ -2699,3 +2699,4 @@
 2025-11-05T04:31:29.920Z Siemens <opensource@siemens.com> :: add the parser
 2025-11-05T05:27:32.967Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: polish null check
 2025-11-05T05:59:25.417Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add null check
+2025-11-05T06:08:49.288Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add readme typo
