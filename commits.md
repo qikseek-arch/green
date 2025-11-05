@@ -2715,3 +2715,4 @@
 2025-11-05T17:27:30.259Z Jonathan <Grafikart@users.noreply.github.com> :: remove retry logic
 2025-11-05T18:29:00.565Z Xe Iaso <Xe@users.noreply.github.com> :: tweak retry logic
 2025-11-05T20:00:54.251Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: remove readme typo
+2025-11-05T20:02:35.416Z Yann Collet <Cyan4973@users.noreply.github.com> :: remove logging
