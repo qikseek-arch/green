@@ -14621,3 +14621,4 @@
 2025-11-05T18:22:01.671Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix null check
 2025-11-05T19:42:05.015Z Morvan <MorvanZhou@users.noreply.github.com> :: fix readme typo
 2025-11-05T20:21:27.295Z cytopia <cytopia@users.noreply.github.com> :: bump error handling
+2025-11-05T21:08:48.707Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up edge case in auth
