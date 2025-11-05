@@ -2701,3 +2701,4 @@
 2025-11-05T05:59:25.417Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add null check
 2025-11-05T06:08:49.288Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add readme typo
 2025-11-05T07:23:18.023Z OpenShift <openshift@users.noreply.github.com> :: update build script
+2025-11-05T07:59:25.693Z Kenney <KenneyNL@users.noreply.github.com> :: update edge case in auth
