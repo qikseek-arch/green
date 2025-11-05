@@ -14611,3 +14611,4 @@
 2025-11-05T10:02:44.368Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove build script
 2025-11-05T10:14:00.692Z Google Fonts <googlefonts@users.noreply.github.com> :: update null check
 2025-11-05T10:20:19.797Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up error handling
+2025-11-05T11:48:38.070Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump the parser
