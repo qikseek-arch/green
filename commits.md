@@ -4948,3 +4948,4 @@
 2025-11-05T18:55:04.952Z Daniel Eden <daneden@users.noreply.github.com> :: remove build script
 2025-11-05T19:07:00.312Z Damian Dulisz <shentao@users.noreply.github.com> :: fix logging
 2025-11-05T19:18:45.358Z Ben Hamner <benhamner@users.noreply.github.com> :: remove retry logic
+2025-11-05T20:06:05.182Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up dead code
