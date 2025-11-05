@@ -14618,3 +14618,4 @@
 2025-11-05T17:17:00.334Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up flaky test
 2025-11-05T17:39:06.814Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump the parser
 2025-11-05T18:14:13.357Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak dead code
+2025-11-05T18:22:01.671Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix null check
