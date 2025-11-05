@@ -4933,3 +4933,4 @@
 2025-11-05T03:27:05.772Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update config defaults
 2025-11-05T03:45:45.711Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish cache keys
 2025-11-05T04:32:32.630Z ring04h <ring04h@users.noreply.github.com> :: refactor the parser
+2025-11-05T04:58:35.447Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish readme typo
