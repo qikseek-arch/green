@@ -2712,3 +2712,4 @@
 2025-11-05T15:20:43.881Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: remove build script
 2025-11-05T16:27:28.042Z Sergio Xalambrí <sergiodxa@users.noreply.github.com> :: tweak cache keys
 2025-11-05T17:16:33.004Z Gradio <admin@gradio.app> :: tweak dead code
+2025-11-05T17:27:30.259Z Jonathan <Grafikart@users.noreply.github.com> :: remove retry logic
