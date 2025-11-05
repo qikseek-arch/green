@@ -4929,3 +4929,4 @@
 2025-11-05T01:40:48.949Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the parser
 2025-11-05T02:18:22.779Z Almas Baim <AlmasB@users.noreply.github.com> :: fix config defaults
 2025-11-05T03:01:39.416Z vb <Vaibhavs10@users.noreply.github.com> :: polish build script
+2025-11-05T03:02:02.371Z Sachin Soni <techiesms@users.noreply.github.com> :: fix error handling
