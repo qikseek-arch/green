@@ -2698,3 +2698,4 @@
 2025-11-05T02:55:51.289Z Codewars <info@codewars.com> :: bump dependency versions
 2025-11-05T04:31:29.920Z Siemens <opensource@siemens.com> :: add the parser
 2025-11-05T05:27:32.967Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: polish null check
+2025-11-05T05:59:25.417Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: add null check
