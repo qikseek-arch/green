@@ -506,3 +506,4 @@
 2025-10-18T10:59:28.269Z Andrej <karpathy@users.noreply.github.com> :: bump dead code
 2025-10-19T08:54:45.828Z Addy Osmani <addyosmani@users.noreply.github.com> :: tweak dependency versions
 2025-10-28T00:28:40.405Z Jeff Delaney <codediodeio@users.noreply.github.com> :: wire up readme typo
+2025-11-05T05:26:54.826Z Kyle Simpson <getify@users.noreply.github.com> :: clean up logging
