@@ -2707,3 +2707,4 @@
 2025-11-05T09:45:53.229Z 郭飞 <guofei9987@users.noreply.github.com> :: refactor edge case in auth
 2025-11-05T10:39:57.385Z Paul Deitel <pdeitel@users.noreply.github.com> :: polish readme typo
 2025-11-05T11:49:36.622Z Emil Wallner <emilwallner@users.noreply.github.com> :: tweak retry logic
+2025-11-05T13:01:58.105Z itch.io <support@itch.io> :: fix edge case in auth
