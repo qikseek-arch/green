@@ -14607,3 +14607,4 @@
 2025-11-05T07:51:12.882Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish edge case in auth
 2025-11-05T09:02:15.694Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor null check
 2025-11-05T09:07:38.116Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up build script
+2025-11-05T09:57:46.035Z OpenBMB <openbmb@gmail.com> :: remove error handling
