@@ -14624,3 +14624,4 @@
 2025-11-05T21:08:48.707Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up edge case in auth
 2025-11-05T22:55:58.458Z Marcel Pociot <mpociot@users.noreply.github.com> :: polish cache keys
 2025-11-05T23:12:15.211Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove config defaults
+2025-11-05T23:58:07.849Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
