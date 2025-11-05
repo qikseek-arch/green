@@ -2709,3 +2709,4 @@
 2025-11-05T11:49:36.622Z Emil Wallner <emilwallner@users.noreply.github.com> :: tweak retry logic
 2025-11-05T13:01:58.105Z itch.io <support@itch.io> :: fix edge case in auth
 2025-11-05T14:48:43.419Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add error handling
+2025-11-05T15:20:43.881Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: remove build script
