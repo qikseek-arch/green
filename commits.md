@@ -4952,3 +4952,4 @@
 2025-11-05T21:07:43.575Z Duy Tran <khanhduytran0@users.noreply.github.com> :: fix dead code
 2025-11-05T21:49:57.123Z Barret李靖 <barretlee@users.noreply.github.com> :: update config defaults
 2025-11-05T22:00:30.174Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor error handling
+2025-11-05T22:14:49.365Z Adam Łucek <ALucek@users.noreply.github.com> :: add retry logic
