@@ -4947,3 +4947,4 @@
 2025-11-05T17:29:44.001Z David Fowler <davidfowl@users.noreply.github.com> :: update the CI matrix
 2025-11-05T18:55:04.952Z Daniel Eden <daneden@users.noreply.github.com> :: remove build script
 2025-11-05T19:07:00.312Z Damian Dulisz <shentao@users.noreply.github.com> :: fix logging
+2025-11-05T19:18:45.358Z Ben Hamner <benhamner@users.noreply.github.com> :: remove retry logic
