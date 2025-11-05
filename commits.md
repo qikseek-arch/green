@@ -14605,3 +14605,4 @@
 2025-11-05T06:08:04.249Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add logging
 2025-11-05T07:08:23.508Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update flaky test
 2025-11-05T07:51:12.882Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish edge case in auth
+2025-11-05T09:02:15.694Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor null check
