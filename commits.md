@@ -14620,3 +14620,4 @@
 2025-11-05T18:14:13.357Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak dead code
 2025-11-05T18:22:01.671Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix null check
 2025-11-05T19:42:05.015Z Morvan <MorvanZhou@users.noreply.github.com> :: fix readme typo
+2025-11-05T20:21:27.295Z cytopia <cytopia@users.noreply.github.com> :: bump error handling
