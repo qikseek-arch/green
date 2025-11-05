@@ -4946,3 +4946,4 @@
 2025-11-05T16:31:01.740Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add null check
 2025-11-05T17:29:44.001Z David Fowler <davidfowl@users.noreply.github.com> :: update the CI matrix
 2025-11-05T18:55:04.952Z Daniel Eden <daneden@users.noreply.github.com> :: remove build script
+2025-11-05T19:07:00.312Z Damian Dulisz <shentao@users.noreply.github.com> :: fix logging
