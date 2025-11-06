@@ -4967,3 +4967,4 @@
 2025-11-06T05:35:47.902Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor null check
 2025-11-06T06:29:50.175Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up flaky test
 2025-11-06T06:31:06.612Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up the CI matrix
+2025-11-06T08:42:08.468Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove edge case in auth
