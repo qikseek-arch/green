@@ -4956,3 +4956,4 @@
 2025-11-05T23:16:27.055Z Odi <mathdroid@users.noreply.github.com> :: wire up readme typo
 2025-11-06T01:38:46.843Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update readme typo
 2025-11-06T02:26:44.050Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish error handling
+2025-11-06T02:32:46.053Z Adam Bell <b3ll@users.noreply.github.com> :: polish readme typo
