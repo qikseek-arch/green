@@ -14644,3 +14644,4 @@
 2025-11-06T16:21:59.362Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish build script
 2025-11-06T18:03:43.987Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up retry logic
 2025-11-06T18:15:27.744Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up config defaults
+2025-11-06T18:44:10.424Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update the CI matrix
