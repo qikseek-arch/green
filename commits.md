@@ -14638,3 +14638,4 @@
 2025-11-06T11:21:04.826Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up build script
 2025-11-06T12:35:50.136Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump dead code
 2025-11-06T13:12:12.709Z LMSYS <lm-sys@users.noreply.github.com> :: bump null check
+2025-11-06T13:34:39.115Z Collabnix <collabnix@users.noreply.github.com> :: tweak edge case in auth
