@@ -4969,3 +4969,4 @@
 2025-11-06T06:31:06.612Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up the CI matrix
 2025-11-06T08:42:08.468Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove edge case in auth
 2025-11-06T09:51:50.776Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove config defaults
+2025-11-06T10:22:55.568Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix logging
