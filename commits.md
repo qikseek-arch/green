@@ -2744,3 +2744,4 @@
 2025-11-06T15:50:23.883Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: polish cache keys
 2025-11-06T15:55:24.624Z Jonathan <Grafikart@users.noreply.github.com> :: fix config defaults
 2025-11-06T18:27:22.503Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up logging
+2025-11-06T19:57:53.061Z StackBlitz <hello@stackblitz.com> :: fix the parser
