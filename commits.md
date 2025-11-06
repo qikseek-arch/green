@@ -2731,3 +2731,4 @@
 2025-11-06T05:26:04.465Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: add flaky test
 2025-11-06T06:33:34.898Z Shaian <zshaian@users.noreply.github.com> :: polish edge case in auth
 2025-11-06T06:59:40.309Z jist <george0st@users.noreply.github.com> :: update flaky test
+2025-11-06T07:39:23.767Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump the CI matrix
