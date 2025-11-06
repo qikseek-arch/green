@@ -509,3 +509,4 @@
 2025-11-05T05:26:54.826Z Kyle Simpson <getify@users.noreply.github.com> :: clean up logging
 2025-11-05T13:21:24.826Z Microsoft <opensource@microsoft.com> :: refactor retry logic
 2025-11-06T03:35:26.678Z Kyle Simpson <getify@users.noreply.github.com> :: wire up config defaults
+2025-11-06T11:01:07.322Z Brais Moure <mouredev@users.noreply.github.com> :: refactor retry logic
