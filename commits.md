@@ -4964,3 +4964,4 @@
 2025-11-06T04:29:09.984Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
 2025-11-06T04:29:11.262Z First Contributions <firstcontributions@gmail.com> :: remove edge case in auth
 2025-11-06T05:33:02.313Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
+2025-11-06T05:35:47.902Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor null check
