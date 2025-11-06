@@ -14628,3 +14628,4 @@
 2025-11-06T00:33:19.083Z Amnezia VPN <support@amnezia.org> :: clean up edge case in auth
 2025-11-06T02:18:46.279Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the parser
 2025-11-06T02:42:51.008Z winterbe <winterbe@users.noreply.github.com> :: add build script
+2025-11-06T04:44:37.917Z BAPPY AHMED <entbappy@users.noreply.github.com> :: polish retry logic
