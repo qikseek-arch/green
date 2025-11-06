@@ -2745,3 +2745,4 @@
 2025-11-06T15:55:24.624Z Jonathan <Grafikart@users.noreply.github.com> :: fix config defaults
 2025-11-06T18:27:22.503Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up logging
 2025-11-06T19:57:53.061Z StackBlitz <hello@stackblitz.com> :: fix the parser
+2025-11-06T20:23:29.427Z sharkeer <sharkeer@users.noreply.github.com> :: bump dependency versions
