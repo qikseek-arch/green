@@ -14626,3 +14626,4 @@
 2025-11-05T23:12:15.211Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove config defaults
 2025-11-05T23:58:07.849Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
 2025-11-06T00:33:19.083Z Amnezia VPN <support@amnezia.org> :: clean up edge case in auth
+2025-11-06T02:18:46.279Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the parser
