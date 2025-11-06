@@ -4972,3 +4972,4 @@
 2025-11-06T10:22:55.568Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix logging
 2025-11-06T13:53:34.999Z Taiko Foundation <info@taiko.xyz> :: refactor dead code
 2025-11-06T14:41:11.796Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove the parser
+2025-11-06T14:59:30.087Z Taiko Foundation <info@taiko.xyz> :: fix retry logic
