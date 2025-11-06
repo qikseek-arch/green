@@ -2727,3 +2727,4 @@
 2025-11-06T02:08:47.904Z PostgreSQL <postgres@users.noreply.github.com> :: add edge case in auth
 2025-11-06T02:21:00.959Z ElevenLabs <developers@elevenlabs.io> :: add logging
 2025-11-06T02:53:30.333Z Steve Gordon <stevejgordon@users.noreply.github.com> :: update retry logic
+2025-11-06T04:09:54.849Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: tweak readme typo
