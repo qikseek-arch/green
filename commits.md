@@ -4970,3 +4970,4 @@
 2025-11-06T08:42:08.468Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove edge case in auth
 2025-11-06T09:51:50.776Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove config defaults
 2025-11-06T10:22:55.568Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix logging
+2025-11-06T13:53:34.999Z Taiko Foundation <info@taiko.xyz> :: refactor dead code
