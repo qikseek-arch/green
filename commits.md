@@ -2722,3 +2722,4 @@
 2025-11-05T23:12:56.177Z Jonathan <Grafikart@users.noreply.github.com> :: polish cache keys
 2025-11-06T00:15:45.195Z LN <ln-dev7@users.noreply.github.com> :: fix readme typo
 2025-11-06T00:19:28.883Z 郭飞 <guofei9987@users.noreply.github.com> :: fix null check
+2025-11-06T01:07:39.730Z TON Connect <ton-connect@users.noreply.github.com> :: clean up error handling
