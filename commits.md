@@ -2724,3 +2724,4 @@
 2025-11-06T00:19:28.883Z 郭飞 <guofei9987@users.noreply.github.com> :: fix null check
 2025-11-06T01:07:39.730Z TON Connect <ton-connect@users.noreply.github.com> :: clean up error handling
 2025-11-06T01:44:16.308Z 陈继军 <android-cjj@users.noreply.github.com> :: clean up error handling
+2025-11-06T02:08:47.904Z PostgreSQL <postgres@users.noreply.github.com> :: add edge case in auth
