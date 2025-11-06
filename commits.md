@@ -2738,3 +2738,4 @@
 2025-11-06T10:02:06.585Z ligi <ligi@users.noreply.github.com> :: wire up retry logic
 2025-11-06T10:47:18.055Z LN <ln-dev7@users.noreply.github.com> :: fix dead code
 2025-11-06T10:50:23.611Z Blue <blueedgetechno@users.noreply.github.com> :: polish flaky test
+2025-11-06T11:34:06.199Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak error handling
