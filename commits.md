@@ -2740,3 +2740,4 @@
 2025-11-06T10:50:23.611Z Blue <blueedgetechno@users.noreply.github.com> :: polish flaky test
 2025-11-06T11:34:06.199Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak error handling
 2025-11-06T12:12:20.252Z z3r0yu <zer0yu@users.noreply.github.com> :: refactor build script
+2025-11-06T12:18:55.370Z LN <ln-dev7@users.noreply.github.com> :: fix config defaults
