@@ -14625,3 +14625,4 @@
 2025-11-05T22:55:58.458Z Marcel Pociot <mpociot@users.noreply.github.com> :: polish cache keys
 2025-11-05T23:12:15.211Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove config defaults
 2025-11-05T23:58:07.849Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
+2025-11-06T00:33:19.083Z Amnezia VPN <support@amnezia.org> :: clean up edge case in auth
