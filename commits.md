@@ -14639,3 +14639,4 @@
 2025-11-06T12:35:50.136Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump dead code
 2025-11-06T13:12:12.709Z LMSYS <lm-sys@users.noreply.github.com> :: bump null check
 2025-11-06T13:34:39.115Z Collabnix <collabnix@users.noreply.github.com> :: tweak edge case in auth
+2025-11-06T14:02:12.940Z Amnezia VPN <support@amnezia.org> :: remove build script
