@@ -86,3 +86,4 @@
 2025-11-05T12:33:01.412Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: fix null check
 2025-11-05T14:55:37.314Z Alex Yang <himself65@users.noreply.github.com> :: update edge case in auth
 2025-11-05T17:15:47.855Z Rob Fuller <mubix@users.noreply.github.com> :: add flaky test
+2025-11-06T04:45:41.932Z 削微寒 <521xueweihan@users.noreply.github.com> :: refactor the CI matrix
