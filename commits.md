@@ -2758,3 +2758,4 @@
 2025-11-07T06:08:41.133Z Andrew Mead <andrewjmead@users.noreply.github.com> :: tweak dead code
 2025-11-07T07:18:24.449Z Vivid Network <vivid.network@outlook.com> :: fix retry logic
 2025-11-07T08:20:52.274Z Andrew Mead <andrewjmead@users.noreply.github.com> :: refactor dependency versions
+2025-11-07T08:28:41.409Z LN <ln-dev7@users.noreply.github.com> :: fix build script
