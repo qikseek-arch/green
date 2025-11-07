@@ -4984,3 +4984,4 @@
 2025-11-07T03:06:48.869Z Keith Smiley <keith@users.noreply.github.com> :: polish the parser
 2025-11-07T05:54:06.627Z markqvist <markqvist@users.noreply.github.com> :: fix error handling
 2025-11-07T07:14:15.172Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump dependency versions
+2025-11-07T07:42:34.503Z First Contributions <firstcontributions@gmail.com> :: refactor config defaults
