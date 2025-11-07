@@ -14650,3 +14650,4 @@
 2025-11-06T23:17:28.592Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak null check
 2025-11-07T00:30:42.591Z LMSYS <lm-sys@users.noreply.github.com> :: update error handling
 2025-11-07T01:36:49.097Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
+2025-11-07T01:41:33.544Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish the CI matrix
