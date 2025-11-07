@@ -2771,3 +2771,4 @@
 2025-11-07T17:27:12.006Z Leap 离谱 <byoungd@users.noreply.github.com> :: update null check
 2025-11-07T18:05:25.148Z jist <george0st@users.noreply.github.com> :: tweak dead code
 2025-11-07T19:48:31.429Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up dependency versions
+2025-11-07T20:43:33.648Z 郭飞 <guofei9987@users.noreply.github.com> :: tweak readme typo
