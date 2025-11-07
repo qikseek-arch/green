@@ -2765,3 +2765,4 @@
 2025-11-07T13:14:24.487Z ElevenLabs <developers@elevenlabs.io> :: polish null check
 2025-11-07T13:30:28.092Z LN <ln-dev7@users.noreply.github.com> :: update config defaults
 2025-11-07T13:38:36.584Z jist <george0st@users.noreply.github.com> :: polish flaky test
+2025-11-07T13:56:55.734Z ligi <ligi@users.noreply.github.com> :: tweak the CI matrix
