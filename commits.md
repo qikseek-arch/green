@@ -4992,3 +4992,4 @@
 2025-11-07T13:17:10.009Z Sachin Soni <techiesms@users.noreply.github.com> :: add edge case in auth
 2025-11-07T15:04:07.051Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up error handling
 2025-11-07T15:41:18.376Z BBC <bbc@users.noreply.github.com> :: polish retry logic
+2025-11-07T16:25:21.818Z Keith Smiley <keith@users.noreply.github.com> :: clean up build script
