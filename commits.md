@@ -14659,3 +14659,4 @@
 2025-11-07T04:09:18.316Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix cache keys
 2025-11-07T04:18:30.203Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor edge case in auth
 2025-11-07T04:31:11.601Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up config defaults
+2025-11-07T04:47:32.932Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor error handling
