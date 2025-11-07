@@ -4980,3 +4980,4 @@
 2025-11-06T21:48:59.013Z vb <Vaibhavs10@users.noreply.github.com> :: add flaky test
 2025-11-06T22:46:39.723Z heyli <lcxfs1991@users.noreply.github.com> :: polish cache keys
 2025-11-06T23:56:41.056Z Daniel Eden <daneden@users.noreply.github.com> :: fix edge case in auth
+2025-11-07T00:30:59.680Z Sachin Soni <techiesms@users.noreply.github.com> :: fix error handling
