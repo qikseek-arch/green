@@ -14669,3 +14669,4 @@
 2025-11-07T08:49:04.527Z Collabnix <collabnix@users.noreply.github.com> :: update build script
 2025-11-07T11:37:16.233Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add config defaults
 2025-11-07T12:01:46.413Z Jordan Harband <ljharb@users.noreply.github.com> :: remove flaky test
+2025-11-07T13:21:03.536Z Tom Dale <tomdale@users.noreply.github.com> :: bump config defaults
