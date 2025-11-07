@@ -2762,3 +2762,4 @@
 2025-11-07T08:45:22.763Z Canonical <canonical@users.noreply.github.com> :: add edge case in auth
 2025-11-07T08:51:18.517Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add edge case in auth
 2025-11-07T08:58:43.697Z 陈继军 <android-cjj@users.noreply.github.com> :: remove cache keys
+2025-11-07T13:14:24.487Z ElevenLabs <developers@elevenlabs.io> :: polish null check
