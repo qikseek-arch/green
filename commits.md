@@ -14652,3 +14652,4 @@
 2025-11-07T01:36:49.097Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
 2025-11-07T01:41:33.544Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish the CI matrix
 2025-11-07T02:21:11.868Z Brian Holt <btholt@users.noreply.github.com> :: fix the parser
+2025-11-07T02:27:01.241Z Lovell Fuller <lovell@users.noreply.github.com> :: polish dependency versions
