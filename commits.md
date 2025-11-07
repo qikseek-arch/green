@@ -4982,3 +4982,4 @@
 2025-11-06T23:56:41.056Z Daniel Eden <daneden@users.noreply.github.com> :: fix edge case in auth
 2025-11-07T00:30:59.680Z Sachin Soni <techiesms@users.noreply.github.com> :: fix error handling
 2025-11-07T03:06:48.869Z Keith Smiley <keith@users.noreply.github.com> :: polish the parser
+2025-11-07T05:54:06.627Z markqvist <markqvist@users.noreply.github.com> :: fix error handling
