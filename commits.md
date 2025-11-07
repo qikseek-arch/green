@@ -4986,3 +4986,4 @@
 2025-11-07T07:14:15.172Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump dependency versions
 2025-11-07T07:42:34.503Z First Contributions <firstcontributions@gmail.com> :: refactor config defaults
 2025-11-07T07:43:50.032Z BBC <bbc@users.noreply.github.com> :: bump cache keys
+2025-11-07T11:03:32.350Z Bert Belder <piscisaureus@users.noreply.github.com> :: tweak edge case in auth
