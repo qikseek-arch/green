@@ -14648,3 +14648,4 @@
 2025-11-06T20:25:51.544Z John Schulman <joschu@users.noreply.github.com> :: polish edge case in auth
 2025-11-06T20:42:19.861Z Alex Teichman <teichman@users.noreply.github.com> :: tweak null check
 2025-11-06T23:17:28.592Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak null check
+2025-11-07T00:30:42.591Z LMSYS <lm-sys@users.noreply.github.com> :: update error handling
