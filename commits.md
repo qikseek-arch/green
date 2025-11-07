@@ -2749,3 +2749,4 @@
 2025-11-06T20:52:25.960Z TON Connect <ton-connect@users.noreply.github.com> :: add cache keys
 2025-11-06T22:34:22.428Z Andrew Mead <andrewjmead@users.noreply.github.com> :: update flaky test
 2025-11-06T23:34:59.006Z Aditya Shakya <adi1090x@users.noreply.github.com> :: fix cache keys
+2025-11-07T02:16:19.249Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: polish dependency versions
