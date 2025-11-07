@@ -14665,3 +14665,4 @@
 2025-11-07T05:46:22.416Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: polish flaky test
 2025-11-07T05:55:33.754Z imput <hello@imput.net> :: refactor dead code
 2025-11-07T05:56:39.204Z Dove Letter <skydoves2@gmail.com> :: clean up build script
+2025-11-07T06:04:09.146Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove null check
