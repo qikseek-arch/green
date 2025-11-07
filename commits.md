@@ -14654,3 +14654,4 @@
 2025-11-07T02:21:11.868Z Brian Holt <btholt@users.noreply.github.com> :: fix the parser
 2025-11-07T02:27:01.241Z Lovell Fuller <lovell@users.noreply.github.com> :: polish dependency versions
 2025-11-07T03:12:39.917Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak edge case in auth
+2025-11-07T03:45:56.791Z Lovell Fuller <lovell@users.noreply.github.com> :: update null check
