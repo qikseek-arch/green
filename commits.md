@@ -5000,3 +5000,4 @@
 2025-11-08T04:49:35.424Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish cache keys
 2025-11-08T07:14:34.518Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: clean up config defaults
 2025-11-08T08:52:27.217Z vb <Vaibhavs10@users.noreply.github.com> :: polish logging
+2025-11-08T09:07:31.058Z Adam Łucek <ALucek@users.noreply.github.com> :: update retry logic
