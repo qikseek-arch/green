@@ -14695,3 +14695,4 @@
 2025-11-08T18:01:52.070Z Andreas Kling <awesomekling@users.noreply.github.com> :: add null check
 2025-11-08T19:22:06.289Z Snowflake Labs <opensource@snowflake.com> :: polish flaky test
 2025-11-08T20:27:48.030Z Scott Chacon <schacon@users.noreply.github.com> :: add dead code
+2025-11-08T20:33:42.934Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove logging
