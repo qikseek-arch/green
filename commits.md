@@ -2785,3 +2785,4 @@
 2025-11-08T09:01:35.148Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: fix logging
 2025-11-08T12:57:11.724Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: polish edge case in auth
 2025-11-08T14:27:51.826Z Jonathan <Grafikart@users.noreply.github.com> :: tweak error handling
+2025-11-08T16:00:34.684Z 郭飞 <guofei9987@users.noreply.github.com> :: fix cache keys
