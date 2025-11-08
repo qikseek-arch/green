@@ -14697,3 +14697,4 @@
 2025-11-08T20:27:48.030Z Scott Chacon <schacon@users.noreply.github.com> :: add dead code
 2025-11-08T20:33:42.934Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove logging
 2025-11-08T20:43:25.218Z DefTruth <DefTruth@users.noreply.github.com> :: remove build script
+2025-11-08T22:57:53.471Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: clean up null check
