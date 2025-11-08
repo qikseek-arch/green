@@ -5018,3 +5018,4 @@
 2025-11-08T18:44:49.192Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up the CI matrix
 2025-11-08T19:14:46.402Z Shubs <infosec-au@users.noreply.github.com> :: add logging
 2025-11-08T19:15:28.229Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add logging
+2025-11-08T19:16:10.454Z md-5 <md-5@users.noreply.github.com> :: wire up config defaults
