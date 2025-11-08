@@ -5006,3 +5006,4 @@
 2025-11-08T12:31:47.821Z Rei <chloerei@users.noreply.github.com> :: remove error handling
 2025-11-08T13:45:11.297Z ㅤxander <vampirist@users.noreply.github.com> :: fix build script
 2025-11-08T13:47:31.619Z AI4Bhārat <opensource@ai4bharat.org> :: clean up edge case in auth
+2025-11-08T14:14:37.019Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
