@@ -2791,3 +2791,4 @@
 2025-11-08T19:51:40.665Z Gradio <admin@gradio.app> :: refactor the CI matrix
 2025-11-08T21:02:19.274Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump null check
 2025-11-08T21:28:15.961Z Thomas Wolf <thomwolf@users.noreply.github.com> :: tweak flaky test
+2025-11-08T21:40:55.284Z John Blackbourn <johnbillion@users.noreply.github.com> :: clean up dependency versions
