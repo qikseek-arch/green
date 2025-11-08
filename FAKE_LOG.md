@@ -308,3 +308,4 @@
 2025-11-02T05:29:50.041Z silly-cactus_io <silly-cactus_io@fake.invalid> :: refactor config defaults
 2025-11-04T10:54:54.214Z Solomon Hykes <solomon.hykes@fake.invalid> :: bump cache keys | Co-authored-by: Gustavo Guanabara <gustavoguanabara@users.noreply.github.com>
 2025-11-07T04:07:28.717Z hamster_sleepyhq <hamster_sleepyhq@fake.invalid> :: refactor dependency versions | Co-authored-by: Epic Games <EpicGames@users.noreply.github.com>
+2025-11-08T00:16:33.492Z TJ Holowaychuk <tj.holowaychuk@fake.invalid> :: polish build script
