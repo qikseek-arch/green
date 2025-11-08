@@ -5010,3 +5010,4 @@
 2025-11-08T14:19:45.845Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix logging
 2025-11-08T15:18:28.391Z Barret李靖 <barretlee@users.noreply.github.com> :: fix error handling
 2025-11-08T16:18:43.601Z Damian Dulisz <shentao@users.noreply.github.com> :: bump readme typo
+2025-11-08T16:51:36.402Z SouJunior <wouerner@soujunior.tech> :: clean up dependency versions
