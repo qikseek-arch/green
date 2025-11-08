@@ -5008,3 +5008,4 @@
 2025-11-08T13:47:31.619Z AI4Bhārat <opensource@ai4bharat.org> :: clean up edge case in auth
 2025-11-08T14:14:37.019Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
 2025-11-08T14:19:45.845Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix logging
+2025-11-08T15:18:28.391Z Barret李靖 <barretlee@users.noreply.github.com> :: fix error handling
