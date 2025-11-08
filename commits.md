@@ -14691,3 +14691,4 @@
 2025-11-08T14:37:46.791Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor cache keys
 2025-11-08T16:16:58.291Z Damian Gryski <dgryski@users.noreply.github.com> :: polish dead code
 2025-11-08T17:03:48.474Z LocalSend <localsend@users.noreply.github.com> :: tweak build script
+2025-11-08T17:48:32.454Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up error handling
