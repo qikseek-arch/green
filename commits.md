@@ -14683,3 +14683,4 @@
 2025-11-08T03:51:07.505Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
 2025-11-08T03:51:14.063Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
 2025-11-08T06:02:34.121Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor the parser
+2025-11-08T06:45:07.578Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove retry logic
