@@ -90,3 +90,4 @@
 2025-11-06T04:54:36.820Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak dependency versions
 2025-11-07T01:33:26.344Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: polish flaky test
 2025-11-07T16:29:02.881Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor edge case in auth
+2025-11-08T01:25:08.807Z KDE GitHub Mirror <kde-community@kde.org> :: fix dependency versions
