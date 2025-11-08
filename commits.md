@@ -94,3 +94,4 @@
 2025-11-08T07:40:08.089Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: bump flaky test
 2025-11-08T10:00:44.166Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: remove cache keys
 2025-11-08T11:33:02.070Z HashLips <HashLips@users.noreply.github.com> :: bump edge case in auth
+2025-11-08T11:58:16.695Z Colt Steele <Colt@users.noreply.github.com> :: wire up the CI matrix
