@@ -14694,3 +14694,4 @@
 2025-11-08T17:48:32.454Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up error handling
 2025-11-08T18:01:52.070Z Andreas Kling <awesomekling@users.noreply.github.com> :: add null check
 2025-11-08T19:22:06.289Z Snowflake Labs <opensource@snowflake.com> :: polish flaky test
+2025-11-08T20:27:48.030Z Scott Chacon <schacon@users.noreply.github.com> :: add dead code
