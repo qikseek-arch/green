@@ -2783,3 +2783,4 @@
 2025-11-08T07:26:07.328Z Dan Gohman <sunfishcode@users.noreply.github.com> :: update the parser
 2025-11-08T08:02:23.817Z codefollower <codefollower@users.noreply.github.com> :: refactor retry logic
 2025-11-08T09:01:35.148Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: fix logging
+2025-11-08T12:57:11.724Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: polish edge case in auth
