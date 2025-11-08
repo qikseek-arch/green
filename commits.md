@@ -5022,3 +5022,4 @@
 2025-11-08T19:50:10.525Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor flaky test
 2025-11-08T20:33:12.549Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish error handling
 2025-11-08T21:27:50.024Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up null check
+2025-11-08T22:34:08.328Z AI4Bhārat <opensource@ai4bharat.org> :: add error handling
