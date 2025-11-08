@@ -5004,3 +5004,4 @@
 2025-11-08T12:15:40.523Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump flaky test
 2025-11-08T12:17:56.390Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up logging
 2025-11-08T12:31:47.821Z Rei <chloerei@users.noreply.github.com> :: remove error handling
+2025-11-08T13:45:11.297Z ㅤxander <vampirist@users.noreply.github.com> :: fix build script
