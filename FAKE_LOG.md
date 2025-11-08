@@ -626,3 +626,4 @@
 2025-10-30T09:08:22.134Z 稚晖 <peng-zhihui@users.noreply.github.com> :: bump logging
 2025-11-01T01:54:12.460Z Andrej <karpathy@users.noreply.github.com> :: tweak error handling
 2025-11-07T21:46:48.939Z Python <python@users.noreply.github.com> :: add logging
+2025-11-08T03:05:47.088Z Jadi <jadijadi@users.noreply.github.com> :: wire up error handling
