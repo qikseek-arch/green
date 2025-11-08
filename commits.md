@@ -14681,3 +14681,4 @@
 2025-11-08T02:53:26.758Z imput <hello@imput.net> :: refactor the parser
 2025-11-08T02:53:49.259Z cytopia <cytopia@users.noreply.github.com> :: fix the CI matrix
 2025-11-08T03:51:07.505Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
+2025-11-08T03:51:14.063Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
