@@ -14682,3 +14682,4 @@
 2025-11-08T02:53:49.259Z cytopia <cytopia@users.noreply.github.com> :: fix the CI matrix
 2025-11-08T03:51:07.505Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
 2025-11-08T03:51:14.063Z Scott Chacon <schacon@users.noreply.github.com> :: wire up retry logic
+2025-11-08T06:02:34.121Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor the parser
