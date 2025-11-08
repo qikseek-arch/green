@@ -97,3 +97,4 @@
 2025-11-08T11:58:16.695Z Colt Steele <Colt@users.noreply.github.com> :: wire up the CI matrix
 2025-11-08T15:12:05.619Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: refactor dead code
 2025-11-08T15:31:37.876Z Leon AI <louis@getleon.ai> :: clean up cache keys
+2025-11-08T19:12:29.121Z xer0dayz <1N3@users.noreply.github.com> :: polish readme typo
