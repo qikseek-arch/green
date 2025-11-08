@@ -14686,3 +14686,4 @@
 2025-11-08T06:45:07.578Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove retry logic
 2025-11-08T10:07:58.592Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: update readme typo
 2025-11-08T11:17:13.899Z Morvan <MorvanZhou@users.noreply.github.com> :: clean up edge case in auth
+2025-11-08T11:54:48.531Z Mr L <Soldy@users.noreply.github.com> :: tweak readme typo
