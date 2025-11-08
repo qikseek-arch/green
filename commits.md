@@ -2780,3 +2780,4 @@
 2025-11-08T04:25:28.522Z 0chencc <0Chencc@users.noreply.github.com> :: refactor readme typo
 2025-11-08T05:10:01.337Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: refactor cache keys
 2025-11-08T06:08:32.872Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: refactor cache keys
+2025-11-08T07:26:07.328Z Dan Gohman <sunfishcode@users.noreply.github.com> :: update the parser
