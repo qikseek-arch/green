@@ -5034,3 +5034,4 @@
 2025-11-09T05:24:24.568Z Adam Bell <b3ll@users.noreply.github.com> :: wire up flaky test
 2025-11-09T06:09:32.596Z Adam Bell <b3ll@users.noreply.github.com> :: bump flaky test
 2025-11-09T06:34:42.419Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up logging
+2025-11-09T07:26:40.669Z Keith Smiley <keith@users.noreply.github.com> :: refactor build script
