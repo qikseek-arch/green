@@ -14703,3 +14703,4 @@
 2025-11-09T00:37:05.352Z OpenBSD <openbsd@users.noreply.github.com> :: polish error handling
 2025-11-09T00:59:47.498Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up dependency versions
 2025-11-09T01:06:25.227Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove null check
+2025-11-09T02:31:46.679Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor retry logic
