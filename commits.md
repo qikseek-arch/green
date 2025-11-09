@@ -5051,3 +5051,4 @@
 2025-11-09T20:52:44.859Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak null check
 2025-11-09T22:42:48.910Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update dead code
 2025-11-09T23:04:53.453Z Taiko Foundation <info@taiko.xyz> :: wire up dependency versions
+2025-11-09T23:32:00.894Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove null check
