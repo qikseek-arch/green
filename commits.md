@@ -14713,3 +14713,4 @@
 2025-11-09T10:46:20.981Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: update readme typo
 2025-11-09T12:17:44.272Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix config defaults
 2025-11-09T14:27:05.505Z Sky Ao <skyao@users.noreply.github.com> :: bump cache keys
+2025-11-09T16:05:03.433Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update null check
