@@ -5026,3 +5026,4 @@
 2025-11-08T22:48:55.415Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add null check
 2025-11-09T00:54:26.268Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove build script
 2025-11-09T02:11:40.158Z Adam Bell <b3ll@users.noreply.github.com> :: add the parser
+2025-11-09T03:11:47.267Z ring04h <ring04h@users.noreply.github.com> :: update null check
