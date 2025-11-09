@@ -5033,3 +5033,4 @@
 2025-11-09T04:53:23.059Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up build script
 2025-11-09T05:24:24.568Z Adam Bell <b3ll@users.noreply.github.com> :: wire up flaky test
 2025-11-09T06:09:32.596Z Adam Bell <b3ll@users.noreply.github.com> :: bump flaky test
+2025-11-09T06:34:42.419Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up logging
