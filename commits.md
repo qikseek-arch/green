@@ -2810,3 +2810,4 @@
 2025-11-09T19:40:57.927Z Vitor Freitas <vitorfs@users.noreply.github.com> :: refactor dead code
 2025-11-09T20:41:45.771Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove dead code
 2025-11-09T20:51:31.701Z 郭飞 <guofei9987@users.noreply.github.com> :: clean up the CI matrix
+2025-11-09T22:25:45.656Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove error handling
