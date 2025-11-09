@@ -100,3 +100,4 @@
 2025-11-08T19:12:29.121Z xer0dayz <1N3@users.noreply.github.com> :: polish readme typo
 2025-11-08T21:09:20.190Z Sylvain Gugger <sgugger@users.noreply.github.com> :: polish readme typo
 2025-11-09T01:22:36.283Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: update dead code
+2025-11-09T01:47:27.470Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add logging
