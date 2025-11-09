@@ -629,3 +629,4 @@
 2025-11-08T03:05:47.088Z Jadi <jadijadi@users.noreply.github.com> :: wire up error handling
 2025-11-08T18:45:35.307Z Andrej Marinchenko <BEPb@users.noreply.github.com> :: refactor cache keys
 2025-11-09T12:14:19.153Z Programming Hero <ProgrammingHero1@users.noreply.github.com> :: update readme typo
+2025-11-09T12:29:55.260Z Andrej <karpathy@users.noreply.github.com> :: refactor readme typo
