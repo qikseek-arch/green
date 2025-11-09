@@ -14701,3 +14701,4 @@
 2025-11-09T00:14:04.577Z cytopia <cytopia@users.noreply.github.com> :: bump config defaults
 2025-11-09T00:36:23.774Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up dependency versions
 2025-11-09T00:37:05.352Z OpenBSD <openbsd@users.noreply.github.com> :: polish error handling
+2025-11-09T00:59:47.498Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up dependency versions
