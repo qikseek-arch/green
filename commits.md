@@ -14718,3 +14718,4 @@
 2025-11-09T17:43:26.716Z Jordan Harband <ljharb@users.noreply.github.com> :: remove config defaults
 2025-11-09T18:26:23.525Z Chetan Jogi <voidChetan@users.noreply.github.com> :: add null check
 2025-11-09T18:30:13.918Z Boshen <Boshen@users.noreply.github.com> :: add the CI matrix
+2025-11-09T20:29:14.520Z 1 <insoxin@users.noreply.github.com> :: refactor dependency versions
