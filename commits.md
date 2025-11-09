@@ -14710,3 +14710,4 @@
 2025-11-09T07:24:04.528Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up dead code
 2025-11-09T10:14:30.995Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up flaky test
 2025-11-09T10:34:58.123Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish null check
+2025-11-09T10:46:20.981Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: update readme typo
