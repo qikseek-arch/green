@@ -5042,3 +5042,4 @@
 2025-11-09T11:19:35.266Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak null check
 2025-11-09T11:47:16.108Z markqvist <markqvist@users.noreply.github.com> :: refactor config defaults
 2025-11-09T15:11:04.052Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak config defaults
+2025-11-09T15:14:12.552Z Sadık TURAN <sadikturan@users.noreply.github.com> :: update config defaults
