@@ -5040,3 +5040,4 @@
 2025-11-09T10:22:24.685Z Adam Bell <b3ll@users.noreply.github.com> :: tweak error handling
 2025-11-09T10:48:37.247Z David Clark <nullptrException100@users.noreply.github.com> :: polish edge case in auth
 2025-11-09T11:19:35.266Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak null check
+2025-11-09T11:47:16.108Z markqvist <markqvist@users.noreply.github.com> :: refactor config defaults
