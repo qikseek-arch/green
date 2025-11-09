@@ -5046,3 +5046,4 @@
 2025-11-09T15:43:01.709Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up readme typo
 2025-11-09T16:31:06.019Z Sachin Soni <techiesms@users.noreply.github.com> :: update the parser
 2025-11-09T16:36:49.058Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: bump edge case in auth
+2025-11-09T18:28:40.888Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up build script
