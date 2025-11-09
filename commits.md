@@ -14700,3 +14700,4 @@
 2025-11-08T22:57:53.471Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: clean up null check
 2025-11-09T00:14:04.577Z cytopia <cytopia@users.noreply.github.com> :: bump config defaults
 2025-11-09T00:36:23.774Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up dependency versions
+2025-11-09T00:37:05.352Z OpenBSD <openbsd@users.noreply.github.com> :: polish error handling
