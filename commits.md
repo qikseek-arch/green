@@ -2811,3 +2811,4 @@
 2025-11-09T20:41:45.771Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove dead code
 2025-11-09T20:51:31.701Z 郭飞 <guofei9987@users.noreply.github.com> :: clean up the CI matrix
 2025-11-09T22:25:45.656Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove error handling
+2025-11-09T23:03:00.814Z Nik Graf <nikgraf@users.noreply.github.com> :: add readme typo
