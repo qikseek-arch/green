@@ -2802,3 +2802,4 @@
 2025-11-09T09:15:01.620Z Tuba Khan <tubakhxn@users.noreply.github.com> :: clean up the parser
 2025-11-09T10:34:49.037Z Gradio <admin@gradio.app> :: tweak cache keys
 2025-11-09T12:09:00.641Z z3r0yu <zer0yu@users.noreply.github.com> :: clean up cache keys
+2025-11-09T12:17:01.382Z Dan Gohman <sunfishcode@users.noreply.github.com> :: wire up dependency versions
