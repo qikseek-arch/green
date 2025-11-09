@@ -14715,3 +14715,4 @@
 2025-11-09T14:27:05.505Z Sky Ao <skyao@users.noreply.github.com> :: bump cache keys
 2025-11-09T16:05:03.433Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update null check
 2025-11-09T16:35:49.172Z Odi <mathdroid@users.noreply.github.com> :: update retry logic
+2025-11-09T17:43:26.716Z Jordan Harband <ljharb@users.noreply.github.com> :: remove config defaults
