@@ -14733,3 +14733,4 @@
 2025-11-10T05:53:55.715Z Yiming Cui <ymcui@users.noreply.github.com> :: add the parser
 2025-11-10T06:40:30.271Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish dependency versions
 2025-11-10T07:27:33.471Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: add the parser
+2025-11-10T07:43:07.888Z Google Fonts <googlefonts@users.noreply.github.com> :: fix null check
