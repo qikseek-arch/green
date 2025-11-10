@@ -5062,3 +5062,4 @@
 2025-11-10T06:22:13.329Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add config defaults
 2025-11-10T06:55:30.236Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove readme typo
 2025-11-10T07:29:25.178Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor error handling
+2025-11-10T09:04:57.540Z Adam Wathan <adamwathan@users.noreply.github.com> :: clean up the CI matrix
