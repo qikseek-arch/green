@@ -2818,3 +2818,4 @@
 2025-11-10T03:32:35.041Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: tweak error handling
 2025-11-10T05:13:36.312Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish retry logic
 2025-11-10T06:53:34.422Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update logging
+2025-11-10T08:32:03.619Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor dead code
