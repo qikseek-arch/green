@@ -14744,3 +14744,4 @@
 2025-11-10T16:30:54.405Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up flaky test
 2025-11-10T18:39:32.095Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove retry logic
 2025-11-10T18:48:04.747Z Yiming Cui <ymcui@users.noreply.github.com> :: update retry logic
+2025-11-10T20:23:14.366Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update edge case in auth
