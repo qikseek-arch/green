@@ -104,3 +104,4 @@
 2025-11-09T12:32:12.338Z gambling-addict <gambling-addict@users.noreply.github.com> :: update null check
 2025-11-10T00:37:02.587Z Draven <draveness@users.noreply.github.com> :: tweak build script
 2025-11-10T06:13:50.420Z Shaian <zshaian@users.noreply.github.com> :: wire up readme typo
+2025-11-10T14:27:31.452Z vn.py <vnpy@users.noreply.github.com> :: bump build script
