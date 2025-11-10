@@ -14735,3 +14735,4 @@
 2025-11-10T07:27:33.471Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: add the parser
 2025-11-10T07:43:07.888Z Google Fonts <googlefonts@users.noreply.github.com> :: fix null check
 2025-11-10T07:56:14.481Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
+2025-11-10T08:05:35.692Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak logging
