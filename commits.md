@@ -5068,3 +5068,4 @@
 2025-11-10T12:38:27.943Z Bytedance Inc. <bytedance@users.noreply.github.com> :: clean up dependency versions
 2025-11-10T13:52:40.721Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak readme typo
 2025-11-10T15:13:56.945Z heyli <lcxfs1991@users.noreply.github.com> :: add build script
+2025-11-10T15:26:49.311Z Ryan Bigg <radar@users.noreply.github.com> :: wire up edge case in auth
