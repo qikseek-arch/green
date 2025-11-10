@@ -14726,3 +14726,4 @@
 2025-11-10T03:27:59.976Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove config defaults
 2025-11-10T04:06:07.354Z 1 <insoxin@users.noreply.github.com> :: refactor config defaults
 2025-11-10T04:10:44.521Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
+2025-11-10T04:16:13.080Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: update dependency versions
