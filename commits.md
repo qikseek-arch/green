@@ -14747,3 +14747,4 @@
 2025-11-10T20:23:14.366Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update edge case in auth
 2025-11-10T20:25:10.121Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish the parser
 2025-11-10T20:25:10.697Z Tom Dale <tomdale@users.noreply.github.com> :: polish the CI matrix
+2025-11-10T23:02:33.873Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove null check
