@@ -5074,3 +5074,4 @@
 2025-11-10T18:54:29.895Z qiye <qiyeboy@users.noreply.github.com> :: add the parser
 2025-11-10T21:06:37.040Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the parser
 2025-11-10T21:48:53.395Z Getgems <getgems-io@users.noreply.github.com> :: tweak logging
+2025-11-10T23:06:03.667Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up retry logic
