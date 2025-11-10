@@ -511,3 +511,4 @@
 2025-11-06T03:35:26.678Z Kyle Simpson <getify@users.noreply.github.com> :: wire up config defaults
 2025-11-06T11:01:07.322Z Brais Moure <mouredev@users.noreply.github.com> :: refactor retry logic
 2025-11-07T01:33:55.376Z Visual Studio Code <Visual-Studio-Code@users.noreply.github.com> :: fix cache keys
+2025-11-10T22:11:42.262Z Andrej <karpathy@users.noreply.github.com> :: refactor config defaults
