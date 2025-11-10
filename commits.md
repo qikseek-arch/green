@@ -5055,3 +5055,4 @@
 2025-11-10T00:16:47.822Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up error handling
 2025-11-10T01:08:16.487Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up readme typo
 2025-11-10T01:33:31.962Z markqvist <markqvist@users.noreply.github.com> :: bump the parser
+2025-11-10T02:06:00.131Z Getgems <getgems-io@users.noreply.github.com> :: fix null check
