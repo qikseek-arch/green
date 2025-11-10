@@ -2823,3 +2823,4 @@
 2025-11-10T10:53:39.549Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: wire up config defaults
 2025-11-10T13:13:20.232Z Fabien Potencier <fabpot@users.noreply.github.com> :: clean up build script
 2025-11-10T14:07:21.770Z Kenney <KenneyNL@users.noreply.github.com> :: bump the parser
+2025-11-10T14:55:40.412Z Owen Gong <phith0n@users.noreply.github.com> :: polish config defaults
