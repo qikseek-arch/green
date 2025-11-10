@@ -5067,3 +5067,4 @@
 2025-11-10T10:14:46.208Z ring04h <ring04h@users.noreply.github.com> :: add the CI matrix
 2025-11-10T12:38:27.943Z Bytedance Inc. <bytedance@users.noreply.github.com> :: clean up dependency versions
 2025-11-10T13:52:40.721Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak readme typo
+2025-11-10T15:13:56.945Z heyli <lcxfs1991@users.noreply.github.com> :: add build script
