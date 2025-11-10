@@ -2815,3 +2815,4 @@
 2025-11-10T00:12:31.593Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: clean up config defaults
 2025-11-10T01:13:35.278Z Jonathan <Grafikart@users.noreply.github.com> :: update retry logic
 2025-11-10T01:57:10.210Z Lei Mao <leimao@users.noreply.github.com> :: clean up error handling
+2025-11-10T03:32:35.041Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: tweak error handling
