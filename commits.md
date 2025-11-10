@@ -2826,3 +2826,4 @@
 2025-11-10T14:55:40.412Z Owen Gong <phith0n@users.noreply.github.com> :: polish config defaults
 2025-11-10T17:29:09.406Z Beau Carnes <beaucarnes@users.noreply.github.com> :: tweak dependency versions
 2025-11-10T19:58:36.091Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: remove readme typo
+2025-11-10T20:27:02.107Z TON Connect <ton-connect@users.noreply.github.com> :: clean up retry logic
