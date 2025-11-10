@@ -14731,3 +14731,4 @@
 2025-11-10T04:57:31.030Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up readme typo
 2025-11-10T05:30:43.730Z Dove Letter <skydoves2@gmail.com> :: refactor the parser
 2025-11-10T05:53:55.715Z Yiming Cui <ymcui@users.noreply.github.com> :: add the parser
+2025-11-10T06:40:30.271Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: polish dependency versions
