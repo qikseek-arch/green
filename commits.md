@@ -14720,3 +14720,4 @@
 2025-11-09T18:30:13.918Z Boshen <Boshen@users.noreply.github.com> :: add the CI matrix
 2025-11-09T20:29:14.520Z 1 <insoxin@users.noreply.github.com> :: refactor dependency versions
 2025-11-09T22:58:58.501Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak logging
+2025-11-10T00:48:59.201Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix dependency versions
