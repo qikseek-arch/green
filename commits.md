@@ -14728,3 +14728,4 @@
 2025-11-10T04:10:44.521Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
 2025-11-10T04:16:13.080Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: update dependency versions
 2025-11-10T04:29:09.043Z rxi <rxi@users.noreply.github.com> :: remove cache keys
+2025-11-10T04:57:31.030Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up readme typo
