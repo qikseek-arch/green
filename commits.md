@@ -14722,3 +14722,4 @@
 2025-11-09T22:58:58.501Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak logging
 2025-11-10T00:48:59.201Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix dependency versions
 2025-11-10T01:17:12.060Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak logging
+2025-11-10T02:01:02.940Z 1 <insoxin@users.noreply.github.com> :: polish config defaults
