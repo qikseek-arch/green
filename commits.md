@@ -5058,3 +5058,4 @@
 2025-11-10T02:06:00.131Z Getgems <getgems-io@users.noreply.github.com> :: fix null check
 2025-11-10T04:21:53.635Z Adam Bell <b3ll@users.noreply.github.com> :: tweak flaky test
 2025-11-10T05:04:34.588Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add the parser
+2025-11-10T05:21:10.523Z Rei <chloerei@users.noreply.github.com> :: update error handling
