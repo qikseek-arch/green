@@ -2821,3 +2821,4 @@
 2025-11-10T08:32:03.619Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor dead code
 2025-11-10T08:53:47.448Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix logging
 2025-11-10T10:53:39.549Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: wire up config defaults
+2025-11-10T13:13:20.232Z Fabien Potencier <fabpot@users.noreply.github.com> :: clean up build script
