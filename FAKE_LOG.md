@@ -403,3 +403,4 @@
 2025-10-21T00:05:56.179Z hollowwizard181 <hollowwizard181@fake.invalid> :: clean up flaky test
 2025-10-27T22:46:26.170Z cactus_lazyxx <cactus_lazyxx@fake.invalid> :: tweak dead code
 2025-11-01T17:19:25.750Z NeonFalcon <neonfalcon@fake.invalid> :: polish build script
+2025-11-10T17:09:58.653Z hollowdaemon999 <hollowdaemon999@fake.invalid> :: tweak null check
