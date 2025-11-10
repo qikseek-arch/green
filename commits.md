@@ -102,3 +102,4 @@
 2025-11-09T01:22:36.283Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: update dead code
 2025-11-09T01:47:27.470Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add logging
 2025-11-09T12:32:12.338Z gambling-addict <gambling-addict@users.noreply.github.com> :: update null check
+2025-11-10T00:37:02.587Z Draven <draveness@users.noreply.github.com> :: tweak build script
