@@ -14764,3 +14764,4 @@
 2025-11-11T15:53:43.952Z winterbe <winterbe@users.noreply.github.com> :: add dead code
 2025-11-11T17:33:51.988Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up retry logic
 2025-11-11T17:36:05.759Z Collabnix <collabnix@users.noreply.github.com> :: update error handling
+2025-11-11T17:52:29.171Z Michael Jackson <mjackson@users.noreply.github.com> :: fix config defaults
