@@ -5084,3 +5084,4 @@
 2025-11-11T02:50:09.487Z Taiko Foundation <info@taiko.xyz> :: add dead code
 2025-11-11T03:05:49.429Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: remove null check
 2025-11-11T05:44:33.624Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish config defaults
+2025-11-11T05:52:38.397Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove retry logic
