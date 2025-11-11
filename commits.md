@@ -5093,3 +5093,4 @@
 2025-11-11T12:45:36.550Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak flaky test
 2025-11-11T14:49:58.067Z LILYGO <LilyGO@users.noreply.github.com> :: fix null check
 2025-11-11T16:19:47.134Z ㅤxander <vampirist@users.noreply.github.com> :: remove null check
+2025-11-11T17:32:34.901Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update logging
