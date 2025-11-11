@@ -14749,3 +14749,4 @@
 2025-11-10T20:25:10.697Z Tom Dale <tomdale@users.noreply.github.com> :: polish the CI matrix
 2025-11-10T23:02:33.873Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove null check
 2025-11-11T00:03:19.769Z 毒奶博主 <limbopro@users.noreply.github.com> :: polish config defaults
+2025-11-11T00:27:07.002Z winterbe <winterbe@users.noreply.github.com> :: remove edge case in auth
