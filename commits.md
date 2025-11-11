@@ -2834,3 +2834,4 @@
 2025-11-11T03:56:37.794Z Andrew Mead <andrewjmead@users.noreply.github.com> :: fix cache keys
 2025-11-11T04:28:42.293Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up build script
 2025-11-11T04:29:04.074Z PostgreSQL <postgres@users.noreply.github.com> :: refactor dependency versions
+2025-11-11T06:16:13.234Z 开源中国 <oschina@users.noreply.github.com> :: fix config defaults
