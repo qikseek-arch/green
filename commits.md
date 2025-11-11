@@ -5086,3 +5086,4 @@
 2025-11-11T05:44:33.624Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish config defaults
 2025-11-11T05:52:38.397Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove retry logic
 2025-11-11T06:28:35.598Z vb <Vaibhavs10@users.noreply.github.com> :: wire up the parser
+2025-11-11T06:52:50.347Z BBC <bbc@users.noreply.github.com> :: clean up config defaults
