@@ -107,3 +107,4 @@
 2025-11-10T14:27:31.452Z vn.py <vnpy@users.noreply.github.com> :: bump build script
 2025-11-10T19:58:13.611Z 4Geeks Academy <info@4geeksacademy.com> :: refactor retry logic
 2025-11-10T21:31:48.821Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: tweak the CI matrix
+2025-11-11T05:36:01.454Z 4Geeks Academy <info@4geeksacademy.com> :: add config defaults
