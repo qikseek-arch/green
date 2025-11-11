@@ -5099,3 +5099,4 @@
 2025-11-11T22:18:31.574Z Rei <chloerei@users.noreply.github.com> :: bump readme typo
 2025-11-11T22:33:19.227Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add the CI matrix
 2025-11-11T22:58:47.580Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove the parser
+2025-11-11T23:11:11.079Z Adam Bell <b3ll@users.noreply.github.com> :: add config defaults
