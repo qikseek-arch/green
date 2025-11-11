@@ -14766,3 +14766,4 @@
 2025-11-11T17:36:05.759Z Collabnix <collabnix@users.noreply.github.com> :: update error handling
 2025-11-11T17:52:29.171Z Michael Jackson <mjackson@users.noreply.github.com> :: fix config defaults
 2025-11-11T19:17:34.000Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up the parser
+2025-11-11T20:49:34.947Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: fix edge case in auth
