@@ -2843,3 +2843,4 @@
 2025-11-11T09:44:57.443Z codefollower <codefollower@users.noreply.github.com> :: remove the CI matrix
 2025-11-11T11:47:57.783Z z3r0yu <zer0yu@users.noreply.github.com> :: update dead code
 2025-11-11T13:08:05.659Z Gradio <admin@gradio.app> :: tweak flaky test
+2025-11-11T13:34:25.100Z codefollower <codefollower@users.noreply.github.com> :: fix the CI matrix
