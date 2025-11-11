@@ -2848,3 +2848,4 @@
 2025-11-11T17:01:58.587Z z3r0yu <zer0yu@users.noreply.github.com> :: add retry logic
 2025-11-11T17:41:42.539Z Diu <ddiu8081@users.noreply.github.com> :: fix logging
 2025-11-11T19:23:21.405Z TON Connect <ton-connect@users.noreply.github.com> :: remove the parser
+2025-11-11T19:57:00.758Z Emil Wallner <emilwallner@users.noreply.github.com> :: wire up edge case in auth
