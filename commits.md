@@ -5075,3 +5075,4 @@
 2025-11-10T21:06:37.040Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the parser
 2025-11-10T21:48:53.395Z Getgems <getgems-io@users.noreply.github.com> :: tweak logging
 2025-11-10T23:06:03.667Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up retry logic
+2025-11-11T00:22:08.445Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor config defaults
