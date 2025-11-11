@@ -2854,3 +2854,4 @@
 2025-11-11T21:35:28.582Z Kenney <KenneyNL@users.noreply.github.com> :: clean up dead code
 2025-11-11T21:53:28.629Z codefollower <codefollower@users.noreply.github.com> :: fix logging
 2025-11-11T22:54:41.736Z PostgreSQL <postgres@users.noreply.github.com> :: add the CI matrix
+2025-11-11T23:23:50.538Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: add config defaults
