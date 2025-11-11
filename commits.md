@@ -14751,3 +14751,4 @@
 2025-11-11T00:03:19.769Z 毒奶博主 <limbopro@users.noreply.github.com> :: polish config defaults
 2025-11-11T00:27:07.002Z winterbe <winterbe@users.noreply.github.com> :: remove edge case in auth
 2025-11-11T01:05:46.031Z OpenBMB <openbmb@gmail.com> :: tweak readme typo
+2025-11-11T02:56:35.676Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix the CI matrix
