@@ -14759,3 +14759,4 @@
 2025-11-11T09:45:01.712Z Tom Dale <tomdale@users.noreply.github.com> :: add logging
 2025-11-11T11:55:45.044Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak the parser
 2025-11-11T12:14:01.947Z Odi <mathdroid@users.noreply.github.com> :: wire up null check
+2025-11-11T12:51:07.952Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish dependency versions
