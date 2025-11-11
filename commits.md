@@ -5077,3 +5077,4 @@
 2025-11-10T23:06:03.667Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up retry logic
 2025-11-11T00:22:08.445Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor config defaults
 2025-11-11T00:27:46.502Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor cache keys
+2025-11-11T00:57:03.811Z Getgems <getgems-io@users.noreply.github.com> :: wire up readme typo
