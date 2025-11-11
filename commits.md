@@ -2856,3 +2856,4 @@
 2025-11-11T22:54:41.736Z PostgreSQL <postgres@users.noreply.github.com> :: add the CI matrix
 2025-11-11T23:23:50.538Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: add config defaults
 2025-11-11T23:30:19.892Z ligi <ligi@users.noreply.github.com> :: update the parser
+2025-11-11T23:45:38.926Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: refactor null check
