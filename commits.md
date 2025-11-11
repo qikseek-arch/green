@@ -14752,3 +14752,4 @@
 2025-11-11T00:27:07.002Z winterbe <winterbe@users.noreply.github.com> :: remove edge case in auth
 2025-11-11T01:05:46.031Z OpenBMB <openbmb@gmail.com> :: tweak readme typo
 2025-11-11T02:56:35.676Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix the CI matrix
+2025-11-11T04:25:39.004Z cytopia <cytopia@users.noreply.github.com> :: wire up null check
