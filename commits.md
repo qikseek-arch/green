@@ -5095,3 +5095,4 @@
 2025-11-11T16:19:47.134Z ㅤxander <vampirist@users.noreply.github.com> :: remove null check
 2025-11-11T17:32:34.901Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update logging
 2025-11-11T17:51:54.164Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
+2025-11-11T21:56:56.308Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak build script
