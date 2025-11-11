@@ -5097,3 +5097,4 @@
 2025-11-11T17:51:54.164Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
 2025-11-11T21:56:56.308Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak build script
 2025-11-11T22:18:31.574Z Rei <chloerei@users.noreply.github.com> :: bump readme typo
+2025-11-11T22:33:19.227Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add the CI matrix
