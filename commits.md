@@ -5079,3 +5079,4 @@
 2025-11-11T00:27:46.502Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor cache keys
 2025-11-11T00:57:03.811Z Getgems <getgems-io@users.noreply.github.com> :: wire up readme typo
 2025-11-11T01:47:54.629Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
+2025-11-11T02:17:26.408Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak logging
