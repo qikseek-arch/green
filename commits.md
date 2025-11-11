@@ -2829,3 +2829,4 @@
 2025-11-10T20:27:02.107Z TON Connect <ton-connect@users.noreply.github.com> :: clean up retry logic
 2025-11-10T21:22:08.669Z 卡颂 <BetaSu@users.noreply.github.com> :: update config defaults
 2025-11-10T23:48:05.737Z Vitor Freitas <vitorfs@users.noreply.github.com> :: wire up cache keys
+2025-11-11T02:03:59.480Z Philip Walton <philipwalton@users.noreply.github.com> :: add the parser
