@@ -14790,3 +14790,4 @@
 2025-11-12T17:27:52.658Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
 2025-11-12T18:14:54.772Z Snowflake Labs <opensource@snowflake.com> :: wire up retry logic
 2025-11-12T19:25:41.547Z Alex Teichman <teichman@users.noreply.github.com> :: tweak the CI matrix
+2025-11-12T19:39:18.554Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix the parser
