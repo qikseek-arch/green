@@ -2866,3 +2866,4 @@
 2025-11-12T02:23:47.153Z farza <farzaa@users.noreply.github.com> :: clean up dependency versions
 2025-11-12T03:53:43.981Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up readme typo
 2025-11-12T05:03:35.877Z Tuba Khan <tubakhxn@users.noreply.github.com> :: update build script
+2025-11-12T05:12:50.987Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up build script
