@@ -5121,3 +5121,4 @@
 2025-11-12T15:34:33.419Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
 2025-11-12T16:17:08.678Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak the CI matrix
 2025-11-12T16:19:11.123Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the parser
+2025-11-12T16:35:44.059Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump config defaults
