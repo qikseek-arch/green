@@ -2873,3 +2873,4 @@
 2025-11-12T11:30:25.442Z 0chencc <0Chencc@users.noreply.github.com> :: refactor dependency versions
 2025-11-12T11:40:40.288Z 황준일 <JunilHwang@users.noreply.github.com> :: wire up edge case in auth
 2025-11-12T12:37:52.838Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: refactor the parser
+2025-11-12T13:22:02.769Z Lei Mao <leimao@users.noreply.github.com> :: fix dependency versions
