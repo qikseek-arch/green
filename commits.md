@@ -2883,3 +2883,4 @@
 2025-11-12T21:29:17.637Z Diu <ddiu8081@users.noreply.github.com> :: remove config defaults
 2025-11-12T23:17:37.714Z Codewars <info@codewars.com> :: tweak config defaults
 2025-11-12T23:51:53.209Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update null check
+2025-11-12T23:57:59.249Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix retry logic
