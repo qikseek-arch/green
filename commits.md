@@ -14784,3 +14784,4 @@
 2025-11-12T08:40:31.054Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: update dependency versions
 2025-11-12T08:50:13.665Z Islem Maboud <ipenywis@users.noreply.github.com> :: add config defaults
 2025-11-12T09:06:24.297Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add logging
+2025-11-12T12:12:13.808Z DefTruth <DefTruth@users.noreply.github.com> :: wire up null check
