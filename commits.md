@@ -2879,3 +2879,4 @@
 2025-11-12T17:36:09.066Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up the parser
 2025-11-12T18:09:36.790Z itch.io <support@itch.io> :: refactor readme typo
 2025-11-12T18:14:06.808Z ElevenLabs <developers@elevenlabs.io> :: remove dead code
+2025-11-12T18:23:29.545Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: remove the parser
