@@ -2881,3 +2881,4 @@
 2025-11-12T18:14:06.808Z ElevenLabs <developers@elevenlabs.io> :: remove dead code
 2025-11-12T18:23:29.545Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: remove the parser
 2025-11-12T21:29:17.637Z Diu <ddiu8081@users.noreply.github.com> :: remove config defaults
+2025-11-12T23:17:37.714Z Codewars <info@codewars.com> :: tweak config defaults
