@@ -5116,3 +5116,4 @@
 2025-11-12T13:00:30.728Z AI4Bhārat <opensource@ai4bharat.org> :: polish build script
 2025-11-12T14:13:52.700Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak config defaults
 2025-11-12T14:34:36.664Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor flaky test
+2025-11-12T15:13:47.225Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
