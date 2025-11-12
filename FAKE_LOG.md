@@ -632,3 +632,4 @@
 2025-11-09T12:29:55.260Z Andrej <karpathy@users.noreply.github.com> :: refactor readme typo
 2025-11-10T08:11:51.489Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: tweak retry logic
 2025-11-11T07:29:32.326Z Andrej Marinchenko <BEPb@users.noreply.github.com> :: clean up dead code
+2025-11-12T17:44:56.783Z Stephen Grider <StephenGrider@users.noreply.github.com> :: add config defaults
