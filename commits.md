@@ -2860,3 +2860,4 @@
 2025-11-11T23:54:41.857Z z3r0yu <zer0yu@users.noreply.github.com> :: bump config defaults
 2025-11-12T00:24:10.621Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: fix null check
 2025-11-12T00:56:49.837Z Beau Carnes <beaucarnes@users.noreply.github.com> :: wire up the parser
+2025-11-12T01:53:59.555Z codefollower <codefollower@users.noreply.github.com> :: add error handling
