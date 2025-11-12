@@ -14775,3 +14775,4 @@
 2025-11-12T00:13:13.651Z Odi <mathdroid@users.noreply.github.com> :: bump build script
 2025-11-12T00:51:03.747Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix null check
 2025-11-12T03:00:10.069Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update cache keys
+2025-11-12T04:11:41.659Z 1 <insoxin@users.noreply.github.com> :: fix error handling
