@@ -5113,3 +5113,4 @@
 2025-11-12T12:17:14.440Z BBC <bbc@users.noreply.github.com> :: clean up dependency versions
 2025-11-12T12:27:03.616Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up the CI matrix
 2025-11-12T12:40:57.089Z David Fowler <davidfowl@users.noreply.github.com> :: fix error handling
+2025-11-12T13:00:30.728Z AI4Bhārat <opensource@ai4bharat.org> :: polish build script
