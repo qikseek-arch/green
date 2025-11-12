@@ -2877,3 +2877,4 @@
 2025-11-12T17:15:05.096Z Adam Majmudar <adam-maj@users.noreply.github.com> :: update config defaults
 2025-11-12T17:29:28.893Z Lei Mao <leimao@users.noreply.github.com> :: fix flaky test
 2025-11-12T17:36:09.066Z z3r0yu <zer0yu@users.noreply.github.com> :: wire up the parser
+2025-11-12T18:09:36.790Z itch.io <support@itch.io> :: refactor readme typo
