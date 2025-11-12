@@ -14794,3 +14794,4 @@
 2025-11-12T21:09:32.666Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor dependency versions
 2025-11-12T21:11:59.746Z Odi <mathdroid@users.noreply.github.com> :: bump flaky test
 2025-11-12T21:13:09.268Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove retry logic
+2025-11-12T21:19:14.518Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor config defaults
