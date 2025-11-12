@@ -5123,3 +5123,4 @@
 2025-11-12T16:19:11.123Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the parser
 2025-11-12T16:35:44.059Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump config defaults
 2025-11-12T17:21:09.711Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update error handling
+2025-11-12T17:39:28.730Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
