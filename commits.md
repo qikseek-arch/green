@@ -110,3 +110,4 @@
 2025-11-11T05:36:01.454Z 4Geeks Academy <info@4geeksacademy.com> :: add config defaults
 2025-11-11T15:34:38.821Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: bump null check
 2025-11-11T18:46:02.185Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: polish config defaults
+2025-11-12T06:39:12.317Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: tweak dependency versions
