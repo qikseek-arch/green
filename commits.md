@@ -2858,3 +2858,4 @@
 2025-11-11T23:30:19.892Z ligi <ligi@users.noreply.github.com> :: update the parser
 2025-11-11T23:45:38.926Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: refactor null check
 2025-11-11T23:54:41.857Z z3r0yu <zer0yu@users.noreply.github.com> :: bump config defaults
+2025-11-12T00:24:10.621Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: fix null check
