@@ -2864,3 +2864,4 @@
 2025-11-12T01:59:15.901Z PostgreSQL <postgres@users.noreply.github.com> :: clean up flaky test
 2025-11-12T01:59:25.055Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: add config defaults
 2025-11-12T02:23:47.153Z farza <farzaa@users.noreply.github.com> :: clean up dependency versions
+2025-11-12T03:53:43.981Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up readme typo
