@@ -14773,3 +14773,4 @@
 2025-11-11T22:36:33.844Z Jabrils <Jabrils@users.noreply.github.com> :: update error handling
 2025-11-11T22:50:00.710Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: wire up config defaults
 2025-11-12T00:13:13.651Z Odi <mathdroid@users.noreply.github.com> :: bump build script
+2025-11-12T00:51:03.747Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix null check
