@@ -14788,3 +14788,4 @@
 2025-11-12T16:03:31.837Z Damian Gryski <dgryski@users.noreply.github.com> :: update dead code
 2025-11-12T17:07:15.580Z Sky Ao <skyao@users.noreply.github.com> :: fix dead code
 2025-11-12T17:27:52.658Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
+2025-11-12T18:14:54.772Z Snowflake Labs <opensource@snowflake.com> :: wire up retry logic
