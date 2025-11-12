@@ -2862,3 +2862,4 @@
 2025-11-12T00:56:49.837Z Beau Carnes <beaucarnes@users.noreply.github.com> :: wire up the parser
 2025-11-12T01:53:59.555Z codefollower <codefollower@users.noreply.github.com> :: add error handling
 2025-11-12T01:59:15.901Z PostgreSQL <postgres@users.noreply.github.com> :: clean up flaky test
+2025-11-12T01:59:25.055Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: add config defaults
