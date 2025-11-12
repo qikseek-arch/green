@@ -5118,3 +5118,4 @@
 2025-11-12T14:34:36.664Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor flaky test
 2025-11-12T15:13:47.225Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
 2025-11-12T15:34:31.128Z qiye <qiyeboy@users.noreply.github.com> :: update logging
+2025-11-12T15:34:33.419Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
