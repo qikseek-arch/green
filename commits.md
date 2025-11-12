@@ -5124,3 +5124,4 @@
 2025-11-12T16:35:44.059Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump config defaults
 2025-11-12T17:21:09.711Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update error handling
 2025-11-12T17:39:28.730Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
+2025-11-12T17:51:08.763Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up build script
