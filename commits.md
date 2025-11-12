@@ -5127,3 +5127,4 @@
 2025-11-12T17:51:08.763Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up build script
 2025-11-12T19:39:27.673Z owenzhang <owenzhang@users.noreply.github.com> :: fix cache keys
 2025-11-12T20:58:55.881Z ring04h <ring04h@users.noreply.github.com> :: refactor readme typo
+2025-11-12T21:36:36.296Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove the parser
