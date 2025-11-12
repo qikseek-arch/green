@@ -14782,3 +14782,4 @@
 2025-11-12T07:48:32.194Z Xingang Pan <XingangPan@users.noreply.github.com> :: add the parser
 2025-11-12T07:53:17.187Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor retry logic
 2025-11-12T08:40:31.054Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: update dependency versions
+2025-11-12T08:50:13.665Z Islem Maboud <ipenywis@users.noreply.github.com> :: add config defaults
