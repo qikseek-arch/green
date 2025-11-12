@@ -14781,3 +14781,4 @@
 2025-11-12T06:42:33.011Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update the parser
 2025-11-12T07:48:32.194Z Xingang Pan <XingangPan@users.noreply.github.com> :: add the parser
 2025-11-12T07:53:17.187Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor retry logic
+2025-11-12T08:40:31.054Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: update dependency versions
