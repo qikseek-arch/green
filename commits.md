@@ -5108,3 +5108,4 @@
 2025-11-12T06:57:02.479Z Getgems <getgems-io@users.noreply.github.com> :: update null check
 2025-11-12T09:21:42.602Z BBC <bbc@users.noreply.github.com> :: bump build script
 2025-11-12T09:54:21.807Z BBC <bbc@users.noreply.github.com> :: bump build script
+2025-11-12T10:10:46.396Z owenzhang <owenzhang@users.noreply.github.com> :: remove error handling
