@@ -117,3 +117,4 @@
 2025-11-13T05:54:24.687Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: update the parser
 2025-11-13T07:49:55.797Z Connor <Connor9994@users.noreply.github.com> :: fix the parser
 2025-11-13T09:49:08.482Z Hsiaoming Yang <lepture@users.noreply.github.com> :: tweak the parser
+2025-11-13T16:41:27.820Z Shaian <zshaian@users.noreply.github.com> :: fix null check
