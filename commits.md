@@ -5150,3 +5150,4 @@
 2025-11-13T18:54:14.615Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update the parser
 2025-11-13T20:36:22.262Z owenzhang <owenzhang@users.noreply.github.com> :: update logging
 2025-11-13T20:38:47.459Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump logging
+2025-11-13T20:47:50.230Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove dependency versions
