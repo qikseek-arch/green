@@ -14818,3 +14818,4 @@
 2025-11-13T11:49:53.824Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove dependency versions
 2025-11-13T13:00:42.928Z in28minutes <in28minutes@users.noreply.github.com> :: clean up error handling
 2025-11-13T14:36:16.019Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor config defaults
+2025-11-13T14:40:49.470Z Casey Muratori <cmuratori@users.noreply.github.com> :: update config defaults
