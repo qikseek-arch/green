@@ -2908,3 +2908,4 @@
 2025-11-13T16:54:36.182Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove config defaults
 2025-11-13T18:32:28.933Z 郭飞 <guofei9987@users.noreply.github.com> :: fix readme typo
 2025-11-13T18:37:12.430Z LN <ln-dev7@users.noreply.github.com> :: wire up error handling
+2025-11-13T23:25:19.007Z jist <george0st@users.noreply.github.com> :: clean up build script
