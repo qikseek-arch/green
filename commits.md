@@ -2906,3 +2906,4 @@
 2025-11-13T15:28:27.524Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: polish the parser
 2025-11-13T16:42:28.949Z Paul Deitel <pdeitel@users.noreply.github.com> :: clean up edge case in auth
 2025-11-13T16:54:36.182Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: remove config defaults
+2025-11-13T18:32:28.933Z 郭飞 <guofei9987@users.noreply.github.com> :: fix readme typo
