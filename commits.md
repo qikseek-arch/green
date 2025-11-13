@@ -2904,3 +2904,4 @@
 2025-11-13T14:29:23.183Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: remove dependency versions
 2025-11-13T14:37:53.305Z Vitor Freitas <vitorfs@users.noreply.github.com> :: update error handling
 2025-11-13T15:28:27.524Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: polish the parser
+2025-11-13T16:42:28.949Z Paul Deitel <pdeitel@users.noreply.github.com> :: clean up edge case in auth
