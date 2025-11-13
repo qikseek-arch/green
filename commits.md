@@ -5141,3 +5141,4 @@
 2025-11-13T07:32:10.260Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish build script
 2025-11-13T08:07:43.328Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix logging
 2025-11-13T08:48:30.847Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish build script
+2025-11-13T13:26:18.373Z Taiko Foundation <info@taiko.xyz> :: add the parser
