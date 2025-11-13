@@ -5133,3 +5133,4 @@
 2025-11-12T23:49:03.067Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the parser
 2025-11-12T23:58:53.251Z ring04h <ring04h@users.noreply.github.com> :: fix cache keys
 2025-11-13T00:00:34.937Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up flaky test
+2025-11-13T00:28:02.478Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish null check
