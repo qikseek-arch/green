@@ -5135,3 +5135,4 @@
 2025-11-13T00:00:34.937Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up flaky test
 2025-11-13T00:28:02.478Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish null check
 2025-11-13T02:16:47.681Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up logging
+2025-11-13T02:47:24.121Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update error handling
