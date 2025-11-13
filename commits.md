@@ -14819,3 +14819,4 @@
 2025-11-13T13:00:42.928Z in28minutes <in28minutes@users.noreply.github.com> :: clean up error handling
 2025-11-13T14:36:16.019Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor config defaults
 2025-11-13T14:40:49.470Z Casey Muratori <cmuratori@users.noreply.github.com> :: update config defaults
+2025-11-13T15:30:17.671Z OpenBSD <openbsd@users.noreply.github.com> :: remove readme typo
