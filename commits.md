@@ -2894,3 +2894,4 @@
 2025-11-13T05:31:32.167Z Philip Walton <philipwalton@users.noreply.github.com> :: remove the parser
 2025-11-13T06:18:36.970Z Andrew Mead <andrewjmead@users.noreply.github.com> :: clean up the CI matrix
 2025-11-13T06:39:59.447Z Emil Wallner <emilwallner@users.noreply.github.com> :: bump cache keys
+2025-11-13T06:57:55.864Z Yann Collet <Cyan4973@users.noreply.github.com> :: remove null check
