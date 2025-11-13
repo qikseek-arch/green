@@ -14799,3 +14799,4 @@
 2025-11-12T23:18:31.898Z Alex Teichman <teichman@users.noreply.github.com> :: fix cache keys
 2025-11-13T00:00:44.517Z Islem Maboud <ipenywis@users.noreply.github.com> :: update the parser
 2025-11-13T00:09:43.869Z t11s <transmissions11@users.noreply.github.com> :: polish edge case in auth
+2025-11-13T00:48:46.159Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix readme typo
