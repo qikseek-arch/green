@@ -2884,3 +2884,4 @@
 2025-11-12T23:17:37.714Z Codewars <info@codewars.com> :: tweak config defaults
 2025-11-12T23:51:53.209Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: update null check
 2025-11-12T23:57:59.249Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix retry logic
+2025-11-13T00:01:43.458Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: wire up dependency versions
