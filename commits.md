@@ -114,3 +114,4 @@
 2025-11-12T23:30:19.707Z Yangqing Jia <Yangqing@users.noreply.github.com> :: update logging
 2025-11-13T00:24:07.546Z HashLips <HashLips@users.noreply.github.com> :: refactor logging
 2025-11-13T03:06:31.839Z David Robinson <dgrtwo@users.noreply.github.com> :: refactor error handling
+2025-11-13T05:54:24.687Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: update the parser
