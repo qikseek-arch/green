@@ -14797,3 +14797,4 @@
 2025-11-12T21:19:14.518Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor config defaults
 2025-11-12T22:13:26.406Z Henry <hzoo@users.noreply.github.com> :: tweak logging
 2025-11-12T23:18:31.898Z Alex Teichman <teichman@users.noreply.github.com> :: fix cache keys
+2025-11-13T00:00:44.517Z Islem Maboud <ipenywis@users.noreply.github.com> :: update the parser
