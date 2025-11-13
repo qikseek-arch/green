@@ -14813,3 +14813,4 @@
 2025-11-13T09:28:05.369Z Lipis <lipis@users.noreply.github.com> :: fix the CI matrix
 2025-11-13T09:32:58.307Z Amnezia VPN <support@amnezia.org> :: fix config defaults
 2025-11-13T10:18:38.991Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add retry logic
+2025-11-13T10:36:28.872Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove error handling
