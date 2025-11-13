@@ -2902,3 +2902,4 @@
 2025-11-13T12:30:59.183Z 郭飞 <guofei9987@users.noreply.github.com> :: remove flaky test
 2025-11-13T12:44:15.921Z Gradio <admin@gradio.app> :: update logging
 2025-11-13T14:29:23.183Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: remove dependency versions
+2025-11-13T14:37:53.305Z Vitor Freitas <vitorfs@users.noreply.github.com> :: update error handling
