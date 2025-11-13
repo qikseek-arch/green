@@ -14801,3 +14801,4 @@
 2025-11-13T00:09:43.869Z t11s <transmissions11@users.noreply.github.com> :: polish edge case in auth
 2025-11-13T00:48:46.159Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix readme typo
 2025-11-13T02:50:17.879Z Alex Teichman <teichman@users.noreply.github.com> :: bump the CI matrix
+2025-11-13T03:48:59.354Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak readme typo
