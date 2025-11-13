@@ -14820,3 +14820,4 @@
 2025-11-13T14:36:16.019Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor config defaults
 2025-11-13T14:40:49.470Z Casey Muratori <cmuratori@users.noreply.github.com> :: update config defaults
 2025-11-13T15:30:17.671Z OpenBSD <openbsd@users.noreply.github.com> :: remove readme typo
+2025-11-13T16:30:53.104Z Alexandre Mutel <xoofx@users.noreply.github.com> :: polish build script
