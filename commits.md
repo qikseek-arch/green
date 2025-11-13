@@ -14815,3 +14815,4 @@
 2025-11-13T10:18:38.991Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add retry logic
 2025-11-13T10:36:28.872Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove error handling
 2025-11-13T11:20:08.787Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump null check
+2025-11-13T11:49:53.824Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove dependency versions
