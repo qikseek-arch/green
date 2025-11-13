@@ -2886,3 +2886,4 @@
 2025-11-12T23:57:59.249Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix retry logic
 2025-11-13T00:01:43.458Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: wire up dependency versions
 2025-11-13T01:34:33.573Z 郭飞 <guofei9987@users.noreply.github.com> :: clean up dead code
+2025-11-13T02:23:10.320Z Fabien Potencier <fabpot@users.noreply.github.com> :: tweak retry logic
