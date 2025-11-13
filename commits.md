@@ -112,3 +112,4 @@
 2025-11-11T18:46:02.185Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: polish config defaults
 2025-11-12T06:39:12.317Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: tweak dependency versions
 2025-11-12T23:30:19.707Z Yangqing Jia <Yangqing@users.noreply.github.com> :: update logging
+2025-11-13T00:24:07.546Z HashLips <HashLips@users.noreply.github.com> :: refactor logging
