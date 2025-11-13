@@ -2891,3 +2891,4 @@
 2025-11-13T03:51:14.276Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: tweak logging
 2025-11-13T04:45:07.367Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: clean up flaky test
 2025-11-13T05:15:00.614Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump the parser
+2025-11-13T05:31:32.167Z Philip Walton <philipwalton@users.noreply.github.com> :: remove the parser
