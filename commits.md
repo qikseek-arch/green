@@ -2901,3 +2901,4 @@
 2025-11-13T12:29:45.061Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: fix dead code
 2025-11-13T12:30:59.183Z 郭飞 <guofei9987@users.noreply.github.com> :: remove flaky test
 2025-11-13T12:44:15.921Z Gradio <admin@gradio.app> :: update logging
+2025-11-13T14:29:23.183Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: remove dependency versions
