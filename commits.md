@@ -5167,3 +5167,4 @@
 2025-11-14T10:14:22.862Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
 2025-11-14T10:28:44.407Z Adam Łucek <ALucek@users.noreply.github.com> :: polish retry logic
 2025-11-14T12:20:47.798Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
+2025-11-14T14:05:02.206Z LILYGO <LilyGO@users.noreply.github.com> :: bump error handling
