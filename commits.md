@@ -5161,3 +5161,4 @@
 2025-11-14T02:32:01.235Z Almas Baim <AlmasB@users.noreply.github.com> :: update flaky test
 2025-11-14T04:23:02.502Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix the parser
 2025-11-14T05:00:15.983Z LILYGO <LilyGO@users.noreply.github.com> :: wire up readme typo
+2025-11-14T06:11:56.298Z AI4Bhārat <opensource@ai4bharat.org> :: polish dead code
