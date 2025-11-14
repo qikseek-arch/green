@@ -14844,3 +14844,4 @@
 2025-11-14T06:11:19.758Z DefTruth <DefTruth@users.noreply.github.com> :: update dependency versions
 2025-11-14T06:14:19.586Z Lovell Fuller <lovell@users.noreply.github.com> :: remove the parser
 2025-11-14T09:03:39.216Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up logging
+2025-11-14T11:51:35.555Z rxi <rxi@users.noreply.github.com> :: polish edge case in auth
