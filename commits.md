@@ -5169,3 +5169,4 @@
 2025-11-14T12:20:47.798Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
 2025-11-14T14:05:02.206Z LILYGO <LilyGO@users.noreply.github.com> :: bump error handling
 2025-11-14T14:52:30.225Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
+2025-11-14T16:43:57.654Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the parser
