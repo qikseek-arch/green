@@ -14856,3 +14856,4 @@
 2025-11-14T19:17:00.970Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the CI matrix
 2025-11-14T21:07:57.384Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix dependency versions
 2025-11-14T21:54:39.333Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak flaky test
+2025-11-14T22:51:46.862Z Lipis <lipis@users.noreply.github.com> :: wire up the parser
