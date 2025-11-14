@@ -5154,3 +5154,4 @@
 2025-11-13T21:15:06.385Z owenzhang <owenzhang@users.noreply.github.com> :: add readme typo
 2025-11-14T00:14:30.583Z Adam Wathan <adamwathan@users.noreply.github.com> :: polish build script
 2025-11-14T00:50:37.424Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove readme typo
+2025-11-14T01:15:36.596Z AI4Bhārat <opensource@ai4bharat.org> :: remove config defaults
