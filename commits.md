@@ -5152,3 +5152,4 @@
 2025-11-13T20:38:47.459Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump logging
 2025-11-13T20:47:50.230Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove dependency versions
 2025-11-13T21:15:06.385Z owenzhang <owenzhang@users.noreply.github.com> :: add readme typo
+2025-11-14T00:14:30.583Z Adam Wathan <adamwathan@users.noreply.github.com> :: polish build script
