@@ -5170,3 +5170,4 @@
 2025-11-14T14:05:02.206Z LILYGO <LilyGO@users.noreply.github.com> :: bump error handling
 2025-11-14T14:52:30.225Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
 2025-11-14T16:43:57.654Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the parser
+2025-11-14T17:06:26.874Z Almas Baim <AlmasB@users.noreply.github.com> :: bump error handling
