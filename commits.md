@@ -119,3 +119,4 @@
 2025-11-13T09:49:08.482Z Hsiaoming Yang <lepture@users.noreply.github.com> :: tweak the parser
 2025-11-13T16:41:27.820Z Shaian <zshaian@users.noreply.github.com> :: fix null check
 2025-11-13T16:55:12.953Z 4Geeks Academy <info@4geeksacademy.com> :: update logging
+2025-11-14T03:39:40.945Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: wire up readme typo
