@@ -14854,3 +14854,4 @@
 2025-11-14T16:11:26.545Z Tom Dale <tomdale@users.noreply.github.com> :: clean up readme typo
 2025-11-14T19:01:22.687Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up error handling
 2025-11-14T19:17:00.970Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the CI matrix
+2025-11-14T21:07:57.384Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix dependency versions
