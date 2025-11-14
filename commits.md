@@ -2937,3 +2937,4 @@
 2025-11-14T21:15:21.791Z 卡颂 <BetaSu@users.noreply.github.com> :: polish retry logic
 2025-11-14T22:01:39.923Z LN <ln-dev7@users.noreply.github.com> :: add retry logic
 2025-11-14T22:23:55.679Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: clean up error handling
+2025-11-14T23:07:47.162Z Chao Qin <win4r@users.noreply.github.com> :: bump readme typo
