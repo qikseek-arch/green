@@ -14852,3 +14852,4 @@
 2025-11-14T15:13:13.513Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump error handling
 2025-11-14T15:24:31.440Z cytopia <cytopia@users.noreply.github.com> :: clean up build script
 2025-11-14T16:11:26.545Z Tom Dale <tomdale@users.noreply.github.com> :: clean up readme typo
+2025-11-14T19:01:22.687Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up error handling
