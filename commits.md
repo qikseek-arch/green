@@ -2931,3 +2931,4 @@
 2025-11-14T13:22:52.743Z 开源中国 <oschina@users.noreply.github.com> :: wire up cache keys
 2025-11-14T15:35:19.136Z jist <george0st@users.noreply.github.com> :: refactor null check
 2025-11-14T18:22:34.595Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: bump edge case in auth
+2025-11-14T18:23:40.864Z Emil Wallner <emilwallner@users.noreply.github.com> :: wire up edge case in auth
