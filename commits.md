@@ -5174,3 +5174,4 @@
 2025-11-14T17:15:18.018Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up dependency versions
 2025-11-14T17:22:39.069Z Shubs <infosec-au@users.noreply.github.com> :: remove the parser
 2025-11-14T17:29:18.024Z Claude <claude@users.noreply.github.com> :: clean up flaky test
+2025-11-14T17:40:06.086Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up the parser
