@@ -14839,3 +14839,4 @@
 2025-11-14T00:55:15.338Z Shougo <Shougo@users.noreply.github.com> :: update build script
 2025-11-14T02:17:15.145Z rxi <rxi@users.noreply.github.com> :: polish build script
 2025-11-14T02:20:28.508Z Lovell Fuller <lovell@users.noreply.github.com> :: polish logging
+2025-11-14T04:34:38.761Z winterbe <winterbe@users.noreply.github.com> :: update readme typo
