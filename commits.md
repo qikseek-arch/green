@@ -2921,3 +2921,4 @@
 2025-11-14T05:34:41.379Z Kenney <KenneyNL@users.noreply.github.com> :: clean up logging
 2025-11-14T05:48:01.134Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: remove error handling
 2025-11-14T08:05:40.289Z Paul Deitel <pdeitel@users.noreply.github.com> :: fix config defaults
+2025-11-14T08:34:49.077Z Gradio <admin@gradio.app> :: remove edge case in auth
