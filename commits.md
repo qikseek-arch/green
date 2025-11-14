@@ -14850,3 +14850,4 @@
 2025-11-14T13:08:30.247Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update the parser
 2025-11-14T14:33:13.221Z Odi <mathdroid@users.noreply.github.com> :: bump config defaults
 2025-11-14T15:13:13.513Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump error handling
+2025-11-14T15:24:31.440Z cytopia <cytopia@users.noreply.github.com> :: clean up build script
