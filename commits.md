@@ -5165,3 +5165,4 @@
 2025-11-14T07:41:32.144Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor the parser
 2025-11-14T08:37:04.898Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak build script
 2025-11-14T10:14:22.862Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
+2025-11-14T10:28:44.407Z Adam Łucek <ALucek@users.noreply.github.com> :: polish retry logic
