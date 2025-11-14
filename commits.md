@@ -2926,3 +2926,4 @@
 2025-11-14T09:01:31.481Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: add dead code
 2025-11-14T10:10:08.264Z Philip Walton <philipwalton@users.noreply.github.com> :: polish retry logic
 2025-11-14T10:48:10.564Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: refactor the CI matrix
+2025-11-14T12:26:26.854Z Philip Walton <philipwalton@users.noreply.github.com> :: update edge case in auth
