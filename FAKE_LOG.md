@@ -208,3 +208,4 @@
 2025-11-02T15:00:25.199Z mimic <mimic@fake.invalid> :: tweak null check
 2025-11-05T07:52:22.444Z kai <kai@fake.invalid> :: remove flaky test
 2025-11-08T04:17:37.748Z echo <echo@fake.invalid> :: refactor the CI matrix
+2025-11-14T04:59:49.828Z juno <juno@fake.invalid> :: fix config defaults
