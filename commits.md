@@ -14849,3 +14849,4 @@
 2025-11-14T13:05:11.987Z LocalSend <localsend@users.noreply.github.com> :: wire up config defaults
 2025-11-14T13:08:30.247Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update the parser
 2025-11-14T14:33:13.221Z Odi <mathdroid@users.noreply.github.com> :: bump config defaults
+2025-11-14T15:13:13.513Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump error handling
