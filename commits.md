@@ -14846,3 +14846,4 @@
 2025-11-14T09:03:39.216Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up logging
 2025-11-14T11:51:35.555Z rxi <rxi@users.noreply.github.com> :: polish edge case in auth
 2025-11-14T12:03:20.728Z Alex Teichman <teichman@users.noreply.github.com> :: bump cache keys
+2025-11-14T13:05:11.987Z LocalSend <localsend@users.noreply.github.com> :: wire up config defaults
