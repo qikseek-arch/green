@@ -14835,3 +14835,4 @@
 2025-11-13T23:42:48.411Z Elliott Minns <elliottminns@users.noreply.github.com> :: remove the CI matrix
 2025-11-13T23:49:01.509Z Morvan <MorvanZhou@users.noreply.github.com> :: remove cache keys
 2025-11-14T00:23:32.816Z Scott Chacon <schacon@users.noreply.github.com> :: polish edge case in auth
+2025-11-14T00:27:11.401Z 千古壹号 <qianguyihao@users.noreply.github.com> :: update the parser
