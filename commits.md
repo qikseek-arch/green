@@ -2915,3 +2915,4 @@
 2025-11-14T02:38:44.493Z Gradio <admin@gradio.app> :: clean up the parser
 2025-11-14T03:00:30.965Z DailyDevOps Projects <adit.modi24@gmail.com> :: refactor dead code
 2025-11-14T03:23:35.896Z 0chencc <0Chencc@users.noreply.github.com> :: bump dead code
+2025-11-14T04:51:55.197Z John Blackbourn <johnbillion@users.noreply.github.com> :: polish edge case in auth
