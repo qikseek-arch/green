@@ -125,3 +125,4 @@
 2025-11-14T21:13:41.919Z Tri Dao <tridao@users.noreply.github.com> :: refactor flaky test
 2025-11-15T03:56:11.265Z Ovilia <Ovilia@users.noreply.github.com> :: clean up dead code
 2025-11-15T09:52:35.939Z Draven <draveness@users.noreply.github.com> :: polish config defaults
+2025-11-15T12:31:45.983Z Leon AI <louis@getleon.ai> :: fix config defaults
