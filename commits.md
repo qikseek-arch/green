@@ -2958,3 +2958,4 @@
 2025-11-15T14:54:26.326Z jist <george0st@users.noreply.github.com> :: clean up error handling
 2025-11-15T15:41:24.002Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add logging
 2025-11-15T16:28:44.756Z David Bourgin <ddbourgin@users.noreply.github.com> :: wire up edge case in auth
+2025-11-15T17:42:52.762Z sharkeer <sharkeer@users.noreply.github.com> :: update null check
