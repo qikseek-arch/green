@@ -14873,3 +14873,4 @@
 2025-11-15T10:33:32.904Z 薛翔 <xuexiangjys@users.noreply.github.com> :: wire up retry logic
 2025-11-15T12:02:59.296Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix logging
 2025-11-15T12:22:42.823Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak the CI matrix
+2025-11-15T13:00:36.124Z Dove Letter <skydoves2@gmail.com> :: update build script
