@@ -14866,3 +14866,4 @@
 2025-11-15T04:28:03.487Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
 2025-11-15T05:45:58.862Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update flaky test
 2025-11-15T08:21:28.505Z OpenBMB <openbmb@gmail.com> :: wire up dead code
+2025-11-15T08:40:09.181Z John Schulman <joschu@users.noreply.github.com> :: update the CI matrix
