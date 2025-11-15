@@ -5195,3 +5195,4 @@
 2025-11-15T06:33:22.903Z Selenium <SeleniumHQ@users.noreply.github.com> :: update retry logic
 2025-11-15T06:59:21.686Z md-5 <md-5@users.noreply.github.com> :: bump config defaults
 2025-11-15T09:04:32.833Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor config defaults
+2025-11-15T10:59:02.289Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump the CI matrix
