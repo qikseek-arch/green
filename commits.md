@@ -2947,3 +2947,4 @@
 2025-11-15T06:00:30.297Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: add retry logic
 2025-11-15T06:25:53.756Z Siemens <opensource@siemens.com> :: add config defaults
 2025-11-15T08:42:42.221Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: fix null check
+2025-11-15T09:23:48.625Z Philip Walton <philipwalton@users.noreply.github.com> :: tweak readme typo
