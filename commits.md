@@ -14883,3 +14883,4 @@
 2025-11-15T17:19:25.894Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: remove null check
 2025-11-15T21:09:01.529Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up cache keys
 2025-11-15T21:21:27.854Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor cache keys
+2025-11-15T23:45:20.663Z Odi <mathdroid@users.noreply.github.com> :: tweak edge case in auth
