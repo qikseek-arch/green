@@ -2950,3 +2950,4 @@
 2025-11-15T09:23:48.625Z Philip Walton <philipwalton@users.noreply.github.com> :: tweak readme typo
 2025-11-15T09:43:51.565Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: bump retry logic
 2025-11-15T10:40:44.177Z LN <ln-dev7@users.noreply.github.com> :: update null check
+2025-11-15T11:07:50.605Z Navin Reddy <navinreddy20@users.noreply.github.com> :: fix readme typo
