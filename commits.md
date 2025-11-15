@@ -14868,3 +14868,4 @@
 2025-11-15T08:21:28.505Z OpenBMB <openbmb@gmail.com> :: wire up dead code
 2025-11-15T08:40:09.181Z John Schulman <joschu@users.noreply.github.com> :: update the CI matrix
 2025-11-15T09:39:16.685Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish dead code
+2025-11-15T09:46:54.920Z SurrealDB <surrealdb@users.noreply.github.com> :: remove null check
