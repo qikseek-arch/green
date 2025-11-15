@@ -2955,3 +2955,4 @@
 2025-11-15T13:43:24.179Z John Papa <johnpapa@users.noreply.github.com> :: refactor retry logic
 2025-11-15T14:34:56.485Z Tuba Khan <tubakhxn@users.noreply.github.com> :: remove logging
 2025-11-15T14:41:33.164Z Philip Walton <philipwalton@users.noreply.github.com> :: update cache keys
+2025-11-15T14:54:26.326Z jist <george0st@users.noreply.github.com> :: clean up error handling
