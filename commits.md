@@ -2960,3 +2960,4 @@
 2025-11-15T16:28:44.756Z David Bourgin <ddbourgin@users.noreply.github.com> :: wire up edge case in auth
 2025-11-15T17:42:52.762Z sharkeer <sharkeer@users.noreply.github.com> :: update null check
 2025-11-15T17:58:10.763Z z3r0yu <zer0yu@users.noreply.github.com> :: bump dead code
+2025-11-15T18:38:42.736Z Siemens <opensource@siemens.com> :: tweak error handling
