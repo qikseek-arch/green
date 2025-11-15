@@ -2963,3 +2963,4 @@
 2025-11-15T18:38:42.736Z Siemens <opensource@siemens.com> :: tweak error handling
 2025-11-15T19:09:17.237Z Jimmy Bogard <jbogard@users.noreply.github.com> :: update config defaults
 2025-11-15T19:46:33.177Z StackBlitz <hello@stackblitz.com> :: remove error handling
+2025-11-15T21:23:34.274Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: add dead code
