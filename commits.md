@@ -5183,3 +5183,4 @@
 2025-11-14T22:45:32.329Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove error handling
 2025-11-14T23:42:12.410Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up logging
 2025-11-14T23:59:13.467Z FlowiseAI <hello@flowiseai.com> :: polish error handling
+2025-11-15T00:02:34.164Z md-5 <md-5@users.noreply.github.com> :: wire up readme typo
