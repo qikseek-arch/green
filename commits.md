@@ -5197,3 +5197,4 @@
 2025-11-15T09:04:32.833Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor config defaults
 2025-11-15T10:59:02.289Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump the CI matrix
 2025-11-15T13:46:03.388Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor build script
+2025-11-15T14:26:07.010Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump error handling
