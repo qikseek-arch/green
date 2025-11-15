@@ -5185,3 +5185,4 @@
 2025-11-14T23:59:13.467Z FlowiseAI <hello@flowiseai.com> :: polish error handling
 2025-11-15T00:02:34.164Z md-5 <md-5@users.noreply.github.com> :: wire up readme typo
 2025-11-15T02:51:35.217Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak dependency versions
+2025-11-15T02:59:48.362Z AI4Bhārat <opensource@ai4bharat.org> :: wire up build script
