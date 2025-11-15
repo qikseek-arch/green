@@ -14875,3 +14875,4 @@
 2025-11-15T12:22:42.823Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak the CI matrix
 2025-11-15T13:00:36.124Z Dove Letter <skydoves2@gmail.com> :: update build script
 2025-11-15T13:47:33.000Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update retry logic
+2025-11-15T14:17:08.343Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak dependency versions
