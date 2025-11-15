@@ -14872,3 +14872,4 @@
 2025-11-15T09:57:46.846Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak the parser
 2025-11-15T10:33:32.904Z 薛翔 <xuexiangjys@users.noreply.github.com> :: wire up retry logic
 2025-11-15T12:02:59.296Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix logging
+2025-11-15T12:22:42.823Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak the CI matrix
