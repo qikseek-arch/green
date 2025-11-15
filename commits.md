@@ -5188,3 +5188,4 @@
 2025-11-15T02:59:48.362Z AI4Bhārat <opensource@ai4bharat.org> :: wire up build script
 2025-11-15T03:09:28.600Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish dependency versions
 2025-11-15T03:13:12.447Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump retry logic
+2025-11-15T03:26:25.567Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up config defaults
