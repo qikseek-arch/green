@@ -2964,3 +2964,4 @@
 2025-11-15T19:09:17.237Z Jimmy Bogard <jbogard@users.noreply.github.com> :: update config defaults
 2025-11-15T19:46:33.177Z StackBlitz <hello@stackblitz.com> :: remove error handling
 2025-11-15T21:23:34.274Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: add dead code
+2025-11-15T22:24:25.785Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: add null check
