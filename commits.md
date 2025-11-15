@@ -5190,3 +5190,4 @@
 2025-11-15T03:13:12.447Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump retry logic
 2025-11-15T03:26:25.567Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up config defaults
 2025-11-15T04:10:46.673Z Ryan Bigg <radar@users.noreply.github.com> :: wire up dead code
+2025-11-15T04:36:55.235Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish readme typo
