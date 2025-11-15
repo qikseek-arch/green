@@ -5187,3 +5187,4 @@
 2025-11-15T02:51:35.217Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak dependency versions
 2025-11-15T02:59:48.362Z AI4Bhārat <opensource@ai4bharat.org> :: wire up build script
 2025-11-15T03:09:28.600Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish dependency versions
+2025-11-15T03:13:12.447Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump retry logic
