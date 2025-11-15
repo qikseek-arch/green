@@ -14863,3 +14863,4 @@
 2025-11-15T02:57:44.425Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove the parser
 2025-11-15T03:59:33.004Z Lovell Fuller <lovell@users.noreply.github.com> :: polish dead code
 2025-11-15T04:04:35.028Z DefTruth <DefTruth@users.noreply.github.com> :: wire up null check
+2025-11-15T04:28:03.487Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
