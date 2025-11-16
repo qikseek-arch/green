@@ -5223,3 +5223,4 @@
 2025-11-16T10:13:35.192Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up dead code
 2025-11-16T11:02:47.624Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add flaky test
 2025-11-16T11:44:38.932Z First Contributions <firstcontributions@gmail.com> :: polish dependency versions
+2025-11-16T14:15:20.757Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add retry logic
