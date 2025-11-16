@@ -5217,3 +5217,4 @@
 2025-11-16T04:44:05.876Z BBC <bbc@users.noreply.github.com> :: bump error handling
 2025-11-16T06:08:00.120Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
 2025-11-16T06:40:07.559Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up the parser
+2025-11-16T07:25:43.796Z Getgems <getgems-io@users.noreply.github.com> :: fix the parser
