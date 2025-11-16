@@ -5213,3 +5213,4 @@
 2025-11-16T00:57:59.453Z Ryan Bigg <radar@users.noreply.github.com> :: clean up the parser
 2025-11-16T01:57:18.408Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: refactor retry logic
 2025-11-16T01:57:26.087Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up logging
+2025-11-16T01:57:28.895Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor edge case in auth
