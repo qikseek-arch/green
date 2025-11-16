@@ -14889,3 +14889,4 @@
 2025-11-16T03:40:18.982Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak readme typo
 2025-11-16T04:34:56.655Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
 2025-11-16T04:59:35.289Z Dove Letter <skydoves2@gmail.com> :: update error handling
+2025-11-16T06:12:57.677Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak dependency versions
