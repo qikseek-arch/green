@@ -14894,3 +14894,4 @@
 2025-11-16T07:44:34.057Z rxi <rxi@users.noreply.github.com> :: fix dead code
 2025-11-16T07:51:05.848Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up flaky test
 2025-11-16T08:44:04.544Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish edge case in auth
+2025-11-16T09:09:44.388Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up dependency versions
