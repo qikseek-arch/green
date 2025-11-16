@@ -14891,3 +14891,4 @@
 2025-11-16T04:59:35.289Z Dove Letter <skydoves2@gmail.com> :: update error handling
 2025-11-16T06:12:57.677Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak dependency versions
 2025-11-16T06:14:50.116Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update readme typo
+2025-11-16T07:44:34.057Z rxi <rxi@users.noreply.github.com> :: fix dead code
