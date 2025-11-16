@@ -5210,3 +5210,4 @@
 2025-11-15T20:27:35.758Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update dead code
 2025-11-15T21:18:56.281Z qiye <qiyeboy@users.noreply.github.com> :: fix edge case in auth
 2025-11-16T00:00:33.877Z owenzhang <owenzhang@users.noreply.github.com> :: refactor retry logic
+2025-11-16T00:57:59.453Z Ryan Bigg <radar@users.noreply.github.com> :: clean up the parser
