@@ -2979,3 +2979,4 @@
 2025-11-16T15:24:35.250Z 郭飞 <guofei9987@users.noreply.github.com> :: remove dependency versions
 2025-11-16T15:27:49.559Z TON Connect <ton-connect@users.noreply.github.com> :: clean up edge case in auth
 2025-11-16T17:29:17.843Z Fabien Potencier <fabpot@users.noreply.github.com> :: remove the CI matrix
+2025-11-16T18:12:49.501Z 0chencc <0Chencc@users.noreply.github.com> :: remove the parser
