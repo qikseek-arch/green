@@ -127,3 +127,4 @@
 2025-11-15T09:52:35.939Z Draven <draveness@users.noreply.github.com> :: polish config defaults
 2025-11-15T12:31:45.983Z Leon AI <louis@getleon.ai> :: fix config defaults
 2025-11-15T13:18:28.957Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: bump edge case in auth
+2025-11-16T02:14:32.119Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: remove edge case in auth
