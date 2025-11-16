@@ -5225,3 +5225,4 @@
 2025-11-16T11:44:38.932Z First Contributions <firstcontributions@gmail.com> :: polish dependency versions
 2025-11-16T14:15:20.757Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add retry logic
 2025-11-16T15:21:32.544Z OpenJS Foundation <info@openjsf.org> :: update null check
+2025-11-16T15:26:24.776Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish the parser
