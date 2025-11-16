@@ -2969,3 +2969,4 @@
 2025-11-16T02:41:54.388Z Kenney <KenneyNL@users.noreply.github.com> :: clean up flaky test
 2025-11-16T03:14:08.561Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump build script
 2025-11-16T07:15:10.296Z Codewars <info@codewars.com> :: bump null check
+2025-11-16T07:27:51.830Z Leap 离谱 <byoungd@users.noreply.github.com> :: clean up error handling
