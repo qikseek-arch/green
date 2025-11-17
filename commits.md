@@ -5245,3 +5245,4 @@
 2025-11-17T17:50:35.611Z First Contributions <firstcontributions@gmail.com> :: update config defaults
 2025-11-17T20:02:31.866Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix flaky test
 2025-11-17T20:22:31.163Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove dead code
+2025-11-17T23:00:17.480Z ring04h <ring04h@users.noreply.github.com> :: polish the parser
