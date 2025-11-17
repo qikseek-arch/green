@@ -2992,3 +2992,4 @@
 2025-11-17T02:29:36.983Z OpenShift <openshift@users.noreply.github.com> :: tweak dependency versions
 2025-11-17T03:36:15.212Z Thomas Wolf <thomwolf@users.noreply.github.com> :: remove null check
 2025-11-17T03:44:51.238Z ElevenLabs <developers@elevenlabs.io> :: bump readme typo
+2025-11-17T04:07:40.177Z PostgreSQL <postgres@users.noreply.github.com> :: add retry logic
