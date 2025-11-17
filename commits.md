@@ -14910,3 +14910,4 @@
 2025-11-16T23:22:14.396Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: refactor logging
 2025-11-17T00:50:46.614Z Damian Gryski <dgryski@users.noreply.github.com> :: bump readme typo
 2025-11-17T02:21:39.015Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add build script
+2025-11-17T02:49:59.558Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix null check
