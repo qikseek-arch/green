@@ -5239,3 +5239,4 @@
 2025-11-17T04:49:41.776Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up logging
 2025-11-17T07:26:52.978Z Qwen <qianwen_opensource@alibabacloud.com> :: bump the parser
 2025-11-17T12:45:25.944Z AI4Bhārat <opensource@ai4bharat.org> :: remove dead code
+2025-11-17T12:55:03.074Z vb <Vaibhavs10@users.noreply.github.com> :: add error handling
