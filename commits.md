@@ -3000,3 +3000,4 @@
 2025-11-17T07:04:55.576Z Paul Deitel <pdeitel@users.noreply.github.com> :: add logging
 2025-11-17T07:34:42.481Z Andrew Mead <andrewjmead@users.noreply.github.com> :: polish cache keys
 2025-11-17T08:13:02.153Z codefollower <codefollower@users.noreply.github.com> :: refactor build script
+2025-11-17T09:58:36.690Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up logging
