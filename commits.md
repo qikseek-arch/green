@@ -14925,3 +14925,4 @@
 2025-11-17T07:43:38.487Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump config defaults
 2025-11-17T08:13:04.489Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor edge case in auth
 2025-11-17T08:21:43.449Z Boshen <Boshen@users.noreply.github.com> :: polish retry logic
+2025-11-17T08:29:40.992Z Jabrils <Jabrils@users.noreply.github.com> :: tweak null check
