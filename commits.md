@@ -3008,3 +3008,4 @@
 2025-11-17T13:58:55.137Z PostgreSQL <postgres@users.noreply.github.com> :: update logging
 2025-11-17T14:44:25.025Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak flaky test
 2025-11-17T15:14:01.430Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: tweak readme typo
+2025-11-17T15:23:08.693Z Navin Reddy <navinreddy20@users.noreply.github.com> :: polish config defaults
