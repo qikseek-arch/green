@@ -2988,3 +2988,4 @@
 2025-11-17T00:44:51.768Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: remove readme typo
 2025-11-17T01:31:18.252Z Sky UK Ltd <sky-uk@users.noreply.github.com> :: bump readme typo
 2025-11-17T01:43:27.644Z Tuba Khan <tubakhxn@users.noreply.github.com> :: polish config defaults
+2025-11-17T01:59:54.574Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: tweak the parser
