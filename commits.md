@@ -14931,3 +14931,4 @@
 2025-11-17T11:26:39.600Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump flaky test
 2025-11-17T13:55:50.490Z cytopia <cytopia@users.noreply.github.com> :: refactor flaky test
 2025-11-17T14:27:13.348Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up retry logic
+2025-11-17T14:42:46.884Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up dependency versions
