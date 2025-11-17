@@ -3002,3 +3002,4 @@
 2025-11-17T08:13:02.153Z codefollower <codefollower@users.noreply.github.com> :: refactor build script
 2025-11-17T09:58:36.690Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up logging
 2025-11-17T10:37:45.202Z Aditya Shakya <adi1090x@users.noreply.github.com> :: clean up edge case in auth
+2025-11-17T11:28:39.586Z Kenney <KenneyNL@users.noreply.github.com> :: fix the CI matrix
