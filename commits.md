@@ -5243,3 +5243,4 @@
 2025-11-17T13:53:17.808Z BBC <bbc@users.noreply.github.com> :: bump cache keys
 2025-11-17T14:29:46.062Z Claude <claude@users.noreply.github.com> :: tweak flaky test
 2025-11-17T17:50:35.611Z First Contributions <firstcontributions@gmail.com> :: update config defaults
+2025-11-17T20:02:31.866Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix flaky test
