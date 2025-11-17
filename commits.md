@@ -3013,3 +3013,4 @@
 2025-11-17T16:10:28.521Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: wire up flaky test
 2025-11-17T16:46:38.115Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: bump error handling
 2025-11-17T17:49:06.905Z ElevenLabs <developers@elevenlabs.io> :: polish dead code
+2025-11-17T18:29:49.412Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix logging
