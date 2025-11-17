@@ -14938,3 +14938,4 @@
 2025-11-17T21:57:14.348Z LocalSend <localsend@users.noreply.github.com> :: bump the CI matrix
 2025-11-17T23:13:37.612Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove config defaults
 2025-11-17T23:25:31.080Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump the parser
+2025-11-17T23:54:08.648Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: add dead code
