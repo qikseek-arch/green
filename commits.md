@@ -3004,3 +3004,4 @@
 2025-11-17T10:37:45.202Z Aditya Shakya <adi1090x@users.noreply.github.com> :: clean up edge case in auth
 2025-11-17T11:28:39.586Z Kenney <KenneyNL@users.noreply.github.com> :: fix the CI matrix
 2025-11-17T12:42:43.309Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: fix readme typo
+2025-11-17T12:59:56.688Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor logging
