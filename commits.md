@@ -5229,3 +5229,4 @@
 2025-11-16T16:42:14.495Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix flaky test
 2025-11-16T18:01:31.771Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor retry logic
 2025-11-16T18:56:12.601Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor the parser
+2025-11-17T00:03:51.088Z Aurélien Geron <ageron@users.noreply.github.com> :: remove the parser
