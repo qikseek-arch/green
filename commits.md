@@ -130,3 +130,4 @@
 2025-11-16T02:14:32.119Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: remove edge case in auth
 2025-11-17T10:36:02.421Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak cache keys
 2025-11-17T14:19:23.096Z DeepSeek <service@deepseek.com> :: wire up flaky test
+2025-11-17T17:57:47.342Z Leon AI <louis@getleon.ai> :: fix error handling
