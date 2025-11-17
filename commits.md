@@ -2991,3 +2991,4 @@
 2025-11-17T01:59:54.574Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: tweak the parser
 2025-11-17T02:29:36.983Z OpenShift <openshift@users.noreply.github.com> :: tweak dependency versions
 2025-11-17T03:36:15.212Z Thomas Wolf <thomwolf@users.noreply.github.com> :: remove null check
+2025-11-17T03:44:51.238Z ElevenLabs <developers@elevenlabs.io> :: bump readme typo
