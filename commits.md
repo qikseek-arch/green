@@ -2993,3 +2993,4 @@
 2025-11-17T03:36:15.212Z Thomas Wolf <thomwolf@users.noreply.github.com> :: remove null check
 2025-11-17T03:44:51.238Z ElevenLabs <developers@elevenlabs.io> :: bump readme typo
 2025-11-17T04:07:40.177Z PostgreSQL <postgres@users.noreply.github.com> :: add retry logic
+2025-11-17T04:25:26.184Z LN <ln-dev7@users.noreply.github.com> :: remove readme typo
