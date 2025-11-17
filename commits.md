@@ -5232,3 +5232,4 @@
 2025-11-17T00:03:51.088Z Aurélien Geron <ageron@users.noreply.github.com> :: remove the parser
 2025-11-17T00:41:31.474Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove build script
 2025-11-17T00:52:09.091Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up the CI matrix
+2025-11-17T01:18:41.196Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor edge case in auth
