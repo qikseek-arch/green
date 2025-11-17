@@ -14934,3 +14934,4 @@
 2025-11-17T14:42:46.884Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up dependency versions
 2025-11-17T16:35:23.907Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump cache keys
 2025-11-17T17:08:47.650Z Michael Jackson <mjackson@users.noreply.github.com> :: add cache keys
+2025-11-17T17:11:03.585Z OpenBMB <openbmb@gmail.com> :: wire up the CI matrix
