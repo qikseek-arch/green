@@ -3006,3 +3006,4 @@
 2025-11-17T12:42:43.309Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: fix readme typo
 2025-11-17T12:59:56.688Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor logging
 2025-11-17T13:58:55.137Z PostgreSQL <postgres@users.noreply.github.com> :: update logging
+2025-11-17T14:44:25.025Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak flaky test
