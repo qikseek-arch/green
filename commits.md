@@ -2996,3 +2996,4 @@
 2025-11-17T04:25:26.184Z LN <ln-dev7@users.noreply.github.com> :: remove readme typo
 2025-11-17T05:20:27.963Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: clean up the CI matrix
 2025-11-17T06:16:57.807Z TON Connect <ton-connect@users.noreply.github.com> :: bump build script
+2025-11-17T06:58:17.704Z Codrops <codrops@users.noreply.github.com> :: remove error handling
