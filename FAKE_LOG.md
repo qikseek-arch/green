@@ -211,3 +211,4 @@
 2025-11-14T04:59:49.828Z juno <juno@fake.invalid> :: fix config defaults
 2025-11-15T06:47:16.577Z halcyon <halcyon@fake.invalid> :: update retry logic
 2025-11-17T23:45:51.282Z kai <kai@fake.invalid> :: refactor error handling
+2025-11-18T18:54:48.053Z void <void@fake.invalid> :: refactor edge case in auth
