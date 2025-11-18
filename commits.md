@@ -14955,3 +14955,4 @@
 2025-11-18T14:36:49.456Z Scott Chacon <schacon@users.noreply.github.com> :: refactor retry logic
 2025-11-18T16:05:59.752Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
 2025-11-18T17:58:21.993Z Lipis <lipis@users.noreply.github.com> :: wire up cache keys
+2025-11-18T18:45:38.850Z OpenBSD <openbsd@users.noreply.github.com> :: add dead code
