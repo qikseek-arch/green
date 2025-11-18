@@ -14957,3 +14957,4 @@
 2025-11-18T17:58:21.993Z Lipis <lipis@users.noreply.github.com> :: wire up cache keys
 2025-11-18T18:45:38.850Z OpenBSD <openbsd@users.noreply.github.com> :: add dead code
 2025-11-18T18:57:22.804Z rxi <rxi@users.noreply.github.com> :: polish the CI matrix
+2025-11-18T20:58:56.203Z Alexandre Mutel <xoofx@users.noreply.github.com> :: remove dependency versions
