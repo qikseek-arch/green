@@ -5262,3 +5262,4 @@
 2025-11-18T07:50:52.141Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update null check
 2025-11-18T07:56:45.411Z AI4Bhārat <opensource@ai4bharat.org> :: add null check
 2025-11-18T08:02:10.859Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
+2025-11-18T08:10:30.675Z heyli <lcxfs1991@users.noreply.github.com> :: clean up edge case in auth
