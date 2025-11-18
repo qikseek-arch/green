@@ -14961,3 +14961,4 @@
 2025-11-18T21:11:11.530Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update config defaults
 2025-11-18T21:22:01.841Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump dead code
 2025-11-18T21:30:29.714Z Morvan <MorvanZhou@users.noreply.github.com> :: fix dead code
+2025-11-18T22:44:58.542Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove edge case in auth
