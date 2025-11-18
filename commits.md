@@ -14946,3 +14946,4 @@
 2025-11-18T03:42:32.289Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove flaky test
 2025-11-18T03:52:14.873Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish build script
 2025-11-18T03:58:26.057Z Alex Teichman <teichman@users.noreply.github.com> :: wire up build script
+2025-11-18T04:50:52.458Z cytopia <cytopia@users.noreply.github.com> :: update the CI matrix
