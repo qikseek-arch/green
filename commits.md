@@ -3021,3 +3021,4 @@
 2025-11-18T00:24:11.738Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: polish readme typo
 2025-11-18T00:53:34.632Z Steve Gordon <stevejgordon@users.noreply.github.com> :: refactor flaky test
 2025-11-18T03:34:20.694Z Tuba Khan <tubakhxn@users.noreply.github.com> :: clean up dead code
+2025-11-18T04:27:09.716Z Shaian <zshaian@users.noreply.github.com> :: polish config defaults
