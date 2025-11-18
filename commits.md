@@ -5251,3 +5251,4 @@
 2025-11-18T00:15:25.562Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor the CI matrix
 2025-11-18T00:30:11.228Z SouJunior <wouerner@soujunior.tech> :: update cache keys
 2025-11-18T00:31:12.492Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up logging
+2025-11-18T00:31:24.383Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
