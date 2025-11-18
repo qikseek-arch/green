@@ -5260,3 +5260,4 @@
 2025-11-18T07:39:41.576Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove cache keys
 2025-11-18T07:47:23.942Z Claude <claude@users.noreply.github.com> :: bump dead code
 2025-11-18T07:50:52.141Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update null check
+2025-11-18T07:56:45.411Z AI4Bhārat <opensource@ai4bharat.org> :: add null check
