@@ -5273,3 +5273,4 @@
 2025-11-18T15:12:12.277Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish logging
 2025-11-18T15:54:55.771Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dead code
 2025-11-18T16:28:52.799Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish cache keys
+2025-11-18T16:50:26.476Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: refactor edge case in auth
