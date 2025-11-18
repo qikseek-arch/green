@@ -5281,3 +5281,4 @@
 2025-11-18T19:49:14.270Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up retry logic
 2025-11-18T19:58:36.720Z Claude <claude@users.noreply.github.com> :: polish the parser
 2025-11-18T20:41:52.803Z OpenJS Foundation <info@openjsf.org> :: bump config defaults
+2025-11-18T21:04:58.362Z Adam Bell <b3ll@users.noreply.github.com> :: polish build script
