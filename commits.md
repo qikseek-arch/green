@@ -3037,3 +3037,4 @@
 2025-11-18T12:54:55.576Z Aditya Shakya <adi1090x@users.noreply.github.com> :: remove dependency versions
 2025-11-18T14:01:23.565Z Navin Reddy <navinreddy20@users.noreply.github.com> :: refactor the CI matrix
 2025-11-18T14:07:55.320Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: wire up null check
+2025-11-18T14:42:39.816Z Codewars <info@codewars.com> :: clean up dependency versions
