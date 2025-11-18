@@ -5280,3 +5280,4 @@
 2025-11-18T19:29:54.214Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish logging
 2025-11-18T19:49:14.270Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up retry logic
 2025-11-18T19:58:36.720Z Claude <claude@users.noreply.github.com> :: polish the parser
+2025-11-18T20:41:52.803Z OpenJS Foundation <info@openjsf.org> :: bump config defaults
