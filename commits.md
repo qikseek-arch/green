@@ -3042,3 +3042,4 @@
 2025-11-18T15:16:33.603Z ligi <ligi@users.noreply.github.com> :: bump flaky test
 2025-11-18T15:36:04.168Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: wire up dependency versions
 2025-11-18T17:37:56.057Z Siemens <opensource@siemens.com> :: remove logging
+2025-11-18T18:31:41.417Z José Valim <josevalim@users.noreply.github.com> :: refactor null check
