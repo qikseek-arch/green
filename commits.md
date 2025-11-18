@@ -14958,3 +14958,4 @@
 2025-11-18T18:45:38.850Z OpenBSD <openbsd@users.noreply.github.com> :: add dead code
 2025-11-18T18:57:22.804Z rxi <rxi@users.noreply.github.com> :: polish the CI matrix
 2025-11-18T20:58:56.203Z Alexandre Mutel <xoofx@users.noreply.github.com> :: remove dependency versions
+2025-11-18T21:11:11.530Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update config defaults
