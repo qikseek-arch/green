@@ -5264,3 +5264,4 @@
 2025-11-18T08:02:10.859Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
 2025-11-18T08:10:30.675Z heyli <lcxfs1991@users.noreply.github.com> :: clean up edge case in auth
 2025-11-18T08:48:20.715Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump dead code
+2025-11-18T09:44:50.318Z AI4Bhārat <opensource@ai4bharat.org> :: wire up retry logic
