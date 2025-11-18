@@ -5253,3 +5253,4 @@
 2025-11-18T00:31:12.492Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up logging
 2025-11-18T00:31:24.383Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
 2025-11-18T05:05:34.101Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up dead code
+2025-11-18T05:27:30.871Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add the parser
