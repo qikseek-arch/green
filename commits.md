@@ -14945,3 +14945,4 @@
 2025-11-18T03:31:46.247Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor the parser
 2025-11-18T03:42:32.289Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove flaky test
 2025-11-18T03:52:14.873Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish build script
+2025-11-18T03:58:26.057Z Alex Teichman <teichman@users.noreply.github.com> :: wire up build script
