@@ -131,3 +131,4 @@
 2025-11-17T10:36:02.421Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak cache keys
 2025-11-17T14:19:23.096Z DeepSeek <service@deepseek.com> :: wire up flaky test
 2025-11-17T17:57:47.342Z Leon AI <louis@getleon.ai> :: fix error handling
+2025-11-19T03:56:51.039Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: fix null check
