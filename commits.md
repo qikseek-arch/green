@@ -3049,3 +3049,4 @@
 2025-11-18T20:56:49.679Z jist <george0st@users.noreply.github.com> :: fix logging
 2025-11-18T23:01:29.779Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up logging
 2025-11-18T23:17:31.263Z Codewars <info@codewars.com> :: clean up retry logic
+2025-11-19T00:09:07.367Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove error handling
