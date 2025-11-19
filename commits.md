@@ -132,3 +132,4 @@
 2025-11-17T14:19:23.096Z DeepSeek <service@deepseek.com> :: wire up flaky test
 2025-11-17T17:57:47.342Z Leon AI <louis@getleon.ai> :: fix error handling
 2025-11-19T03:56:51.039Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: fix null check
+2025-11-19T04:09:25.616Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: add config defaults
