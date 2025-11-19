@@ -14984,3 +14984,4 @@
 2025-11-19T19:23:34.339Z Brian Holt <btholt@users.noreply.github.com> :: update error handling
 2025-11-19T19:47:36.761Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up edge case in auth
 2025-11-19T22:09:00.084Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish the CI matrix
+2025-11-19T22:27:33.678Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up config defaults
