@@ -3058,3 +3058,4 @@
 2025-11-19T05:49:07.196Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: fix the parser
 2025-11-19T05:55:10.536Z Vivid Network <vivid.network@outlook.com> :: polish cache keys
 2025-11-19T06:34:08.745Z Composio <hello@composio.dev> :: wire up config defaults
+2025-11-19T08:53:40.157Z Blue <blueedgetechno@users.noreply.github.com> :: add dependency versions
