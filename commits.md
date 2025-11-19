@@ -3075,3 +3075,4 @@
 2025-11-19T17:10:28.174Z 开源中国 <oschina@users.noreply.github.com> :: fix edge case in auth
 2025-11-19T18:34:18.227Z Kenney <KenneyNL@users.noreply.github.com> :: fix logging
 2025-11-19T21:24:33.483Z Codrops <codrops@users.noreply.github.com> :: clean up null check
+2025-11-19T21:49:48.653Z sharkeer <sharkeer@users.noreply.github.com> :: update the parser
