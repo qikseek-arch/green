@@ -5288,3 +5288,4 @@
 2025-11-19T03:20:17.537Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix the parser
 2025-11-19T04:23:06.964Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up flaky test
 2025-11-19T04:34:04.999Z markqvist <markqvist@users.noreply.github.com> :: tweak cache keys
+2025-11-19T07:16:33.483Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
