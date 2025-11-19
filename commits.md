@@ -3065,3 +3065,4 @@
 2025-11-19T09:43:45.836Z Imperial College London <ImperialCollegeLondon@users.noreply.github.com> :: polish config defaults
 2025-11-19T10:39:46.143Z Blue <blueedgetechno@users.noreply.github.com> :: fix build script
 2025-11-19T11:42:08.193Z Beau Carnes <beaucarnes@users.noreply.github.com> :: update edge case in auth
+2025-11-19T11:57:27.822Z Fabien Potencier <fabpot@users.noreply.github.com> :: bump retry logic
