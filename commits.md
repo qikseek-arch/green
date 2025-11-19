@@ -5290,3 +5290,4 @@
 2025-11-19T04:34:04.999Z markqvist <markqvist@users.noreply.github.com> :: tweak cache keys
 2025-11-19T07:16:33.483Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
 2025-11-19T07:47:29.670Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor config defaults
+2025-11-19T09:21:12.362Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: fix null check
