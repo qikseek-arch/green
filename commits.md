@@ -5299,3 +5299,4 @@
 2025-11-19T14:53:24.678Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
 2025-11-19T15:05:29.715Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor error handling
 2025-11-19T15:40:35.013Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
+2025-11-19T18:13:11.809Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
