@@ -14982,3 +14982,4 @@
 2025-11-19T17:37:44.089Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
 2025-11-19T17:43:27.597Z Michael Jackson <mjackson@users.noreply.github.com> :: polish edge case in auth
 2025-11-19T19:23:34.339Z Brian Holt <btholt@users.noreply.github.com> :: update error handling
+2025-11-19T19:47:36.761Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up edge case in auth
