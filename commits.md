@@ -5289,3 +5289,4 @@
 2025-11-19T04:23:06.964Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up flaky test
 2025-11-19T04:34:04.999Z markqvist <markqvist@users.noreply.github.com> :: tweak cache keys
 2025-11-19T07:16:33.483Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
+2025-11-19T07:47:29.670Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor config defaults
