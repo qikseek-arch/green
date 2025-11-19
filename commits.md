@@ -5291,3 +5291,4 @@
 2025-11-19T07:16:33.483Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
 2025-11-19T07:47:29.670Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor config defaults
 2025-11-19T09:21:12.362Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: fix null check
+2025-11-19T10:23:40.736Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up readme typo
