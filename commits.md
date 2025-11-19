@@ -14979,3 +14979,4 @@
 2025-11-19T14:53:18.053Z Google Fonts <googlefonts@users.noreply.github.com> :: fix dependency versions
 2025-11-19T15:40:05.391Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: polish edge case in auth
 2025-11-19T16:29:03.782Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
+2025-11-19T17:37:44.089Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
