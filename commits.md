@@ -3070,3 +3070,4 @@
 2025-11-19T13:50:03.367Z LN <ln-dev7@users.noreply.github.com> :: remove edge case in auth
 2025-11-19T14:23:26.690Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: add logging
 2025-11-19T14:47:42.529Z Tuba Khan <tubakhxn@users.noreply.github.com> :: wire up readme typo
+2025-11-19T15:10:56.740Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix error handling
