@@ -5296,3 +5296,4 @@
 2025-11-19T11:45:45.595Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove dead code
 2025-11-19T11:52:55.553Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up error handling
 2025-11-19T12:14:56.345Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish null check
+2025-11-19T14:53:24.678Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
