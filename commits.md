@@ -14978,3 +14978,4 @@
 2025-11-19T14:28:42.057Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: add edge case in auth
 2025-11-19T14:53:18.053Z Google Fonts <googlefonts@users.noreply.github.com> :: fix dependency versions
 2025-11-19T15:40:05.391Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: polish edge case in auth
+2025-11-19T16:29:03.782Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
