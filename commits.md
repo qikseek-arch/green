@@ -14996,3 +14996,4 @@
 2025-11-20T05:39:05.918Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak dependency versions
 2025-11-20T05:51:09.466Z Scott Chacon <schacon@users.noreply.github.com> :: polish dead code
 2025-11-20T07:27:07.584Z rxi <rxi@users.noreply.github.com> :: polish retry logic
+2025-11-20T08:47:17.472Z Collabnix <collabnix@users.noreply.github.com> :: wire up dependency versions
