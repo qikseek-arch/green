@@ -5324,3 +5324,4 @@
 2025-11-20T15:05:43.049Z Adam Bell <b3ll@users.noreply.github.com> :: refactor build script
 2025-11-20T15:08:49.280Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update null check
 2025-11-20T15:28:55.078Z Roger Labbe <rlabbe@users.noreply.github.com> :: add readme typo
+2025-11-20T17:04:17.916Z Ryan Bigg <radar@users.noreply.github.com> :: remove the parser
