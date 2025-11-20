@@ -310,3 +310,4 @@
 2025-11-07T04:07:28.717Z hamster_sleepyhq <hamster_sleepyhq@fake.invalid> :: refactor dependency versions | Co-authored-by: Epic Games <EpicGames@users.noreply.github.com>
 2025-11-08T00:16:33.492Z TJ Holowaychuk <tj.holowaychuk@fake.invalid> :: polish build script
 2025-11-15T10:01:11.411Z echo <echo@fake.invalid> :: update null check
+2025-11-20T20:29:59.711Z Douglas Crockford <douglas.crockford@fake.invalid> :: bump retry logic
