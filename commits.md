@@ -5330,3 +5330,4 @@
 2025-11-20T18:22:02.867Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix the parser
 2025-11-20T19:04:44.556Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish cache keys
 2025-11-20T19:35:03.925Z vb <Vaibhavs10@users.noreply.github.com> :: refactor the CI matrix
+2025-11-20T21:41:37.269Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove the parser
