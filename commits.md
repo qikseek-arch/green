@@ -3089,3 +3089,4 @@
 2025-11-20T09:43:10.630Z Blue <blueedgetechno@users.noreply.github.com> :: refactor readme typo
 2025-11-20T10:04:02.003Z nf <nf@users.noreply.github.com> :: wire up config defaults
 2025-11-20T10:44:06.363Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: fix cache keys
+2025-11-20T10:54:11.724Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: bump the parser
