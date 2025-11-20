@@ -3076,3 +3076,4 @@
 2025-11-19T18:34:18.227Z Kenney <KenneyNL@users.noreply.github.com> :: fix logging
 2025-11-19T21:24:33.483Z Codrops <codrops@users.noreply.github.com> :: clean up null check
 2025-11-19T21:49:48.653Z sharkeer <sharkeer@users.noreply.github.com> :: update the parser
+2025-11-20T00:29:28.384Z 0chencc <0Chencc@users.noreply.github.com> :: fix edge case in auth
