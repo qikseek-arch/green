@@ -5319,3 +5319,4 @@
 2025-11-20T10:53:58.397Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up the parser
 2025-11-20T11:23:07.172Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update cache keys
 2025-11-20T11:25:26.733Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
+2025-11-20T13:47:22.138Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove the parser
