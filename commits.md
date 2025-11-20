@@ -3107,3 +3107,4 @@
 2025-11-20T20:56:48.068Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: tweak dependency versions
 2025-11-20T21:33:58.689Z Tuba Khan <tubakhxn@users.noreply.github.com> :: update the parser
 2025-11-20T21:44:14.301Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: add retry logic
+2025-11-20T21:48:57.412Z Andrew Mead <andrewjmead@users.noreply.github.com> :: add build script
