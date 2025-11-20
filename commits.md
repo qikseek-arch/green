@@ -3105,3 +3105,4 @@
 2025-11-20T20:07:13.171Z StackBlitz <hello@stackblitz.com> :: bump retry logic
 2025-11-20T20:18:02.507Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: clean up the CI matrix
 2025-11-20T20:56:48.068Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: tweak dependency versions
+2025-11-20T21:33:58.689Z Tuba Khan <tubakhxn@users.noreply.github.com> :: update the parser
