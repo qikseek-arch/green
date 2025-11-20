@@ -15012,3 +15012,4 @@
 2025-11-20T19:58:56.067Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: bump flaky test
 2025-11-20T20:18:56.658Z John Schulman <joschu@users.noreply.github.com> :: remove retry logic
 2025-11-20T20:33:05.276Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix config defaults
+2025-11-20T22:27:04.087Z Alexandre Mutel <xoofx@users.noreply.github.com> :: clean up config defaults
