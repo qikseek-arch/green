@@ -5332,3 +5332,4 @@
 2025-11-20T19:35:03.925Z vb <Vaibhavs10@users.noreply.github.com> :: refactor the CI matrix
 2025-11-20T21:41:37.269Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove the parser
 2025-11-20T23:05:30.242Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor the parser
+2025-11-20T23:29:06.285Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up dependency versions
