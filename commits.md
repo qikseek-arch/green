@@ -5326,3 +5326,4 @@
 2025-11-20T15:28:55.078Z Roger Labbe <rlabbe@users.noreply.github.com> :: add readme typo
 2025-11-20T17:04:17.916Z Ryan Bigg <radar@users.noreply.github.com> :: remove the parser
 2025-11-20T17:16:09.488Z Almas Baim <AlmasB@users.noreply.github.com> :: add dependency versions
+2025-11-20T18:11:35.946Z David Clark <nullptrException100@users.noreply.github.com> :: tweak retry logic
