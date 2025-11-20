@@ -5322,3 +5322,4 @@
 2025-11-20T13:47:22.138Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove the parser
 2025-11-20T15:03:39.136Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up error handling
 2025-11-20T15:05:43.049Z Adam Bell <b3ll@users.noreply.github.com> :: refactor build script
+2025-11-20T15:08:49.280Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update null check
