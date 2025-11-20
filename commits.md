@@ -3092,3 +3092,4 @@
 2025-11-20T10:54:11.724Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: bump the parser
 2025-11-20T11:14:50.680Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix the CI matrix
 2025-11-20T12:29:37.925Z Gradio <admin@gradio.app> :: polish null check
+2025-11-20T13:07:56.280Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: fix build script
