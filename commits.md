@@ -14999,3 +14999,4 @@
 2025-11-20T08:47:17.472Z Collabnix <collabnix@users.noreply.github.com> :: wire up dependency versions
 2025-11-20T09:06:30.991Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: wire up dependency versions
 2025-11-20T09:27:02.797Z DefTruth <DefTruth@users.noreply.github.com> :: fix edge case in auth
+2025-11-20T10:07:02.834Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak flaky test
