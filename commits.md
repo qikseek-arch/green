@@ -3101,3 +3101,4 @@
 2025-11-20T17:45:06.414Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove the CI matrix
 2025-11-20T18:40:01.631Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: bump cache keys
 2025-11-20T18:53:22.406Z David Bourgin <ddbourgin@users.noreply.github.com> :: bump logging
+2025-11-20T19:21:48.718Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: wire up the CI matrix
