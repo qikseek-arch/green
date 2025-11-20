@@ -14989,3 +14989,4 @@
 2025-11-20T00:52:32.879Z OpenBSD <openbsd@users.noreply.github.com> :: add flaky test
 2025-11-20T01:40:38.579Z Odi <mathdroid@users.noreply.github.com> :: refactor build script
 2025-11-20T02:36:57.716Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak dependency versions
+2025-11-20T02:39:59.288Z Michael Jackson <mjackson@users.noreply.github.com> :: fix null check
