@@ -3097,3 +3097,4 @@
 2025-11-20T14:21:23.569Z Tuba Khan <tubakhxn@users.noreply.github.com> :: bump edge case in auth
 2025-11-20T16:28:41.023Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: tweak flaky test
 2025-11-20T16:48:08.870Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: refactor dependency versions
+2025-11-20T16:59:24.699Z Thai Pangsakulyanont <dtinth@users.noreply.github.com> :: polish retry logic
