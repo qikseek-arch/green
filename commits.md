@@ -15005,3 +15005,4 @@
 2025-11-20T11:51:44.157Z Odi <mathdroid@users.noreply.github.com> :: update dead code
 2025-11-20T13:15:29.608Z Cezanne Camacho <cezannec@users.noreply.github.com> :: wire up the parser
 2025-11-20T15:08:09.364Z Odi <mathdroid@users.noreply.github.com> :: tweak error handling
+2025-11-20T15:38:47.634Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
