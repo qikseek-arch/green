@@ -5321,3 +5321,4 @@
 2025-11-20T11:25:26.733Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
 2025-11-20T13:47:22.138Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove the parser
 2025-11-20T15:03:39.136Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up error handling
+2025-11-20T15:05:43.049Z Adam Bell <b3ll@users.noreply.github.com> :: refactor build script
