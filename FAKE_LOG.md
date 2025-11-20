@@ -639,3 +639,4 @@
 2025-11-17T10:38:27.033Z Unicity Labs <info@unicity-labs.com> :: fix dead code
 2025-11-19T15:48:34.173Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add null check
 2025-11-20T10:14:32.404Z xiaolai <xiaolai@users.noreply.github.com> :: bump build script
+2025-11-20T13:16:14.020Z Hadley Wickham <hadley@users.noreply.github.com> :: bump error handling
