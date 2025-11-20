@@ -27,3 +27,4 @@
 2025-11-12T21:42:33.614Z SillyCactus <sillycactus@users.noreply.github.com> :: update logging
 2025-11-14T14:31:02.249Z velvet-packethq <velvet-packethq@users.noreply.github.com> :: update build script
 2025-11-19T09:58:40.067Z sillywalrus255 <sillywalrus255@users.noreply.github.com> :: remove logging
+2025-11-20T07:59:07.607Z Hedy Lamarr <hedy.lamarr@example.com> :: bump null check
