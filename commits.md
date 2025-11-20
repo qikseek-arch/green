@@ -14994,3 +14994,4 @@
 2025-11-20T05:06:47.583Z Brian Holt <btholt@users.noreply.github.com> :: remove readme typo
 2025-11-20T05:23:09.928Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor cache keys
 2025-11-20T05:39:05.918Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak dependency versions
+2025-11-20T05:51:09.466Z Scott Chacon <schacon@users.noreply.github.com> :: polish dead code
