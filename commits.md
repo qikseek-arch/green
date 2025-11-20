@@ -5308,3 +5308,4 @@
 2025-11-20T01:33:40.811Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: remove logging
 2025-11-20T02:36:44.495Z Manu Arora <manuarora700@users.noreply.github.com> :: add null check
 2025-11-20T03:20:27.406Z CTFs <ctfs@users.noreply.github.com> :: remove the parser
+2025-11-20T03:26:56.701Z CTFs <ctfs@users.noreply.github.com> :: fix null check
