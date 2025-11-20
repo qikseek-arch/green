@@ -15007,3 +15007,4 @@
 2025-11-20T15:08:09.364Z Odi <mathdroid@users.noreply.github.com> :: tweak error handling
 2025-11-20T15:38:47.634Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
 2025-11-20T17:06:21.302Z Dove Letter <skydoves2@gmail.com> :: bump dependency versions
+2025-11-20T17:42:00.602Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update dependency versions
