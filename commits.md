@@ -138,3 +138,4 @@
 2025-11-21T05:19:02.882Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: bump flaky test
 2025-11-21T08:19:21.368Z 4Geeks Academy <info@4geeksacademy.com> :: update readme typo
 2025-11-21T14:59:36.589Z Ovilia <Ovilia@users.noreply.github.com> :: fix retry logic
+2025-11-21T15:12:37.325Z Cheng Lou <chenglou@users.noreply.github.com> :: fix null check
