@@ -15025,3 +15025,4 @@
 2025-11-21T05:29:19.567Z Alex Teichman <teichman@users.noreply.github.com> :: bump retry logic
 2025-11-21T05:30:18.725Z Michael Jackson <mjackson@users.noreply.github.com> :: fix readme typo
 2025-11-21T05:50:49.505Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
+2025-11-21T06:06:11.006Z J.Baci <jbaci@users.noreply.github.com> :: add error handling
