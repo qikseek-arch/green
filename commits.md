@@ -15023,3 +15023,4 @@
 2025-11-21T04:04:21.936Z 1 <insoxin@users.noreply.github.com> :: update build script
 2025-11-21T04:45:39.361Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up null check
 2025-11-21T05:29:19.567Z Alex Teichman <teichman@users.noreply.github.com> :: bump retry logic
+2025-11-21T05:30:18.725Z Michael Jackson <mjackson@users.noreply.github.com> :: fix readme typo
