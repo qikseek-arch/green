@@ -3114,3 +3114,4 @@
 2025-11-21T00:34:57.774Z 郭飞 <guofei9987@users.noreply.github.com> :: polish readme typo
 2025-11-21T01:06:17.799Z Matthew Macri <MatthewMacri@users.noreply.github.com> :: remove build script
 2025-11-21T01:29:50.492Z José Valim <josevalim@users.noreply.github.com> :: remove error handling
+2025-11-21T01:42:44.674Z PostgreSQL <postgres@users.noreply.github.com> :: remove error handling
