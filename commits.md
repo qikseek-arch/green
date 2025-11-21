@@ -5368,3 +5368,4 @@
 2025-11-21T20:31:07.285Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
 2025-11-21T20:31:39.509Z LILYGO <LilyGO@users.noreply.github.com> :: clean up logging
 2025-11-21T21:00:50.868Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update the parser
+2025-11-21T21:49:23.116Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix edge case in auth
