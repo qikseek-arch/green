@@ -15031,3 +15031,4 @@
 2025-11-21T09:50:15.540Z Zed Industries <hi@zed.dev> :: wire up readme typo
 2025-11-21T11:05:26.776Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: update flaky test
 2025-11-21T11:36:17.577Z Jabrils <Jabrils@users.noreply.github.com> :: wire up the CI matrix
+2025-11-21T13:58:03.128Z Yiming Cui <ymcui@users.noreply.github.com> :: remove config defaults
