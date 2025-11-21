@@ -5352,3 +5352,4 @@
 2025-11-21T10:06:18.935Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak retry logic
 2025-11-21T13:04:46.035Z Aurélien Geron <ageron@users.noreply.github.com> :: remove the CI matrix
 2025-11-21T14:25:35.198Z First Contributions <firstcontributions@gmail.com> :: bump dependency versions
+2025-11-21T14:33:10.643Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump config defaults
