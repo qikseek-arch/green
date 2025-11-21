@@ -3126,3 +3126,4 @@
 2025-11-21T14:47:39.951Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: remove the CI matrix
 2025-11-21T17:38:23.568Z Codewars <info@codewars.com> :: add the CI matrix
 2025-11-21T19:45:31.880Z Tuba Khan <tubakhxn@users.noreply.github.com> :: wire up null check
+2025-11-21T20:29:08.144Z Gradio <admin@gradio.app> :: wire up readme typo
