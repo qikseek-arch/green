@@ -5369,3 +5369,4 @@
 2025-11-21T20:31:39.509Z LILYGO <LilyGO@users.noreply.github.com> :: clean up logging
 2025-11-21T21:00:50.868Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update the parser
 2025-11-21T21:49:23.116Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix edge case in auth
+2025-11-21T21:57:11.964Z qiye <qiyeboy@users.noreply.github.com> :: remove null check
