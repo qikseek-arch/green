@@ -5365,3 +5365,4 @@
 2025-11-21T18:17:11.020Z owenzhang <owenzhang@users.noreply.github.com> :: remove cache keys
 2025-11-21T19:13:05.689Z SouJunior <wouerner@soujunior.tech> :: wire up dead code
 2025-11-21T20:06:18.211Z Sachin Soni <techiesms@users.noreply.github.com> :: update null check
+2025-11-21T20:31:07.285Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
