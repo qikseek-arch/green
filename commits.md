@@ -3128,3 +3128,4 @@
 2025-11-21T19:45:31.880Z Tuba Khan <tubakhxn@users.noreply.github.com> :: wire up null check
 2025-11-21T20:29:08.144Z Gradio <admin@gradio.app> :: wire up readme typo
 2025-11-21T20:38:45.059Z John Blackbourn <johnbillion@users.noreply.github.com> :: clean up edge case in auth
+2025-11-21T20:56:09.203Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: remove retry logic
