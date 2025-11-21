@@ -15024,3 +15024,4 @@
 2025-11-21T04:45:39.361Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up null check
 2025-11-21T05:29:19.567Z Alex Teichman <teichman@users.noreply.github.com> :: bump retry logic
 2025-11-21T05:30:18.725Z Michael Jackson <mjackson@users.noreply.github.com> :: fix readme typo
+2025-11-21T05:50:49.505Z Tom Dale <tomdale@users.noreply.github.com> :: update config defaults
