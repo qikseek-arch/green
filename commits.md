@@ -5370,3 +5370,4 @@
 2025-11-21T21:00:50.868Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update the parser
 2025-11-21T21:49:23.116Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix edge case in auth
 2025-11-21T21:57:11.964Z qiye <qiyeboy@users.noreply.github.com> :: remove null check
+2025-11-21T22:06:36.631Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up readme typo
