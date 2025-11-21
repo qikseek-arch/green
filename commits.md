@@ -5357,3 +5357,4 @@
 2025-11-21T15:36:21.400Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor retry logic
 2025-11-21T15:37:53.006Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor the CI matrix
 2025-11-21T16:06:54.860Z Aurélien Geron <ageron@users.noreply.github.com> :: polish the CI matrix
+2025-11-21T16:30:47.340Z Getgems <getgems-io@users.noreply.github.com> :: tweak edge case in auth
