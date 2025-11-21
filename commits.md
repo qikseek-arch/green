@@ -5354,3 +5354,4 @@
 2025-11-21T14:25:35.198Z First Contributions <firstcontributions@gmail.com> :: bump dependency versions
 2025-11-21T14:33:10.643Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump config defaults
 2025-11-21T14:55:56.532Z LILYGO <LilyGO@users.noreply.github.com> :: bump flaky test
+2025-11-21T15:36:21.400Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor retry logic
