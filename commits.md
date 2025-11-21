@@ -15028,3 +15028,4 @@
 2025-11-21T06:06:11.006Z J.Baci <jbaci@users.noreply.github.com> :: add error handling
 2025-11-21T06:47:28.998Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix cache keys
 2025-11-21T09:12:24.448Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up readme typo
+2025-11-21T09:50:15.540Z Zed Industries <hi@zed.dev> :: wire up readme typo
