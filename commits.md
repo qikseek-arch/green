@@ -5372,3 +5372,4 @@
 2025-11-21T21:57:11.964Z qiye <qiyeboy@users.noreply.github.com> :: remove null check
 2025-11-21T22:06:36.631Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up readme typo
 2025-11-21T23:17:52.963Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: fix error handling
+2025-11-21T23:35:49.968Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish null check
