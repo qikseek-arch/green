@@ -5367,3 +5367,4 @@
 2025-11-21T20:06:18.211Z Sachin Soni <techiesms@users.noreply.github.com> :: update null check
 2025-11-21T20:31:07.285Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
 2025-11-21T20:31:39.509Z LILYGO <LilyGO@users.noreply.github.com> :: clean up logging
+2025-11-21T21:00:50.868Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update the parser
