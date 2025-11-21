@@ -5340,3 +5340,4 @@
 2025-11-21T02:20:24.099Z LILYGO <LilyGO@users.noreply.github.com> :: add edge case in auth
 2025-11-21T03:14:06.923Z Qwen <qianwen_opensource@alibabacloud.com> :: refactor logging
 2025-11-21T04:15:00.678Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor retry logic
+2025-11-21T04:46:37.298Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove dependency versions
