@@ -15013,3 +15013,4 @@
 2025-11-20T20:18:56.658Z John Schulman <joschu@users.noreply.github.com> :: remove retry logic
 2025-11-20T20:33:05.276Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix config defaults
 2025-11-20T22:27:04.087Z Alexandre Mutel <xoofx@users.noreply.github.com> :: clean up config defaults
+2025-11-21T02:08:39.622Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak the parser
