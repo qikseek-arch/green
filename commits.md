@@ -15021,3 +15021,4 @@
 2025-11-21T03:43:29.989Z Prometheus <prometheus@users.noreply.github.com> :: fix readme typo
 2025-11-21T04:02:03.008Z 毒奶博主 <limbopro@users.noreply.github.com> :: tweak build script
 2025-11-21T04:04:21.936Z 1 <insoxin@users.noreply.github.com> :: update build script
+2025-11-21T04:45:39.361Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up null check
