@@ -15016,3 +15016,4 @@
 2025-11-21T02:08:39.622Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak the parser
 2025-11-21T02:10:01.456Z 1 <insoxin@users.noreply.github.com> :: bump readme typo
 2025-11-21T02:13:44.186Z Collabnix <collabnix@users.noreply.github.com> :: fix readme typo
+2025-11-21T02:42:55.615Z Tom Dale <tomdale@users.noreply.github.com> :: bump build script
