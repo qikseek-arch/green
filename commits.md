@@ -5346,3 +5346,4 @@
 2025-11-21T05:39:39.429Z BBC <bbc@users.noreply.github.com> :: update error handling
 2025-11-21T07:31:11.528Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update null check
 2025-11-21T08:13:50.186Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak the parser
+2025-11-21T08:28:34.117Z David Clark <nullptrException100@users.noreply.github.com> :: fix logging
