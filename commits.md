@@ -15020,3 +15020,4 @@
 2025-11-21T03:33:43.585Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix the CI matrix
 2025-11-21T03:43:29.989Z Prometheus <prometheus@users.noreply.github.com> :: fix readme typo
 2025-11-21T04:02:03.008Z 毒奶博主 <limbopro@users.noreply.github.com> :: tweak build script
+2025-11-21T04:04:21.936Z 1 <insoxin@users.noreply.github.com> :: update build script
