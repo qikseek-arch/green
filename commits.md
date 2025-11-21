@@ -15014,3 +15014,4 @@
 2025-11-20T20:33:05.276Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix config defaults
 2025-11-20T22:27:04.087Z Alexandre Mutel <xoofx@users.noreply.github.com> :: clean up config defaults
 2025-11-21T02:08:39.622Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak the parser
+2025-11-21T02:10:01.456Z 1 <insoxin@users.noreply.github.com> :: bump readme typo
