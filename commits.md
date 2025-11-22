@@ -3132,3 +3132,4 @@
 2025-11-21T23:53:57.834Z TON Connect <ton-connect@users.noreply.github.com> :: polish readme typo
 2025-11-21T23:57:35.568Z codefollower <codefollower@users.noreply.github.com> :: polish cache keys
 2025-11-22T00:07:12.571Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add build script
+2025-11-22T02:13:36.812Z codefollower <codefollower@users.noreply.github.com> :: fix error handling
