@@ -15048,3 +15048,4 @@
 2025-11-22T04:51:41.261Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: add dependency versions
 2025-11-22T05:31:15.952Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add retry logic
 2025-11-22T06:35:49.464Z Sergey P. <ThirteenAG@users.noreply.github.com> :: refactor edge case in auth
+2025-11-22T09:04:59.618Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up edge case in auth
