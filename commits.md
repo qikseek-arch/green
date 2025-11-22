@@ -15041,3 +15041,4 @@
 2025-11-21T20:36:25.824Z 1 <insoxin@users.noreply.github.com> :: update the CI matrix
 2025-11-21T20:47:55.701Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: add readme typo
 2025-11-21T22:15:14.703Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove flaky test
+2025-11-22T00:48:40.223Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor null check
