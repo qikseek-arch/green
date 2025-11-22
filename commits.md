@@ -3140,3 +3140,4 @@
 2025-11-22T08:05:52.403Z Jimmy Bogard <jbogard@users.noreply.github.com> :: refactor config defaults
 2025-11-22T09:34:04.575Z Codewars <info@codewars.com> :: tweak dead code
 2025-11-22T09:44:37.707Z StackBlitz <hello@stackblitz.com> :: polish error handling
+2025-11-22T09:57:16.807Z LN <ln-dev7@users.noreply.github.com> :: clean up readme typo
