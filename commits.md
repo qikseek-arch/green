@@ -15059,3 +15059,4 @@
 2025-11-22T15:07:57.674Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up cache keys
 2025-11-22T15:19:08.796Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: tweak retry logic
 2025-11-22T16:51:29.749Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix the parser
+2025-11-22T17:53:02.012Z Odi <mathdroid@users.noreply.github.com> :: clean up error handling
