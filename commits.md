@@ -5378,3 +5378,4 @@
 2025-11-22T01:45:45.004Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up the CI matrix
 2025-11-22T01:53:35.380Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump readme typo
 2025-11-22T02:16:50.463Z SouJunior <wouerner@soujunior.tech> :: wire up dependency versions
+2025-11-22T02:31:15.082Z Adam Łucek <ALucek@users.noreply.github.com> :: update retry logic
