@@ -5397,3 +5397,4 @@
 2025-11-22T19:17:42.336Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up cache keys
 2025-11-22T19:28:19.203Z Rei <chloerei@users.noreply.github.com> :: remove config defaults
 2025-11-22T21:31:39.958Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor flaky test
+2025-11-22T22:07:46.962Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up edge case in auth
