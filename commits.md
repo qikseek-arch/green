@@ -5384,3 +5384,4 @@
 2025-11-22T06:14:31.532Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor null check
 2025-11-22T06:19:55.503Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor the CI matrix
 2025-11-22T06:33:57.914Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add retry logic
+2025-11-22T08:14:25.998Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update dependency versions
