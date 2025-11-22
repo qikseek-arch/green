@@ -5380,3 +5380,4 @@
 2025-11-22T02:16:50.463Z SouJunior <wouerner@soujunior.tech> :: wire up dependency versions
 2025-11-22T02:31:15.082Z Adam Łucek <ALucek@users.noreply.github.com> :: update retry logic
 2025-11-22T04:11:16.593Z heyli <lcxfs1991@users.noreply.github.com> :: tweak the CI matrix
+2025-11-22T05:35:37.295Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak build script
