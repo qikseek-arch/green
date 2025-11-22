@@ -142,3 +142,4 @@
 2025-11-21T19:59:22.539Z Brian Lovin <brianlovin@users.noreply.github.com> :: polish build script
 2025-11-22T04:05:20.999Z Ryubing <Ryubing@users.noreply.github.com> :: update config defaults
 2025-11-22T08:37:10.231Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: bump retry logic
+2025-11-22T09:53:13.094Z Charles Severance <csev@users.noreply.github.com> :: clean up the parser
