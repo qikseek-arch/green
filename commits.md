@@ -3150,3 +3150,4 @@
 2025-11-22T15:33:24.982Z sharkeer <sharkeer@users.noreply.github.com> :: wire up config defaults
 2025-11-22T15:41:57.277Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: wire up readme typo
 2025-11-22T15:46:23.752Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: tweak config defaults
+2025-11-22T16:42:54.599Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: fix retry logic
