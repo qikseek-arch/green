@@ -3142,3 +3142,4 @@
 2025-11-22T09:44:37.707Z StackBlitz <hello@stackblitz.com> :: polish error handling
 2025-11-22T09:57:16.807Z LN <ln-dev7@users.noreply.github.com> :: clean up readme typo
 2025-11-22T10:07:04.199Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove readme typo
+2025-11-22T10:14:21.787Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove build script
