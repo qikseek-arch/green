@@ -3154,3 +3154,4 @@
 2025-11-22T19:04:40.774Z Tuba Khan <tubakhxn@users.noreply.github.com> :: bump null check
 2025-11-22T19:28:06.644Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: polish error handling
 2025-11-22T21:08:50.562Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: clean up logging
+2025-11-22T22:20:27.910Z Aditya Chatterjee <AdiChat@users.noreply.github.com> :: wire up retry logic
