@@ -3152,3 +3152,4 @@
 2025-11-22T15:46:23.752Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: tweak config defaults
 2025-11-22T16:42:54.599Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: fix retry logic
 2025-11-22T19:04:40.774Z Tuba Khan <tubakhxn@users.noreply.github.com> :: bump null check
+2025-11-22T19:28:06.644Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: polish error handling
