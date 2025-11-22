@@ -3131,3 +3131,4 @@
 2025-11-21T20:56:09.203Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: remove retry logic
 2025-11-21T23:53:57.834Z TON Connect <ton-connect@users.noreply.github.com> :: polish readme typo
 2025-11-21T23:57:35.568Z codefollower <codefollower@users.noreply.github.com> :: polish cache keys
+2025-11-22T00:07:12.571Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: add build script
