@@ -15043,3 +15043,4 @@
 2025-11-21T22:15:14.703Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove flaky test
 2025-11-22T00:48:40.223Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor null check
 2025-11-22T00:56:32.834Z Dove Letter <skydoves2@gmail.com> :: update the parser
+2025-11-22T01:58:15.035Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up error handling
