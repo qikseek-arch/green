@@ -15044,3 +15044,4 @@
 2025-11-22T00:48:40.223Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor null check
 2025-11-22T00:56:32.834Z Dove Letter <skydoves2@gmail.com> :: update the parser
 2025-11-22T01:58:15.035Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up error handling
+2025-11-22T02:17:12.690Z OpenBMB <openbmb@gmail.com> :: fix edge case in auth
