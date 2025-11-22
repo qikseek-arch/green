@@ -3147,3 +3147,4 @@
 2025-11-22T11:45:02.672Z sharkeer <sharkeer@users.noreply.github.com> :: bump dependency versions
 2025-11-22T13:01:40.646Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: clean up dependency versions
 2025-11-22T13:40:42.790Z Brandon Dail <aweary@users.noreply.github.com> :: add dependency versions
+2025-11-22T15:33:24.982Z sharkeer <sharkeer@users.noreply.github.com> :: wire up config defaults
