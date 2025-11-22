@@ -641,3 +641,4 @@
 2025-11-20T10:14:32.404Z xiaolai <xiaolai@users.noreply.github.com> :: bump build script
 2025-11-20T13:16:14.020Z Hadley Wickham <hadley@users.noreply.github.com> :: bump error handling
 2025-11-21T10:41:32.674Z GitHub Community <community@users.noreply.github.com> :: update config defaults
+2025-11-22T11:21:08.418Z Ryan Dahl <ry@users.noreply.github.com> :: refactor logging
