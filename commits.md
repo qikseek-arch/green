@@ -15052,3 +15052,4 @@
 2025-11-22T10:41:14.193Z Morvan <MorvanZhou@users.noreply.github.com> :: fix dependency versions
 2025-11-22T10:44:33.961Z Collabnix <collabnix@users.noreply.github.com> :: wire up dead code
 2025-11-22T11:27:29.195Z LocalSend <localsend@users.noreply.github.com> :: add the parser
+2025-11-22T12:22:54.016Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump edge case in auth
