@@ -140,3 +140,4 @@
 2025-11-21T14:59:36.589Z Ovilia <Ovilia@users.noreply.github.com> :: fix retry logic
 2025-11-21T15:12:37.325Z Cheng Lou <chenglou@users.noreply.github.com> :: fix null check
 2025-11-21T19:59:22.539Z Brian Lovin <brianlovin@users.noreply.github.com> :: polish build script
+2025-11-22T04:05:20.999Z Ryubing <Ryubing@users.noreply.github.com> :: update config defaults
