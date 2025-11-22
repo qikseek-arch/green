@@ -15055,3 +15055,4 @@
 2025-11-22T12:22:54.016Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump edge case in auth
 2025-11-22T12:57:54.135Z Alex Teichman <teichman@users.noreply.github.com> :: wire up flaky test
 2025-11-22T13:40:42.850Z Tom Dale <tomdale@users.noreply.github.com> :: remove edge case in auth
+2025-11-22T14:15:31.007Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add cache keys
