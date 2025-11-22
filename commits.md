@@ -5390,3 +5390,4 @@
 2025-11-22T09:14:17.701Z Sachin Soni <techiesms@users.noreply.github.com> :: bump config defaults
 2025-11-22T11:27:41.440Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump cache keys
 2025-11-22T13:52:38.267Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up the CI matrix
+2025-11-22T14:00:59.450Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up null check
