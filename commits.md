@@ -5395,3 +5395,4 @@
 2025-11-22T16:30:21.993Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump logging
 2025-11-22T16:56:06.456Z First Contributions <firstcontributions@gmail.com> :: wire up dependency versions
 2025-11-22T19:17:42.336Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up cache keys
+2025-11-22T19:28:19.203Z Rei <chloerei@users.noreply.github.com> :: remove config defaults
