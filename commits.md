@@ -5388,3 +5388,4 @@
 2025-11-22T08:37:31.145Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up readme typo
 2025-11-22T08:39:07.186Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix flaky test
 2025-11-22T09:14:17.701Z Sachin Soni <techiesms@users.noreply.github.com> :: bump config defaults
+2025-11-22T11:27:41.440Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump cache keys
