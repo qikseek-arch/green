@@ -5401,3 +5401,4 @@
 2025-11-22T23:51:53.451Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish dependency versions
 2025-11-23T00:42:20.888Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up dead code
 2025-11-23T02:45:23.175Z David Clark <nullptrException100@users.noreply.github.com> :: refactor build script
+2025-11-23T03:39:54.471Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak build script
