@@ -15076,3 +15076,4 @@
 2025-11-23T03:13:26.603Z Petar Veličković <PetarV-@users.noreply.github.com> :: update edge case in auth
 2025-11-23T03:45:02.622Z in28minutes <in28minutes@users.noreply.github.com> :: clean up edge case in auth
 2025-11-23T04:08:51.817Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor retry logic
+2025-11-23T04:16:14.877Z Collabnix <collabnix@users.noreply.github.com> :: wire up the parser
