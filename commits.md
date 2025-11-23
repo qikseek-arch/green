@@ -3181,3 +3181,4 @@
 2025-11-23T14:02:40.017Z StackBlitz <hello@stackblitz.com> :: remove flaky test
 2025-11-23T14:39:28.233Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: remove readme typo
 2025-11-23T14:56:49.737Z Vivid Network <vivid.network@outlook.com> :: add the CI matrix
+2025-11-23T15:27:21.907Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: tweak the CI matrix
