@@ -3184,3 +3184,4 @@
 2025-11-23T15:27:21.907Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: tweak the CI matrix
 2025-11-23T17:44:01.880Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish null check
 2025-11-23T18:40:33.779Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump retry logic
+2025-11-23T19:04:45.859Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: polish edge case in auth
