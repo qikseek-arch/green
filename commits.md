@@ -3183,3 +3183,4 @@
 2025-11-23T14:56:49.737Z Vivid Network <vivid.network@outlook.com> :: add the CI matrix
 2025-11-23T15:27:21.907Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: tweak the CI matrix
 2025-11-23T17:44:01.880Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish null check
+2025-11-23T18:40:33.779Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump retry logic
