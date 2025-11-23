@@ -5407,3 +5407,4 @@
 2025-11-23T13:03:08.221Z Ryan Bigg <radar@users.noreply.github.com> :: update the CI matrix
 2025-11-23T13:58:10.156Z heyli <lcxfs1991@users.noreply.github.com> :: remove retry logic
 2025-11-23T14:15:06.079Z Odi <mathdroid@users.noreply.github.com> :: add flaky test
+2025-11-23T15:06:36.428Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove the parser
