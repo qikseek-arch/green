@@ -144,3 +144,4 @@
 2025-11-22T08:37:10.231Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: bump retry logic
 2025-11-22T09:53:13.094Z Charles Severance <csev@users.noreply.github.com> :: clean up the parser
 2025-11-23T00:42:08.252Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak the parser
+2025-11-23T14:52:04.447Z Connor <Connor9994@users.noreply.github.com> :: remove readme typo
