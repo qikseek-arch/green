@@ -3175,3 +3175,4 @@
 2025-11-23T10:31:27.362Z Thomas Wolf <thomwolf@users.noreply.github.com> :: bump config defaults
 2025-11-23T10:56:36.238Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: polish build script
 2025-11-23T11:07:55.676Z Andrew Mead <andrewjmead@users.noreply.github.com> :: bump null check
+2025-11-23T12:22:03.550Z Nik Graf <nikgraf@users.noreply.github.com> :: wire up config defaults
