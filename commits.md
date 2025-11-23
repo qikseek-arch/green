@@ -3160,3 +3160,4 @@
 2025-11-22T23:46:52.570Z Xe Iaso <Xe@users.noreply.github.com> :: clean up flaky test
 2025-11-22T23:51:47.772Z CodeWithHarry <CodeWithHarry@users.noreply.github.com> :: add edge case in auth
 2025-11-23T00:28:37.267Z Steve Gordon <stevejgordon@users.noreply.github.com> :: bump readme typo
+2025-11-23T01:11:43.116Z 郭飞 <guofei9987@users.noreply.github.com> :: wire up config defaults
