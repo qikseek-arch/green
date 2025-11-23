@@ -5413,3 +5413,4 @@
 2025-11-23T17:40:11.846Z Keith Smiley <keith@users.noreply.github.com> :: update null check
 2025-11-23T17:49:39.514Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish config defaults
 2025-11-23T18:20:19.771Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
+2025-11-23T23:11:08.170Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up the parser
