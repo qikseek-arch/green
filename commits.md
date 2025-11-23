@@ -15095,3 +15095,4 @@
 2025-11-23T17:17:13.677Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak logging
 2025-11-23T17:25:12.322Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up retry logic
 2025-11-23T17:40:46.887Z Morvan <MorvanZhou@users.noreply.github.com> :: bump flaky test
+2025-11-23T19:58:01.689Z OpenBSD <openbsd@users.noreply.github.com> :: add dependency versions
