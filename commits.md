@@ -5409,3 +5409,4 @@
 2025-11-23T14:15:06.079Z Odi <mathdroid@users.noreply.github.com> :: add flaky test
 2025-11-23T15:06:36.428Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove the parser
 2025-11-23T15:10:54.159Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up config defaults
+2025-11-23T16:31:54.247Z RISC-V <info@riscv.org> :: wire up error handling
