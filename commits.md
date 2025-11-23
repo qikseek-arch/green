@@ -15082,3 +15082,4 @@
 2025-11-23T05:04:38.769Z cytopia <cytopia@users.noreply.github.com> :: fix error handling
 2025-11-23T05:47:21.339Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the CI matrix
 2025-11-23T06:21:27.440Z yakeIore <yakeIore@users.noreply.github.com> :: fix dead code
+2025-11-23T06:25:10.849Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish config defaults
