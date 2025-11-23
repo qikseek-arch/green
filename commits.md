@@ -3182,3 +3182,4 @@
 2025-11-23T14:39:28.233Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: remove readme typo
 2025-11-23T14:56:49.737Z Vivid Network <vivid.network@outlook.com> :: add the CI matrix
 2025-11-23T15:27:21.907Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: tweak the CI matrix
+2025-11-23T17:44:01.880Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish null check
