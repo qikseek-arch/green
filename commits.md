@@ -3169,3 +3169,4 @@
 2025-11-23T06:30:24.907Z Aditya Shakya <adi1090x@users.noreply.github.com> :: bump dead code
 2025-11-23T07:29:34.601Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: wire up null check
 2025-11-23T09:17:15.223Z OpenXLA <openxla@users.noreply.github.com> :: bump retry logic
+2025-11-23T09:24:40.719Z jist <george0st@users.noreply.github.com> :: wire up edge case in auth
