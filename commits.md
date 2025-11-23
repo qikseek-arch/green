@@ -15084,3 +15084,4 @@
 2025-11-23T06:21:27.440Z yakeIore <yakeIore@users.noreply.github.com> :: fix dead code
 2025-11-23T06:25:10.849Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish config defaults
 2025-11-23T06:30:37.169Z Odi <mathdroid@users.noreply.github.com> :: tweak logging
+2025-11-23T07:02:52.346Z J.Baci <jbaci@users.noreply.github.com> :: refactor dependency versions
