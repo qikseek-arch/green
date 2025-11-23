@@ -15093,3 +15093,4 @@
 2025-11-23T16:05:07.489Z Scott Chacon <schacon@users.noreply.github.com> :: tweak error handling
 2025-11-23T16:45:59.408Z 1 <insoxin@users.noreply.github.com> :: tweak cache keys
 2025-11-23T17:17:13.677Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak logging
+2025-11-23T17:25:12.322Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up retry logic
