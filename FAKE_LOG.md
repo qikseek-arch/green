@@ -311,3 +311,4 @@
 2025-11-08T00:16:33.492Z TJ Holowaychuk <tj.holowaychuk@fake.invalid> :: polish build script
 2025-11-15T10:01:11.411Z echo <echo@fake.invalid> :: update null check
 2025-11-20T20:29:59.711Z Douglas Crockford <douglas.crockford@fake.invalid> :: bump retry logic
+2025-11-23T07:35:51.950Z BraveYak <braveyak@fake.invalid> :: bump the CI matrix
