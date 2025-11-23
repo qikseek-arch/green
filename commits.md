@@ -15079,3 +15079,4 @@
 2025-11-23T04:16:14.877Z Collabnix <collabnix@users.noreply.github.com> :: wire up the parser
 2025-11-23T04:26:55.271Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: tweak dead code
 2025-11-23T04:49:26.662Z Brendan Gregg <brendangregg@users.noreply.github.com> :: wire up logging
+2025-11-23T05:04:38.769Z cytopia <cytopia@users.noreply.github.com> :: fix error handling
