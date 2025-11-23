@@ -15098,3 +15098,4 @@
 2025-11-23T19:58:01.689Z OpenBSD <openbsd@users.noreply.github.com> :: add dependency versions
 2025-11-23T20:58:23.456Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update dead code
 2025-11-23T21:38:56.867Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor build script
+2025-11-23T23:40:20.838Z Damian Gryski <dgryski@users.noreply.github.com> :: bump edge case in auth
