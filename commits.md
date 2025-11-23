@@ -3185,3 +3185,4 @@
 2025-11-23T17:44:01.880Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish null check
 2025-11-23T18:40:33.779Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: bump retry logic
 2025-11-23T19:04:45.859Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: polish edge case in auth
+2025-11-23T20:05:23.521Z ElevenLabs <developers@elevenlabs.io> :: update null check
