@@ -15090,3 +15090,4 @@
 2025-11-23T12:09:29.895Z Michael Jackson <mjackson@users.noreply.github.com> :: bump dead code
 2025-11-23T13:16:57.213Z winterbe <winterbe@users.noreply.github.com> :: bump logging
 2025-11-23T14:15:18.834Z Alex Teichman <teichman@users.noreply.github.com> :: clean up build script
+2025-11-23T16:05:07.489Z Scott Chacon <schacon@users.noreply.github.com> :: tweak error handling
