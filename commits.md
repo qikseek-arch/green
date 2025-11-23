@@ -3188,3 +3188,4 @@
 2025-11-23T20:05:23.521Z ElevenLabs <developers@elevenlabs.io> :: update null check
 2025-11-23T21:06:30.324Z jist <george0st@users.noreply.github.com> :: clean up the parser
 2025-11-23T22:38:03.940Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up dependency versions
+2025-11-23T23:25:18.075Z Gradio <admin@gradio.app> :: fix the CI matrix
