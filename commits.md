@@ -3180,3 +3180,4 @@
 2025-11-23T13:38:15.378Z OpenShift <openshift@users.noreply.github.com> :: fix null check
 2025-11-23T14:02:40.017Z StackBlitz <hello@stackblitz.com> :: remove flaky test
 2025-11-23T14:39:28.233Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: remove readme typo
+2025-11-23T14:56:49.737Z Vivid Network <vivid.network@outlook.com> :: add the CI matrix
