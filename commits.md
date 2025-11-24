@@ -15113,3 +15113,4 @@
 2025-11-24T08:14:58.824Z Scott Chacon <schacon@users.noreply.github.com> :: wire up readme typo
 2025-11-24T08:23:22.020Z Lipis <lipis@users.noreply.github.com> :: remove readme typo
 2025-11-24T09:01:54.270Z cytopia <cytopia@users.noreply.github.com> :: tweak retry logic
+2025-11-24T09:03:09.132Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add error handling
