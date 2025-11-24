@@ -5422,3 +5422,4 @@
 2025-11-24T05:53:17.647Z Ben Hamner <benhamner@users.noreply.github.com> :: tweak the CI matrix
 2025-11-24T06:58:51.682Z LILYGO <LilyGO@users.noreply.github.com> :: tweak the CI matrix
 2025-11-24T07:01:34.347Z Rei <chloerei@users.noreply.github.com> :: wire up the parser
+2025-11-24T07:10:42.627Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove the CI matrix
