@@ -3190,3 +3190,4 @@
 2025-11-23T22:38:03.940Z Steve Gordon <stevejgordon@users.noreply.github.com> :: wire up dependency versions
 2025-11-23T23:25:18.075Z Gradio <admin@gradio.app> :: fix the CI matrix
 2025-11-23T23:31:42.541Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: remove null check
+2025-11-24T00:27:27.939Z sharkeer <sharkeer@users.noreply.github.com> :: clean up dependency versions
