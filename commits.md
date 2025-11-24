@@ -5437,3 +5437,4 @@
 2025-11-24T18:10:34.876Z Getgems <getgems-io@users.noreply.github.com> :: fix error handling
 2025-11-24T18:15:18.943Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump dead code
 2025-11-24T19:32:18.956Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix the CI matrix
+2025-11-24T23:10:01.758Z CTFs <ctfs@users.noreply.github.com> :: bump config defaults
