@@ -5433,3 +5433,4 @@
 2025-11-24T15:06:33.679Z Taiko Foundation <info@taiko.xyz> :: tweak logging
 2025-11-24T15:32:12.630Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove the CI matrix
 2025-11-24T16:24:42.771Z ring04h <ring04h@users.noreply.github.com> :: bump dependency versions
+2025-11-24T16:57:43.120Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish edge case in auth
