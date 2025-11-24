@@ -5419,3 +5419,4 @@
 2025-11-24T04:00:49.557Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the CI matrix
 2025-11-24T05:07:22.355Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update error handling
 2025-11-24T05:52:27.432Z Claude <claude@users.noreply.github.com> :: remove the CI matrix
+2025-11-24T05:53:17.647Z Ben Hamner <benhamner@users.noreply.github.com> :: tweak the CI matrix
