@@ -5417,3 +5417,4 @@
 2025-11-23T23:55:27.008Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
 2025-11-24T00:24:43.942Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump dependency versions
 2025-11-24T04:00:49.557Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the CI matrix
+2025-11-24T05:07:22.355Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update error handling
