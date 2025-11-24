@@ -5438,3 +5438,4 @@
 2025-11-24T18:15:18.943Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump dead code
 2025-11-24T19:32:18.956Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix the CI matrix
 2025-11-24T23:10:01.758Z CTFs <ctfs@users.noreply.github.com> :: bump config defaults
+2025-11-24T23:26:28.171Z AI4Bhārat <opensource@ai4bharat.org> :: add the CI matrix
