@@ -15100,3 +15100,4 @@
 2025-11-23T21:38:56.867Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor build script
 2025-11-23T23:40:20.838Z Damian Gryski <dgryski@users.noreply.github.com> :: bump edge case in auth
 2025-11-24T01:18:54.897Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up null check
+2025-11-24T01:52:31.330Z Odi <mathdroid@users.noreply.github.com> :: polish dependency versions
