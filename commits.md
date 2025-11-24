@@ -147,3 +147,4 @@
 2025-11-23T14:52:04.447Z Connor <Connor9994@users.noreply.github.com> :: remove readme typo
 2025-11-24T00:24:54.732Z Sebastian <sebmck@users.noreply.github.com> :: fix error handling
 2025-11-24T05:05:48.902Z Yangqing Jia <Yangqing@users.noreply.github.com> :: add the CI matrix
+2025-11-24T13:30:55.005Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: fix readme typo
