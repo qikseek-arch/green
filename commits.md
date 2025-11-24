@@ -5429,3 +5429,4 @@
 2025-11-24T11:13:44.166Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: tweak readme typo
 2025-11-24T11:23:54.339Z Taiko Foundation <info@taiko.xyz> :: wire up readme typo
 2025-11-24T12:02:05.907Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update build script
+2025-11-24T13:06:28.738Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor null check
