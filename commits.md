@@ -5432,3 +5432,4 @@
 2025-11-24T13:06:28.738Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor null check
 2025-11-24T15:06:33.679Z Taiko Foundation <info@taiko.xyz> :: tweak logging
 2025-11-24T15:32:12.630Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove the CI matrix
+2025-11-24T16:24:42.771Z ring04h <ring04h@users.noreply.github.com> :: bump dependency versions
