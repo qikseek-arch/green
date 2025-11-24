@@ -15117,3 +15117,4 @@
 2025-11-24T09:42:02.365Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak config defaults
 2025-11-24T10:37:48.630Z Dove Letter <skydoves2@gmail.com> :: remove the parser
 2025-11-24T10:40:30.047Z Tavis Ormandy <taviso@users.noreply.github.com> :: polish config defaults
+2025-11-24T10:57:20.011Z 1 <insoxin@users.noreply.github.com> :: update readme typo
