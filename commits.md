@@ -15108,3 +15108,4 @@
 2025-11-24T03:15:36.783Z Yiming Cui <ymcui@users.noreply.github.com> :: polish null check
 2025-11-24T03:44:06.391Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor the CI matrix
 2025-11-24T04:16:38.601Z Dove Letter <skydoves2@gmail.com> :: refactor build script
+2025-11-24T05:05:09.124Z John Schulman <joschu@users.noreply.github.com> :: bump edge case in auth
