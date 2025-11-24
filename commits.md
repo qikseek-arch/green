@@ -15125,3 +15125,4 @@
 2025-11-24T16:00:50.119Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up cache keys
 2025-11-24T16:27:07.518Z Alex Teichman <teichman@users.noreply.github.com> :: clean up dependency versions
 2025-11-24T17:15:31.384Z Michael Jackson <mjackson@users.noreply.github.com> :: polish dead code
+2025-11-24T17:21:26.692Z LMSYS <lm-sys@users.noreply.github.com> :: wire up build script
