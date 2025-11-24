@@ -15116,3 +15116,4 @@
 2025-11-24T09:03:09.132Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add error handling
 2025-11-24T09:42:02.365Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak config defaults
 2025-11-24T10:37:48.630Z Dove Letter <skydoves2@gmail.com> :: remove the parser
+2025-11-24T10:40:30.047Z Tavis Ormandy <taviso@users.noreply.github.com> :: polish config defaults
