@@ -5435,3 +5435,4 @@
 2025-11-24T16:24:42.771Z ring04h <ring04h@users.noreply.github.com> :: bump dependency versions
 2025-11-24T16:57:43.120Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish edge case in auth
 2025-11-24T18:10:34.876Z Getgems <getgems-io@users.noreply.github.com> :: fix error handling
+2025-11-24T18:15:18.943Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump dead code
