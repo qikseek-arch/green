@@ -5424,3 +5424,4 @@
 2025-11-24T07:01:34.347Z Rei <chloerei@users.noreply.github.com> :: wire up the parser
 2025-11-24T07:10:42.627Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove the CI matrix
 2025-11-24T08:44:06.139Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor dead code
+2025-11-24T09:00:33.906Z Shubs <infosec-au@users.noreply.github.com> :: polish error handling
