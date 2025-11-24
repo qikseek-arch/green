@@ -15110,3 +15110,4 @@
 2025-11-24T04:16:38.601Z Dove Letter <skydoves2@gmail.com> :: refactor build script
 2025-11-24T05:05:09.124Z John Schulman <joschu@users.noreply.github.com> :: bump edge case in auth
 2025-11-24T05:08:43.585Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove flaky test
+2025-11-24T08:14:58.824Z Scott Chacon <schacon@users.noreply.github.com> :: wire up readme typo
