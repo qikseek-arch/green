@@ -15104,3 +15104,4 @@
 2025-11-24T01:53:12.714Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix dead code
 2025-11-24T02:23:16.705Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump the CI matrix
 2025-11-24T02:32:58.751Z Boshen <Boshen@users.noreply.github.com> :: refactor cache keys
+2025-11-24T02:47:42.092Z Boshen <Boshen@users.noreply.github.com> :: tweak error handling
