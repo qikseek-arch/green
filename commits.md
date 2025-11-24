@@ -5415,3 +5415,4 @@
 2025-11-23T18:20:19.771Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
 2025-11-23T23:11:08.170Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up the parser
 2025-11-23T23:55:27.008Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
+2025-11-24T00:24:43.942Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump dependency versions
