@@ -15130,3 +15130,4 @@
 2025-11-24T19:45:55.965Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up readme typo
 2025-11-24T20:04:59.773Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: wire up logging
 2025-11-24T22:34:56.180Z Elliott Minns <elliottminns@users.noreply.github.com> :: update config defaults
+2025-11-24T23:08:38.980Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: fix config defaults
