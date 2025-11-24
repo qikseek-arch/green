@@ -3204,3 +3204,4 @@
 2025-11-24T15:13:48.919Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: wire up cache keys
 2025-11-24T15:46:45.099Z nf <nf@users.noreply.github.com> :: remove config defaults
 2025-11-24T16:10:37.469Z 卡颂 <BetaSu@users.noreply.github.com> :: remove build script
+2025-11-24T17:20:27.798Z Aditya Shakya <adi1090x@users.noreply.github.com> :: polish readme typo
