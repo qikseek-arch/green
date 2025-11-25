@@ -15155,3 +15155,4 @@
 2025-11-25T15:52:36.796Z OpenBSD <openbsd@users.noreply.github.com> :: remove null check
 2025-11-25T16:09:48.620Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: remove edge case in auth
 2025-11-25T18:18:14.063Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update config defaults
+2025-11-25T20:25:12.137Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: remove retry logic
