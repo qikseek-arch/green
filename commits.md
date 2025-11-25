@@ -5473,3 +5473,4 @@
 2025-11-25T23:29:48.679Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
 2025-11-25T23:34:26.856Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump config defaults
 2025-11-25T23:54:22.449Z BBC <bbc@users.noreply.github.com> :: fix dead code
+2025-11-25T23:54:30.906Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add edge case in auth
