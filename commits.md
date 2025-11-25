@@ -5447,3 +5447,4 @@
 2025-11-25T03:31:48.061Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dependency versions
 2025-11-25T04:26:00.698Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix error handling
 2025-11-25T04:43:42.238Z First Contributions <firstcontributions@gmail.com> :: clean up dependency versions
+2025-11-25T05:06:23.989Z LILYGO <LilyGO@users.noreply.github.com> :: clean up the CI matrix
