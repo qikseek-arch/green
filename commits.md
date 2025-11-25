@@ -152,3 +152,4 @@
 2025-11-24T18:23:01.719Z Craig <geekcomputers@users.noreply.github.com> :: bump cache keys
 2025-11-24T18:49:29.232Z Susan Li <susanli2016@users.noreply.github.com> :: polish retry logic
 2025-11-25T05:30:58.622Z Connor <Connor9994@users.noreply.github.com> :: add config defaults
+2025-11-25T22:04:57.984Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up null check
