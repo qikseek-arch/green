@@ -5443,3 +5443,4 @@
 2025-11-25T00:00:29.225Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak null check
 2025-11-25T00:10:23.114Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add dependency versions
 2025-11-25T02:36:38.871Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish retry logic
+2025-11-25T02:56:08.135Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix the parser
