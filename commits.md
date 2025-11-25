@@ -5454,3 +5454,4 @@
 2025-11-25T10:08:46.589Z markqvist <markqvist@users.noreply.github.com> :: fix flaky test
 2025-11-25T10:17:42.542Z Rafal <RafalW3bCraft@users.noreply.github.com> :: wire up build script
 2025-11-25T11:20:44.077Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: bump config defaults
+2025-11-25T11:26:07.109Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish the parser
