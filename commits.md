@@ -3228,3 +3228,4 @@
 2025-11-25T14:33:31.045Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor build script
 2025-11-25T16:14:54.323Z Vitor Freitas <vitorfs@users.noreply.github.com> :: remove retry logic
 2025-11-25T17:00:45.708Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: update edge case in auth
+2025-11-25T18:26:20.079Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: polish the CI matrix
