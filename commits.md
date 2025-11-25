@@ -3216,3 +3216,4 @@
 2025-11-25T01:49:30.441Z John Blackbourn <johnbillion@users.noreply.github.com> :: remove retry logic
 2025-11-25T02:31:11.270Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: bump flaky test
 2025-11-25T03:54:27.256Z Codewars <info@codewars.com> :: wire up the parser
+2025-11-25T03:58:13.122Z jist <george0st@users.noreply.github.com> :: clean up edge case in auth
