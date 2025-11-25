@@ -5441,3 +5441,4 @@
 2025-11-24T23:26:28.171Z AI4Bhārat <opensource@ai4bharat.org> :: add the CI matrix
 2025-11-24T23:44:03.529Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix build script
 2025-11-25T00:00:29.225Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak null check
+2025-11-25T00:10:23.114Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add dependency versions
