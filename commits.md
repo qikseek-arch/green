@@ -5461,3 +5461,4 @@
 2025-11-25T15:27:06.142Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: bump error handling
 2025-11-25T15:57:18.896Z md-5 <md-5@users.noreply.github.com> :: wire up dependency versions
 2025-11-25T16:27:21.267Z AI4Bhārat <opensource@ai4bharat.org> :: bump retry logic
+2025-11-25T17:29:54.729Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add retry logic
