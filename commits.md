@@ -3212,3 +3212,4 @@
 2025-11-24T20:34:22.591Z StackBlitz <hello@stackblitz.com> :: update cache keys
 2025-11-24T21:27:07.773Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: update dead code
 2025-11-25T00:43:02.474Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: wire up dependency versions
+2025-11-25T01:23:41.156Z Dan Gohman <sunfishcode@users.noreply.github.com> :: remove edge case in auth
