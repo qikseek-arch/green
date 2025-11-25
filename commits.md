@@ -5465,3 +5465,4 @@
 2025-11-25T19:35:07.798Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak null check
 2025-11-25T20:04:08.277Z owenzhang <owenzhang@users.noreply.github.com> :: wire up build script
 2025-11-25T21:46:25.508Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove build script
+2025-11-25T22:09:57.067Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak the CI matrix
