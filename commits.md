@@ -15141,3 +15141,4 @@
 2025-11-25T04:49:45.913Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up dead code
 2025-11-25T05:51:38.091Z Alexandre Mutel <xoofx@users.noreply.github.com> :: remove error handling
 2025-11-25T05:59:58.742Z Scott Chacon <schacon@users.noreply.github.com> :: bump error handling
+2025-11-25T06:37:34.530Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove config defaults
