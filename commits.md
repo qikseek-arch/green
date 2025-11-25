@@ -15137,3 +15137,4 @@
 2025-11-25T01:29:07.473Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor the CI matrix
 2025-11-25T02:33:51.636Z Boshen <Boshen@users.noreply.github.com> :: refactor retry logic
 2025-11-25T02:43:58.968Z Dove Letter <skydoves2@gmail.com> :: polish readme typo
+2025-11-25T03:00:37.882Z OpenBSD <openbsd@users.noreply.github.com> :: fix config defaults
