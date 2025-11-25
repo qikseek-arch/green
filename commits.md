@@ -5458,3 +5458,4 @@
 2025-11-25T12:14:09.666Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: fix dependency versions
 2025-11-25T12:17:14.788Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove cache keys
 2025-11-25T15:20:55.304Z Adam Wathan <adamwathan@users.noreply.github.com> :: fix error handling
+2025-11-25T15:27:06.142Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: bump error handling
