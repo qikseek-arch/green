@@ -5445,3 +5445,4 @@
 2025-11-25T02:36:38.871Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish retry logic
 2025-11-25T02:56:08.135Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix the parser
 2025-11-25T03:31:48.061Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dependency versions
+2025-11-25T04:26:00.698Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix error handling
