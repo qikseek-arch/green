@@ -5457,3 +5457,4 @@
 2025-11-25T11:26:07.109Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish the parser
 2025-11-25T12:14:09.666Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: fix dependency versions
 2025-11-25T12:17:14.788Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove cache keys
+2025-11-25T15:20:55.304Z Adam Wathan <adamwathan@users.noreply.github.com> :: fix error handling
