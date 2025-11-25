@@ -3231,3 +3231,4 @@
 2025-11-25T18:26:20.079Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: polish the CI matrix
 2025-11-25T20:32:42.169Z PostgreSQL <postgres@users.noreply.github.com> :: clean up the parser
 2025-11-25T21:21:52.646Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: add retry logic
+2025-11-25T21:46:46.699Z 卡颂 <BetaSu@users.noreply.github.com> :: fix the CI matrix
