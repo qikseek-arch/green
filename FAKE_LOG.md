@@ -644,3 +644,4 @@
 2025-11-22T11:21:08.418Z Ryan Dahl <ry@users.noreply.github.com> :: refactor logging
 2025-11-23T05:58:22.615Z Wes Bos <wesbos@users.noreply.github.com> :: add config defaults
 2025-11-25T10:40:28.894Z Jake Wharton <JakeWharton@users.noreply.github.com> :: bump dead code
+2025-11-25T19:01:42.730Z David J. Malan <dmalan@users.noreply.github.com> :: clean up retry logic
