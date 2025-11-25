@@ -5463,3 +5463,4 @@
 2025-11-25T16:27:21.267Z AI4Bhārat <opensource@ai4bharat.org> :: bump retry logic
 2025-11-25T17:29:54.729Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add retry logic
 2025-11-25T19:35:07.798Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak null check
+2025-11-25T20:04:08.277Z owenzhang <owenzhang@users.noreply.github.com> :: wire up build script
