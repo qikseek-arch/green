@@ -5442,3 +5442,4 @@
 2025-11-24T23:44:03.529Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix build script
 2025-11-25T00:00:29.225Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak null check
 2025-11-25T00:10:23.114Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add dependency versions
+2025-11-25T02:36:38.871Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish retry logic
