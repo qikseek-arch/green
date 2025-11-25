@@ -15143,3 +15143,4 @@
 2025-11-25T05:59:58.742Z Scott Chacon <schacon@users.noreply.github.com> :: bump error handling
 2025-11-25T06:37:34.530Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove config defaults
 2025-11-25T07:04:26.094Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove logging
+2025-11-25T08:36:35.502Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up config defaults
