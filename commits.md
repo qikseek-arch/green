@@ -15150,3 +15150,4 @@
 2025-11-25T10:19:18.098Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: remove cache keys
 2025-11-25T10:59:31.974Z John Schulman <joschu@users.noreply.github.com> :: tweak build script
 2025-11-25T11:03:10.159Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor build script
+2025-11-25T12:37:13.485Z imput <hello@imput.net> :: add dependency versions
