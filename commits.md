@@ -5470,3 +5470,4 @@
 2025-11-25T22:58:22.100Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor readme typo
 2025-11-25T23:08:27.261Z LILYGO <LilyGO@users.noreply.github.com> :: fix build script
 2025-11-25T23:20:23.551Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix readme typo
+2025-11-25T23:29:48.679Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
