@@ -15139,3 +15139,4 @@
 2025-11-25T02:43:58.968Z Dove Letter <skydoves2@gmail.com> :: polish readme typo
 2025-11-25T03:00:37.882Z OpenBSD <openbsd@users.noreply.github.com> :: fix config defaults
 2025-11-25T04:49:45.913Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up dead code
+2025-11-25T05:51:38.091Z Alexandre Mutel <xoofx@users.noreply.github.com> :: remove error handling
