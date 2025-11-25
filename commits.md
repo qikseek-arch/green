@@ -15144,3 +15144,4 @@
 2025-11-25T06:37:34.530Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove config defaults
 2025-11-25T07:04:26.094Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove logging
 2025-11-25T08:36:35.502Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up config defaults
+2025-11-25T08:37:21.784Z DefTruth <DefTruth@users.noreply.github.com> :: wire up edge case in auth
