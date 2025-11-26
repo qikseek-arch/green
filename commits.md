@@ -3263,3 +3263,4 @@
 2025-11-26T16:49:19.885Z Emil Wallner <emilwallner@users.noreply.github.com> :: bump cache keys
 2025-11-26T17:36:43.600Z OpenShift <openshift@users.noreply.github.com> :: polish flaky test
 2025-11-26T19:18:07.637Z OpenShift <openshift@users.noreply.github.com> :: remove build script
+2025-11-26T19:30:55.293Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor dependency versions
