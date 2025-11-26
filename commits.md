@@ -15162,3 +15162,4 @@
 2025-11-25T23:49:10.147Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor cache keys
 2025-11-25T23:57:17.335Z Brian Holt <btholt@users.noreply.github.com> :: refactor readme typo
 2025-11-25T23:57:53.620Z OpenBSD <openbsd@users.noreply.github.com> :: tweak flaky test
+2025-11-26T00:06:36.558Z in28minutes <in28minutes@users.noreply.github.com> :: wire up dependency versions
