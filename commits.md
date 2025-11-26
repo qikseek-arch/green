@@ -5496,3 +5496,4 @@
 2025-11-26T18:53:11.607Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add the parser
 2025-11-26T19:09:13.501Z Sachin Soni <techiesms@users.noreply.github.com> :: bump dependency versions
 2025-11-26T20:40:46.058Z RISC-V <info@riscv.org> :: add config defaults
+2025-11-26T20:46:27.808Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish retry logic
