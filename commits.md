@@ -5476,3 +5476,4 @@
 2025-11-25T23:54:30.906Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add edge case in auth
 2025-11-26T01:27:20.602Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dependency versions
 2025-11-26T03:04:20.028Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove logging
+2025-11-26T03:29:40.000Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak the CI matrix
