@@ -3243,3 +3243,4 @@
 2025-11-26T06:14:23.730Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: remove edge case in auth
 2025-11-26T06:40:45.098Z jist <george0st@users.noreply.github.com> :: bump error handling
 2025-11-26T08:48:06.532Z Antônio Nascimento <Ninja1375@users.noreply.github.com> :: polish null check
+2025-11-26T10:37:31.381Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: add null check
