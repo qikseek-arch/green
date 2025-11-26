@@ -15168,3 +15168,4 @@
 2025-11-26T02:54:11.384Z Dove Letter <skydoves2@gmail.com> :: polish error handling
 2025-11-26T05:51:43.544Z LocalSend <localsend@users.noreply.github.com> :: update flaky test
 2025-11-26T06:13:58.938Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: add build script
+2025-11-26T09:05:14.290Z Mr L <Soldy@users.noreply.github.com> :: remove the CI matrix
