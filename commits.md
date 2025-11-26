@@ -5492,3 +5492,4 @@
 2025-11-26T13:31:52.822Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor edge case in auth
 2025-11-26T13:35:17.971Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up error handling
 2025-11-26T15:12:57.477Z CTFs <ctfs@users.noreply.github.com> :: wire up error handling
+2025-11-26T16:40:29.269Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update dependency versions
