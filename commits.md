@@ -3262,3 +3262,4 @@
 2025-11-26T16:46:50.271Z Jonathan <Grafikart@users.noreply.github.com> :: polish dependency versions
 2025-11-26T16:49:19.885Z Emil Wallner <emilwallner@users.noreply.github.com> :: bump cache keys
 2025-11-26T17:36:43.600Z OpenShift <openshift@users.noreply.github.com> :: polish flaky test
+2025-11-26T19:18:07.637Z OpenShift <openshift@users.noreply.github.com> :: remove build script
