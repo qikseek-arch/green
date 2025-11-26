@@ -3267,3 +3267,4 @@
 2025-11-26T20:11:33.210Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: wire up build script
 2025-11-26T20:21:24.427Z Siemens <opensource@siemens.com> :: bump the parser
 2025-11-26T20:52:12.638Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: update error handling
+2025-11-26T21:06:30.465Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix config defaults
