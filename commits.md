@@ -15172,3 +15172,4 @@
 2025-11-26T10:39:31.397Z Damian Gryski <dgryski@users.noreply.github.com> :: add logging
 2025-11-26T11:55:28.571Z in28minutes <in28minutes@users.noreply.github.com> :: tweak readme typo
 2025-11-26T12:29:23.744Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update null check
+2025-11-26T14:00:30.228Z Prometheus <prometheus@users.noreply.github.com> :: clean up readme typo
