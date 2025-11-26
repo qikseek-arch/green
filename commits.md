@@ -5478,3 +5478,4 @@
 2025-11-26T03:04:20.028Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove logging
 2025-11-26T03:29:40.000Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak the CI matrix
 2025-11-26T03:51:58.535Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dead code
+2025-11-26T04:49:50.880Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish build script
