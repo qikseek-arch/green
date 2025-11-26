@@ -5480,3 +5480,4 @@
 2025-11-26T03:51:58.535Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dead code
 2025-11-26T04:49:50.880Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish build script
 2025-11-26T05:18:58.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak build script
+2025-11-26T05:32:06.123Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor config defaults
