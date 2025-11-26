@@ -3257,3 +3257,4 @@
 2025-11-26T13:16:30.058Z 황준일 <JunilHwang@users.noreply.github.com> :: tweak retry logic
 2025-11-26T13:38:24.178Z z3r0yu <zer0yu@users.noreply.github.com> :: refactor dead code
 2025-11-26T14:40:27.704Z Jimmy Bogard <jbogard@users.noreply.github.com> :: update edge case in auth
+2025-11-26T14:50:47.293Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: remove edge case in auth
