@@ -3241,3 +3241,4 @@
 2025-11-26T04:28:30.164Z Kenney <KenneyNL@users.noreply.github.com> :: fix flaky test
 2025-11-26T05:07:01.359Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: bump retry logic
 2025-11-26T06:14:23.730Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: remove edge case in auth
+2025-11-26T06:40:45.098Z jist <george0st@users.noreply.github.com> :: bump error handling
