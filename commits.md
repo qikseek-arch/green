@@ -3265,3 +3265,4 @@
 2025-11-26T19:18:07.637Z OpenShift <openshift@users.noreply.github.com> :: remove build script
 2025-11-26T19:30:55.293Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: refactor dependency versions
 2025-11-26T20:11:33.210Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: wire up build script
+2025-11-26T20:21:24.427Z Siemens <opensource@siemens.com> :: bump the parser
