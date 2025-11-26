@@ -3233,3 +3233,4 @@
 2025-11-25T21:21:52.646Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: add retry logic
 2025-11-25T21:46:46.699Z 卡颂 <BetaSu@users.noreply.github.com> :: fix the CI matrix
 2025-11-26T01:23:04.902Z Andrew Mead <andrewjmead@users.noreply.github.com> :: fix null check
+2025-11-26T01:27:33.107Z 郭飞 <guofei9987@users.noreply.github.com> :: fix edge case in auth
