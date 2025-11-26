@@ -5490,3 +5490,4 @@
 2025-11-26T11:44:58.708Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update readme typo
 2025-11-26T12:24:48.208Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor dependency versions
 2025-11-26T13:31:52.822Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor edge case in auth
+2025-11-26T13:35:17.971Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up error handling
