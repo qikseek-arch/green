@@ -5482,3 +5482,4 @@
 2025-11-26T05:18:58.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak build script
 2025-11-26T05:32:06.123Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor config defaults
 2025-11-26T06:33:58.318Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix build script
+2025-11-26T06:59:01.968Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak null check
