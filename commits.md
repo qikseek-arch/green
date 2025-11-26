@@ -5487,3 +5487,4 @@
 2025-11-26T08:30:00.892Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak retry logic
 2025-11-26T09:22:20.847Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the parser
 2025-11-26T09:26:01.655Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up edge case in auth
+2025-11-26T11:44:58.708Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update readme typo
