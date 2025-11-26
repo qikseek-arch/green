@@ -15178,3 +15178,4 @@
 2025-11-26T20:07:04.564Z Scott Chacon <schacon@users.noreply.github.com> :: add readme typo
 2025-11-26T21:42:55.658Z Jordan Harband <ljharb@users.noreply.github.com> :: bump readme typo
 2025-11-26T21:59:14.386Z JoJo Amanie <jojoamanie@users.noreply.github.com> :: refactor readme typo
+2025-11-26T22:16:51.722Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up the parser
