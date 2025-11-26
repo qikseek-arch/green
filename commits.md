@@ -5493,3 +5493,4 @@
 2025-11-26T13:35:17.971Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up error handling
 2025-11-26T15:12:57.477Z CTFs <ctfs@users.noreply.github.com> :: wire up error handling
 2025-11-26T16:40:29.269Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update dependency versions
+2025-11-26T18:53:11.607Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add the parser
