@@ -5474,3 +5474,4 @@
 2025-11-25T23:34:26.856Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump config defaults
 2025-11-25T23:54:22.449Z BBC <bbc@users.noreply.github.com> :: fix dead code
 2025-11-25T23:54:30.906Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add edge case in auth
+2025-11-26T01:27:20.602Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dependency versions
