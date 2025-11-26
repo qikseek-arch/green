@@ -3270,3 +3270,4 @@
 2025-11-26T21:06:30.465Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix config defaults
 2025-11-26T21:15:14.712Z Emil Wallner <emilwallner@users.noreply.github.com> :: clean up build script
 2025-11-26T21:16:23.799Z 郭飞 <guofei9987@users.noreply.github.com> :: add the parser
+2025-11-26T22:39:23.747Z Jimmy Bogard <jbogard@users.noreply.github.com> :: bump the CI matrix
