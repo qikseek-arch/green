@@ -15174,3 +15174,4 @@
 2025-11-26T12:29:23.744Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update null check
 2025-11-26T14:00:30.228Z Prometheus <prometheus@users.noreply.github.com> :: clean up readme typo
 2025-11-26T14:34:33.205Z in28minutes <in28minutes@users.noreply.github.com> :: tweak cache keys
+2025-11-26T17:07:33.427Z winterbe <winterbe@users.noreply.github.com> :: update build script
