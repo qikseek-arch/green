@@ -15203,3 +15203,4 @@
 2025-11-27T08:20:18.727Z Prometheus <prometheus@users.noreply.github.com> :: refactor the CI matrix
 2025-11-27T09:57:50.735Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump retry logic
 2025-11-27T10:57:24.981Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish edge case in auth
+2025-11-27T12:06:25.738Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor readme typo
