@@ -3300,3 +3300,4 @@
 2025-11-27T15:25:51.709Z josejairobaltazargallegos-afk <josejairobaltazargallegos-afk@users.noreply.github.com> :: wire up logging
 2025-11-27T15:57:28.190Z Dan Gohman <sunfishcode@users.noreply.github.com> :: bump the parser
 2025-11-27T17:31:13.396Z Xposed Modules Repository <Xposed-Modules-Repo@users.noreply.github.com> :: polish flaky test
+2025-11-27T19:39:50.434Z Andrew Mead <andrewjmead@users.noreply.github.com> :: polish dependency versions
