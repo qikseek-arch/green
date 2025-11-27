@@ -411,3 +411,4 @@
 2025-11-18T22:13:38.567Z rune <rune@fake.invalid> :: update cache keys
 2025-11-19T01:46:49.097Z solarwizard356 <solarwizard356@fake.invalid> :: clean up flaky test
 2025-11-24T08:13:10.167Z molten-packet_x <molten-packet_x@fake.invalid> :: update the parser
+2025-11-27T22:42:00.933Z wired-monolith_io <wired-monolith_io@fake.invalid> :: remove logging
