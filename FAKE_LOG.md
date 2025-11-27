@@ -646,3 +646,4 @@
 2025-11-25T10:40:28.894Z Jake Wharton <JakeWharton@users.noreply.github.com> :: bump dead code
 2025-11-25T19:01:42.730Z David J. Malan <dmalan@users.noreply.github.com> :: clean up retry logic
 2025-11-26T01:12:13.592Z Claude <claude@users.noreply.github.com> :: add null check
+2025-11-27T10:07:49.772Z Kunal Kushwaha <kunal-kushwaha@users.noreply.github.com> :: wire up edge case in auth
