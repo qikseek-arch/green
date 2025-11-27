@@ -15212,3 +15212,4 @@
 2025-11-27T18:21:54.068Z Yiming Cui <ymcui@users.noreply.github.com> :: remove the parser
 2025-11-27T19:32:39.527Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix null check
 2025-11-27T20:05:55.057Z OpenBMB <openbmb@gmail.com> :: tweak config defaults
+2025-11-27T22:20:49.193Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the CI matrix
