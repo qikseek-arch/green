@@ -3285,3 +3285,4 @@
 2025-11-27T05:16:19.954Z Navin Reddy <navinreddy20@users.noreply.github.com> :: add config defaults
 2025-11-27T07:12:28.343Z Baraa Khatib Salkini <DataWithBaraa@users.noreply.github.com> :: clean up dependency versions
 2025-11-27T07:41:08.392Z LN <ln-dev7@users.noreply.github.com> :: add error handling
+2025-11-27T08:00:47.044Z OpenShift <openshift@users.noreply.github.com> :: bump error handling
