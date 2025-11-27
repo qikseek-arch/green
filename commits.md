@@ -15188,3 +15188,4 @@
 2025-11-27T01:38:48.488Z Brian Holt <btholt@users.noreply.github.com> :: update flaky test
 2025-11-27T01:54:39.532Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: polish readme typo
 2025-11-27T02:29:22.618Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix dead code
+2025-11-27T03:18:35.670Z Google Fonts <googlefonts@users.noreply.github.com> :: remove config defaults
