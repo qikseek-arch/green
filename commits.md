@@ -15186,3 +15186,4 @@
 2025-11-27T00:57:38.323Z LMSYS <lm-sys@users.noreply.github.com> :: add the parser
 2025-11-27T01:21:18.757Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up error handling
 2025-11-27T01:38:48.488Z Brian Holt <btholt@users.noreply.github.com> :: update flaky test
+2025-11-27T01:54:39.532Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: polish readme typo
