@@ -15192,3 +15192,4 @@
 2025-11-27T03:23:12.296Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove null check
 2025-11-27T03:26:21.109Z OpenBSD <openbsd@users.noreply.github.com> :: wire up cache keys
 2025-11-27T03:31:24.005Z Morvan <MorvanZhou@users.noreply.github.com> :: polish dead code
+2025-11-27T03:43:58.610Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor error handling
