@@ -155,3 +155,4 @@
 2025-11-25T22:04:57.984Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up null check
 2025-11-26T02:04:52.893Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up flaky test
 2025-11-27T08:12:53.737Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: update readme typo
+2025-11-27T11:45:55.671Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: add dead code
