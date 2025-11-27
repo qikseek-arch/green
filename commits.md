@@ -3287,3 +3287,4 @@
 2025-11-27T07:41:08.392Z LN <ln-dev7@users.noreply.github.com> :: add error handling
 2025-11-27T08:00:47.044Z OpenShift <openshift@users.noreply.github.com> :: bump error handling
 2025-11-27T08:07:44.397Z Andrew Mead <andrewjmead@users.noreply.github.com> :: polish flaky test
+2025-11-27T08:30:18.375Z jist <george0st@users.noreply.github.com> :: remove dependency versions
