@@ -15196,3 +15196,4 @@
 2025-11-27T05:21:28.833Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump null check
 2025-11-27T05:44:56.254Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor logging
 2025-11-27T06:06:40.867Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove error handling
+2025-11-27T06:08:16.148Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up the parser
