@@ -15210,3 +15210,4 @@
 2025-11-27T15:03:07.094Z Shougo <Shougo@users.noreply.github.com> :: polish retry logic
 2025-11-27T15:26:36.584Z OpenBSD <openbsd@users.noreply.github.com> :: update the parser
 2025-11-27T18:21:54.068Z Yiming Cui <ymcui@users.noreply.github.com> :: remove the parser
+2025-11-27T19:32:39.527Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix null check
