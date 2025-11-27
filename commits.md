@@ -5519,3 +5519,4 @@
 2025-11-27T14:17:52.395Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up the CI matrix
 2025-11-27T14:26:14.469Z WebRTC <discuss-webrtc@googlegroups.com> :: clean up readme typo
 2025-11-27T15:13:28.841Z Barret李靖 <barretlee@users.noreply.github.com> :: add logging
+2025-11-27T18:17:51.462Z Keith Smiley <keith@users.noreply.github.com> :: refactor dependency versions
