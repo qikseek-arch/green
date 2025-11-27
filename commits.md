@@ -3279,3 +3279,4 @@
 2025-11-27T02:00:03.894Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: add cache keys
 2025-11-27T02:19:26.617Z Canonical <canonical@users.noreply.github.com> :: add cache keys
 2025-11-27T03:05:42.237Z jist <george0st@users.noreply.github.com> :: clean up dead code
+2025-11-27T03:32:21.069Z ElevenLabs <developers@elevenlabs.io> :: fix edge case in auth
