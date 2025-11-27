@@ -5511,3 +5511,4 @@
 2025-11-27T08:48:15.785Z BBC <bbc@users.noreply.github.com> :: update edge case in auth
 2025-11-27T09:46:52.689Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up cache keys
 2025-11-27T10:10:25.461Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up build script
+2025-11-27T10:33:10.092Z Taiko Foundation <info@taiko.xyz> :: bump the parser
