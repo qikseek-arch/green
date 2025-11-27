@@ -5505,3 +5505,4 @@
 2025-11-27T02:03:26.308Z Ben Hamner <benhamner@users.noreply.github.com> :: remove config defaults
 2025-11-27T04:47:51.058Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add config defaults
 2025-11-27T04:59:53.782Z David Clark <nullptrException100@users.noreply.github.com> :: update edge case in auth
+2025-11-27T05:24:16.126Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish config defaults
