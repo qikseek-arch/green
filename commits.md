@@ -3306,3 +3306,4 @@
 2025-11-27T21:01:39.409Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix retry logic
 2025-11-27T21:01:56.014Z 황준일 <JunilHwang@users.noreply.github.com> :: bump null check
 2025-11-27T21:10:11.262Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor the parser
+2025-11-27T21:57:25.184Z Vivid Network <vivid.network@outlook.com> :: clean up readme typo
