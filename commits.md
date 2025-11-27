@@ -5513,3 +5513,4 @@
 2025-11-27T10:10:25.461Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up build script
 2025-11-27T10:33:10.092Z Taiko Foundation <info@taiko.xyz> :: bump the parser
 2025-11-27T10:43:43.495Z Getgems <getgems-io@users.noreply.github.com> :: refactor readme typo
+2025-11-27T12:13:48.910Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: refactor retry logic
