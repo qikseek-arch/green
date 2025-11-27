@@ -160,3 +160,4 @@
 2025-11-27T15:40:51.532Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: remove the parser
 2025-11-27T19:04:08.839Z Ce Gao <gaocegege@users.noreply.github.com> :: clean up build script
 2025-11-27T23:35:07.093Z Avik Jain <Avik-Jain@users.noreply.github.com> :: bump logging
+2025-11-27T23:45:47.084Z Iuri Silva <iuricode@users.noreply.github.com> :: wire up dead code
