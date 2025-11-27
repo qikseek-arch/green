@@ -5525,3 +5525,4 @@
 2025-11-27T20:02:59.046Z Adam Łucek <ALucek@users.noreply.github.com> :: update dead code
 2025-11-27T20:27:33.990Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
 2025-11-27T20:30:00.785Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up retry logic
+2025-11-27T20:45:57.808Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak edge case in auth
