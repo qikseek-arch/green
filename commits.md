@@ -15208,3 +15208,4 @@
 2025-11-27T12:47:08.330Z 1 <insoxin@users.noreply.github.com> :: polish cache keys
 2025-11-27T14:33:23.871Z Scott Chacon <schacon@users.noreply.github.com> :: tweak dead code
 2025-11-27T15:03:07.094Z Shougo <Shougo@users.noreply.github.com> :: polish retry logic
+2025-11-27T15:26:36.584Z OpenBSD <openbsd@users.noreply.github.com> :: update the parser
