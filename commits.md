@@ -157,3 +157,4 @@
 2025-11-27T08:12:53.737Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: update readme typo
 2025-11-27T11:45:55.671Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: add dead code
 2025-11-27T15:29:36.738Z Sebastian <sebmck@users.noreply.github.com> :: bump edge case in auth
+2025-11-27T15:40:51.532Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: remove the parser
