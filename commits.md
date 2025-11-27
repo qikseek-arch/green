@@ -3303,3 +3303,4 @@
 2025-11-27T19:39:50.434Z Andrew Mead <andrewjmead@users.noreply.github.com> :: polish dependency versions
 2025-11-27T20:35:58.899Z Bjørn Erik Pedersen <bep@users.noreply.github.com> :: clean up cache keys
 2025-11-27T20:59:45.602Z Navin Reddy <navinreddy20@users.noreply.github.com> :: polish config defaults
+2025-11-27T21:01:39.409Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: fix retry logic
