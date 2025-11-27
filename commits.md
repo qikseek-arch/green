@@ -15184,3 +15184,4 @@
 2025-11-26T23:22:52.861Z Brian Holt <btholt@users.noreply.github.com> :: remove retry logic
 2025-11-27T00:48:59.288Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump cache keys
 2025-11-27T00:57:38.323Z LMSYS <lm-sys@users.noreply.github.com> :: add the parser
+2025-11-27T01:21:18.757Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up error handling
