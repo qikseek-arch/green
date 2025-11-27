@@ -3308,3 +3308,4 @@
 2025-11-27T21:10:11.262Z 𝙅𝙚𝙥𝙝𝙈𝘿 <jephersonRD@users.noreply.github.com> :: refactor the parser
 2025-11-27T21:57:25.184Z Vivid Network <vivid.network@outlook.com> :: clean up readme typo
 2025-11-27T22:23:03.386Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: update edge case in auth
+2025-11-27T22:59:21.135Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: update null check
