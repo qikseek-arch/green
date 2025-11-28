@@ -313,3 +313,4 @@
 2025-11-20T20:29:59.711Z Douglas Crockford <douglas.crockford@fake.invalid> :: bump retry logic
 2025-11-23T07:35:51.950Z BraveYak <braveyak@fake.invalid> :: bump the CI matrix
 2025-11-24T05:39:36.683Z Jeff Dean <jeff.dean@fake.invalid> :: add logging
+2025-11-28T05:35:49.628Z Marie Curie <marie.curie@fake.invalid> :: tweak the parser
