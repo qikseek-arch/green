@@ -5542,3 +5542,4 @@
 2025-11-28T07:18:22.537Z Sachin Soni <techiesms@users.noreply.github.com> :: bump dead code
 2025-11-28T07:23:27.687Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix flaky test
 2025-11-28T07:28:08.445Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove logging
+2025-11-28T07:48:25.437Z Adam Bell <b3ll@users.noreply.github.com> :: fix the parser
