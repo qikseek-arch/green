@@ -15233,3 +15233,4 @@
 2025-11-28T20:37:56.106Z OpenBMB <openbmb@gmail.com> :: update dependency versions
 2025-11-28T21:14:25.845Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
 2025-11-28T22:02:14.396Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dependency versions
+2025-11-28T22:31:04.772Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish null check
