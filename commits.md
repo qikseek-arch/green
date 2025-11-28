@@ -3319,3 +3319,4 @@
 2025-11-28T04:13:46.005Z Nik Graf <nikgraf@users.noreply.github.com> :: add readme typo
 2025-11-28T06:27:49.727Z Diu <ddiu8081@users.noreply.github.com> :: bump the CI matrix
 2025-11-28T07:15:38.736Z 灵茶山艾府 [0x3F] <EndlessCheng@users.noreply.github.com> :: remove cache keys
+2025-11-28T08:48:30.911Z Shuo <ShuoYangRobotics@users.noreply.github.com> :: bump error handling
