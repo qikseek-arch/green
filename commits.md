@@ -5551,3 +5551,4 @@
 2025-11-28T16:35:35.254Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove error handling
 2025-11-28T18:23:35.805Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up the CI matrix
 2025-11-28T18:23:45.763Z Claude <claude@users.noreply.github.com> :: update flaky test
+2025-11-28T22:30:23.580Z owenzhang <owenzhang@users.noreply.github.com> :: fix dependency versions
