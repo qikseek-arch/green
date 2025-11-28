@@ -15232,3 +15232,4 @@
 2025-11-28T20:24:31.582Z winterbe <winterbe@users.noreply.github.com> :: refactor flaky test
 2025-11-28T20:37:56.106Z OpenBMB <openbmb@gmail.com> :: update dependency versions
 2025-11-28T21:14:25.845Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
+2025-11-28T22:02:14.396Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dependency versions
