@@ -15234,3 +15234,4 @@
 2025-11-28T21:14:25.845Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
 2025-11-28T22:02:14.396Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dependency versions
 2025-11-28T22:31:04.772Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish null check
+2025-11-28T23:41:05.029Z cytopia <cytopia@users.noreply.github.com> :: tweak error handling
