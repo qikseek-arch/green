@@ -15221,3 +15221,4 @@
 2025-11-28T08:58:27.126Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix dead code
 2025-11-28T09:22:55.524Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up build script
 2025-11-28T13:26:37.125Z Tom Dale <tomdale@users.noreply.github.com> :: clean up build script
+2025-11-28T13:53:53.457Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up config defaults
