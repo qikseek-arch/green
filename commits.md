@@ -3310,3 +3310,4 @@
 2025-11-27T22:23:03.386Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: update edge case in auth
 2025-11-27T22:59:21.135Z Ahmed Hamdy <FlutterSmith@users.noreply.github.com> :: update null check
 2025-11-27T23:13:28.462Z Tuba Khan <tubakhxn@users.noreply.github.com> :: update dependency versions
+2025-11-28T00:19:07.632Z Lei Mao <leimao@users.noreply.github.com> :: fix edge case in auth
