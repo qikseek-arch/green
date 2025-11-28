@@ -3336,3 +3336,4 @@
 2025-11-28T18:55:33.986Z 郭飞 <guofei9987@users.noreply.github.com> :: wire up readme typo
 2025-11-28T21:58:32.427Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: tweak edge case in auth
 2025-11-28T22:03:06.062Z Navin Reddy <navinreddy20@users.noreply.github.com> :: tweak null check
+2025-11-28T22:31:10.625Z Brandon Dail <aweary@users.noreply.github.com> :: tweak edge case in auth
