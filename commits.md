@@ -3323,3 +3323,4 @@
 2025-11-28T09:06:29.465Z Jonathan <Grafikart@users.noreply.github.com> :: refactor retry logic
 2025-11-28T09:19:43.165Z Vivid Network <vivid.network@outlook.com> :: clean up build script
 2025-11-28T09:21:16.797Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: update flaky test
+2025-11-28T11:20:20.594Z José Valim <josevalim@users.noreply.github.com> :: remove readme typo
