@@ -5543,3 +5543,4 @@
 2025-11-28T07:23:27.687Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix flaky test
 2025-11-28T07:28:08.445Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove logging
 2025-11-28T07:48:25.437Z Adam Bell <b3ll@users.noreply.github.com> :: fix the parser
+2025-11-28T08:14:29.225Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish the CI matrix
