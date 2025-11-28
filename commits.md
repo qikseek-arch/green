@@ -3333,3 +3333,4 @@
 2025-11-28T18:16:27.835Z codefollower <codefollower@users.noreply.github.com> :: fix edge case in auth
 2025-11-28T18:32:33.178Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: refactor build script
 2025-11-28T18:36:55.761Z Vitor Freitas <vitorfs@users.noreply.github.com> :: add config defaults
+2025-11-28T18:55:33.986Z 郭飞 <guofei9987@users.noreply.github.com> :: wire up readme typo
