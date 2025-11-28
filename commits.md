@@ -15219,3 +15219,4 @@
 2025-11-28T07:01:10.769Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix null check
 2025-11-28T08:40:23.923Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix readme typo
 2025-11-28T08:58:27.126Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix dead code
+2025-11-28T09:22:55.524Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up build script
