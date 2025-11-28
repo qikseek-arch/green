@@ -5546,3 +5546,4 @@
 2025-11-28T08:14:29.225Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish the CI matrix
 2025-11-28T12:14:48.848Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up flaky test
 2025-11-28T13:41:24.400Z WebRTC <discuss-webrtc@googlegroups.com> :: polish the parser
+2025-11-28T15:10:07.410Z Damian Dulisz <shentao@users.noreply.github.com> :: update the parser
