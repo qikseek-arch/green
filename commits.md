@@ -3325,3 +3325,4 @@
 2025-11-28T09:21:16.797Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: update flaky test
 2025-11-28T11:20:20.594Z José Valim <josevalim@users.noreply.github.com> :: remove readme typo
 2025-11-28T11:53:08.005Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: bump the parser
+2025-11-28T12:51:50.992Z farza <farzaa@users.noreply.github.com> :: tweak dependency versions
