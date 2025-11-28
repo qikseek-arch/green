@@ -15225,3 +15225,4 @@
 2025-11-28T14:23:06.122Z Amnezia VPN <support@amnezia.org> :: add logging
 2025-11-28T15:02:18.865Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add config defaults
 2025-11-28T15:41:00.868Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump flaky test
+2025-11-28T16:10:54.159Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak dead code
