@@ -15222,3 +15222,4 @@
 2025-11-28T09:22:55.524Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up build script
 2025-11-28T13:26:37.125Z Tom Dale <tomdale@users.noreply.github.com> :: clean up build script
 2025-11-28T13:53:53.457Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up config defaults
+2025-11-28T14:23:06.122Z Amnezia VPN <support@amnezia.org> :: add logging
