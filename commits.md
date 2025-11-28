@@ -3330,3 +3330,4 @@
 2025-11-28T13:57:00.775Z Nik Graf <nikgraf@users.noreply.github.com> :: polish dead code
 2025-11-28T17:30:46.625Z farza <farzaa@users.noreply.github.com> :: clean up cache keys
 2025-11-28T18:07:05.843Z Brandon Dail <aweary@users.noreply.github.com> :: add flaky test
+2025-11-28T18:16:27.835Z codefollower <codefollower@users.noreply.github.com> :: fix edge case in auth
