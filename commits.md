@@ -15260,3 +15260,4 @@
 2025-11-29T19:47:38.719Z Yiming Cui <ymcui@users.noreply.github.com> :: polish retry logic
 2025-11-29T20:18:57.083Z winterbe <winterbe@users.noreply.github.com> :: refactor dead code
 2025-11-29T20:33:41.215Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: add readme typo
+2025-11-29T21:01:00.348Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up build script
