@@ -5558,3 +5558,4 @@
 2025-11-29T03:15:12.689Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
 2025-11-29T03:58:42.886Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove error handling
 2025-11-29T04:22:33.904Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
+2025-11-29T04:29:30.628Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
