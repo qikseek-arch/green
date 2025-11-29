@@ -3358,3 +3358,4 @@
 2025-11-29T11:27:15.812Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: wire up config defaults
 2025-11-29T13:57:46.311Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: tweak error handling
 2025-11-29T14:06:06.835Z John Blackbourn <johnbillion@users.noreply.github.com> :: remove edge case in auth
+2025-11-29T15:43:50.955Z Jimmy Bogard <jbogard@users.noreply.github.com> :: fix logging
