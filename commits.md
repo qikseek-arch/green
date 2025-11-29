@@ -15249,3 +15249,4 @@
 2025-11-29T10:43:41.135Z Tom Dale <tomdale@users.noreply.github.com> :: remove dead code
 2025-11-29T11:26:53.245Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: tweak dead code
 2025-11-29T11:58:02.767Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump dead code
+2025-11-29T13:37:40.285Z Scott Chacon <schacon@users.noreply.github.com> :: tweak readme typo
