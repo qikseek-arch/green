@@ -5563,3 +5563,4 @@
 2025-11-29T08:23:41.162Z Ivan Volkov <Chitus@users.noreply.github.com> :: add flaky test
 2025-11-29T08:48:23.744Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up the CI matrix
 2025-11-29T09:05:01.676Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor build script
+2025-11-29T11:31:50.516Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the CI matrix
