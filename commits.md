@@ -3355,3 +3355,4 @@
 2025-11-29T09:22:20.548Z 郭飞 <guofei9987@users.noreply.github.com> :: add readme typo
 2025-11-29T09:57:39.100Z Owen Gong <phith0n@users.noreply.github.com> :: refactor null check
 2025-11-29T10:40:02.127Z PostgreSQL <postgres@users.noreply.github.com> :: clean up build script
+2025-11-29T11:27:15.812Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: wire up config defaults
