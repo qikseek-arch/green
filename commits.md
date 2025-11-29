@@ -5553,3 +5553,4 @@
 2025-11-28T18:23:45.763Z Claude <claude@users.noreply.github.com> :: update flaky test
 2025-11-28T22:30:23.580Z owenzhang <owenzhang@users.noreply.github.com> :: fix dependency versions
 2025-11-28T23:40:57.948Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up cache keys
+2025-11-29T01:49:18.977Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor config defaults
