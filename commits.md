@@ -15263,3 +15263,4 @@
 2025-11-29T21:01:00.348Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up build script
 2025-11-29T21:20:34.694Z John Schulman <joschu@users.noreply.github.com> :: remove dead code
 2025-11-29T21:49:41.300Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor config defaults
+2025-11-29T23:11:21.948Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
