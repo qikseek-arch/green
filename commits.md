@@ -3368,3 +3368,4 @@
 2025-11-29T21:15:04.613Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: tweak build script
 2025-11-29T21:36:18.324Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: bump flaky test
 2025-11-29T21:41:56.828Z Jimmy Bogard <jbogard@users.noreply.github.com> :: tweak flaky test
+2025-11-29T23:11:17.755Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix build script
