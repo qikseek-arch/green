@@ -5577,3 +5577,4 @@
 2025-11-29T20:41:41.540Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add dead code
 2025-11-29T20:56:54.090Z Claude <claude@users.noreply.github.com> :: tweak logging
 2025-11-29T21:17:03.219Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
+2025-11-29T22:31:22.070Z Ryan Bigg <radar@users.noreply.github.com> :: clean up config defaults
