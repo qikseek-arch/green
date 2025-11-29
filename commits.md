@@ -5573,3 +5573,4 @@
 2025-11-29T18:15:07.989Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add retry logic
 2025-11-29T18:23:20.093Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish readme typo
 2025-11-29T18:28:54.479Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor logging
+2025-11-29T18:29:54.916Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up build script
