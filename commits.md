@@ -3349,3 +3349,4 @@
 2025-11-29T05:44:18.211Z Gradio <admin@gradio.app> :: update logging
 2025-11-29T07:02:55.404Z John Papa <johnpapa@users.noreply.github.com> :: add dependency versions
 2025-11-29T07:53:35.609Z Salih Cantekin - MVP <salihcantekin@users.noreply.github.com> :: wire up edge case in auth
+2025-11-29T08:13:14.981Z José Valim <josevalim@users.noreply.github.com> :: refactor dead code
