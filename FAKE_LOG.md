@@ -649,3 +649,4 @@
 2025-11-27T10:07:49.772Z Kunal Kushwaha <kunal-kushwaha@users.noreply.github.com> :: wire up edge case in auth
 2025-11-28T04:26:52.322Z Chris Wanstrath <defunkt@users.noreply.github.com> :: bump dead code
 2025-11-29T00:38:28.057Z LangChain <support@langchain.dev> :: wire up dependency versions
+2025-11-29T12:49:36.420Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: wire up the parser
