@@ -15265,3 +15265,4 @@
 2025-11-29T21:49:41.300Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor config defaults
 2025-11-29T23:11:21.948Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
 2025-11-29T23:15:39.892Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: polish dependency versions
+2025-11-29T23:53:38.760Z John Schulman <joschu@users.noreply.github.com> :: add logging
