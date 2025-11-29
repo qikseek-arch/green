@@ -3341,3 +3341,4 @@
 2025-11-29T00:34:59.265Z Navin Reddy <navinreddy20@users.noreply.github.com> :: clean up build script
 2025-11-29T01:19:23.540Z PostgreSQL <postgres@users.noreply.github.com> :: fix flaky test
 2025-11-29T01:56:52.384Z OpenShift <openshift@users.noreply.github.com> :: update retry logic
+2025-11-29T02:06:03.431Z Blue <blueedgetechno@users.noreply.github.com> :: add the parser
