@@ -5578,3 +5578,4 @@
 2025-11-29T20:56:54.090Z Claude <claude@users.noreply.github.com> :: tweak logging
 2025-11-29T21:17:03.219Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
 2025-11-29T22:31:22.070Z Ryan Bigg <radar@users.noreply.github.com> :: clean up config defaults
+2025-11-29T23:18:33.148Z owenzhang <owenzhang@users.noreply.github.com> :: polish null check
