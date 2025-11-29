@@ -165,3 +165,4 @@
 2025-11-28T03:14:40.010Z Changkun Ou <changkun@users.noreply.github.com> :: refactor cache keys
 2025-11-28T09:24:15.450Z Shaian <zshaian@users.noreply.github.com> :: fix build script
 2025-11-28T16:57:59.541Z Electron <info+org@electronjs.org> :: tweak error handling
+2025-11-29T04:28:54.685Z DeepSeek <service@deepseek.com> :: bump config defaults
