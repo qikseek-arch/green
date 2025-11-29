@@ -15238,3 +15238,4 @@
 2025-11-28T23:46:16.627Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: fix readme typo
 2025-11-29T00:18:19.773Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor flaky test
 2025-11-29T01:13:41.664Z LocalSend <localsend@users.noreply.github.com> :: polish flaky test
+2025-11-29T01:22:39.592Z Michael Jackson <mjackson@users.noreply.github.com> :: polish null check
