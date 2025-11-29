@@ -15246,3 +15246,4 @@
 2025-11-29T06:22:28.245Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish error handling
 2025-11-29T07:49:00.912Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
 2025-11-29T09:49:28.589Z DefTruth <DefTruth@users.noreply.github.com> :: fix readme typo
+2025-11-29T10:43:41.135Z Tom Dale <tomdale@users.noreply.github.com> :: remove dead code
