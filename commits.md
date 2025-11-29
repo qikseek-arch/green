@@ -15244,3 +15244,4 @@
 2025-11-29T03:55:15.722Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish dependency versions
 2025-11-29T06:13:28.138Z Odi <mathdroid@users.noreply.github.com> :: remove the parser
 2025-11-29T06:22:28.245Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish error handling
+2025-11-29T07:49:00.912Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
