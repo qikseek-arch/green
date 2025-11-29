@@ -15242,3 +15242,4 @@
 2025-11-29T02:57:26.829Z Lovell Fuller <lovell@users.noreply.github.com> :: fix the parser
 2025-11-29T03:09:16.769Z 毒奶博主 <limbopro@users.noreply.github.com> :: update the parser
 2025-11-29T03:55:15.722Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish dependency versions
+2025-11-29T06:13:28.138Z Odi <mathdroid@users.noreply.github.com> :: remove the parser
