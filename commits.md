@@ -15247,3 +15247,4 @@
 2025-11-29T07:49:00.912Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
 2025-11-29T09:49:28.589Z DefTruth <DefTruth@users.noreply.github.com> :: fix readme typo
 2025-11-29T10:43:41.135Z Tom Dale <tomdale@users.noreply.github.com> :: remove dead code
+2025-11-29T11:26:53.245Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: tweak dead code
