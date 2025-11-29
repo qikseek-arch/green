@@ -5571,3 +5571,4 @@
 2025-11-29T17:43:06.451Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up the CI matrix
 2025-11-29T18:11:16.275Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
 2025-11-29T18:15:07.989Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add retry logic
+2025-11-29T18:23:20.093Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish readme typo
