@@ -5567,3 +5567,4 @@
 2025-11-29T12:58:36.440Z First Contributions <firstcontributions@gmail.com> :: add edge case in auth
 2025-11-29T15:03:48.088Z heyli <lcxfs1991@users.noreply.github.com> :: refactor config defaults
 2025-11-29T16:47:28.662Z Damian Dulisz <shentao@users.noreply.github.com> :: polish logging
+2025-11-29T16:54:55.493Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix logging
