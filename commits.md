@@ -15259,3 +15259,4 @@
 2025-11-29T18:48:53.402Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove logging
 2025-11-29T19:47:38.719Z Yiming Cui <ymcui@users.noreply.github.com> :: polish retry logic
 2025-11-29T20:18:57.083Z winterbe <winterbe@users.noreply.github.com> :: refactor dead code
+2025-11-29T20:33:41.215Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: add readme typo
