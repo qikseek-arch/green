@@ -5570,3 +5570,4 @@
 2025-11-29T16:54:55.493Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix logging
 2025-11-29T17:43:06.451Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up the CI matrix
 2025-11-29T18:11:16.275Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
+2025-11-29T18:15:07.989Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add retry logic
