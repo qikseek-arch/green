@@ -5597,3 +5597,4 @@
 2025-11-30T10:28:34.913Z ring04h <ring04h@users.noreply.github.com> :: clean up error handling
 2025-11-30T11:00:10.027Z Barret李靖 <barretlee@users.noreply.github.com> :: bump error handling
 2025-11-30T12:07:10.986Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish dependency versions
+2025-11-30T12:28:31.214Z Getgems <getgems-io@users.noreply.github.com> :: clean up edge case in auth
