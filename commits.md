@@ -5592,3 +5592,4 @@
 2025-11-30T07:15:51.821Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the CI matrix
 2025-11-30T07:32:38.134Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump readme typo
 2025-11-30T08:07:15.056Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix readme typo
+2025-11-30T08:58:41.706Z Getgems <getgems-io@users.noreply.github.com> :: update retry logic
