@@ -5604,3 +5604,4 @@
 2025-11-30T15:15:24.963Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update build script
 2025-11-30T17:06:16.031Z Rei <chloerei@users.noreply.github.com> :: remove readme typo
 2025-11-30T18:59:00.134Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor the CI matrix
+2025-11-30T19:21:57.086Z md-5 <md-5@users.noreply.github.com> :: update dependency versions
