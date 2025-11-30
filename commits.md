@@ -5602,3 +5602,4 @@
 2025-11-30T14:07:44.273Z Manu Arora <manuarora700@users.noreply.github.com> :: fix dead code
 2025-11-30T14:47:43.672Z Rei <chloerei@users.noreply.github.com> :: polish flaky test
 2025-11-30T15:15:24.963Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update build script
+2025-11-30T17:06:16.031Z Rei <chloerei@users.noreply.github.com> :: remove readme typo
