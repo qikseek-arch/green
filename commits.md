@@ -15279,3 +15279,4 @@
 2025-11-30T10:29:42.327Z Amnezia VPN <support@amnezia.org> :: add dead code
 2025-11-30T10:45:28.835Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove logging
 2025-11-30T11:18:35.090Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor error handling
+2025-11-30T11:52:17.462Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor error handling
