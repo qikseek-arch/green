@@ -3382,3 +3382,4 @@
 2025-11-30T05:14:04.340Z Jimmy Bogard <jbogard@users.noreply.github.com> :: fix config defaults
 2025-11-30T08:42:16.204Z Emil Wallner <emilwallner@users.noreply.github.com> :: add dependency versions
 2025-11-30T08:59:17.924Z John Papa <johnpapa@users.noreply.github.com> :: bump config defaults
+2025-11-30T09:35:03.600Z Jonathan <Grafikart@users.noreply.github.com> :: update edge case in auth
