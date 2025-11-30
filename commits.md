@@ -3375,3 +3375,4 @@
 2025-11-30T01:37:14.683Z OpenShift <openshift@users.noreply.github.com> :: remove dependency versions
 2025-11-30T02:16:08.406Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove error handling
 2025-11-30T03:08:34.008Z Yann Collet <Cyan4973@users.noreply.github.com> :: polish logging
+2025-11-30T03:55:00.533Z 0chencc <0Chencc@users.noreply.github.com> :: fix null check
