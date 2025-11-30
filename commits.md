@@ -15282,3 +15282,4 @@
 2025-11-30T11:52:17.462Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor error handling
 2025-11-30T14:55:55.966Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump logging
 2025-11-30T15:35:08.659Z Jordan Harband <ljharb@users.noreply.github.com> :: update retry logic
+2025-11-30T15:46:55.222Z winterbe <winterbe@users.noreply.github.com> :: polish dead code
