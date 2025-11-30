@@ -5584,3 +5584,4 @@
 2025-11-30T02:04:09.967Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
 2025-11-30T02:07:41.496Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update cache keys
 2025-11-30T02:23:34.253Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
+2025-11-30T02:25:45.689Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
