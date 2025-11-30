@@ -3387,3 +3387,4 @@
 2025-11-30T10:51:45.905Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: add edge case in auth
 2025-11-30T12:11:26.549Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak config defaults
 2025-11-30T13:48:55.812Z 卡颂 <BetaSu@users.noreply.github.com> :: bump the CI matrix
+2025-11-30T14:10:42.984Z TON Connect <ton-connect@users.noreply.github.com> :: clean up edge case in auth
