@@ -15274,3 +15274,4 @@
 2025-11-30T05:34:02.246Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove edge case in auth
 2025-11-30T06:31:35.298Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix build script
 2025-11-30T06:44:04.497Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish build script
+2025-11-30T07:40:02.834Z Amnezia VPN <support@amnezia.org> :: fix edge case in auth
