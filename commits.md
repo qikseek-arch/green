@@ -171,3 +171,4 @@
 2025-11-30T10:00:57.608Z Yiming Cui <ymcui@users.noreply.github.com> :: bump error handling
 2025-11-30T14:11:23.217Z thecodercoder <thecodercoder@users.noreply.github.com> :: fix config defaults
 2025-11-30T19:49:42.925Z Merve Noyan <merveenoyan@users.noreply.github.com> :: add flaky test
+2025-11-30T19:53:05.485Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: remove config defaults
