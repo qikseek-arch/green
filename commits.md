@@ -3373,3 +3373,4 @@
 2025-11-30T00:31:49.055Z Gradio <admin@gradio.app> :: bump flaky test
 2025-11-30T01:20:56.412Z Composio <hello@composio.dev> :: fix readme typo
 2025-11-30T01:37:14.683Z OpenShift <openshift@users.noreply.github.com> :: remove dependency versions
+2025-11-30T02:16:08.406Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: remove error handling
