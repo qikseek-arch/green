@@ -5608,3 +5608,4 @@
 2025-11-30T19:56:05.872Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: tweak flaky test
 2025-11-30T22:19:45.056Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump build script
 2025-11-30T22:45:30.239Z Adam Bell <b3ll@users.noreply.github.com> :: polish the parser
+2025-11-30T23:25:03.444Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add logging
