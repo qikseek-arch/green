@@ -3396,3 +3396,4 @@
 2025-11-30T17:40:30.580Z ElevenLabs <developers@elevenlabs.io> :: fix build script
 2025-11-30T17:46:50.494Z Xe Iaso <Xe@users.noreply.github.com> :: wire up dead code
 2025-11-30T17:51:55.448Z Beau Carnes <beaucarnes@users.noreply.github.com> :: add config defaults
+2025-11-30T18:38:45.760Z TON Connect <ton-connect@users.noreply.github.com> :: tweak null check
