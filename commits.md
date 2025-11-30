@@ -5583,3 +5583,4 @@
 2025-11-30T01:47:09.630Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor dead code
 2025-11-30T02:04:09.967Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
 2025-11-30T02:07:41.496Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update cache keys
+2025-11-30T02:23:34.253Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
