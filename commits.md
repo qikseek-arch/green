@@ -5579,3 +5579,4 @@
 2025-11-29T21:17:03.219Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
 2025-11-29T22:31:22.070Z Ryan Bigg <radar@users.noreply.github.com> :: clean up config defaults
 2025-11-29T23:18:33.148Z owenzhang <owenzhang@users.noreply.github.com> :: polish null check
+2025-11-30T01:10:07.736Z Ben Hamner <benhamner@users.noreply.github.com> :: update dead code
