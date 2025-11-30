@@ -3385,3 +3385,4 @@
 2025-11-30T09:35:03.600Z Jonathan <Grafikart@users.noreply.github.com> :: update edge case in auth
 2025-11-30T10:23:05.805Z Vitor Freitas <vitorfs@users.noreply.github.com> :: polish the parser
 2025-11-30T10:51:45.905Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: add edge case in auth
+2025-11-30T12:11:26.549Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak config defaults
