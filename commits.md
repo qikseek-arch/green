@@ -5594,3 +5594,4 @@
 2025-11-30T08:07:15.056Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix readme typo
 2025-11-30T08:58:41.706Z Getgems <getgems-io@users.noreply.github.com> :: update retry logic
 2025-11-30T09:44:09.563Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor config defaults
+2025-11-30T10:28:34.913Z ring04h <ring04h@users.noreply.github.com> :: clean up error handling
