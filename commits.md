@@ -168,3 +168,4 @@
 2025-11-29T04:28:54.685Z DeepSeek <service@deepseek.com> :: bump config defaults
 2025-11-29T12:11:54.137Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: bump retry logic
 2025-11-29T23:10:37.279Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: refactor flaky test
+2025-11-30T10:00:57.608Z Yiming Cui <ymcui@users.noreply.github.com> :: bump error handling
