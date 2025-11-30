@@ -3390,3 +3390,4 @@
 2025-11-30T14:10:42.984Z TON Connect <ton-connect@users.noreply.github.com> :: clean up edge case in auth
 2025-11-30T14:14:00.030Z Kenney <KenneyNL@users.noreply.github.com> :: refactor null check
 2025-11-30T14:22:01.409Z Navin Reddy <navinreddy20@users.noreply.github.com> :: clean up error handling
+2025-11-30T15:21:56.868Z Blue <blueedgetechno@users.noreply.github.com> :: add edge case in auth
