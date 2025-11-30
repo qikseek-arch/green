@@ -3377,3 +3377,4 @@
 2025-11-30T03:08:34.008Z Yann Collet <Cyan4973@users.noreply.github.com> :: polish logging
 2025-11-30T03:55:00.533Z 0chencc <0Chencc@users.noreply.github.com> :: fix null check
 2025-11-30T04:07:42.087Z Canonical <canonical@users.noreply.github.com> :: bump dependency versions
+2025-11-30T04:26:54.365Z Rob Eisenberg <EisenbergEffect@users.noreply.github.com> :: clean up error handling
