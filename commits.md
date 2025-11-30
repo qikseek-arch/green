@@ -15284,3 +15284,4 @@
 2025-11-30T15:35:08.659Z Jordan Harband <ljharb@users.noreply.github.com> :: update retry logic
 2025-11-30T15:46:55.222Z winterbe <winterbe@users.noreply.github.com> :: polish dead code
 2025-11-30T17:29:41.705Z Odi <mathdroid@users.noreply.github.com> :: bump edge case in auth
+2025-11-30T17:47:47.072Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump the CI matrix
