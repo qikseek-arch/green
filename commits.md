@@ -5606,3 +5606,4 @@
 2025-11-30T18:59:00.134Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor the CI matrix
 2025-11-30T19:21:57.086Z md-5 <md-5@users.noreply.github.com> :: update dependency versions
 2025-11-30T19:56:05.872Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: tweak flaky test
+2025-11-30T22:19:45.056Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump build script
