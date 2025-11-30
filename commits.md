@@ -5590,3 +5590,4 @@
 2025-11-30T04:33:30.300Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove dependency versions
 2025-11-30T06:03:24.368Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: update the parser
 2025-11-30T07:15:51.821Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the CI matrix
+2025-11-30T07:32:38.134Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump readme typo
