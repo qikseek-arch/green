@@ -15272,3 +15272,4 @@
 2025-11-30T04:13:52.922Z Aman Kumar <Amanc77@users.noreply.github.com> :: add config defaults
 2025-11-30T04:16:16.895Z Brendan Gregg <brendangregg@users.noreply.github.com> :: fix logging
 2025-11-30T05:34:02.246Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove edge case in auth
+2025-11-30T06:31:35.298Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix build script
