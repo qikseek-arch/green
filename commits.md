@@ -5587,3 +5587,4 @@
 2025-11-30T02:25:45.689Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
 2025-11-30T03:44:46.727Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove error handling
 2025-11-30T03:50:16.008Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
+2025-11-30T04:33:30.300Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove dependency versions
