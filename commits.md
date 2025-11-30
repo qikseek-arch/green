@@ -3403,3 +3403,4 @@
 2025-11-30T22:21:24.735Z DIMFLIX <DIMFLIX@users.noreply.github.com> :: update null check
 2025-11-30T22:49:22.011Z jist <george0st@users.noreply.github.com> :: wire up edge case in auth
 2025-11-30T22:50:15.396Z farza <farzaa@users.noreply.github.com> :: update config defaults
+2025-11-30T23:49:37.044Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish error handling
