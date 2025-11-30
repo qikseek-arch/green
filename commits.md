@@ -5585,3 +5585,4 @@
 2025-11-30T02:07:41.496Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update cache keys
 2025-11-30T02:23:34.253Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
 2025-11-30T02:25:45.689Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
+2025-11-30T03:44:46.727Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove error handling
