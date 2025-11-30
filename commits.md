@@ -3392,3 +3392,4 @@
 2025-11-30T14:22:01.409Z Navin Reddy <navinreddy20@users.noreply.github.com> :: clean up error handling
 2025-11-30T15:21:56.868Z Blue <blueedgetechno@users.noreply.github.com> :: add edge case in auth
 2025-11-30T15:49:39.520Z Lumi Labs <RubinLabs26@users.noreply.github.com> :: clean up readme typo
+2025-11-30T17:25:16.463Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove build script
