@@ -3395,3 +3395,4 @@
 2025-11-30T17:25:16.463Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove build script
 2025-11-30T17:40:30.580Z ElevenLabs <developers@elevenlabs.io> :: fix build script
 2025-11-30T17:46:50.494Z Xe Iaso <Xe@users.noreply.github.com> :: wire up dead code
+2025-11-30T17:51:55.448Z Beau Carnes <beaucarnes@users.noreply.github.com> :: add config defaults
