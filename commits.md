@@ -5601,3 +5601,4 @@
 2025-11-30T13:34:45.956Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
 2025-11-30T14:07:44.273Z Manu Arora <manuarora700@users.noreply.github.com> :: fix dead code
 2025-11-30T14:47:43.672Z Rei <chloerei@users.noreply.github.com> :: polish flaky test
+2025-11-30T15:15:24.963Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update build script
