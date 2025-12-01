@@ -15299,3 +15299,4 @@
 2025-12-01T05:09:03.585Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add cache keys
 2025-12-01T06:19:13.681Z Collabnix <collabnix@users.noreply.github.com> :: tweak error handling
 2025-12-01T07:50:17.635Z Michael Jackson <mjackson@users.noreply.github.com> :: update readme typo
+2025-12-01T09:49:46.312Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add config defaults
