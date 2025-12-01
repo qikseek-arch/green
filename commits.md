@@ -5628,3 +5628,4 @@
 2025-12-01T12:09:17.831Z SouJunior <wouerner@soujunior.tech> :: wire up null check
 2025-12-01T12:53:28.947Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up flaky test
 2025-12-01T13:16:20.768Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up config defaults
+2025-12-01T13:21:14.607Z Taiko Foundation <info@taiko.xyz> :: wire up the CI matrix
