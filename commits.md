@@ -5645,3 +5645,4 @@
 2025-12-01T20:01:12.302Z markqvist <markqvist@users.noreply.github.com> :: remove error handling
 2025-12-01T20:31:05.206Z Getgems <getgems-io@users.noreply.github.com> :: fix config defaults
 2025-12-01T22:01:29.731Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the parser
+2025-12-01T23:45:36.765Z ㅤxander <vampirist@users.noreply.github.com> :: remove build script
