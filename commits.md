@@ -3419,3 +3419,4 @@
 2025-12-01T07:03:29.151Z kulikov-dev <kulikov-dev@users.noreply.github.com> :: polish cache keys
 2025-12-01T07:27:39.517Z ligi <ligi@users.noreply.github.com> :: wire up cache keys
 2025-12-01T07:51:47.683Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: bump config defaults
+2025-12-01T09:31:13.027Z PostgreSQL <postgres@users.noreply.github.com> :: polish retry logic
