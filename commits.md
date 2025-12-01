@@ -5610,3 +5610,4 @@
 2025-11-30T22:45:30.239Z Adam Bell <b3ll@users.noreply.github.com> :: polish the parser
 2025-11-30T23:25:03.444Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add logging
 2025-11-30T23:38:31.815Z Sachin Soni <techiesms@users.noreply.github.com> :: add error handling
+2025-12-01T00:09:15.309Z Ben Hamner <benhamner@users.noreply.github.com> :: remove null check
