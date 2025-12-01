@@ -5638,3 +5638,4 @@
 2025-12-01T16:31:55.140Z Adam Bell <b3ll@users.noreply.github.com> :: add error handling
 2025-12-01T17:05:05.340Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add retry logic
 2025-12-01T17:49:57.971Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update build script
+2025-12-01T17:59:19.491Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up build script
