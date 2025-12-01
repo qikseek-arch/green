@@ -3434,3 +3434,4 @@
 2025-12-01T18:54:48.484Z OpenShift <openshift@users.noreply.github.com> :: fix config defaults
 2025-12-01T20:29:54.093Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: bump logging
 2025-12-01T20:38:37.726Z Ricky <rickhanlonii@users.noreply.github.com> :: fix the parser
+2025-12-01T22:29:51.321Z Lei Mao <leimao@users.noreply.github.com> :: polish cache keys
