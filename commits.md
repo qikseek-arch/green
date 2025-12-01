@@ -15303,3 +15303,4 @@
 2025-12-01T11:17:09.072Z rxi <rxi@users.noreply.github.com> :: fix cache keys
 2025-12-01T11:25:30.125Z 1 <insoxin@users.noreply.github.com> :: update config defaults
 2025-12-01T11:51:17.897Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor build script
+2025-12-01T12:28:38.741Z imput <hello@imput.net> :: polish readme typo
