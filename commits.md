@@ -3430,3 +3430,4 @@
 2025-12-01T16:48:01.497Z StackBlitz <hello@stackblitz.com> :: add flaky test
 2025-12-01T16:51:27.089Z ligi <ligi@users.noreply.github.com> :: refactor cache keys
 2025-12-01T17:24:26.729Z Nik Graf <nikgraf@users.noreply.github.com> :: add build script
+2025-12-01T18:29:51.945Z Xe Iaso <Xe@users.noreply.github.com> :: refactor error handling
