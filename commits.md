@@ -15308,3 +15308,4 @@
 2025-12-01T13:56:58.192Z Tavis Ormandy <taviso@users.noreply.github.com> :: bump cache keys
 2025-12-01T14:56:46.568Z Xingang Pan <XingangPan@users.noreply.github.com> :: add flaky test
 2025-12-01T15:35:22.519Z LMSYS <lm-sys@users.noreply.github.com> :: add the CI matrix
+2025-12-01T15:46:18.507Z Odi <mathdroid@users.noreply.github.com> :: tweak retry logic
