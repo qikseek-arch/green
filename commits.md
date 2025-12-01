@@ -174,3 +174,4 @@
 2025-11-30T19:53:05.485Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: remove config defaults
 2025-11-30T23:23:49.118Z 4Geeks Academy <info@4geeksacademy.com> :: clean up flaky test
 2025-12-01T12:15:30.677Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: refactor dead code
+2025-12-01T12:43:29.117Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: tweak dependency versions
