@@ -3426,3 +3426,4 @@
 2025-12-01T14:09:48.688Z Thomas Wolf <thomwolf@users.noreply.github.com> :: polish edge case in auth
 2025-12-01T14:09:52.514Z codefollower <codefollower@users.noreply.github.com> :: polish logging
 2025-12-01T15:45:55.083Z Kingkor Roy Tirtho <KRTirtho@users.noreply.github.com> :: fix the parser
+2025-12-01T16:15:10.342Z z3r0yu <zer0yu@users.noreply.github.com> :: fix cache keys
