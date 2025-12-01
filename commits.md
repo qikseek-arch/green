@@ -5627,3 +5627,4 @@
 2025-12-01T09:35:35.998Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update edge case in auth
 2025-12-01T12:09:17.831Z SouJunior <wouerner@soujunior.tech> :: wire up null check
 2025-12-01T12:53:28.947Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up flaky test
+2025-12-01T13:16:20.768Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up config defaults
