@@ -3423,3 +3423,4 @@
 2025-12-01T09:33:53.295Z OpenShift <openshift@users.noreply.github.com> :: add readme typo
 2025-12-01T12:20:45.833Z Dan Gohman <sunfishcode@users.noreply.github.com> :: clean up dead code
 2025-12-01T12:41:57.432Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix edge case in auth
+2025-12-01T14:09:48.688Z Thomas Wolf <thomwolf@users.noreply.github.com> :: polish edge case in auth
