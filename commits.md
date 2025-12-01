@@ -3422,3 +3422,4 @@
 2025-12-01T09:31:13.027Z PostgreSQL <postgres@users.noreply.github.com> :: polish retry logic
 2025-12-01T09:33:53.295Z OpenShift <openshift@users.noreply.github.com> :: add readme typo
 2025-12-01T12:20:45.833Z Dan Gohman <sunfishcode@users.noreply.github.com> :: clean up dead code
+2025-12-01T12:41:57.432Z Emil Wallner <emilwallner@users.noreply.github.com> :: fix edge case in auth
