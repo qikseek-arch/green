@@ -3432,3 +3432,4 @@
 2025-12-01T17:24:26.729Z Nik Graf <nikgraf@users.noreply.github.com> :: add build script
 2025-12-01T18:29:51.945Z Xe Iaso <Xe@users.noreply.github.com> :: refactor error handling
 2025-12-01T18:54:48.484Z OpenShift <openshift@users.noreply.github.com> :: fix config defaults
+2025-12-01T20:29:54.093Z Youssef Hosni <youssefHosni@users.noreply.github.com> :: bump logging
