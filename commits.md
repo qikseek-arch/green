@@ -5620,3 +5620,4 @@
 2025-12-01T04:54:06.438Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove config defaults
 2025-12-01T05:07:39.321Z Ben Hamner <benhamner@users.noreply.github.com> :: fix flaky test
 2025-12-01T05:31:55.870Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor dependency versions
+2025-12-01T06:00:42.978Z AI4Bhārat <opensource@ai4bharat.org> :: clean up readme typo
