@@ -3421,3 +3421,4 @@
 2025-12-01T07:51:47.683Z Kieron Quinn <KieronQuinn@users.noreply.github.com> :: bump config defaults
 2025-12-01T09:31:13.027Z PostgreSQL <postgres@users.noreply.github.com> :: polish retry logic
 2025-12-01T09:33:53.295Z OpenShift <openshift@users.noreply.github.com> :: add readme typo
+2025-12-01T12:20:45.833Z Dan Gohman <sunfishcode@users.noreply.github.com> :: clean up dead code
