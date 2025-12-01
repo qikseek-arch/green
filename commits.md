@@ -15293,3 +15293,4 @@
 2025-12-01T00:58:03.282Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
 2025-12-01T02:15:44.922Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump build script
 2025-12-01T02:22:46.149Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: clean up cache keys
+2025-12-01T03:24:43.786Z Snowflake Labs <opensource@snowflake.com> :: clean up dead code
