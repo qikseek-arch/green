@@ -5632,3 +5632,4 @@
 2025-12-01T13:55:52.627Z AI4Bhārat <opensource@ai4bharat.org> :: remove cache keys
 2025-12-01T14:06:03.020Z markqvist <markqvist@users.noreply.github.com> :: remove dependency versions
 2025-12-01T15:24:46.698Z qiye <qiyeboy@users.noreply.github.com> :: clean up error handling
+2025-12-01T15:25:34.180Z Claude <claude@users.noreply.github.com> :: add the parser
