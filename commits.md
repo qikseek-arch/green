@@ -5617,3 +5617,4 @@
 2025-12-01T02:18:14.130Z Damian Dulisz <shentao@users.noreply.github.com> :: fix error handling
 2025-12-01T02:29:39.471Z Getgems <getgems-io@users.noreply.github.com> :: clean up dead code
 2025-12-01T03:00:16.244Z owenzhang <owenzhang@users.noreply.github.com> :: bump dependency versions
+2025-12-01T04:54:06.438Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove config defaults
