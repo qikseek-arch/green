@@ -3405,3 +3405,4 @@
 2025-11-30T22:50:15.396Z farza <farzaa@users.noreply.github.com> :: update config defaults
 2025-11-30T23:49:37.044Z Emil Wallner <emilwallner@users.noreply.github.com> :: polish error handling
 2025-12-01T00:48:49.610Z 郭飞 <guofei9987@users.noreply.github.com> :: update edge case in auth
+2025-12-01T00:54:35.840Z Lei Mao <leimao@users.noreply.github.com> :: clean up readme typo
