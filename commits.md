@@ -5613,3 +5613,4 @@
 2025-12-01T00:09:15.309Z Ben Hamner <benhamner@users.noreply.github.com> :: remove null check
 2025-12-01T01:30:36.269Z Keith Smiley <keith@users.noreply.github.com> :: clean up dependency versions
 2025-12-01T01:49:38.487Z SouJunior <wouerner@soujunior.tech> :: remove edge case in auth
+2025-12-01T01:54:27.312Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump readme typo
