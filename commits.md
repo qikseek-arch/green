@@ -3455,3 +3455,4 @@
 2025-12-02T13:29:51.005Z 0chencc <0Chencc@users.noreply.github.com> :: tweak build script
 2025-12-02T15:55:45.856Z 郭飞 <guofei9987@users.noreply.github.com> :: polish error handling
 2025-12-02T17:01:18.918Z Software Engineer - مهندس برمجيات <SWxEng@users.noreply.github.com> :: add flaky test
+2025-12-02T17:06:22.816Z Philip Walton <philipwalton@users.noreply.github.com> :: update error handling
