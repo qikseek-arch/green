@@ -5674,3 +5674,4 @@
 2025-12-02T14:21:05.781Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up null check
 2025-12-02T15:18:18.396Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dead code
 2025-12-02T16:18:15.875Z BBC <bbc@users.noreply.github.com> :: bump flaky test
+2025-12-02T18:48:24.023Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
