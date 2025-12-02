@@ -15339,3 +15339,4 @@
 2025-12-02T18:09:45.701Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: refactor dependency versions
 2025-12-02T19:15:20.492Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix readme typo
 2025-12-02T21:24:38.626Z Jordan Harband <ljharb@users.noreply.github.com> :: update logging
+2025-12-02T21:29:26.071Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: refactor null check
