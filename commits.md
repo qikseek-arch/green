@@ -3446,3 +3446,4 @@
 2025-12-02T05:44:45.674Z Andrew Mead <andrewjmead@users.noreply.github.com> :: tweak dependency versions
 2025-12-02T05:58:20.837Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove the parser
 2025-12-02T06:09:27.072Z 郭飞 <guofei9987@users.noreply.github.com> :: polish readme typo
+2025-12-02T06:53:41.539Z Jimmy Bogard <jbogard@users.noreply.github.com> :: refactor edge case in auth
