@@ -5661,3 +5661,4 @@
 2025-12-02T10:59:51.954Z Keith Smiley <keith@users.noreply.github.com> :: wire up build script
 2025-12-02T11:19:53.658Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: polish edge case in auth
 2025-12-02T11:37:48.130Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor logging
+2025-12-02T11:50:41.020Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add cache keys
