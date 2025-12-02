@@ -5666,3 +5666,4 @@
 2025-12-02T12:41:31.609Z qiye <qiyeboy@users.noreply.github.com> :: bump the parser
 2025-12-02T12:54:17.594Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
 2025-12-02T13:28:13.397Z ㅤxander <vampirist@users.noreply.github.com> :: polish null check
+2025-12-02T13:33:22.476Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up config defaults
