@@ -5648,3 +5648,4 @@
 2025-12-01T23:45:36.765Z ㅤxander <vampirist@users.noreply.github.com> :: remove build script
 2025-12-02T01:37:42.512Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up edge case in auth
 2025-12-02T02:45:33.502Z Roger Labbe <rlabbe@users.noreply.github.com> :: add error handling
+2025-12-02T03:28:16.054Z markqvist <markqvist@users.noreply.github.com> :: update config defaults
