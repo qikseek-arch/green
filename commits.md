@@ -5671,3 +5671,4 @@
 2025-12-02T14:05:25.879Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up error handling
 2025-12-02T14:06:38.298Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish dead code
 2025-12-02T14:12:26.438Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up edge case in auth
+2025-12-02T14:21:05.781Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up null check
