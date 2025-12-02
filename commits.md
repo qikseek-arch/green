@@ -176,3 +176,4 @@
 2025-12-01T12:15:30.677Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: refactor dead code
 2025-12-01T12:43:29.117Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: tweak dependency versions
 2025-12-01T18:39:56.482Z Holtz Yan <holtzy@users.noreply.github.com> :: tweak edge case in auth
+2025-12-02T23:00:32.146Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: clean up retry logic
