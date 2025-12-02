@@ -5655,3 +5655,4 @@
 2025-12-02T06:00:47.374Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak dead code
 2025-12-02T07:03:58.565Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
 2025-12-02T08:59:42.445Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump edge case in auth
+2025-12-02T09:28:02.039Z Ryan Bigg <radar@users.noreply.github.com> :: add readme typo
