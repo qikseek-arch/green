@@ -5676,3 +5676,4 @@
 2025-12-02T16:18:15.875Z BBC <bbc@users.noreply.github.com> :: bump flaky test
 2025-12-02T18:48:24.023Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
 2025-12-02T19:18:27.160Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update flaky test
+2025-12-02T20:16:03.160Z OpenJS Foundation <info@openjsf.org> :: fix error handling
