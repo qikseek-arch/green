@@ -3444,3 +3444,4 @@
 2025-12-02T05:15:04.564Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: add error handling
 2025-12-02T05:34:12.848Z 易枭寒 <Yixiaohan@users.noreply.github.com> :: fix flaky test
 2025-12-02T05:44:45.674Z Andrew Mead <andrewjmead@users.noreply.github.com> :: tweak dependency versions
+2025-12-02T05:58:20.837Z Paul Deitel <pdeitel@users.noreply.github.com> :: remove the parser
