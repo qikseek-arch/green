@@ -3451,3 +3451,4 @@
 2025-12-02T09:45:37.617Z Yann Collet <Cyan4973@users.noreply.github.com> :: wire up config defaults
 2025-12-02T10:33:48.542Z 0chencc <0Chencc@users.noreply.github.com> :: refactor cache keys
 2025-12-02T11:17:56.553Z jist <george0st@users.noreply.github.com> :: refactor error handling
+2025-12-02T11:46:39.041Z Tuba Khan <tubakhxn@users.noreply.github.com> :: tweak dependency versions
