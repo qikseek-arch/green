@@ -3436,3 +3436,4 @@
 2025-12-01T20:38:37.726Z Ricky <rickhanlonii@users.noreply.github.com> :: fix the parser
 2025-12-01T22:29:51.321Z Lei Mao <leimao@users.noreply.github.com> :: polish cache keys
 2025-12-01T22:57:54.392Z Christian Chiarulli <ChristianChiarulli@users.noreply.github.com> :: bump error handling
+2025-12-02T00:35:00.816Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix readme typo
