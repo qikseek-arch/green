@@ -5681,3 +5681,4 @@
 2025-12-02T21:34:25.564Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump cache keys
 2025-12-02T21:54:02.563Z David Fowler <davidfowl@users.noreply.github.com> :: clean up edge case in auth
 2025-12-02T22:25:13.897Z Ryan Bigg <radar@users.noreply.github.com> :: fix dependency versions
+2025-12-02T22:35:16.496Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix edge case in auth
