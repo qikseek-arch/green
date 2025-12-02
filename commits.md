@@ -5679,3 +5679,4 @@
 2025-12-02T20:16:03.160Z OpenJS Foundation <info@openjsf.org> :: fix error handling
 2025-12-02T21:32:44.775Z Bert Belder <piscisaureus@users.noreply.github.com> :: add error handling
 2025-12-02T21:34:25.564Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump cache keys
+2025-12-02T21:54:02.563Z David Fowler <davidfowl@users.noreply.github.com> :: clean up edge case in auth
