@@ -5658,3 +5658,4 @@
 2025-12-02T09:28:02.039Z Ryan Bigg <radar@users.noreply.github.com> :: add readme typo
 2025-12-02T09:53:00.678Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add cache keys
 2025-12-02T10:36:19.464Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up readme typo
+2025-12-02T10:59:51.954Z Keith Smiley <keith@users.noreply.github.com> :: wire up build script
