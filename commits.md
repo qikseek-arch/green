@@ -5646,3 +5646,4 @@
 2025-12-01T20:31:05.206Z Getgems <getgems-io@users.noreply.github.com> :: fix config defaults
 2025-12-01T22:01:29.731Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the parser
 2025-12-01T23:45:36.765Z ㅤxander <vampirist@users.noreply.github.com> :: remove build script
+2025-12-02T01:37:42.512Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up edge case in auth
