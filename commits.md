@@ -5668,3 +5668,4 @@
 2025-12-02T13:28:13.397Z ㅤxander <vampirist@users.noreply.github.com> :: polish null check
 2025-12-02T13:33:22.476Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up config defaults
 2025-12-02T13:36:19.285Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up flaky test
+2025-12-02T14:05:25.879Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up error handling
