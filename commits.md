@@ -5650,3 +5650,4 @@
 2025-12-02T02:45:33.502Z Roger Labbe <rlabbe@users.noreply.github.com> :: add error handling
 2025-12-02T03:28:16.054Z markqvist <markqvist@users.noreply.github.com> :: update config defaults
 2025-12-02T03:57:06.380Z Daniel Eden <daneden@users.noreply.github.com> :: update build script
+2025-12-02T05:51:17.301Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: bump edge case in auth
