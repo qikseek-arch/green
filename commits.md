@@ -15328,3 +15328,4 @@
 2025-12-02T09:40:28.587Z Collabnix <collabnix@users.noreply.github.com> :: update the CI matrix
 2025-12-02T09:51:53.798Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add retry logic
 2025-12-02T10:18:58.979Z Islem Maboud <ipenywis@users.noreply.github.com> :: add the parser
+2025-12-02T10:52:40.483Z Snowflake Labs <opensource@snowflake.com> :: fix build script
