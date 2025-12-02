@@ -15318,3 +15318,4 @@
 2025-12-01T22:19:11.760Z Tom Dale <tomdale@users.noreply.github.com> :: fix null check
 2025-12-02T00:14:59.092Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up retry logic
 2025-12-02T02:02:32.837Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up dead code
+2025-12-02T02:26:41.104Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: polish error handling
