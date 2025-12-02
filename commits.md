@@ -15321,3 +15321,4 @@
 2025-12-02T02:26:41.104Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: polish error handling
 2025-12-02T03:09:34.616Z Lovell Fuller <lovell@users.noreply.github.com> :: update build script
 2025-12-02T04:00:18.828Z Zed Industries <hi@zed.dev> :: tweak dead code
+2025-12-02T05:15:04.435Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: tweak retry logic
