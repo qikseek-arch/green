@@ -5663,3 +5663,4 @@
 2025-12-02T11:37:48.130Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor logging
 2025-12-02T11:50:41.020Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add cache keys
 2025-12-02T12:39:15.447Z Ivan Volkov <Chitus@users.noreply.github.com> :: update readme typo
+2025-12-02T12:41:31.609Z qiye <qiyeboy@users.noreply.github.com> :: bump the parser
