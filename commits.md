@@ -3439,3 +3439,4 @@
 2025-12-02T00:35:00.816Z Yann Collet <Cyan4973@users.noreply.github.com> :: fix readme typo
 2025-12-02T01:05:18.597Z Vitor Freitas <vitorfs@users.noreply.github.com> :: wire up error handling
 2025-12-02T02:34:54.142Z Vitor Freitas <vitorfs@users.noreply.github.com> :: refactor the parser
+2025-12-02T04:38:56.071Z Gökhan Kandemir <gkandemi@users.noreply.github.com> :: wire up dead code
