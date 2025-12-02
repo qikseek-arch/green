@@ -15324,3 +15324,4 @@
 2025-12-02T05:15:04.435Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: tweak retry logic
 2025-12-02T05:54:31.171Z Scott Chacon <schacon@users.noreply.github.com> :: remove error handling
 2025-12-02T06:06:33.038Z Zed Industries <hi@zed.dev> :: refactor edge case in auth
+2025-12-02T06:35:51.832Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak the CI matrix
