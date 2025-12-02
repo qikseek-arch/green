@@ -15331,3 +15331,4 @@
 2025-12-02T10:52:40.483Z Snowflake Labs <opensource@snowflake.com> :: fix build script
 2025-12-02T11:10:17.985Z rxi <rxi@users.noreply.github.com> :: clean up readme typo
 2025-12-02T14:24:42.698Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up retry logic
+2025-12-02T16:22:58.880Z OpenBSD <openbsd@users.noreply.github.com> :: polish dependency versions
