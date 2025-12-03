@@ -15365,3 +15365,4 @@
 2025-12-03T17:54:11.347Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump edge case in auth
 2025-12-03T20:10:36.412Z Michael Jackson <mjackson@users.noreply.github.com> :: bump logging
 2025-12-03T21:11:06.837Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor flaky test
+2025-12-03T22:58:00.430Z Brian Holt <btholt@users.noreply.github.com> :: refactor the parser
