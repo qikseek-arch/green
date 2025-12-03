@@ -5685,3 +5685,4 @@
 2025-12-02T23:41:26.215Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix cache keys
 2025-12-03T01:20:33.571Z Claude <claude@users.noreply.github.com> :: clean up retry logic
 2025-12-03T02:42:15.269Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak logging
+2025-12-03T02:50:18.495Z Arduino <arduino@users.noreply.github.com> :: update the parser
