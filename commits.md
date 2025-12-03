@@ -15348,3 +15348,4 @@
 2025-12-03T02:12:00.974Z Lovell Fuller <lovell@users.noreply.github.com> :: fix dependency versions
 2025-12-03T02:30:38.334Z OpenBMB <openbmb@gmail.com> :: fix readme typo
 2025-12-03T02:49:40.846Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove error handling
+2025-12-03T02:53:20.979Z Michael Jackson <mjackson@users.noreply.github.com> :: update null check
