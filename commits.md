@@ -15343,3 +15343,4 @@
 2025-12-02T21:51:17.867Z Brian Holt <btholt@users.noreply.github.com> :: bump the CI matrix
 2025-12-02T22:03:02.323Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix the CI matrix
 2025-12-02T22:26:56.094Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add cache keys
+2025-12-03T01:17:57.100Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up edge case in auth
