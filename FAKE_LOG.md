@@ -316,3 +316,4 @@
 2025-11-28T05:35:49.628Z Marie Curie <marie.curie@fake.invalid> :: tweak the parser
 2025-11-30T13:14:10.990Z raptor_lazy_x <raptor_lazy_x@fake.invalid> :: fix the parser | Co-authored-by: dan <gaearon@users.noreply.github.com>
 2025-12-02T21:41:19.010Z wizard_lazyxx <wizard_lazyxx@fake.invalid> :: bump error handling | Co-authored-by: Iris Series 鸢尾花书 <Visualize-ML@users.noreply.github.com>
+2025-12-03T09:39:08.628Z wizard_vivid <wizard_vivid@fake.invalid> :: wire up logging | Co-authored-by: Donne Martin <donnemartin@users.noreply.github.com>
