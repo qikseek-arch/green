@@ -15357,3 +15357,4 @@
 2025-12-03T11:03:28.602Z 毒奶博主 <limbopro@users.noreply.github.com> :: add flaky test
 2025-12-03T11:08:55.451Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish readme typo
 2025-12-03T11:54:18.790Z Collabnix <collabnix@users.noreply.github.com> :: wire up config defaults
+2025-12-03T12:39:08.738Z LMSYS <lm-sys@users.noreply.github.com> :: wire up config defaults
