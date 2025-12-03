@@ -5704,3 +5704,4 @@
 2025-12-03T14:14:20.493Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump retry logic
 2025-12-03T20:28:32.419Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up edge case in auth
 2025-12-03T21:34:31.887Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak edge case in auth
+2025-12-03T22:16:55.720Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix retry logic
