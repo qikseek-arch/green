@@ -15358,3 +15358,4 @@
 2025-12-03T11:08:55.451Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish readme typo
 2025-12-03T11:54:18.790Z Collabnix <collabnix@users.noreply.github.com> :: wire up config defaults
 2025-12-03T12:39:08.738Z LMSYS <lm-sys@users.noreply.github.com> :: wire up config defaults
+2025-12-03T12:45:07.787Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up error handling
