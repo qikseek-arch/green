@@ -180,3 +180,4 @@
 2025-12-02T23:19:26.702Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: polish config defaults
 2025-12-03T00:07:09.122Z FastAPI <fastapi@users.noreply.github.com> :: tweak edge case in auth
 2025-12-03T16:04:57.074Z Alex Yang <himself65@users.noreply.github.com> :: remove logging
+2025-12-03T23:15:25.674Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish null check
