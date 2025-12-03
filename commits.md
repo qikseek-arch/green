@@ -15359,3 +15359,4 @@
 2025-12-03T11:54:18.790Z Collabnix <collabnix@users.noreply.github.com> :: wire up config defaults
 2025-12-03T12:39:08.738Z LMSYS <lm-sys@users.noreply.github.com> :: wire up config defaults
 2025-12-03T12:45:07.787Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up error handling
+2025-12-03T13:48:47.221Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
