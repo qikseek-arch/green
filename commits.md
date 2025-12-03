@@ -5688,3 +5688,4 @@
 2025-12-03T02:50:18.495Z Arduino <arduino@users.noreply.github.com> :: update the parser
 2025-12-03T04:33:02.492Z Adam Bell <b3ll@users.noreply.github.com> :: tweak cache keys
 2025-12-03T04:42:46.210Z CTFs <ctfs@users.noreply.github.com> :: tweak flaky test
+2025-12-03T04:58:16.914Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove config defaults
