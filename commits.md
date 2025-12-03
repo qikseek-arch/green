@@ -5702,3 +5702,4 @@
 2025-12-03T12:06:20.522Z Ryan Bigg <radar@users.noreply.github.com> :: add cache keys
 2025-12-03T13:13:48.659Z Keith Smiley <keith@users.noreply.github.com> :: bump edge case in auth
 2025-12-03T14:14:20.493Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump retry logic
+2025-12-03T20:28:32.419Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up edge case in auth
