@@ -15346,3 +15346,4 @@
 2025-12-03T01:17:57.100Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up edge case in auth
 2025-12-03T01:45:39.570Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor readme typo
 2025-12-03T02:12:00.974Z Lovell Fuller <lovell@users.noreply.github.com> :: fix dependency versions
+2025-12-03T02:30:38.334Z OpenBMB <openbmb@gmail.com> :: fix readme typo
