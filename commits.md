@@ -15362,3 +15362,4 @@
 2025-12-03T13:48:47.221Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
 2025-12-03T15:00:25.658Z Jordan Harband <ljharb@users.noreply.github.com> :: add the CI matrix
 2025-12-03T16:28:56.556Z 1 <insoxin@users.noreply.github.com> :: fix error handling
+2025-12-03T17:54:11.347Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump edge case in auth
