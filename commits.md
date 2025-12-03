@@ -5684,3 +5684,4 @@
 2025-12-02T22:35:16.496Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix edge case in auth
 2025-12-02T23:41:26.215Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix cache keys
 2025-12-03T01:20:33.571Z Claude <claude@users.noreply.github.com> :: clean up retry logic
+2025-12-03T02:42:15.269Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak logging
