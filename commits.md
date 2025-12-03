@@ -178,3 +178,4 @@
 2025-12-01T18:39:56.482Z Holtz Yan <holtzy@users.noreply.github.com> :: tweak edge case in auth
 2025-12-02T23:00:32.146Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: clean up retry logic
 2025-12-02T23:19:26.702Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: polish config defaults
+2025-12-03T00:07:09.122Z FastAPI <fastapi@users.noreply.github.com> :: tweak edge case in auth
