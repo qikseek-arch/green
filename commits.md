@@ -15371,3 +15371,4 @@
 2025-12-04T01:27:57.924Z Sky Ao <skyao@users.noreply.github.com> :: polish error handling
 2025-12-04T01:57:12.865Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak error handling
 2025-12-04T02:08:50.750Z Marcel Pociot <mpociot@users.noreply.github.com> :: polish readme typo
+2025-12-04T03:29:50.744Z Brian Holt <btholt@users.noreply.github.com> :: wire up dead code
