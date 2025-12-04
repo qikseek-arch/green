@@ -15382,3 +15382,4 @@
 2025-12-04T14:32:27.779Z Alex Teichman <teichman@users.noreply.github.com> :: clean up readme typo
 2025-12-04T15:01:22.719Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update the CI matrix
 2025-12-04T15:42:37.659Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: wire up readme typo
+2025-12-04T16:27:32.888Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: fix dead code
