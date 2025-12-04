@@ -15370,3 +15370,4 @@
 2025-12-04T00:18:12.207Z OpenBMB <openbmb@gmail.com> :: add dead code
 2025-12-04T01:27:57.924Z Sky Ao <skyao@users.noreply.github.com> :: polish error handling
 2025-12-04T01:57:12.865Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak error handling
+2025-12-04T02:08:50.750Z Marcel Pociot <mpociot@users.noreply.github.com> :: polish readme typo
