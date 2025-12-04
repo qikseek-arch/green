@@ -5726,3 +5726,4 @@
 2025-12-04T15:01:27.113Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up build script
 2025-12-04T17:33:46.826Z Keith Smiley <keith@users.noreply.github.com> :: remove logging
 2025-12-04T17:54:42.967Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove the CI matrix
+2025-12-04T17:58:46.468Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor build script
