@@ -318,3 +318,4 @@
 2025-12-02T21:41:19.010Z wizard_lazyxx <wizard_lazyxx@fake.invalid> :: bump error handling | Co-authored-by: Iris Series 鸢尾花书 <Visualize-ML@users.noreply.github.com>
 2025-12-03T09:39:08.628Z wizard_vivid <wizard_vivid@fake.invalid> :: wire up logging | Co-authored-by: Donne Martin <donnemartin@users.noreply.github.com>
 2025-12-04T01:45:20.523Z molten-badger42 <molten-badger42@fake.invalid> :: add error handling
+2025-12-04T14:44:58.225Z VividKernel <vividkernel@fake.invalid> :: update null check
