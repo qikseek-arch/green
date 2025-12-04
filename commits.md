@@ -15389,3 +15389,4 @@
 2025-12-04T18:59:30.598Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove dead code
 2025-12-04T19:20:17.121Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove null check
 2025-12-04T20:56:52.563Z Dove Letter <skydoves2@gmail.com> :: clean up dependency versions
+2025-12-04T23:21:24.589Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove the parser
