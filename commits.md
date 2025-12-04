@@ -15385,3 +15385,4 @@
 2025-12-04T16:27:32.888Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: fix dead code
 2025-12-04T16:35:39.044Z Snowflake Labs <opensource@snowflake.com> :: update readme typo
 2025-12-04T17:36:42.970Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove null check
+2025-12-04T18:41:56.349Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove the CI matrix
