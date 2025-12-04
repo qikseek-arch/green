@@ -5723,3 +5723,4 @@
 2025-12-04T13:41:56.802Z CTFs <ctfs@users.noreply.github.com> :: wire up retry logic
 2025-12-04T14:28:32.710Z AI4Bhārat <opensource@ai4bharat.org> :: wire up edge case in auth
 2025-12-04T14:51:43.865Z Getgems <getgems-io@users.noreply.github.com> :: tweak logging
+2025-12-04T15:01:27.113Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up build script
