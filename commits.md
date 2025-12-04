@@ -5727,3 +5727,4 @@
 2025-12-04T17:33:46.826Z Keith Smiley <keith@users.noreply.github.com> :: remove logging
 2025-12-04T17:54:42.967Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove the CI matrix
 2025-12-04T17:58:46.468Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor build script
+2025-12-04T18:43:17.812Z Keith Smiley <keith@users.noreply.github.com> :: remove retry logic
