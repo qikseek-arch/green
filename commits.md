@@ -15378,3 +15378,4 @@
 2025-12-04T10:17:54.404Z Alex Teichman <teichman@users.noreply.github.com> :: remove error handling
 2025-12-04T11:30:31.377Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump build script
 2025-12-04T12:03:26.616Z Brian Holt <btholt@users.noreply.github.com> :: fix cache keys
+2025-12-04T12:37:53.473Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up retry logic
