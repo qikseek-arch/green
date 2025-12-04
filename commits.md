@@ -15375,3 +15375,4 @@
 2025-12-04T06:09:43.038Z Alex Teichman <teichman@users.noreply.github.com> :: add logging
 2025-12-04T07:24:27.572Z Dove Letter <skydoves2@gmail.com> :: fix edge case in auth
 2025-12-04T08:16:46.521Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix logging
+2025-12-04T10:17:54.404Z Alex Teichman <teichman@users.noreply.github.com> :: remove error handling
