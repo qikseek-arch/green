@@ -5711,3 +5711,4 @@
 2025-12-04T03:16:29.693Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor readme typo
 2025-12-04T04:25:33.576Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak dead code
 2025-12-04T04:59:48.214Z qiye <qiyeboy@users.noreply.github.com> :: refactor dead code
+2025-12-04T05:55:11.799Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
