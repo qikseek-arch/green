@@ -183,3 +183,4 @@
 2025-12-03T23:15:25.674Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish null check
 2025-12-04T06:50:07.445Z Cheng Lou <chenglou@users.noreply.github.com> :: fix readme typo
 2025-12-04T08:03:25.233Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor edge case in auth
+2025-12-04T14:53:21.312Z @XDevelopers <xdevplatform@users.noreply.github.com> :: wire up the parser
