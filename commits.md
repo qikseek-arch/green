@@ -5729,3 +5729,4 @@
 2025-12-04T17:58:46.468Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor build script
 2025-12-04T18:43:17.812Z Keith Smiley <keith@users.noreply.github.com> :: remove retry logic
 2025-12-04T21:02:07.819Z First Contributions <firstcontributions@gmail.com> :: polish dependency versions
+2025-12-04T21:44:13.241Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up retry logic
