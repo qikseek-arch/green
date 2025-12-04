@@ -181,3 +181,4 @@
 2025-12-03T00:07:09.122Z FastAPI <fastapi@users.noreply.github.com> :: tweak edge case in auth
 2025-12-03T16:04:57.074Z Alex Yang <himself65@users.noreply.github.com> :: remove logging
 2025-12-03T23:15:25.674Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish null check
+2025-12-04T06:50:07.445Z Cheng Lou <chenglou@users.noreply.github.com> :: fix readme typo
