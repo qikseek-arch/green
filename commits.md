@@ -15386,3 +15386,4 @@
 2025-12-04T16:35:39.044Z Snowflake Labs <opensource@snowflake.com> :: update readme typo
 2025-12-04T17:36:42.970Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove null check
 2025-12-04T18:41:56.349Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove the CI matrix
+2025-12-04T18:59:30.598Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove dead code
