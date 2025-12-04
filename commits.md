@@ -5718,3 +5718,4 @@
 2025-12-04T10:47:01.222Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump readme typo
 2025-12-04T10:50:09.248Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up readme typo
 2025-12-04T12:52:37.004Z Adam Łucek <ALucek@users.noreply.github.com> :: bump dead code
+2025-12-04T13:10:50.316Z WebRTC <discuss-webrtc@googlegroups.com> :: polish edge case in auth
