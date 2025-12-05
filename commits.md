@@ -5746,3 +5746,4 @@
 2025-12-05T09:44:56.687Z Aurélien Geron <ageron@users.noreply.github.com> :: update readme typo
 2025-12-05T09:51:33.176Z Ryan Bigg <radar@users.noreply.github.com> :: refactor config defaults
 2025-12-05T10:28:52.600Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up error handling
+2025-12-05T11:37:11.541Z BBC <bbc@users.noreply.github.com> :: remove null check
