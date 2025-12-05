@@ -15417,3 +15417,4 @@
 2025-12-05T18:50:55.345Z Snowflake Labs <opensource@snowflake.com> :: update retry logic
 2025-12-05T20:21:20.943Z Google Fonts <googlefonts@users.noreply.github.com> :: add edge case in auth
 2025-12-05T21:23:48.432Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove null check
+2025-12-05T21:30:39.142Z Lovell Fuller <lovell@users.noreply.github.com> :: polish config defaults
