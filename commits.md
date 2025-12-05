@@ -15408,3 +15408,4 @@
 2025-12-05T12:04:01.467Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak error handling
 2025-12-05T12:50:52.111Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up dead code
 2025-12-05T13:45:09.773Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix edge case in auth
+2025-12-05T15:14:00.762Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak retry logic
