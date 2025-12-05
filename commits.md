@@ -5738,3 +5738,4 @@
 2025-12-05T05:20:18.404Z CTFs <ctfs@users.noreply.github.com> :: polish logging
 2025-12-05T05:51:43.579Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix dead code
 2025-12-05T07:12:18.211Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: polish dependency versions
+2025-12-05T07:13:27.673Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up dead code
