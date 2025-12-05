@@ -15419,3 +15419,4 @@
 2025-12-05T21:23:48.432Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove null check
 2025-12-05T21:30:39.142Z Lovell Fuller <lovell@users.noreply.github.com> :: polish config defaults
 2025-12-05T22:20:57.277Z Snowflake Labs <opensource@snowflake.com> :: refactor retry logic
+2025-12-05T23:11:33.776Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix build script
