@@ -185,3 +185,4 @@
 2025-12-04T08:03:25.233Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor edge case in auth
 2025-12-04T14:53:21.312Z @XDevelopers <xdevplatform@users.noreply.github.com> :: wire up the parser
 2025-12-05T01:56:08.420Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor edge case in auth
+2025-12-05T04:24:05.132Z FastAPI <fastapi@users.noreply.github.com> :: wire up null check
