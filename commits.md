@@ -5751,3 +5751,4 @@
 2025-12-05T12:45:21.579Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up build script
 2025-12-05T13:12:12.894Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update cache keys
 2025-12-05T13:54:33.445Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix logging
+2025-12-05T14:25:22.934Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak readme typo
