@@ -5759,3 +5759,4 @@
 2025-12-05T21:11:08.570Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: fix the parser
 2025-12-05T21:31:48.742Z Taiko Foundation <info@taiko.xyz> :: tweak readme typo
 2025-12-05T21:38:55.177Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak dependency versions
+2025-12-05T22:28:31.608Z Claude <claude@users.noreply.github.com> :: add build script
