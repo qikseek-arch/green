@@ -5736,3 +5736,4 @@
 2025-12-05T03:45:44.228Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove edge case in auth
 2025-12-05T04:11:03.184Z Odi <mathdroid@users.noreply.github.com> :: fix dependency versions
 2025-12-05T05:20:18.404Z CTFs <ctfs@users.noreply.github.com> :: polish logging
+2025-12-05T05:51:43.579Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix dead code
