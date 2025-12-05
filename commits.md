@@ -15395,3 +15395,4 @@
 2025-12-05T02:09:49.171Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: bump readme typo
 2025-12-05T02:17:21.791Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish cache keys
 2025-12-05T02:54:42.563Z OpenBMB <openbmb@gmail.com> :: wire up edge case in auth
+2025-12-05T03:02:10.476Z Collabnix <collabnix@users.noreply.github.com> :: update retry logic
