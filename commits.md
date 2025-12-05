@@ -5747,3 +5747,4 @@
 2025-12-05T09:51:33.176Z Ryan Bigg <radar@users.noreply.github.com> :: refactor config defaults
 2025-12-05T10:28:52.600Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up error handling
 2025-12-05T11:37:11.541Z BBC <bbc@users.noreply.github.com> :: remove null check
+2025-12-05T11:56:13.282Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish the parser
