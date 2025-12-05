@@ -15402,3 +15402,4 @@
 2025-12-05T05:42:11.823Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak dependency versions
 2025-12-05T07:55:43.917Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the parser
 2025-12-05T08:30:43.851Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up edge case in auth
+2025-12-05T08:42:38.859Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove retry logic
