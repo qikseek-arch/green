@@ -5744,3 +5744,4 @@
 2025-12-05T08:41:13.404Z FlowiseAI <hello@flowiseai.com> :: wire up null check
 2025-12-05T09:28:39.528Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up config defaults
 2025-12-05T09:44:56.687Z Aurélien Geron <ageron@users.noreply.github.com> :: update readme typo
+2025-12-05T09:51:33.176Z Ryan Bigg <radar@users.noreply.github.com> :: refactor config defaults
