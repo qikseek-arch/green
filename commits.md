@@ -15410,3 +15410,4 @@
 2025-12-05T13:45:09.773Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix edge case in auth
 2025-12-05T15:14:00.762Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak retry logic
 2025-12-05T15:15:37.666Z winterbe <winterbe@users.noreply.github.com> :: bump cache keys
+2025-12-05T16:19:45.038Z Brian Holt <btholt@users.noreply.github.com> :: polish dead code
