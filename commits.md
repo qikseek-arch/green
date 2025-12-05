@@ -15413,3 +15413,4 @@
 2025-12-05T16:19:45.038Z Brian Holt <btholt@users.noreply.github.com> :: polish dead code
 2025-12-05T17:22:16.582Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: add flaky test
 2025-12-05T17:49:00.414Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix flaky test
+2025-12-05T17:54:35.694Z LMSYS <lm-sys@users.noreply.github.com> :: remove edge case in auth
