@@ -5732,3 +5732,4 @@
 2025-12-04T21:44:13.241Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up retry logic
 2025-12-05T01:32:32.590Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor flaky test
 2025-12-05T01:48:53.307Z SouJunior <wouerner@soujunior.tech> :: clean up cache keys
+2025-12-05T01:58:31.277Z David Fowler <davidfowl@users.noreply.github.com> :: add logging
