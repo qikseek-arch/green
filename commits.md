@@ -15399,3 +15399,4 @@
 2025-12-05T03:50:36.716Z Alex Teichman <teichman@users.noreply.github.com> :: add null check
 2025-12-05T03:59:35.617Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor error handling
 2025-12-05T04:51:48.743Z Dove Letter <skydoves2@gmail.com> :: bump build script
+2025-12-05T05:42:11.823Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak dependency versions
