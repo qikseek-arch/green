@@ -15445,3 +15445,4 @@
 2025-12-06T20:37:40.759Z winterbe <winterbe@users.noreply.github.com> :: refactor dead code
 2025-12-06T22:12:19.666Z cytopia <cytopia@users.noreply.github.com> :: polish the parser
 2025-12-06T23:10:06.306Z Chetan Jogi <voidChetan@users.noreply.github.com> :: update the parser
+2025-12-06T23:25:25.246Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up retry logic
