@@ -5761,3 +5761,4 @@
 2025-12-05T21:38:55.177Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak dependency versions
 2025-12-05T22:28:31.608Z Claude <claude@users.noreply.github.com> :: add build script
 2025-12-06T00:11:05.710Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dead code
+2025-12-06T01:02:24.014Z owenzhang <owenzhang@users.noreply.github.com> :: polish dependency versions
