@@ -5762,3 +5762,4 @@
 2025-12-05T22:28:31.608Z Claude <claude@users.noreply.github.com> :: add build script
 2025-12-06T00:11:05.710Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dead code
 2025-12-06T01:02:24.014Z owenzhang <owenzhang@users.noreply.github.com> :: polish dependency versions
+2025-12-06T01:38:00.588Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add the parser
