@@ -5780,3 +5780,4 @@
 2025-12-06T20:18:07.552Z WebRTC <discuss-webrtc@googlegroups.com> :: wire up edge case in auth
 2025-12-06T20:37:15.861Z Adam Bell <b3ll@users.noreply.github.com> :: tweak flaky test
 2025-12-06T20:39:54.357Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix config defaults
+2025-12-06T22:02:49.246Z Shubs <infosec-au@users.noreply.github.com> :: add build script
