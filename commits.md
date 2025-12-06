@@ -15426,3 +15426,4 @@
 2025-12-06T04:05:11.604Z OpenBSD <openbsd@users.noreply.github.com> :: clean up null check
 2025-12-06T05:18:56.755Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: tweak the parser
 2025-12-06T06:49:44.409Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak flaky test
+2025-12-06T07:32:25.208Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: clean up the parser
