@@ -15440,3 +15440,4 @@
 2025-12-06T13:54:51.405Z LMSYS <lm-sys@users.noreply.github.com> :: remove readme typo
 2025-12-06T14:01:37.973Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update the parser
 2025-12-06T16:49:28.327Z OpenBSD <openbsd@users.noreply.github.com> :: update the CI matrix
+2025-12-06T17:30:15.737Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update logging
