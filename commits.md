@@ -15421,3 +15421,4 @@
 2025-12-05T22:20:57.277Z Snowflake Labs <opensource@snowflake.com> :: refactor retry logic
 2025-12-05T23:11:33.776Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix build script
 2025-12-06T01:47:39.560Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor readme typo
+2025-12-06T03:03:08.989Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up dependency versions
