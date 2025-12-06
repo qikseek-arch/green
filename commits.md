@@ -5776,3 +5776,4 @@
 2025-12-06T16:35:05.495Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
 2025-12-06T17:58:30.765Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up null check
 2025-12-06T18:36:33.394Z Rei <chloerei@users.noreply.github.com> :: polish readme typo
+2025-12-06T19:17:05.240Z Keith Smiley <keith@users.noreply.github.com> :: polish logging
