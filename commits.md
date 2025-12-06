@@ -15437,3 +15437,4 @@
 2025-12-06T12:41:10.636Z Lovell Fuller <lovell@users.noreply.github.com> :: remove config defaults
 2025-12-06T13:19:04.757Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove edge case in auth
 2025-12-06T13:45:45.500Z OpenBMB <openbmb@gmail.com> :: wire up config defaults
+2025-12-06T13:54:51.405Z LMSYS <lm-sys@users.noreply.github.com> :: remove readme typo
