@@ -5770,3 +5770,4 @@
 2025-12-06T08:04:12.538Z SouJunior <wouerner@soujunior.tech> :: remove config defaults
 2025-12-06T09:01:02.272Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up retry logic
 2025-12-06T13:53:41.895Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up dependency versions
+2025-12-06T15:33:11.676Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish error handling
