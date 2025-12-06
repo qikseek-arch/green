@@ -15433,3 +15433,4 @@
 2025-12-06T11:03:17.804Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak cache keys
 2025-12-06T11:54:31.881Z t11s <transmissions11@users.noreply.github.com> :: bump the CI matrix
 2025-12-06T12:19:54.320Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish cache keys
+2025-12-06T12:19:55.600Z Odi <mathdroid@users.noreply.github.com> :: fix readme typo
