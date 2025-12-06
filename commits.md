@@ -5774,3 +5774,4 @@
 2025-12-06T15:43:56.272Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor edge case in auth
 2025-12-06T15:58:25.719Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: update dependency versions
 2025-12-06T16:35:05.495Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
+2025-12-06T17:58:30.765Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up null check
