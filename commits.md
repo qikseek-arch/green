@@ -15443,3 +15443,4 @@
 2025-12-06T17:30:15.737Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update logging
 2025-12-06T19:11:23.463Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove null check
 2025-12-06T20:37:40.759Z winterbe <winterbe@users.noreply.github.com> :: refactor dead code
+2025-12-06T22:12:19.666Z cytopia <cytopia@users.noreply.github.com> :: polish the parser
