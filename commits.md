@@ -15439,3 +15439,4 @@
 2025-12-06T13:45:45.500Z OpenBMB <openbmb@gmail.com> :: wire up config defaults
 2025-12-06T13:54:51.405Z LMSYS <lm-sys@users.noreply.github.com> :: remove readme typo
 2025-12-06T14:01:37.973Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update the parser
+2025-12-06T16:49:28.327Z OpenBSD <openbsd@users.noreply.github.com> :: update the CI matrix
