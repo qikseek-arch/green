@@ -15435,3 +15435,4 @@
 2025-12-06T12:19:54.320Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish cache keys
 2025-12-06T12:19:55.600Z Odi <mathdroid@users.noreply.github.com> :: fix readme typo
 2025-12-06T12:41:10.636Z Lovell Fuller <lovell@users.noreply.github.com> :: remove config defaults
+2025-12-06T13:19:04.757Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove edge case in auth
