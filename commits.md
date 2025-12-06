@@ -15423,3 +15423,4 @@
 2025-12-06T01:47:39.560Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor readme typo
 2025-12-06T03:03:08.989Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up dependency versions
 2025-12-06T03:14:29.516Z Henry <hzoo@users.noreply.github.com> :: fix readme typo
+2025-12-06T04:05:11.604Z OpenBSD <openbsd@users.noreply.github.com> :: clean up null check
