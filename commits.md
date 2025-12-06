@@ -187,3 +187,4 @@
 2025-12-05T01:56:08.420Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor edge case in auth
 2025-12-05T04:24:05.132Z FastAPI <fastapi@users.noreply.github.com> :: wire up null check
 2025-12-06T07:41:33.809Z Colt Steele <Colt@users.noreply.github.com> :: clean up the CI matrix
+2025-12-06T19:06:10.700Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: clean up dependency versions
