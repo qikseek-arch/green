@@ -5804,3 +5804,4 @@
 2025-12-07T16:44:27.075Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: refactor logging
 2025-12-07T17:08:18.739Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add readme typo
 2025-12-07T17:12:34.200Z Keith Smiley <keith@users.noreply.github.com> :: fix the CI matrix
+2025-12-07T18:04:50.828Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update retry logic
