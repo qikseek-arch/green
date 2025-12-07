@@ -15482,3 +15482,4 @@
 2025-12-07T20:58:05.470Z Tom Dale <tomdale@users.noreply.github.com> :: refactor dependency versions
 2025-12-07T21:05:05.422Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix config defaults
 2025-12-07T22:50:21.083Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add config defaults
+2025-12-07T23:52:38.862Z cytopia <cytopia@users.noreply.github.com> :: fix edge case in auth
