@@ -5793,3 +5793,4 @@
 2025-12-07T10:22:03.939Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up build script
 2025-12-07T10:55:24.936Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up the parser
 2025-12-07T11:35:52.851Z Adam Bell <b3ll@users.noreply.github.com> :: wire up cache keys
+2025-12-07T11:38:24.611Z CTFs <ctfs@users.noreply.github.com> :: refactor edge case in auth
