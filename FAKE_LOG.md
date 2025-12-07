@@ -215,3 +215,4 @@
 2025-12-02T04:38:44.398Z mimic <mimic@fake.invalid> :: wire up flaky test
 2025-12-04T22:00:40.894Z rune <rune@fake.invalid> :: fix retry logic
 2025-12-06T19:09:19.963Z seraph <seraph@fake.invalid> :: add the parser
+2025-12-07T14:27:55.790Z cipher <cipher@fake.invalid> :: add error handling
