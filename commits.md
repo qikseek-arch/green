@@ -5794,3 +5794,4 @@
 2025-12-07T10:55:24.936Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up the parser
 2025-12-07T11:35:52.851Z Adam Bell <b3ll@users.noreply.github.com> :: wire up cache keys
 2025-12-07T11:38:24.611Z CTFs <ctfs@users.noreply.github.com> :: refactor edge case in auth
+2025-12-07T12:51:51.179Z ㅤxander <vampirist@users.noreply.github.com> :: update readme typo
