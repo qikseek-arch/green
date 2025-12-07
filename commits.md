@@ -5807,3 +5807,4 @@
 2025-12-07T18:04:50.828Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update retry logic
 2025-12-07T18:33:34.829Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak cache keys
 2025-12-07T21:03:45.380Z Getgems <getgems-io@users.noreply.github.com> :: polish retry logic
+2025-12-07T21:26:06.462Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update null check
