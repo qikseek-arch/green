@@ -188,3 +188,4 @@
 2025-12-05T04:24:05.132Z FastAPI <fastapi@users.noreply.github.com> :: wire up null check
 2025-12-06T07:41:33.809Z Colt Steele <Colt@users.noreply.github.com> :: clean up the CI matrix
 2025-12-06T19:06:10.700Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: clean up dependency versions
+2025-12-07T14:00:15.552Z Susan Li <susanli2016@users.noreply.github.com> :: fix error handling
