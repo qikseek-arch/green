@@ -15470,3 +15470,4 @@
 2025-12-07T13:50:48.589Z Alex Teichman <teichman@users.noreply.github.com> :: bump config defaults
 2025-12-07T14:20:12.305Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix config defaults
 2025-12-07T14:40:12.412Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump edge case in auth
+2025-12-07T14:58:41.042Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove logging
