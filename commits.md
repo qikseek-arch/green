@@ -15476,3 +15476,4 @@
 2025-12-07T17:05:14.737Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump the CI matrix
 2025-12-07T18:04:46.097Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up dependency versions
 2025-12-07T18:16:25.162Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor flaky test
+2025-12-07T18:23:54.134Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish build script
