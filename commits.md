@@ -15461,3 +15461,4 @@
 2025-12-07T05:42:25.043Z Elliott Minns <elliottminns@users.noreply.github.com> :: add dependency versions
 2025-12-07T08:01:47.270Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix error handling
 2025-12-07T08:56:47.668Z Dove Letter <skydoves2@gmail.com> :: polish build script
+2025-12-07T09:56:20.131Z LocalSend <localsend@users.noreply.github.com> :: fix logging
