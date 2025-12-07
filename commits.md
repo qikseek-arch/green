@@ -5802,3 +5802,4 @@
 2025-12-07T15:00:18.433Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish edge case in auth
 2025-12-07T16:20:09.301Z markqvist <markqvist@users.noreply.github.com> :: add config defaults
 2025-12-07T16:44:27.075Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: refactor logging
+2025-12-07T17:08:18.739Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add readme typo
