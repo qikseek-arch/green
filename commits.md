@@ -5809,3 +5809,4 @@
 2025-12-07T21:03:45.380Z Getgems <getgems-io@users.noreply.github.com> :: polish retry logic
 2025-12-07T21:26:06.462Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update null check
 2025-12-07T21:57:46.547Z vb <Vaibhavs10@users.noreply.github.com> :: add dependency versions
+2025-12-07T22:37:39.622Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up error handling
