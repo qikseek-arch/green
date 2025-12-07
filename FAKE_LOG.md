@@ -41,3 +41,4 @@
 2025-12-04T07:19:03.722Z GlitchyRaptor <glitchyraptor@users.noreply.github.com> :: refactor retry logic
 2025-12-05T04:16:16.423Z pirate_lazy99 <pirate_lazy99@users.noreply.github.com> :: bump logging
 2025-12-06T11:20:34.860Z WiredGoblin <wiredgoblin@users.noreply.github.com> :: fix the parser
+2025-12-07T08:59:40.664Z FeralWalrus <feralwalrus@users.noreply.github.com> :: update dead code
