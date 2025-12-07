@@ -15467,3 +15467,4 @@
 2025-12-07T12:56:40.468Z cytopia <cytopia@users.noreply.github.com> :: wire up readme typo
 2025-12-07T13:39:37.078Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor logging
 2025-12-07T13:50:12.915Z Lovell Fuller <lovell@users.noreply.github.com> :: add flaky test
+2025-12-07T13:50:48.589Z Alex Teichman <teichman@users.noreply.github.com> :: bump config defaults
