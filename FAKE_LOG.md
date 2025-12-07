@@ -653,3 +653,4 @@
 2025-12-01T00:18:10.881Z Visual Studio Code <Visual-Studio-Code@users.noreply.github.com> :: bump error handling
 2025-12-01T14:18:55.423Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: clean up the CI matrix
 2025-12-02T02:51:28.994Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: bump error handling
+2025-12-07T11:00:54.682Z David J. Malan <dmalan@users.noreply.github.com> :: polish build script
