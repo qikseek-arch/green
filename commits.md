@@ -15481,3 +15481,4 @@
 2025-12-07T20:53:55.794Z OpenMEDLab <openmedlab@pjlab.org.cn> :: bump dead code
 2025-12-07T20:58:05.470Z Tom Dale <tomdale@users.noreply.github.com> :: refactor dependency versions
 2025-12-07T21:05:05.422Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix config defaults
+2025-12-07T22:50:21.083Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add config defaults
