@@ -15463,3 +15463,4 @@
 2025-12-07T08:56:47.668Z Dove Letter <skydoves2@gmail.com> :: polish build script
 2025-12-07T09:56:20.131Z LocalSend <localsend@users.noreply.github.com> :: fix logging
 2025-12-07T10:30:29.612Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish cache keys
+2025-12-07T12:31:44.236Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump dependency versions
