@@ -15479,3 +15479,4 @@
 2025-12-07T18:23:54.134Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish build script
 2025-12-07T18:31:44.315Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix logging
 2025-12-07T20:53:55.794Z OpenMEDLab <openmedlab@pjlab.org.cn> :: bump dead code
+2025-12-07T20:58:05.470Z Tom Dale <tomdale@users.noreply.github.com> :: refactor dependency versions
