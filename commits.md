@@ -5800,3 +5800,4 @@
 2025-12-07T14:45:04.508Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update flaky test
 2025-12-07T14:48:18.419Z Daniel Eden <daneden@users.noreply.github.com> :: tweak edge case in auth
 2025-12-07T15:00:18.433Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish edge case in auth
+2025-12-07T16:20:09.301Z markqvist <markqvist@users.noreply.github.com> :: add config defaults
