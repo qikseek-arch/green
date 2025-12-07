@@ -15469,3 +15469,4 @@
 2025-12-07T13:50:12.915Z Lovell Fuller <lovell@users.noreply.github.com> :: add flaky test
 2025-12-07T13:50:48.589Z Alex Teichman <teichman@users.noreply.github.com> :: bump config defaults
 2025-12-07T14:20:12.305Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix config defaults
+2025-12-07T14:40:12.412Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump edge case in auth
