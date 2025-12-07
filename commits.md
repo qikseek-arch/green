@@ -15457,3 +15457,4 @@
 2025-12-07T03:51:07.171Z Lipis <lipis@users.noreply.github.com> :: wire up dependency versions
 2025-12-07T05:07:42.051Z Scott Chacon <schacon@users.noreply.github.com> :: clean up the parser
 2025-12-07T05:40:27.661Z OpenBSD <openbsd@users.noreply.github.com> :: clean up edge case in auth
+2025-12-07T05:40:38.005Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: wire up error handling
