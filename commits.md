@@ -5782,3 +5782,4 @@
 2025-12-06T20:39:54.357Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix config defaults
 2025-12-06T22:02:49.246Z Shubs <infosec-au@users.noreply.github.com> :: add build script
 2025-12-07T00:02:34.905Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
+2025-12-07T04:17:54.139Z ㅤxander <vampirist@users.noreply.github.com> :: remove dependency versions
