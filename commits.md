@@ -15471,3 +15471,4 @@
 2025-12-07T14:20:12.305Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix config defaults
 2025-12-07T14:40:12.412Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump edge case in auth
 2025-12-07T14:58:41.042Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove logging
+2025-12-07T16:32:01.520Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up null check
