@@ -15490,3 +15490,4 @@
 2025-12-08T02:56:40.448Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix flaky test
 2025-12-08T04:35:09.798Z Lovell Fuller <lovell@users.noreply.github.com> :: fix retry logic
 2025-12-08T06:49:51.263Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up config defaults
+2025-12-08T07:53:25.441Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
