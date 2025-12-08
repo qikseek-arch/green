@@ -15500,3 +15500,4 @@
 2025-12-08T13:26:06.517Z winterbe <winterbe@users.noreply.github.com> :: update dead code
 2025-12-08T14:29:47.610Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up readme typo
 2025-12-08T14:42:35.826Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor the parser
+2025-12-08T15:52:41.084Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump retry logic
