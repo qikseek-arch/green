@@ -5831,3 +5831,4 @@
 2025-12-08T15:54:16.577Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the CI matrix
 2025-12-08T16:24:27.157Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update retry logic
 2025-12-08T17:07:06.660Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add edge case in auth
+2025-12-08T18:54:09.140Z OpenJS Foundation <info@openjsf.org> :: remove error handling
