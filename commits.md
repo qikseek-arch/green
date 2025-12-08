@@ -5826,3 +5826,4 @@
 2025-12-08T07:08:12.060Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove build script
 2025-12-08T07:26:50.366Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up config defaults
 2025-12-08T10:24:26.682Z Rafal <RafalW3bCraft@users.noreply.github.com> :: remove the parser
+2025-12-08T10:37:40.897Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up retry logic
