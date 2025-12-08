@@ -5829,3 +5829,4 @@
 2025-12-08T10:37:40.897Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up retry logic
 2025-12-08T15:06:16.195Z Adam Bell <b3ll@users.noreply.github.com> :: update config defaults
 2025-12-08T15:54:16.577Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the CI matrix
+2025-12-08T16:24:27.157Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update retry logic
