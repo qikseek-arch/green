@@ -15494,3 +15494,4 @@
 2025-12-08T08:03:46.201Z Dove Letter <skydoves2@gmail.com> :: refactor error handling
 2025-12-08T08:14:10.782Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak null check
 2025-12-08T10:20:36.685Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add logging
+2025-12-08T10:36:34.636Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor config defaults
