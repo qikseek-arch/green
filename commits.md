@@ -15492,3 +15492,4 @@
 2025-12-08T06:49:51.263Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up config defaults
 2025-12-08T07:53:25.441Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
 2025-12-08T08:03:46.201Z Dove Letter <skydoves2@gmail.com> :: refactor error handling
+2025-12-08T08:14:10.782Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak null check
