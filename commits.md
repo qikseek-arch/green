@@ -5828,3 +5828,4 @@
 2025-12-08T10:24:26.682Z Rafal <RafalW3bCraft@users.noreply.github.com> :: remove the parser
 2025-12-08T10:37:40.897Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up retry logic
 2025-12-08T15:06:16.195Z Adam Bell <b3ll@users.noreply.github.com> :: update config defaults
+2025-12-08T15:54:16.577Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the CI matrix
