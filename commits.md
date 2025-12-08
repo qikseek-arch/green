@@ -189,3 +189,4 @@
 2025-12-06T07:41:33.809Z Colt Steele <Colt@users.noreply.github.com> :: clean up the CI matrix
 2025-12-06T19:06:10.700Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: clean up dependency versions
 2025-12-07T14:00:15.552Z Susan Li <susanli2016@users.noreply.github.com> :: fix error handling
+2025-12-08T03:53:29.121Z Colt Steele <Colt@users.noreply.github.com> :: polish dependency versions
