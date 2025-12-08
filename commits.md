@@ -5821,3 +5821,4 @@
 2025-12-08T05:09:45.206Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump flaky test
 2025-12-08T05:49:27.258Z Sachin Soni <techiesms@users.noreply.github.com> :: remove flaky test
 2025-12-08T06:09:29.312Z markqvist <markqvist@users.noreply.github.com> :: clean up build script
+2025-12-08T06:23:19.063Z CTFs <ctfs@users.noreply.github.com> :: refactor error handling
