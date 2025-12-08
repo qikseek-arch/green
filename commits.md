@@ -5812,3 +5812,4 @@
 2025-12-07T22:37:39.622Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up error handling
 2025-12-07T23:35:49.447Z LILYGO <LilyGO@users.noreply.github.com> :: fix null check
 2025-12-08T00:25:09.597Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor dependency versions
+2025-12-08T00:36:05.397Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dependency versions
