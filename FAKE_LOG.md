@@ -414,3 +414,4 @@
 2025-11-27T22:42:00.933Z wired-monolith_io <wired-monolith_io@fake.invalid> :: remove logging
 2025-11-28T04:39:19.095Z Marie Curie <marie.curie@fake.invalid> :: clean up dependency versions
 2025-11-30T02:16:27.010Z Larry Wall <larry.wall@fake.invalid> :: tweak build script
+2025-12-08T16:53:35.276Z Filipe Deschamps <filipedeschamps@users.noreply.github.com> :: remove dependency versions
