@@ -15489,3 +15489,4 @@
 2025-12-08T02:35:04.929Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish flaky test
 2025-12-08T02:56:40.448Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix flaky test
 2025-12-08T04:35:09.798Z Lovell Fuller <lovell@users.noreply.github.com> :: fix retry logic
+2025-12-08T06:49:51.263Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up config defaults
