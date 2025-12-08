@@ -5816,3 +5816,4 @@
 2025-12-08T02:39:17.983Z Fady Farag <iidmsa@users.noreply.github.com> :: bump error handling
 2025-12-08T03:19:49.324Z SouJunior <wouerner@soujunior.tech> :: tweak build script
 2025-12-08T03:36:16.756Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor edge case in auth
+2025-12-08T03:44:02.437Z BBC <bbc@users.noreply.github.com> :: clean up dead code
