@@ -5820,3 +5820,4 @@
 2025-12-08T04:18:04.088Z ㅤxander <vampirist@users.noreply.github.com> :: refactor null check
 2025-12-08T05:09:45.206Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump flaky test
 2025-12-08T05:49:27.258Z Sachin Soni <techiesms@users.noreply.github.com> :: remove flaky test
+2025-12-08T06:09:29.312Z markqvist <markqvist@users.noreply.github.com> :: clean up build script
