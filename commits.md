@@ -5814,3 +5814,4 @@
 2025-12-08T00:25:09.597Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor dependency versions
 2025-12-08T00:36:05.397Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dependency versions
 2025-12-08T02:39:17.983Z Fady Farag <iidmsa@users.noreply.github.com> :: bump error handling
+2025-12-08T03:19:49.324Z SouJunior <wouerner@soujunior.tech> :: tweak build script
