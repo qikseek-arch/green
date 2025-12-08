@@ -15503,3 +15503,4 @@
 2025-12-08T15:52:41.084Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump retry logic
 2025-12-08T16:42:21.303Z OpenBMB <openbmb@gmail.com> :: polish the CI matrix
 2025-12-08T18:26:40.447Z Boshen <Boshen@users.noreply.github.com> :: tweak cache keys
+2025-12-08T21:44:25.449Z Brian Holt <btholt@users.noreply.github.com> :: fix error handling
