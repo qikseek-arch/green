@@ -5817,3 +5817,4 @@
 2025-12-08T03:19:49.324Z SouJunior <wouerner@soujunior.tech> :: tweak build script
 2025-12-08T03:36:16.756Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor edge case in auth
 2025-12-08T03:44:02.437Z BBC <bbc@users.noreply.github.com> :: clean up dead code
+2025-12-08T04:18:04.088Z ㅤxander <vampirist@users.noreply.github.com> :: refactor null check
