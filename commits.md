@@ -5823,3 +5823,4 @@
 2025-12-08T06:09:29.312Z markqvist <markqvist@users.noreply.github.com> :: clean up build script
 2025-12-08T06:23:19.063Z CTFs <ctfs@users.noreply.github.com> :: refactor error handling
 2025-12-08T06:39:15.544Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor null check
+2025-12-08T07:08:12.060Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove build script
