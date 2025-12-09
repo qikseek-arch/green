@@ -5845,3 +5845,4 @@
 2025-12-09T06:42:36.197Z heyli <lcxfs1991@users.noreply.github.com> :: fix null check
 2025-12-09T06:43:33.531Z SouJunior <wouerner@soujunior.tech> :: remove readme typo
 2025-12-09T07:41:58.492Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish edge case in auth
+2025-12-09T07:53:27.111Z Almas Baim <AlmasB@users.noreply.github.com> :: fix the parser
