@@ -15509,3 +15509,4 @@
 2025-12-09T00:47:34.182Z LocalSend <localsend@users.noreply.github.com> :: fix build script
 2025-12-09T00:52:24.042Z Alex Teichman <teichman@users.noreply.github.com> :: bump edge case in auth
 2025-12-09T01:30:18.071Z Scott Chacon <schacon@users.noreply.github.com> :: clean up logging
+2025-12-09T01:42:05.256Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
