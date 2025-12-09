@@ -15506,3 +15506,4 @@
 2025-12-08T21:44:25.449Z Brian Holt <btholt@users.noreply.github.com> :: fix error handling
 2025-12-09T00:27:19.805Z in28minutes <in28minutes@users.noreply.github.com> :: bump retry logic
 2025-12-09T00:39:44.480Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak config defaults
+2025-12-09T00:47:34.182Z LocalSend <localsend@users.noreply.github.com> :: fix build script
