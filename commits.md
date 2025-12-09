@@ -5858,3 +5858,4 @@
 2025-12-09T15:55:10.987Z ring04h <ring04h@users.noreply.github.com> :: update cache keys
 2025-12-09T16:21:00.447Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up flaky test
 2025-12-09T18:23:52.656Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove dead code
+2025-12-09T19:16:50.563Z Fady Farag <iidmsa@users.noreply.github.com> :: tweak build script
