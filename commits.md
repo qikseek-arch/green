@@ -5868,3 +5868,4 @@
 2025-12-09T22:46:36.424Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove logging
 2025-12-09T22:56:22.630Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dependency versions
 2025-12-09T23:07:41.415Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump error handling
+2025-12-09T23:22:46.382Z heyli <lcxfs1991@users.noreply.github.com> :: refactor edge case in auth
