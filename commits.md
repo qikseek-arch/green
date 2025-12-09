@@ -15522,3 +15522,4 @@
 2025-12-09T14:40:50.361Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump readme typo
 2025-12-09T15:20:32.026Z OpenBMB <openbmb@gmail.com> :: tweak config defaults
 2025-12-09T15:43:22.222Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up cache keys
+2025-12-09T18:02:57.419Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump error handling
