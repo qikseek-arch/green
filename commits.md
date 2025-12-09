@@ -5865,3 +5865,4 @@
 2025-12-09T20:02:38.634Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: refactor retry logic
 2025-12-09T21:52:44.202Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the parser
 2025-12-09T21:53:58.179Z ring04h <ring04h@users.noreply.github.com> :: add logging
+2025-12-09T22:46:36.424Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove logging
