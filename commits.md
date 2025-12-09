@@ -5843,3 +5843,4 @@
 2025-12-09T05:08:31.393Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up null check
 2025-12-09T06:23:54.247Z Getgems <getgems-io@users.noreply.github.com> :: update edge case in auth
 2025-12-09T06:42:36.197Z heyli <lcxfs1991@users.noreply.github.com> :: fix null check
+2025-12-09T06:43:33.531Z SouJunior <wouerner@soujunior.tech> :: remove readme typo
