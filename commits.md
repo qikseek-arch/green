@@ -5861,3 +5861,4 @@
 2025-12-09T19:16:50.563Z Fady Farag <iidmsa@users.noreply.github.com> :: tweak build script
 2025-12-09T19:16:56.241Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update the CI matrix
 2025-12-09T19:39:32.340Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: update retry logic
+2025-12-09T19:44:38.614Z Ben Hamner <benhamner@users.noreply.github.com> :: update dependency versions
