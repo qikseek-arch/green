@@ -15515,3 +15515,4 @@
 2025-12-09T04:08:47.387Z John Schulman <joschu@users.noreply.github.com> :: add logging
 2025-12-09T04:48:18.350Z winterbe <winterbe@users.noreply.github.com> :: fix dependency versions
 2025-12-09T05:56:36.281Z Asif Taj <axiftaj@users.noreply.github.com> :: fix config defaults
+2025-12-09T09:45:43.880Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak null check
