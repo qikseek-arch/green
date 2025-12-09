@@ -5836,3 +5836,4 @@
 2025-12-08T20:11:40.262Z ㅤxander <vampirist@users.noreply.github.com> :: clean up logging
 2025-12-09T01:50:10.537Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix flaky test
 2025-12-09T01:51:14.569Z Rei <chloerei@users.noreply.github.com> :: clean up logging
+2025-12-09T02:44:47.632Z Adam Łucek <ALucek@users.noreply.github.com> :: update null check
