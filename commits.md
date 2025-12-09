@@ -5841,3 +5841,4 @@
 2025-12-09T04:03:38.902Z Ryan Bigg <radar@users.noreply.github.com> :: remove the CI matrix
 2025-12-09T04:32:29.203Z ring04h <ring04h@users.noreply.github.com> :: fix readme typo
 2025-12-09T05:08:31.393Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up null check
+2025-12-09T06:23:54.247Z Getgems <getgems-io@users.noreply.github.com> :: update edge case in auth
