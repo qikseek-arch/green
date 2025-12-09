@@ -15520,3 +15520,4 @@
 2025-12-09T10:51:08.415Z OpenBSD <openbsd@users.noreply.github.com> :: tweak edge case in auth
 2025-12-09T14:08:08.826Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove null check
 2025-12-09T14:40:50.361Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump readme typo
+2025-12-09T15:20:32.026Z OpenBMB <openbmb@gmail.com> :: tweak config defaults
