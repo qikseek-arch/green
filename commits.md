@@ -5866,3 +5866,4 @@
 2025-12-09T21:52:44.202Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up the parser
 2025-12-09T21:53:58.179Z ring04h <ring04h@users.noreply.github.com> :: add logging
 2025-12-09T22:46:36.424Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove logging
+2025-12-09T22:56:22.630Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dependency versions
