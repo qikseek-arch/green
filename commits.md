@@ -5869,3 +5869,4 @@
 2025-12-09T22:56:22.630Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dependency versions
 2025-12-09T23:07:41.415Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump error handling
 2025-12-09T23:22:46.382Z heyli <lcxfs1991@users.noreply.github.com> :: refactor edge case in auth
+2025-12-09T23:25:33.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the parser
