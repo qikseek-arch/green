@@ -15513,3 +15513,4 @@
 2025-12-09T02:16:52.369Z cytopia <cytopia@users.noreply.github.com> :: wire up the CI matrix
 2025-12-09T03:27:11.970Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove edge case in auth
 2025-12-09T04:08:47.387Z John Schulman <joschu@users.noreply.github.com> :: add logging
+2025-12-09T04:48:18.350Z winterbe <winterbe@users.noreply.github.com> :: fix dependency versions
