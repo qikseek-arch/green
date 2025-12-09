@@ -194,3 +194,4 @@
 2025-12-08T20:31:47.246Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: remove the parser
 2025-12-09T07:22:39.480Z Connor <Connor9994@users.noreply.github.com> :: clean up the parser
 2025-12-09T11:42:04.540Z Jimmy Song <rootsongjc@users.noreply.github.com> :: polish dependency versions
+2025-12-09T17:10:38.283Z Sylvain Gugger <sgugger@users.noreply.github.com> :: wire up cache keys
