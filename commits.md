@@ -5838,3 +5838,4 @@
 2025-12-09T01:51:14.569Z Rei <chloerei@users.noreply.github.com> :: clean up logging
 2025-12-09T02:44:47.632Z Adam Łucek <ALucek@users.noreply.github.com> :: update null check
 2025-12-09T03:18:45.724Z SouJunior <wouerner@soujunior.tech> :: bump the parser
+2025-12-09T04:03:38.902Z Ryan Bigg <radar@users.noreply.github.com> :: remove the CI matrix
