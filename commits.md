@@ -15517,3 +15517,4 @@
 2025-12-09T05:56:36.281Z Asif Taj <axiftaj@users.noreply.github.com> :: fix config defaults
 2025-12-09T09:45:43.880Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak null check
 2025-12-09T10:21:56.343Z Petar Veličković <PetarV-@users.noreply.github.com> :: add null check
+2025-12-09T10:51:08.415Z OpenBSD <openbsd@users.noreply.github.com> :: tweak edge case in auth
