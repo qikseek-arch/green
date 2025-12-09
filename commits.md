@@ -15512,3 +15512,4 @@
 2025-12-09T01:42:05.256Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
 2025-12-09T02:16:52.369Z cytopia <cytopia@users.noreply.github.com> :: wire up the CI matrix
 2025-12-09T03:27:11.970Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove edge case in auth
+2025-12-09T04:08:47.387Z John Schulman <joschu@users.noreply.github.com> :: add logging
