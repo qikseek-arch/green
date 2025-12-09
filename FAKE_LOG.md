@@ -655,3 +655,4 @@
 2025-12-02T02:51:28.994Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: bump error handling
 2025-12-07T11:00:54.682Z David J. Malan <dmalan@users.noreply.github.com> :: polish build script
 2025-12-08T17:54:27.766Z Phil Wang <lucidrains@users.noreply.github.com> :: polish retry logic
+2025-12-09T17:48:12.671Z Sebastian Raschka <rasbt@users.noreply.github.com> :: clean up null check
