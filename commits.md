@@ -15511,3 +15511,4 @@
 2025-12-09T01:30:18.071Z Scott Chacon <schacon@users.noreply.github.com> :: clean up logging
 2025-12-09T01:42:05.256Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish readme typo
 2025-12-09T02:16:52.369Z cytopia <cytopia@users.noreply.github.com> :: wire up the CI matrix
+2025-12-09T03:27:11.970Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove edge case in auth
