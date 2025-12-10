@@ -5877,3 +5877,4 @@
 2025-12-10T06:01:54.713Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: add the parser
 2025-12-10T06:03:54.692Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up error handling
 2025-12-10T07:54:24.014Z vb <Vaibhavs10@users.noreply.github.com> :: tweak logging
+2025-12-10T09:52:59.721Z Getgems <getgems-io@users.noreply.github.com> :: clean up the parser
