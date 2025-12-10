@@ -15536,3 +15536,4 @@
 2025-12-10T07:43:22.937Z Snowflake Labs <opensource@snowflake.com> :: add logging
 2025-12-10T08:09:41.016Z 1 <insoxin@users.noreply.github.com> :: refactor the CI matrix
 2025-12-10T08:54:09.594Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: refactor build script
+2025-12-10T09:33:54.181Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: remove logging
