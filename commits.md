@@ -5871,3 +5871,4 @@
 2025-12-09T23:22:46.382Z heyli <lcxfs1991@users.noreply.github.com> :: refactor edge case in auth
 2025-12-09T23:25:33.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the parser
 2025-12-09T23:35:32.325Z Shubs <infosec-au@users.noreply.github.com> :: remove cache keys
+2025-12-10T00:13:50.108Z First Contributions <firstcontributions@gmail.com> :: polish readme typo
