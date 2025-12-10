@@ -5881,3 +5881,4 @@
 2025-12-10T10:05:57.633Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the CI matrix
 2025-12-10T11:07:28.186Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up build script
 2025-12-10T12:41:33.553Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add readme typo
+2025-12-10T16:06:01.654Z Odi <mathdroid@users.noreply.github.com> :: wire up readme typo
