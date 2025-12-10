@@ -5879,3 +5879,4 @@
 2025-12-10T07:54:24.014Z vb <Vaibhavs10@users.noreply.github.com> :: tweak logging
 2025-12-10T09:52:59.721Z Getgems <getgems-io@users.noreply.github.com> :: clean up the parser
 2025-12-10T10:05:57.633Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the CI matrix
+2025-12-10T11:07:28.186Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up build script
