@@ -5883,3 +5883,4 @@
 2025-12-10T12:41:33.553Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add readme typo
 2025-12-10T16:06:01.654Z Odi <mathdroid@users.noreply.github.com> :: wire up readme typo
 2025-12-10T17:21:44.487Z markqvist <markqvist@users.noreply.github.com> :: wire up the CI matrix
+2025-12-10T18:23:42.352Z Adam Łucek <ALucek@users.noreply.github.com> :: bump build script
