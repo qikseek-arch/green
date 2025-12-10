@@ -5886,3 +5886,4 @@
 2025-12-10T18:23:42.352Z Adam Łucek <ALucek@users.noreply.github.com> :: bump build script
 2025-12-10T19:21:54.988Z Ryan Bigg <radar@users.noreply.github.com> :: wire up readme typo
 2025-12-10T19:22:01.700Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor cache keys
+2025-12-10T23:48:50.818Z Getgems <getgems-io@users.noreply.github.com> :: tweak edge case in auth
