@@ -5873,3 +5873,4 @@
 2025-12-09T23:35:32.325Z Shubs <infosec-au@users.noreply.github.com> :: remove cache keys
 2025-12-10T00:13:50.108Z First Contributions <firstcontributions@gmail.com> :: polish readme typo
 2025-12-10T01:25:52.877Z David Fowler <davidfowl@users.noreply.github.com> :: remove retry logic
+2025-12-10T04:43:19.201Z Damian Dulisz <shentao@users.noreply.github.com> :: polish build script
