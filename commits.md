@@ -15542,3 +15542,4 @@
 2025-12-10T14:11:33.087Z t11s <transmissions11@users.noreply.github.com> :: wire up edge case in auth
 2025-12-10T14:30:51.266Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
 2025-12-10T14:57:29.116Z 1 <insoxin@users.noreply.github.com> :: refactor logging
+2025-12-10T15:01:40.258Z SurrealDB <surrealdb@users.noreply.github.com> :: tweak the CI matrix
