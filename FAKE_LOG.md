@@ -517,3 +517,4 @@
 2025-11-25T10:57:27.436Z George Hotz <geohot@users.noreply.github.com> :: fix flaky test
 2025-12-05T12:30:35.085Z Ben Awad <benawad@users.noreply.github.com> :: bump logging
 2025-12-05T21:30:54.818Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: add flaky test
+2025-12-10T17:16:53.377Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: bump retry logic
