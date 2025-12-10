@@ -15544,3 +15544,4 @@
 2025-12-10T14:57:29.116Z 1 <insoxin@users.noreply.github.com> :: refactor logging
 2025-12-10T15:01:40.258Z SurrealDB <surrealdb@users.noreply.github.com> :: tweak the CI matrix
 2025-12-10T16:13:54.972Z Collabnix <collabnix@users.noreply.github.com> :: clean up the CI matrix
+2025-12-10T16:40:47.156Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update readme typo
