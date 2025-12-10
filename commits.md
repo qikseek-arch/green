@@ -15540,3 +15540,4 @@
 2025-12-10T11:55:05.632Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor error handling
 2025-12-10T12:28:48.135Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: bump dead code
 2025-12-10T14:11:33.087Z t11s <transmissions11@users.noreply.github.com> :: wire up edge case in auth
+2025-12-10T14:30:51.266Z cytopia <cytopia@users.noreply.github.com> :: remove retry logic
