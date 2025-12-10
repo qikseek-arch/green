@@ -15530,3 +15530,4 @@
 2025-12-10T04:37:56.995Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix dependency versions
 2025-12-10T04:39:07.878Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor build script
 2025-12-10T04:58:02.205Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove cache keys
+2025-12-10T05:07:32.753Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update error handling
