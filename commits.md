@@ -15572,3 +15572,4 @@
 2025-12-11T12:07:26.488Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor the parser
 2025-12-11T16:32:23.794Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add retry logic
 2025-12-11T16:34:38.575Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump readme typo
+2025-12-11T17:37:21.033Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak flaky test
