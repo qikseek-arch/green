@@ -15569,3 +15569,4 @@
 2025-12-11T11:07:31.864Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix dependency versions
 2025-12-11T11:13:23.092Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: polish retry logic
 2025-12-11T11:51:30.515Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: bump retry logic
+2025-12-11T12:07:26.488Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor the parser
