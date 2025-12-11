@@ -5891,3 +5891,4 @@
 2025-12-11T08:06:49.571Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak build script
 2025-12-11T08:11:31.259Z Arduino <arduino@users.noreply.github.com> :: fix config defaults
 2025-12-11T10:00:30.674Z vb <Vaibhavs10@users.noreply.github.com> :: fix null check
+2025-12-11T10:02:21.720Z Shubs <infosec-au@users.noreply.github.com> :: fix build script
