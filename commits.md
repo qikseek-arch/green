@@ -15573,3 +15573,4 @@
 2025-12-11T16:32:23.794Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add retry logic
 2025-12-11T16:34:38.575Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump readme typo
 2025-12-11T17:37:21.033Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak flaky test
+2025-12-11T17:39:15.445Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump dependency versions
