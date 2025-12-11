@@ -15562,3 +15562,4 @@
 2025-12-11T04:30:37.791Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix cache keys
 2025-12-11T06:08:01.681Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump readme typo
 2025-12-11T08:19:09.995Z Boshen <Boshen@users.noreply.github.com> :: add dead code
+2025-12-11T08:43:21.000Z Tavis Ormandy <taviso@users.noreply.github.com> :: tweak retry logic
