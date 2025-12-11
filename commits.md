@@ -15575,3 +15575,4 @@
 2025-12-11T17:37:21.033Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak flaky test
 2025-12-11T17:39:15.445Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump dependency versions
 2025-12-11T18:11:32.976Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up retry logic
+2025-12-11T18:23:52.333Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add retry logic
