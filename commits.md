@@ -5895,3 +5895,4 @@
 2025-12-11T11:33:49.259Z Taiko Foundation <info@taiko.xyz> :: update dead code
 2025-12-11T12:30:37.061Z Selenium <SeleniumHQ@users.noreply.github.com> :: add flaky test
 2025-12-11T13:04:32.903Z markqvist <markqvist@users.noreply.github.com> :: update error handling
+2025-12-11T13:06:17.465Z Ryan Bigg <radar@users.noreply.github.com> :: wire up the parser
