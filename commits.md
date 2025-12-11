@@ -5889,3 +5889,4 @@
 2025-12-10T23:48:50.818Z Getgems <getgems-io@users.noreply.github.com> :: tweak edge case in auth
 2025-12-11T03:46:28.285Z Ryan Bigg <radar@users.noreply.github.com> :: wire up cache keys
 2025-12-11T08:06:49.571Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak build script
+2025-12-11T08:11:31.259Z Arduino <arduino@users.noreply.github.com> :: fix config defaults
