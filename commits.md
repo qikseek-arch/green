@@ -15552,3 +15552,4 @@
 2025-12-10T20:20:41.874Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: add flaky test
 2025-12-10T23:33:18.319Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add logging
 2025-12-11T00:12:43.090Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: fix dependency versions
+2025-12-11T00:37:39.059Z Brian Holt <btholt@users.noreply.github.com> :: remove null check
