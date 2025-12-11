@@ -5909,3 +5909,4 @@
 2025-12-11T22:37:52.826Z Ryan Bigg <radar@users.noreply.github.com> :: polish config defaults
 2025-12-11T22:48:25.661Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix readme typo
 2025-12-11T23:06:25.274Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove flaky test
+2025-12-11T23:19:49.811Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up config defaults
