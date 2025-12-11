@@ -5904,3 +5904,4 @@
 2025-12-11T17:21:58.903Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak the parser
 2025-12-11T21:35:42.963Z Odi <mathdroid@users.noreply.github.com> :: bump edge case in auth
 2025-12-11T21:40:12.644Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
+2025-12-11T21:41:49.659Z SouJunior <wouerner@soujunior.tech> :: add retry logic
