@@ -5907,3 +5907,4 @@
 2025-12-11T21:41:49.659Z SouJunior <wouerner@soujunior.tech> :: add retry logic
 2025-12-11T21:58:38.564Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor logging
 2025-12-11T22:37:52.826Z Ryan Bigg <radar@users.noreply.github.com> :: polish config defaults
+2025-12-11T22:48:25.661Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix readme typo
