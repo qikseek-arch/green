@@ -5894,3 +5894,4 @@
 2025-12-11T10:02:21.720Z Shubs <infosec-au@users.noreply.github.com> :: fix build script
 2025-12-11T11:33:49.259Z Taiko Foundation <info@taiko.xyz> :: update dead code
 2025-12-11T12:30:37.061Z Selenium <SeleniumHQ@users.noreply.github.com> :: add flaky test
+2025-12-11T13:04:32.903Z markqvist <markqvist@users.noreply.github.com> :: update error handling
