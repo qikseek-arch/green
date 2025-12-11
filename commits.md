@@ -15579,3 +15579,4 @@
 2025-12-11T19:41:20.109Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add readme typo
 2025-12-11T20:55:52.425Z Sergey P. <ThirteenAG@users.noreply.github.com> :: wire up flaky test
 2025-12-11T23:01:49.414Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: update config defaults
+2025-12-11T23:07:11.202Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak dead code
