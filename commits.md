@@ -5906,3 +5906,4 @@
 2025-12-11T21:40:12.644Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
 2025-12-11T21:41:49.659Z SouJunior <wouerner@soujunior.tech> :: add retry logic
 2025-12-11T21:58:38.564Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor logging
+2025-12-11T22:37:52.826Z Ryan Bigg <radar@users.noreply.github.com> :: polish config defaults
