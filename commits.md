@@ -15565,3 +15565,4 @@
 2025-12-11T08:43:21.000Z Tavis Ormandy <taviso@users.noreply.github.com> :: tweak retry logic
 2025-12-11T09:44:51.457Z Lipis <lipis@users.noreply.github.com> :: bump readme typo
 2025-12-11T10:29:01.475Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove cache keys
+2025-12-11T10:44:08.068Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix the parser
