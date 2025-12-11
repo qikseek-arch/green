@@ -15571,3 +15571,4 @@
 2025-12-11T11:51:30.515Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: bump retry logic
 2025-12-11T12:07:26.488Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor the parser
 2025-12-11T16:32:23.794Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add retry logic
+2025-12-11T16:34:38.575Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump readme typo
