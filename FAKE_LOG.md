@@ -45,3 +45,4 @@
 2025-12-08T04:43:18.720Z HyperHamster <hyperhamster@users.noreply.github.com> :: clean up readme typo
 2025-12-10T20:40:13.727Z cosmic-cobra1337 <cosmic-cobra1337@users.noreply.github.com> :: bump dead code
 2025-12-11T11:32:14.657Z Ada Lovelace <ada.lovelace@example.com> :: add error handling
+2025-12-12T18:07:20.073Z walrus_chill_x <walrus_chill_x@users.noreply.github.com> :: fix null check
