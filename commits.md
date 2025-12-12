@@ -5923,3 +5923,4 @@
 2025-12-12T11:04:16.125Z David Clark <nullptrException100@users.noreply.github.com> :: bump null check
 2025-12-12T11:08:05.382Z ㅤxander <vampirist@users.noreply.github.com> :: bump edge case in auth
 2025-12-12T11:14:08.563Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix config defaults
+2025-12-12T13:24:40.664Z vb <Vaibhavs10@users.noreply.github.com> :: polish readme typo
