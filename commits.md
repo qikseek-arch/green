@@ -15590,3 +15590,4 @@
 2025-12-12T09:14:20.261Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump cache keys
 2025-12-12T10:40:35.068Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up null check
 2025-12-12T10:46:30.550Z Amnezia VPN <support@amnezia.org> :: tweak retry logic
+2025-12-12T11:09:36.773Z Jordan Harband <ljharb@users.noreply.github.com> :: bump the parser
