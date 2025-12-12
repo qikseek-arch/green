@@ -15605,3 +15605,4 @@
 2025-12-12T19:52:04.053Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix dependency versions
 2025-12-12T20:29:32.895Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update readme typo
 2025-12-12T22:45:53.838Z Brian Holt <btholt@users.noreply.github.com> :: wire up dependency versions
+2025-12-12T22:48:52.657Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish dead code
