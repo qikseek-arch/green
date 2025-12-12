@@ -5920,3 +5920,4 @@
 2025-12-12T08:26:59.910Z Ryan Bigg <radar@users.noreply.github.com> :: update dead code
 2025-12-12T08:29:44.659Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak error handling
 2025-12-12T08:42:55.317Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak edge case in auth
+2025-12-12T11:04:16.125Z David Clark <nullptrException100@users.noreply.github.com> :: bump null check
