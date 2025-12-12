@@ -15596,3 +15596,4 @@
 2025-12-12T13:12:48.155Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix build script
 2025-12-12T14:49:14.900Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak cache keys
 2025-12-12T14:50:39.463Z Dove Letter <skydoves2@gmail.com> :: refactor config defaults
+2025-12-12T15:29:33.177Z Collabnix <collabnix@users.noreply.github.com> :: clean up dependency versions
