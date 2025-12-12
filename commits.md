@@ -15601,3 +15601,4 @@
 2025-12-12T17:19:07.593Z yakeIore <yakeIore@users.noreply.github.com> :: polish the CI matrix
 2025-12-12T17:41:02.404Z Henry <hzoo@users.noreply.github.com> :: remove retry logic
 2025-12-12T17:56:48.220Z Brendan Gregg <brendangregg@users.noreply.github.com> :: add config defaults
+2025-12-12T19:27:13.919Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up dependency versions
