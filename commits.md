@@ -15582,3 +15582,4 @@
 2025-12-11T23:07:11.202Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak dead code
 2025-12-12T00:00:43.990Z Scott Chacon <schacon@users.noreply.github.com> :: bump the CI matrix
 2025-12-12T00:59:34.550Z winterbe <winterbe@users.noreply.github.com> :: clean up dependency versions
+2025-12-12T02:08:07.371Z LMSYS <lm-sys@users.noreply.github.com> :: update config defaults
