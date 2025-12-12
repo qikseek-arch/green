@@ -205,3 +205,4 @@
 2025-12-11T22:35:15.925Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: fix retry logic
 2025-12-12T01:01:47.870Z Susan Li <susanli2016@users.noreply.github.com> :: wire up dead code
 2025-12-12T14:38:01.503Z Iuri Silva <iuricode@users.noreply.github.com> :: add the CI matrix
+2025-12-12T16:57:33.965Z Hsiaoming Yang <lepture@users.noreply.github.com> :: remove the parser
