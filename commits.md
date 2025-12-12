@@ -15594,3 +15594,4 @@
 2025-12-12T11:31:20.817Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up logging
 2025-12-12T11:36:38.424Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up null check
 2025-12-12T13:12:48.155Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix build script
+2025-12-12T14:49:14.900Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak cache keys
