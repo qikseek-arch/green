@@ -15592,3 +15592,4 @@
 2025-12-12T10:46:30.550Z Amnezia VPN <support@amnezia.org> :: tweak retry logic
 2025-12-12T11:09:36.773Z Jordan Harband <ljharb@users.noreply.github.com> :: bump the parser
 2025-12-12T11:31:20.817Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up logging
+2025-12-12T11:36:38.424Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up null check
