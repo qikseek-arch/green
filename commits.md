@@ -5925,3 +5925,4 @@
 2025-12-12T11:14:08.563Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix config defaults
 2025-12-12T13:24:40.664Z vb <Vaibhavs10@users.noreply.github.com> :: polish readme typo
 2025-12-12T14:00:26.334Z Aurélien Geron <ageron@users.noreply.github.com> :: remove dependency versions
+2025-12-12T15:44:00.131Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: bump edge case in auth
