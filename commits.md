@@ -5915,3 +5915,4 @@
 2025-12-12T03:30:20.728Z Almas Baim <AlmasB@users.noreply.github.com> :: polish dependency versions
 2025-12-12T03:30:26.221Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak retry logic
 2025-12-12T06:02:11.090Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add the parser
+2025-12-12T07:35:06.527Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add readme typo
