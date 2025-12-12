@@ -15599,3 +15599,4 @@
 2025-12-12T15:29:33.177Z Collabnix <collabnix@users.noreply.github.com> :: clean up dependency versions
 2025-12-12T16:04:20.714Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up dead code
 2025-12-12T17:19:07.593Z yakeIore <yakeIore@users.noreply.github.com> :: polish the CI matrix
+2025-12-12T17:41:02.404Z Henry <hzoo@users.noreply.github.com> :: remove retry logic
