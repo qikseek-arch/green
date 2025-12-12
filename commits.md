@@ -15583,3 +15583,4 @@
 2025-12-12T00:00:43.990Z Scott Chacon <schacon@users.noreply.github.com> :: bump the CI matrix
 2025-12-12T00:59:34.550Z winterbe <winterbe@users.noreply.github.com> :: clean up dependency versions
 2025-12-12T02:08:07.371Z LMSYS <lm-sys@users.noreply.github.com> :: update config defaults
+2025-12-12T04:00:20.182Z Yiming Cui <ymcui@users.noreply.github.com> :: wire up the CI matrix
