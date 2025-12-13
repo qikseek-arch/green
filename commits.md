@@ -15633,3 +15633,4 @@
 2025-12-13T18:54:40.318Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up null check
 2025-12-13T20:09:31.719Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update logging
 2025-12-13T23:01:34.498Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: bump the CI matrix
+2025-12-13T23:17:52.708Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump retry logic
