@@ -5941,3 +5941,4 @@
 2025-12-13T08:42:26.910Z Aurélien Geron <ageron@users.noreply.github.com> :: polish flaky test
 2025-12-13T09:58:24.888Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the parser
 2025-12-13T10:36:04.694Z md-5 <md-5@users.noreply.github.com> :: remove null check
+2025-12-13T11:52:24.994Z Claude <claude@users.noreply.github.com> :: update edge case in auth
