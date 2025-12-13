@@ -15627,3 +15627,4 @@
 2025-12-13T15:16:09.768Z Michael Jackson <mjackson@users.noreply.github.com> :: polish edge case in auth
 2025-12-13T15:43:18.258Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor retry logic
 2025-12-13T16:45:17.228Z rxi <rxi@users.noreply.github.com> :: remove logging
+2025-12-13T17:26:54.299Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up null check
