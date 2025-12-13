@@ -15609,3 +15609,4 @@
 2025-12-12T23:16:48.440Z winterbe <winterbe@users.noreply.github.com> :: clean up edge case in auth
 2025-12-12T23:47:09.695Z Snowflake Labs <opensource@snowflake.com> :: wire up dependency versions
 2025-12-13T02:12:30.198Z OpenBMB <openbmb@gmail.com> :: add logging
+2025-12-13T02:17:15.414Z Collabnix <collabnix@users.noreply.github.com> :: polish dead code
