@@ -5943,3 +5943,4 @@
 2025-12-13T10:36:04.694Z md-5 <md-5@users.noreply.github.com> :: remove null check
 2025-12-13T11:52:24.994Z Claude <claude@users.noreply.github.com> :: update edge case in auth
 2025-12-13T12:52:20.842Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish the parser
+2025-12-13T13:46:22.609Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up config defaults
