@@ -15623,3 +15623,4 @@
 2025-12-13T10:13:52.054Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up logging
 2025-12-13T10:41:43.827Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add error handling
 2025-12-13T12:05:28.870Z Amnezia VPN <support@amnezia.org> :: polish the CI matrix
+2025-12-13T13:22:45.373Z t11s <transmissions11@users.noreply.github.com> :: remove the CI matrix
