@@ -15630,3 +15630,4 @@
 2025-12-13T17:26:54.299Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up null check
 2025-12-13T18:15:14.961Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak edge case in auth
 2025-12-13T18:20:17.505Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix error handling
+2025-12-13T18:54:40.318Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up null check
