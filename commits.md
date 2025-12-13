@@ -15617,3 +15617,4 @@
 2025-12-13T05:05:27.429Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up config defaults
 2025-12-13T05:09:21.406Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish flaky test
 2025-12-13T07:12:45.623Z Asif Taj <axiftaj@users.noreply.github.com> :: polish flaky test
+2025-12-13T07:36:30.827Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove edge case in auth
