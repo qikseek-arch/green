@@ -5931,3 +5931,4 @@
 2025-12-12T20:30:20.035Z Barret李靖 <barretlee@users.noreply.github.com> :: bump edge case in auth
 2025-12-12T20:35:27.091Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove edge case in auth
 2025-12-12T21:41:39.109Z Manu Arora <manuarora700@users.noreply.github.com> :: polish cache keys
+2025-12-13T00:58:52.519Z Keith Smiley <keith@users.noreply.github.com> :: bump error handling
