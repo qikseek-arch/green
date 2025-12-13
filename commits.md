@@ -5940,3 +5940,4 @@
 2025-12-13T07:00:51.064Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up config defaults
 2025-12-13T08:42:26.910Z Aurélien Geron <ageron@users.noreply.github.com> :: polish flaky test
 2025-12-13T09:58:24.888Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the parser
+2025-12-13T10:36:04.694Z md-5 <md-5@users.noreply.github.com> :: remove null check
