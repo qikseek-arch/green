@@ -15610,3 +15610,4 @@
 2025-12-12T23:47:09.695Z Snowflake Labs <opensource@snowflake.com> :: wire up dependency versions
 2025-12-13T02:12:30.198Z OpenBMB <openbmb@gmail.com> :: add logging
 2025-12-13T02:17:15.414Z Collabnix <collabnix@users.noreply.github.com> :: polish dead code
+2025-12-13T02:37:45.593Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak logging
