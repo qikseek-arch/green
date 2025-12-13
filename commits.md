@@ -15625,3 +15625,4 @@
 2025-12-13T12:05:28.870Z Amnezia VPN <support@amnezia.org> :: polish the CI matrix
 2025-12-13T13:22:45.373Z t11s <transmissions11@users.noreply.github.com> :: remove the CI matrix
 2025-12-13T15:16:09.768Z Michael Jackson <mjackson@users.noreply.github.com> :: polish edge case in auth
+2025-12-13T15:43:18.258Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor retry logic
