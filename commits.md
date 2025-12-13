@@ -15614,3 +15614,4 @@
 2025-12-13T03:02:16.425Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix dead code
 2025-12-13T03:19:44.647Z Lipis <lipis@users.noreply.github.com> :: wire up the parser
 2025-12-13T04:39:15.432Z Asif Taj <axiftaj@users.noreply.github.com> :: update null check
+2025-12-13T05:05:27.429Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up config defaults
