@@ -5938,3 +5938,4 @@
 2025-12-13T04:17:05.461Z Getgems <getgems-io@users.noreply.github.com> :: bump the CI matrix
 2025-12-13T05:19:55.160Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish dead code
 2025-12-13T07:00:51.064Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up config defaults
+2025-12-13T08:42:26.910Z Aurélien Geron <ageron@users.noreply.github.com> :: polish flaky test
