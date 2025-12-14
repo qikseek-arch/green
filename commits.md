@@ -5972,3 +5972,4 @@
 2025-12-14T18:03:25.153Z Shubs <infosec-au@users.noreply.github.com> :: clean up readme typo
 2025-12-14T18:57:07.457Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
 2025-12-14T19:46:34.185Z First Contributions <firstcontributions@gmail.com> :: wire up the parser
+2025-12-14T20:07:55.336Z Sachin Soni <techiesms@users.noreply.github.com> :: remove logging
