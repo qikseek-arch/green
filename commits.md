@@ -5958,3 +5958,4 @@
 2025-12-14T07:47:24.055Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump error handling
 2025-12-14T09:02:44.956Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: update the parser
 2025-12-14T09:56:50.284Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update dependency versions
+2025-12-14T10:39:10.110Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dead code
