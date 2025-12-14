@@ -5965,3 +5965,4 @@
 2025-12-14T13:15:56.859Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish cache keys
 2025-12-14T13:53:31.604Z owenzhang <owenzhang@users.noreply.github.com> :: add build script
 2025-12-14T14:54:30.749Z BBC <bbc@users.noreply.github.com> :: fix edge case in auth
+2025-12-14T15:25:41.732Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak build script
