@@ -5948,3 +5948,4 @@
 2025-12-13T14:57:21.443Z BBC <bbc@users.noreply.github.com> :: remove config defaults
 2025-12-13T17:06:22.777Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove logging
 2025-12-13T21:00:38.082Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove logging
+2025-12-14T00:41:56.195Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak dependency versions
