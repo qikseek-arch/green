@@ -15648,3 +15648,4 @@
 2025-12-14T10:07:36.152Z Jabrils <Jabrils@users.noreply.github.com> :: bump retry logic
 2025-12-14T10:28:31.746Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up null check
 2025-12-14T11:39:50.741Z OpenBMB <openbmb@gmail.com> :: remove error handling
+2025-12-14T11:54:24.414Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor build script
