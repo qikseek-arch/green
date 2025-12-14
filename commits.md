@@ -15646,3 +15646,4 @@
 2025-12-14T08:22:03.377Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor error handling
 2025-12-14T09:43:32.570Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor cache keys
 2025-12-14T10:07:36.152Z Jabrils <Jabrils@users.noreply.github.com> :: bump retry logic
+2025-12-14T10:28:31.746Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up null check
