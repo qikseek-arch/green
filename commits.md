@@ -5951,3 +5951,4 @@
 2025-12-14T00:41:56.195Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak dependency versions
 2025-12-14T01:28:21.600Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish logging
 2025-12-14T03:22:25.547Z SouJunior <wouerner@soujunior.tech> :: bump the parser
+2025-12-14T05:46:07.645Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix dependency versions
