@@ -5978,3 +5978,4 @@
 2025-12-14T21:32:26.207Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor build script
 2025-12-14T22:06:24.214Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up retry logic
 2025-12-14T22:33:52.808Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak dependency versions
+2025-12-14T23:19:33.153Z heyli <lcxfs1991@users.noreply.github.com> :: clean up null check
