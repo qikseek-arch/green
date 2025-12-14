@@ -5959,3 +5959,4 @@
 2025-12-14T09:02:44.956Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: update the parser
 2025-12-14T09:56:50.284Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update dependency versions
 2025-12-14T10:39:10.110Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dead code
+2025-12-14T11:45:14.647Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish edge case in auth
