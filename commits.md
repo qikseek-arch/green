@@ -5957,3 +5957,4 @@
 2025-12-14T06:07:34.752Z Sadık TURAN <sadikturan@users.noreply.github.com> :: wire up null check
 2025-12-14T07:47:24.055Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump error handling
 2025-12-14T09:02:44.956Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: update the parser
+2025-12-14T09:56:50.284Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update dependency versions
