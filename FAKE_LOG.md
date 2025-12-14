@@ -660,3 +660,4 @@
 2025-12-09T22:56:33.796Z Brais Moure <mouredev@users.noreply.github.com> :: update readme typo
 2025-12-11T14:12:21.701Z Iris Series 鸢尾花书 <Visualize-ML@users.noreply.github.com> :: wire up readme typo
 2025-12-12T06:42:22.492Z Alex The Analyst <AlexTheAnalyst@users.noreply.github.com> :: fix dependency versions
+2025-12-14T18:26:10.938Z 稚晖 <peng-zhihui@users.noreply.github.com> :: fix build script
