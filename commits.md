@@ -5970,3 +5970,4 @@
 2025-12-14T16:46:02.053Z Rei <chloerei@users.noreply.github.com> :: clean up build script
 2025-12-14T17:40:39.396Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak the CI matrix
 2025-12-14T18:03:25.153Z Shubs <infosec-au@users.noreply.github.com> :: clean up readme typo
+2025-12-14T18:57:07.457Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
