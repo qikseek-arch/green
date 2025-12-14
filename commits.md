@@ -15655,3 +15655,4 @@
 2025-12-14T14:29:49.597Z OpenBSD <openbsd@users.noreply.github.com> :: add logging
 2025-12-14T14:42:53.348Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix config defaults
 2025-12-14T15:50:28.825Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak cache keys
+2025-12-14T17:08:55.720Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak readme typo
