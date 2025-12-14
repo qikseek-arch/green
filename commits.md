@@ -15645,3 +15645,4 @@
 2025-12-14T07:35:04.162Z Jabrils <Jabrils@users.noreply.github.com> :: tweak the CI matrix
 2025-12-14T08:22:03.377Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor error handling
 2025-12-14T09:43:32.570Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor cache keys
+2025-12-14T10:07:36.152Z Jabrils <Jabrils@users.noreply.github.com> :: bump retry logic
