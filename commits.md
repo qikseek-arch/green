@@ -15641,3 +15641,4 @@
 2025-12-14T02:30:11.244Z LMSYS <lm-sys@users.noreply.github.com> :: polish flaky test
 2025-12-14T03:18:52.924Z Prometheus <prometheus@users.noreply.github.com> :: refactor the parser
 2025-12-14T05:15:13.435Z Islem Maboud <ipenywis@users.noreply.github.com> :: add null check
+2025-12-14T06:24:52.710Z Brian Holt <btholt@users.noreply.github.com> :: add error handling
