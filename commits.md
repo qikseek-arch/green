@@ -15647,3 +15647,4 @@
 2025-12-14T09:43:32.570Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor cache keys
 2025-12-14T10:07:36.152Z Jabrils <Jabrils@users.noreply.github.com> :: bump retry logic
 2025-12-14T10:28:31.746Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up null check
+2025-12-14T11:39:50.741Z OpenBMB <openbmb@gmail.com> :: remove error handling
