@@ -211,3 +211,4 @@
 2025-12-13T01:56:48.291Z xer0dayz <1N3@users.noreply.github.com> :: remove retry logic
 2025-12-13T07:31:26.689Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: wire up logging
 2025-12-13T23:58:46.060Z Sylvain Gugger <sgugger@users.noreply.github.com> :: wire up edge case in auth
+2025-12-14T11:35:10.862Z SomeBody <AbSomeone@users.noreply.github.com> :: refactor build script
