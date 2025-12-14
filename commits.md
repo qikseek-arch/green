@@ -5953,3 +5953,4 @@
 2025-12-14T03:22:25.547Z SouJunior <wouerner@soujunior.tech> :: bump the parser
 2025-12-14T05:46:07.645Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix dependency versions
 2025-12-14T05:46:13.956Z LILYGO <LilyGO@users.noreply.github.com> :: remove flaky test
+2025-12-14T05:49:39.864Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor edge case in auth
