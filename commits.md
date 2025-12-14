@@ -212,3 +212,4 @@
 2025-12-13T07:31:26.689Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: wire up logging
 2025-12-13T23:58:46.060Z Sylvain Gugger <sgugger@users.noreply.github.com> :: wire up edge case in auth
 2025-12-14T11:35:10.862Z SomeBody <AbSomeone@users.noreply.github.com> :: refactor build script
+2025-12-14T23:32:51.011Z Mark Erikson <markerikson@users.noreply.github.com> :: polish dead code
