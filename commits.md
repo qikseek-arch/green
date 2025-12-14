@@ -15643,3 +15643,4 @@
 2025-12-14T05:15:13.435Z Islem Maboud <ipenywis@users.noreply.github.com> :: add null check
 2025-12-14T06:24:52.710Z Brian Holt <btholt@users.noreply.github.com> :: add error handling
 2025-12-14T07:35:04.162Z Jabrils <Jabrils@users.noreply.github.com> :: tweak the CI matrix
+2025-12-14T08:22:03.377Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor error handling
