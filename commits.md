@@ -5994,3 +5994,4 @@
 2025-12-15T13:58:34.602Z md-5 <md-5@users.noreply.github.com> :: clean up edge case in auth
 2025-12-15T17:40:43.385Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up readme typo
 2025-12-15T17:43:59.787Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up error handling
+2025-12-15T18:03:28.432Z First Contributions <firstcontributions@gmail.com> :: polish the CI matrix
