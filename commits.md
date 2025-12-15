@@ -15683,3 +15683,4 @@
 2025-12-15T15:32:41.482Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up retry logic
 2025-12-15T15:39:35.803Z OpenBSD <openbsd@users.noreply.github.com> :: clean up dependency versions
 2025-12-15T17:46:21.249Z Alex Teichman <teichman@users.noreply.github.com> :: bump edge case in auth
+2025-12-15T17:48:38.506Z Aman Kumar <Amanc77@users.noreply.github.com> :: polish dead code
