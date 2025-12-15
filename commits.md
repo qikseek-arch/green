@@ -5995,3 +5995,4 @@
 2025-12-15T17:40:43.385Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up readme typo
 2025-12-15T17:43:59.787Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up error handling
 2025-12-15T18:03:28.432Z First Contributions <firstcontributions@gmail.com> :: polish the CI matrix
+2025-12-15T18:35:40.794Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up the parser
