@@ -15674,3 +15674,4 @@
 2025-12-15T05:41:42.008Z DefTruth <DefTruth@users.noreply.github.com> :: wire up build script
 2025-12-15T07:54:12.424Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up logging
 2025-12-15T10:46:11.441Z rxi <rxi@users.noreply.github.com> :: bump readme typo
+2025-12-15T11:05:35.874Z cytopia <cytopia@users.noreply.github.com> :: fix logging
