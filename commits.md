@@ -15671,3 +15671,4 @@
 2025-12-15T04:51:42.640Z Scott Chacon <schacon@users.noreply.github.com> :: fix dead code
 2025-12-15T05:07:11.712Z Huang Haiguang <fengdu78@users.noreply.github.com> :: clean up config defaults
 2025-12-15T05:11:30.188Z Google Fonts <googlefonts@users.noreply.github.com> :: update dependency versions
+2025-12-15T05:41:42.008Z DefTruth <DefTruth@users.noreply.github.com> :: wire up build script
