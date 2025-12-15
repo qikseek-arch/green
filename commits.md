@@ -5998,3 +5998,4 @@
 2025-12-15T18:35:40.794Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up the parser
 2025-12-15T18:47:39.447Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove dependency versions
 2025-12-15T19:48:08.276Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump config defaults
+2025-12-15T20:32:21.879Z Arduino <arduino@users.noreply.github.com> :: polish dead code
