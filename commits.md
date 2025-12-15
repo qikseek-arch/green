@@ -15686,3 +15686,4 @@
 2025-12-15T17:48:38.506Z Aman Kumar <Amanc77@users.noreply.github.com> :: polish dead code
 2025-12-15T17:51:27.563Z LocalSend <localsend@users.noreply.github.com> :: polish the parser
 2025-12-15T18:20:20.876Z Dove Letter <skydoves2@gmail.com> :: polish logging
+2025-12-15T19:01:59.167Z Xingang Pan <XingangPan@users.noreply.github.com> :: update null check
