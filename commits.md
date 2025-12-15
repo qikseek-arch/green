@@ -5980,3 +5980,4 @@
 2025-12-14T22:33:52.808Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak dependency versions
 2025-12-14T23:19:33.153Z heyli <lcxfs1991@users.noreply.github.com> :: clean up null check
 2025-12-14T23:28:13.878Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak edge case in auth
+2025-12-15T01:56:03.825Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak build script
