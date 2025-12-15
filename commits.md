@@ -5983,3 +5983,4 @@
 2025-12-15T01:56:03.825Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak build script
 2025-12-15T03:42:05.926Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak readme typo
 2025-12-15T04:40:45.141Z heyli <lcxfs1991@users.noreply.github.com> :: tweak edge case in auth
+2025-12-15T05:07:27.348Z Keith Smiley <keith@users.noreply.github.com> :: wire up the parser
