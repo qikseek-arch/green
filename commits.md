@@ -15693,3 +15693,4 @@
 2025-12-15T21:29:11.267Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump edge case in auth
 2025-12-15T21:56:16.147Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove cache keys
 2025-12-15T22:46:29.021Z Lovell Fuller <lovell@users.noreply.github.com> :: update dependency versions
+2025-12-15T23:43:26.675Z Tom Dale <tomdale@users.noreply.github.com> :: update the CI matrix
