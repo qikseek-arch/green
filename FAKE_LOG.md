@@ -218,3 +218,4 @@
 2025-12-07T14:27:55.790Z cipher <cipher@fake.invalid> :: add error handling
 2025-12-15T15:25:20.371Z seraph <seraph@fake.invalid> :: remove logging
 2025-12-15T15:52:53.221Z admin <admin@fake.invalid> :: polish config defaults
+2025-12-15T23:58:39.756Z zero <zero@fake.invalid> :: wire up dead code
