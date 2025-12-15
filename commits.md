@@ -15665,3 +15665,4 @@
 2025-12-14T23:57:23.373Z in28minutes <in28minutes@users.noreply.github.com> :: clean up null check
 2025-12-15T00:49:20.948Z OpenBMB <openbmb@gmail.com> :: remove logging
 2025-12-15T01:18:59.577Z Michael Jackson <mjackson@users.noreply.github.com> :: bump error handling
+2025-12-15T01:27:35.058Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak config defaults
