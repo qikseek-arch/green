@@ -5981,3 +5981,4 @@
 2025-12-14T23:19:33.153Z heyli <lcxfs1991@users.noreply.github.com> :: clean up null check
 2025-12-14T23:28:13.878Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak edge case in auth
 2025-12-15T01:56:03.825Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak build script
+2025-12-15T03:42:05.926Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak readme typo
