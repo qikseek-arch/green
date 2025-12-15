@@ -214,3 +214,4 @@
 2025-12-14T11:35:10.862Z SomeBody <AbSomeone@users.noreply.github.com> :: refactor build script
 2025-12-14T23:32:51.011Z Mark Erikson <markerikson@users.noreply.github.com> :: polish dead code
 2025-12-15T00:09:13.791Z Connor <Connor9994@users.noreply.github.com> :: tweak config defaults
+2025-12-15T13:17:09.059Z vn.py <vnpy@users.noreply.github.com> :: clean up dependency versions
