@@ -15703,3 +15703,4 @@
 2025-12-16T07:24:05.325Z OpenBMB <openbmb@gmail.com> :: clean up readme typo
 2025-12-16T08:09:11.130Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add logging
 2025-12-16T08:40:30.719Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up dead code
+2025-12-16T12:50:28.661Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix error handling
