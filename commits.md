@@ -216,3 +216,4 @@
 2025-12-15T00:09:13.791Z Connor <Connor9994@users.noreply.github.com> :: tweak config defaults
 2025-12-15T13:17:09.059Z vn.py <vnpy@users.noreply.github.com> :: clean up dependency versions
 2025-12-16T06:03:01.154Z Colt Steele <Colt@users.noreply.github.com> :: refactor cache keys
+2025-12-16T12:26:49.415Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: polish readme typo
