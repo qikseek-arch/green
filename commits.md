@@ -6028,3 +6028,4 @@
 2025-12-16T20:19:13.561Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up cache keys
 2025-12-16T20:36:36.722Z Taiko Foundation <info@taiko.xyz> :: add dead code
 2025-12-16T20:40:44.593Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak error handling
+2025-12-16T21:34:14.817Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish edge case in auth
