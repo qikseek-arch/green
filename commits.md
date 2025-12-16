@@ -15696,3 +15696,4 @@
 2025-12-15T23:43:26.675Z Tom Dale <tomdale@users.noreply.github.com> :: update the CI matrix
 2025-12-16T00:59:59.052Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove build script
 2025-12-16T01:00:56.883Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: bump the parser
+2025-12-16T02:26:39.838Z LMSYS <lm-sys@users.noreply.github.com> :: remove readme typo
