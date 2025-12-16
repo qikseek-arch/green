@@ -6022,3 +6022,4 @@
 2025-12-16T14:35:25.927Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
 2025-12-16T15:09:07.691Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the CI matrix
 2025-12-16T15:19:56.189Z Arduino <arduino@users.noreply.github.com> :: refactor build script
+2025-12-16T16:25:51.435Z Ryan Bigg <radar@users.noreply.github.com> :: polish error handling
