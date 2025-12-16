@@ -6010,3 +6010,4 @@
 2025-12-16T04:04:05.970Z Keith Smiley <keith@users.noreply.github.com> :: polish edge case in auth
 2025-12-16T07:18:48.809Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up the parser
 2025-12-16T07:44:39.455Z Keith Smiley <keith@users.noreply.github.com> :: bump dependency versions
+2025-12-16T07:49:08.914Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak config defaults
