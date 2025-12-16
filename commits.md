@@ -6027,3 +6027,4 @@
 2025-12-16T18:25:46.979Z OpenJS Foundation <info@openjsf.org> :: polish config defaults
 2025-12-16T20:19:13.561Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up cache keys
 2025-12-16T20:36:36.722Z Taiko Foundation <info@taiko.xyz> :: add dead code
+2025-12-16T20:40:44.593Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak error handling
