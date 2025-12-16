@@ -6004,3 +6004,4 @@
 2025-12-15T23:51:32.733Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix the CI matrix
 2025-12-16T00:16:32.094Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish config defaults
 2025-12-16T01:31:27.660Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove config defaults
+2025-12-16T01:41:27.374Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dependency versions
