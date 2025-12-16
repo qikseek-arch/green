@@ -6021,3 +6021,4 @@
 2025-12-16T13:56:08.514Z md-5 <md-5@users.noreply.github.com> :: bump edge case in auth
 2025-12-16T14:35:25.927Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
 2025-12-16T15:09:07.691Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the CI matrix
+2025-12-16T15:19:56.189Z Arduino <arduino@users.noreply.github.com> :: refactor build script
