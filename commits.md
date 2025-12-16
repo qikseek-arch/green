@@ -6014,3 +6014,4 @@
 2025-12-16T07:55:42.259Z owenzhang <owenzhang@users.noreply.github.com> :: add cache keys
 2025-12-16T07:57:09.298Z markqvist <markqvist@users.noreply.github.com> :: fix error handling
 2025-12-16T08:37:18.265Z ZOMI <chenzomi12@users.noreply.github.com> :: update retry logic
+2025-12-16T09:22:51.858Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: wire up null check
