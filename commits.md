@@ -6007,3 +6007,4 @@
 2025-12-16T01:41:27.374Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dependency versions
 2025-12-16T02:23:51.181Z SouJunior <wouerner@soujunior.tech> :: polish config defaults
 2025-12-16T03:33:38.758Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: update the parser
+2025-12-16T04:04:05.970Z Keith Smiley <keith@users.noreply.github.com> :: polish edge case in auth
