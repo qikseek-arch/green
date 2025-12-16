@@ -15705,3 +15705,4 @@
 2025-12-16T08:40:30.719Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up dead code
 2025-12-16T12:50:28.661Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix error handling
 2025-12-16T14:15:06.793Z Amnezia VPN <support@amnezia.org> :: update null check
+2025-12-16T14:20:44.777Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor null check
