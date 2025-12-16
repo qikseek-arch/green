@@ -6008,3 +6008,4 @@
 2025-12-16T02:23:51.181Z SouJunior <wouerner@soujunior.tech> :: polish config defaults
 2025-12-16T03:33:38.758Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: update the parser
 2025-12-16T04:04:05.970Z Keith Smiley <keith@users.noreply.github.com> :: polish edge case in auth
+2025-12-16T07:18:48.809Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up the parser
