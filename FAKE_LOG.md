@@ -320,3 +320,4 @@
 2025-12-04T01:45:20.523Z molten-badger42 <molten-badger42@fake.invalid> :: add error handling
 2025-12-04T14:44:58.225Z VividKernel <vividkernel@fake.invalid> :: update null check
 2025-12-07T02:03:34.730Z John von Neumann <john.von.neumann@fake.invalid> :: wire up config defaults
+2025-12-16T23:21:25.421Z brave-toasterdev <brave-toasterdev@fake.invalid> :: add build script
