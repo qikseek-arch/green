@@ -217,3 +217,4 @@
 2025-12-15T13:17:09.059Z vn.py <vnpy@users.noreply.github.com> :: clean up dependency versions
 2025-12-16T06:03:01.154Z Colt Steele <Colt@users.noreply.github.com> :: refactor cache keys
 2025-12-16T12:26:49.415Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: polish readme typo
+2025-12-17T04:01:57.771Z Matt Pocock <mattpocock@users.noreply.github.com> :: add config defaults
