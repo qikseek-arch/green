@@ -6046,3 +6046,4 @@
 2025-12-17T12:20:40.707Z md-5 <md-5@users.noreply.github.com> :: add null check
 2025-12-17T13:50:06.816Z SouJunior <wouerner@soujunior.tech> :: bump cache keys
 2025-12-17T14:11:07.272Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak edge case in auth
+2025-12-17T14:54:46.006Z BBC <bbc@users.noreply.github.com> :: refactor null check
