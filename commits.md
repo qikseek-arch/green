@@ -6055,3 +6055,4 @@
 2025-12-17T17:08:29.202Z Shubs <infosec-au@users.noreply.github.com> :: update the parser
 2025-12-17T17:44:21.411Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump the parser
 2025-12-17T18:41:59.527Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update error handling
+2025-12-17T19:13:42.771Z SouJunior <wouerner@soujunior.tech> :: wire up build script
