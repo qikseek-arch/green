@@ -15716,3 +15716,4 @@
 2025-12-17T01:09:42.376Z in28minutes <in28minutes@users.noreply.github.com> :: update null check
 2025-12-17T01:46:05.694Z in28minutes <in28minutes@users.noreply.github.com> :: fix dead code
 2025-12-17T02:04:56.777Z 1 <insoxin@users.noreply.github.com> :: fix null check
+2025-12-17T02:24:51.215Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix config defaults
