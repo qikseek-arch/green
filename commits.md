@@ -6039,3 +6039,4 @@
 2025-12-17T08:56:26.765Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up config defaults
 2025-12-17T09:57:45.344Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove cache keys
 2025-12-17T10:04:54.772Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove edge case in auth
+2025-12-17T10:14:48.769Z heyli <lcxfs1991@users.noreply.github.com> :: update build script
