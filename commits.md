@@ -218,3 +218,4 @@
 2025-12-16T06:03:01.154Z Colt Steele <Colt@users.noreply.github.com> :: refactor cache keys
 2025-12-16T12:26:49.415Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: polish readme typo
 2025-12-17T04:01:57.771Z Matt Pocock <mattpocock@users.noreply.github.com> :: add config defaults
+2025-12-17T04:16:39.134Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: fix edge case in auth
