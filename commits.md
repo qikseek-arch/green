@@ -15722,3 +15722,4 @@
 2025-12-17T04:54:05.338Z Snowflake Labs <opensource@snowflake.com> :: tweak flaky test
 2025-12-17T07:06:02.932Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up readme typo
 2025-12-17T07:08:43.950Z OpenBMB <openbmb@gmail.com> :: remove flaky test
+2025-12-17T07:18:05.737Z John Schulman <joschu@users.noreply.github.com> :: tweak the CI matrix
