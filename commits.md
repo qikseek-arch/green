@@ -15725,3 +15725,4 @@
 2025-12-17T07:18:05.737Z John Schulman <joschu@users.noreply.github.com> :: tweak the CI matrix
 2025-12-17T08:58:14.695Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add build script
 2025-12-17T11:11:33.343Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump flaky test
+2025-12-17T11:14:14.811Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump edge case in auth
