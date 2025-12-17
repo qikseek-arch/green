@@ -15733,3 +15733,4 @@
 2025-12-17T15:20:30.045Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: fix cache keys
 2025-12-17T16:07:09.693Z 1 <insoxin@users.noreply.github.com> :: refactor build script
 2025-12-17T18:09:56.239Z Tom Dale <tomdale@users.noreply.github.com> :: clean up config defaults
+2025-12-17T20:31:43.811Z Snowflake Labs <opensource@snowflake.com> :: wire up edge case in auth
