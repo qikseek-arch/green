@@ -6031,3 +6031,4 @@
 2025-12-16T21:34:14.817Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish edge case in auth
 2025-12-16T22:19:32.292Z Keith Smiley <keith@users.noreply.github.com> :: polish the parser
 2025-12-17T00:35:21.985Z Keith Smiley <keith@users.noreply.github.com> :: tweak edge case in auth
+2025-12-17T00:35:56.114Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish config defaults
