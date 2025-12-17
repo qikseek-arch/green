@@ -6058,3 +6058,4 @@
 2025-12-17T19:13:42.771Z SouJunior <wouerner@soujunior.tech> :: wire up build script
 2025-12-17T19:29:11.700Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump retry logic
 2025-12-17T20:08:26.547Z AI4Bhārat <opensource@ai4bharat.org> :: bump dead code
+2025-12-17T21:03:27.995Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
