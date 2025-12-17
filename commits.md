@@ -6052,3 +6052,4 @@
 2025-12-17T15:58:19.922Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update flaky test
 2025-12-17T16:25:33.650Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
 2025-12-17T16:30:02.028Z David Clark <nullptrException100@users.noreply.github.com> :: bump edge case in auth
+2025-12-17T17:08:29.202Z Shubs <infosec-au@users.noreply.github.com> :: update the parser
