@@ -15736,3 +15736,4 @@
 2025-12-17T20:31:43.811Z Snowflake Labs <opensource@snowflake.com> :: wire up edge case in auth
 2025-12-17T21:35:56.651Z Scott Chacon <schacon@users.noreply.github.com> :: refactor dependency versions
 2025-12-17T21:40:00.371Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish dead code
+2025-12-17T22:23:06.537Z LMSYS <lm-sys@users.noreply.github.com> :: update config defaults
