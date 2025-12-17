@@ -15712,3 +15712,4 @@
 2025-12-16T19:06:08.235Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up config defaults
 2025-12-16T19:53:54.046Z Prometheus <prometheus@users.noreply.github.com> :: wire up logging
 2025-12-16T23:50:56.681Z Alex Teichman <teichman@users.noreply.github.com> :: tweak the parser
+2025-12-17T00:47:44.627Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up cache keys
