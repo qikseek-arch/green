@@ -6061,3 +6061,4 @@
 2025-12-17T21:03:27.995Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
 2025-12-17T21:21:55.360Z Adam Bell <b3ll@users.noreply.github.com> :: wire up the parser
 2025-12-17T22:15:09.048Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor edge case in auth
+2025-12-17T22:26:19.529Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove build script
