@@ -15719,3 +15719,4 @@
 2025-12-17T02:24:51.215Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix config defaults
 2025-12-17T03:00:34.513Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish flaky test
 2025-12-17T04:09:55.980Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up config defaults
+2025-12-17T04:54:05.338Z Snowflake Labs <opensource@snowflake.com> :: tweak flaky test
