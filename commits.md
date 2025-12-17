@@ -6063,3 +6063,4 @@
 2025-12-17T22:15:09.048Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor edge case in auth
 2025-12-17T22:26:19.529Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove build script
 2025-12-17T23:06:08.700Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak the CI matrix
+2025-12-17T23:12:02.139Z Sachin Soni <techiesms@users.noreply.github.com> :: add the CI matrix
