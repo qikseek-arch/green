@@ -15748,3 +15748,4 @@
 2025-12-18T05:52:06.004Z winterbe <winterbe@users.noreply.github.com> :: update logging
 2025-12-18T06:05:36.700Z winterbe <winterbe@users.noreply.github.com> :: polish logging
 2025-12-18T06:06:14.745Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix flaky test
+2025-12-18T06:12:43.543Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up readme typo
