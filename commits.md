@@ -6083,3 +6083,4 @@
 2025-12-18T16:13:48.997Z Manu Arora <manuarora700@users.noreply.github.com> :: bump the parser
 2025-12-18T16:18:28.036Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove error handling
 2025-12-18T18:12:49.056Z Adam Łucek <ALucek@users.noreply.github.com> :: fix build script
+2025-12-18T18:41:37.559Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: wire up edge case in auth
