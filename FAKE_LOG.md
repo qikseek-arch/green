@@ -521,3 +521,4 @@
 2025-12-14T22:16:04.541Z Python <python@users.noreply.github.com> :: tweak the CI matrix
 2025-12-15T03:19:56.052Z Iris Series 鸢尾花书 <Visualize-ML@users.noreply.github.com> :: wire up dependency versions
 2025-12-17T07:04:55.206Z Jeff Delaney <codediodeio@users.noreply.github.com> :: refactor config defaults
+2025-12-18T03:04:51.949Z Wes Bos <wesbos@users.noreply.github.com> :: fix logging
