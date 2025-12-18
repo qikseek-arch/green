@@ -6079,3 +6079,4 @@
 2025-12-18T10:16:19.588Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish dead code
 2025-12-18T11:28:48.577Z Shubs <infosec-au@users.noreply.github.com> :: fix config defaults
 2025-12-18T11:39:58.035Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up cache keys
+2025-12-18T16:13:19.783Z Adam Bell <b3ll@users.noreply.github.com> :: wire up the CI matrix
