@@ -6066,3 +6066,4 @@
 2025-12-17T23:12:02.139Z Sachin Soni <techiesms@users.noreply.github.com> :: add the CI matrix
 2025-12-18T00:38:54.572Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump build script
 2025-12-18T01:21:15.800Z Arduino <arduino@users.noreply.github.com> :: wire up config defaults
+2025-12-18T01:49:45.706Z LILYGO <LilyGO@users.noreply.github.com> :: bump dependency versions
