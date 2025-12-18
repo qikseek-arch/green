@@ -15746,3 +15746,4 @@
 2025-12-18T03:13:16.710Z Snowflake Labs <opensource@snowflake.com> :: polish null check
 2025-12-18T05:22:13.592Z Brian Holt <btholt@users.noreply.github.com> :: fix dependency versions
 2025-12-18T05:52:06.004Z winterbe <winterbe@users.noreply.github.com> :: update logging
+2025-12-18T06:05:36.700Z winterbe <winterbe@users.noreply.github.com> :: polish logging
