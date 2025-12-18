@@ -6077,3 +6077,4 @@
 2025-12-18T07:00:36.175Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump cache keys
 2025-12-18T08:01:12.426Z vb <Vaibhavs10@users.noreply.github.com> :: tweak logging
 2025-12-18T10:16:19.588Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish dead code
+2025-12-18T11:28:48.577Z Shubs <infosec-au@users.noreply.github.com> :: fix config defaults
