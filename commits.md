@@ -6073,3 +6073,4 @@
 2025-12-18T05:02:21.365Z AI4Bhārat <opensource@ai4bharat.org> :: update error handling
 2025-12-18T05:29:44.010Z Rei <chloerei@users.noreply.github.com> :: tweak error handling
 2025-12-18T06:20:51.091Z Almas Baim <AlmasB@users.noreply.github.com> :: fix dependency versions
+2025-12-18T06:28:10.999Z David Clark <nullptrException100@users.noreply.github.com> :: add edge case in auth
