@@ -15753,3 +15753,4 @@
 2025-12-18T07:52:20.396Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove readme typo
 2025-12-18T08:16:55.841Z Lipis <lipis@users.noreply.github.com> :: remove null check
 2025-12-18T08:17:18.343Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish the parser
+2025-12-18T10:38:26.026Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: refactor build script
