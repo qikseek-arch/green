@@ -6088,3 +6088,4 @@
 2025-12-18T20:23:34.568Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak config defaults
 2025-12-18T21:07:25.798Z Damian Dulisz <shentao@users.noreply.github.com> :: polish readme typo
 2025-12-18T21:41:09.997Z OpenJS Foundation <info@openjsf.org> :: update the CI matrix
+2025-12-18T22:49:36.600Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up null check
