@@ -15741,3 +15741,4 @@
 2025-12-17T23:18:28.177Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up logging
 2025-12-18T01:26:26.494Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump logging
 2025-12-18T02:00:25.334Z 毒奶博主 <limbopro@users.noreply.github.com> :: add config defaults
+2025-12-18T02:39:08.435Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak edge case in auth
