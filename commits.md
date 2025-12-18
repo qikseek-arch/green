@@ -6067,3 +6067,4 @@
 2025-12-18T00:38:54.572Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump build script
 2025-12-18T01:21:15.800Z Arduino <arduino@users.noreply.github.com> :: wire up config defaults
 2025-12-18T01:49:45.706Z LILYGO <LilyGO@users.noreply.github.com> :: bump dependency versions
+2025-12-18T02:21:00.655Z First Contributions <firstcontributions@gmail.com> :: remove error handling
