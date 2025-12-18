@@ -416,3 +416,4 @@
 2025-11-30T02:16:27.010Z Larry Wall <larry.wall@fake.invalid> :: tweak build script
 2025-12-08T16:53:35.276Z Filipe Deschamps <filipedeschamps@users.noreply.github.com> :: remove dependency versions
 2025-12-13T09:17:20.955Z Anders Hejlsberg <anders.hejlsberg@fake.invalid> :: polish readme typo
+2025-12-18T12:07:51.736Z ArcaneSocket <arcanesocket@fake.invalid> :: clean up dependency versions
