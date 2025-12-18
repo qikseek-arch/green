@@ -15757,3 +15757,4 @@
 2025-12-18T13:55:39.500Z Dove Letter <skydoves2@gmail.com> :: tweak readme typo
 2025-12-18T14:30:17.276Z Tom Dale <tomdale@users.noreply.github.com> :: polish flaky test
 2025-12-18T15:15:28.072Z Boshen <Boshen@users.noreply.github.com> :: wire up readme typo
+2025-12-18T17:09:09.356Z cytopia <cytopia@users.noreply.github.com> :: update retry logic
