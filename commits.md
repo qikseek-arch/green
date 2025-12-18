@@ -15744,3 +15744,4 @@
 2025-12-18T02:39:08.435Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak edge case in auth
 2025-12-18T02:50:30.074Z 千古壹号 <qianguyihao@users.noreply.github.com> :: add error handling
 2025-12-18T03:13:16.710Z Snowflake Labs <opensource@snowflake.com> :: polish null check
+2025-12-18T05:22:13.592Z Brian Holt <btholt@users.noreply.github.com> :: fix dependency versions
