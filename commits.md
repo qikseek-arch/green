@@ -15762,3 +15762,4 @@
 2025-12-18T19:46:39.300Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up dead code
 2025-12-18T20:31:46.304Z Alex Teichman <teichman@users.noreply.github.com> :: polish error handling
 2025-12-18T20:43:47.776Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish logging
+2025-12-18T22:30:02.071Z Alex Teichman <teichman@users.noreply.github.com> :: clean up config defaults
