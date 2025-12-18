@@ -15751,3 +15751,4 @@
 2025-12-18T06:12:43.543Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up readme typo
 2025-12-18T06:20:49.289Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove readme typo
 2025-12-18T07:52:20.396Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove readme typo
+2025-12-18T08:16:55.841Z Lipis <lipis@users.noreply.github.com> :: remove null check
