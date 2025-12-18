@@ -6081,3 +6081,4 @@
 2025-12-18T11:39:58.035Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up cache keys
 2025-12-18T16:13:19.783Z Adam Bell <b3ll@users.noreply.github.com> :: wire up the CI matrix
 2025-12-18T16:13:48.997Z Manu Arora <manuarora700@users.noreply.github.com> :: bump the parser
+2025-12-18T16:18:28.036Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove error handling
