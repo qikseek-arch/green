@@ -667,3 +667,4 @@
 2025-12-16T12:43:18.110Z Mu Li <mli@users.noreply.github.com> :: bump build script
 2025-12-17T21:15:28.233Z Christian Deacon <gamemann@users.noreply.github.com> :: update edge case in auth
 2025-12-17T21:31:50.045Z Brais Moure <mouredev@users.noreply.github.com> :: polish null check
+2025-12-18T03:45:49.291Z GitHub Community <community@users.noreply.github.com> :: update build script
