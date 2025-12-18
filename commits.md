@@ -6089,3 +6089,4 @@
 2025-12-18T21:07:25.798Z Damian Dulisz <shentao@users.noreply.github.com> :: polish readme typo
 2025-12-18T21:41:09.997Z OpenJS Foundation <info@openjsf.org> :: update the CI matrix
 2025-12-18T22:49:36.600Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up null check
+2025-12-18T23:09:57.247Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up readme typo
