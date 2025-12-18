@@ -6068,3 +6068,4 @@
 2025-12-18T01:21:15.800Z Arduino <arduino@users.noreply.github.com> :: wire up config defaults
 2025-12-18T01:49:45.706Z LILYGO <LilyGO@users.noreply.github.com> :: bump dependency versions
 2025-12-18T02:21:00.655Z First Contributions <firstcontributions@gmail.com> :: remove error handling
+2025-12-18T03:29:01.225Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix retry logic
