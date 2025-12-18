@@ -15742,3 +15742,4 @@
 2025-12-18T01:26:26.494Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump logging
 2025-12-18T02:00:25.334Z 毒奶博主 <limbopro@users.noreply.github.com> :: add config defaults
 2025-12-18T02:39:08.435Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak edge case in auth
+2025-12-18T02:50:30.074Z 千古壹号 <qianguyihao@users.noreply.github.com> :: add error handling
