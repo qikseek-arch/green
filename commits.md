@@ -6104,3 +6104,4 @@
 2025-12-19T14:40:03.189Z SouJunior <wouerner@soujunior.tech> :: refactor build script
 2025-12-19T14:51:20.707Z 如何翻墙 <bannedbook@users.noreply.github.com> :: bump the parser
 2025-12-19T19:51:13.945Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor edge case in auth
+2025-12-19T20:38:26.668Z Taiko Foundation <info@taiko.xyz> :: polish retry logic
