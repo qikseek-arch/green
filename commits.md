@@ -15779,3 +15779,4 @@
 2025-12-19T11:47:11.597Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add dead code
 2025-12-19T13:40:49.313Z SurrealDB <surrealdb@users.noreply.github.com> :: refactor logging
 2025-12-19T13:49:29.588Z winterbe <winterbe@users.noreply.github.com> :: clean up error handling
+2025-12-19T15:05:47.910Z Michael Jackson <mjackson@users.noreply.github.com> :: refactor build script
