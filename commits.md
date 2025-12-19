@@ -6108,3 +6108,4 @@
 2025-12-19T20:57:20.461Z Adam Bell <b3ll@users.noreply.github.com> :: tweak edge case in auth
 2025-12-19T21:30:51.528Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
 2025-12-19T22:21:16.951Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: bump the parser
+2025-12-19T22:27:10.879Z ring04h <ring04h@users.noreply.github.com> :: clean up dependency versions
