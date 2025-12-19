@@ -15788,3 +15788,4 @@
 2025-12-19T20:55:41.821Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update dead code
 2025-12-19T21:46:11.095Z Odi <mathdroid@users.noreply.github.com> :: tweak null check
 2025-12-19T22:12:16.405Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up dependency versions
+2025-12-19T22:51:09.804Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish dead code
