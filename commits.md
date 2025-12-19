@@ -15786,3 +15786,4 @@
 2025-12-19T17:53:40.443Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up readme typo
 2025-12-19T20:31:00.814Z Boshen <Boshen@users.noreply.github.com> :: wire up logging
 2025-12-19T20:55:41.821Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update dead code
+2025-12-19T21:46:11.095Z Odi <mathdroid@users.noreply.github.com> :: tweak null check
