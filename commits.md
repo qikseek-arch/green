@@ -15772,3 +15772,4 @@
 2025-12-19T05:39:40.798Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump null check
 2025-12-19T05:56:46.307Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
 2025-12-19T07:15:36.565Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor error handling
+2025-12-19T08:12:57.053Z Islem Maboud <ipenywis@users.noreply.github.com> :: update null check
