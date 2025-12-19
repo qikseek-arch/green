@@ -6101,3 +6101,4 @@
 2025-12-19T13:31:55.153Z heyli <lcxfs1991@users.noreply.github.com> :: bump config defaults
 2025-12-19T14:20:50.276Z Damian Dulisz <shentao@users.noreply.github.com> :: remove logging
 2025-12-19T14:24:50.190Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update error handling
+2025-12-19T14:40:03.189Z SouJunior <wouerner@soujunior.tech> :: refactor build script
