@@ -15765,3 +15765,4 @@
 2025-12-18T22:30:02.071Z Alex Teichman <teichman@users.noreply.github.com> :: clean up config defaults
 2025-12-18T22:58:50.233Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the CI matrix
 2025-12-18T23:43:08.736Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add the CI matrix
+2025-12-19T01:06:38.885Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix error handling
