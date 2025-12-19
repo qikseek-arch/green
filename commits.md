@@ -15790,3 +15790,4 @@
 2025-12-19T22:12:16.405Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up dependency versions
 2025-12-19T22:51:09.804Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish dead code
 2025-12-19T23:21:45.416Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the parser
+2025-12-19T23:55:20.596Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix config defaults
