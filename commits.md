@@ -224,3 +224,4 @@
 2025-12-18T11:28:56.609Z DeepSeek <service@deepseek.com> :: refactor retry logic
 2025-12-18T18:16:37.589Z 左程云 <algorithmzuo@users.noreply.github.com> :: bump dead code
 2025-12-18T20:31:55.303Z Holtz Yan <holtzy@users.noreply.github.com> :: clean up cache keys
+2025-12-19T03:43:16.513Z Shaian <zshaian@users.noreply.github.com> :: fix edge case in auth
