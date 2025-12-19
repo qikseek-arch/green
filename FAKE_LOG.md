@@ -55,3 +55,4 @@
 2025-12-15T16:08:28.895Z Dennis Ritchie <dennis.ritchie@example.com> :: add the CI matrix
 2025-12-15T23:13:55.567Z compiler_lazy_dev <compiler_lazy_dev@users.noreply.github.com> :: clean up flaky test
 2025-12-16T05:40:27.313Z Alan Turing <alan.turing@example.com> :: refactor build script
+2025-12-19T21:01:26.086Z Rasmus Lerdorf <rasmus.lerdorf@example.com> :: refactor the CI matrix
