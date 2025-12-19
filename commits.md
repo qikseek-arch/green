@@ -15770,3 +15770,4 @@
 2025-12-19T04:14:51.856Z Morvan <MorvanZhou@users.noreply.github.com> :: add config defaults
 2025-12-19T04:48:17.892Z yakeIore <yakeIore@users.noreply.github.com> :: refactor dead code
 2025-12-19T05:39:40.798Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump null check
+2025-12-19T05:56:46.307Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
