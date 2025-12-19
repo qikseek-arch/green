@@ -6106,3 +6106,4 @@
 2025-12-19T19:51:13.945Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor edge case in auth
 2025-12-19T20:38:26.668Z Taiko Foundation <info@taiko.xyz> :: polish retry logic
 2025-12-19T20:57:20.461Z Adam Bell <b3ll@users.noreply.github.com> :: tweak edge case in auth
+2025-12-19T21:30:51.528Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
