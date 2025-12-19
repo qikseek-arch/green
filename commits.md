@@ -15774,3 +15774,4 @@
 2025-12-19T07:15:36.565Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor error handling
 2025-12-19T08:12:57.053Z Islem Maboud <ipenywis@users.noreply.github.com> :: update null check
 2025-12-19T11:16:33.183Z Collabnix <collabnix@users.noreply.github.com> :: fix the CI matrix
+2025-12-19T11:43:01.858Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor logging
