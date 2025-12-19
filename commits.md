@@ -15767,3 +15767,4 @@
 2025-12-18T23:43:08.736Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add the CI matrix
 2025-12-19T01:06:38.885Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix error handling
 2025-12-19T02:02:22.469Z Chetan Jogi <voidChetan@users.noreply.github.com> :: update build script
+2025-12-19T04:14:51.856Z Morvan <MorvanZhou@users.noreply.github.com> :: add config defaults
