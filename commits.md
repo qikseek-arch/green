@@ -6109,3 +6109,4 @@
 2025-12-19T21:30:51.528Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
 2025-12-19T22:21:16.951Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: bump the parser
 2025-12-19T22:27:10.879Z ring04h <ring04h@users.noreply.github.com> :: clean up dependency versions
+2025-12-19T22:45:48.551Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
