@@ -6092,3 +6092,4 @@
 2025-12-18T23:09:57.247Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up readme typo
 2025-12-19T01:00:31.762Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up error handling
 2025-12-19T02:31:23.147Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up dependency versions
+2025-12-19T03:33:46.184Z Adam Bell <b3ll@users.noreply.github.com> :: update readme typo
