@@ -15814,3 +15814,4 @@
 2025-12-20T19:02:20.026Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up logging
 2025-12-20T21:34:08.581Z 毒奶博主 <limbopro@users.noreply.github.com> :: wire up config defaults
 2025-12-20T21:52:25.758Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix cache keys
+2025-12-20T23:02:00.508Z Collabnix <collabnix@users.noreply.github.com> :: wire up the parser
