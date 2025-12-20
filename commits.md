@@ -6119,3 +6119,4 @@
 2025-12-20T08:34:30.635Z ㅤxander <vampirist@users.noreply.github.com> :: fix cache keys
 2025-12-20T09:04:31.296Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add build script
 2025-12-20T10:30:34.639Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add dependency versions
+2025-12-20T10:35:56.460Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor build script
