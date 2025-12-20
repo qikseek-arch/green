@@ -15802,3 +15802,4 @@
 2025-12-20T04:48:36.294Z OpenBSD <openbsd@users.noreply.github.com> :: add cache keys
 2025-12-20T05:15:03.247Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dependency versions
 2025-12-20T05:28:37.033Z Tavis Ormandy <taviso@users.noreply.github.com> :: add dependency versions
+2025-12-20T06:39:23.225Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: fix the parser
