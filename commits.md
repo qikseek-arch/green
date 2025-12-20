@@ -6118,3 +6118,4 @@
 2025-12-20T06:49:56.902Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dead code
 2025-12-20T08:34:30.635Z ㅤxander <vampirist@users.noreply.github.com> :: fix cache keys
 2025-12-20T09:04:31.296Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add build script
+2025-12-20T10:30:34.639Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add dependency versions
