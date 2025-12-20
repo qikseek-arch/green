@@ -15792,3 +15792,4 @@
 2025-12-19T23:21:45.416Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the parser
 2025-12-19T23:55:20.596Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix config defaults
 2025-12-20T00:02:55.658Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak error handling
+2025-12-20T00:17:35.023Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor null check
