@@ -6112,3 +6112,4 @@
 2025-12-19T22:45:48.551Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2025-12-20T00:51:28.091Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up error handling
 2025-12-20T01:03:35.702Z Claude <claude@users.noreply.github.com> :: tweak logging
+2025-12-20T01:15:42.693Z OpenJS Foundation <info@openjsf.org> :: bump config defaults
