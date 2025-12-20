@@ -6127,3 +6127,4 @@
 2025-12-20T17:10:27.388Z Aurélien Geron <ageron@users.noreply.github.com> :: fix config defaults
 2025-12-20T20:26:26.671Z Claude <claude@users.noreply.github.com> :: tweak logging
 2025-12-20T21:35:54.735Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up the CI matrix
+2025-12-20T21:38:13.554Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak the parser
