@@ -6111,3 +6111,4 @@
 2025-12-19T22:27:10.879Z ring04h <ring04h@users.noreply.github.com> :: clean up dependency versions
 2025-12-19T22:45:48.551Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2025-12-20T00:51:28.091Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up error handling
+2025-12-20T01:03:35.702Z Claude <claude@users.noreply.github.com> :: tweak logging
