@@ -6143,3 +6143,4 @@
 2025-12-21T11:09:10.908Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish cache keys
 2025-12-21T12:31:46.346Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump flaky test
 2025-12-21T12:49:25.200Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove flaky test
+2025-12-21T14:16:33.786Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dependency versions
