@@ -6138,3 +6138,4 @@
 2025-12-21T06:32:43.522Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add dead code
 2025-12-21T06:37:14.491Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor error handling
 2025-12-21T07:16:55.346Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
+2025-12-21T09:55:02.541Z Getgems <getgems-io@users.noreply.github.com> :: refactor build script
