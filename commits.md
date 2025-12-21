@@ -15823,3 +15823,4 @@
 2025-12-21T07:01:28.491Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak null check
 2025-12-21T07:27:43.730Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor readme typo
 2025-12-21T09:12:23.307Z in28minutes <in28minutes@users.noreply.github.com> :: wire up dependency versions
+2025-12-21T09:56:50.392Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish the parser
