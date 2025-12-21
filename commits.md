@@ -15828,3 +15828,4 @@
 2025-12-21T10:45:40.463Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish error handling
 2025-12-21T11:23:44.940Z Collabnix <collabnix@users.noreply.github.com> :: tweak the parser
 2025-12-21T11:32:07.621Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up config defaults
+2025-12-21T12:31:12.977Z Collabnix <collabnix@users.noreply.github.com> :: bump build script
