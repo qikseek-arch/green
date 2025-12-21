@@ -6133,3 +6133,4 @@
 2025-12-21T01:31:35.175Z SouJunior <wouerner@soujunior.tech> :: bump flaky test
 2025-12-21T02:06:10.424Z First Contributions <firstcontributions@gmail.com> :: wire up config defaults
 2025-12-21T04:07:08.074Z LILYGO <LilyGO@users.noreply.github.com> :: remove readme typo
+2025-12-21T04:35:59.587Z Taiko Foundation <info@taiko.xyz> :: add build script
