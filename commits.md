@@ -228,3 +228,4 @@
 2025-12-20T09:23:39.263Z Draven <draveness@users.noreply.github.com> :: tweak the CI matrix
 2025-12-20T20:55:33.742Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: bump the parser
 2025-12-21T00:27:01.542Z @XDevelopers <xdevplatform@users.noreply.github.com> :: refactor dependency versions
+2025-12-21T03:34:59.390Z Bruno Simon <brunosimon@users.noreply.github.com> :: refactor readme typo
