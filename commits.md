@@ -15841,3 +15841,4 @@
 2025-12-21T21:04:35.195Z Odi <mathdroid@users.noreply.github.com> :: tweak null check
 2025-12-21T21:38:45.683Z Damian Gryski <dgryski@users.noreply.github.com> :: add readme typo
 2025-12-21T21:50:10.706Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish build script
+2025-12-21T22:11:49.750Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor retry logic
