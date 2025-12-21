@@ -15838,3 +15838,4 @@
 2025-12-21T20:01:23.918Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove flaky test
 2025-12-21T20:07:42.465Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: clean up build script
 2025-12-21T20:57:30.829Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: clean up config defaults
+2025-12-21T21:04:35.195Z Odi <mathdroid@users.noreply.github.com> :: tweak null check
