@@ -6129,3 +6129,4 @@
 2025-12-20T21:35:54.735Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up the CI matrix
 2025-12-20T21:38:13.554Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak the parser
 2025-12-20T22:46:43.525Z Rei <chloerei@users.noreply.github.com> :: fix build script
+2025-12-21T01:08:30.252Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak readme typo
