@@ -15831,3 +15831,4 @@
 2025-12-21T12:31:12.977Z Collabnix <collabnix@users.noreply.github.com> :: bump build script
 2025-12-21T12:52:06.001Z winterbe <winterbe@users.noreply.github.com> :: fix edge case in auth
 2025-12-21T13:11:58.402Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove dead code
+2025-12-21T14:47:17.588Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish readme typo
