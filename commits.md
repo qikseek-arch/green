@@ -6146,3 +6146,4 @@
 2025-12-21T14:16:33.786Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dependency versions
 2025-12-21T14:53:10.941Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up readme typo
 2025-12-21T15:58:09.470Z Adam Bell <b3ll@users.noreply.github.com> :: add dead code
+2025-12-21T16:12:39.999Z ㅤxander <vampirist@users.noreply.github.com> :: bump the CI matrix
