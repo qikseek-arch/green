@@ -15832,3 +15832,4 @@
 2025-12-21T12:52:06.001Z winterbe <winterbe@users.noreply.github.com> :: fix edge case in auth
 2025-12-21T13:11:58.402Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove dead code
 2025-12-21T14:47:17.588Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish readme typo
+2025-12-21T15:22:01.391Z Brian Holt <btholt@users.noreply.github.com> :: polish null check
