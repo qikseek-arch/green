@@ -15833,3 +15833,4 @@
 2025-12-21T13:11:58.402Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove dead code
 2025-12-21T14:47:17.588Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish readme typo
 2025-12-21T15:22:01.391Z Brian Holt <btholt@users.noreply.github.com> :: polish null check
+2025-12-21T15:26:31.305Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak the parser
