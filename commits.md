@@ -6155,3 +6155,4 @@
 2025-12-21T19:56:59.524Z Taiko Foundation <info@taiko.xyz> :: polish build script
 2025-12-21T20:43:36.423Z ㅤxander <vampirist@users.noreply.github.com> :: update null check
 2025-12-21T21:48:20.111Z Taiko Foundation <info@taiko.xyz> :: polish cache keys
+2025-12-21T21:59:02.816Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor dependency versions
