@@ -15822,3 +15822,4 @@
 2025-12-21T06:45:49.572Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove null check
 2025-12-21T07:01:28.491Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak null check
 2025-12-21T07:27:43.730Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor readme typo
+2025-12-21T09:12:23.307Z in28minutes <in28minutes@users.noreply.github.com> :: wire up dependency versions
