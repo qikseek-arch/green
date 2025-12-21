@@ -6131,3 +6131,4 @@
 2025-12-20T22:46:43.525Z Rei <chloerei@users.noreply.github.com> :: fix build script
 2025-12-21T01:08:30.252Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak readme typo
 2025-12-21T01:31:35.175Z SouJunior <wouerner@soujunior.tech> :: bump flaky test
+2025-12-21T02:06:10.424Z First Contributions <firstcontributions@gmail.com> :: wire up config defaults
