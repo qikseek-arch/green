@@ -15826,3 +15826,4 @@
 2025-12-21T09:56:50.392Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish the parser
 2025-12-21T09:58:36.056Z Petar Veličković <PetarV-@users.noreply.github.com> :: add logging
 2025-12-21T10:45:40.463Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish error handling
+2025-12-21T11:23:44.940Z Collabnix <collabnix@users.noreply.github.com> :: tweak the parser
