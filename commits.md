@@ -6135,3 +6135,4 @@
 2025-12-21T04:07:08.074Z LILYGO <LilyGO@users.noreply.github.com> :: remove readme typo
 2025-12-21T04:35:59.587Z Taiko Foundation <info@taiko.xyz> :: add build script
 2025-12-21T04:50:22.275Z Odi <mathdroid@users.noreply.github.com> :: refactor config defaults
+2025-12-21T06:32:43.522Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add dead code
