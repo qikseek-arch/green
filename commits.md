@@ -6165,3 +6165,4 @@
 2025-12-22T00:47:11.344Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up null check
 2025-12-22T02:17:09.382Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor dependency versions
 2025-12-22T02:32:51.382Z AI4Bhārat <opensource@ai4bharat.org> :: clean up dead code
+2025-12-22T04:14:26.875Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add error handling
