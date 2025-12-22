@@ -6179,3 +6179,4 @@
 2025-12-22T17:37:24.294Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor retry logic
 2025-12-22T18:38:00.364Z qiye <qiyeboy@users.noreply.github.com> :: fix dead code
 2025-12-22T20:44:58.722Z Adam Bell <b3ll@users.noreply.github.com> :: update config defaults
+2025-12-22T21:18:32.765Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor edge case in auth
