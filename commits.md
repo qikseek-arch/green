@@ -15855,3 +15855,4 @@
 2025-12-22T05:26:05.497Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor flaky test
 2025-12-22T06:50:25.942Z Lipis <lipis@users.noreply.github.com> :: update config defaults
 2025-12-22T10:41:04.316Z Sergey P. <ThirteenAG@users.noreply.github.com> :: clean up flaky test
+2025-12-22T13:35:33.456Z Dove Letter <skydoves2@gmail.com> :: add build script
