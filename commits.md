@@ -6176,3 +6176,4 @@
 2025-12-22T13:01:10.203Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak retry logic
 2025-12-22T13:01:31.669Z Shubs <infosec-au@users.noreply.github.com> :: add the CI matrix
 2025-12-22T16:07:04.612Z vb <Vaibhavs10@users.noreply.github.com> :: tweak retry logic
+2025-12-22T17:37:24.294Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor retry logic
