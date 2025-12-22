@@ -6180,3 +6180,4 @@
 2025-12-22T18:38:00.364Z qiye <qiyeboy@users.noreply.github.com> :: fix dead code
 2025-12-22T20:44:58.722Z Adam Bell <b3ll@users.noreply.github.com> :: update config defaults
 2025-12-22T21:18:32.765Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor edge case in auth
+2025-12-22T21:24:22.257Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up readme typo
