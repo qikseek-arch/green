@@ -6168,3 +6168,4 @@
 2025-12-22T04:14:26.875Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add error handling
 2025-12-22T04:48:01.364Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
 2025-12-22T05:33:57.395Z Adam Bell <b3ll@users.noreply.github.com> :: wire up null check
+2025-12-22T06:58:18.270Z Ryan Bigg <radar@users.noreply.github.com> :: update error handling
