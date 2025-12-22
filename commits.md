@@ -6162,3 +6162,4 @@
 2025-12-21T23:49:49.085Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish logging
 2025-12-22T00:12:09.349Z ㅤxander <vampirist@users.noreply.github.com> :: wire up build script
 2025-12-22T00:37:50.697Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add cache keys
+2025-12-22T00:47:11.344Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up null check
