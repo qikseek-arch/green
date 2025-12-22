@@ -236,3 +236,4 @@
 2025-12-21T16:59:05.668Z @XDevelopers <xdevplatform@users.noreply.github.com> :: wire up cache keys
 2025-12-21T17:06:50.973Z DeepSeek <service@deepseek.com> :: clean up dependency versions
 2025-12-21T20:43:35.152Z DeepSeek <service@deepseek.com> :: wire up edge case in auth
+2025-12-22T07:30:42.152Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: wire up the parser
