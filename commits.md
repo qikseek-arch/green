@@ -15852,3 +15852,4 @@
 2025-12-22T03:22:47.210Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak flaky test
 2025-12-22T03:45:33.782Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove config defaults
 2025-12-22T05:13:33.360Z Collabnix <collabnix@users.noreply.github.com> :: polish flaky test
+2025-12-22T05:26:05.497Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor flaky test
