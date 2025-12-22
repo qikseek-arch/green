@@ -15850,3 +15850,4 @@
 2025-12-22T01:04:48.327Z cytopia <cytopia@users.noreply.github.com> :: refactor edge case in auth
 2025-12-22T03:18:10.138Z 毒奶博主 <limbopro@users.noreply.github.com> :: clean up flaky test
 2025-12-22T03:22:47.210Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak flaky test
+2025-12-22T03:45:33.782Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove config defaults
