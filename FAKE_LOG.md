@@ -221,3 +221,4 @@
 2025-12-15T23:58:39.756Z zero <zero@fake.invalid> :: wire up dead code
 2025-12-16T21:49:23.664Z nyx <nyx@fake.invalid> :: clean up null check
 2025-12-22T04:20:51.523Z ezra <ezra@fake.invalid> :: tweak dead code
+2025-12-22T13:29:12.111Z admin <admin@fake.invalid> :: polish config defaults
