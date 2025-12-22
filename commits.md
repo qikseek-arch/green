@@ -15845,3 +15845,4 @@
 2025-12-21T22:16:16.580Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up flaky test
 2025-12-21T22:35:58.334Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add dead code
 2025-12-21T23:13:39.009Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove logging
+2025-12-22T00:24:46.374Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add error handling
