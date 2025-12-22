@@ -15861,3 +15861,4 @@
 2025-12-22T15:34:27.047Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump config defaults
 2025-12-22T16:25:12.592Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up cache keys
 2025-12-22T16:40:48.525Z OpenBMB <openbmb@gmail.com> :: update null check
+2025-12-22T18:29:29.986Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up retry logic
