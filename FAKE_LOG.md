@@ -322,3 +322,4 @@
 2025-12-07T02:03:34.730Z John von Neumann <john.von.neumann@fake.invalid> :: wire up config defaults
 2025-12-16T23:21:25.421Z brave-toasterdev <brave-toasterdev@fake.invalid> :: add build script
 2025-12-21T20:59:31.497Z root <root@fake.invalid> :: fix the CI matrix
+2025-12-22T09:17:54.334Z Margaret Hamilton <margaret.hamilton@fake.invalid> :: wire up readme typo
