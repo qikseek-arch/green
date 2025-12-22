@@ -15871,3 +15871,4 @@
 2025-12-22T22:31:34.428Z Brian Holt <btholt@users.noreply.github.com> :: tweak edge case in auth
 2025-12-22T22:47:32.512Z John Schulman <joschu@users.noreply.github.com> :: fix cache keys
 2025-12-22T23:19:20.487Z Daniel Reis <danielhe4rt@users.noreply.github.com> :: refactor flaky test
+2025-12-22T23:58:00.994Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: refactor edge case in auth
