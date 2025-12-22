@@ -15868,3 +15868,4 @@
 2025-12-22T19:37:36.927Z OpenMEDLab <openmedlab@pjlab.org.cn> :: refactor config defaults
 2025-12-22T20:18:28.876Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up flaky test
 2025-12-22T22:24:01.483Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor null check
+2025-12-22T22:31:34.428Z Brian Holt <btholt@users.noreply.github.com> :: tweak edge case in auth
