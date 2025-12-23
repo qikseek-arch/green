@@ -6208,3 +6208,4 @@
 2025-12-23T21:02:36.335Z Shubs <infosec-au@users.noreply.github.com> :: add null check
 2025-12-23T21:48:13.496Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove flaky test
 2025-12-23T22:24:22.173Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add dead code
+2025-12-23T22:33:44.560Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up dead code
