@@ -6202,3 +6202,4 @@
 2025-12-23T16:32:32.709Z WebRTC <discuss-webrtc@googlegroups.com> :: remove the parser
 2025-12-23T17:28:11.881Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
 2025-12-23T18:02:47.531Z Adam Bell <b3ll@users.noreply.github.com> :: update dead code
+2025-12-23T18:11:55.738Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
