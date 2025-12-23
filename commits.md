@@ -15899,3 +15899,4 @@
 2025-12-23T21:50:36.342Z OpenBMB <openbmb@gmail.com> :: add build script
 2025-12-23T21:56:15.251Z cytopia <cytopia@users.noreply.github.com> :: refactor logging
 2025-12-23T22:17:44.611Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak edge case in auth
+2025-12-23T22:58:30.275Z Lipis <lipis@users.noreply.github.com> :: tweak error handling
