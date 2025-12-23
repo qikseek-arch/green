@@ -241,3 +241,4 @@
 2025-12-22T11:32:44.566Z Matt Pocock <mattpocock@users.noreply.github.com> :: clean up null check
 2025-12-23T06:26:46.900Z Sylvain Gugger <sgugger@users.noreply.github.com> :: fix edge case in auth
 2025-12-23T07:36:26.399Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: polish build script
+2025-12-23T11:35:40.212Z Matt Pocock <mattpocock@users.noreply.github.com> :: add error handling
