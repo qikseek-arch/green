@@ -6185,3 +6185,4 @@
 2025-12-22T23:42:57.261Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump edge case in auth
 2025-12-22T23:44:21.114Z CTFs <ctfs@users.noreply.github.com> :: clean up flaky test
 2025-12-23T00:13:45.312Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update logging
+2025-12-23T00:20:58.080Z Ryan Bigg <radar@users.noreply.github.com> :: tweak null check
