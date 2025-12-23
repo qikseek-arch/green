@@ -15882,3 +15882,4 @@
 2025-12-23T08:07:01.978Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: bump the parser
 2025-12-23T09:34:04.801Z OpenBSD <openbsd@users.noreply.github.com> :: update logging
 2025-12-23T09:44:44.814Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump dead code
+2025-12-23T10:00:10.311Z Sky Ao <skyao@users.noreply.github.com> :: wire up the CI matrix
