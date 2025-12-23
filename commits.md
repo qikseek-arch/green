@@ -15896,3 +15896,4 @@
 2025-12-23T18:24:54.996Z Amnezia VPN <support@amnezia.org> :: fix edge case in auth
 2025-12-23T18:40:45.857Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update the CI matrix
 2025-12-23T20:34:34.685Z OpenBSD <openbsd@users.noreply.github.com> :: add null check
+2025-12-23T21:50:36.342Z OpenBMB <openbmb@gmail.com> :: add build script
