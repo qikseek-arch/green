@@ -15890,3 +15890,4 @@
 2025-12-23T13:49:42.757Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update cache keys
 2025-12-23T15:19:58.763Z Scott Chacon <schacon@users.noreply.github.com> :: fix edge case in auth
 2025-12-23T16:36:06.287Z in28minutes <in28minutes@users.noreply.github.com> :: fix edge case in auth
+2025-12-23T16:55:01.814Z Petar Veličković <PetarV-@users.noreply.github.com> :: update the CI matrix
