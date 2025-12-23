@@ -6198,3 +6198,4 @@
 2025-12-23T12:12:49.522Z Taiko Foundation <info@taiko.xyz> :: clean up flaky test
 2025-12-23T12:58:34.194Z Sadık TURAN <sadikturan@users.noreply.github.com> :: wire up flaky test
 2025-12-23T15:56:18.313Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix logging
+2025-12-23T16:05:05.363Z OpenJS Foundation <info@openjsf.org> :: polish the parser
