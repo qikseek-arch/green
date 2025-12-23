@@ -15876,3 +15876,4 @@
 2025-12-23T02:50:50.478Z John Schulman <joschu@users.noreply.github.com> :: wire up logging
 2025-12-23T02:55:09.134Z Collabnix <collabnix@users.noreply.github.com> :: update cache keys
 2025-12-23T02:59:57.753Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up readme typo
+2025-12-23T04:56:16.039Z cytopia <cytopia@users.noreply.github.com> :: fix dependency versions
