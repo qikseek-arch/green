@@ -239,3 +239,4 @@
 2025-12-22T07:30:42.152Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: wire up the parser
 2025-12-22T11:15:41.092Z 4Geeks Academy <info@4geeksacademy.com> :: refactor flaky test
 2025-12-22T11:32:44.566Z Matt Pocock <mattpocock@users.noreply.github.com> :: clean up null check
+2025-12-23T06:26:46.900Z Sylvain Gugger <sgugger@users.noreply.github.com> :: fix edge case in auth
