@@ -6200,3 +6200,4 @@
 2025-12-23T15:56:18.313Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix logging
 2025-12-23T16:05:05.363Z OpenJS Foundation <info@openjsf.org> :: polish the parser
 2025-12-23T16:32:32.709Z WebRTC <discuss-webrtc@googlegroups.com> :: remove the parser
+2025-12-23T17:28:11.881Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
