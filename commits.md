@@ -6205,3 +6205,4 @@
 2025-12-23T18:11:55.738Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
 2025-12-23T20:16:41.844Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up build script
 2025-12-23T20:59:42.959Z vb <Vaibhavs10@users.noreply.github.com> :: fix cache keys
+2025-12-23T21:02:36.335Z Shubs <infosec-au@users.noreply.github.com> :: add null check
