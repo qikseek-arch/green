@@ -15892,3 +15892,4 @@
 2025-12-23T16:36:06.287Z in28minutes <in28minutes@users.noreply.github.com> :: fix edge case in auth
 2025-12-23T16:55:01.814Z Petar Veličković <PetarV-@users.noreply.github.com> :: update the CI matrix
 2025-12-23T17:51:06.853Z Elliott Minns <elliottminns@users.noreply.github.com> :: update config defaults
+2025-12-23T18:12:31.073Z Odi <mathdroid@users.noreply.github.com> :: update dead code
