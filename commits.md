@@ -15886,3 +15886,4 @@
 2025-12-23T10:05:52.094Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: clean up build script
 2025-12-23T10:56:19.766Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up flaky test
 2025-12-23T12:08:28.756Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update error handling
+2025-12-23T12:49:12.870Z Snowflake Labs <opensource@snowflake.com> :: fix the CI matrix
