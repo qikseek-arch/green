@@ -15894,3 +15894,4 @@
 2025-12-23T17:51:06.853Z Elliott Minns <elliottminns@users.noreply.github.com> :: update config defaults
 2025-12-23T18:12:31.073Z Odi <mathdroid@users.noreply.github.com> :: update dead code
 2025-12-23T18:24:54.996Z Amnezia VPN <support@amnezia.org> :: fix edge case in auth
+2025-12-23T18:40:45.857Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update the CI matrix
