@@ -15895,3 +15895,4 @@
 2025-12-23T18:12:31.073Z Odi <mathdroid@users.noreply.github.com> :: update dead code
 2025-12-23T18:24:54.996Z Amnezia VPN <support@amnezia.org> :: fix edge case in auth
 2025-12-23T18:40:45.857Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update the CI matrix
+2025-12-23T20:34:34.685Z OpenBSD <openbsd@users.noreply.github.com> :: add null check
