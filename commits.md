@@ -15898,3 +15898,4 @@
 2025-12-23T20:34:34.685Z OpenBSD <openbsd@users.noreply.github.com> :: add null check
 2025-12-23T21:50:36.342Z OpenBMB <openbmb@gmail.com> :: add build script
 2025-12-23T21:56:15.251Z cytopia <cytopia@users.noreply.github.com> :: refactor logging
+2025-12-23T22:17:44.611Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak edge case in auth
