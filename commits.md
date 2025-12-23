@@ -6190,3 +6190,4 @@
 2025-12-23T01:40:28.994Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add the CI matrix
 2025-12-23T03:10:50.144Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove dead code
 2025-12-23T05:06:54.331Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump the parser
+2025-12-23T05:32:30.997Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix dead code
