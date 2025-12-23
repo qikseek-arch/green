@@ -15900,3 +15900,4 @@
 2025-12-23T21:56:15.251Z cytopia <cytopia@users.noreply.github.com> :: refactor logging
 2025-12-23T22:17:44.611Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak edge case in auth
 2025-12-23T22:58:30.275Z Lipis <lipis@users.noreply.github.com> :: tweak error handling
+2025-12-23T23:00:27.001Z winterbe <winterbe@users.noreply.github.com> :: update dead code
