@@ -15903,3 +15903,4 @@
 2025-12-23T23:00:27.001Z winterbe <winterbe@users.noreply.github.com> :: update dead code
 2025-12-23T23:55:45.359Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: wire up cache keys
 2025-12-24T00:28:09.958Z Damian Gryski <dgryski@users.noreply.github.com> :: fix cache keys
+2025-12-24T01:19:44.199Z Brian Holt <btholt@users.noreply.github.com> :: wire up error handling
