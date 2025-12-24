@@ -6216,3 +6216,4 @@
 2025-12-24T03:06:09.593Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update logging
 2025-12-24T05:34:17.250Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix cache keys
 2025-12-24T06:08:58.128Z Adam Łucek <ALucek@users.noreply.github.com> :: add config defaults
+2025-12-24T06:17:36.119Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up error handling
