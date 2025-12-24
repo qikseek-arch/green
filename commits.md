@@ -6237,3 +6237,4 @@
 2025-12-24T22:12:53.508Z Taiko Foundation <info@taiko.xyz> :: update cache keys
 2025-12-24T22:37:23.527Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
 2025-12-24T23:15:19.774Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish flaky test
+2025-12-24T23:45:38.861Z ㅤxander <vampirist@users.noreply.github.com> :: remove dependency versions
