@@ -6233,3 +6233,4 @@
 2025-12-24T16:54:01.688Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove error handling
 2025-12-24T17:03:45.212Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix cache keys
 2025-12-24T18:21:25.260Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
+2025-12-24T19:07:37.446Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add readme typo
