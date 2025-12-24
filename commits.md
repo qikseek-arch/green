@@ -246,3 +246,4 @@
 2025-12-24T04:23:58.681Z t11s <transmissions11@users.noreply.github.com> :: bump error handling
 2025-12-24T08:21:31.111Z Sylvain Gugger <sgugger@users.noreply.github.com> :: add edge case in auth
 2025-12-24T12:28:41.056Z Cheng Lou <chenglou@users.noreply.github.com> :: update dependency versions
+2025-12-24T22:46:55.333Z Connor <Connor9994@users.noreply.github.com> :: remove config defaults
