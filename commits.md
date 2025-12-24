@@ -15916,3 +15916,4 @@
 2025-12-24T08:09:33.727Z in28minutes <in28minutes@users.noreply.github.com> :: remove logging
 2025-12-24T08:40:41.315Z Boshen <Boshen@users.noreply.github.com> :: fix edge case in auth
 2025-12-24T09:45:06.654Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish flaky test
+2025-12-24T10:05:11.298Z Google Fonts <googlefonts@users.noreply.github.com> :: update error handling
