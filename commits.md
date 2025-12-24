@@ -6226,3 +6226,4 @@
 2025-12-24T10:01:50.999Z qiye <qiyeboy@users.noreply.github.com> :: polish the parser
 2025-12-24T12:51:27.067Z Claude <claude@users.noreply.github.com> :: clean up readme typo
 2025-12-24T13:30:14.243Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor edge case in auth
+2025-12-24T13:51:13.006Z Adam Bell <b3ll@users.noreply.github.com> :: add dead code
