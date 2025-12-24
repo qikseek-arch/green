@@ -15922,3 +15922,4 @@
 2025-12-24T15:32:45.547Z 1 <insoxin@users.noreply.github.com> :: refactor flaky test
 2025-12-24T16:16:26.170Z Michael Jackson <mjackson@users.noreply.github.com> :: fix edge case in auth
 2025-12-24T16:57:15.083Z OpenBMB <openbmb@gmail.com> :: remove flaky test
+2025-12-24T17:51:58.464Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up config defaults
