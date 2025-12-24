@@ -6219,3 +6219,4 @@
 2025-12-24T06:17:36.119Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up error handling
 2025-12-24T07:53:21.652Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump the CI matrix
 2025-12-24T08:30:04.392Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dependency versions
+2025-12-24T08:52:20.698Z Keith Smiley <keith@users.noreply.github.com> :: clean up retry logic
