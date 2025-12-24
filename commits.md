@@ -6225,3 +6225,4 @@
 2025-12-24T09:38:19.457Z David Clark <nullptrException100@users.noreply.github.com> :: refactor build script
 2025-12-24T10:01:50.999Z qiye <qiyeboy@users.noreply.github.com> :: polish the parser
 2025-12-24T12:51:27.067Z Claude <claude@users.noreply.github.com> :: clean up readme typo
+2025-12-24T13:30:14.243Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor edge case in auth
