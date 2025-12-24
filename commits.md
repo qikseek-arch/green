@@ -6235,3 +6235,4 @@
 2025-12-24T18:21:25.260Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
 2025-12-24T19:07:37.446Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add readme typo
 2025-12-24T22:12:53.508Z Taiko Foundation <info@taiko.xyz> :: update cache keys
+2025-12-24T22:37:23.527Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
