@@ -15927,3 +15927,4 @@
 2025-12-24T19:23:37.578Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish logging
 2025-12-24T20:07:52.532Z Brian Holt <btholt@users.noreply.github.com> :: update retry logic
 2025-12-24T20:57:25.360Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix null check
+2025-12-24T22:23:58.120Z OpenBSD <openbsd@users.noreply.github.com> :: tweak cache keys
