@@ -6230,3 +6230,4 @@
 2025-12-24T13:53:15.352Z ㅤxander <vampirist@users.noreply.github.com> :: add the CI matrix
 2025-12-24T14:01:48.128Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor edge case in auth
 2025-12-24T15:36:30.529Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak error handling
+2025-12-24T16:54:01.688Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove error handling
