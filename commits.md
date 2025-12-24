@@ -244,3 +244,4 @@
 2025-12-23T11:35:40.212Z Matt Pocock <mattpocock@users.noreply.github.com> :: add error handling
 2025-12-23T19:24:56.938Z ONLYOFFICE <support@onlyoffice.com> :: bump cache keys
 2025-12-24T04:23:58.681Z t11s <transmissions11@users.noreply.github.com> :: bump error handling
+2025-12-24T08:21:31.111Z Sylvain Gugger <sgugger@users.noreply.github.com> :: add edge case in auth
