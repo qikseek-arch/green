@@ -323,3 +323,4 @@
 2025-12-16T23:21:25.421Z brave-toasterdev <brave-toasterdev@fake.invalid> :: add build script
 2025-12-21T20:59:31.497Z root <root@fake.invalid> :: fix the CI matrix
 2025-12-22T09:17:54.334Z Margaret Hamilton <margaret.hamilton@fake.invalid> :: wire up readme typo
+2025-12-25T21:06:24.348Z Bram Cohen <bram.cohen@fake.invalid> :: polish dead code | Co-authored-by: Grant Sanderson <3b1b@users.noreply.github.com>
