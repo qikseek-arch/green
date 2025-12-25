@@ -6245,3 +6245,4 @@
 2025-12-25T01:28:14.847Z Taiko Foundation <info@taiko.xyz> :: bump the parser
 2025-12-25T01:32:14.578Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor cache keys
 2025-12-25T02:17:00.371Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor edge case in auth
+2025-12-25T04:05:41.154Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump retry logic
