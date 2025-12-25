@@ -15947,3 +15947,4 @@
 2025-12-25T15:46:16.924Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak build script
 2025-12-25T15:55:13.940Z DefTruth <DefTruth@users.noreply.github.com> :: polish config defaults
 2025-12-25T17:29:14.139Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add logging
+2025-12-25T18:11:39.073Z cytopia <cytopia@users.noreply.github.com> :: add cache keys
