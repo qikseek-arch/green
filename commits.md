@@ -6258,3 +6258,4 @@
 2025-12-25T09:44:51.674Z markqvist <markqvist@users.noreply.github.com> :: refactor edge case in auth
 2025-12-25T10:07:17.894Z Arduino <arduino@users.noreply.github.com> :: tweak dead code
 2025-12-25T10:51:00.614Z Claude <claude@users.noreply.github.com> :: bump readme typo
+2025-12-25T10:52:14.497Z vb <Vaibhavs10@users.noreply.github.com> :: polish null check
