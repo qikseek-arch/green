@@ -15931,3 +15931,4 @@
 2025-12-24T23:18:23.665Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump logging
 2025-12-25T00:08:51.776Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: update null check
 2025-12-25T05:01:11.321Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up readme typo
+2025-12-25T06:34:27.488Z OpenBSD <openbsd@users.noreply.github.com> :: clean up retry logic
