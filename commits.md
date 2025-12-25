@@ -15946,3 +15946,4 @@
 2025-12-25T15:32:49.816Z Prometheus <prometheus@users.noreply.github.com> :: tweak edge case in auth
 2025-12-25T15:46:16.924Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak build script
 2025-12-25T15:55:13.940Z DefTruth <DefTruth@users.noreply.github.com> :: polish config defaults
+2025-12-25T17:29:14.139Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add logging
