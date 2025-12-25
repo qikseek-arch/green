@@ -6255,3 +6255,4 @@
 2025-12-25T09:08:00.783Z AI4Bhārat <opensource@ai4bharat.org> :: fix cache keys
 2025-12-25T09:19:48.359Z David Fowler <davidfowl@users.noreply.github.com> :: refactor config defaults
 2025-12-25T09:20:51.478Z vb <Vaibhavs10@users.noreply.github.com> :: fix error handling
+2025-12-25T09:44:51.674Z markqvist <markqvist@users.noreply.github.com> :: refactor edge case in auth
