@@ -6269,3 +6269,4 @@
 2025-12-25T15:52:47.586Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix cache keys
 2025-12-25T17:28:35.556Z Claude <claude@users.noreply.github.com> :: clean up null check
 2025-12-25T18:23:16.869Z Taiko Foundation <info@taiko.xyz> :: bump cache keys
+2025-12-25T19:04:54.816Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the CI matrix
