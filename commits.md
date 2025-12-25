@@ -6276,3 +6276,4 @@
 2025-12-25T20:48:10.316Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update the CI matrix
 2025-12-25T21:21:58.500Z Odi <mathdroid@users.noreply.github.com> :: remove retry logic
 2025-12-25T22:17:25.207Z Taiko Foundation <info@taiko.xyz> :: fix logging
+2025-12-25T23:24:58.116Z markqvist <markqvist@users.noreply.github.com> :: wire up flaky test
