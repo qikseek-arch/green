@@ -6271,3 +6271,4 @@
 2025-12-25T18:23:16.869Z Taiko Foundation <info@taiko.xyz> :: bump cache keys
 2025-12-25T19:04:54.816Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the CI matrix
 2025-12-25T19:32:51.819Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up build script
+2025-12-25T20:42:19.297Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump null check
