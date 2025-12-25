@@ -15935,3 +15935,4 @@
 2025-12-25T06:47:45.164Z Petar Veličković <PetarV-@users.noreply.github.com> :: bump dead code
 2025-12-25T06:52:39.149Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up dead code
 2025-12-25T08:06:00.514Z Damian Gryski <dgryski@users.noreply.github.com> :: bump readme typo
+2025-12-25T08:57:39.992Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak error handling
