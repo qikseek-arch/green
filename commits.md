@@ -248,3 +248,4 @@
 2025-12-24T12:28:41.056Z Cheng Lou <chenglou@users.noreply.github.com> :: update dependency versions
 2025-12-24T22:46:55.333Z Connor <Connor9994@users.noreply.github.com> :: remove config defaults
 2025-12-25T16:17:58.063Z Shaian <zshaian@users.noreply.github.com> :: update null check
+2025-12-25T20:36:33.010Z Susan Li <susanli2016@users.noreply.github.com> :: add dependency versions
