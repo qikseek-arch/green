@@ -15937,3 +15937,4 @@
 2025-12-25T08:06:00.514Z Damian Gryski <dgryski@users.noreply.github.com> :: bump readme typo
 2025-12-25T08:57:39.992Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak error handling
 2025-12-25T09:19:25.206Z Tom Dale <tomdale@users.noreply.github.com> :: fix null check
+2025-12-25T09:35:43.732Z Scott Chacon <schacon@users.noreply.github.com> :: wire up the CI matrix
