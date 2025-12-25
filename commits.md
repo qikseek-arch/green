@@ -15942,3 +15942,4 @@
 2025-12-25T10:09:10.317Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add build script
 2025-12-25T13:20:57.003Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up logging
 2025-12-25T14:01:48.880Z Prometheus <prometheus@users.noreply.github.com> :: fix config defaults
+2025-12-25T14:14:46.686Z OpenBSD <openbsd@users.noreply.github.com> :: remove null check
