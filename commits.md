@@ -6267,3 +6267,4 @@
 2025-12-25T13:26:54.036Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update logging
 2025-12-25T15:52:18.090Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: refactor dead code
 2025-12-25T15:52:47.586Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix cache keys
+2025-12-25T17:28:35.556Z Claude <claude@users.noreply.github.com> :: clean up null check
