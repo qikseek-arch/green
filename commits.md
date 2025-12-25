@@ -15939,3 +15939,4 @@
 2025-12-25T09:19:25.206Z Tom Dale <tomdale@users.noreply.github.com> :: fix null check
 2025-12-25T09:35:43.732Z Scott Chacon <schacon@users.noreply.github.com> :: wire up the CI matrix
 2025-12-25T09:38:55.173Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up dependency versions
+2025-12-25T10:09:10.317Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add build script
