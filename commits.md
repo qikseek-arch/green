@@ -6293,3 +6293,4 @@
 2025-12-26T08:52:36.266Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish logging
 2025-12-26T09:20:10.291Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up the parser
 2025-12-26T09:35:45.665Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add dependency versions
+2025-12-26T10:33:05.753Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up null check
