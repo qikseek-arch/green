@@ -15974,3 +15974,4 @@
 2025-12-26T14:48:18.529Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak edge case in auth
 2025-12-26T17:30:04.248Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up flaky test
 2025-12-26T18:21:53.406Z Dove Letter <skydoves2@gmail.com> :: tweak cache keys
+2025-12-26T19:48:55.728Z Alexandre Mutel <xoofx@users.noreply.github.com> :: clean up the parser
