@@ -6284,3 +6284,4 @@
 2025-12-26T02:10:06.086Z First Contributions <firstcontributions@gmail.com> :: tweak edge case in auth
 2025-12-26T02:52:55.730Z Jason Zhang <Hackl0us@users.noreply.github.com> :: remove flaky test
 2025-12-26T03:00:09.279Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update config defaults
+2025-12-26T03:24:38.675Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish config defaults
