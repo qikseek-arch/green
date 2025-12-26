@@ -250,3 +250,4 @@
 2025-12-25T16:17:58.063Z Shaian <zshaian@users.noreply.github.com> :: update null check
 2025-12-25T20:36:33.010Z Susan Li <susanli2016@users.noreply.github.com> :: add dependency versions
 2025-12-26T00:51:10.445Z 削微寒 <521xueweihan@users.noreply.github.com> :: wire up cache keys
+2025-12-26T08:04:45.162Z DeepSeek <service@deepseek.com> :: wire up build script
