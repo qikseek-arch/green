@@ -6307,3 +6307,4 @@
 2025-12-26T16:39:24.276Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak cache keys
 2025-12-26T17:19:16.906Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor flaky test
 2025-12-26T21:00:54.341Z Getgems <getgems-io@users.noreply.github.com> :: polish null check
+2025-12-26T21:52:09.966Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
