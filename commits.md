@@ -15955,3 +15955,4 @@
 2025-12-26T01:23:51.849Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor null check
 2025-12-26T01:53:27.376Z Lovell Fuller <lovell@users.noreply.github.com> :: update edge case in auth
 2025-12-26T02:16:16.123Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up logging
+2025-12-26T03:10:35.145Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up edge case in auth
