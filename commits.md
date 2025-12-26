@@ -15958,3 +15958,4 @@
 2025-12-26T03:10:35.145Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up edge case in auth
 2025-12-26T04:18:11.388Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak build script
 2025-12-26T04:35:59.296Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix flaky test
+2025-12-26T04:58:01.877Z OpenBSD <openbsd@users.noreply.github.com> :: remove dependency versions
