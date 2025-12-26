@@ -6289,3 +6289,4 @@
 2025-12-26T04:50:45.698Z qiye <qiyeboy@users.noreply.github.com> :: bump config defaults
 2025-12-26T06:19:43.390Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak the parser
 2025-12-26T06:46:34.975Z markqvist <markqvist@users.noreply.github.com> :: tweak edge case in auth
+2025-12-26T07:04:00.546Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix the CI matrix
