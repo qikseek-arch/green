@@ -6302,3 +6302,4 @@
 2025-12-26T12:20:58.802Z ㅤxander <vampirist@users.noreply.github.com> :: bump dead code
 2025-12-26T12:31:14.479Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix config defaults
 2025-12-26T13:03:04.240Z vb <Vaibhavs10@users.noreply.github.com> :: refactor the parser
+2025-12-26T13:12:52.401Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up error handling
