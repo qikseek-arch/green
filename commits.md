@@ -6295,3 +6295,4 @@
 2025-12-26T09:35:45.665Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add dependency versions
 2025-12-26T10:33:05.753Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up null check
 2025-12-26T10:46:32.175Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: polish flaky test
+2025-12-26T10:48:29.705Z Getgems <getgems-io@users.noreply.github.com> :: polish dead code
