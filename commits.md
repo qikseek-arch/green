@@ -6278,3 +6278,4 @@
 2025-12-25T22:17:25.207Z Taiko Foundation <info@taiko.xyz> :: fix logging
 2025-12-25T23:24:58.116Z markqvist <markqvist@users.noreply.github.com> :: wire up flaky test
 2025-12-26T00:07:24.957Z OpenJS Foundation <info@openjsf.org> :: wire up edge case in auth
+2025-12-26T00:16:06.413Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish dead code
