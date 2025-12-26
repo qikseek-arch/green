@@ -6288,3 +6288,4 @@
 2025-12-26T03:55:33.159Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak dependency versions
 2025-12-26T04:50:45.698Z qiye <qiyeboy@users.noreply.github.com> :: bump config defaults
 2025-12-26T06:19:43.390Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak the parser
+2025-12-26T06:46:34.975Z markqvist <markqvist@users.noreply.github.com> :: tweak edge case in auth
