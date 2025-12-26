@@ -15965,3 +15965,4 @@
 2025-12-26T08:41:27.575Z Google Fonts <googlefonts@users.noreply.github.com> :: add config defaults
 2025-12-26T09:04:23.080Z Huang Haiguang <fengdu78@users.noreply.github.com> :: fix build script
 2025-12-26T09:31:28.135Z John Schulman <joschu@users.noreply.github.com> :: refactor readme typo
+2025-12-26T09:48:12.236Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor the parser
