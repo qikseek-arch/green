@@ -15967,3 +15967,4 @@
 2025-12-26T09:31:28.135Z John Schulman <joschu@users.noreply.github.com> :: refactor readme typo
 2025-12-26T09:48:12.236Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor the parser
 2025-12-26T10:53:43.288Z Snowflake Labs <opensource@snowflake.com> :: clean up error handling
+2025-12-26T11:23:51.972Z Alexandre Mutel <xoofx@users.noreply.github.com> :: add logging
