@@ -6281,3 +6281,4 @@
 2025-12-26T00:16:06.413Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish dead code
 2025-12-26T00:36:21.435Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add the CI matrix
 2025-12-26T00:51:37.019Z Manu Arora <manuarora700@users.noreply.github.com> :: bump flaky test
+2025-12-26T02:10:06.086Z First Contributions <firstcontributions@gmail.com> :: tweak edge case in auth
