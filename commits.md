@@ -15970,3 +15970,4 @@
 2025-12-26T11:23:51.972Z Alexandre Mutel <xoofx@users.noreply.github.com> :: add logging
 2025-12-26T11:29:34.614Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix retry logic
 2025-12-26T11:33:06.068Z OpenBMB <openbmb@gmail.com> :: clean up null check
+2025-12-26T14:32:23.103Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up retry logic
