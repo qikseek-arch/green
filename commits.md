@@ -6298,3 +6298,4 @@
 2025-12-26T10:48:29.705Z Getgems <getgems-io@users.noreply.github.com> :: polish dead code
 2025-12-26T10:55:12.583Z WebRTC <discuss-webrtc@googlegroups.com> :: add the parser
 2025-12-26T11:52:28.444Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak flaky test
+2025-12-26T12:20:51.618Z markqvist <markqvist@users.noreply.github.com> :: fix config defaults
