@@ -15979,3 +15979,4 @@
 2025-12-26T20:02:38.466Z cytopia <cytopia@users.noreply.github.com> :: remove config defaults
 2025-12-26T20:29:15.004Z rxi <rxi@users.noreply.github.com> :: tweak cache keys
 2025-12-26T21:20:26.387Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor edge case in auth
+2025-12-26T21:50:02.191Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add the parser
