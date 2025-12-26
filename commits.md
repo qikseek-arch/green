@@ -15969,3 +15969,4 @@
 2025-12-26T10:53:43.288Z Snowflake Labs <opensource@snowflake.com> :: clean up error handling
 2025-12-26T11:23:51.972Z Alexandre Mutel <xoofx@users.noreply.github.com> :: add logging
 2025-12-26T11:29:34.614Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix retry logic
+2025-12-26T11:33:06.068Z OpenBMB <openbmb@gmail.com> :: clean up null check
