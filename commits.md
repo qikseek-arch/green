@@ -15993,3 +15993,4 @@
 2025-12-27T10:59:10.076Z SurrealDB <surrealdb@users.noreply.github.com> :: update retry logic
 2025-12-27T11:02:02.387Z Dove Letter <skydoves2@gmail.com> :: polish retry logic
 2025-12-27T11:07:42.372Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up logging
+2025-12-27T12:57:45.370Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix readme typo
