@@ -254,3 +254,4 @@
 2025-12-26T15:55:30.138Z HashLips <HashLips@users.noreply.github.com> :: bump null check
 2025-12-27T05:08:49.309Z Avik Jain <Avik-Jain@users.noreply.github.com> :: refactor dead code
 2025-12-27T08:40:59.680Z Kyler Condran <KylerCondran@users.noreply.github.com> :: polish error handling
+2025-12-27T12:11:00.331Z CMLiussss <cmliu@users.noreply.github.com> :: fix error handling
