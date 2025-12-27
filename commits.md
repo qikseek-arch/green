@@ -15992,3 +15992,4 @@
 2025-12-27T10:53:31.496Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add dead code
 2025-12-27T10:59:10.076Z SurrealDB <surrealdb@users.noreply.github.com> :: update retry logic
 2025-12-27T11:02:02.387Z Dove Letter <skydoves2@gmail.com> :: polish retry logic
+2025-12-27T11:07:42.372Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up logging
