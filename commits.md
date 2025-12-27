@@ -6311,3 +6311,4 @@
 2025-12-26T23:15:32.353Z Getgems <getgems-io@users.noreply.github.com> :: update dependency versions
 2025-12-27T00:37:53.390Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
 2025-12-27T01:13:12.972Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the parser
+2025-12-27T01:30:41.873Z LILYGO <LilyGO@users.noreply.github.com> :: tweak edge case in auth
