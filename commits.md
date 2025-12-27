@@ -6325,3 +6325,4 @@
 2025-12-27T07:51:01.054Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish dependency versions
 2025-12-27T08:01:04.162Z Taiko Foundation <info@taiko.xyz> :: add readme typo
 2025-12-27T10:24:49.353Z ring04h <ring04h@users.noreply.github.com> :: wire up dead code
+2025-12-27T10:43:18.358Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update null check
