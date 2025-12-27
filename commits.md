@@ -6313,3 +6313,4 @@
 2025-12-27T01:13:12.972Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the parser
 2025-12-27T01:30:41.873Z LILYGO <LilyGO@users.noreply.github.com> :: tweak edge case in auth
 2025-12-27T01:33:10.231Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove null check
+2025-12-27T01:34:13.015Z Keith Smiley <keith@users.noreply.github.com> :: remove edge case in auth
