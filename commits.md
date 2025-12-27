@@ -6322,3 +6322,4 @@
 2025-12-27T05:34:28.770Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up readme typo
 2025-12-27T05:41:55.681Z AI4Bhārat <opensource@ai4bharat.org> :: tweak error handling
 2025-12-27T07:33:31.944Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the CI matrix
+2025-12-27T07:51:01.054Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish dependency versions
