@@ -6309,3 +6309,4 @@
 2025-12-26T21:00:54.341Z Getgems <getgems-io@users.noreply.github.com> :: polish null check
 2025-12-26T21:52:09.966Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
 2025-12-26T23:15:32.353Z Getgems <getgems-io@users.noreply.github.com> :: update dependency versions
+2025-12-27T00:37:53.390Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
