@@ -6336,3 +6336,4 @@
 2025-12-27T18:57:43.285Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish the CI matrix
 2025-12-27T21:19:54.201Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix dependency versions
 2025-12-27T21:27:26.422Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix cache keys
+2025-12-27T23:14:35.765Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up logging
