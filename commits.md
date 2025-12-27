@@ -15990,3 +15990,4 @@
 2025-12-27T08:18:30.335Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update flaky test
 2025-12-27T09:11:59.696Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove build script
 2025-12-27T10:53:31.496Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add dead code
+2025-12-27T10:59:10.076Z SurrealDB <surrealdb@users.noreply.github.com> :: update retry logic
