@@ -6332,3 +6332,4 @@
 2025-12-27T16:21:33.335Z Adam Bell <b3ll@users.noreply.github.com> :: add error handling
 2025-12-27T16:37:22.169Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
 2025-12-27T16:40:12.208Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up dependency versions
+2025-12-27T17:28:43.988Z Adam Bell <b3ll@users.noreply.github.com> :: wire up retry logic
