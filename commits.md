@@ -15997,3 +15997,4 @@
 2025-12-27T13:47:26.321Z 毒奶博主 <limbopro@users.noreply.github.com> :: polish dead code
 2025-12-27T16:10:21.559Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor config defaults
 2025-12-27T17:31:29.451Z CodeTips <CodeTips@users.noreply.github.com> :: clean up readme typo
+2025-12-27T21:05:01.266Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak the parser
