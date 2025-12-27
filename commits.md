@@ -6331,3 +6331,4 @@
 2025-12-27T13:15:46.978Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
 2025-12-27T16:21:33.335Z Adam Bell <b3ll@users.noreply.github.com> :: add error handling
 2025-12-27T16:37:22.169Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
+2025-12-27T16:40:12.208Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up dependency versions
