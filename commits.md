@@ -6329,3 +6329,4 @@
 2025-12-27T11:29:57.499Z qiye <qiyeboy@users.noreply.github.com> :: update edge case in auth
 2025-12-27T13:01:32.843Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump edge case in auth
 2025-12-27T13:15:46.978Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
+2025-12-27T16:21:33.335Z Adam Bell <b3ll@users.noreply.github.com> :: add error handling
