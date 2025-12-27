@@ -6319,3 +6319,4 @@
 2025-12-27T03:44:26.221Z David Fowler <davidfowl@users.noreply.github.com> :: bump flaky test
 2025-12-27T05:04:34.635Z Rei <chloerei@users.noreply.github.com> :: add error handling
 2025-12-27T05:04:44.691Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add the parser
+2025-12-27T05:34:28.770Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up readme typo
