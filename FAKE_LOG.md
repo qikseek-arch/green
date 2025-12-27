@@ -60,3 +60,4 @@
 2025-12-23T15:22:26.461Z Brendan Eich <brendan.eich@example.com> :: wire up logging
 2025-12-26T05:49:56.931Z Richard Feynman <richard.feynman@example.com> :: refactor the CI matrix
 2025-12-26T23:24:11.662Z Steve Wozniak <steve.wozniak@example.com> :: update config defaults
+2025-12-27T08:32:22.078Z Dan Abramov <dan.abramov@example.com> :: add the CI matrix
