@@ -16017,3 +16017,4 @@
 2025-12-28T16:14:02.358Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor build script
 2025-12-28T18:05:50.153Z Brian Holt <btholt@users.noreply.github.com> :: tweak readme typo
 2025-12-28T19:50:31.943Z Elliott Minns <elliottminns@users.noreply.github.com> :: add the parser
+2025-12-28T20:14:10.999Z Amnezia VPN <support@amnezia.org> :: polish dependency versions
