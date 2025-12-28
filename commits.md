@@ -258,3 +258,4 @@
 2025-12-27T20:35:13.333Z Connor <Connor9994@users.noreply.github.com> :: wire up readme typo
 2025-12-28T10:22:29.404Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak error handling
 2025-12-28T15:57:27.129Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: fix error handling
+2025-12-28T22:52:11.803Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up dependency versions
