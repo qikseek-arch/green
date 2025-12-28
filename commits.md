@@ -256,3 +256,4 @@
 2025-12-27T08:40:59.680Z Kyler Condran <KylerCondran@users.noreply.github.com> :: polish error handling
 2025-12-27T12:11:00.331Z CMLiussss <cmliu@users.noreply.github.com> :: fix error handling
 2025-12-27T20:35:13.333Z Connor <Connor9994@users.noreply.github.com> :: wire up readme typo
+2025-12-28T10:22:29.404Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak error handling
