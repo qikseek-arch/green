@@ -6355,3 +6355,4 @@
 2025-12-28T12:47:04.868Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update config defaults
 2025-12-28T13:13:50.178Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump edge case in auth
 2025-12-28T13:16:58.415Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up cache keys
+2025-12-28T14:03:31.412Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up build script
