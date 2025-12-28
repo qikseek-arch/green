@@ -6344,3 +6344,4 @@
 2025-12-28T04:57:34.843Z Claude <claude@users.noreply.github.com> :: update edge case in auth
 2025-12-28T07:12:56.716Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix the CI matrix
 2025-12-28T07:36:55.120Z Ryan Bigg <radar@users.noreply.github.com> :: update retry logic
+2025-12-28T07:54:05.153Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump the parser
