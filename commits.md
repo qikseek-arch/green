@@ -16005,3 +16005,4 @@
 2025-12-28T03:58:50.815Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update build script
 2025-12-28T05:14:50.579Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish edge case in auth
 2025-12-28T06:33:33.197Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up retry logic
+2025-12-28T07:00:36.219Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
