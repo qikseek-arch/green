@@ -6356,3 +6356,4 @@
 2025-12-28T13:13:50.178Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump edge case in auth
 2025-12-28T13:16:58.415Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up cache keys
 2025-12-28T14:03:31.412Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up build script
+2025-12-28T14:24:34.208Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up config defaults
