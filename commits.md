@@ -6339,3 +6339,4 @@
 2025-12-27T23:14:35.765Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up logging
 2025-12-28T01:12:35.415Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish flaky test
 2025-12-28T01:36:08.017Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up dependency versions
+2025-12-28T01:49:27.492Z BBC <bbc@users.noreply.github.com> :: refactor config defaults
