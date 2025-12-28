@@ -6357,3 +6357,4 @@
 2025-12-28T13:16:58.415Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up cache keys
 2025-12-28T14:03:31.412Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up build script
 2025-12-28T14:24:34.208Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up config defaults
+2025-12-28T14:46:50.343Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add readme typo
