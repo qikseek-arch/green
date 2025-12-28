@@ -16019,3 +16019,4 @@
 2025-12-28T19:50:31.943Z Elliott Minns <elliottminns@users.noreply.github.com> :: add the parser
 2025-12-28T20:14:10.999Z Amnezia VPN <support@amnezia.org> :: polish dependency versions
 2025-12-28T22:11:39.270Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish build script
+2025-12-28T23:23:55.565Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump retry logic
