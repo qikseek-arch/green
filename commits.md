@@ -16011,3 +16011,4 @@
 2025-12-28T08:36:58.761Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak cache keys
 2025-12-28T09:07:56.339Z OpenBMB <openbmb@gmail.com> :: refactor error handling
 2025-12-28T09:33:01.653Z Amnezia VPN <support@amnezia.org> :: wire up null check
+2025-12-28T09:52:55.722Z Collabnix <collabnix@users.noreply.github.com> :: clean up config defaults
