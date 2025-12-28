@@ -325,3 +325,4 @@
 2025-12-22T09:17:54.334Z Margaret Hamilton <margaret.hamilton@fake.invalid> :: wire up readme typo
 2025-12-25T21:06:24.348Z Bram Cohen <bram.cohen@fake.invalid> :: polish dead code | Co-authored-by: Grant Sanderson <3b1b@users.noreply.github.com>
 2025-12-27T22:51:03.903Z Ken Iverson <ken.iverson@fake.invalid> :: bump logging
+2025-12-28T20:33:08.290Z Anders Hejlsberg <anders.hejlsberg@fake.invalid> :: clean up cache keys
