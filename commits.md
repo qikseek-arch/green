@@ -6353,3 +6353,4 @@
 2025-12-28T12:38:47.857Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the parser
 2025-12-28T12:45:30.865Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up flaky test
 2025-12-28T12:47:04.868Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update config defaults
+2025-12-28T13:13:50.178Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump edge case in auth
