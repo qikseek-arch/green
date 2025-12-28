@@ -418,3 +418,4 @@
 2025-12-13T09:17:20.955Z Anders Hejlsberg <anders.hejlsberg@fake.invalid> :: polish readme typo
 2025-12-18T12:07:51.736Z ArcaneSocket <arcanesocket@fake.invalid> :: clean up dependency versions
 2025-12-23T20:33:26.960Z Hedy Lamarr <hedy.lamarr@fake.invalid> :: polish error handling
+2025-12-28T02:04:44.484Z atomicdaemon201 <atomicdaemon201@fake.invalid> :: wire up readme typo
