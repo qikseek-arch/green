@@ -6350,3 +6350,4 @@
 2025-12-28T09:18:15.217Z First Contributions <firstcontributions@gmail.com> :: fix retry logic
 2025-12-28T10:23:31.664Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the CI matrix
 2025-12-28T11:54:28.528Z Sachin Soni <techiesms@users.noreply.github.com> :: add dead code
+2025-12-28T12:38:47.857Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the parser
