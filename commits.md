@@ -259,3 +259,4 @@
 2025-12-28T10:22:29.404Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak error handling
 2025-12-28T15:57:27.129Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: fix error handling
 2025-12-28T22:52:11.803Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up dependency versions
+2025-12-29T06:20:33.379Z Hsiaoming Yang <lepture@users.noreply.github.com> :: clean up readme typo
