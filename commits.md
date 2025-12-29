@@ -6373,3 +6373,4 @@
 2025-12-29T07:15:53.498Z SouJunior <wouerner@soujunior.tech> :: fix cache keys
 2025-12-29T07:52:42.107Z Damian Dulisz <shentao@users.noreply.github.com> :: fix the CI matrix
 2025-12-29T08:35:58.040Z Keith Smiley <keith@users.noreply.github.com> :: polish retry logic
+2025-12-29T08:47:48.389Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor retry logic
