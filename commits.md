@@ -6372,3 +6372,4 @@
 2025-12-29T04:44:40.405Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix dead code
 2025-12-29T07:15:53.498Z SouJunior <wouerner@soujunior.tech> :: fix cache keys
 2025-12-29T07:52:42.107Z Damian Dulisz <shentao@users.noreply.github.com> :: fix the CI matrix
+2025-12-29T08:35:58.040Z Keith Smiley <keith@users.noreply.github.com> :: polish retry logic
