@@ -16029,3 +16029,4 @@
 2025-12-29T08:06:50.436Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak dependency versions
 2025-12-29T08:50:34.439Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor edge case in auth
 2025-12-29T09:34:07.255Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
+2025-12-29T11:32:09.949Z Lovell Fuller <lovell@users.noreply.github.com> :: fix error handling
