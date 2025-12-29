@@ -6388,3 +6388,4 @@
 2025-12-29T18:16:43.165Z Rei <chloerei@users.noreply.github.com> :: update cache keys
 2025-12-29T18:39:05.378Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up the parser
 2025-12-29T19:54:43.492Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add the CI matrix
+2025-12-29T20:04:31.649Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update the CI matrix
