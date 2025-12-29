@@ -6394,3 +6394,4 @@
 2025-12-29T21:37:04.627Z Adam Bell <b3ll@users.noreply.github.com> :: tweak build script
 2025-12-29T21:51:06.358Z AI4Bhārat <opensource@ai4bharat.org> :: bump flaky test
 2025-12-29T22:12:52.958Z ㅤxander <vampirist@users.noreply.github.com> :: refactor null check
+2025-12-29T22:48:05.942Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix edge case in auth
