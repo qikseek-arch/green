@@ -6364,3 +6364,4 @@
 2025-12-28T22:32:39.260Z Almas Baim <AlmasB@users.noreply.github.com> :: remove null check
 2025-12-28T22:38:23.597Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump the parser
 2025-12-28T23:23:33.717Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the parser
+2025-12-29T00:20:12.052Z ring04h <ring04h@users.noreply.github.com> :: tweak the parser
