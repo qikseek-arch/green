@@ -16031,3 +16031,4 @@
 2025-12-29T09:34:07.255Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
 2025-12-29T11:32:09.949Z Lovell Fuller <lovell@users.noreply.github.com> :: fix error handling
 2025-12-29T12:14:59.657Z Michael Jackson <mjackson@users.noreply.github.com> :: fix flaky test
+2025-12-29T12:25:24.106Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: polish readme typo
