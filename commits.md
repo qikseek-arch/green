@@ -16027,3 +16027,4 @@
 2025-12-29T04:49:21.321Z Michael Jackson <mjackson@users.noreply.github.com> :: fix retry logic
 2025-12-29T08:03:56.372Z LMSYS <lm-sys@users.noreply.github.com> :: clean up logging
 2025-12-29T08:06:50.436Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak dependency versions
+2025-12-29T08:50:34.439Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor edge case in auth
