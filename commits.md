@@ -16056,3 +16056,4 @@
 2025-12-30T14:50:28.985Z Brian Holt <btholt@users.noreply.github.com> :: bump cache keys
 2025-12-30T15:56:10.789Z Scott Chacon <schacon@users.noreply.github.com> :: fix flaky test
 2025-12-30T19:27:50.073Z cytopia <cytopia@users.noreply.github.com> :: refactor the parser
+2025-12-30T19:43:32.840Z OpenBSD <openbsd@users.noreply.github.com> :: wire up dead code
