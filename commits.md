@@ -16058,3 +16058,4 @@
 2025-12-30T19:27:50.073Z cytopia <cytopia@users.noreply.github.com> :: refactor the parser
 2025-12-30T19:43:32.840Z OpenBSD <openbsd@users.noreply.github.com> :: wire up dead code
 2025-12-30T21:42:18.196Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up readme typo
+2025-12-30T21:50:57.100Z winterbe <winterbe@users.noreply.github.com> :: fix error handling
