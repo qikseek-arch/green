@@ -6399,3 +6399,4 @@
 2025-12-29T23:35:45.643Z Keith Smiley <keith@users.noreply.github.com> :: remove error handling
 2025-12-30T02:18:00.725Z Roger Labbe <rlabbe@users.noreply.github.com> :: add error handling
 2025-12-30T02:26:15.842Z SouJunior <wouerner@soujunior.tech> :: bump the CI matrix
+2025-12-30T02:57:26.543Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
