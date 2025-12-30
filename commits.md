@@ -6409,3 +6409,4 @@
 2025-12-30T07:14:22.600Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak retry logic
 2025-12-30T07:15:35.228Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix logging
 2025-12-30T07:22:17.029Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor config defaults
+2025-12-30T07:29:25.555Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove the parser
