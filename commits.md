@@ -6415,3 +6415,4 @@
 2025-12-30T08:00:38.724Z David Clark <nullptrException100@users.noreply.github.com> :: add retry logic
 2025-12-30T08:15:19.295Z Claude <claude@users.noreply.github.com> :: clean up dead code
 2025-12-30T08:36:22.239Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: wire up error handling
+2025-12-30T08:51:35.366Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: polish dependency versions
