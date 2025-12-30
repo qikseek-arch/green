@@ -6429,3 +6429,4 @@
 2025-12-30T18:14:27.762Z heyli <lcxfs1991@users.noreply.github.com> :: refactor dependency versions
 2025-12-30T19:08:09.756Z CTFs <ctfs@users.noreply.github.com> :: update dependency versions
 2025-12-30T20:27:53.634Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: tweak logging
+2025-12-30T21:29:40.322Z Taiko Foundation <info@taiko.xyz> :: wire up the parser
