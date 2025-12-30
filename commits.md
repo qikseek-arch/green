@@ -6397,3 +6397,4 @@
 2025-12-29T22:48:05.942Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix edge case in auth
 2025-12-29T22:56:21.946Z Adam Bell <b3ll@users.noreply.github.com> :: tweak error handling
 2025-12-29T23:35:45.643Z Keith Smiley <keith@users.noreply.github.com> :: remove error handling
+2025-12-30T02:18:00.725Z Roger Labbe <rlabbe@users.noreply.github.com> :: add error handling
