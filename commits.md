@@ -6401,3 +6401,4 @@
 2025-12-30T02:26:15.842Z SouJunior <wouerner@soujunior.tech> :: bump the CI matrix
 2025-12-30T02:57:26.543Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
 2025-12-30T03:35:49.141Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump error handling
+2025-12-30T04:34:14.248Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update the parser
