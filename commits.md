@@ -6428,3 +6428,4 @@
 2025-12-30T17:39:04.057Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak config defaults
 2025-12-30T18:14:27.762Z heyli <lcxfs1991@users.noreply.github.com> :: refactor dependency versions
 2025-12-30T19:08:09.756Z CTFs <ctfs@users.noreply.github.com> :: update dependency versions
+2025-12-30T20:27:53.634Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: tweak logging
