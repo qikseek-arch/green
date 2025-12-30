@@ -6426,3 +6426,4 @@
 2025-12-30T16:40:00.841Z OpenJS Foundation <info@openjsf.org> :: fix the parser
 2025-12-30T16:48:47.767Z qiye <qiyeboy@users.noreply.github.com> :: fix dead code
 2025-12-30T17:39:04.057Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak config defaults
+2025-12-30T18:14:27.762Z heyli <lcxfs1991@users.noreply.github.com> :: refactor dependency versions
