@@ -260,3 +260,4 @@
 2025-12-28T15:57:27.129Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: fix error handling
 2025-12-28T22:52:11.803Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up dependency versions
 2025-12-29T06:20:33.379Z Hsiaoming Yang <lepture@users.noreply.github.com> :: clean up readme typo
+2025-12-30T04:51:51.211Z thecodercoder <thecodercoder@users.noreply.github.com> :: wire up edge case in auth
