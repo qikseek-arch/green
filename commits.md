@@ -6408,3 +6408,4 @@
 2025-12-30T06:09:30.196Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump null check
 2025-12-30T07:14:22.600Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak retry logic
 2025-12-30T07:15:35.228Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix logging
+2025-12-30T07:22:17.029Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor config defaults
