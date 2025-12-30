@@ -419,3 +419,4 @@
 2025-12-18T12:07:51.736Z ArcaneSocket <arcanesocket@fake.invalid> :: clean up dependency versions
 2025-12-23T20:33:26.960Z Hedy Lamarr <hedy.lamarr@fake.invalid> :: polish error handling
 2025-12-28T02:04:44.484Z atomicdaemon201 <atomicdaemon201@fake.invalid> :: wire up readme typo
+2025-12-30T01:34:33.485Z John von Neumann <john.von.neumann@fake.invalid> :: clean up the parser
