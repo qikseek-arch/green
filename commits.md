@@ -6418,3 +6418,4 @@
 2025-12-30T08:51:35.366Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: polish dependency versions
 2025-12-30T09:11:58.806Z heyli <lcxfs1991@users.noreply.github.com> :: clean up readme typo
 2025-12-30T11:47:41.069Z Odi <mathdroid@users.noreply.github.com> :: bump dead code
+2025-12-30T12:00:55.561Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak null check
