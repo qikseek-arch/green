@@ -6425,3 +6425,4 @@
 2025-12-30T15:29:25.309Z Andreas Kling <awesomekling@users.noreply.github.com> :: add the CI matrix
 2025-12-30T16:40:00.841Z OpenJS Foundation <info@openjsf.org> :: fix the parser
 2025-12-30T16:48:47.767Z qiye <qiyeboy@users.noreply.github.com> :: fix dead code
+2025-12-30T17:39:04.057Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak config defaults
