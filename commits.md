@@ -6407,3 +6407,4 @@
 2025-12-30T05:58:49.543Z Qwen <qianwen_opensource@alibabacloud.com> :: update dead code
 2025-12-30T06:09:30.196Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump null check
 2025-12-30T07:14:22.600Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak retry logic
+2025-12-30T07:15:35.228Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix logging
