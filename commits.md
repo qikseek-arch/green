@@ -16045,3 +16045,4 @@
 2025-12-30T05:17:06.888Z OpenBSD <openbsd@users.noreply.github.com> :: wire up dead code
 2025-12-30T05:49:40.971Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: clean up flaky test
 2025-12-30T06:08:32.526Z Dove Letter <skydoves2@gmail.com> :: bump retry logic
+2025-12-30T06:32:02.888Z Tom Dale <tomdale@users.noreply.github.com> :: bump edge case in auth
