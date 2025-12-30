@@ -6430,3 +6430,4 @@
 2025-12-30T19:08:09.756Z CTFs <ctfs@users.noreply.github.com> :: update dependency versions
 2025-12-30T20:27:53.634Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: tweak logging
 2025-12-30T21:29:40.322Z Taiko Foundation <info@taiko.xyz> :: wire up the parser
+2025-12-30T21:36:43.938Z Adam Łucek <ALucek@users.noreply.github.com> :: polish edge case in auth
