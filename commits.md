@@ -6431,3 +6431,4 @@
 2025-12-30T20:27:53.634Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: tweak logging
 2025-12-30T21:29:40.322Z Taiko Foundation <info@taiko.xyz> :: wire up the parser
 2025-12-30T21:36:43.938Z Adam Łucek <ALucek@users.noreply.github.com> :: polish edge case in auth
+2025-12-30T22:44:21.021Z ring04h <ring04h@users.noreply.github.com> :: fix dependency versions
