@@ -6454,3 +6454,4 @@
 2025-12-31T12:09:23.455Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
 2025-12-31T12:31:37.603Z Odi <mathdroid@users.noreply.github.com> :: bump error handling
 2025-12-31T12:32:58.401Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up edge case in auth
+2025-12-31T13:51:13.501Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak the CI matrix
