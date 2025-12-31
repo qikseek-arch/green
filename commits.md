@@ -16069,3 +16069,4 @@
 2025-12-31T07:12:21.454Z Andreas Kling <awesomekling@users.noreply.github.com> :: add readme typo
 2025-12-31T08:16:42.180Z Michael Jackson <mjackson@users.noreply.github.com> :: polish null check
 2025-12-31T11:04:44.393Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add dependency versions
+2025-12-31T13:41:24.719Z cytopia <cytopia@users.noreply.github.com> :: polish error handling
