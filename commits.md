@@ -16066,3 +16066,4 @@
 2025-12-31T02:34:41.912Z Sergey P. <ThirteenAG@users.noreply.github.com> :: refactor edge case in auth
 2025-12-31T05:41:16.053Z Amnezia VPN <support@amnezia.org> :: update build script
 2025-12-31T05:59:13.816Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove dead code
+2025-12-31T07:12:21.454Z Andreas Kling <awesomekling@users.noreply.github.com> :: add readme typo
