@@ -6451,3 +6451,4 @@
 2025-12-31T09:39:29.554Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up edge case in auth
 2025-12-31T09:59:53.440Z SouJunior <wouerner@soujunior.tech> :: polish error handling
 2025-12-31T11:22:43.800Z Fady Farag <iidmsa@users.noreply.github.com> :: clean up flaky test
+2025-12-31T12:09:23.455Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
