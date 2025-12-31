@@ -6448,3 +6448,4 @@
 2025-12-31T08:09:46.790Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add null check
 2025-12-31T08:33:53.408Z Arduino <arduino@users.noreply.github.com> :: bump retry logic
 2025-12-31T09:38:12.443Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add config defaults
+2025-12-31T09:39:29.554Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up edge case in auth
