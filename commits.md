@@ -6452,3 +6452,4 @@
 2025-12-31T09:59:53.440Z SouJunior <wouerner@soujunior.tech> :: polish error handling
 2025-12-31T11:22:43.800Z Fady Farag <iidmsa@users.noreply.github.com> :: clean up flaky test
 2025-12-31T12:09:23.455Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
+2025-12-31T12:31:37.603Z Odi <mathdroid@users.noreply.github.com> :: bump error handling
