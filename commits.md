@@ -6449,3 +6449,4 @@
 2025-12-31T08:33:53.408Z Arduino <arduino@users.noreply.github.com> :: bump retry logic
 2025-12-31T09:38:12.443Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add config defaults
 2025-12-31T09:39:29.554Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up edge case in auth
+2025-12-31T09:59:53.440Z SouJunior <wouerner@soujunior.tech> :: polish error handling
