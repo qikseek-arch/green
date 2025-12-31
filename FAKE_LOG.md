@@ -523,3 +523,4 @@
 2025-12-17T07:04:55.206Z Jeff Delaney <codediodeio@users.noreply.github.com> :: refactor config defaults
 2025-12-18T03:04:51.949Z Wes Bos <wesbos@users.noreply.github.com> :: fix logging
 2025-12-24T05:19:34.538Z GPU.net <suraj@brahmgan.com> :: polish dependency versions
+2025-12-31T09:18:14.908Z Siraj Raval <llSourcell@users.noreply.github.com> :: clean up logging
