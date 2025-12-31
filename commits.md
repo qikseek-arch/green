@@ -263,3 +263,4 @@
 2025-12-30T04:51:51.211Z thecodercoder <thecodercoder@users.noreply.github.com> :: wire up edge case in auth
 2025-12-30T22:49:00.337Z David Robinson <dgrtwo@users.noreply.github.com> :: wire up error handling
 2025-12-31T01:27:55.033Z Shaian <zshaian@users.noreply.github.com> :: polish flaky test
+2025-12-31T10:16:09.558Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: tweak error handling
