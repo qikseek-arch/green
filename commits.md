@@ -6435,3 +6435,4 @@
 2025-12-30T23:54:39.968Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update the parser
 2025-12-31T00:19:38.233Z vb <Vaibhavs10@users.noreply.github.com> :: clean up null check
 2025-12-31T00:36:15.957Z Shubs <infosec-au@users.noreply.github.com> :: update null check
+2025-12-31T01:01:16.922Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix cache keys
