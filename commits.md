@@ -16068,3 +16068,4 @@
 2025-12-31T05:59:13.816Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove dead code
 2025-12-31T07:12:21.454Z Andreas Kling <awesomekling@users.noreply.github.com> :: add readme typo
 2025-12-31T08:16:42.180Z Michael Jackson <mjackson@users.noreply.github.com> :: polish null check
+2025-12-31T11:04:44.393Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add dependency versions
