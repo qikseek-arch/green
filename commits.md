@@ -16081,3 +16081,4 @@
 2026-01-01T01:20:28.906Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak readme typo
 2026-01-01T01:34:06.062Z Collabnix <collabnix@users.noreply.github.com> :: wire up cache keys
 2026-01-01T01:51:13.451Z Prometheus <prometheus@users.noreply.github.com> :: polish dead code
+2026-01-01T03:23:06.963Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up edge case in auth
