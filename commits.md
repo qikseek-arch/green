@@ -265,3 +265,4 @@
 2025-12-31T01:27:55.033Z Shaian <zshaian@users.noreply.github.com> :: polish flaky test
 2025-12-31T10:16:09.558Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: tweak error handling
 2026-01-01T13:04:01.978Z 左程云 <algorithmzuo@users.noreply.github.com> :: add dependency versions
+2026-01-01T15:12:53.851Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: remove null check
