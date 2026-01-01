@@ -6492,3 +6492,4 @@
 2026-01-01T19:13:44.139Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor flaky test
 2026-01-01T20:16:31.550Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump readme typo
 2026-01-01T22:24:11.656Z Sachin Soni <techiesms@users.noreply.github.com> :: bump retry logic
+2026-01-01T23:01:55.486Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add dependency versions
