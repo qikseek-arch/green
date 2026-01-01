@@ -264,3 +264,4 @@
 2025-12-30T22:49:00.337Z David Robinson <dgrtwo@users.noreply.github.com> :: wire up error handling
 2025-12-31T01:27:55.033Z Shaian <zshaian@users.noreply.github.com> :: polish flaky test
 2025-12-31T10:16:09.558Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: tweak error handling
+2026-01-01T13:04:01.978Z 左程云 <algorithmzuo@users.noreply.github.com> :: add dependency versions
