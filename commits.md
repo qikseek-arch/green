@@ -16092,3 +16092,4 @@
 2026-01-01T10:06:08.631Z Yiming Cui <ymcui@users.noreply.github.com> :: remove logging
 2026-01-01T11:12:54.080Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix logging
 2026-01-01T12:02:52.641Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up null check
+2026-01-01T12:43:40.980Z Damian Gryski <dgryski@users.noreply.github.com> :: remove the CI matrix
