@@ -6484,3 +6484,4 @@
 2026-01-01T14:23:51.176Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish edge case in auth
 2026-01-01T14:40:03.595Z owenzhang <owenzhang@users.noreply.github.com> :: clean up logging
 2026-01-01T16:07:25.730Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: refactor null check
+2026-01-01T16:20:43.432Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor build script
