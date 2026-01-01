@@ -16102,3 +16102,4 @@
 2026-01-01T18:44:37.108Z Morvan <MorvanZhou@users.noreply.github.com> :: update dependency versions
 2026-01-01T19:02:38.563Z winterbe <winterbe@users.noreply.github.com> :: tweak dependency versions
 2026-01-01T19:23:59.696Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak build script
+2026-01-01T19:32:03.372Z DefTruth <DefTruth@users.noreply.github.com> :: fix dependency versions
