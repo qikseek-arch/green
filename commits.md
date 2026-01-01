@@ -6476,3 +6476,4 @@
 2026-01-01T07:06:38.589Z qiye <qiyeboy@users.noreply.github.com> :: tweak logging
 2026-01-01T07:18:41.244Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update the CI matrix
 2026-01-01T07:53:06.889Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor dead code
+2026-01-01T08:21:09.003Z ㅤxander <vampirist@users.noreply.github.com> :: wire up the parser
