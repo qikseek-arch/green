@@ -6472,3 +6472,4 @@
 2026-01-01T05:16:37.108Z owenzhang <owenzhang@users.noreply.github.com> :: refactor flaky test
 2026-01-01T05:42:06.581Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak config defaults
 2026-01-01T06:34:47.448Z David Fowler <davidfowl@users.noreply.github.com> :: wire up the CI matrix
+2026-01-01T06:46:13.982Z Odi <mathdroid@users.noreply.github.com> :: refactor readme typo
