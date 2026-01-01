@@ -16084,3 +16084,4 @@
 2026-01-01T03:23:06.963Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up edge case in auth
 2026-01-01T03:42:24.269Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add readme typo
 2026-01-01T03:55:04.340Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update dependency versions
+2026-01-01T04:11:50.207Z Scott Chacon <schacon@users.noreply.github.com> :: refactor edge case in auth
