@@ -6489,3 +6489,4 @@
 2026-01-01T18:22:57.930Z markqvist <markqvist@users.noreply.github.com> :: tweak retry logic
 2026-01-01T18:32:16.545Z Arduino <arduino@users.noreply.github.com> :: refactor cache keys
 2026-01-01T18:40:26.545Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish config defaults
+2026-01-01T19:13:44.139Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor flaky test
