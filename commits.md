@@ -16104,3 +16104,4 @@
 2026-01-01T19:23:59.696Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak build script
 2026-01-01T19:32:03.372Z DefTruth <DefTruth@users.noreply.github.com> :: fix dependency versions
 2026-01-01T20:06:14.514Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix logging
+2026-01-01T21:03:25.435Z rxi <rxi@users.noreply.github.com> :: update the parser
