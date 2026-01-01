@@ -6486,3 +6486,4 @@
 2026-01-01T16:07:25.730Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: refactor null check
 2026-01-01T16:20:43.432Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor build script
 2026-01-01T18:05:07.732Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up edge case in auth
+2026-01-01T18:22:57.930Z markqvist <markqvist@users.noreply.github.com> :: tweak retry logic
