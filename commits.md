@@ -6480,3 +6480,4 @@
 2026-01-01T09:29:11.318Z BBC <bbc@users.noreply.github.com> :: remove the parser
 2026-01-01T12:46:46.686Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish logging
 2026-01-01T13:27:38.107Z Adam Bell <b3ll@users.noreply.github.com> :: refactor error handling
+2026-01-01T14:01:55.856Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove the CI matrix
