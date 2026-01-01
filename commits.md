@@ -6481,3 +6481,4 @@
 2026-01-01T12:46:46.686Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish logging
 2026-01-01T13:27:38.107Z Adam Bell <b3ll@users.noreply.github.com> :: refactor error handling
 2026-01-01T14:01:55.856Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove the CI matrix
+2026-01-01T14:23:51.176Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish edge case in auth
