@@ -16106,3 +16106,4 @@
 2026-01-01T20:06:14.514Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix logging
 2026-01-01T21:03:25.435Z rxi <rxi@users.noreply.github.com> :: update the parser
 2026-01-01T21:10:33.023Z yakeIore <yakeIore@users.noreply.github.com> :: wire up the CI matrix
+2026-01-01T21:32:57.554Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak build script
