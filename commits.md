@@ -16094,3 +16094,4 @@
 2026-01-01T12:02:52.641Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up null check
 2026-01-01T12:43:40.980Z Damian Gryski <dgryski@users.noreply.github.com> :: remove the CI matrix
 2026-01-01T12:56:47.565Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix the CI matrix
+2026-01-01T14:26:58.307Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump build script
