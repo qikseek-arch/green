@@ -6488,3 +6488,4 @@
 2026-01-01T18:05:07.732Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up edge case in auth
 2026-01-01T18:22:57.930Z markqvist <markqvist@users.noreply.github.com> :: tweak retry logic
 2026-01-01T18:32:16.545Z Arduino <arduino@users.noreply.github.com> :: refactor cache keys
+2026-01-01T18:40:26.545Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish config defaults
