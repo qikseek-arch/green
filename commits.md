@@ -16080,3 +16080,4 @@
 2025-12-31T21:10:27.651Z LocalSend <localsend@users.noreply.github.com> :: fix flaky test
 2026-01-01T01:20:28.906Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak readme typo
 2026-01-01T01:34:06.062Z Collabnix <collabnix@users.noreply.github.com> :: wire up cache keys
+2026-01-01T01:51:13.451Z Prometheus <prometheus@users.noreply.github.com> :: polish dead code
