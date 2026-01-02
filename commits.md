@@ -6512,3 +6512,4 @@
 2026-01-02T15:37:54.527Z WebRTC <discuss-webrtc@googlegroups.com> :: update logging
 2026-01-02T15:55:20.506Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak retry logic
 2026-01-02T17:31:07.774Z Almas Baim <AlmasB@users.noreply.github.com> :: add readme typo
+2026-01-02T18:10:20.073Z Adam Bell <b3ll@users.noreply.github.com> :: update logging
