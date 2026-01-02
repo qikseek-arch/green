@@ -16128,3 +16128,4 @@
 2026-01-02T11:36:29.593Z OpenBMB <openbmb@gmail.com> :: clean up cache keys
 2026-01-02T12:58:25.340Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up readme typo
 2026-01-02T13:16:42.144Z cytopia <cytopia@users.noreply.github.com> :: fix readme typo
+2026-01-02T13:53:22.351Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak edge case in auth
