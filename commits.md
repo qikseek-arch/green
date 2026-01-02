@@ -269,3 +269,4 @@
 2026-01-01T23:51:17.315Z Matt Pocock <mattpocock@users.noreply.github.com> :: bump dependency versions
 2026-01-02T01:28:24.174Z MASSGRAVE <massgravel@users.noreply.github.com> :: tweak dependency versions
 2026-01-02T11:23:03.484Z KDE GitHub Mirror <kde-community@kde.org> :: update config defaults
+2026-01-02T12:26:27.208Z Kyler Condran <KylerCondran@users.noreply.github.com> :: remove cache keys
