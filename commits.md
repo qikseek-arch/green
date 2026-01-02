@@ -16112,3 +16112,4 @@
 2026-01-01T22:22:36.565Z Mr L <Soldy@users.noreply.github.com> :: tweak dependency versions
 2026-01-01T22:45:10.841Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove the parser
 2026-01-02T00:13:46.751Z Chetan Jogi <voidChetan@users.noreply.github.com> :: update logging
+2026-01-02T00:58:36.094Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove dependency versions
