@@ -16132,3 +16132,4 @@
 2026-01-02T14:56:10.303Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix readme typo
 2026-01-02T15:08:45.965Z Daniel Reis <danielhe4rt@users.noreply.github.com> :: wire up edge case in auth
 2026-01-02T16:06:53.050Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix dependency versions
+2026-01-02T16:48:16.411Z cytopia <cytopia@users.noreply.github.com> :: remove null check
