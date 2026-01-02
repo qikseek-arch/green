@@ -268,3 +268,4 @@
 2026-01-01T15:12:53.851Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: remove null check
 2026-01-01T23:51:17.315Z Matt Pocock <mattpocock@users.noreply.github.com> :: bump dependency versions
 2026-01-02T01:28:24.174Z MASSGRAVE <massgravel@users.noreply.github.com> :: tweak dependency versions
+2026-01-02T11:23:03.484Z KDE GitHub Mirror <kde-community@kde.org> :: update config defaults
