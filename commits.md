@@ -6517,3 +6517,4 @@
 2026-01-02T19:42:12.979Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add retry logic
 2026-01-02T21:26:07.963Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up dead code
 2026-01-02T21:42:34.160Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up dependency versions
+2026-01-02T23:37:56.382Z Adam Bell <b3ll@users.noreply.github.com> :: tweak the parser
