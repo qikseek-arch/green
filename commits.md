@@ -6502,3 +6502,4 @@
 2026-01-02T03:00:57.380Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish logging
 2026-01-02T04:38:43.362Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up cache keys
 2026-01-02T08:01:31.549Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak edge case in auth
+2026-01-02T09:34:48.406Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor the parser
