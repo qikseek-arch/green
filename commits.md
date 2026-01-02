@@ -6499,3 +6499,4 @@
 2026-01-02T00:54:09.321Z owenzhang <owenzhang@users.noreply.github.com> :: clean up retry logic
 2026-01-02T01:01:32.734Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor the CI matrix
 2026-01-02T02:46:10.037Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor edge case in auth
+2026-01-02T03:00:57.380Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish logging
