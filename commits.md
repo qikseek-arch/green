@@ -6504,3 +6504,4 @@
 2026-01-02T08:01:31.549Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak edge case in auth
 2026-01-02T09:34:48.406Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor the parser
 2026-01-02T09:47:11.130Z David Fowler <davidfowl@users.noreply.github.com> :: update config defaults
+2026-01-02T09:47:57.805Z Claude <claude@users.noreply.github.com> :: fix build script
