@@ -16123,3 +16123,4 @@
 2026-01-02T08:03:16.261Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up retry logic
 2026-01-02T10:29:55.026Z Asif Taj <axiftaj@users.noreply.github.com> :: polish readme typo
 2026-01-02T10:31:23.987Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump dead code
+2026-01-02T10:38:51.294Z in28minutes <in28minutes@users.noreply.github.com> :: remove edge case in auth
