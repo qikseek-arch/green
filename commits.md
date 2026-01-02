@@ -16127,3 +16127,4 @@
 2026-01-02T10:39:27.752Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix edge case in auth
 2026-01-02T11:36:29.593Z OpenBMB <openbmb@gmail.com> :: clean up cache keys
 2026-01-02T12:58:25.340Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up readme typo
+2026-01-02T13:16:42.144Z cytopia <cytopia@users.noreply.github.com> :: fix readme typo
