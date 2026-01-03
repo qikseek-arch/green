@@ -273,3 +273,4 @@
 2026-01-03T03:48:07.991Z Avik Jain <Avik-Jain@users.noreply.github.com> :: clean up the CI matrix
 2026-01-03T06:15:40.986Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: fix readme typo
 2026-01-03T09:12:43.439Z Julius Marminge <juliusmarminge@users.noreply.github.com> :: wire up edge case in auth
+2026-01-03T12:33:23.263Z 削微寒 <521xueweihan@users.noreply.github.com> :: wire up dependency versions
