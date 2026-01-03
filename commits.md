@@ -6530,3 +6530,4 @@
 2026-01-03T07:47:55.029Z Claude <claude@users.noreply.github.com> :: tweak dependency versions
 2026-01-03T07:50:37.699Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix readme typo
 2026-01-03T08:00:22.562Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove dead code
+2026-01-03T08:01:43.781Z Ryan Bigg <radar@users.noreply.github.com> :: bump error handling
