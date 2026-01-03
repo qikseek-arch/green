@@ -6538,3 +6538,4 @@
 2026-01-03T13:55:58.721Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish dead code
 2026-01-03T14:20:02.363Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump cache keys
 2026-01-03T14:22:40.382Z OpenJS Foundation <info@openjsf.org> :: remove logging
+2026-01-03T14:36:07.295Z SouJunior <wouerner@soujunior.tech> :: tweak build script
