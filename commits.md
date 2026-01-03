@@ -16141,3 +16141,4 @@
 2026-01-03T01:15:23.739Z OpenBMB <openbmb@gmail.com> :: remove retry logic
 2026-01-03T03:21:47.367Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak edge case in auth
 2026-01-03T05:45:07.972Z Tom Dale <tomdale@users.noreply.github.com> :: wire up the parser
+2026-01-03T06:08:05.313Z CodeTips <CodeTips@users.noreply.github.com> :: clean up dependency versions
