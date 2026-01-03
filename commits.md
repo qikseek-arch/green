@@ -16144,3 +16144,4 @@
 2026-01-03T06:08:05.313Z CodeTips <CodeTips@users.noreply.github.com> :: clean up dependency versions
 2026-01-03T07:00:42.834Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: refactor retry logic
 2026-01-03T07:01:27.714Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up dead code
+2026-01-03T07:58:30.069Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up cache keys
