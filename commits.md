@@ -16159,3 +16159,4 @@
 2026-01-03T14:50:53.838Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up dead code
 2026-01-03T16:14:50.947Z Dove Letter <skydoves2@gmail.com> :: update readme typo
 2026-01-03T16:51:32.867Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor logging
+2026-01-03T16:56:52.888Z Zed Industries <hi@zed.dev> :: fix flaky test
