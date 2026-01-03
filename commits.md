@@ -16136,3 +16136,4 @@
 2026-01-02T17:25:52.035Z 1 <insoxin@users.noreply.github.com> :: update readme typo
 2026-01-02T21:26:53.619Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump cache keys
 2026-01-02T23:52:07.731Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up config defaults
+2026-01-03T00:07:57.280Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor null check
