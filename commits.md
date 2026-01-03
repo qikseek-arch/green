@@ -6521,3 +6521,4 @@
 2026-01-02T23:59:23.551Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish the parser
 2026-01-03T00:07:02.257Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove the CI matrix
 2026-01-03T00:28:30.625Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up flaky test
+2026-01-03T03:06:58.520Z Shubs <infosec-au@users.noreply.github.com> :: clean up the parser
