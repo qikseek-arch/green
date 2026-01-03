@@ -270,3 +270,4 @@
 2026-01-02T01:28:24.174Z MASSGRAVE <massgravel@users.noreply.github.com> :: tweak dependency versions
 2026-01-02T11:23:03.484Z KDE GitHub Mirror <kde-community@kde.org> :: update config defaults
 2026-01-02T12:26:27.208Z Kyler Condran <KylerCondran@users.noreply.github.com> :: remove cache keys
+2026-01-03T03:48:07.991Z Avik Jain <Avik-Jain@users.noreply.github.com> :: clean up the CI matrix
