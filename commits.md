@@ -16143,3 +16143,4 @@
 2026-01-03T05:45:07.972Z Tom Dale <tomdale@users.noreply.github.com> :: wire up the parser
 2026-01-03T06:08:05.313Z CodeTips <CodeTips@users.noreply.github.com> :: clean up dependency versions
 2026-01-03T07:00:42.834Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: refactor retry logic
+2026-01-03T07:01:27.714Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up dead code
