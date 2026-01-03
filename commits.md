@@ -6541,3 +6541,4 @@
 2026-01-03T14:36:07.295Z SouJunior <wouerner@soujunior.tech> :: tweak build script
 2026-01-03T15:32:14.492Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update readme typo
 2026-01-03T16:17:42.517Z LILYGO <LilyGO@users.noreply.github.com> :: add error handling
+2026-01-03T16:59:52.137Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up logging
