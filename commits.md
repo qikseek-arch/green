@@ -16152,3 +16152,4 @@
 2026-01-03T09:52:00.104Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor build script
 2026-01-03T10:33:47.095Z LocalSend <localsend@users.noreply.github.com> :: tweak flaky test
 2026-01-03T11:34:16.121Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up dead code
+2026-01-03T11:42:46.879Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak dependency versions
