@@ -6533,3 +6533,4 @@
 2026-01-03T08:01:43.781Z Ryan Bigg <radar@users.noreply.github.com> :: bump error handling
 2026-01-03T09:37:43.151Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor config defaults
 2026-01-03T10:11:34.585Z Odi <mathdroid@users.noreply.github.com> :: update retry logic
+2026-01-03T10:13:18.240Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
