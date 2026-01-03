@@ -6524,3 +6524,4 @@
 2026-01-03T03:06:58.520Z Shubs <infosec-au@users.noreply.github.com> :: clean up the parser
 2026-01-03T04:33:52.567Z Odi <mathdroid@users.noreply.github.com> :: polish config defaults
 2026-01-03T04:56:44.555Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update dead code
+2026-01-03T06:40:10.799Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor null check
