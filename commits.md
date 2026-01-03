@@ -16139,3 +16139,4 @@
 2026-01-03T00:07:57.280Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor null check
 2026-01-03T00:41:31.668Z Scott Chacon <schacon@users.noreply.github.com> :: bump the CI matrix
 2026-01-03T01:15:23.739Z OpenBMB <openbmb@gmail.com> :: remove retry logic
+2026-01-03T03:21:47.367Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak edge case in auth
