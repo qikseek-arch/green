@@ -6535,3 +6535,4 @@
 2026-01-03T10:11:34.585Z Odi <mathdroid@users.noreply.github.com> :: update retry logic
 2026-01-03T10:13:18.240Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
 2026-01-03T13:23:44.549Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update retry logic
+2026-01-03T13:55:58.721Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish dead code
