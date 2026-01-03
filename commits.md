@@ -16148,3 +16148,4 @@
 2026-01-03T08:37:40.827Z Amnezia VPN <support@amnezia.org> :: bump dependency versions
 2026-01-03T08:59:33.064Z Epic Dev Space <team@epicweb.dev> :: polish the parser
 2026-01-03T09:24:15.819Z winterbe <winterbe@users.noreply.github.com> :: wire up the CI matrix
+2026-01-03T09:29:50.172Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add error handling
