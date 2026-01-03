@@ -6543,3 +6543,4 @@
 2026-01-03T16:17:42.517Z LILYGO <LilyGO@users.noreply.github.com> :: add error handling
 2026-01-03T16:59:52.137Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up logging
 2026-01-03T17:40:05.112Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add edge case in auth
+2026-01-03T18:15:12.802Z CTFs <ctfs@users.noreply.github.com> :: add error handling
