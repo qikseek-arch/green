@@ -6577,3 +6577,4 @@
 2026-01-04T13:38:58.288Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update dependency versions
 2026-01-04T13:44:40.620Z Adam Łucek <ALucek@users.noreply.github.com> :: fix config defaults
 2026-01-04T14:00:53.699Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor the CI matrix
+2026-01-04T14:56:32.010Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump dependency versions
