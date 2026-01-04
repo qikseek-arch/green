@@ -6571,3 +6571,4 @@
 2026-01-04T09:18:50.804Z AI4Bhārat <opensource@ai4bharat.org> :: fix error handling
 2026-01-04T10:07:43.131Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix readme typo
 2026-01-04T10:51:26.534Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish error handling
+2026-01-04T11:53:18.278Z heyli <lcxfs1991@users.noreply.github.com> :: update the CI matrix
