@@ -6575,3 +6575,4 @@
 2026-01-04T12:11:33.301Z Damian Dulisz <shentao@users.noreply.github.com> :: polish dead code
 2026-01-04T13:02:50.613Z Ben Hamner <benhamner@users.noreply.github.com> :: clean up config defaults
 2026-01-04T13:38:58.288Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update dependency versions
+2026-01-04T13:44:40.620Z Adam Łucek <ALucek@users.noreply.github.com> :: fix config defaults
