@@ -6586,3 +6586,4 @@
 2026-01-04T20:58:25.702Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up retry logic
 2026-01-04T21:58:16.143Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up logging
 2026-01-04T23:26:29.330Z Roger Labbe <rlabbe@users.noreply.github.com> :: add null check
+2026-01-04T23:38:26.736Z Claude <claude@users.noreply.github.com> :: add config defaults
