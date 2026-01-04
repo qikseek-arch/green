@@ -6572,3 +6572,4 @@
 2026-01-04T10:07:43.131Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix readme typo
 2026-01-04T10:51:26.534Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish error handling
 2026-01-04T11:53:18.278Z heyli <lcxfs1991@users.noreply.github.com> :: update the CI matrix
+2026-01-04T12:11:33.301Z Damian Dulisz <shentao@users.noreply.github.com> :: polish dead code
