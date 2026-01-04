@@ -6576,3 +6576,4 @@
 2026-01-04T13:02:50.613Z Ben Hamner <benhamner@users.noreply.github.com> :: clean up config defaults
 2026-01-04T13:38:58.288Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update dependency versions
 2026-01-04T13:44:40.620Z Adam Łucek <ALucek@users.noreply.github.com> :: fix config defaults
+2026-01-04T14:00:53.699Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor the CI matrix
