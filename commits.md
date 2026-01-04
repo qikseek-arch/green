@@ -6582,3 +6582,4 @@
 2026-01-04T16:19:48.556Z markqvist <markqvist@users.noreply.github.com> :: remove edge case in auth
 2026-01-04T18:19:11.297Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor dead code
 2026-01-04T18:57:00.422Z AI4Bhārat <opensource@ai4bharat.org> :: tweak readme typo
+2026-01-04T18:59:23.394Z md-5 <md-5@users.noreply.github.com> :: polish readme typo
