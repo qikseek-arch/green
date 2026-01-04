@@ -16168,3 +16168,4 @@
 2026-01-03T22:06:52.896Z OpenBMB <openbmb@gmail.com> :: remove config defaults
 2026-01-04T03:15:00.093Z Lipis <lipis@users.noreply.github.com> :: tweak dependency versions
 2026-01-04T04:01:49.392Z Jordan Harband <ljharb@users.noreply.github.com> :: remove logging
+2026-01-04T07:53:46.538Z LMSYS <lm-sys@users.noreply.github.com> :: wire up dependency versions
