@@ -6552,3 +6552,4 @@
 2026-01-04T00:05:03.607Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up build script
 2026-01-04T00:40:46.904Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: add flaky test
 2026-01-04T01:45:58.260Z Selenium <SeleniumHQ@users.noreply.github.com> :: update error handling
+2026-01-04T02:35:20.481Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish readme typo
