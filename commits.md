@@ -6584,3 +6584,4 @@
 2026-01-04T18:57:00.422Z AI4Bhārat <opensource@ai4bharat.org> :: tweak readme typo
 2026-01-04T18:59:23.394Z md-5 <md-5@users.noreply.github.com> :: polish readme typo
 2026-01-04T20:58:25.702Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up retry logic
+2026-01-04T21:58:16.143Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up logging
