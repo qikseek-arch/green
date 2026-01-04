@@ -6558,3 +6558,4 @@
 2026-01-04T03:45:21.365Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor cache keys
 2026-01-04T03:49:51.172Z CTFs <ctfs@users.noreply.github.com> :: fix the parser
 2026-01-04T05:02:13.692Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove config defaults
+2026-01-04T05:07:48.299Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix dependency versions
