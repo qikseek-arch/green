@@ -6551,3 +6551,4 @@
 2026-01-03T22:30:46.993Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish build script
 2026-01-04T00:05:03.607Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up build script
 2026-01-04T00:40:46.904Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: add flaky test
+2026-01-04T01:45:58.260Z Selenium <SeleniumHQ@users.noreply.github.com> :: update error handling
