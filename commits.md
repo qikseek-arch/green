@@ -277,3 +277,4 @@
 2026-01-03T18:33:17.718Z Donny/강동윤 <kdy1@users.noreply.github.com> :: remove null check
 2026-01-03T19:38:25.049Z Ryubing <Ryubing@users.noreply.github.com> :: bump build script
 2026-01-04T12:20:10.589Z Shaian <zshaian@users.noreply.github.com> :: update edge case in auth
+2026-01-04T17:09:31.535Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: remove readme typo
