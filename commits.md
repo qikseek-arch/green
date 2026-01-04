@@ -6580,3 +6580,4 @@
 2026-01-04T14:56:32.010Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump dependency versions
 2026-01-04T15:54:54.694Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: update dependency versions
 2026-01-04T16:19:48.556Z markqvist <markqvist@users.noreply.github.com> :: remove edge case in auth
+2026-01-04T18:19:11.297Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor dead code
