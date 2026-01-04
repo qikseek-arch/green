@@ -16195,3 +16195,4 @@
 2026-01-04T21:04:09.330Z Prometheus <prometheus@users.noreply.github.com> :: bump logging
 2026-01-04T22:39:48.620Z Brendan Gregg <brendangregg@users.noreply.github.com> :: refactor readme typo
 2026-01-04T23:00:38.998Z Boshen <Boshen@users.noreply.github.com> :: remove error handling
+2026-01-04T23:49:41.048Z Alex Teichman <teichman@users.noreply.github.com> :: refactor the parser
