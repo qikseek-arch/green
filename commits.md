@@ -16167,3 +16167,4 @@
 2026-01-03T20:51:54.530Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak retry logic
 2026-01-03T22:06:52.896Z OpenBMB <openbmb@gmail.com> :: remove config defaults
 2026-01-04T03:15:00.093Z Lipis <lipis@users.noreply.github.com> :: tweak dependency versions
+2026-01-04T04:01:49.392Z Jordan Harband <ljharb@users.noreply.github.com> :: remove logging
