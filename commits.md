@@ -6569,3 +6569,4 @@
 2026-01-04T06:43:19.998Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak null check
 2026-01-04T06:46:04.209Z ㅤxander <vampirist@users.noreply.github.com> :: wire up dependency versions
 2026-01-04T09:18:50.804Z AI4Bhārat <opensource@ai4bharat.org> :: fix error handling
+2026-01-04T10:07:43.131Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix readme typo
