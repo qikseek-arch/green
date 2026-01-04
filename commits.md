@@ -16190,3 +16190,4 @@
 2026-01-04T17:56:45.137Z Sky Ao <skyao@users.noreply.github.com> :: update the CI matrix
 2026-01-04T18:05:39.499Z OpenBSD <openbsd@users.noreply.github.com> :: fix flaky test
 2026-01-04T18:18:08.333Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add readme typo
+2026-01-04T19:30:43.925Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump the parser
