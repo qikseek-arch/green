@@ -675,3 +675,4 @@
 2025-12-29T07:45:12.412Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: refactor build script
 2025-12-29T17:54:25.469Z Alex The Analyst <AlexTheAnalyst@users.noreply.github.com> :: polish the parser
 2025-12-30T02:12:02.313Z Unicity Labs <info@unicity-labs.com> :: clean up error handling
+2026-01-04T11:12:41.987Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: remove dependency versions
