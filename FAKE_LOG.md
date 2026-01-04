@@ -224,3 +224,4 @@
 2025-12-22T13:29:12.111Z admin <admin@fake.invalid> :: polish config defaults
 2025-12-25T00:02:58.146Z cipher <cipher@fake.invalid> :: polish cache keys
 2026-01-02T19:50:22.587Z rune <rune@fake.invalid> :: bump error handling
+2026-01-04T09:13:38.415Z ghost <ghost@fake.invalid> :: add flaky test
