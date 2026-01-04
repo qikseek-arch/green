@@ -6567,3 +6567,4 @@
 2026-01-04T06:13:08.688Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump logging
 2026-01-04T06:23:05.674Z vb <Vaibhavs10@users.noreply.github.com> :: tweak dependency versions
 2026-01-04T06:43:19.998Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak null check
+2026-01-04T06:46:04.209Z ㅤxander <vampirist@users.noreply.github.com> :: wire up dependency versions
