@@ -6604,3 +6604,4 @@
 2026-01-05T14:49:19.727Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dead code
 2026-01-05T15:24:23.577Z CTFs <ctfs@users.noreply.github.com> :: refactor build script
 2026-01-05T15:54:59.356Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump dead code
+2026-01-05T16:05:42.639Z markqvist <markqvist@users.noreply.github.com> :: refactor edge case in auth
