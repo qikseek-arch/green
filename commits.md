@@ -16209,3 +16209,4 @@
 2026-01-05T06:19:13.754Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump error handling
 2026-01-05T06:51:24.594Z LMSYS <lm-sys@users.noreply.github.com> :: polish build script
 2026-01-05T08:22:44.568Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: polish edge case in auth
+2026-01-05T09:39:48.503Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: tweak logging
