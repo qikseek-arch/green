@@ -282,3 +282,4 @@
 2026-01-05T03:20:23.038Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: wire up dependency versions
 2026-01-05T13:53:21.680Z Alae-Eddine <alaesic@users.noreply.github.com> :: update dead code
 2026-01-05T15:34:57.359Z Mark Erikson <markerikson@users.noreply.github.com> :: polish the CI matrix
+2026-01-05T15:41:21.186Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update logging
