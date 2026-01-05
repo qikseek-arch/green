@@ -6590,3 +6590,4 @@
 2026-01-05T00:49:06.134Z Arduino <arduino@users.noreply.github.com> :: add logging
 2026-01-05T00:49:54.789Z Adam Łucek <ALucek@users.noreply.github.com> :: remove config defaults
 2026-01-05T02:22:27.043Z Rei <chloerei@users.noreply.github.com> :: polish cache keys
+2026-01-05T02:36:06.655Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: tweak build script
