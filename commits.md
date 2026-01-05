@@ -6606,3 +6606,4 @@
 2026-01-05T15:54:59.356Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump dead code
 2026-01-05T16:05:42.639Z markqvist <markqvist@users.noreply.github.com> :: refactor edge case in auth
 2026-01-05T17:52:33.368Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up retry logic
+2026-01-05T18:18:18.864Z Claude <claude@users.noreply.github.com> :: add edge case in auth
