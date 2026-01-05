@@ -16204,3 +16204,4 @@
 2026-01-05T02:19:24.165Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump cache keys
 2026-01-05T02:54:30.387Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
 2026-01-05T02:57:42.963Z Scott Chacon <schacon@users.noreply.github.com> :: remove config defaults
+2026-01-05T03:25:06.648Z Collabnix <collabnix@users.noreply.github.com> :: update null check
