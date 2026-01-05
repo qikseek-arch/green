@@ -16220,3 +16220,4 @@
 2026-01-05T16:00:29.166Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak cache keys
 2026-01-05T17:49:53.471Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: wire up dead code
 2026-01-05T17:50:44.350Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor readme typo
+2026-01-05T19:00:04.477Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the parser
