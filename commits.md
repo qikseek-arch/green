@@ -16199,3 +16199,4 @@
 2026-01-05T00:08:05.387Z cytopia <cytopia@users.noreply.github.com> :: bump retry logic
 2026-01-05T01:04:29.787Z Henry <hzoo@users.noreply.github.com> :: polish the CI matrix
 2026-01-05T01:07:36.876Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: add readme typo
+2026-01-05T01:54:41.468Z 1 <insoxin@users.noreply.github.com> :: add build script
