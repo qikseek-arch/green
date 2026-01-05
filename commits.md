@@ -16205,3 +16205,4 @@
 2026-01-05T02:54:30.387Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
 2026-01-05T02:57:42.963Z Scott Chacon <schacon@users.noreply.github.com> :: remove config defaults
 2026-01-05T03:25:06.648Z Collabnix <collabnix@users.noreply.github.com> :: update null check
+2026-01-05T03:29:24.156Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove the CI matrix
