@@ -16212,3 +16212,4 @@
 2026-01-05T09:39:48.503Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: tweak logging
 2026-01-05T10:45:01.954Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add edge case in auth
 2026-01-05T11:17:17.198Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update logging
+2026-01-05T11:23:44.404Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix error handling
