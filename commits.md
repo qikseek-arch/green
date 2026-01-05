@@ -6611,3 +6611,4 @@
 2026-01-05T20:10:45.685Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish the parser
 2026-01-05T22:10:48.737Z Arduino <arduino@users.noreply.github.com> :: wire up flaky test
 2026-01-05T23:10:07.027Z owenzhang <owenzhang@users.noreply.github.com> :: tweak readme typo
+2026-01-05T23:47:48.057Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update retry logic
