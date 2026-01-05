@@ -16214,3 +16214,4 @@
 2026-01-05T11:17:17.198Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update logging
 2026-01-05T11:23:44.404Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix error handling
 2026-01-05T11:44:42.607Z Jabrils <Jabrils@users.noreply.github.com> :: fix error handling
+2026-01-05T13:58:48.371Z Yiming Cui <ymcui@users.noreply.github.com> :: wire up null check
