@@ -16222,3 +16222,4 @@
 2026-01-05T17:50:44.350Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor readme typo
 2026-01-05T19:00:04.477Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish the parser
 2026-01-05T19:36:45.842Z Alex Teichman <teichman@users.noreply.github.com> :: update config defaults
+2026-01-05T19:57:52.460Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: polish null check
