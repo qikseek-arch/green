@@ -6600,3 +6600,4 @@
 2026-01-05T06:37:37.340Z markqvist <markqvist@users.noreply.github.com> :: bump flaky test
 2026-01-05T10:21:57.253Z vb <Vaibhavs10@users.noreply.github.com> :: refactor flaky test
 2026-01-05T11:33:38.680Z OpenJS Foundation <info@openjsf.org> :: refactor dead code
+2026-01-05T11:43:28.465Z Keith Smiley <keith@users.noreply.github.com> :: update edge case in auth
