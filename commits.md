@@ -16202,3 +16202,4 @@
 2026-01-05T01:54:41.468Z 1 <insoxin@users.noreply.github.com> :: add build script
 2026-01-05T02:01:02.123Z Damian Gryski <dgryski@users.noreply.github.com> :: bump the parser
 2026-01-05T02:19:24.165Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump cache keys
+2026-01-05T02:54:30.387Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
