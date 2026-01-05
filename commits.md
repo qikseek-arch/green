@@ -16203,3 +16203,4 @@
 2026-01-05T02:01:02.123Z Damian Gryski <dgryski@users.noreply.github.com> :: bump the parser
 2026-01-05T02:19:24.165Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump cache keys
 2026-01-05T02:54:30.387Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
+2026-01-05T02:57:42.963Z Scott Chacon <schacon@users.noreply.github.com> :: remove config defaults
