@@ -279,3 +279,4 @@
 2026-01-04T12:20:10.589Z Shaian <zshaian@users.noreply.github.com> :: update edge case in auth
 2026-01-04T17:09:31.535Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: remove readme typo
 2026-01-05T02:08:38.577Z Leon AI <louis@getleon.ai> :: update error handling
+2026-01-05T03:20:23.038Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: wire up dependency versions
