@@ -6613,3 +6613,4 @@
 2026-01-05T23:10:07.027Z owenzhang <owenzhang@users.noreply.github.com> :: tweak readme typo
 2026-01-05T23:47:48.057Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update retry logic
 2026-01-06T00:31:49.232Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: refactor flaky test
+2026-01-06T01:27:59.404Z David Clark <nullptrException100@users.noreply.github.com> :: update the CI matrix
