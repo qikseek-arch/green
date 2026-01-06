@@ -65,3 +65,4 @@
 2025-12-31T18:02:34.469Z moose_neonxx <moose_neonxx@users.noreply.github.com> :: clean up config defaults
 2026-01-01T22:25:50.216Z wiredgoblin597 <wiredgoblin597@users.noreply.github.com> :: bump flaky test
 2026-01-03T21:47:50.164Z Rich Hickey <rich.hickey@example.com> :: polish error handling
+2026-01-06T16:32:30.142Z Ryan Dahl <ryan.dahl@example.com> :: refactor the parser
