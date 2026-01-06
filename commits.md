@@ -6636,3 +6636,4 @@
 2026-01-06T21:21:48.844Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor cache keys
 2026-01-06T21:41:59.010Z First Contributions <firstcontributions@gmail.com> :: fix the CI matrix
 2026-01-06T23:07:08.033Z Arduino <arduino@users.noreply.github.com> :: add edge case in auth
+2026-01-06T23:30:32.972Z qiye <qiyeboy@users.noreply.github.com> :: polish error handling
