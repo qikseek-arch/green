@@ -6625,3 +6625,4 @@
 2026-01-06T09:53:27.928Z Adam Bell <b3ll@users.noreply.github.com> :: bump retry logic
 2026-01-06T12:09:17.081Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove dead code
 2026-01-06T13:58:28.855Z BBC <bbc@users.noreply.github.com> :: tweak null check
+2026-01-06T14:42:33.608Z Sachin Soni <techiesms@users.noreply.github.com> :: add the parser
