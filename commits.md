@@ -6629,3 +6629,4 @@
 2026-01-06T15:56:41.597Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add flaky test
 2026-01-06T16:35:14.374Z OpenJS Foundation <info@openjsf.org> :: tweak retry logic
 2026-01-06T16:58:19.809Z Aurélien Geron <ageron@users.noreply.github.com> :: remove the CI matrix
+2026-01-06T17:40:32.480Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up edge case in auth
