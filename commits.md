@@ -16242,3 +16242,4 @@
 2026-01-06T11:31:12.740Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up edge case in auth
 2026-01-06T11:58:27.882Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up config defaults
 2026-01-06T12:14:57.370Z Lovell Fuller <lovell@users.noreply.github.com> :: polish config defaults
+2026-01-06T12:19:29.024Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
