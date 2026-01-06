@@ -6628,3 +6628,4 @@
 2026-01-06T14:42:33.608Z Sachin Soni <techiesms@users.noreply.github.com> :: add the parser
 2026-01-06T15:56:41.597Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add flaky test
 2026-01-06T16:35:14.374Z OpenJS Foundation <info@openjsf.org> :: tweak retry logic
+2026-01-06T16:58:19.809Z Aurélien Geron <ageron@users.noreply.github.com> :: remove the CI matrix
