@@ -16236,3 +16236,4 @@
 2026-01-06T08:46:15.307Z Prometheus <prometheus@users.noreply.github.com> :: fix the CI matrix
 2026-01-06T08:58:02.946Z OpenBSD <openbsd@users.noreply.github.com> :: polish error handling
 2026-01-06T09:08:10.630Z Brian Holt <btholt@users.noreply.github.com> :: refactor flaky test
+2026-01-06T09:45:08.918Z Henry <hzoo@users.noreply.github.com> :: remove readme typo
