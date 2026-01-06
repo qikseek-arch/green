@@ -16250,3 +16250,4 @@
 2026-01-06T15:12:58.288Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor logging
 2026-01-06T17:06:26.133Z Odi <mathdroid@users.noreply.github.com> :: clean up flaky test
 2026-01-06T17:54:53.102Z DefTruth <DefTruth@users.noreply.github.com> :: update config defaults
+2026-01-06T18:34:06.848Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak logging
