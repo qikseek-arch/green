@@ -6633,3 +6633,4 @@
 2026-01-06T18:21:31.398Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up null check
 2026-01-06T18:35:38.562Z vb <Vaibhavs10@users.noreply.github.com> :: bump build script
 2026-01-06T19:04:53.643Z Claude <claude@users.noreply.github.com> :: polish readme typo
+2026-01-06T21:21:48.844Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor cache keys
