@@ -16240,3 +16240,4 @@
 2026-01-06T10:17:39.476Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: refactor retry logic
 2026-01-06T10:21:08.197Z Damian Gryski <dgryski@users.noreply.github.com> :: add dead code
 2026-01-06T11:31:12.740Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: wire up edge case in auth
+2026-01-06T11:58:27.882Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up config defaults
