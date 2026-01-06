@@ -16245,3 +16245,4 @@
 2026-01-06T12:19:29.024Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
 2026-01-06T12:27:37.938Z rxi <rxi@users.noreply.github.com> :: add build script
 2026-01-06T13:58:09.604Z LMSYS <lm-sys@users.noreply.github.com> :: bump cache keys
+2026-01-06T14:38:43.060Z Tom Dale <tomdale@users.noreply.github.com> :: add null check
