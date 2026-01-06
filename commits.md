@@ -16253,3 +16253,4 @@
 2026-01-06T18:34:06.848Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak logging
 2026-01-06T19:36:30.359Z Alex Teichman <teichman@users.noreply.github.com> :: fix dead code
 2026-01-06T20:30:51.931Z cytopia <cytopia@users.noreply.github.com> :: clean up edge case in auth
+2026-01-06T21:48:57.781Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor edge case in auth
