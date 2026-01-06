@@ -6619,3 +6619,4 @@
 2026-01-06T05:17:51.484Z OpenJS Foundation <info@openjsf.org> :: fix flaky test
 2026-01-06T05:37:20.658Z owenzhang <owenzhang@users.noreply.github.com> :: wire up build script
 2026-01-06T07:35:37.464Z SouJunior <wouerner@soujunior.tech> :: clean up the CI matrix
+2026-01-06T08:10:32.927Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: add null check
