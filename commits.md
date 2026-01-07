@@ -6657,3 +6657,4 @@
 2026-01-07T19:09:27.334Z SouJunior <wouerner@soujunior.tech> :: add flaky test
 2026-01-07T19:25:37.871Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish cache keys
 2026-01-07T20:16:19.428Z Taiko Foundation <info@taiko.xyz> :: tweak null check
+2026-01-07T21:04:42.065Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak build script
