@@ -16260,3 +16260,4 @@
 2026-01-07T01:47:06.785Z SurrealDB <surrealdb@users.noreply.github.com> :: clean up dependency versions
 2026-01-07T02:06:57.991Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: refactor error handling
 2026-01-07T03:03:13.661Z Chetan Jogi <voidChetan@users.noreply.github.com> :: wire up logging
+2026-01-07T03:05:47.697Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish config defaults
