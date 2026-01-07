@@ -16283,3 +16283,4 @@
 2026-01-07T20:55:37.135Z Snowflake Labs <opensource@snowflake.com> :: refactor build script
 2026-01-07T22:09:25.930Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor retry logic
 2026-01-07T22:28:20.391Z Amnezia VPN <support@amnezia.org> :: add retry logic
+2026-01-07T22:52:51.192Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor config defaults
