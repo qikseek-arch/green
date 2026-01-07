@@ -284,3 +284,4 @@
 2026-01-05T15:34:57.359Z Mark Erikson <markerikson@users.noreply.github.com> :: polish the CI matrix
 2026-01-05T15:41:21.186Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update logging
 2026-01-06T23:02:53.092Z xer0dayz <1N3@users.noreply.github.com> :: add dependency versions
+2026-01-07T06:12:22.741Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: refactor dead code
