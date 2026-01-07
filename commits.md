@@ -16272,3 +16272,4 @@
 2026-01-07T10:42:16.821Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak the parser
 2026-01-07T11:42:34.508Z Alex Teichman <teichman@users.noreply.github.com> :: polish dependency versions
 2026-01-07T12:12:58.546Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: clean up error handling
+2026-01-07T12:31:20.323Z Tavis Ormandy <taviso@users.noreply.github.com> :: polish edge case in auth
