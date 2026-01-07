@@ -678,3 +678,4 @@
 2026-01-04T11:12:41.987Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: remove dependency versions
 2026-01-05T20:18:03.089Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: fix error handling
 2026-01-06T09:57:46.734Z Tim Ruscica <techwithtim@users.noreply.github.com> :: tweak the CI matrix
+2026-01-07T07:09:18.320Z Adrian Hajdin - JS Mastery <adrianhajdin@users.noreply.github.com> :: refactor error handling
