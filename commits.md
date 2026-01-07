@@ -6648,3 +6648,4 @@
 2026-01-07T07:54:18.330Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor config defaults
 2026-01-07T09:03:41.657Z Taiko Foundation <info@taiko.xyz> :: add error handling
 2026-01-07T12:35:05.810Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak logging
+2026-01-07T12:58:31.610Z Getgems <getgems-io@users.noreply.github.com> :: refactor retry logic
