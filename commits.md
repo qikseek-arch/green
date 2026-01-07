@@ -6647,3 +6647,4 @@
 2026-01-07T07:25:03.348Z Shubs <infosec-au@users.noreply.github.com> :: refactor readme typo
 2026-01-07T07:54:18.330Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor config defaults
 2026-01-07T09:03:41.657Z Taiko Foundation <info@taiko.xyz> :: add error handling
+2026-01-07T12:35:05.810Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak logging
