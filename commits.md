@@ -6640,3 +6640,4 @@
 2026-01-07T00:06:06.914Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up retry logic
 2026-01-07T00:12:45.859Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: wire up dependency versions
 2026-01-07T01:34:26.386Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up readme typo
+2026-01-07T05:01:04.106Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update build script
