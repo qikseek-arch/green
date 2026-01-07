@@ -6650,3 +6650,4 @@
 2026-01-07T12:35:05.810Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak logging
 2026-01-07T12:58:31.610Z Getgems <getgems-io@users.noreply.github.com> :: refactor retry logic
 2026-01-07T13:10:09.633Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor retry logic
+2026-01-07T15:11:51.197Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump error handling
