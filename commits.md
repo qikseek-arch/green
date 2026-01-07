@@ -6652,3 +6652,4 @@
 2026-01-07T13:10:09.633Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor retry logic
 2026-01-07T15:11:51.197Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump error handling
 2026-01-07T16:18:28.901Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix config defaults
+2026-01-07T16:35:42.611Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: fix logging
