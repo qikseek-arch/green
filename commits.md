@@ -16269,3 +16269,4 @@
 2026-01-07T07:19:10.101Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up cache keys
 2026-01-07T08:57:03.852Z Jordan Harband <ljharb@users.noreply.github.com> :: add build script
 2026-01-07T09:01:01.699Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up build script
+2026-01-07T10:42:16.821Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak the parser
