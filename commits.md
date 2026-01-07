@@ -16257,3 +16257,4 @@
 2026-01-06T23:50:31.416Z Google Fonts <googlefonts@users.noreply.github.com> :: tweak edge case in auth
 2026-01-06T23:50:32.442Z Prometheus <prometheus@users.noreply.github.com> :: wire up dependency versions
 2026-01-07T00:25:59.615Z Snowflake Labs <opensource@snowflake.com> :: polish flaky test
+2026-01-07T01:47:06.785Z SurrealDB <surrealdb@users.noreply.github.com> :: clean up dependency versions
