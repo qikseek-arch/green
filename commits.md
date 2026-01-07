@@ -16280,3 +16280,4 @@
 2026-01-07T17:38:21.099Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix null check
 2026-01-07T19:06:18.263Z Collabnix <collabnix@users.noreply.github.com> :: fix dead code
 2026-01-07T19:07:16.993Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add flaky test
+2026-01-07T20:55:37.135Z Snowflake Labs <opensource@snowflake.com> :: refactor build script
