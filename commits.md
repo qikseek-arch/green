@@ -6665,3 +6665,4 @@
 2026-01-08T02:43:55.493Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix the CI matrix
 2026-01-08T02:58:40.348Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
 2026-01-08T03:22:59.153Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
+2026-01-08T03:38:16.700Z owenzhang <owenzhang@users.noreply.github.com> :: clean up readme typo
