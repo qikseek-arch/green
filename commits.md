@@ -6692,3 +6692,4 @@
 2026-01-08T11:51:08.691Z Rei <chloerei@users.noreply.github.com> :: wire up readme typo
 2026-01-08T13:29:16.913Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up readme typo
 2026-01-08T13:42:39.568Z owenzhang <owenzhang@users.noreply.github.com> :: update dead code
+2026-01-08T15:17:48.073Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update error handling
