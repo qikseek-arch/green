@@ -16290,3 +16290,4 @@
 2026-01-08T04:28:48.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix dependency versions
 2026-01-08T04:53:09.828Z Petar Veličković <PetarV-@users.noreply.github.com> :: update readme typo
 2026-01-08T05:03:56.598Z in28minutes <in28minutes@users.noreply.github.com> :: tweak build script
+2026-01-08T06:07:07.481Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove error handling
