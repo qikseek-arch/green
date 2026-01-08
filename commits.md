@@ -16301,3 +16301,4 @@
 2026-01-08T11:55:14.051Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak null check
 2026-01-08T12:38:12.981Z 千古壹号 <qianguyihao@users.noreply.github.com> :: fix null check
 2026-01-08T13:20:44.998Z Dove Letter <skydoves2@gmail.com> :: wire up dead code
+2026-01-08T14:59:27.828Z Brian Holt <btholt@users.noreply.github.com> :: bump the parser
