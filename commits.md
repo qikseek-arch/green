@@ -16307,3 +16307,4 @@
 2026-01-08T17:21:12.651Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: bump null check
 2026-01-08T18:15:27.389Z OpenBMB <openbmb@gmail.com> :: bump logging
 2026-01-08T18:47:55.463Z 毒奶博主 <limbopro@users.noreply.github.com> :: wire up dependency versions
+2026-01-08T18:58:50.840Z SurrealDB <surrealdb@users.noreply.github.com> :: bump error handling
