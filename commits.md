@@ -16296,3 +16296,4 @@
 2026-01-08T08:00:35.941Z Yiming Cui <ymcui@users.noreply.github.com> :: remove logging
 2026-01-08T08:13:14.182Z Amnezia VPN <support@amnezia.org> :: add flaky test
 2026-01-08T08:37:19.215Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add build script
+2026-01-08T08:53:59.088Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor error handling
