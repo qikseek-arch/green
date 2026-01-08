@@ -6691,3 +6691,4 @@
 2026-01-08T11:48:06.637Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
 2026-01-08T11:51:08.691Z Rei <chloerei@users.noreply.github.com> :: wire up readme typo
 2026-01-08T13:29:16.913Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up readme typo
+2026-01-08T13:42:39.568Z owenzhang <owenzhang@users.noreply.github.com> :: update dead code
