@@ -16288,3 +16288,4 @@
 2026-01-08T03:08:37.574Z 千古壹号 <qianguyihao@users.noreply.github.com> :: fix null check
 2026-01-08T04:22:16.436Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
 2026-01-08T04:28:48.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix dependency versions
+2026-01-08T04:53:09.828Z Petar Veličković <PetarV-@users.noreply.github.com> :: update readme typo
