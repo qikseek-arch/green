@@ -16287,3 +16287,4 @@
 2026-01-08T02:06:46.846Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish cache keys
 2026-01-08T03:08:37.574Z 千古壹号 <qianguyihao@users.noreply.github.com> :: fix null check
 2026-01-08T04:22:16.436Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
+2026-01-08T04:28:48.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix dependency versions
