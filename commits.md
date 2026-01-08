@@ -6666,3 +6666,4 @@
 2026-01-08T02:58:40.348Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
 2026-01-08T03:22:59.153Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
 2026-01-08T03:38:16.700Z owenzhang <owenzhang@users.noreply.github.com> :: clean up readme typo
+2026-01-08T03:54:11.868Z Getgems <getgems-io@users.noreply.github.com> :: fix retry logic
