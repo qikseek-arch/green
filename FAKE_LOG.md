@@ -525,3 +525,4 @@
 2025-12-24T05:19:34.538Z GPU.net <suraj@brahmgan.com> :: polish dependency versions
 2025-12-31T09:18:14.908Z Siraj Raval <llSourcell@users.noreply.github.com> :: clean up logging
 2026-01-05T07:45:51.815Z Donne Martin <donnemartin@users.noreply.github.com> :: bump retry logic
+2026-01-08T03:51:51.909Z ReVanced <nosupport@revanced.app> :: wire up readme typo
