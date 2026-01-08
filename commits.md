@@ -290,3 +290,4 @@
 2026-01-07T19:17:19.279Z MASSGRAVE <massgravel@users.noreply.github.com> :: remove flaky test
 2026-01-07T21:13:13.752Z GitHub Community <community@users.noreply.github.com> :: clean up config defaults
 2026-01-08T03:29:26.510Z Ce Gao <gaocegege@users.noreply.github.com> :: fix retry logic
+2026-01-08T12:14:08.230Z Leon AI <louis@getleon.ai> :: clean up config defaults
