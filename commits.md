@@ -6676,3 +6676,4 @@
 2026-01-08T06:14:54.191Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update flaky test
 2026-01-08T06:24:07.617Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish the CI matrix
 2026-01-08T06:28:25.643Z ㅤxander <vampirist@users.noreply.github.com> :: bump logging
+2026-01-08T06:51:33.141Z Daniel Eden <daneden@users.noreply.github.com> :: wire up readme typo
