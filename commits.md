@@ -6674,3 +6674,4 @@
 2026-01-08T04:49:30.738Z Taiko Foundation <info@taiko.xyz> :: fix flaky test
 2026-01-08T05:38:23.256Z ring04h <ring04h@users.noreply.github.com> :: update null check
 2026-01-08T06:14:54.191Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update flaky test
+2026-01-08T06:24:07.617Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish the CI matrix
