@@ -526,3 +526,4 @@
 2025-12-31T09:18:14.908Z Siraj Raval <llSourcell@users.noreply.github.com> :: clean up logging
 2026-01-05T07:45:51.815Z Donne Martin <donnemartin@users.noreply.github.com> :: bump retry logic
 2026-01-08T03:51:51.909Z ReVanced <nosupport@revanced.app> :: wire up readme typo
+2026-01-08T12:55:38.847Z George Hotz <geohot@users.noreply.github.com> :: polish readme typo
