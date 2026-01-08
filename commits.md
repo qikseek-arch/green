@@ -6689,3 +6689,4 @@
 2026-01-08T11:17:36.971Z First Contributions <firstcontributions@gmail.com> :: refactor the parser
 2026-01-08T11:35:42.091Z SouJunior <wouerner@soujunior.tech> :: refactor flaky test
 2026-01-08T11:48:06.637Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
+2026-01-08T11:51:08.691Z Rei <chloerei@users.noreply.github.com> :: wire up readme typo
