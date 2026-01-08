@@ -16286,3 +16286,4 @@
 2026-01-07T22:52:51.192Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor config defaults
 2026-01-08T02:06:46.846Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish cache keys
 2026-01-08T03:08:37.574Z 千古壹号 <qianguyihao@users.noreply.github.com> :: fix null check
+2026-01-08T04:22:16.436Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
