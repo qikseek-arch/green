@@ -16308,3 +16308,4 @@
 2026-01-08T18:15:27.389Z OpenBMB <openbmb@gmail.com> :: bump logging
 2026-01-08T18:47:55.463Z 毒奶博主 <limbopro@users.noreply.github.com> :: wire up dependency versions
 2026-01-08T18:58:50.840Z SurrealDB <surrealdb@users.noreply.github.com> :: bump error handling
+2026-01-08T19:34:24.497Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix edge case in auth
