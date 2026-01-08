@@ -6696,3 +6696,4 @@
 2026-01-08T19:32:10.191Z SouJunior <wouerner@soujunior.tech> :: update flaky test
 2026-01-08T20:15:56.131Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak retry logic
 2026-01-08T21:39:28.782Z Shubs <infosec-au@users.noreply.github.com> :: fix null check
+2026-01-08T22:24:10.254Z Ryan Bigg <radar@users.noreply.github.com> :: refactor retry logic
