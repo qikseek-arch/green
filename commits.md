@@ -16297,3 +16297,4 @@
 2026-01-08T08:13:14.182Z Amnezia VPN <support@amnezia.org> :: add flaky test
 2026-01-08T08:37:19.215Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add build script
 2026-01-08T08:53:59.088Z Aman Kumar <Amanc77@users.noreply.github.com> :: refactor error handling
+2026-01-08T11:18:08.681Z Odi <mathdroid@users.noreply.github.com> :: tweak the CI matrix
