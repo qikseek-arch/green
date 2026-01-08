@@ -16314,3 +16314,4 @@
 2026-01-08T21:45:49.239Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump null check
 2026-01-08T21:54:21.438Z Elliott Minns <elliottminns@users.noreply.github.com> :: update edge case in auth
 2026-01-08T23:25:52.756Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak the CI matrix
+2026-01-08T23:32:12.075Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
