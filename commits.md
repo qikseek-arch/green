@@ -16284,3 +16284,4 @@
 2026-01-07T22:09:25.930Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor retry logic
 2026-01-07T22:28:20.391Z Amnezia VPN <support@amnezia.org> :: add retry logic
 2026-01-07T22:52:51.192Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor config defaults
+2026-01-08T02:06:46.846Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish cache keys
