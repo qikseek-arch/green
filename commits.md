@@ -6664,3 +6664,4 @@
 2026-01-08T01:55:34.158Z Getgems <getgems-io@users.noreply.github.com> :: fix cache keys
 2026-01-08T02:43:55.493Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix the CI matrix
 2026-01-08T02:58:40.348Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
+2026-01-08T03:22:59.153Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
