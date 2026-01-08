@@ -16311,3 +16311,4 @@
 2026-01-08T19:34:24.497Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix edge case in auth
 2026-01-08T20:07:49.077Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove logging
 2026-01-08T20:41:30.552Z winterbe <winterbe@users.noreply.github.com> :: clean up readme typo
+2026-01-08T21:45:49.239Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump null check
