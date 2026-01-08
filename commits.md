@@ -6688,3 +6688,4 @@
 2026-01-08T10:57:08.677Z Duy Tran <khanhduytran0@users.noreply.github.com> :: add config defaults
 2026-01-08T11:17:36.971Z First Contributions <firstcontributions@gmail.com> :: refactor the parser
 2026-01-08T11:35:42.091Z SouJunior <wouerner@soujunior.tech> :: refactor flaky test
+2026-01-08T11:48:06.637Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
