@@ -6685,3 +6685,4 @@
 2026-01-08T10:32:44.629Z Adam Wathan <adamwathan@users.noreply.github.com> :: tweak flaky test
 2026-01-08T10:43:04.712Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor dependency versions
 2026-01-08T10:53:44.600Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up error handling
+2026-01-08T10:57:08.677Z Duy Tran <khanhduytran0@users.noreply.github.com> :: add config defaults
