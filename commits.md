@@ -16317,3 +16317,4 @@
 2026-01-08T23:32:12.075Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
 2026-01-09T00:05:53.498Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update build script
 2026-01-09T00:28:21.497Z OpenBSD <openbsd@users.noreply.github.com> :: polish null check
+2026-01-09T01:03:34.830Z Scott Chacon <schacon@users.noreply.github.com> :: fix dead code
