@@ -6711,3 +6711,4 @@
 2026-01-09T10:16:19.400Z Barret李靖 <barretlee@users.noreply.github.com> :: remove build script
 2026-01-09T10:20:49.721Z Selenium <SeleniumHQ@users.noreply.github.com> :: update dead code
 2026-01-09T10:53:40.490Z Aurélien Geron <ageron@users.noreply.github.com> :: remove logging
+2026-01-09T11:51:23.522Z Adam Bell <b3ll@users.noreply.github.com> :: tweak build script
