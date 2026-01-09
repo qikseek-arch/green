@@ -6710,3 +6710,4 @@
 2026-01-09T08:38:07.036Z owenzhang <owenzhang@users.noreply.github.com> :: fix error handling
 2026-01-09T10:16:19.400Z Barret李靖 <barretlee@users.noreply.github.com> :: remove build script
 2026-01-09T10:20:49.721Z Selenium <SeleniumHQ@users.noreply.github.com> :: update dead code
+2026-01-09T10:53:40.490Z Aurélien Geron <ageron@users.noreply.github.com> :: remove logging
