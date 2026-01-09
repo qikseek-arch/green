@@ -16333,3 +16333,4 @@
 2026-01-09T08:38:42.806Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove dead code
 2026-01-09T08:39:10.165Z Lipis <lipis@users.noreply.github.com> :: refactor config defaults
 2026-01-09T09:14:07.581Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add null check
+2026-01-09T09:24:58.949Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor error handling
