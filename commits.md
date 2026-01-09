@@ -16321,3 +16321,4 @@
 2026-01-09T01:30:20.838Z OpenBMB <openbmb@gmail.com> :: clean up error handling
 2026-01-09T01:51:20.651Z Chetan Jogi <voidChetan@users.noreply.github.com> :: wire up readme typo
 2026-01-09T01:56:12.078Z Tom Dale <tomdale@users.noreply.github.com> :: tweak edge case in auth
+2026-01-09T02:06:57.080Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix error handling
