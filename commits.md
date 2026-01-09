@@ -6714,3 +6714,4 @@
 2026-01-09T11:51:23.522Z Adam Bell <b3ll@users.noreply.github.com> :: tweak build script
 2026-01-09T12:26:33.106Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add logging
 2026-01-09T12:40:54.613Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak flaky test
+2026-01-09T12:48:10.617Z OpenJS Foundation <info@openjsf.org> :: refactor error handling
