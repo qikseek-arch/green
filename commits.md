@@ -6702,3 +6702,4 @@
 2026-01-09T02:12:27.560Z Ryan Bigg <radar@users.noreply.github.com> :: fix readme typo
 2026-01-09T03:38:56.006Z ㅤxander <vampirist@users.noreply.github.com> :: tweak dead code
 2026-01-09T06:11:35.939Z CTFs <ctfs@users.noreply.github.com> :: clean up edge case in auth
+2026-01-09T06:34:06.592Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
