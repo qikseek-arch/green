@@ -16338,3 +16338,4 @@
 2026-01-09T10:08:38.943Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up error handling
 2026-01-09T11:35:13.577Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the parser
 2026-01-09T12:15:38.550Z winterbe <winterbe@users.noreply.github.com> :: bump logging
+2026-01-09T12:26:08.128Z Yiming Cui <ymcui@users.noreply.github.com> :: update the CI matrix
