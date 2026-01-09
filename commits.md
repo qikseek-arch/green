@@ -16340,3 +16340,4 @@
 2026-01-09T12:15:38.550Z winterbe <winterbe@users.noreply.github.com> :: bump logging
 2026-01-09T12:26:08.128Z Yiming Cui <ymcui@users.noreply.github.com> :: update the CI matrix
 2026-01-09T12:31:24.361Z Tom Dale <tomdale@users.noreply.github.com> :: add edge case in auth
+2026-01-09T13:01:21.276Z Brian Holt <btholt@users.noreply.github.com> :: refactor retry logic
