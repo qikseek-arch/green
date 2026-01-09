@@ -16331,3 +16331,4 @@
 2026-01-09T07:24:04.784Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add null check
 2026-01-09T08:37:58.920Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: clean up logging
 2026-01-09T08:38:42.806Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove dead code
+2026-01-09T08:39:10.165Z Lipis <lipis@users.noreply.github.com> :: refactor config defaults
