@@ -16335,3 +16335,4 @@
 2026-01-09T09:14:07.581Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add null check
 2026-01-09T09:24:58.949Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor error handling
 2026-01-09T09:25:58.081Z Amnezia VPN <support@amnezia.org> :: clean up dependency versions
+2026-01-09T10:08:38.943Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up error handling
