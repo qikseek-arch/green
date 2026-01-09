@@ -6700,3 +6700,4 @@
 2026-01-08T22:45:30.879Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove null check
 2026-01-09T00:39:53.732Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add logging
 2026-01-09T02:12:27.560Z Ryan Bigg <radar@users.noreply.github.com> :: fix readme typo
+2026-01-09T03:38:56.006Z ㅤxander <vampirist@users.noreply.github.com> :: tweak dead code
