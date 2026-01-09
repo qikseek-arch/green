@@ -16343,3 +16343,4 @@
 2026-01-09T13:01:21.276Z Brian Holt <btholt@users.noreply.github.com> :: refactor retry logic
 2026-01-09T13:03:45.581Z Yiming Cui <ymcui@users.noreply.github.com> :: update cache keys
 2026-01-09T13:27:38.551Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up dead code
+2026-01-09T13:58:21.506Z Collabnix <collabnix@users.noreply.github.com> :: wire up null check
