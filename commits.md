@@ -6705,3 +6705,4 @@
 2026-01-09T06:34:06.592Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
 2026-01-09T06:40:55.323Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add cache keys
 2026-01-09T07:16:18.149Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
+2026-01-09T08:01:58.261Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak config defaults
