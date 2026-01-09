@@ -6718,3 +6718,4 @@
 2026-01-09T13:14:18.257Z Claude <claude@users.noreply.github.com> :: remove config defaults
 2026-01-09T13:16:52.806Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove dependency versions
 2026-01-09T14:12:29.626Z CTFs <ctfs@users.noreply.github.com> :: tweak build script
+2026-01-09T14:45:00.250Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish dead code
