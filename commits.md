@@ -6707,3 +6707,4 @@
 2026-01-09T07:16:18.149Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
 2026-01-09T08:01:58.261Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak config defaults
 2026-01-09T08:14:05.283Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up error handling
+2026-01-09T08:38:07.036Z owenzhang <owenzhang@users.noreply.github.com> :: fix error handling
