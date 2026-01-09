@@ -16316,3 +16316,4 @@
 2026-01-08T23:25:52.756Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak the CI matrix
 2026-01-08T23:32:12.075Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
 2026-01-09T00:05:53.498Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update build script
+2026-01-09T00:28:21.497Z OpenBSD <openbsd@users.noreply.github.com> :: polish null check
