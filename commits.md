@@ -16319,3 +16319,4 @@
 2026-01-09T00:28:21.497Z OpenBSD <openbsd@users.noreply.github.com> :: polish null check
 2026-01-09T01:03:34.830Z Scott Chacon <schacon@users.noreply.github.com> :: fix dead code
 2026-01-09T01:30:20.838Z OpenBMB <openbmb@gmail.com> :: clean up error handling
+2026-01-09T01:51:20.651Z Chetan Jogi <voidChetan@users.noreply.github.com> :: wire up readme typo
