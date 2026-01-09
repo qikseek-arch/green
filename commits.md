@@ -16345,3 +16345,4 @@
 2026-01-09T13:27:38.551Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up dead code
 2026-01-09T13:58:21.506Z Collabnix <collabnix@users.noreply.github.com> :: wire up null check
 2026-01-09T14:42:44.119Z Scott Chacon <schacon@users.noreply.github.com> :: add dead code
+2026-01-09T15:24:31.741Z Snowflake Labs <opensource@snowflake.com> :: add dependency versions
