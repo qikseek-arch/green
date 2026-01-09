@@ -6724,3 +6724,4 @@
 2026-01-09T18:43:00.928Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak dead code
 2026-01-09T18:45:51.958Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor readme typo
 2026-01-09T19:49:17.138Z OpenJS Foundation <info@openjsf.org> :: remove error handling
+2026-01-09T19:59:49.322Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update null check
