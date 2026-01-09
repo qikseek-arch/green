@@ -6716,3 +6716,4 @@
 2026-01-09T12:40:54.613Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak flaky test
 2026-01-09T12:48:10.617Z OpenJS Foundation <info@openjsf.org> :: refactor error handling
 2026-01-09T13:14:18.257Z Claude <claude@users.noreply.github.com> :: remove config defaults
+2026-01-09T13:16:52.806Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove dependency versions
