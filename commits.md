@@ -6746,3 +6746,4 @@
 2026-01-10T17:10:19.910Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix error handling
 2026-01-10T17:50:48.524Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update flaky test
 2026-01-10T17:58:26.295Z heyli <lcxfs1991@users.noreply.github.com> :: wire up readme typo
+2026-01-10T18:10:51.480Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up build script
