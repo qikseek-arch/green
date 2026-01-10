@@ -682,3 +682,4 @@
 2026-01-07T13:38:34.399Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: clean up null check
 2026-01-08T15:34:41.803Z LangChain <support@langchain.dev> :: polish dead code
 2026-01-10T01:36:36.971Z 稚晖 <peng-zhihui@users.noreply.github.com> :: polish the parser
+2026-01-10T19:26:32.487Z Hadley Wickham <hadley@users.noreply.github.com> :: refactor error handling
