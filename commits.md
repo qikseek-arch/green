@@ -16375,3 +16375,4 @@
 2026-01-10T16:34:33.006Z OpenBSD <openbsd@users.noreply.github.com> :: refactor dependency versions
 2026-01-10T17:06:56.608Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix dead code
 2026-01-10T17:10:16.199Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up the CI matrix
+2026-01-10T18:03:07.740Z OpenBSD <openbsd@users.noreply.github.com> :: tweak edge case in auth
