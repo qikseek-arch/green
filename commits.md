@@ -16381,3 +16381,4 @@
 2026-01-10T20:15:46.881Z Lovell Fuller <lovell@users.noreply.github.com> :: update logging
 2026-01-10T20:28:35.044Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak the parser
 2026-01-10T20:30:33.482Z Petar Veličković <PetarV-@users.noreply.github.com> :: bump null check
+2026-01-10T20:54:18.960Z rxi <rxi@users.noreply.github.com> :: update config defaults
