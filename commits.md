@@ -6731,3 +6731,4 @@
 2026-01-09T23:16:43.601Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor edge case in auth
 2026-01-10T02:08:02.250Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump retry logic
 2026-01-10T03:12:45.681Z ㅤxander <vampirist@users.noreply.github.com> :: update logging
+2026-01-10T04:34:19.783Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak edge case in auth
