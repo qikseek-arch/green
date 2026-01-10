@@ -6739,3 +6739,4 @@
 2026-01-10T11:33:42.796Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up dead code
 2026-01-10T12:20:48.805Z qiye <qiyeboy@users.noreply.github.com> :: add the CI matrix
 2026-01-10T13:32:41.960Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak error handling
+2026-01-10T13:47:29.051Z Arduino <arduino@users.noreply.github.com> :: update the CI matrix
