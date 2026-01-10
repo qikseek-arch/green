@@ -16363,3 +16363,4 @@
 2026-01-10T05:08:53.271Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update the parser
 2026-01-10T05:29:17.294Z rxi <rxi@users.noreply.github.com> :: clean up flaky test
 2026-01-10T07:21:33.325Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add config defaults
+2026-01-10T09:15:02.683Z rxi <rxi@users.noreply.github.com> :: tweak build script
