@@ -295,3 +295,4 @@
 2026-01-09T09:31:46.472Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: add dead code
 2026-01-09T20:59:03.314Z Sebastian <sebmck@users.noreply.github.com> :: bump dependency versions
 2026-01-09T21:58:36.506Z Ovilia <Ovilia@users.noreply.github.com> :: refactor edge case in auth
+2026-01-10T15:11:43.928Z FastAPI <fastapi@users.noreply.github.com> :: refactor readme typo
