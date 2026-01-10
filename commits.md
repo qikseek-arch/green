@@ -6741,3 +6741,4 @@
 2026-01-10T13:32:41.960Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak error handling
 2026-01-10T13:47:29.051Z Arduino <arduino@users.noreply.github.com> :: update the CI matrix
 2026-01-10T14:18:15.004Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
+2026-01-10T14:32:40.029Z Ben Hamner <benhamner@users.noreply.github.com> :: polish dead code
