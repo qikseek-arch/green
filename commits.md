@@ -16366,3 +16366,4 @@
 2026-01-10T09:15:02.683Z rxi <rxi@users.noreply.github.com> :: tweak build script
 2026-01-10T09:45:24.576Z Collabnix <collabnix@users.noreply.github.com> :: tweak flaky test
 2026-01-10T09:46:40.843Z OpenBMB <openbmb@gmail.com> :: bump dependency versions
+2026-01-10T12:29:29.358Z Asif Taj <axiftaj@users.noreply.github.com> :: update the CI matrix
