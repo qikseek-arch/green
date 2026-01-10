@@ -6743,3 +6743,4 @@
 2026-01-10T14:18:15.004Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
 2026-01-10T14:32:40.029Z Ben Hamner <benhamner@users.noreply.github.com> :: polish dead code
 2026-01-10T17:09:56.131Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor flaky test
+2026-01-10T17:10:19.910Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix error handling
