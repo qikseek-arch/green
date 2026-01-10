@@ -16369,3 +16369,4 @@
 2026-01-10T12:29:29.358Z Asif Taj <axiftaj@users.noreply.github.com> :: update the CI matrix
 2026-01-10T13:26:27.903Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove flaky test
 2026-01-10T14:00:09.404Z Casey Muratori <cmuratori@users.noreply.github.com> :: refactor dependency versions
+2026-01-10T14:49:33.187Z Shougo <Shougo@users.noreply.github.com> :: tweak logging
