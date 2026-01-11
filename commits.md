@@ -16394,3 +16394,4 @@
 2026-01-11T13:26:36.428Z OpenBMB <openbmb@gmail.com> :: wire up config defaults
 2026-01-11T13:40:32.583Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: tweak build script
 2026-01-11T13:55:20.515Z Asif Taj <axiftaj@users.noreply.github.com> :: tweak retry logic
+2026-01-11T14:02:13.220Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix the parser
