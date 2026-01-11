@@ -6763,3 +6763,4 @@
 2026-01-11T12:37:09.622Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish dead code
 2026-01-11T13:49:24.429Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak retry logic
 2026-01-11T14:05:24.520Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove retry logic
+2026-01-11T15:35:57.153Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor config defaults
