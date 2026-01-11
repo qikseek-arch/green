@@ -6764,3 +6764,4 @@
 2026-01-11T13:49:24.429Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak retry logic
 2026-01-11T14:05:24.520Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove retry logic
 2026-01-11T15:35:57.153Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor config defaults
+2026-01-11T16:11:48.982Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add dependency versions
