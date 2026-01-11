@@ -16402,3 +16402,4 @@
 2026-01-11T15:19:57.700Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish logging
 2026-01-11T16:03:35.268Z imput <hello@imput.net> :: update dependency versions
 2026-01-11T16:52:01.301Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove null check
+2026-01-11T18:06:19.763Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: refactor config defaults
