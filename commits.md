@@ -16404,3 +16404,4 @@
 2026-01-11T16:52:01.301Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove null check
 2026-01-11T18:06:19.763Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: refactor config defaults
 2026-01-11T18:33:28.413Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update config defaults
+2026-01-11T19:30:35.710Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak the CI matrix
