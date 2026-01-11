@@ -6757,3 +6757,4 @@
 2026-01-11T09:20:16.342Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak build script
 2026-01-11T09:53:09.751Z Adam Bell <b3ll@users.noreply.github.com> :: update logging
 2026-01-11T10:41:42.329Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix config defaults
+2026-01-11T11:11:30.929Z Sachin Soni <techiesms@users.noreply.github.com> :: add retry logic
