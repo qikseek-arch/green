@@ -6753,3 +6753,4 @@
 2026-01-11T03:47:49.779Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up readme typo
 2026-01-11T04:44:59.101Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump null check
 2026-01-11T06:02:45.857Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix retry logic
+2026-01-11T07:38:17.010Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up null check
