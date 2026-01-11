@@ -16408,3 +16408,4 @@
 2026-01-11T21:07:29.555Z Lovell Fuller <lovell@users.noreply.github.com> :: remove null check
 2026-01-11T21:27:33.390Z Scott Chacon <schacon@users.noreply.github.com> :: wire up the CI matrix
 2026-01-11T23:09:50.072Z t11s <transmissions11@users.noreply.github.com> :: polish retry logic
+2026-01-11T23:18:58.873Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak edge case in auth
