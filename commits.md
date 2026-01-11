@@ -6750,3 +6750,4 @@
 2026-01-10T19:05:37.927Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add retry logic
 2026-01-10T19:05:45.628Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove flaky test
 2026-01-11T03:41:09.531Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor null check
+2026-01-11T03:47:49.779Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up readme typo
