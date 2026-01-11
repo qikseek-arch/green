@@ -16406,3 +16406,4 @@
 2026-01-11T18:33:28.413Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update config defaults
 2026-01-11T19:30:35.710Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak the CI matrix
 2026-01-11T21:07:29.555Z Lovell Fuller <lovell@users.noreply.github.com> :: remove null check
+2026-01-11T21:27:33.390Z Scott Chacon <schacon@users.noreply.github.com> :: wire up the CI matrix
