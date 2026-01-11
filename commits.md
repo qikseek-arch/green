@@ -6767,3 +6767,4 @@
 2026-01-11T16:11:48.982Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add dependency versions
 2026-01-11T16:31:22.511Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish error handling
 2026-01-11T18:40:57.391Z Adam Łucek <ALucek@users.noreply.github.com> :: fix cache keys
+2026-01-11T19:24:53.137Z Getgems <getgems-io@users.noreply.github.com> :: bump edge case in auth
