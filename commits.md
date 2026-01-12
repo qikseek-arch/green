@@ -16416,3 +16416,4 @@
 2026-01-12T02:14:28.315Z Odi <mathdroid@users.noreply.github.com> :: tweak readme typo
 2026-01-12T02:17:29.408Z OpenMEDLab <openmedlab@pjlab.org.cn> :: remove edge case in auth
 2026-01-12T02:36:38.300Z Michael Jackson <mjackson@users.noreply.github.com> :: polish the CI matrix
+2026-01-12T04:38:21.704Z Snowflake Labs <opensource@snowflake.com> :: polish retry logic
