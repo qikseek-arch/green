@@ -6785,3 +6785,4 @@
 2026-01-12T14:28:15.087Z LILYGO <LilyGO@users.noreply.github.com> :: tweak readme typo
 2026-01-12T16:09:41.044Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up the parser
 2026-01-12T17:30:13.647Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak build script
+2026-01-12T18:44:02.605Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
