@@ -684,3 +684,4 @@
 2026-01-10T01:36:36.971Z 稚晖 <peng-zhihui@users.noreply.github.com> :: polish the parser
 2026-01-10T19:26:32.487Z Hadley Wickham <hadley@users.noreply.github.com> :: refactor error handling
 2026-01-10T23:25:52.190Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: clean up error handling
+2026-01-12T06:14:12.713Z Chris Wanstrath <defunkt@users.noreply.github.com> :: polish null check
