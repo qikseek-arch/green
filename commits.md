@@ -6787,3 +6787,4 @@
 2026-01-12T17:30:13.647Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak build script
 2026-01-12T18:44:02.605Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
 2026-01-12T21:50:38.821Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add the CI matrix
+2026-01-12T22:57:05.374Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump build script
