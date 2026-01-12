@@ -297,3 +297,4 @@
 2026-01-09T21:58:36.506Z Ovilia <Ovilia@users.noreply.github.com> :: refactor edge case in auth
 2026-01-10T15:11:43.928Z FastAPI <fastapi@users.noreply.github.com> :: refactor readme typo
 2026-01-10T23:22:43.629Z Merve Noyan <merveenoyan@users.noreply.github.com> :: remove config defaults
+2026-01-12T02:50:45.240Z Bruno Simon <brunosimon@users.noreply.github.com> :: fix readme typo
