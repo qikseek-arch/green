@@ -16436,3 +16436,4 @@
 2026-01-12T19:59:20.985Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor edge case in auth
 2026-01-12T20:02:03.708Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up the parser
 2026-01-12T20:04:19.270Z Yiming Cui <ymcui@users.noreply.github.com> :: add config defaults
+2026-01-12T21:12:16.967Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: tweak null check
