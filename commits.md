@@ -16424,3 +16424,4 @@
 2026-01-12T10:18:54.929Z Boshen <Boshen@users.noreply.github.com> :: tweak readme typo
 2026-01-12T10:54:39.385Z cytopia <cytopia@users.noreply.github.com> :: refactor build script
 2026-01-12T12:59:37.287Z OpenBSD <openbsd@users.noreply.github.com> :: remove the CI matrix
+2026-01-12T13:54:06.075Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump logging
