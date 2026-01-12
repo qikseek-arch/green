@@ -16434,3 +16434,4 @@
 2026-01-12T18:56:00.969Z Tom Dale <tomdale@users.noreply.github.com> :: remove flaky test
 2026-01-12T19:17:30.064Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix the parser
 2026-01-12T19:59:20.985Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor edge case in auth
+2026-01-12T20:02:03.708Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up the parser
