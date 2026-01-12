@@ -16413,3 +16413,4 @@
 2026-01-12T01:08:59.876Z Lovell Fuller <lovell@users.noreply.github.com> :: remove dead code
 2026-01-12T01:22:55.115Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: polish the parser
 2026-01-12T02:12:07.807Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish edge case in auth
+2026-01-12T02:14:28.315Z Odi <mathdroid@users.noreply.github.com> :: tweak readme typo
