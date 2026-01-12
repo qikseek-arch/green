@@ -6774,3 +6774,4 @@
 2026-01-11T23:48:42.571Z AI4Bhārat <opensource@ai4bharat.org> :: refactor build script
 2026-01-12T02:23:38.736Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove readme typo
 2026-01-12T04:06:11.579Z markqvist <markqvist@users.noreply.github.com> :: wire up the CI matrix
+2026-01-12T04:14:52.580Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up retry logic
