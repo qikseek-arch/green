@@ -16421,3 +16421,4 @@
 2026-01-12T05:53:53.374Z Dove Letter <skydoves2@gmail.com> :: refactor config defaults
 2026-01-12T06:24:52.624Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump readme typo
 2026-01-12T09:40:19.110Z Damian Gryski <dgryski@users.noreply.github.com> :: update null check
+2026-01-12T10:18:54.929Z Boshen <Boshen@users.noreply.github.com> :: tweak readme typo
