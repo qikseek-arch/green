@@ -6780,3 +6780,4 @@
 2026-01-12T08:13:32.206Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update retry logic
 2026-01-12T11:00:05.610Z heyli <lcxfs1991@users.noreply.github.com> :: polish flaky test
 2026-01-12T11:04:18.731Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up the CI matrix
+2026-01-12T11:42:35.673Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix edge case in auth
