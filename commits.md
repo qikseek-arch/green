@@ -16419,3 +16419,4 @@
 2026-01-12T04:38:21.704Z Snowflake Labs <opensource@snowflake.com> :: polish retry logic
 2026-01-12T05:23:45.894Z Xingang Pan <XingangPan@users.noreply.github.com> :: update dead code
 2026-01-12T05:53:53.374Z Dove Letter <skydoves2@gmail.com> :: refactor config defaults
+2026-01-12T06:24:52.624Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump readme typo
