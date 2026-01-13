@@ -301,3 +301,4 @@
 2026-01-12T17:47:20.152Z Ovilia <Ovilia@users.noreply.github.com> :: refactor readme typo
 2026-01-13T11:37:08.179Z Ce Gao <gaocegege@users.noreply.github.com> :: wire up config defaults
 2026-01-13T13:53:32.431Z Kyler Condran <KylerCondran@users.noreply.github.com> :: tweak the CI matrix
+2026-01-13T14:36:05.575Z Leon AI <louis@getleon.ai> :: wire up dependency versions
