@@ -16438,3 +16438,4 @@
 2026-01-12T20:04:19.270Z Yiming Cui <ymcui@users.noreply.github.com> :: add config defaults
 2026-01-12T21:12:16.967Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: tweak null check
 2026-01-12T22:54:17.149Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up build script
+2026-01-13T00:14:43.361Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove readme typo
