@@ -16456,3 +16456,4 @@
 2026-01-13T10:28:52.439Z t11s <transmissions11@users.noreply.github.com> :: tweak the CI matrix
 2026-01-13T11:05:14.775Z Odi <mathdroid@users.noreply.github.com> :: fix retry logic
 2026-01-13T11:17:30.878Z Asif Taj <axiftaj@users.noreply.github.com> :: update flaky test
+2026-01-13T11:32:27.418Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove error handling
