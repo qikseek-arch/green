@@ -6794,3 +6794,4 @@
 2026-01-13T03:06:30.209Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the parser
 2026-01-13T03:35:11.599Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump edge case in auth
 2026-01-13T03:40:18.062Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
+2026-01-13T03:50:50.736Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor build script
