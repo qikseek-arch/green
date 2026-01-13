@@ -6806,3 +6806,4 @@
 2026-01-13T09:08:57.487Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
 2026-01-13T09:22:44.061Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish cache keys
 2026-01-13T11:11:35.521Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: polish cache keys
+2026-01-13T12:06:53.179Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak build script
