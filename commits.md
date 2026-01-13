@@ -16442,3 +16442,4 @@
 2026-01-13T00:18:48.389Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak the CI matrix
 2026-01-13T02:18:42.792Z Michael Jackson <mjackson@users.noreply.github.com> :: remove dead code
 2026-01-13T02:40:10.094Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove flaky test
+2026-01-13T03:41:08.943Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up build script
