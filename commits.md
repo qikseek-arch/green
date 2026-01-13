@@ -6793,3 +6793,4 @@
 2026-01-13T02:20:48.249Z ㅤxander <vampirist@users.noreply.github.com> :: fix flaky test
 2026-01-13T03:06:30.209Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the parser
 2026-01-13T03:35:11.599Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump edge case in auth
+2026-01-13T03:40:18.062Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
