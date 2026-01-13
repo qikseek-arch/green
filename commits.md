@@ -16446,3 +16446,4 @@
 2026-01-13T04:45:14.023Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish retry logic
 2026-01-13T05:41:24.408Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: bump flaky test
 2026-01-13T07:26:27.733Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update config defaults
+2026-01-13T07:36:04.456Z Islem Maboud <ipenywis@users.noreply.github.com> :: add dependency versions
