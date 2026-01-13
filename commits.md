@@ -6796,3 +6796,4 @@
 2026-01-13T03:40:18.062Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
 2026-01-13T03:50:50.736Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor build script
 2026-01-13T04:57:28.479Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add retry logic
+2026-01-13T05:21:46.323Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish edge case in auth
