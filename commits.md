@@ -16454,3 +16454,4 @@
 2026-01-13T09:13:46.130Z Snowflake Labs <opensource@snowflake.com> :: update readme typo
 2026-01-13T09:40:13.491Z Petar Veličković <PetarV-@users.noreply.github.com> :: add build script
 2026-01-13T10:28:52.439Z t11s <transmissions11@users.noreply.github.com> :: tweak the CI matrix
+2026-01-13T11:05:14.775Z Odi <mathdroid@users.noreply.github.com> :: fix retry logic
