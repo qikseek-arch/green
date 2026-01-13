@@ -16452,3 +16452,4 @@
 2026-01-13T08:42:18.669Z Lipis <lipis@users.noreply.github.com> :: clean up error handling
 2026-01-13T08:49:56.482Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump edge case in auth
 2026-01-13T09:13:46.130Z Snowflake Labs <opensource@snowflake.com> :: update readme typo
+2026-01-13T09:40:13.491Z Petar Veličković <PetarV-@users.noreply.github.com> :: add build script
