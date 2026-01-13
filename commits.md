@@ -6816,3 +6816,4 @@
 2026-01-13T18:13:15.400Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor the parser
 2026-01-13T20:29:20.547Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update flaky test
 2026-01-13T20:33:41.528Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up edge case in auth
+2026-01-13T23:21:48.180Z CTFs <ctfs@users.noreply.github.com> :: tweak error handling
