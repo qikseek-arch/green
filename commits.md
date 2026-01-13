@@ -16451,3 +16451,4 @@
 2026-01-13T08:20:56.659Z Odi <mathdroid@users.noreply.github.com> :: tweak the parser
 2026-01-13T08:42:18.669Z Lipis <lipis@users.noreply.github.com> :: clean up error handling
 2026-01-13T08:49:56.482Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump edge case in auth
+2026-01-13T09:13:46.130Z Snowflake Labs <opensource@snowflake.com> :: update readme typo
