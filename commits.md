@@ -6789,3 +6789,4 @@
 2026-01-12T21:50:38.821Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add the CI matrix
 2026-01-12T22:57:05.374Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump build script
 2026-01-13T00:26:09.994Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: polish retry logic
+2026-01-13T00:31:55.503Z Adam Bell <b3ll@users.noreply.github.com> :: wire up null check
