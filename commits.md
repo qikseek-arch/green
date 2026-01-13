@@ -6803,3 +6803,4 @@
 2026-01-13T07:03:49.427Z BBC <bbc@users.noreply.github.com> :: fix build script
 2026-01-13T07:52:47.096Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up config defaults
 2026-01-13T08:53:23.659Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add error handling
+2026-01-13T09:08:57.487Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
