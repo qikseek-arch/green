@@ -16459,3 +16459,4 @@
 2026-01-13T11:32:27.418Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove error handling
 2026-01-13T12:21:46.507Z rxi <rxi@users.noreply.github.com> :: polish build script
 2026-01-13T12:48:09.074Z Aman Kumar <Amanc77@users.noreply.github.com> :: add dead code
+2026-01-13T13:38:41.056Z LMSYS <lm-sys@users.noreply.github.com> :: wire up readme typo
