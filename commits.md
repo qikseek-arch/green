@@ -6813,3 +6813,4 @@
 2026-01-13T16:39:12.784Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add logging
 2026-01-13T17:35:51.226Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up build script
 2026-01-13T18:07:16.740Z Almas Baim <AlmasB@users.noreply.github.com> :: fix edge case in auth
+2026-01-13T18:13:15.400Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor the parser
