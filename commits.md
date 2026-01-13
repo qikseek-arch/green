@@ -6801,3 +6801,4 @@
 2026-01-13T06:47:09.843Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add logging
 2026-01-13T06:55:14.064Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up retry logic
 2026-01-13T07:03:49.427Z BBC <bbc@users.noreply.github.com> :: fix build script
+2026-01-13T07:52:47.096Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up config defaults
