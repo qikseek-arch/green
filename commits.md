@@ -6838,3 +6838,4 @@
 2026-01-14T19:24:25.350Z AI4Bhārat <opensource@ai4bharat.org> :: remove flaky test
 2026-01-14T19:55:40.339Z Odi <mathdroid@users.noreply.github.com> :: update the CI matrix
 2026-01-14T20:02:58.003Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor flaky test
+2026-01-14T20:12:40.157Z Arduino <arduino@users.noreply.github.com> :: add dependency versions
