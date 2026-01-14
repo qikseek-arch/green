@@ -6820,3 +6820,4 @@
 2026-01-14T00:24:59.998Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump flaky test
 2026-01-14T01:22:44.036Z Adam Bell <b3ll@users.noreply.github.com> :: polish null check
 2026-01-14T02:07:12.195Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up readme typo
+2026-01-14T04:15:25.354Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
