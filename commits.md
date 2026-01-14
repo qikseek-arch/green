@@ -303,3 +303,4 @@
 2026-01-13T13:53:32.431Z Kyler Condran <KylerCondran@users.noreply.github.com> :: tweak the CI matrix
 2026-01-13T14:36:05.575Z Leon AI <louis@getleon.ai> :: wire up dependency versions
 2026-01-13T16:19:36.115Z Hsiaoming Yang <lepture@users.noreply.github.com> :: clean up readme typo
+2026-01-14T15:14:16.098Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish logging
