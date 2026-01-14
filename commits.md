@@ -6841,3 +6841,4 @@
 2026-01-14T20:12:40.157Z Arduino <arduino@users.noreply.github.com> :: add dependency versions
 2026-01-14T20:33:51.657Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up the CI matrix
 2026-01-14T20:54:29.704Z md-5 <md-5@users.noreply.github.com> :: refactor dead code
+2026-01-14T21:08:59.964Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
