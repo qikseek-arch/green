@@ -16476,3 +16476,4 @@
 2026-01-14T05:56:03.018Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: clean up error handling
 2026-01-14T06:40:52.106Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish flaky test
 2026-01-14T07:00:10.369Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove the CI matrix
+2026-01-14T09:06:56.191Z LocalSend <localsend@users.noreply.github.com> :: remove config defaults
