@@ -6826,3 +6826,4 @@
 2026-01-14T08:50:30.038Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the parser
 2026-01-14T09:01:40.781Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
 2026-01-14T09:43:40.509Z Getgems <getgems-io@users.noreply.github.com> :: update config defaults
+2026-01-14T09:49:03.625Z Shubs <infosec-au@users.noreply.github.com> :: refactor null check
