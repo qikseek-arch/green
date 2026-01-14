@@ -6822,3 +6822,4 @@
 2026-01-14T02:07:12.195Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up readme typo
 2026-01-14T04:15:25.354Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
 2026-01-14T04:40:30.758Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak null check
+2026-01-14T06:39:59.949Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
