@@ -16466,3 +16466,4 @@
 2026-01-13T21:07:52.277Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the CI matrix
 2026-01-14T01:29:36.365Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: fix retry logic
 2026-01-14T01:34:30.303Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update cache keys
+2026-01-14T02:35:57.347Z Amnezia VPN <support@amnezia.org> :: add config defaults
