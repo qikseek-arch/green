@@ -6839,3 +6839,4 @@
 2026-01-14T19:55:40.339Z Odi <mathdroid@users.noreply.github.com> :: update the CI matrix
 2026-01-14T20:02:58.003Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor flaky test
 2026-01-14T20:12:40.157Z Arduino <arduino@users.noreply.github.com> :: add dependency versions
+2026-01-14T20:33:51.657Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up the CI matrix
