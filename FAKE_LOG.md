@@ -686,3 +686,4 @@
 2026-01-10T23:25:52.190Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: clean up error handling
 2026-01-12T06:14:12.713Z Chris Wanstrath <defunkt@users.noreply.github.com> :: polish null check
 2026-01-13T06:48:59.478Z ReVanced <nosupport@revanced.app> :: polish null check
+2026-01-14T01:49:05.484Z Evan You <yyx990803@users.noreply.github.com> :: fix the parser
