@@ -16483,3 +16483,4 @@
 2026-01-14T14:11:21.304Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up null check
 2026-01-14T14:25:47.739Z Amnezia VPN <support@amnezia.org> :: tweak the CI matrix
 2026-01-14T17:37:16.364Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor edge case in auth
+2026-01-14T18:12:23.536Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up edge case in auth
