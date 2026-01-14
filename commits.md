@@ -6833,3 +6833,4 @@
 2026-01-14T12:09:59.874Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix flaky test
 2026-01-14T13:06:05.979Z SouJunior <wouerner@soujunior.tech> :: bump config defaults
 2026-01-14T13:18:17.643Z heyli <lcxfs1991@users.noreply.github.com> :: wire up retry logic
+2026-01-14T15:44:21.536Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak dependency versions
