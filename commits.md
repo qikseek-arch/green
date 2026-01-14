@@ -6831,3 +6831,4 @@
 2026-01-14T10:45:57.340Z Damian Dulisz <shentao@users.noreply.github.com> :: fix null check
 2026-01-14T11:38:33.849Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update flaky test
 2026-01-14T12:09:59.874Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix flaky test
+2026-01-14T13:06:05.979Z SouJunior <wouerner@soujunior.tech> :: bump config defaults
