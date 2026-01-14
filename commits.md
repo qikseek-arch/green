@@ -16481,3 +16481,4 @@
 2026-01-14T11:07:12.613Z Scott Chacon <schacon@users.noreply.github.com> :: refactor readme typo
 2026-01-14T13:01:28.865Z Odi <mathdroid@users.noreply.github.com> :: refactor null check
 2026-01-14T14:11:21.304Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up null check
+2026-01-14T14:25:47.739Z Amnezia VPN <support@amnezia.org> :: tweak the CI matrix
