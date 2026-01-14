@@ -16478,3 +16478,4 @@
 2026-01-14T07:00:10.369Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove the CI matrix
 2026-01-14T09:06:56.191Z LocalSend <localsend@users.noreply.github.com> :: remove config defaults
 2026-01-14T10:01:53.256Z Prometheus <prometheus@users.noreply.github.com> :: remove edge case in auth
+2026-01-14T11:07:12.613Z Scott Chacon <schacon@users.noreply.github.com> :: refactor readme typo
