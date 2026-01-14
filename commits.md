@@ -16472,3 +16472,4 @@
 2026-01-14T04:35:10.543Z Michael Jackson <mjackson@users.noreply.github.com> :: bump the CI matrix
 2026-01-14T04:52:23.864Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up cache keys
 2026-01-14T05:03:14.934Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update readme typo
+2026-01-14T05:48:31.309Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak dependency versions
