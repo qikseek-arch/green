@@ -6825,3 +6825,4 @@
 2026-01-14T06:39:59.949Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
 2026-01-14T08:50:30.038Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the parser
 2026-01-14T09:01:40.781Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
+2026-01-14T09:43:40.509Z Getgems <getgems-io@users.noreply.github.com> :: update config defaults
