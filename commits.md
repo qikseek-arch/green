@@ -16467,3 +16467,4 @@
 2026-01-14T01:29:36.365Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: fix retry logic
 2026-01-14T01:34:30.303Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update cache keys
 2026-01-14T02:35:57.347Z Amnezia VPN <support@amnezia.org> :: add config defaults
+2026-01-14T03:51:27.851Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up the parser
