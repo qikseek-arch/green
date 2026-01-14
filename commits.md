@@ -6823,3 +6823,4 @@
 2026-01-14T04:15:25.354Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
 2026-01-14T04:40:30.758Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak null check
 2026-01-14T06:39:59.949Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
+2026-01-14T08:50:30.038Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump the parser
