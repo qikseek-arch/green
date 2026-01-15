@@ -306,3 +306,4 @@
 2026-01-14T15:14:16.098Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish logging
 2026-01-14T19:51:49.056Z Katrina Owen <kytrinyx@users.noreply.github.com> :: clean up cache keys
 2026-01-15T01:23:21.771Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: wire up logging
+2026-01-15T07:28:16.636Z Matt Pocock <mattpocock@users.noreply.github.com> :: polish error handling
