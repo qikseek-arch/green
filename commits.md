@@ -16493,3 +16493,4 @@
 2026-01-15T03:42:39.019Z Lovell Fuller <lovell@users.noreply.github.com> :: fix readme typo
 2026-01-15T03:45:14.242Z Dove Letter <skydoves2@gmail.com> :: fix dead code
 2026-01-15T04:05:22.752Z Tom Dale <tomdale@users.noreply.github.com> :: remove build script
+2026-01-15T04:30:08.982Z in28minutes <in28minutes@users.noreply.github.com> :: tweak the CI matrix
