@@ -6876,3 +6876,4 @@
 2026-01-15T18:45:35.215Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor flaky test
 2026-01-15T20:36:59.820Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak logging
 2026-01-15T22:27:33.478Z Taiko Foundation <info@taiko.xyz> :: bump dead code
+2026-01-15T23:01:35.690Z Rafal <RafalW3bCraft@users.noreply.github.com> :: wire up retry logic
