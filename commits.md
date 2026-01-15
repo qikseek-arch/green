@@ -6864,3 +6864,4 @@
 2026-01-15T13:17:29.638Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add retry logic
 2026-01-15T13:47:37.731Z heyli <lcxfs1991@users.noreply.github.com> :: add logging
 2026-01-15T14:09:27.612Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish config defaults
+2026-01-15T14:28:29.774Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish null check
