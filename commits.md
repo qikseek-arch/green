@@ -16488,3 +16488,4 @@
 2026-01-15T00:51:51.819Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove retry logic
 2026-01-15T01:28:47.585Z Asif Taj <axiftaj@users.noreply.github.com> :: update edge case in auth
 2026-01-15T01:58:57.403Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix error handling
+2026-01-15T03:11:04.965Z Collabnix <collabnix@users.noreply.github.com> :: add the parser
