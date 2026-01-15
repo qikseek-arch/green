@@ -6857,3 +6857,4 @@
 2026-01-15T04:37:58.355Z Barret李靖 <barretlee@users.noreply.github.com> :: bump edge case in auth
 2026-01-15T07:35:03.042Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak error handling
 2026-01-15T07:55:28.241Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor edge case in auth
+2026-01-15T07:58:11.602Z markqvist <markqvist@users.noreply.github.com> :: fix error handling
