@@ -16509,3 +16509,4 @@
 2026-01-15T19:56:19.020Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor logging
 2026-01-15T20:36:13.533Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up edge case in auth
 2026-01-15T20:48:48.244Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix edge case in auth
+2026-01-15T22:02:16.472Z rxi <rxi@users.noreply.github.com> :: bump config defaults
