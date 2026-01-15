@@ -16497,3 +16497,4 @@
 2026-01-15T05:58:52.654Z LocalSend <localsend@users.noreply.github.com> :: wire up build script
 2026-01-15T07:32:36.900Z Prometheus <prometheus@users.noreply.github.com> :: wire up flaky test
 2026-01-15T12:37:12.231Z OpenBMB <openbmb@gmail.com> :: refactor cache keys
+2026-01-15T13:39:46.487Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor null check
