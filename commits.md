@@ -6846,3 +6846,4 @@
 2026-01-14T22:46:27.266Z Tim MacDonald <timacdonald@users.noreply.github.com> :: tweak the parser
 2026-01-15T00:18:35.141Z vb <Vaibhavs10@users.noreply.github.com> :: bump dead code
 2026-01-15T00:41:49.963Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove the CI matrix
+2026-01-15T00:46:31.093Z md-5 <md-5@users.noreply.github.com> :: wire up config defaults
