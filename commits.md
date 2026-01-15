@@ -305,3 +305,4 @@
 2026-01-13T16:19:36.115Z Hsiaoming Yang <lepture@users.noreply.github.com> :: clean up readme typo
 2026-01-14T15:14:16.098Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish logging
 2026-01-14T19:51:49.056Z Katrina Owen <kytrinyx@users.noreply.github.com> :: clean up cache keys
+2026-01-15T01:23:21.771Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: wire up logging
