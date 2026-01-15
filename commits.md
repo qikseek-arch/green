@@ -6849,3 +6849,4 @@
 2026-01-15T00:46:31.093Z md-5 <md-5@users.noreply.github.com> :: wire up config defaults
 2026-01-15T01:23:06.758Z Getgems <getgems-io@users.noreply.github.com> :: update dead code
 2026-01-15T02:24:50.240Z OpenJS Foundation <info@openjsf.org> :: fix dead code
+2026-01-15T03:39:10.606Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
