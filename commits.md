@@ -16487,3 +16487,4 @@
 2026-01-14T20:11:20.717Z 千古壹号 <qianguyihao@users.noreply.github.com> :: update logging
 2026-01-15T00:51:51.819Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove retry logic
 2026-01-15T01:28:47.585Z Asif Taj <axiftaj@users.noreply.github.com> :: update edge case in auth
+2026-01-15T01:58:57.403Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix error handling
