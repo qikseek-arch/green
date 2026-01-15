@@ -6852,3 +6852,4 @@
 2026-01-15T03:39:10.606Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak error handling
 2026-01-15T04:00:25.050Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak cache keys
 2026-01-15T04:04:18.265Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish flaky test
+2026-01-15T04:06:48.196Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak build script
