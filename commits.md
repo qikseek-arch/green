@@ -6855,3 +6855,4 @@
 2026-01-15T04:06:48.196Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak build script
 2026-01-15T04:09:10.568Z markqvist <markqvist@users.noreply.github.com> :: tweak flaky test
 2026-01-15T04:37:58.355Z Barret李靖 <barretlee@users.noreply.github.com> :: bump edge case in auth
+2026-01-15T07:35:03.042Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak error handling
