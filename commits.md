@@ -308,3 +308,4 @@
 2026-01-15T01:23:21.771Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: wire up logging
 2026-01-15T07:28:16.636Z Matt Pocock <mattpocock@users.noreply.github.com> :: polish error handling
 2026-01-15T12:32:27.621Z Susan Li <susanli2016@users.noreply.github.com> :: update flaky test
+2026-01-16T02:01:49.175Z FastAPI <fastapi@users.noreply.github.com> :: wire up the CI matrix
