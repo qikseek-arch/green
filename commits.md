@@ -6898,3 +6898,4 @@
 2026-01-16T20:22:06.710Z Bert Belder <piscisaureus@users.noreply.github.com> :: add build script
 2026-01-16T20:52:51.403Z Aurélien Geron <ageron@users.noreply.github.com> :: polish readme typo
 2026-01-16T21:05:51.744Z CTFs <ctfs@users.noreply.github.com> :: refactor config defaults
+2026-01-16T23:50:53.511Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump error handling
