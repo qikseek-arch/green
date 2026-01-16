@@ -16527,3 +16527,4 @@
 2026-01-16T07:35:57.427Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove dead code
 2026-01-16T07:51:01.820Z Collabnix <collabnix@users.noreply.github.com> :: refactor flaky test
 2026-01-16T07:56:45.731Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update config defaults
+2026-01-16T09:15:14.529Z Lovell Fuller <lovell@users.noreply.github.com> :: remove config defaults
