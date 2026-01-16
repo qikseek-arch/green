@@ -16517,3 +16517,4 @@
 2026-01-16T03:19:12.215Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump the parser
 2026-01-16T03:29:30.182Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: add cache keys
 2026-01-16T04:09:13.435Z LMSYS <lm-sys@users.noreply.github.com> :: clean up the CI matrix
+2026-01-16T05:43:16.755Z SurrealDB <surrealdb@users.noreply.github.com> :: update null check
