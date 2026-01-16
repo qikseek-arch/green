@@ -6895,3 +6895,4 @@
 2026-01-16T16:31:53.257Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up logging
 2026-01-16T17:28:23.956Z ㅤxander <vampirist@users.noreply.github.com> :: update null check
 2026-01-16T17:51:12.628Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix the CI matrix
+2026-01-16T20:22:06.710Z Bert Belder <piscisaureus@users.noreply.github.com> :: add build script
