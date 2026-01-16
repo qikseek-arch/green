@@ -16519,3 +16519,4 @@
 2026-01-16T04:09:13.435Z LMSYS <lm-sys@users.noreply.github.com> :: clean up the CI matrix
 2026-01-16T05:43:16.755Z SurrealDB <surrealdb@users.noreply.github.com> :: update null check
 2026-01-16T05:48:20.538Z Asif Taj <axiftaj@users.noreply.github.com> :: fix dependency versions
+2026-01-16T06:26:08.031Z Dove Letter <skydoves2@gmail.com> :: add dependency versions
