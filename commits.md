@@ -6891,3 +6891,4 @@
 2026-01-16T11:41:45.029Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update dependency versions
 2026-01-16T12:27:54.234Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove flaky test
 2026-01-16T14:48:59.354Z David Clark <nullptrException100@users.noreply.github.com> :: clean up readme typo
+2026-01-16T15:40:12.189Z Adam Łucek <ALucek@users.noreply.github.com> :: update edge case in auth
