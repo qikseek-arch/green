@@ -16514,3 +16514,4 @@
 2026-01-15T23:25:59.830Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: clean up logging
 2026-01-16T00:40:17.897Z DefTruth <DefTruth@users.noreply.github.com> :: bump cache keys
 2026-01-16T01:52:03.692Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: wire up dependency versions
+2026-01-16T03:19:12.215Z Marcel Pociot <mpociot@users.noreply.github.com> :: bump the parser
