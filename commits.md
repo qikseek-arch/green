@@ -6879,3 +6879,4 @@
 2026-01-15T23:01:35.690Z Rafal <RafalW3bCraft@users.noreply.github.com> :: wire up retry logic
 2026-01-15T23:34:22.844Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up error handling
 2026-01-16T03:38:19.150Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: add dead code
+2026-01-16T06:15:16.349Z WebRTC <discuss-webrtc@googlegroups.com> :: refactor error handling
