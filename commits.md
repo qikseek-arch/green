@@ -6896,3 +6896,4 @@
 2026-01-16T17:28:23.956Z ㅤxander <vampirist@users.noreply.github.com> :: update null check
 2026-01-16T17:51:12.628Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix the CI matrix
 2026-01-16T20:22:06.710Z Bert Belder <piscisaureus@users.noreply.github.com> :: add build script
+2026-01-16T20:52:51.403Z Aurélien Geron <ageron@users.noreply.github.com> :: polish readme typo
