@@ -688,3 +688,4 @@
 2026-01-13T06:48:59.478Z ReVanced <nosupport@revanced.app> :: polish null check
 2026-01-14T01:49:05.484Z Evan You <yyx990803@users.noreply.github.com> :: fix the parser
 2026-01-16T03:47:42.324Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: wire up the CI matrix
+2026-01-16T16:43:33.139Z Addy Osmani <addyosmani@users.noreply.github.com> :: polish the parser
