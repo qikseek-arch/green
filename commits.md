@@ -16560,3 +16560,4 @@
 2026-01-17T08:55:04.192Z Xingang Pan <XingangPan@users.noreply.github.com> :: add dead code
 2026-01-17T09:01:59.892Z Collabnix <collabnix@users.noreply.github.com> :: bump the CI matrix
 2026-01-17T09:17:54.689Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove config defaults
+2026-01-17T10:13:37.966Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up readme typo
