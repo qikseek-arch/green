@@ -16552,3 +16552,4 @@
 2026-01-17T06:16:15.778Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump readme typo
 2026-01-17T06:17:30.462Z Odi <mathdroid@users.noreply.github.com> :: fix edge case in auth
 2026-01-17T06:48:46.560Z Aman Kumar <Amanc77@users.noreply.github.com> :: wire up cache keys
+2026-01-17T06:54:44.556Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor build script
