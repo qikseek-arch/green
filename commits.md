@@ -6923,3 +6923,4 @@
 2026-01-17T16:20:32.771Z Damian Dulisz <shentao@users.noreply.github.com> :: add flaky test
 2026-01-17T17:26:17.806Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up config defaults
 2026-01-17T20:17:07.692Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor dependency versions
+2026-01-17T21:13:55.839Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix edge case in auth
