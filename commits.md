@@ -16572,3 +16572,4 @@
 2026-01-17T16:38:53.867Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add readme typo
 2026-01-17T17:01:21.454Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump readme typo
 2026-01-17T18:28:22.421Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: refactor logging
+2026-01-17T19:56:27.884Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: wire up edge case in auth
