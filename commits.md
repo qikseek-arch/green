@@ -6909,3 +6909,4 @@
 2026-01-17T05:48:14.522Z AI4Bhārat <opensource@ai4bharat.org> :: bump build script
 2026-01-17T06:45:53.196Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump cache keys
 2026-01-17T07:04:25.950Z Taiko Foundation <info@taiko.xyz> :: add flaky test
+2026-01-17T07:58:31.500Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak config defaults
