@@ -16567,3 +16567,4 @@
 2026-01-17T12:12:32.729Z Henry <hzoo@users.noreply.github.com> :: wire up error handling
 2026-01-17T14:43:31.171Z Lipis <lipis@users.noreply.github.com> :: update retry logic
 2026-01-17T15:51:41.739Z Morvan <MorvanZhou@users.noreply.github.com> :: update dead code
+2026-01-17T16:17:25.282Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: add readme typo
