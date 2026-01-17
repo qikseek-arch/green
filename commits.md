@@ -6904,3 +6904,4 @@
 2026-01-17T03:55:12.858Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up readme typo
 2026-01-17T04:23:32.211Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump the parser
 2026-01-17T05:24:44.893Z LILYGO <LilyGO@users.noreply.github.com> :: wire up null check
+2026-01-17T05:32:07.820Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up null check
