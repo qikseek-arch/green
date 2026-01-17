@@ -6913,3 +6913,4 @@
 2026-01-17T08:23:20.737Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
 2026-01-17T08:30:01.992Z ring04h <ring04h@users.noreply.github.com> :: tweak dead code
 2026-01-17T10:17:46.561Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak the CI matrix
+2026-01-17T12:25:59.693Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update readme typo
