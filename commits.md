@@ -16545,3 +16545,4 @@
 2026-01-17T01:51:29.671Z DefTruth <DefTruth@users.noreply.github.com> :: bump retry logic
 2026-01-17T02:21:57.661Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak build script
 2026-01-17T02:30:11.796Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add error handling
+2026-01-17T02:38:02.470Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: clean up the parser
