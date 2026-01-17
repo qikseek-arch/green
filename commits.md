@@ -16550,3 +16550,4 @@
 2026-01-17T05:07:11.629Z Prometheus <prometheus@users.noreply.github.com> :: fix the CI matrix
 2026-01-17T05:49:18.756Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: clean up flaky test
 2026-01-17T06:16:15.778Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump readme typo
+2026-01-17T06:17:30.462Z Odi <mathdroid@users.noreply.github.com> :: fix edge case in auth
