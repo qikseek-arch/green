@@ -16559,3 +16559,4 @@
 2026-01-17T08:34:53.186Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add dependency versions
 2026-01-17T08:55:04.192Z Xingang Pan <XingangPan@users.noreply.github.com> :: add dead code
 2026-01-17T09:01:59.892Z Collabnix <collabnix@users.noreply.github.com> :: bump the CI matrix
+2026-01-17T09:17:54.689Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove config defaults
