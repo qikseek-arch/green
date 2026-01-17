@@ -6902,3 +6902,4 @@
 2026-01-17T01:56:24.738Z CTFs <ctfs@users.noreply.github.com> :: update cache keys
 2026-01-17T02:01:47.400Z SouJunior <wouerner@soujunior.tech> :: clean up cache keys
 2026-01-17T03:55:12.858Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up readme typo
+2026-01-17T04:23:32.211Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump the parser
