@@ -6921,3 +6921,4 @@
 2026-01-17T16:04:26.628Z Getgems <getgems-io@users.noreply.github.com> :: add cache keys
 2026-01-17T16:12:37.919Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add config defaults
 2026-01-17T16:20:32.771Z Damian Dulisz <shentao@users.noreply.github.com> :: add flaky test
+2026-01-17T17:26:17.806Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up config defaults
