@@ -6915,3 +6915,4 @@
 2026-01-17T10:17:46.561Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak the CI matrix
 2026-01-17T12:25:59.693Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update readme typo
 2026-01-17T13:28:15.468Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump edge case in auth
+2026-01-17T14:23:20.825Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak dead code
