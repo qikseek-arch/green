@@ -6910,3 +6910,4 @@
 2026-01-17T06:45:53.196Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump cache keys
 2026-01-17T07:04:25.950Z Taiko Foundation <info@taiko.xyz> :: add flaky test
 2026-01-17T07:58:31.500Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak config defaults
+2026-01-17T08:23:20.737Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
