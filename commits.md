@@ -6942,3 +6942,4 @@
 2026-01-18T10:03:34.216Z markqvist <markqvist@users.noreply.github.com> :: update the parser
 2026-01-18T10:25:10.421Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor error handling
 2026-01-18T10:50:33.417Z vb <Vaibhavs10@users.noreply.github.com> :: bump edge case in auth
+2026-01-18T13:29:55.906Z owenzhang <owenzhang@users.noreply.github.com> :: remove readme typo
