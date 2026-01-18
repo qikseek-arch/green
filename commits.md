@@ -16586,3 +16586,4 @@
 2026-01-18T08:23:23.267Z Prometheus <prometheus@users.noreply.github.com> :: add config defaults
 2026-01-18T08:43:53.156Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump logging
 2026-01-18T09:56:42.938Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish dead code
+2026-01-18T09:56:59.592Z Lipis <lipis@users.noreply.github.com> :: clean up readme typo
