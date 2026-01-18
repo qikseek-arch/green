@@ -16577,3 +16577,4 @@
 2026-01-17T21:52:51.553Z Sky Ao <skyao@users.noreply.github.com> :: remove logging
 2026-01-18T01:40:30.990Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish edge case in auth
 2026-01-18T01:51:57.537Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up cache keys
+2026-01-18T02:20:28.616Z BAPPY AHMED <entbappy@users.noreply.github.com> :: add null check
