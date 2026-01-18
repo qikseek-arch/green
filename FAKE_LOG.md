@@ -529,3 +529,4 @@
 2026-01-08T12:55:38.847Z George Hotz <geohot@users.noreply.github.com> :: polish readme typo
 2026-01-16T23:15:56.109Z Brais Moure <mouredev@users.noreply.github.com> :: add flaky test
 2026-01-18T17:27:15.014Z Google <opensource@google.com> :: refactor dependency versions
+2026-01-18T23:45:50.985Z Evan You <yyx990803@users.noreply.github.com> :: refactor error handling
