@@ -6945,3 +6945,4 @@
 2026-01-18T13:29:55.906Z owenzhang <owenzhang@users.noreply.github.com> :: remove readme typo
 2026-01-18T14:48:18.411Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up error handling
 2026-01-18T19:30:16.721Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak dependency versions
+2026-01-18T19:34:13.405Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump error handling
