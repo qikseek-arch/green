@@ -16587,3 +16587,4 @@
 2026-01-18T08:43:53.156Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump logging
 2026-01-18T09:56:42.938Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish dead code
 2026-01-18T09:56:59.592Z Lipis <lipis@users.noreply.github.com> :: clean up readme typo
+2026-01-18T13:49:34.739Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix readme typo
