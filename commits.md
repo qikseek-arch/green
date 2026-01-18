@@ -6948,3 +6948,4 @@
 2026-01-18T19:34:13.405Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump error handling
 2026-01-18T19:36:52.824Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add null check
 2026-01-18T22:03:32.397Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up the parser
+2026-01-18T22:43:29.990Z Shubs <infosec-au@users.noreply.github.com> :: bump the CI matrix
