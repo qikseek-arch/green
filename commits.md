@@ -6928,3 +6928,4 @@
 2026-01-18T00:18:51.171Z Arduino <arduino@users.noreply.github.com> :: update the CI matrix
 2026-01-18T00:26:42.472Z David Fowler <davidfowl@users.noreply.github.com> :: update cache keys
 2026-01-18T00:35:21.810Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update null check
+2026-01-18T00:51:24.607Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor dependency versions
