@@ -16596,3 +16596,4 @@
 2026-01-18T20:35:41.408Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: add cache keys
 2026-01-18T22:49:22.903Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove edge case in auth
 2026-01-18T22:52:30.262Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump dependency versions
+2026-01-18T23:10:36.343Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump null check
