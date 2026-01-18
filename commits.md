@@ -16590,3 +16590,4 @@
 2026-01-18T13:49:34.739Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix readme typo
 2026-01-18T14:32:11.555Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove error handling
 2026-01-18T15:44:14.227Z OpenBSD <openbsd@users.noreply.github.com> :: clean up readme typo
+2026-01-18T15:51:04.124Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up the parser
