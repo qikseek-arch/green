@@ -6937,3 +6937,4 @@
 2026-01-18T03:57:09.468Z AI4Bhārat <opensource@ai4bharat.org> :: wire up dependency versions
 2026-01-18T04:27:04.866Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add flaky test
 2026-01-18T04:37:10.910Z BBC <bbc@users.noreply.github.com> :: polish the parser
+2026-01-18T07:00:11.526Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak the CI matrix
