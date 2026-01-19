@@ -6952,3 +6952,4 @@
 2026-01-18T22:51:05.814Z OpenJS Foundation <info@openjsf.org> :: polish readme typo
 2026-01-19T00:36:32.420Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add config defaults
 2026-01-19T01:17:17.446Z Odi <mathdroid@users.noreply.github.com> :: polish the parser
+2026-01-19T06:44:42.530Z Roger Labbe <rlabbe@users.noreply.github.com> :: update flaky test
