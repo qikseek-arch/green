@@ -6956,3 +6956,4 @@
 2026-01-19T06:51:17.720Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
 2026-01-19T07:07:49.338Z heyli <lcxfs1991@users.noreply.github.com> :: wire up readme typo
 2026-01-19T08:56:23.496Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish dependency versions
+2026-01-19T09:05:02.699Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add logging
