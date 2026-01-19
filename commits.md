@@ -16615,3 +16615,4 @@
 2026-01-19T18:45:41.779Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: refactor dead code
 2026-01-19T20:03:22.379Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up dead code
 2026-01-19T21:43:47.575Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump the parser
+2026-01-19T22:07:56.428Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix config defaults
