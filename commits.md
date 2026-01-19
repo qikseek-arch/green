@@ -16611,3 +16611,4 @@
 2026-01-19T16:16:27.227Z cytopia <cytopia@users.noreply.github.com> :: polish the CI matrix
 2026-01-19T16:51:26.639Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix build script
 2026-01-19T17:01:02.825Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish readme typo
+2026-01-19T18:10:48.300Z Dove Letter <skydoves2@gmail.com> :: polish config defaults
