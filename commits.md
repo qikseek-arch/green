@@ -6955,3 +6955,4 @@
 2026-01-19T06:44:42.530Z Roger Labbe <rlabbe@users.noreply.github.com> :: update flaky test
 2026-01-19T06:51:17.720Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
 2026-01-19T07:07:49.338Z heyli <lcxfs1991@users.noreply.github.com> :: wire up readme typo
+2026-01-19T08:56:23.496Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish dependency versions
