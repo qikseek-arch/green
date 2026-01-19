@@ -16609,3 +16609,4 @@
 2026-01-19T14:41:25.929Z t11s <transmissions11@users.noreply.github.com> :: fix config defaults
 2026-01-19T15:38:15.613Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
 2026-01-19T16:16:27.227Z cytopia <cytopia@users.noreply.github.com> :: polish the CI matrix
+2026-01-19T16:51:26.639Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix build script
