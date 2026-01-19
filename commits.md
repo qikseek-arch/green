@@ -16605,3 +16605,4 @@
 2026-01-19T08:38:55.064Z Alex Teichman <teichman@users.noreply.github.com> :: fix flaky test
 2026-01-19T09:17:21.985Z rxi <rxi@users.noreply.github.com> :: clean up logging
 2026-01-19T09:30:56.336Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add error handling
+2026-01-19T12:07:53.391Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix dependency versions
