@@ -318,3 +318,4 @@
 2026-01-19T09:16:26.688Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: remove the parser
 2026-01-19T12:44:13.770Z MASSGRAVE <massgravel@users.noreply.github.com> :: fix the parser
 2026-01-19T13:46:14.548Z Cheng Lou <chenglou@users.noreply.github.com> :: polish cache keys
+2026-01-19T15:42:14.146Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump retry logic
