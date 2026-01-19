@@ -16607,3 +16607,4 @@
 2026-01-19T09:30:56.336Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add error handling
 2026-01-19T12:07:53.391Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix dependency versions
 2026-01-19T14:41:25.929Z t11s <transmissions11@users.noreply.github.com> :: fix config defaults
+2026-01-19T15:38:15.613Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
