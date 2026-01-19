@@ -16600,3 +16600,4 @@
 2026-01-18T23:46:52.011Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: bump edge case in auth
 2026-01-19T02:07:05.079Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak logging
 2026-01-19T02:09:04.805Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up config defaults
+2026-01-19T03:13:56.619Z Damian Gryski <dgryski@users.noreply.github.com> :: fix dead code
