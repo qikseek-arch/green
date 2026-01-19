@@ -6959,3 +6959,4 @@
 2026-01-19T09:05:02.699Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add logging
 2026-01-19T10:14:17.839Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
 2026-01-19T11:04:59.956Z Shubs <infosec-au@users.noreply.github.com> :: update the parser
+2026-01-19T11:37:08.485Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
