@@ -6951,3 +6951,4 @@
 2026-01-18T22:43:29.990Z Shubs <infosec-au@users.noreply.github.com> :: bump the CI matrix
 2026-01-18T22:51:05.814Z OpenJS Foundation <info@openjsf.org> :: polish readme typo
 2026-01-19T00:36:32.420Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add config defaults
+2026-01-19T01:17:17.446Z Odi <mathdroid@users.noreply.github.com> :: polish the parser
