@@ -6957,3 +6957,4 @@
 2026-01-19T07:07:49.338Z heyli <lcxfs1991@users.noreply.github.com> :: wire up readme typo
 2026-01-19T08:56:23.496Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish dependency versions
 2026-01-19T09:05:02.699Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add logging
+2026-01-19T10:14:17.839Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
