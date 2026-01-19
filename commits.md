@@ -16599,3 +16599,4 @@
 2026-01-18T23:10:36.343Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump null check
 2026-01-18T23:46:52.011Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: bump edge case in auth
 2026-01-19T02:07:05.079Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak logging
+2026-01-19T02:09:04.805Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up config defaults
