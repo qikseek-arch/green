@@ -6977,3 +6977,4 @@
 2026-01-20T00:05:31.328Z Almas Baim <AlmasB@users.noreply.github.com> :: update cache keys
 2026-01-20T03:05:34.223Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak logging
 2026-01-20T03:36:04.371Z Adam Bell <b3ll@users.noreply.github.com> :: polish dependency versions
+2026-01-20T03:40:24.005Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the parser
