@@ -691,3 +691,4 @@
 2026-01-16T16:43:33.139Z Addy Osmani <addyosmani@users.noreply.github.com> :: polish the parser
 2026-01-18T05:58:58.773Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: refactor retry logic
 2026-01-19T20:46:18.730Z Alp ₿📈🚀🌕 <IDouble@users.noreply.github.com> :: bump cache keys
+2026-01-20T09:03:58.178Z Kamran Ahmed <nilbuild@users.noreply.github.com> :: tweak config defaults
