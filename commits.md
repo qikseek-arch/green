@@ -16628,3 +16628,4 @@
 2026-01-20T13:26:11.447Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
 2026-01-20T13:44:36.353Z Alex Teichman <teichman@users.noreply.github.com> :: tweak error handling
 2026-01-20T14:35:17.946Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: add logging
+2026-01-20T15:02:20.664Z Morvan <MorvanZhou@users.noreply.github.com> :: polish null check
