@@ -16617,3 +16617,4 @@
 2026-01-19T21:43:47.575Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump the parser
 2026-01-19T22:07:56.428Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix config defaults
 2026-01-19T22:23:36.505Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: fix the parser
+2026-01-20T02:31:15.085Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish the parser
