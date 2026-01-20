@@ -16623,3 +16623,4 @@
 2026-01-20T04:10:56.449Z OpenBMB <openbmb@gmail.com> :: wire up dependency versions
 2026-01-20T07:20:07.792Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up config defaults
 2026-01-20T08:35:04.504Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix the CI matrix
+2026-01-20T09:51:44.680Z winterbe <winterbe@users.noreply.github.com> :: update null check
