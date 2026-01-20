@@ -6999,3 +6999,4 @@
 2026-01-20T20:46:33.763Z Taiko Foundation <info@taiko.xyz> :: clean up the parser
 2026-01-20T21:27:44.519Z Getgems <getgems-io@users.noreply.github.com> :: add error handling
 2026-01-20T21:36:18.987Z Ryan Bigg <radar@users.noreply.github.com> :: fix null check
+2026-01-20T23:26:58.172Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix logging
