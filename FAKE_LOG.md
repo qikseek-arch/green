@@ -331,3 +331,4 @@
 2026-01-12T00:28:36.405Z vivid-toaster1337 <vivid-toaster1337@fake.invalid> :: polish the CI matrix | Co-authored-by: Taylor Otwell <taylorotwell@users.noreply.github.com>
 2026-01-13T21:18:24.196Z Katherine Johnson <katherine.johnson@fake.invalid> :: clean up readme typo
 2026-01-19T22:39:08.551Z chillyak589 <chillyak589@fake.invalid> :: polish the parser
+2026-01-20T05:05:18.890Z Edsger Dijkstra <edsger.dijkstra@fake.invalid> :: remove error handling
