@@ -16625,3 +16625,4 @@
 2026-01-20T08:35:04.504Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix the CI matrix
 2026-01-20T09:51:44.680Z winterbe <winterbe@users.noreply.github.com> :: update null check
 2026-01-20T10:23:16.468Z Collabnix <collabnix@users.noreply.github.com> :: polish dependency versions
+2026-01-20T13:26:11.447Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
