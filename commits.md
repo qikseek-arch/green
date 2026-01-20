@@ -16632,3 +16632,4 @@
 2026-01-20T15:12:23.560Z cytopia <cytopia@users.noreply.github.com> :: clean up edge case in auth
 2026-01-20T15:34:54.372Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update dependency versions
 2026-01-20T19:17:10.995Z Damian Gryski <dgryski@users.noreply.github.com> :: add dependency versions
+2026-01-20T20:17:26.498Z cytopia <cytopia@users.noreply.github.com> :: bump null check
