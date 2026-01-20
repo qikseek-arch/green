@@ -16620,3 +16620,4 @@
 2026-01-20T02:31:15.085Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish the parser
 2026-01-20T03:20:19.547Z Tavis Ormandy <taviso@users.noreply.github.com> :: remove dead code
 2026-01-20T03:42:41.338Z Yiming Cui <ymcui@users.noreply.github.com> :: fix edge case in auth
+2026-01-20T04:10:56.449Z OpenBMB <openbmb@gmail.com> :: wire up dependency versions
