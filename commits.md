@@ -16626,3 +16626,4 @@
 2026-01-20T09:51:44.680Z winterbe <winterbe@users.noreply.github.com> :: update null check
 2026-01-20T10:23:16.468Z Collabnix <collabnix@users.noreply.github.com> :: polish dependency versions
 2026-01-20T13:26:11.447Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
+2026-01-20T13:44:36.353Z Alex Teichman <teichman@users.noreply.github.com> :: tweak error handling
