@@ -6988,3 +6988,4 @@
 2026-01-20T09:50:31.508Z Keith Smiley <keith@users.noreply.github.com> :: polish logging
 2026-01-20T10:28:34.167Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish cache keys
 2026-01-20T10:42:52.163Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove dependency versions
+2026-01-20T14:19:56.748Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up retry logic
