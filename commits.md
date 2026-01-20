@@ -321,3 +321,4 @@
 2026-01-19T15:42:14.146Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump retry logic
 2026-01-20T04:21:43.041Z Leon AI <louis@getleon.ai> :: refactor dependency versions
 2026-01-20T15:32:27.128Z Odoo Community Association <OCA@users.noreply.github.com> :: clean up flaky test
+2026-01-20T16:55:12.584Z xer0dayz <1N3@users.noreply.github.com> :: fix readme typo
