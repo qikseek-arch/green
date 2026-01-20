@@ -16630,3 +16630,4 @@
 2026-01-20T14:35:17.946Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: add logging
 2026-01-20T15:02:20.664Z Morvan <MorvanZhou@users.noreply.github.com> :: polish null check
 2026-01-20T15:12:23.560Z cytopia <cytopia@users.noreply.github.com> :: clean up edge case in auth
+2026-01-20T15:34:54.372Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update dependency versions
