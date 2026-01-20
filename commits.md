@@ -6990,3 +6990,4 @@
 2026-01-20T10:42:52.163Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove dependency versions
 2026-01-20T14:19:56.748Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up retry logic
 2026-01-20T14:23:24.700Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak edge case in auth
+2026-01-20T16:42:56.584Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove readme typo
