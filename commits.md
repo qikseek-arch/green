@@ -16650,3 +16650,4 @@
 2026-01-21T07:24:23.269Z 薛翔 <xuexiangjys@users.noreply.github.com> :: update the CI matrix
 2026-01-21T08:29:10.816Z 1 <insoxin@users.noreply.github.com> :: clean up readme typo
 2026-01-21T08:47:45.847Z OpenBMB <openbmb@gmail.com> :: fix retry logic
+2026-01-21T10:30:12.112Z LocalSend <localsend@users.noreply.github.com> :: remove null check
