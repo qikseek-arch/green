@@ -16642,3 +16642,4 @@
 2026-01-21T03:35:51.968Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak flaky test
 2026-01-21T03:52:24.798Z 1 <insoxin@users.noreply.github.com> :: clean up build script
 2026-01-21T04:03:54.269Z Daniel Reis <danielhe4rt@users.noreply.github.com> :: fix config defaults
+2026-01-21T04:57:42.487Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up config defaults
