@@ -16647,3 +16647,4 @@
 2026-01-21T06:11:27.093Z rxi <rxi@users.noreply.github.com> :: fix cache keys
 2026-01-21T06:35:58.971Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish flaky test
 2026-01-21T06:42:17.666Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add edge case in auth
+2026-01-21T07:24:23.269Z 薛翔 <xuexiangjys@users.noreply.github.com> :: update the CI matrix
