@@ -16652,3 +16652,4 @@
 2026-01-21T08:47:45.847Z OpenBMB <openbmb@gmail.com> :: fix retry logic
 2026-01-21T10:30:12.112Z LocalSend <localsend@users.noreply.github.com> :: remove null check
 2026-01-21T11:19:49.452Z Brian Holt <btholt@users.noreply.github.com> :: bump retry logic
+2026-01-21T12:37:06.851Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump error handling
