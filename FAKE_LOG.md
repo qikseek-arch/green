@@ -427,3 +427,4 @@
 2026-01-11T08:52:56.940Z The Octocat <octocat@users.noreply.github.com> :: remove the parser
 2026-01-19T05:33:08.067Z CosmicMonolith <cosmicmonolith@fake.invalid> :: bump cache keys
 2026-01-19T19:45:57.325Z TJ Holowaychuk <tj.holowaychuk@fake.invalid> :: fix the parser
+2026-01-21T10:32:58.915Z Leslie Lamport <leslie.lamport@fake.invalid> :: fix error handling
