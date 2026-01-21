@@ -7013,3 +7013,4 @@
 2026-01-21T06:06:50.110Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up logging
 2026-01-21T08:09:12.512Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
 2026-01-21T08:34:14.806Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak the parser
+2026-01-21T08:35:45.920Z OpenJS Foundation <info@openjsf.org> :: polish error handling
