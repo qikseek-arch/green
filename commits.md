@@ -7027,3 +7027,4 @@
 2026-01-21T21:36:14.814Z Sachin Soni <techiesms@users.noreply.github.com> :: bump config defaults
 2026-01-21T22:39:06.343Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix edge case in auth
 2026-01-21T23:13:36.298Z Odi <mathdroid@users.noreply.github.com> :: add build script
+2026-01-21T23:27:25.002Z ㅤxander <vampirist@users.noreply.github.com> :: polish readme typo
