@@ -7017,3 +7017,4 @@
 2026-01-21T11:07:07.454Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish flaky test
 2026-01-21T14:05:11.274Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove error handling
 2026-01-21T14:25:47.687Z CTFs <ctfs@users.noreply.github.com> :: wire up the CI matrix
+2026-01-21T14:41:51.741Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add the parser
