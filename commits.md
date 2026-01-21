@@ -16658,3 +16658,4 @@
 2026-01-21T17:53:28.906Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix error handling
 2026-01-21T18:07:13.776Z Tom Dale <tomdale@users.noreply.github.com> :: remove edge case in auth
 2026-01-21T22:13:59.573Z Odi <mathdroid@users.noreply.github.com> :: bump dependency versions
+2026-01-21T23:02:36.419Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix the parser
