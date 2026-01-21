@@ -7011,3 +7011,4 @@
 2026-01-21T05:56:02.955Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor cache keys
 2026-01-21T06:06:39.541Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update flaky test
 2026-01-21T06:06:50.110Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up logging
+2026-01-21T08:09:12.512Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
