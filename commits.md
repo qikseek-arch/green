@@ -16669,3 +16669,4 @@
 2026-01-22T05:24:43.863Z Aman Kumar <Amanc77@users.noreply.github.com> :: clean up edge case in auth
 2026-01-22T06:04:35.531Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update edge case in auth
 2026-01-22T06:25:02.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up edge case in auth
+2026-01-22T06:57:08.874Z Lovell Fuller <lovell@users.noreply.github.com> :: fix edge case in auth
