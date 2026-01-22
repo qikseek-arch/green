@@ -327,3 +327,4 @@
 2026-01-22T01:32:41.840Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: fix the parser
 2026-01-22T04:06:53.950Z DeepSeek <service@deepseek.com> :: bump dependency versions
 2026-01-22T14:15:56.081Z DeepSeek <service@deepseek.com> :: fix null check
+2026-01-22T15:47:06.754Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: bump dead code
