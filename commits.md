@@ -16670,3 +16670,4 @@
 2026-01-22T06:04:35.531Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update edge case in auth
 2026-01-22T06:25:02.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up edge case in auth
 2026-01-22T06:57:08.874Z Lovell Fuller <lovell@users.noreply.github.com> :: fix edge case in auth
+2026-01-22T08:07:31.938Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix readme typo
