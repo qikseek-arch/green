@@ -16686,3 +16686,4 @@
 2026-01-22T16:20:41.470Z SurrealDB <surrealdb@users.noreply.github.com> :: refactor null check
 2026-01-22T16:34:57.530Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor dependency versions
 2026-01-22T16:53:17.173Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix dependency versions
+2026-01-22T19:19:02.919Z Scott Chacon <schacon@users.noreply.github.com> :: tweak build script
