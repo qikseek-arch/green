@@ -7034,3 +7034,4 @@
 2026-01-22T05:39:04.646Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor logging
 2026-01-22T06:45:21.234Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update dependency versions
 2026-01-22T06:52:55.277Z Taiko Foundation <info@taiko.xyz> :: tweak edge case in auth
+2026-01-22T07:17:52.432Z Sachin Soni <techiesms@users.noreply.github.com> :: add error handling
