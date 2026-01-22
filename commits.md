@@ -7047,3 +7047,4 @@
 2026-01-22T18:35:27.066Z Claude <claude@users.noreply.github.com> :: remove edge case in auth
 2026-01-22T20:15:25.310Z Rei <chloerei@users.noreply.github.com> :: tweak cache keys
 2026-01-22T22:48:30.386Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove null check
+2026-01-22T23:40:00.560Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor readme typo
