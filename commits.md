@@ -16671,3 +16671,4 @@
 2026-01-22T06:25:02.422Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: wire up edge case in auth
 2026-01-22T06:57:08.874Z Lovell Fuller <lovell@users.noreply.github.com> :: fix edge case in auth
 2026-01-22T08:07:31.938Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix readme typo
+2026-01-22T09:51:44.591Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor dead code
