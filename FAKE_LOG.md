@@ -333,3 +333,4 @@
 2026-01-19T22:39:08.551Z chillyak589 <chillyak589@fake.invalid> :: polish the parser
 2026-01-20T05:05:18.890Z Edsger Dijkstra <edsger.dijkstra@fake.invalid> :: remove error handling
 2026-01-21T06:57:31.976Z Marie Curie <marie.curie@fake.invalid> :: update error handling
+2026-01-22T02:14:51.037Z turbocomet493 <turbocomet493@fake.invalid> :: fix build script
