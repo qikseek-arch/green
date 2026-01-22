@@ -16667,3 +16667,4 @@
 2026-01-22T03:59:28.190Z Google Fonts <googlefonts@users.noreply.github.com> :: clean up the parser
 2026-01-22T05:04:04.171Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up dependency versions
 2026-01-22T05:24:43.863Z Aman Kumar <Amanc77@users.noreply.github.com> :: clean up edge case in auth
+2026-01-22T06:04:35.531Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update edge case in auth
