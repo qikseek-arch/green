@@ -16660,3 +16660,4 @@
 2026-01-21T22:13:59.573Z Odi <mathdroid@users.noreply.github.com> :: bump dependency versions
 2026-01-21T23:02:36.419Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix the parser
 2026-01-21T23:13:07.343Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update readme typo
+2026-01-22T00:13:43.374Z Odi <mathdroid@users.noreply.github.com> :: fix retry logic
