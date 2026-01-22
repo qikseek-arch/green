@@ -7039,3 +7039,4 @@
 2026-01-22T12:37:37.989Z David Clark <nullptrException100@users.noreply.github.com> :: clean up cache keys
 2026-01-22T13:00:36.417Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak flaky test
 2026-01-22T13:44:32.257Z Getgems <getgems-io@users.noreply.github.com> :: polish dependency versions
+2026-01-22T14:04:55.121Z Roger Labbe <rlabbe@users.noreply.github.com> :: update readme typo
