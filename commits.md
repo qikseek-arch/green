@@ -16662,3 +16662,4 @@
 2026-01-21T23:13:07.343Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update readme typo
 2026-01-22T00:13:43.374Z Odi <mathdroid@users.noreply.github.com> :: fix retry logic
 2026-01-22T00:23:20.879Z Dove Letter <skydoves2@gmail.com> :: polish readme typo
+2026-01-22T01:14:08.799Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor dependency versions
