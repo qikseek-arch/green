@@ -7044,3 +7044,4 @@
 2026-01-22T17:51:18.751Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up the CI matrix
 2026-01-22T18:08:05.776Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump dependency versions
 2026-01-22T18:15:23.838Z Getgems <getgems-io@users.noreply.github.com> :: add error handling
+2026-01-22T18:35:27.066Z Claude <claude@users.noreply.github.com> :: remove edge case in auth
