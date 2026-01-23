@@ -16704,3 +16704,4 @@
 2026-01-23T08:35:53.572Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor edge case in auth
 2026-01-23T08:36:04.771Z Boshen <Boshen@users.noreply.github.com> :: tweak readme typo
 2026-01-23T09:35:15.276Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor dependency versions
+2026-01-23T09:43:33.739Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump the CI matrix
