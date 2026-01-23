@@ -7062,3 +7062,4 @@
 2026-01-23T13:19:09.027Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dead code
 2026-01-23T16:18:47.597Z First Contributions <firstcontributions@gmail.com> :: tweak the CI matrix
 2026-01-23T16:28:09.207Z Ivan Volkov <Chitus@users.noreply.github.com> :: update error handling
+2026-01-23T17:16:07.016Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update dependency versions
