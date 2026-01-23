@@ -7050,3 +7050,4 @@
 2026-01-22T23:40:00.560Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor readme typo
 2026-01-22T23:58:41.294Z Duy Tran <khanhduytran0@users.noreply.github.com> :: polish dependency versions
 2026-01-23T00:41:33.910Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
+2026-01-23T02:25:55.560Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish logging
