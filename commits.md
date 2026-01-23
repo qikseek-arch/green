@@ -7068,3 +7068,4 @@
 2026-01-23T20:39:01.802Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak logging
 2026-01-23T21:39:53.603Z Damian Dulisz <shentao@users.noreply.github.com> :: bump error handling
 2026-01-23T22:12:41.066Z Taiko Foundation <info@taiko.xyz> :: refactor null check
+2026-01-23T22:23:52.642Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up the parser
