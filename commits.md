@@ -16702,3 +16702,4 @@
 2026-01-23T08:09:35.835Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove dead code
 2026-01-23T08:24:44.786Z Tavis Ormandy <taviso@users.noreply.github.com> :: bump readme typo
 2026-01-23T08:35:53.572Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor edge case in auth
+2026-01-23T08:36:04.771Z Boshen <Boshen@users.noreply.github.com> :: tweak readme typo
