@@ -16717,3 +16717,4 @@
 2026-01-23T19:18:20.104Z LMSYS <lm-sys@users.noreply.github.com> :: tweak readme typo
 2026-01-23T20:23:46.780Z Damian Gryski <dgryski@users.noreply.github.com> :: add the CI matrix
 2026-01-23T21:19:39.827Z Brian Holt <btholt@users.noreply.github.com> :: remove error handling
+2026-01-23T21:33:05.607Z t11s <transmissions11@users.noreply.github.com> :: remove edge case in auth
