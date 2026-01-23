@@ -16694,3 +16694,4 @@
 2026-01-22T23:44:50.379Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish readme typo
 2026-01-23T00:25:30.865Z Boshen <Boshen@users.noreply.github.com> :: refactor config defaults
 2026-01-23T02:28:20.054Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak dead code
+2026-01-23T04:22:07.581Z Tom Dale <tomdale@users.noreply.github.com> :: add the parser
