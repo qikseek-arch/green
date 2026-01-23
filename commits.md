@@ -16700,3 +16700,4 @@
 2026-01-23T05:08:19.870Z Dove Letter <skydoves2@gmail.com> :: clean up config defaults
 2026-01-23T06:34:38.871Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up config defaults
 2026-01-23T08:09:35.835Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove dead code
+2026-01-23T08:24:44.786Z Tavis Ormandy <taviso@users.noreply.github.com> :: bump readme typo
