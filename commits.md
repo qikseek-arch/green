@@ -16715,3 +16715,4 @@
 2026-01-23T17:42:33.477Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add config defaults
 2026-01-23T19:09:20.080Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish dead code
 2026-01-23T19:18:20.104Z LMSYS <lm-sys@users.noreply.github.com> :: tweak readme typo
+2026-01-23T20:23:46.780Z Damian Gryski <dgryski@users.noreply.github.com> :: add the CI matrix
