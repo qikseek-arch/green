@@ -16701,3 +16701,4 @@
 2026-01-23T06:34:38.871Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up config defaults
 2026-01-23T08:09:35.835Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove dead code
 2026-01-23T08:24:44.786Z Tavis Ormandy <taviso@users.noreply.github.com> :: bump readme typo
+2026-01-23T08:35:53.572Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor edge case in auth
