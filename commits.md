@@ -7060,3 +7060,4 @@
 2026-01-23T10:25:08.733Z First Contributions <firstcontributions@gmail.com> :: fix dependency versions
 2026-01-23T11:47:08.918Z Rei <chloerei@users.noreply.github.com> :: polish build script
 2026-01-23T13:19:09.027Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dead code
+2026-01-23T16:18:47.597Z First Contributions <firstcontributions@gmail.com> :: tweak the CI matrix
