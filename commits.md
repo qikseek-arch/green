@@ -7049,3 +7049,4 @@
 2026-01-22T22:48:30.386Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove null check
 2026-01-22T23:40:00.560Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor readme typo
 2026-01-22T23:58:41.294Z Duy Tran <khanhduytran0@users.noreply.github.com> :: polish dependency versions
+2026-01-23T00:41:33.910Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
