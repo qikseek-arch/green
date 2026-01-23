@@ -7064,3 +7064,4 @@
 2026-01-23T16:28:09.207Z Ivan Volkov <Chitus@users.noreply.github.com> :: update error handling
 2026-01-23T17:16:07.016Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update dependency versions
 2026-01-23T18:12:31.385Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish null check
+2026-01-23T20:30:45.125Z Adam Bell <b3ll@users.noreply.github.com> :: fix readme typo
