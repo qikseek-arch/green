@@ -16706,3 +16706,4 @@
 2026-01-23T09:35:15.276Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor dependency versions
 2026-01-23T09:43:33.739Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump the CI matrix
 2026-01-23T09:56:23.635Z Michael Jackson <mjackson@users.noreply.github.com> :: update config defaults
+2026-01-23T10:35:00.911Z Casey Muratori <cmuratori@users.noreply.github.com> :: tweak logging
