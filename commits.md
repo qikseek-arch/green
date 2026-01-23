@@ -7053,3 +7053,4 @@
 2026-01-23T02:25:55.560Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish logging
 2026-01-23T03:28:38.218Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak the parser
 2026-01-23T06:28:23.890Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up build script
+2026-01-23T08:12:03.959Z Ben Hamner <benhamner@users.noreply.github.com> :: remove dead code
