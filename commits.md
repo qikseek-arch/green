@@ -16692,3 +16692,4 @@
 2026-01-22T21:51:04.289Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up dependency versions
 2026-01-22T23:01:29.784Z Jordan Harband <ljharb@users.noreply.github.com> :: bump null check
 2026-01-22T23:44:50.379Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish readme typo
+2026-01-23T00:25:30.865Z Boshen <Boshen@users.noreply.github.com> :: refactor config defaults
