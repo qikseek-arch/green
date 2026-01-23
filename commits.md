@@ -16697,3 +16697,4 @@
 2026-01-23T04:22:07.581Z Tom Dale <tomdale@users.noreply.github.com> :: add the parser
 2026-01-23T04:39:41.842Z DefTruth <DefTruth@users.noreply.github.com> :: refactor edge case in auth
 2026-01-23T05:05:15.334Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak null check
+2026-01-23T05:08:19.870Z Dove Letter <skydoves2@gmail.com> :: clean up config defaults
