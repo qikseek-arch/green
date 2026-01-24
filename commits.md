@@ -16736,3 +16736,4 @@
 2026-01-24T11:47:35.016Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add logging
 2026-01-24T12:14:45.082Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
 2026-01-24T13:06:25.896Z Aman Kumar <Amanc77@users.noreply.github.com> :: clean up retry logic
+2026-01-24T15:04:12.754Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak edge case in auth
