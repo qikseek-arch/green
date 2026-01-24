@@ -7083,3 +7083,4 @@
 2026-01-24T12:29:06.335Z ㅤxander <vampirist@users.noreply.github.com> :: update dependency versions
 2026-01-24T15:02:47.806Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish error handling
 2026-01-24T15:27:09.022Z Keith Smiley <keith@users.noreply.github.com> :: tweak edge case in auth
+2026-01-24T15:40:25.146Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove readme typo
