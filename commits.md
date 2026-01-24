@@ -16740,3 +16740,4 @@
 2026-01-24T15:28:51.750Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix build script
 2026-01-24T15:58:53.862Z cytopia <cytopia@users.noreply.github.com> :: polish flaky test
 2026-01-24T16:37:21.693Z Alex Teichman <teichman@users.noreply.github.com> :: refactor error handling
+2026-01-24T17:19:29.249Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: remove retry logic
