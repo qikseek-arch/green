@@ -7096,3 +7096,4 @@
 2026-01-24T20:07:49.307Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the parser
 2026-01-24T20:31:21.138Z Barret李靖 <barretlee@users.noreply.github.com> :: wire up edge case in auth
 2026-01-24T20:38:40.031Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add retry logic
+2026-01-24T20:39:20.423Z SouJunior <wouerner@soujunior.tech> :: refactor error handling
