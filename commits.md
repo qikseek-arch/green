@@ -16741,3 +16741,4 @@
 2026-01-24T15:58:53.862Z cytopia <cytopia@users.noreply.github.com> :: polish flaky test
 2026-01-24T16:37:21.693Z Alex Teichman <teichman@users.noreply.github.com> :: refactor error handling
 2026-01-24T17:19:29.249Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: remove retry logic
+2026-01-24T19:44:00.900Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix null check
