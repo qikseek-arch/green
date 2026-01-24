@@ -16731,3 +16731,4 @@
 2026-01-24T05:04:58.070Z Prometheus <prometheus@users.noreply.github.com> :: add flaky test
 2026-01-24T05:05:23.354Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish the parser
 2026-01-24T08:55:24.352Z Collabnix <collabnix@users.noreply.github.com> :: clean up build script
+2026-01-24T11:38:49.654Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix the parser
