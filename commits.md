@@ -16720,3 +16720,4 @@
 2026-01-23T21:33:05.607Z t11s <transmissions11@users.noreply.github.com> :: remove edge case in auth
 2026-01-23T21:56:17.319Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix dependency versions
 2026-01-24T00:35:56.572Z OpenBMB <openbmb@gmail.com> :: polish logging
+2026-01-24T01:05:14.028Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish config defaults
