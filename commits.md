@@ -16734,3 +16734,4 @@
 2026-01-24T11:38:49.654Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix the parser
 2026-01-24T11:40:13.201Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up the parser
 2026-01-24T11:47:35.016Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add logging
+2026-01-24T12:14:45.082Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor config defaults
