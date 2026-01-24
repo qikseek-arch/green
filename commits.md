@@ -7093,3 +7093,4 @@
 2026-01-24T18:49:42.813Z Adam Łucek <ALucek@users.noreply.github.com> :: update retry logic
 2026-01-24T20:01:08.364Z markqvist <markqvist@users.noreply.github.com> :: fix the CI matrix
 2026-01-24T20:03:36.912Z Claude <claude@users.noreply.github.com> :: bump dead code
+2026-01-24T20:07:49.307Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the parser
