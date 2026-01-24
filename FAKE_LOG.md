@@ -232,3 +232,4 @@
 2026-01-18T00:01:35.346Z lumen <lumen@fake.invalid> :: bump edge case in auth
 2026-01-19T01:28:16.257Z quill <quill@fake.invalid> :: update flaky test
 2026-01-21T08:40:59.739Z echo <echo@fake.invalid> :: remove flaky test
+2026-01-24T06:23:54.312Z kai <kai@fake.invalid> :: bump config defaults
