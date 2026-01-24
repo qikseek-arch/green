@@ -7080,3 +7080,4 @@
 2026-01-24T10:45:46.866Z Jason Zhang <Hackl0us@users.noreply.github.com> :: remove null check
 2026-01-24T11:07:47.737Z Getgems <getgems-io@users.noreply.github.com> :: tweak retry logic
 2026-01-24T11:28:06.886Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor cache keys
+2026-01-24T12:29:06.335Z ㅤxander <vampirist@users.noreply.github.com> :: update dependency versions
