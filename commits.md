@@ -7088,3 +7088,4 @@
 2026-01-24T16:20:45.708Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish dead code
 2026-01-24T16:51:41.853Z vb <Vaibhavs10@users.noreply.github.com> :: update dependency versions
 2026-01-24T17:47:47.802Z Adam Łucek <ALucek@users.noreply.github.com> :: remove the CI matrix
+2026-01-24T18:21:36.950Z vb <Vaibhavs10@users.noreply.github.com> :: clean up dependency versions
