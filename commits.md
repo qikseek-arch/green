@@ -16722,3 +16722,4 @@
 2026-01-24T00:35:56.572Z OpenBMB <openbmb@gmail.com> :: polish logging
 2026-01-24T01:05:14.028Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish config defaults
 2026-01-24T01:35:05.119Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak cache keys
+2026-01-24T01:40:11.503Z OpenBSD <openbsd@users.noreply.github.com> :: fix error handling
