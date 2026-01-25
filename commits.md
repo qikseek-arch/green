@@ -7124,3 +7124,4 @@
 2026-01-25T17:31:31.563Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the CI matrix
 2026-01-25T17:34:13.565Z Keith Smiley <keith@users.noreply.github.com> :: clean up error handling
 2026-01-25T19:39:23.260Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the parser
+2026-01-25T22:14:49.736Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump build script
