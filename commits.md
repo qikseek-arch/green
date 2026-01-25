@@ -335,3 +335,4 @@
 2026-01-23T23:53:14.294Z Ovilia <Ovilia@users.noreply.github.com> :: refactor cache keys
 2026-01-24T07:20:08.311Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: remove dead code
 2026-01-25T08:13:07.129Z Colt Steele <Colt@users.noreply.github.com> :: remove config defaults
+2026-01-25T14:11:53.356Z Chad Sharp <cmlsharp@users.noreply.github.com> :: bump retry logic
