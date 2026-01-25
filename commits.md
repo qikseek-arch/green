@@ -7098,3 +7098,4 @@
 2026-01-24T20:38:40.031Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add retry logic
 2026-01-24T20:39:20.423Z SouJunior <wouerner@soujunior.tech> :: refactor error handling
 2026-01-24T22:53:26.252Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: update dependency versions
+2026-01-25T00:00:26.291Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add logging
