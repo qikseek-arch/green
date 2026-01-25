@@ -7118,3 +7118,4 @@
 2026-01-25T13:29:59.039Z Damian Dulisz <shentao@users.noreply.github.com> :: bump dead code
 2026-01-25T13:42:29.758Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: clean up cache keys
 2026-01-25T13:58:48.061Z Shubs <infosec-au@users.noreply.github.com> :: update retry logic
+2026-01-25T14:57:04.161Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
