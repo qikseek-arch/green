@@ -7126,3 +7126,4 @@
 2026-01-25T19:39:23.260Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the parser
 2026-01-25T22:14:49.736Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump build script
 2026-01-25T23:08:10.282Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump error handling
+2026-01-25T23:19:41.918Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix the parser
