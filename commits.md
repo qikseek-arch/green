@@ -16772,3 +16772,4 @@
 2026-01-25T16:08:23.796Z 1 <insoxin@users.noreply.github.com> :: polish retry logic
 2026-01-25T16:24:36.697Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: remove cache keys
 2026-01-25T17:38:10.494Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove build script
+2026-01-25T19:00:48.907Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add readme typo
