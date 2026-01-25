@@ -16752,3 +16752,4 @@
 2026-01-25T00:57:00.654Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update retry logic
 2026-01-25T01:26:20.719Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: clean up dead code
 2026-01-25T01:51:49.371Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix build script
+2026-01-25T01:52:29.448Z Odi <mathdroid@users.noreply.github.com> :: add null check
