@@ -7103,3 +7103,4 @@
 2026-01-25T01:07:43.038Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up build script
 2026-01-25T02:05:45.098Z md-5 <md-5@users.noreply.github.com> :: update dependency versions
 2026-01-25T02:14:47.972Z Shubs <infosec-au@users.noreply.github.com> :: clean up logging
+2026-01-25T02:26:14.528Z Adam Łucek <ALucek@users.noreply.github.com> :: add the CI matrix
