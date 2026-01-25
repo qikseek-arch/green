@@ -16751,3 +16751,4 @@
 2026-01-24T22:49:52.211Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove the CI matrix
 2026-01-25T00:57:00.654Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update retry logic
 2026-01-25T01:26:20.719Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: clean up dead code
+2026-01-25T01:51:49.371Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix build script
