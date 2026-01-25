@@ -7106,3 +7106,4 @@
 2026-01-25T02:26:14.528Z Adam Łucek <ALucek@users.noreply.github.com> :: add the CI matrix
 2026-01-25T03:33:20.725Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak edge case in auth
 2026-01-25T04:05:17.384Z Selenium <SeleniumHQ@users.noreply.github.com> :: update logging
+2026-01-25T04:25:42.660Z David Fowler <davidfowl@users.noreply.github.com> :: clean up error handling
