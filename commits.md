@@ -7120,3 +7120,4 @@
 2026-01-25T13:58:48.061Z Shubs <infosec-au@users.noreply.github.com> :: update retry logic
 2026-01-25T14:57:04.161Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
 2026-01-25T15:38:09.420Z vb <Vaibhavs10@users.noreply.github.com> :: remove retry logic
+2026-01-25T17:26:44.107Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor dead code
