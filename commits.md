@@ -7123,3 +7123,4 @@
 2026-01-25T17:26:44.107Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor dead code
 2026-01-25T17:31:31.563Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the CI matrix
 2026-01-25T17:34:13.565Z Keith Smiley <keith@users.noreply.github.com> :: clean up error handling
+2026-01-25T19:39:23.260Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the parser
