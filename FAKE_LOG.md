@@ -697,3 +697,4 @@
 2026-01-23T11:23:10.240Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: wire up config defaults
 2026-01-23T22:57:56.465Z Anthropic <anthropics@users.noreply.github.com> :: fix logging
 2026-01-24T21:16:48.380Z Bucky Roberts <buckyroberts@users.noreply.github.com> :: bump build script
+2026-01-26T06:26:07.473Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: wire up dependency versions
