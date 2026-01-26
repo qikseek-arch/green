@@ -7134,3 +7134,4 @@
 2026-01-26T01:21:44.574Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish logging
 2026-01-26T02:36:32.787Z markqvist <markqvist@users.noreply.github.com> :: fix retry logic
 2026-01-26T02:37:58.614Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor dead code
+2026-01-26T04:59:18.065Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor build script
