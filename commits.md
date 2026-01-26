@@ -7154,3 +7154,4 @@
 2026-01-26T19:54:54.956Z markqvist <markqvist@users.noreply.github.com> :: remove flaky test
 2026-01-26T20:38:37.310Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove readme typo
 2026-01-26T21:49:26.004Z owenzhang <owenzhang@users.noreply.github.com> :: refactor null check
+2026-01-26T22:33:30.638Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up null check
