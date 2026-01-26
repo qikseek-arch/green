@@ -16789,3 +16789,4 @@
 2026-01-26T09:23:27.366Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak readme typo
 2026-01-26T09:26:50.827Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: tweak config defaults
 2026-01-26T09:41:47.850Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump error handling
+2026-01-26T11:10:48.271Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update cache keys
