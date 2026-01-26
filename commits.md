@@ -16780,3 +16780,4 @@
 2026-01-26T01:18:23.324Z Tom Dale <tomdale@users.noreply.github.com> :: bump the CI matrix
 2026-01-26T02:34:34.957Z OpenBSD <openbsd@users.noreply.github.com> :: bump cache keys
 2026-01-26T03:22:12.420Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak the CI matrix
+2026-01-26T03:54:47.424Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update error handling
