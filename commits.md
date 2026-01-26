@@ -7150,3 +7150,4 @@
 2026-01-26T16:40:54.145Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove retry logic
 2026-01-26T17:59:54.954Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dead code
 2026-01-26T18:51:53.424Z Manu Arora <manuarora700@users.noreply.github.com> :: bump dependency versions
+2026-01-26T18:56:00.693Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up logging
