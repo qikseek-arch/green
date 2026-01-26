@@ -7147,3 +7147,4 @@
 2026-01-26T10:44:28.859Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up the CI matrix
 2026-01-26T11:39:07.927Z Shubs <infosec-au@users.noreply.github.com> :: remove dead code
 2026-01-26T15:28:04.365Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor config defaults
+2026-01-26T16:40:54.145Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove retry logic
