@@ -7128,3 +7128,4 @@
 2026-01-25T23:08:10.282Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump error handling
 2026-01-25T23:19:41.918Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix the parser
 2026-01-25T23:24:59.314Z ring04h <ring04h@users.noreply.github.com> :: add the CI matrix
+2026-01-26T00:04:00.383Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up edge case in auth
