@@ -7148,3 +7148,4 @@
 2026-01-26T11:39:07.927Z Shubs <infosec-au@users.noreply.github.com> :: remove dead code
 2026-01-26T15:28:04.365Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor config defaults
 2026-01-26T16:40:54.145Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove retry logic
+2026-01-26T17:59:54.954Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dead code
