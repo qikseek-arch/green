@@ -16799,3 +16799,4 @@
 2026-01-26T19:09:19.284Z Boshen <Boshen@users.noreply.github.com> :: wire up dependency versions
 2026-01-26T19:39:28.467Z Brian Holt <btholt@users.noreply.github.com> :: remove flaky test
 2026-01-26T20:36:28.077Z Scott Chacon <schacon@users.noreply.github.com> :: wire up edge case in auth
+2026-01-26T21:56:26.776Z LMSYS <lm-sys@users.noreply.github.com> :: remove error handling
