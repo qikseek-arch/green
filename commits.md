@@ -7144,3 +7144,4 @@
 2026-01-26T07:42:07.527Z Taiko Foundation <info@taiko.xyz> :: refactor the CI matrix
 2026-01-26T08:31:45.909Z Adam Bell <b3ll@users.noreply.github.com> :: tweak null check
 2026-01-26T10:00:00.040Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix logging
+2026-01-26T10:44:28.859Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up the CI matrix
