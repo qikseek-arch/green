@@ -16792,3 +16792,4 @@
 2026-01-26T11:10:48.271Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update cache keys
 2026-01-26T11:29:49.307Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: bump null check
 2026-01-26T12:33:25.148Z OpenBMB <openbmb@gmail.com> :: polish dependency versions
+2026-01-26T12:51:43.134Z Marcel Pociot <mpociot@users.noreply.github.com> :: tweak dependency versions
