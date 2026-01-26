@@ -338,3 +338,4 @@
 2026-01-25T14:11:53.356Z Chad Sharp <cmlsharp@users.noreply.github.com> :: bump retry logic
 2026-01-25T20:26:17.884Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up config defaults
 2026-01-26T00:17:31.280Z Holtz Yan <holtzy@users.noreply.github.com> :: bump readme typo
+2026-01-26T12:32:34.256Z Rob Fuller <mubix@users.noreply.github.com> :: remove null check
