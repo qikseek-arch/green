@@ -16835,3 +16835,4 @@
 2026-01-27T18:53:50.599Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
 2026-01-27T19:08:40.989Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
 2026-01-27T20:21:45.207Z LMSYS <lm-sys@users.noreply.github.com> :: refactor null check
+2026-01-27T20:47:03.714Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the CI matrix
