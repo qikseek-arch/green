@@ -16834,3 +16834,4 @@
 2026-01-27T18:50:47.484Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak dead code
 2026-01-27T18:53:50.599Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
 2026-01-27T19:08:40.989Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
+2026-01-27T20:21:45.207Z LMSYS <lm-sys@users.noreply.github.com> :: refactor null check
