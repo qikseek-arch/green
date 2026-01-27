@@ -16820,3 +16820,4 @@
 2026-01-27T09:24:32.963Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up logging
 2026-01-27T10:09:08.380Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix cache keys
 2026-01-27T11:12:21.143Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up null check
+2026-01-27T12:52:02.730Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add dependency versions
