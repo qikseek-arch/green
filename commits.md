@@ -16833,3 +16833,4 @@
 2026-01-27T17:59:46.869Z OpenBSD <openbsd@users.noreply.github.com> :: clean up dependency versions
 2026-01-27T18:50:47.484Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak dead code
 2026-01-27T18:53:50.599Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
+2026-01-27T19:08:40.989Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
