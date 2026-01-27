@@ -7191,3 +7191,4 @@
 2026-01-27T22:54:44.877Z markqvist <markqvist@users.noreply.github.com> :: add cache keys
 2026-01-27T23:07:01.853Z Odi <mathdroid@users.noreply.github.com> :: bump build script
 2026-01-27T23:21:48.498Z OpenJS Foundation <info@openjsf.org> :: polish error handling
+2026-01-27T23:30:53.179Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
