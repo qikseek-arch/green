@@ -16827,3 +16827,4 @@
 2026-01-27T14:04:43.344Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump the parser
 2026-01-27T14:38:15.617Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up null check
 2026-01-27T15:02:17.088Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
+2026-01-27T17:06:14.193Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up dependency versions
