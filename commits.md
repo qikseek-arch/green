@@ -7166,3 +7166,4 @@
 2026-01-27T05:50:20.491Z AI4Bhārat <opensource@ai4bharat.org> :: bump null check
 2026-01-27T06:54:03.770Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump edge case in auth
 2026-01-27T07:19:42.264Z Ryan Bigg <radar@users.noreply.github.com> :: remove retry logic
+2026-01-27T07:43:44.314Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak config defaults
