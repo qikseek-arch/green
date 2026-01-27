@@ -16817,3 +16817,4 @@
 2026-01-27T08:57:23.312Z winterbe <winterbe@users.noreply.github.com> :: bump the parser
 2026-01-27T09:21:21.325Z Jabrils <Jabrils@users.noreply.github.com> :: remove readme typo
 2026-01-27T09:23:30.568Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up config defaults
+2026-01-27T09:24:32.963Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up logging
