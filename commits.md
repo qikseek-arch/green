@@ -16816,3 +16816,4 @@
 2026-01-27T08:43:53.870Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove logging
 2026-01-27T08:57:23.312Z winterbe <winterbe@users.noreply.github.com> :: bump the parser
 2026-01-27T09:21:21.325Z Jabrils <Jabrils@users.noreply.github.com> :: remove readme typo
+2026-01-27T09:23:30.568Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up config defaults
