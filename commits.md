@@ -7157,3 +7157,4 @@
 2026-01-26T22:33:30.638Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up null check
 2026-01-26T23:14:42.651Z owenzhang <owenzhang@users.noreply.github.com> :: add error handling
 2026-01-27T00:32:01.653Z Taiko Foundation <info@taiko.xyz> :: refactor readme typo
+2026-01-27T02:14:47.696Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up readme typo
