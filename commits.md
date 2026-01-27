@@ -7188,3 +7188,4 @@
 2026-01-27T19:47:24.241Z owenzhang <owenzhang@users.noreply.github.com> :: tweak error handling
 2026-01-27T21:19:50.876Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak config defaults
 2026-01-27T22:04:50.855Z LILYGO <LilyGO@users.noreply.github.com> :: fix cache keys
+2026-01-27T22:54:44.877Z markqvist <markqvist@users.noreply.github.com> :: add cache keys
