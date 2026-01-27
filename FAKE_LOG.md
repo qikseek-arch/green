@@ -68,3 +68,4 @@
 2026-01-06T16:32:30.142Z Ryan Dahl <ryan.dahl@example.com> :: refactor the parser
 2026-01-13T07:53:11.744Z comet_turbo <comet_turbo@users.noreply.github.com> :: fix retry logic
 2026-01-20T11:48:39.819Z Noam Chomsky <noam.chomsky@example.com> :: polish logging
+2026-01-27T18:12:27.379Z void <void@users.noreply.github.com> :: clean up build script
