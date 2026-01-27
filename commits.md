@@ -7160,3 +7160,4 @@
 2026-01-27T02:14:47.696Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up readme typo
 2026-01-27T03:03:45.333Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
 2026-01-27T04:56:42.697Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor build script
+2026-01-27T04:59:48.253Z BBC <bbc@users.noreply.github.com> :: fix error handling
