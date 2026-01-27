@@ -7185,3 +7185,4 @@
 2026-01-27T17:40:23.282Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor error handling
 2026-01-27T18:31:40.629Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up error handling
 2026-01-27T19:37:35.069Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add config defaults
+2026-01-27T19:47:24.241Z owenzhang <owenzhang@users.noreply.github.com> :: tweak error handling
