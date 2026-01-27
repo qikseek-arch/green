@@ -16803,3 +16803,4 @@
 2026-01-26T22:29:45.322Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump build script
 2026-01-26T22:50:06.204Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish readme typo
 2026-01-26T23:50:53.252Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add null check
+2026-01-27T00:46:37.617Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump the CI matrix
