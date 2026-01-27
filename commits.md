@@ -16826,3 +16826,4 @@
 2026-01-27T14:02:37.236Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish edge case in auth
 2026-01-27T14:04:43.344Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump the parser
 2026-01-27T14:38:15.617Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up null check
+2026-01-27T15:02:17.088Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
