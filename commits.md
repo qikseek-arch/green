@@ -16837,3 +16837,4 @@
 2026-01-27T20:21:45.207Z LMSYS <lm-sys@users.noreply.github.com> :: refactor null check
 2026-01-27T20:47:03.714Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove the CI matrix
 2026-01-27T21:15:08.344Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up readme typo
+2026-01-27T22:12:49.675Z Michael Jackson <mjackson@users.noreply.github.com> :: add the CI matrix
