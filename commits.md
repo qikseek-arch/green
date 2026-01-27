@@ -16809,3 +16809,4 @@
 2026-01-27T02:04:33.225Z Lipis <lipis@users.noreply.github.com> :: tweak logging
 2026-01-27T03:01:16.690Z Jordan Harband <ljharb@users.noreply.github.com> :: polish config defaults
 2026-01-27T03:17:12.356Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix edge case in auth
+2026-01-27T03:35:13.395Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump config defaults
