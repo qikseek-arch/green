@@ -16806,3 +16806,4 @@
 2026-01-27T00:46:37.617Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump the CI matrix
 2026-01-27T01:05:48.307Z Lovell Fuller <lovell@users.noreply.github.com> :: add retry logic
 2026-01-27T01:18:32.132Z Aman Kumar <Amanc77@users.noreply.github.com> :: fix the CI matrix
+2026-01-27T02:04:33.225Z Lipis <lipis@users.noreply.github.com> :: tweak logging
