@@ -16829,3 +16829,4 @@
 2026-01-27T15:02:17.088Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
 2026-01-27T17:06:14.193Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up dependency versions
 2026-01-27T17:16:45.818Z in28minutes <in28minutes@users.noreply.github.com> :: refactor logging
+2026-01-27T17:37:04.408Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update config defaults
