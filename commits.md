@@ -7156,3 +7156,4 @@
 2026-01-26T21:49:26.004Z owenzhang <owenzhang@users.noreply.github.com> :: refactor null check
 2026-01-26T22:33:30.638Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up null check
 2026-01-26T23:14:42.651Z owenzhang <owenzhang@users.noreply.github.com> :: add error handling
+2026-01-27T00:32:01.653Z Taiko Foundation <info@taiko.xyz> :: refactor readme typo
