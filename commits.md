@@ -7173,3 +7173,4 @@
 2026-01-27T10:11:41.916Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up null check
 2026-01-27T10:28:30.857Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up flaky test
 2026-01-27T10:57:41.245Z ring04h <ring04h@users.noreply.github.com> :: clean up config defaults
+2026-01-27T11:28:24.853Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove retry logic
