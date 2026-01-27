@@ -16815,3 +16815,4 @@
 2026-01-27T07:23:23.103Z Morvan <MorvanZhou@users.noreply.github.com> :: bump dead code
 2026-01-27T08:43:53.870Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove logging
 2026-01-27T08:57:23.312Z winterbe <winterbe@users.noreply.github.com> :: bump the parser
+2026-01-27T09:21:21.325Z Jabrils <Jabrils@users.noreply.github.com> :: remove readme typo
