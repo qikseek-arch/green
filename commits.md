@@ -7186,3 +7186,4 @@
 2026-01-27T18:31:40.629Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up error handling
 2026-01-27T19:37:35.069Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add config defaults
 2026-01-27T19:47:24.241Z owenzhang <owenzhang@users.noreply.github.com> :: tweak error handling
+2026-01-27T21:19:50.876Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak config defaults
