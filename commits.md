@@ -7159,3 +7159,4 @@
 2026-01-27T00:32:01.653Z Taiko Foundation <info@taiko.xyz> :: refactor readme typo
 2026-01-27T02:14:47.696Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up readme typo
 2026-01-27T03:03:45.333Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
+2026-01-27T04:56:42.697Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor build script
