@@ -7170,3 +7170,4 @@
 2026-01-27T09:08:43.276Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove config defaults
 2026-01-27T09:46:45.916Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump dependency versions
 2026-01-27T10:09:18.299Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak readme typo
+2026-01-27T10:11:41.916Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up null check
