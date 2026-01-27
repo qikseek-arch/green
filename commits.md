@@ -16807,3 +16807,4 @@
 2026-01-27T01:05:48.307Z Lovell Fuller <lovell@users.noreply.github.com> :: add retry logic
 2026-01-27T01:18:32.132Z Aman Kumar <Amanc77@users.noreply.github.com> :: fix the CI matrix
 2026-01-27T02:04:33.225Z Lipis <lipis@users.noreply.github.com> :: tweak logging
+2026-01-27T03:01:16.690Z Jordan Harband <ljharb@users.noreply.github.com> :: polish config defaults
