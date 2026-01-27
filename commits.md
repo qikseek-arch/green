@@ -16824,3 +16824,4 @@
 2026-01-27T13:06:58.444Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove cache keys
 2026-01-27T13:07:56.497Z Morvan <MorvanZhou@users.noreply.github.com> :: bump cache keys
 2026-01-27T14:02:37.236Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: polish edge case in auth
+2026-01-27T14:04:43.344Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump the parser
