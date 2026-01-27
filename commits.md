@@ -16831,3 +16831,4 @@
 2026-01-27T17:16:45.818Z in28minutes <in28minutes@users.noreply.github.com> :: refactor logging
 2026-01-27T17:37:04.408Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update config defaults
 2026-01-27T17:59:46.869Z OpenBSD <openbsd@users.noreply.github.com> :: clean up dependency versions
+2026-01-27T18:50:47.484Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak dead code
