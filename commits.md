@@ -16869,3 +16869,4 @@
 2026-01-28T18:11:03.086Z Alex Teichman <teichman@users.noreply.github.com> :: wire up build script
 2026-01-28T20:45:51.008Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump edge case in auth
 2026-01-28T22:03:47.429Z Lovell Fuller <lovell@users.noreply.github.com> :: bump error handling
+2026-01-28T22:39:29.989Z Jabrils <Jabrils@users.noreply.github.com> :: fix the parser
