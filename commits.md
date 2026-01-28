@@ -16864,3 +16864,4 @@
 2026-01-28T15:15:53.161Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up error handling
 2026-01-28T15:40:31.770Z winterbe <winterbe@users.noreply.github.com> :: refactor build script
 2026-01-28T15:57:47.345Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up dependency versions
+2026-01-28T16:46:45.395Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump edge case in auth
