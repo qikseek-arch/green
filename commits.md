@@ -7203,3 +7203,4 @@
 2026-01-28T04:49:52.301Z Rei <chloerei@users.noreply.github.com> :: add null check
 2026-01-28T04:57:59.248Z BBC <bbc@users.noreply.github.com> :: update logging
 2026-01-28T05:37:53.247Z CTFs <ctfs@users.noreply.github.com> :: add null check
+2026-01-28T07:01:06.815Z Shubs <infosec-au@users.noreply.github.com> :: clean up dead code
