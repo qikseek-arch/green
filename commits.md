@@ -16870,3 +16870,4 @@
 2026-01-28T20:45:51.008Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump edge case in auth
 2026-01-28T22:03:47.429Z Lovell Fuller <lovell@users.noreply.github.com> :: bump error handling
 2026-01-28T22:39:29.989Z Jabrils <Jabrils@users.noreply.github.com> :: fix the parser
+2026-01-28T22:54:04.886Z OpenBSD <openbsd@users.noreply.github.com> :: update dependency versions
