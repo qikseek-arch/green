@@ -342,3 +342,4 @@
 2026-01-27T11:57:29.779Z 削微寒 <521xueweihan@users.noreply.github.com> :: polish config defaults
 2026-01-28T03:12:01.948Z FastAPI <fastapi@users.noreply.github.com> :: clean up dead code
 2026-01-28T11:58:06.946Z Philipp Schmid <philschmid@users.noreply.github.com> :: refactor the CI matrix
+2026-01-28T15:36:23.554Z MASSGRAVE <massgravel@users.noreply.github.com> :: bump error handling
