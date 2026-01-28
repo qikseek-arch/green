@@ -7214,3 +7214,4 @@
 2026-01-28T19:27:14.611Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish flaky test
 2026-01-28T19:33:21.207Z LILYGO <LilyGO@users.noreply.github.com> :: wire up dead code
 2026-01-28T20:10:52.447Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish flaky test
+2026-01-28T21:46:02.115Z Arduino <arduino@users.noreply.github.com> :: tweak build script
