@@ -16855,3 +16855,4 @@
 2026-01-28T09:34:32.384Z Dove Letter <skydoves2@gmail.com> :: fix config defaults
 2026-01-28T10:25:16.876Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update the CI matrix
 2026-01-28T10:31:07.991Z LMSYS <lm-sys@users.noreply.github.com> :: tweak flaky test
+2026-01-28T11:18:09.952Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor dependency versions
