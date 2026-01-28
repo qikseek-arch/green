@@ -16866,3 +16866,4 @@
 2026-01-28T15:57:47.345Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up dependency versions
 2026-01-28T16:46:45.395Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump edge case in auth
 2026-01-28T17:53:48.457Z Chetan Jogi <voidChetan@users.noreply.github.com> :: add edge case in auth
+2026-01-28T18:11:03.086Z Alex Teichman <teichman@users.noreply.github.com> :: wire up build script
