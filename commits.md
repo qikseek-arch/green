@@ -7206,3 +7206,4 @@
 2026-01-28T07:01:06.815Z Shubs <infosec-au@users.noreply.github.com> :: clean up dead code
 2026-01-28T07:46:35.085Z Adam Bell <b3ll@users.noreply.github.com> :: clean up readme typo
 2026-01-28T09:47:30.262Z qiye <qiyeboy@users.noreply.github.com> :: polish dead code
+2026-01-28T11:59:53.922Z markqvist <markqvist@users.noreply.github.com> :: clean up edge case in auth
