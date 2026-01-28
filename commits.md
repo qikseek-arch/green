@@ -7197,3 +7197,4 @@
 2026-01-28T00:50:46.446Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix build script
 2026-01-28T01:12:27.629Z Adam Łucek <ALucek@users.noreply.github.com> :: fix error handling
 2026-01-28T01:34:31.500Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up cache keys
+2026-01-28T01:44:46.626Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove build script
