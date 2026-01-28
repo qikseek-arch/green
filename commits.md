@@ -7199,3 +7199,4 @@
 2026-01-28T01:34:31.500Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up cache keys
 2026-01-28T01:44:46.626Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove build script
 2026-01-28T03:19:17.737Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak dependency versions
+2026-01-28T04:01:42.538Z Keith Smiley <keith@users.noreply.github.com> :: update the CI matrix
