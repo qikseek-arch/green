@@ -7210,3 +7210,4 @@
 2026-01-28T13:05:42.145Z qiye <qiyeboy@users.noreply.github.com> :: wire up null check
 2026-01-28T13:13:08.208Z Odi <mathdroid@users.noreply.github.com> :: remove retry logic
 2026-01-28T13:27:21.031Z Keith Smiley <keith@users.noreply.github.com> :: bump readme typo
+2026-01-28T16:03:56.768Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish retry logic
