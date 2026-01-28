@@ -7194,3 +7194,4 @@
 2026-01-27T23:30:53.179Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
 2026-01-27T23:42:24.591Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up null check
 2026-01-28T00:32:16.714Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up config defaults
+2026-01-28T00:50:46.446Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix build script
