@@ -7209,3 +7209,4 @@
 2026-01-28T11:59:53.922Z markqvist <markqvist@users.noreply.github.com> :: clean up edge case in auth
 2026-01-28T13:05:42.145Z qiye <qiyeboy@users.noreply.github.com> :: wire up null check
 2026-01-28T13:13:08.208Z Odi <mathdroid@users.noreply.github.com> :: remove retry logic
+2026-01-28T13:27:21.031Z Keith Smiley <keith@users.noreply.github.com> :: bump readme typo
