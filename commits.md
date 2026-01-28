@@ -16843,3 +16843,4 @@
 2026-01-28T01:14:21.361Z 毒奶博主 <limbopro@users.noreply.github.com> :: tweak the CI matrix
 2026-01-28T01:30:11.233Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix retry logic
 2026-01-28T02:13:58.811Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish the CI matrix
+2026-01-28T03:35:03.338Z OpenBMB <openbmb@gmail.com> :: update edge case in auth
