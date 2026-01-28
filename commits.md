@@ -7195,3 +7195,4 @@
 2026-01-27T23:42:24.591Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up null check
 2026-01-28T00:32:16.714Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up config defaults
 2026-01-28T00:50:46.446Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix build script
+2026-01-28T01:12:27.629Z Adam Łucek <ALucek@users.noreply.github.com> :: fix error handling
