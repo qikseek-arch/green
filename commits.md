@@ -340,3 +340,4 @@
 2026-01-26T00:17:31.280Z Holtz Yan <holtzy@users.noreply.github.com> :: bump readme typo
 2026-01-26T12:32:34.256Z Rob Fuller <mubix@users.noreply.github.com> :: remove null check
 2026-01-27T11:57:29.779Z 削微寒 <521xueweihan@users.noreply.github.com> :: polish config defaults
+2026-01-28T03:12:01.948Z FastAPI <fastapi@users.noreply.github.com> :: clean up dead code
