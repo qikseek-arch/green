@@ -344,3 +344,4 @@
 2026-01-28T11:58:06.946Z Philipp Schmid <philschmid@users.noreply.github.com> :: refactor the CI matrix
 2026-01-28T15:36:23.554Z MASSGRAVE <massgravel@users.noreply.github.com> :: bump error handling
 2026-01-28T17:30:42.546Z Alex Yang <himself65@users.noreply.github.com> :: bump retry logic
+2026-01-28T21:07:13.351Z Alae-Eddine <alaesic@users.noreply.github.com> :: remove null check
