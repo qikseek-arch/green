@@ -16858,3 +16858,4 @@
 2026-01-28T11:18:09.952Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor dependency versions
 2026-01-28T12:47:21.236Z Tom Dale <tomdale@users.noreply.github.com> :: polish error handling
 2026-01-28T13:24:16.551Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up dependency versions
+2026-01-28T13:28:47.086Z winterbe <winterbe@users.noreply.github.com> :: refactor dead code
