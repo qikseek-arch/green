@@ -699,3 +699,4 @@
 2026-01-24T21:16:48.380Z Bucky Roberts <buckyroberts@users.noreply.github.com> :: bump build script
 2026-01-26T06:26:07.473Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: wire up dependency versions
 2026-01-26T23:44:30.208Z Diego Fernandes <diego3g@users.noreply.github.com> :: refactor the CI matrix
+2026-01-28T20:08:06.605Z Andrej Marinchenko <BEPb@users.noreply.github.com> :: fix the CI matrix
