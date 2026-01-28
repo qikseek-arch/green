@@ -16840,3 +16840,4 @@
 2026-01-27T22:12:49.675Z Michael Jackson <mjackson@users.noreply.github.com> :: add the CI matrix
 2026-01-28T00:33:20.254Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish retry logic
 2026-01-28T00:56:11.791Z Brian Holt <btholt@users.noreply.github.com> :: remove dependency versions
+2026-01-28T01:14:21.361Z 毒奶博主 <limbopro@users.noreply.github.com> :: tweak the CI matrix
