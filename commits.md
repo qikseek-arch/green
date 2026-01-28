@@ -7217,3 +7217,4 @@
 2026-01-28T21:46:02.115Z Arduino <arduino@users.noreply.github.com> :: tweak build script
 2026-01-28T22:58:51.631Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update cache keys
 2026-01-28T23:18:24.129Z OpenJS Foundation <info@openjsf.org> :: tweak dead code
+2026-01-28T23:23:44.338Z Adam Łucek <ALucek@users.noreply.github.com> :: polish logging
