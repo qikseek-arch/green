@@ -16856,3 +16856,4 @@
 2026-01-28T10:25:16.876Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update the CI matrix
 2026-01-28T10:31:07.991Z LMSYS <lm-sys@users.noreply.github.com> :: tweak flaky test
 2026-01-28T11:18:09.952Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor dependency versions
+2026-01-28T12:47:21.236Z Tom Dale <tomdale@users.noreply.github.com> :: polish error handling
