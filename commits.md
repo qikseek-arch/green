@@ -16876,3 +16876,4 @@
 2026-01-29T02:30:03.495Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up null check
 2026-01-29T02:35:09.860Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up config defaults
 2026-01-29T02:39:47.721Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak build script
+2026-01-29T02:56:27.005Z Snowflake Labs <opensource@snowflake.com> :: add retry logic
