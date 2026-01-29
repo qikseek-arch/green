@@ -7229,3 +7229,4 @@
 2026-01-29T04:37:19.923Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up flaky test
 2026-01-29T05:27:37.928Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix config defaults
 2026-01-29T05:43:27.218Z heyli <lcxfs1991@users.noreply.github.com> :: polish null check
+2026-01-29T06:35:06.590Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add dependency versions
