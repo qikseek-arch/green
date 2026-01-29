@@ -7232,3 +7232,4 @@
 2026-01-29T06:35:06.590Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add dependency versions
 2026-01-29T08:25:27.455Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update the parser
 2026-01-29T08:41:27.947Z Duy Tran <khanhduytran0@users.noreply.github.com> :: refactor config defaults
+2026-01-29T09:20:03.582Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak retry logic
