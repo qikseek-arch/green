@@ -7234,3 +7234,4 @@
 2026-01-29T08:41:27.947Z Duy Tran <khanhduytran0@users.noreply.github.com> :: refactor config defaults
 2026-01-29T09:20:03.582Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak retry logic
 2026-01-29T09:48:53.570Z heyli <lcxfs1991@users.noreply.github.com> :: tweak cache keys
+2026-01-29T10:14:22.966Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove the CI matrix
