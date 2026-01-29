@@ -16874,3 +16874,4 @@
 2026-01-28T23:07:37.143Z Lipis <lipis@users.noreply.github.com> :: remove the parser
 2026-01-29T02:03:46.288Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump dead code
 2026-01-29T02:30:03.495Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up null check
+2026-01-29T02:35:09.860Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up config defaults
