@@ -7228,3 +7228,4 @@
 2026-01-29T02:27:24.866Z Getgems <getgems-io@users.noreply.github.com> :: tweak flaky test
 2026-01-29T04:37:19.923Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up flaky test
 2026-01-29T05:27:37.928Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix config defaults
+2026-01-29T05:43:27.218Z heyli <lcxfs1991@users.noreply.github.com> :: polish null check
