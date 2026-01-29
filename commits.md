@@ -7242,3 +7242,4 @@
 2026-01-29T16:59:59.930Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: refactor the CI matrix
 2026-01-29T17:08:02.509Z ring04h <ring04h@users.noreply.github.com> :: update dead code
 2026-01-29T18:11:00.864Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up config defaults
+2026-01-29T21:43:39.587Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump config defaults
