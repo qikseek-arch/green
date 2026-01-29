@@ -16890,3 +16890,4 @@
 2026-01-29T11:23:01.398Z LocalSend <localsend@users.noreply.github.com> :: bump build script
 2026-01-29T12:00:01.958Z Alex Teichman <teichman@users.noreply.github.com> :: refactor build script
 2026-01-29T12:48:19.026Z Brian Holt <btholt@users.noreply.github.com> :: fix readme typo
+2026-01-29T12:56:07.090Z Asif Taj <axiftaj@users.noreply.github.com> :: remove the parser
