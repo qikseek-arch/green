@@ -7238,3 +7238,4 @@
 2026-01-29T10:51:14.516Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update logging
 2026-01-29T14:04:55.381Z Adam Bell <b3ll@users.noreply.github.com> :: add cache keys
 2026-01-29T14:22:44.310Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
+2026-01-29T15:11:51.505Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up error handling
