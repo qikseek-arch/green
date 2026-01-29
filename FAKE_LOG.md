@@ -533,3 +533,4 @@
 2026-01-19T23:08:47.106Z Tim Ruscica <techwithtim@users.noreply.github.com> :: polish cache keys
 2026-01-23T19:58:08.382Z Programming Hero <ProgrammingHero1@users.noreply.github.com> :: wire up cache keys
 2026-01-25T01:24:32.466Z Unicity Labs <info@unicity-labs.com> :: refactor the CI matrix
+2026-01-29T20:28:16.232Z Datawhale <datawhalechina@users.noreply.github.com> :: tweak dependency versions
