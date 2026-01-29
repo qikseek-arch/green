@@ -16886,3 +16886,4 @@
 2026-01-29T08:36:43.949Z OpenBSD <openbsd@users.noreply.github.com> :: polish config defaults
 2026-01-29T09:44:00.724Z Collabnix <collabnix@users.noreply.github.com> :: remove config defaults
 2026-01-29T10:12:40.860Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up readme typo
+2026-01-29T11:14:56.902Z John Schulman <joschu@users.noreply.github.com> :: bump config defaults
