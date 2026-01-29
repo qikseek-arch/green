@@ -16888,3 +16888,4 @@
 2026-01-29T10:12:40.860Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up readme typo
 2026-01-29T11:14:56.902Z John Schulman <joschu@users.noreply.github.com> :: bump config defaults
 2026-01-29T11:23:01.398Z LocalSend <localsend@users.noreply.github.com> :: bump build script
+2026-01-29T12:00:01.958Z Alex Teichman <teichman@users.noreply.github.com> :: refactor build script
