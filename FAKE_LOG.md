@@ -336,3 +336,4 @@
 2026-01-22T02:14:51.037Z turbocomet493 <turbocomet493@fake.invalid> :: fix build script
 2026-01-25T10:13:32.033Z hollowbeacon882 <hollowbeacon882@fake.invalid> :: update dead code
 2026-01-25T18:39:38.263Z SillySocket <sillysocket@fake.invalid> :: wire up cache keys
+2026-01-29T16:23:58.905Z Satoshi Nakamoto <satoshi.nakamoto@fake.invalid> :: tweak error handling
