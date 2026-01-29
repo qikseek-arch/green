@@ -16900,3 +16900,4 @@
 2026-01-29T15:40:39.565Z LocalSend <localsend@users.noreply.github.com> :: fix the parser
 2026-01-29T15:53:35.016Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak build script
 2026-01-29T15:54:54.633Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update cache keys
+2026-01-29T16:03:05.927Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update config defaults
