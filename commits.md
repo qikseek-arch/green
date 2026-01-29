@@ -7230,3 +7230,4 @@
 2026-01-29T05:27:37.928Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix config defaults
 2026-01-29T05:43:27.218Z heyli <lcxfs1991@users.noreply.github.com> :: polish null check
 2026-01-29T06:35:06.590Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add dependency versions
+2026-01-29T08:25:27.455Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update the parser
