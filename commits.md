@@ -16878,3 +16878,4 @@
 2026-01-29T02:39:47.721Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak build script
 2026-01-29T02:56:27.005Z Snowflake Labs <opensource@snowflake.com> :: add retry logic
 2026-01-29T03:50:45.766Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump error handling
+2026-01-29T03:59:19.135Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up the CI matrix
