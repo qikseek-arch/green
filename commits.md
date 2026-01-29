@@ -16881,3 +16881,4 @@
 2026-01-29T03:59:19.135Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up the CI matrix
 2026-01-29T05:26:46.605Z Snowflake Labs <opensource@snowflake.com> :: bump cache keys
 2026-01-29T05:48:46.283Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: clean up flaky test
+2026-01-29T06:53:03.532Z Tom Dale <tomdale@users.noreply.github.com> :: wire up dependency versions
