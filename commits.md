@@ -7255,3 +7255,4 @@
 2026-01-30T05:28:55.639Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
 2026-01-30T06:04:09.248Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
 2026-01-30T06:11:28.344Z Taiko Foundation <info@taiko.xyz> :: refactor retry logic
+2026-01-30T06:20:31.918Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor logging
