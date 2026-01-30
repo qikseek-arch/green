@@ -16911,3 +16911,4 @@
 2026-01-30T05:04:40.031Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor config defaults
 2026-01-30T05:12:51.950Z Scott Chacon <schacon@users.noreply.github.com> :: polish flaky test
 2026-01-30T05:23:50.881Z yakeIore <yakeIore@users.noreply.github.com> :: clean up readme typo
+2026-01-30T05:48:32.128Z Lovell Fuller <lovell@users.noreply.github.com> :: bump dependency versions
