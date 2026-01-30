@@ -7244,3 +7244,4 @@
 2026-01-29T18:11:00.864Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up config defaults
 2026-01-29T21:43:39.587Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump config defaults
 2026-01-29T22:33:14.796Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor readme typo
+2026-01-30T00:49:31.547Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
