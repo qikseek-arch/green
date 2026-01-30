@@ -7259,3 +7259,4 @@
 2026-01-30T06:40:37.336Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update build script
 2026-01-30T07:07:18.264Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor dependency versions
 2026-01-30T07:52:16.988Z BBC <bbc@users.noreply.github.com> :: update retry logic
+2026-01-30T08:51:06.251Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up error handling
