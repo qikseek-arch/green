@@ -347,3 +347,4 @@
 2026-01-28T21:07:13.351Z Alae-Eddine <alaesic@users.noreply.github.com> :: remove null check
 2026-01-29T02:41:39.764Z Hsiaoming Yang <lepture@users.noreply.github.com> :: polish the CI matrix
 2026-01-30T03:12:51.206Z Jimmy Song <rootsongjc@users.noreply.github.com> :: fix cache keys
+2026-01-30T06:42:44.776Z Alae-Eddine <alaesic@users.noreply.github.com> :: add edge case in auth
