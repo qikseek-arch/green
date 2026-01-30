@@ -16917,3 +16917,4 @@
 2026-01-30T07:27:12.464Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove build script
 2026-01-30T08:01:04.773Z Collabnix <collabnix@users.noreply.github.com> :: add the parser
 2026-01-30T08:50:52.320Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up cache keys
+2026-01-30T09:08:44.174Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix error handling
