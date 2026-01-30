@@ -7268,3 +7268,4 @@
 2026-01-30T11:16:55.188Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add config defaults
 2026-01-30T11:25:48.050Z Manu Arora <manuarora700@users.noreply.github.com> :: bump readme typo
 2026-01-30T13:48:53.030Z qiye <qiyeboy@users.noreply.github.com> :: tweak build script
+2026-01-30T15:10:06.360Z Damian Dulisz <shentao@users.noreply.github.com> :: fix null check
