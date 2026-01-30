@@ -350,3 +350,4 @@
 2026-01-30T06:42:44.776Z Alae-Eddine <alaesic@users.noreply.github.com> :: add edge case in auth
 2026-01-30T13:41:58.407Z thecodercoder <thecodercoder@users.noreply.github.com> :: fix the CI matrix
 2026-01-30T14:04:47.507Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up readme typo
+2026-01-30T14:20:55.497Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: wire up the CI matrix
