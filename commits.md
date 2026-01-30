@@ -7252,3 +7252,4 @@
 2026-01-30T02:28:08.552Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix logging
 2026-01-30T03:07:30.677Z CTFs <ctfs@users.noreply.github.com> :: remove the CI matrix
 2026-01-30T04:18:37.780Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up the parser
+2026-01-30T05:28:55.639Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
