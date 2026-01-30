@@ -7262,3 +7262,4 @@
 2026-01-30T08:51:06.251Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up error handling
 2026-01-30T09:00:49.490Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up error handling
 2026-01-30T09:58:03.041Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up the CI matrix
+2026-01-30T10:58:07.979Z Getgems <getgems-io@users.noreply.github.com> :: fix null check
