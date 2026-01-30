@@ -16913,3 +16913,4 @@
 2026-01-30T05:23:50.881Z yakeIore <yakeIore@users.noreply.github.com> :: clean up readme typo
 2026-01-30T05:48:32.128Z Lovell Fuller <lovell@users.noreply.github.com> :: bump dependency versions
 2026-01-30T05:50:20.678Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak edge case in auth
+2026-01-30T06:36:27.128Z SurrealDB <surrealdb@users.noreply.github.com> :: clean up null check
