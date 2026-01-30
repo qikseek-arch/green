@@ -7272,3 +7272,4 @@
 2026-01-30T18:11:46.430Z owenzhang <owenzhang@users.noreply.github.com> :: tweak flaky test
 2026-01-30T19:18:05.945Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove cache keys
 2026-01-30T19:40:48.448Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add config defaults
+2026-01-30T20:08:48.055Z Adam Bell <b3ll@users.noreply.github.com> :: tweak the CI matrix
