@@ -7254,3 +7254,4 @@
 2026-01-30T04:18:37.780Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up the parser
 2026-01-30T05:28:55.639Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
 2026-01-30T06:04:09.248Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
+2026-01-30T06:11:28.344Z Taiko Foundation <info@taiko.xyz> :: refactor retry logic
