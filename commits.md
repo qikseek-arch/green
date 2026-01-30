@@ -7256,3 +7256,4 @@
 2026-01-30T06:04:09.248Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
 2026-01-30T06:11:28.344Z Taiko Foundation <info@taiko.xyz> :: refactor retry logic
 2026-01-30T06:20:31.918Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor logging
+2026-01-30T06:40:37.336Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update build script
