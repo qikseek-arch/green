@@ -16925,3 +16925,4 @@
 2026-01-30T14:58:32.482Z Alex Teichman <teichman@users.noreply.github.com> :: clean up error handling
 2026-01-30T15:25:48.917Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix null check
 2026-01-30T19:37:12.824Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up error handling
+2026-01-30T20:36:51.522Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish logging
