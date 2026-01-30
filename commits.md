@@ -7253,3 +7253,4 @@
 2026-01-30T03:07:30.677Z CTFs <ctfs@users.noreply.github.com> :: remove the CI matrix
 2026-01-30T04:18:37.780Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up the parser
 2026-01-30T05:28:55.639Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
+2026-01-30T06:04:09.248Z Taiko Foundation <info@taiko.xyz> :: clean up config defaults
