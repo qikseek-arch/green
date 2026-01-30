@@ -348,3 +348,4 @@
 2026-01-29T02:41:39.764Z Hsiaoming Yang <lepture@users.noreply.github.com> :: polish the CI matrix
 2026-01-30T03:12:51.206Z Jimmy Song <rootsongjc@users.noreply.github.com> :: fix cache keys
 2026-01-30T06:42:44.776Z Alae-Eddine <alaesic@users.noreply.github.com> :: add edge case in auth
+2026-01-30T13:41:58.407Z thecodercoder <thecodercoder@users.noreply.github.com> :: fix the CI matrix
