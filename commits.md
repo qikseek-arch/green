@@ -16927,3 +16927,4 @@
 2026-01-30T19:37:12.824Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up error handling
 2026-01-30T20:36:51.522Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish logging
 2026-01-30T20:49:22.548Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove null check
+2026-01-30T21:56:59.179Z Petar Veličković <PetarV-@users.noreply.github.com> :: update error handling
