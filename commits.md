@@ -16947,3 +16947,4 @@
 2026-01-31T14:06:43.135Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor edge case in auth
 2026-01-31T16:19:24.391Z DefTruth <DefTruth@users.noreply.github.com> :: add flaky test
 2026-01-31T16:50:46.807Z Brian Holt <btholt@users.noreply.github.com> :: tweak edge case in auth
+2026-01-31T17:07:47.761Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up readme typo
