@@ -16933,3 +16933,4 @@
 2026-01-31T02:45:31.029Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: bump the CI matrix
 2026-01-31T02:57:06.331Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dead code
 2026-01-31T06:26:33.952Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish edge case in auth
+2026-01-31T07:15:53.938Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up config defaults
