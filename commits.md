@@ -7283,3 +7283,4 @@
 2026-01-31T00:01:22.475Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: bump logging
 2026-01-31T00:23:13.683Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add config defaults
 2026-01-31T00:34:51.144Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak the parser
+2026-01-31T00:55:39.771Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak logging
