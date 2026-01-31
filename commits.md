@@ -16943,3 +16943,4 @@
 2026-01-31T10:38:20.793Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor dependency versions
 2026-01-31T11:34:57.621Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the parser
 2026-01-31T12:23:31.885Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak the parser
+2026-01-31T14:05:05.262Z Tom Dale <tomdale@users.noreply.github.com> :: fix retry logic
