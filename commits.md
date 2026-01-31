@@ -353,3 +353,4 @@
 2026-01-30T14:20:55.497Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: wire up the CI matrix
 2026-01-30T20:54:23.852Z Connor <Connor9994@users.noreply.github.com> :: tweak flaky test
 2026-01-31T03:25:11.092Z Astral <hey@astral.sh> :: wire up readme typo
+2026-01-31T05:50:12.656Z Electron <info+org@electronjs.org> :: fix dead code
