@@ -7292,3 +7292,4 @@
 2026-01-31T06:18:10.744Z Claude <claude@users.noreply.github.com> :: refactor null check
 2026-01-31T06:51:53.342Z md-5 <md-5@users.noreply.github.com> :: refactor null check
 2026-01-31T07:57:12.102Z Damian Dulisz <shentao@users.noreply.github.com> :: remove dependency versions
+2026-01-31T08:34:38.473Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak logging
