@@ -16944,3 +16944,4 @@
 2026-01-31T11:34:57.621Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the parser
 2026-01-31T12:23:31.885Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak the parser
 2026-01-31T14:05:05.262Z Tom Dale <tomdale@users.noreply.github.com> :: fix retry logic
+2026-01-31T14:06:43.135Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor edge case in auth
