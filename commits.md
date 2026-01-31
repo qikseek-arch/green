@@ -16939,3 +16939,4 @@
 2026-01-31T07:54:39.316Z Brian Holt <btholt@users.noreply.github.com> :: refactor retry logic
 2026-01-31T08:40:30.986Z OpenBSD <openbsd@users.noreply.github.com> :: fix error handling
 2026-01-31T09:49:12.069Z Brian Holt <btholt@users.noreply.github.com> :: refactor null check
+2026-01-31T10:04:58.671Z LMSYS <lm-sys@users.noreply.github.com> :: update readme typo
