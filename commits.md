@@ -16952,3 +16952,4 @@
 2026-01-31T18:07:12.187Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: refactor edge case in auth
 2026-01-31T18:09:00.294Z Prometheus <prometheus@users.noreply.github.com> :: polish config defaults
 2026-01-31T19:10:45.862Z Boshen <Boshen@users.noreply.github.com> :: remove config defaults
+2026-01-31T19:20:34.421Z Scott Chacon <schacon@users.noreply.github.com> :: refactor error handling
