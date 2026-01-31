@@ -16941,3 +16941,4 @@
 2026-01-31T09:49:12.069Z Brian Holt <btholt@users.noreply.github.com> :: refactor null check
 2026-01-31T10:04:58.671Z LMSYS <lm-sys@users.noreply.github.com> :: update readme typo
 2026-01-31T10:38:20.793Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor dependency versions
+2026-01-31T11:34:57.621Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the parser
