@@ -16938,3 +16938,4 @@
 2026-01-31T07:30:50.154Z Google Fonts <googlefonts@users.noreply.github.com> :: refactor edge case in auth
 2026-01-31T07:54:39.316Z Brian Holt <btholt@users.noreply.github.com> :: refactor retry logic
 2026-01-31T08:40:30.986Z OpenBSD <openbsd@users.noreply.github.com> :: fix error handling
+2026-01-31T09:49:12.069Z Brian Holt <btholt@users.noreply.github.com> :: refactor null check
