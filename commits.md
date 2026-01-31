@@ -7297,3 +7297,4 @@
 2026-01-31T12:39:06.332Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor cache keys
 2026-01-31T14:00:56.806Z SouJunior <wouerner@soujunior.tech> :: remove build script
 2026-01-31T18:36:06.925Z Taiko Foundation <info@taiko.xyz> :: refactor retry logic
+2026-01-31T20:41:27.749Z SouJunior <wouerner@soujunior.tech> :: remove the parser
