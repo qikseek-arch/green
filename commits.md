@@ -7281,3 +7281,4 @@
 2026-01-30T22:48:13.380Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish readme typo
 2026-01-30T23:30:09.722Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove edge case in auth
 2026-01-31T00:01:22.475Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: bump logging
+2026-01-31T00:23:13.683Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add config defaults
