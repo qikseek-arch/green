@@ -7284,3 +7284,4 @@
 2026-01-31T00:23:13.683Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add config defaults
 2026-01-31T00:34:51.144Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak the parser
 2026-01-31T00:55:39.771Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak logging
+2026-01-31T01:10:04.206Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump logging
