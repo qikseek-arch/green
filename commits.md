@@ -16992,3 +16992,4 @@
 2026-02-01T19:42:53.720Z Alex Teichman <teichman@users.noreply.github.com> :: remove cache keys
 2026-02-01T20:15:13.425Z LMSYS <lm-sys@users.noreply.github.com> :: bump build script
 2026-02-01T20:24:55.856Z Alex Teichman <teichman@users.noreply.github.com> :: bump edge case in auth
+2026-02-01T21:14:26.855Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove null check
