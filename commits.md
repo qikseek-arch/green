@@ -7315,3 +7315,4 @@
 2026-02-01T04:39:28.943Z Manu Arora <manuarora700@users.noreply.github.com> :: update config defaults
 2026-02-01T05:09:32.130Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak retry logic
 2026-02-01T07:05:59.710Z SouJunior <wouerner@soujunior.tech> :: tweak error handling
+2026-02-01T07:42:16.814Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix dependency versions
