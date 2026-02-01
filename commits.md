@@ -359,3 +359,4 @@
 2026-01-31T15:21:37.428Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: update the parser
 2026-01-31T21:07:50.640Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: wire up error handling
 2026-02-01T02:26:21.572Z Alae-Eddine <alaesic@users.noreply.github.com> :: refactor error handling
+2026-02-01T17:07:40.973Z gambling-addict <gambling-addict@users.noreply.github.com> :: fix retry logic
