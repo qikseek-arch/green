@@ -16988,3 +16988,4 @@
 2026-02-01T16:19:55.413Z Google Fonts <googlefonts@users.noreply.github.com> :: add readme typo
 2026-02-01T17:49:06.722Z Amnezia VPN <support@amnezia.org> :: wire up error handling
 2026-02-01T18:06:04.486Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump flaky test
+2026-02-01T19:00:40.414Z cytopia <cytopia@users.noreply.github.com> :: fix null check
