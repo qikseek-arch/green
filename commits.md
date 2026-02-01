@@ -16984,3 +16984,4 @@
 2026-02-01T12:58:39.773Z OpenBMB <openbmb@gmail.com> :: polish cache keys
 2026-02-01T13:58:13.675Z Islem Maboud <ipenywis@users.noreply.github.com> :: update build script
 2026-02-01T14:03:34.996Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak error handling
+2026-02-01T15:15:48.154Z LocalSend <localsend@users.noreply.github.com> :: add readme typo
