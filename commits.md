@@ -7333,3 +7333,4 @@
 2026-02-01T15:07:59.240Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish cache keys
 2026-02-01T15:09:26.715Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add null check
 2026-02-01T19:46:13.324Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove cache keys
+2026-02-01T20:25:35.213Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: fix null check
