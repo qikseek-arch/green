@@ -7309,3 +7309,4 @@
 2026-01-31T23:52:59.717Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update dead code
 2026-02-01T00:27:30.040Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish readme typo
 2026-02-01T01:59:38.504Z Odi <mathdroid@users.noreply.github.com> :: fix cache keys
+2026-02-01T02:19:14.341Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up error handling
