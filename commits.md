@@ -7331,3 +7331,4 @@
 2026-02-01T14:27:45.669Z Manu Arora <manuarora700@users.noreply.github.com> :: update error handling
 2026-02-01T14:40:24.233Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor dependency versions
 2026-02-01T15:07:59.240Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish cache keys
+2026-02-01T15:09:26.715Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add null check
