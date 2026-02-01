@@ -431,3 +431,4 @@
 2026-01-21T18:31:35.456Z Niklaus Wirth <niklaus.wirth@fake.invalid> :: update dead code
 2026-01-30T00:48:48.674Z Hitesh Choudhary <hiteshchoudhary@users.noreply.github.com> :: polish cache keys
 2026-01-30T04:37:52.887Z solarshrimp30 <solarshrimp30@fake.invalid> :: bump the parser
+2026-02-01T22:33:28.256Z sleepy-badgerhq <sleepy-badgerhq@fake.invalid> :: update readme typo
