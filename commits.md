@@ -16983,3 +16983,4 @@
 2026-02-01T12:10:48.615Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak null check
 2026-02-01T12:58:39.773Z OpenBMB <openbmb@gmail.com> :: polish cache keys
 2026-02-01T13:58:13.675Z Islem Maboud <ipenywis@users.noreply.github.com> :: update build script
+2026-02-01T14:03:34.996Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak error handling
