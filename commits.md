@@ -7322,3 +7322,4 @@
 2026-02-01T09:04:12.024Z Getgems <getgems-io@users.noreply.github.com> :: fix dependency versions
 2026-02-01T09:47:49.371Z Aurélien Geron <ageron@users.noreply.github.com> :: bump readme typo
 2026-02-01T10:20:05.742Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up retry logic
+2026-02-01T11:46:31.075Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up config defaults
