@@ -7310,3 +7310,4 @@
 2026-02-01T00:27:30.040Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish readme typo
 2026-02-01T01:59:38.504Z Odi <mathdroid@users.noreply.github.com> :: fix cache keys
 2026-02-01T02:19:14.341Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up error handling
+2026-02-01T03:46:09.471Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix dead code
