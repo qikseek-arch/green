@@ -7314,3 +7314,4 @@
 2026-02-01T04:25:45.260Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump readme typo
 2026-02-01T04:39:28.943Z Manu Arora <manuarora700@users.noreply.github.com> :: update config defaults
 2026-02-01T05:09:32.130Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak retry logic
+2026-02-01T07:05:59.710Z SouJunior <wouerner@soujunior.tech> :: tweak error handling
