@@ -7319,3 +7319,4 @@
 2026-02-01T07:48:36.790Z ring04h <ring04h@users.noreply.github.com> :: wire up flaky test
 2026-02-01T08:04:44.578Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump config defaults
 2026-02-01T08:30:45.212Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix null check
+2026-02-01T09:04:12.024Z Getgems <getgems-io@users.noreply.github.com> :: fix dependency versions
