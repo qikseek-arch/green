@@ -16971,3 +16971,4 @@
 2026-02-01T04:32:50.795Z OpenBSD <openbsd@users.noreply.github.com> :: update config defaults
 2026-02-01T05:02:26.940Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump edge case in auth
 2026-02-01T06:23:04.174Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak flaky test
+2026-02-01T06:44:15.235Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish the CI matrix
