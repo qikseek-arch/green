@@ -7329,3 +7329,4 @@
 2026-02-01T14:05:29.671Z LILYGO <LilyGO@users.noreply.github.com> :: polish null check
 2026-02-01T14:17:19.425Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dead code
 2026-02-01T14:27:45.669Z Manu Arora <manuarora700@users.noreply.github.com> :: update error handling
+2026-02-01T14:40:24.233Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor dependency versions
