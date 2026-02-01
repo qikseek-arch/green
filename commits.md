@@ -7325,3 +7325,4 @@
 2026-02-01T11:46:31.075Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up config defaults
 2026-02-01T13:14:12.524Z Ryan Bigg <radar@users.noreply.github.com> :: fix retry logic
 2026-02-01T13:23:30.876Z qiye <qiyeboy@users.noreply.github.com> :: remove logging
+2026-02-01T13:37:53.476Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish the parser
