@@ -16986,3 +16986,4 @@
 2026-02-01T14:03:34.996Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak error handling
 2026-02-01T15:15:48.154Z LocalSend <localsend@users.noreply.github.com> :: add readme typo
 2026-02-01T16:19:55.413Z Google Fonts <googlefonts@users.noreply.github.com> :: add readme typo
+2026-02-01T17:49:06.722Z Amnezia VPN <support@amnezia.org> :: wire up error handling
