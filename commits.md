@@ -7355,3 +7355,4 @@
 2026-02-02T16:17:09.151Z SouJunior <wouerner@soujunior.tech> :: add retry logic
 2026-02-02T16:18:18.849Z Barret李靖 <barretlee@users.noreply.github.com> :: bump readme typo
 2026-02-02T17:53:16.535Z Adam Bell <b3ll@users.noreply.github.com> :: remove dependency versions
+2026-02-02T20:56:26.993Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up null check
