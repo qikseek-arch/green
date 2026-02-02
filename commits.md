@@ -17010,3 +17010,4 @@
 2026-02-02T12:39:00.124Z Shougo <Shougo@users.noreply.github.com> :: polish logging
 2026-02-02T13:59:09.176Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up null check
 2026-02-02T14:19:43.320Z Collabnix <collabnix@users.noreply.github.com> :: tweak dependency versions
+2026-02-02T15:45:04.600Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish dead code
