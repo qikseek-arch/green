@@ -7352,3 +7352,4 @@
 2026-02-02T12:57:36.132Z qiye <qiyeboy@users.noreply.github.com> :: clean up readme typo
 2026-02-02T14:16:56.424Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
 2026-02-02T15:29:54.116Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove dependency versions
+2026-02-02T16:17:09.151Z SouJunior <wouerner@soujunior.tech> :: add retry logic
