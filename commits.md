@@ -17003,3 +17003,4 @@
 2026-02-02T07:21:32.535Z Snowflake Labs <opensource@snowflake.com> :: clean up config defaults
 2026-02-02T07:49:07.007Z Collabnix <collabnix@users.noreply.github.com> :: clean up the CI matrix
 2026-02-02T08:39:08.517Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix error handling
+2026-02-02T09:11:10.836Z LMSYS <lm-sys@users.noreply.github.com> :: fix error handling
