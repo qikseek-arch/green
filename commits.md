@@ -7341,3 +7341,4 @@
 2026-02-02T03:41:45.317Z qiye <qiyeboy@users.noreply.github.com> :: bump edge case in auth
 2026-02-02T05:01:52.802Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: update readme typo
 2026-02-02T06:13:53.801Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add edge case in auth
+2026-02-02T06:38:03.191Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add the CI matrix
