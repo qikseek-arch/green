@@ -17000,3 +17000,4 @@
 2026-02-02T04:45:17.362Z Brendan Gregg <brendangregg@users.noreply.github.com> :: wire up dependency versions
 2026-02-02T06:48:42.940Z OpenBMB <openbmb@gmail.com> :: wire up flaky test
 2026-02-02T07:20:03.332Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the parser
+2026-02-02T07:21:32.535Z Snowflake Labs <opensource@snowflake.com> :: clean up config defaults
