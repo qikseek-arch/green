@@ -7349,3 +7349,4 @@
 2026-02-02T09:44:06.440Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove the parser
 2026-02-02T10:45:58.380Z markqvist <markqvist@users.noreply.github.com> :: remove retry logic
 2026-02-02T12:46:39.865Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish flaky test
+2026-02-02T12:57:36.132Z qiye <qiyeboy@users.noreply.github.com> :: clean up readme typo
