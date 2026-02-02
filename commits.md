@@ -7350,3 +7350,4 @@
 2026-02-02T10:45:58.380Z markqvist <markqvist@users.noreply.github.com> :: remove retry logic
 2026-02-02T12:46:39.865Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish flaky test
 2026-02-02T12:57:36.132Z qiye <qiyeboy@users.noreply.github.com> :: clean up readme typo
+2026-02-02T14:16:56.424Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
