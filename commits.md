@@ -369,3 +369,4 @@
 2026-02-02T17:25:11.214Z Mark Erikson <markerikson@users.noreply.github.com> :: bump the CI matrix
 2026-02-03T17:09:52.444Z Alae-Eddine <alaesic@users.noreply.github.com> :: clean up config defaults
 2026-02-03T17:16:15.827Z 左程云 <algorithmzuo@users.noreply.github.com> :: remove null check
+2026-02-03T19:42:01.693Z Jimmy Song <rootsongjc@users.noreply.github.com> :: bump build script
