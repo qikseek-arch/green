@@ -17030,3 +17030,4 @@
 2026-02-03T04:15:58.893Z BAPPY AHMED <entbappy@users.noreply.github.com> :: wire up readme typo
 2026-02-03T04:37:51.027Z OpenBMB <openbmb@gmail.com> :: add readme typo
 2026-02-03T07:50:29.307Z Michael Jackson <mjackson@users.noreply.github.com> :: fix the CI matrix
+2026-02-03T09:02:15.122Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak build script
