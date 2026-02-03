@@ -7368,3 +7368,4 @@
 2026-02-03T11:18:08.407Z qiye <qiyeboy@users.noreply.github.com> :: bump the CI matrix
 2026-02-03T11:44:17.801Z OpenJS Foundation <info@openjsf.org> :: fix the parser
 2026-02-03T13:33:51.190Z AI4Bhārat <opensource@ai4bharat.org> :: wire up retry logic
+2026-02-03T14:23:46.702Z Taiko Foundation <info@taiko.xyz> :: tweak build script
