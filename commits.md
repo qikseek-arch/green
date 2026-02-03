@@ -17025,3 +17025,4 @@
 2026-02-03T00:42:58.249Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up build script
 2026-02-03T00:54:37.962Z 1 <insoxin@users.noreply.github.com> :: add build script
 2026-02-03T01:41:33.098Z Sky Ao <skyao@users.noreply.github.com> :: bump config defaults
+2026-02-03T02:51:56.784Z Dove Letter <skydoves2@gmail.com> :: remove error handling
