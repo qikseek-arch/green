@@ -7363,3 +7363,4 @@
 2026-02-03T04:14:44.603Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up logging
 2026-02-03T07:46:45.673Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add dependency versions
 2026-02-03T08:00:07.934Z Ryan Bigg <radar@users.noreply.github.com> :: fix cache keys
+2026-02-03T08:33:37.265Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update config defaults
