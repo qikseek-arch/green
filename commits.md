@@ -17040,3 +17040,4 @@
 2026-02-03T12:33:05.376Z Henry <hzoo@users.noreply.github.com> :: clean up readme typo
 2026-02-03T12:33:26.014Z Dove Letter <skydoves2@gmail.com> :: tweak null check
 2026-02-03T14:09:17.360Z Brian Holt <btholt@users.noreply.github.com> :: clean up retry logic
+2026-02-03T16:37:50.805Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add logging
