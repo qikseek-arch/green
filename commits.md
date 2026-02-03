@@ -7375,3 +7375,4 @@
 2026-02-03T19:59:28.570Z owenzhang <owenzhang@users.noreply.github.com> :: fix the CI matrix
 2026-02-03T20:06:16.297Z Duy Tran <khanhduytran0@users.noreply.github.com> :: refactor error handling
 2026-02-03T21:51:18.108Z Aurélien Geron <ageron@users.noreply.github.com> :: update build script
+2026-02-03T23:03:52.192Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up build script
