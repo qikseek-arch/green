@@ -7358,3 +7358,4 @@
 2026-02-02T20:56:26.993Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up null check
 2026-02-02T22:23:17.727Z OpenJS Foundation <info@openjsf.org> :: polish cache keys
 2026-02-03T01:22:55.271Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add flaky test
+2026-02-03T01:52:13.929Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up config defaults
