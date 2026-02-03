@@ -7374,3 +7374,4 @@
 2026-02-03T17:36:59.879Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish edge case in auth
 2026-02-03T19:59:28.570Z owenzhang <owenzhang@users.noreply.github.com> :: fix the CI matrix
 2026-02-03T20:06:16.297Z Duy Tran <khanhduytran0@users.noreply.github.com> :: refactor error handling
+2026-02-03T21:51:18.108Z Aurélien Geron <ageron@users.noreply.github.com> :: update build script
