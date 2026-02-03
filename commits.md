@@ -17038,3 +17038,4 @@
 2026-02-03T11:11:08.378Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up readme typo
 2026-02-03T11:28:36.965Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up readme typo
 2026-02-03T12:33:05.376Z Henry <hzoo@users.noreply.github.com> :: clean up readme typo
+2026-02-03T12:33:26.014Z Dove Letter <skydoves2@gmail.com> :: tweak null check
