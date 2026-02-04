@@ -17073,3 +17073,4 @@
 2026-02-04T18:08:14.889Z Tom Dale <tomdale@users.noreply.github.com> :: update edge case in auth
 2026-02-04T19:12:01.979Z OpenBSD <openbsd@users.noreply.github.com> :: fix flaky test
 2026-02-04T19:32:09.867Z Snowflake Labs <opensource@snowflake.com> :: polish config defaults
+2026-02-04T20:08:20.310Z Sergey P. <ThirteenAG@users.noreply.github.com> :: wire up retry logic
