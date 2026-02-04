@@ -7407,3 +7407,4 @@
 2026-02-04T17:02:20.379Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak the CI matrix
 2026-02-04T17:42:04.828Z OpenJS Foundation <info@openjsf.org> :: polish retry logic
 2026-02-04T18:10:47.344Z Keith Smiley <keith@users.noreply.github.com> :: fix null check
+2026-02-04T18:37:17.014Z Ivan Volkov <Chitus@users.noreply.github.com> :: add dead code
