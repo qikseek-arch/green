@@ -7388,3 +7388,4 @@
 2026-02-04T04:22:49.463Z Fady Farag <iidmsa@users.noreply.github.com> :: update logging
 2026-02-04T04:34:49.296Z Adam Bell <b3ll@users.noreply.github.com> :: clean up null check
 2026-02-04T06:30:52.541Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish build script
+2026-02-04T06:56:04.826Z ㅤxander <vampirist@users.noreply.github.com> :: fix build script
