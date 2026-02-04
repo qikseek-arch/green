@@ -17063,3 +17063,4 @@
 2026-02-04T09:20:39.959Z winterbe <winterbe@users.noreply.github.com> :: remove config defaults
 2026-02-04T11:10:00.717Z Google Fonts <googlefonts@users.noreply.github.com> :: refactor edge case in auth
 2026-02-04T11:18:12.549Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove edge case in auth
+2026-02-04T11:37:32.008Z cytopia <cytopia@users.noreply.github.com> :: fix logging
