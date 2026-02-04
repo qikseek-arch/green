@@ -7403,3 +7403,4 @@
 2026-02-04T16:31:05.978Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update flaky test
 2026-02-04T16:43:58.873Z Bert Belder <piscisaureus@users.noreply.github.com> :: polish error handling
 2026-02-04T16:48:26.566Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove flaky test
+2026-02-04T16:52:28.662Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove readme typo
