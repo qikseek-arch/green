@@ -7378,3 +7378,4 @@
 2026-02-03T23:03:52.192Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up build script
 2026-02-03T23:26:32.132Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add edge case in auth
 2026-02-03T23:32:51.271Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak error handling
+2026-02-04T00:39:29.184Z Taiko Foundation <info@taiko.xyz> :: fix null check
