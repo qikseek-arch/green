@@ -7393,3 +7393,4 @@
 2026-02-04T07:51:13.466Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up config defaults
 2026-02-04T08:59:01.493Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up error handling
 2026-02-04T10:22:16.415Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up error handling
+2026-02-04T11:07:08.943Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
