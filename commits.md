@@ -371,3 +371,4 @@
 2026-02-03T17:16:15.827Z 左程云 <algorithmzuo@users.noreply.github.com> :: remove null check
 2026-02-03T19:42:01.693Z Jimmy Song <rootsongjc@users.noreply.github.com> :: bump build script
 2026-02-04T00:19:33.998Z Leon AI <louis@getleon.ai> :: tweak retry logic
+2026-02-04T09:38:26.846Z Rob Fuller <mubix@users.noreply.github.com> :: update the CI matrix
