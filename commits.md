@@ -17070,3 +17070,4 @@
 2026-02-04T14:51:52.184Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: update dependency versions
 2026-02-04T15:48:11.909Z Morvan <MorvanZhou@users.noreply.github.com> :: bump the CI matrix
 2026-02-04T16:45:47.308Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
+2026-02-04T18:08:14.889Z Tom Dale <tomdale@users.noreply.github.com> :: update edge case in auth
