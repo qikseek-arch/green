@@ -7396,3 +7396,4 @@
 2026-02-04T11:07:08.943Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
 2026-02-04T11:22:00.451Z ring04h <ring04h@users.noreply.github.com> :: remove config defaults
 2026-02-04T11:25:50.672Z markqvist <markqvist@users.noreply.github.com> :: wire up retry logic
+2026-02-04T11:55:13.466Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add cache keys
