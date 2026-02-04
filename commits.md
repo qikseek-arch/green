@@ -7381,3 +7381,4 @@
 2026-02-04T00:39:29.184Z Taiko Foundation <info@taiko.xyz> :: fix null check
 2026-02-04T01:01:54.889Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update edge case in auth
 2026-02-04T02:48:15.579Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove logging
+2026-02-04T03:26:41.582Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish error handling
