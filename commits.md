@@ -7409,3 +7409,4 @@
 2026-02-04T18:10:47.344Z Keith Smiley <keith@users.noreply.github.com> :: fix null check
 2026-02-04T18:37:17.014Z Ivan Volkov <Chitus@users.noreply.github.com> :: add dead code
 2026-02-04T19:06:23.448Z WebRTC <discuss-webrtc@googlegroups.com> :: clean up dependency versions
+2026-02-04T19:11:20.333Z Keith Smiley <keith@users.noreply.github.com> :: remove error handling
