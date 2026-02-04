@@ -17061,3 +17061,4 @@
 2026-02-04T05:20:15.159Z Morvan <MorvanZhou@users.noreply.github.com> :: update config defaults
 2026-02-04T06:23:52.955Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump null check
 2026-02-04T09:20:39.959Z winterbe <winterbe@users.noreply.github.com> :: remove config defaults
+2026-02-04T11:10:00.717Z Google Fonts <googlefonts@users.noreply.github.com> :: refactor edge case in auth
