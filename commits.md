@@ -17068,3 +17068,4 @@
 2026-02-04T11:59:11.521Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove config defaults
 2026-02-04T12:37:20.715Z Yiming Cui <ymcui@users.noreply.github.com> :: add edge case in auth
 2026-02-04T14:51:52.184Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: update dependency versions
+2026-02-04T15:48:11.909Z Morvan <MorvanZhou@users.noreply.github.com> :: bump the CI matrix
