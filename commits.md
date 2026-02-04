@@ -7384,3 +7384,4 @@
 2026-02-04T03:26:41.582Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish error handling
 2026-02-04T03:34:31.948Z Barret李靖 <barretlee@users.noreply.github.com> :: fix dependency versions
 2026-02-04T04:01:43.332Z Getgems <getgems-io@users.noreply.github.com> :: tweak the parser
+2026-02-04T04:16:32.075Z LILYGO <LilyGO@users.noreply.github.com> :: refactor build script
