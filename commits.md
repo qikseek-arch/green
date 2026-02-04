@@ -17056,3 +17056,4 @@
 2026-02-04T00:39:41.195Z Amnezia VPN <support@amnezia.org> :: clean up logging
 2026-02-04T02:27:56.323Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: add null check
 2026-02-04T03:23:10.448Z Prometheus <prometheus@users.noreply.github.com> :: polish dependency versions
+2026-02-04T04:09:56.818Z LocalSend <localsend@users.noreply.github.com> :: refactor logging
