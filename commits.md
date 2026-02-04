@@ -374,3 +374,4 @@
 2026-02-04T09:38:26.846Z Rob Fuller <mubix@users.noreply.github.com> :: update the CI matrix
 2026-02-04T12:10:55.885Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: add readme typo
 2026-02-04T21:42:14.843Z Changkun Ou <changkun@users.noreply.github.com> :: add retry logic
+2026-02-04T23:10:08.316Z Iuri Silva <iuricode@users.noreply.github.com> :: fix retry logic
