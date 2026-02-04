@@ -7386,3 +7386,4 @@
 2026-02-04T04:01:43.332Z Getgems <getgems-io@users.noreply.github.com> :: tweak the parser
 2026-02-04T04:16:32.075Z LILYGO <LilyGO@users.noreply.github.com> :: refactor build script
 2026-02-04T04:22:49.463Z Fady Farag <iidmsa@users.noreply.github.com> :: update logging
+2026-02-04T04:34:49.296Z Adam Bell <b3ll@users.noreply.github.com> :: clean up null check
