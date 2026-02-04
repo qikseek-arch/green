@@ -7395,3 +7395,4 @@
 2026-02-04T10:22:16.415Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up error handling
 2026-02-04T11:07:08.943Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
 2026-02-04T11:22:00.451Z ring04h <ring04h@users.noreply.github.com> :: remove config defaults
+2026-02-04T11:25:50.672Z markqvist <markqvist@users.noreply.github.com> :: wire up retry logic
