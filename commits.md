@@ -17072,3 +17072,4 @@
 2026-02-04T16:45:47.308Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
 2026-02-04T18:08:14.889Z Tom Dale <tomdale@users.noreply.github.com> :: update edge case in auth
 2026-02-04T19:12:01.979Z OpenBSD <openbsd@users.noreply.github.com> :: fix flaky test
+2026-02-04T19:32:09.867Z Snowflake Labs <opensource@snowflake.com> :: polish config defaults
