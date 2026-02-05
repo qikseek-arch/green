@@ -17107,3 +17107,4 @@
 2026-02-05T14:29:27.712Z 1 <insoxin@users.noreply.github.com> :: remove the parser
 2026-02-05T15:58:06.414Z Alex Teichman <teichman@users.noreply.github.com> :: remove cache keys
 2026-02-05T16:48:21.124Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update cache keys
+2026-02-05T18:55:36.318Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: add config defaults
