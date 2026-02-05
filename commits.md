@@ -7434,3 +7434,4 @@
 2026-02-05T12:19:19.031Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up build script
 2026-02-05T12:24:53.630Z Shubs <infosec-au@users.noreply.github.com> :: update config defaults
 2026-02-05T12:52:38.476Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix retry logic
+2026-02-05T15:56:58.717Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish readme typo
