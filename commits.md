@@ -7420,3 +7420,4 @@
 2026-02-05T01:59:48.184Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix cache keys
 2026-02-05T03:32:05.326Z OpenJS Foundation <info@openjsf.org> :: bump null check
 2026-02-05T03:57:35.898Z ㅤxander <vampirist@users.noreply.github.com> :: update dead code
+2026-02-05T05:07:31.750Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update error handling
