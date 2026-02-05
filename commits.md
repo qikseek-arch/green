@@ -7431,3 +7431,4 @@
 2026-02-05T11:42:52.715Z Keith Smiley <keith@users.noreply.github.com> :: wire up flaky test
 2026-02-05T11:55:42.745Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump config defaults
 2026-02-05T12:02:16.744Z Adam Wathan <adamwathan@users.noreply.github.com> :: fix logging
+2026-02-05T12:19:19.031Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up build script
