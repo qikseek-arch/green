@@ -17091,3 +17091,4 @@
 2026-02-05T05:21:08.079Z LMSYS <lm-sys@users.noreply.github.com> :: refactor config defaults
 2026-02-05T06:35:11.246Z Petar Veličković <PetarV-@users.noreply.github.com> :: update build script
 2026-02-05T07:31:34.183Z Jordan Harband <ljharb@users.noreply.github.com> :: fix config defaults
+2026-02-05T07:36:56.956Z Yiming Cui <ymcui@users.noreply.github.com> :: fix readme typo
