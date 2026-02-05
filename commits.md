@@ -17102,3 +17102,4 @@
 2026-02-05T12:58:13.363Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak readme typo
 2026-02-05T13:18:25.533Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish config defaults
 2026-02-05T13:48:47.450Z LMSYS <lm-sys@users.noreply.github.com> :: refactor logging
+2026-02-05T14:02:14.641Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update the CI matrix
