@@ -7437,3 +7437,4 @@
 2026-02-05T15:56:58.717Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish readme typo
 2026-02-05T16:13:38.847Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor config defaults
 2026-02-05T16:42:25.675Z Sachin Soni <techiesms@users.noreply.github.com> :: bump readme typo
+2026-02-05T18:32:39.020Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor the CI matrix
