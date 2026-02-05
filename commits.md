@@ -7432,3 +7432,4 @@
 2026-02-05T11:55:42.745Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump config defaults
 2026-02-05T12:02:16.744Z Adam Wathan <adamwathan@users.noreply.github.com> :: fix logging
 2026-02-05T12:19:19.031Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up build script
+2026-02-05T12:24:53.630Z Shubs <infosec-au@users.noreply.github.com> :: update config defaults
