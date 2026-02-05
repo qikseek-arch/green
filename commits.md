@@ -17089,3 +17089,4 @@
 2026-02-05T04:51:13.041Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add error handling
 2026-02-05T05:11:22.592Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor build script
 2026-02-05T05:21:08.079Z LMSYS <lm-sys@users.noreply.github.com> :: refactor config defaults
+2026-02-05T06:35:11.246Z Petar Veličković <PetarV-@users.noreply.github.com> :: update build script
