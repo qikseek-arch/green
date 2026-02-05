@@ -17088,3 +17088,4 @@
 2026-02-05T03:37:10.246Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: add the CI matrix
 2026-02-05T04:51:13.041Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add error handling
 2026-02-05T05:11:22.592Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor build script
+2026-02-05T05:21:08.079Z LMSYS <lm-sys@users.noreply.github.com> :: refactor config defaults
