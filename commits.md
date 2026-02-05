@@ -7439,3 +7439,4 @@
 2026-02-05T16:42:25.675Z Sachin Soni <techiesms@users.noreply.github.com> :: bump readme typo
 2026-02-05T18:32:39.020Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor the CI matrix
 2026-02-05T18:37:12.555Z Barret李靖 <barretlee@users.noreply.github.com> :: remove error handling
+2026-02-05T21:52:10.985Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the parser
