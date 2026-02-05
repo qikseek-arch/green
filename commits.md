@@ -17092,3 +17092,4 @@
 2026-02-05T06:35:11.246Z Petar Veličković <PetarV-@users.noreply.github.com> :: update build script
 2026-02-05T07:31:34.183Z Jordan Harband <ljharb@users.noreply.github.com> :: fix config defaults
 2026-02-05T07:36:56.956Z Yiming Cui <ymcui@users.noreply.github.com> :: fix readme typo
+2026-02-05T09:08:14.591Z Prometheus <prometheus@users.noreply.github.com> :: add config defaults
