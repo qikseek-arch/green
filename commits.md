@@ -7424,3 +7424,4 @@
 2026-02-05T05:40:03.590Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up cache keys
 2026-02-05T05:49:30.546Z Duy Tran <khanhduytran0@users.noreply.github.com> :: tweak retry logic
 2026-02-05T07:43:39.991Z markqvist <markqvist@users.noreply.github.com> :: add the CI matrix
+2026-02-05T09:52:44.295Z Adam Bell <b3ll@users.noreply.github.com> :: polish null check
