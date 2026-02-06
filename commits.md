@@ -17118,3 +17118,4 @@
 2026-02-06T04:15:38.309Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak error handling
 2026-02-06T05:41:23.916Z Tavis Ormandy <taviso@users.noreply.github.com> :: update retry logic
 2026-02-06T05:42:26.551Z Tom Dale <tomdale@users.noreply.github.com> :: clean up logging
+2026-02-06T06:35:24.378Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak error handling
