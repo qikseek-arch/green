@@ -7442,3 +7442,4 @@
 2026-02-05T21:52:10.985Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the parser
 2026-02-05T23:30:17.937Z Claude <claude@users.noreply.github.com> :: wire up retry logic
 2026-02-05T23:34:02.205Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the CI matrix
+2026-02-06T00:14:48.810Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up edge case in auth
