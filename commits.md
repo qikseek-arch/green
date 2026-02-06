@@ -17136,3 +17136,4 @@
 2026-02-06T16:57:00.955Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor logging
 2026-02-06T17:02:19.397Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update dependency versions
 2026-02-06T17:42:20.384Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak null check
+2026-02-06T18:09:45.210Z John Schulman <joschu@users.noreply.github.com> :: add dependency versions
