@@ -17126,3 +17126,4 @@
 2026-02-06T10:16:09.241Z Google Fonts <googlefonts@users.noreply.github.com> :: remove build script
 2026-02-06T11:13:06.616Z Damian Gryski <dgryski@users.noreply.github.com> :: add readme typo
 2026-02-06T11:34:18.176Z Brian Holt <btholt@users.noreply.github.com> :: tweak flaky test
+2026-02-06T12:23:18.426Z Asif Taj <axiftaj@users.noreply.github.com> :: tweak the parser
