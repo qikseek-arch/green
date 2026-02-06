@@ -17121,3 +17121,4 @@
 2026-02-06T06:35:24.378Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak error handling
 2026-02-06T07:16:29.006Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove dependency versions
 2026-02-06T07:42:26.205Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up readme typo
+2026-02-06T08:04:47.154Z LMSYS <lm-sys@users.noreply.github.com> :: fix dependency versions
