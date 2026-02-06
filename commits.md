@@ -7452,3 +7452,4 @@
 2026-02-06T03:29:18.416Z CTFs <ctfs@users.noreply.github.com> :: update flaky test
 2026-02-06T04:30:28.903Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up edge case in auth
 2026-02-06T05:16:17.654Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dead code
+2026-02-06T07:48:18.078Z Rafal <RafalW3bCraft@users.noreply.github.com> :: refactor the CI matrix
