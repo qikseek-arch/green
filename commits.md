@@ -17124,3 +17124,4 @@
 2026-02-06T08:04:47.154Z LMSYS <lm-sys@users.noreply.github.com> :: fix dependency versions
 2026-02-06T09:38:09.824Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump logging
 2026-02-06T10:16:09.241Z Google Fonts <googlefonts@users.noreply.github.com> :: remove build script
+2026-02-06T11:13:06.616Z Damian Gryski <dgryski@users.noreply.github.com> :: add readme typo
