@@ -7463,3 +7463,4 @@
 2026-02-06T18:31:24.772Z Adam Bell <b3ll@users.noreply.github.com> :: polish error handling
 2026-02-06T20:28:20.065Z Claude <claude@users.noreply.github.com> :: refactor cache keys
 2026-02-06T22:27:40.802Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak flaky test
+2026-02-06T23:33:41.924Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up error handling
