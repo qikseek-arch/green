@@ -17135,3 +17135,4 @@
 2026-02-06T16:35:45.347Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: wire up cache keys
 2026-02-06T16:57:00.955Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor logging
 2026-02-06T17:02:19.397Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update dependency versions
+2026-02-06T17:42:20.384Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak null check
