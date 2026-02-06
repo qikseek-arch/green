@@ -7456,3 +7456,4 @@
 2026-02-06T08:07:03.679Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor the parser
 2026-02-06T10:40:29.471Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove cache keys
 2026-02-06T11:32:19.942Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update dependency versions
+2026-02-06T12:40:20.779Z Manu Arora <manuarora700@users.noreply.github.com> :: polish config defaults
