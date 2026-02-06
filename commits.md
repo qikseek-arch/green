@@ -17122,3 +17122,4 @@
 2026-02-06T07:16:29.006Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove dependency versions
 2026-02-06T07:42:26.205Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up readme typo
 2026-02-06T08:04:47.154Z LMSYS <lm-sys@users.noreply.github.com> :: fix dependency versions
+2026-02-06T09:38:09.824Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump logging
