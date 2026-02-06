@@ -7459,3 +7459,4 @@
 2026-02-06T12:40:20.779Z Manu Arora <manuarora700@users.noreply.github.com> :: polish config defaults
 2026-02-06T14:22:49.105Z Getgems <getgems-io@users.noreply.github.com> :: wire up retry logic
 2026-02-06T15:04:56.209Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: wire up logging
+2026-02-06T15:38:58.615Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove dead code
