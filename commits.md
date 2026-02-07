@@ -7486,3 +7486,4 @@
 2026-02-07T16:32:25.863Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up readme typo
 2026-02-07T16:45:34.007Z Taiko Foundation <info@taiko.xyz> :: remove the CI matrix
 2026-02-07T18:55:15.756Z CTFs <ctfs@users.noreply.github.com> :: wire up error handling
+2026-02-07T20:20:05.079Z SouJunior <wouerner@soujunior.tech> :: refactor the parser
