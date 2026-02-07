@@ -7478,3 +7478,4 @@
 2026-02-07T08:45:40.899Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up edge case in auth
 2026-02-07T08:45:43.000Z heyli <lcxfs1991@users.noreply.github.com> :: add dead code
 2026-02-07T08:58:08.492Z Almas Baim <AlmasB@users.noreply.github.com> :: update retry logic
+2026-02-07T09:49:53.973Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak the parser
