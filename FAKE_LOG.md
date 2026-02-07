@@ -433,3 +433,4 @@
 2026-01-30T04:37:52.887Z solarshrimp30 <solarshrimp30@fake.invalid> :: bump the parser
 2026-02-01T22:33:28.256Z sleepy-badgerhq <sleepy-badgerhq@fake.invalid> :: update readme typo
 2026-02-05T09:49:51.856Z Ken Thompson <ken.thompson@fake.invalid> :: remove build script
+2026-02-07T11:31:18.690Z Solomon Hykes <solomon.hykes@fake.invalid> :: remove config defaults
