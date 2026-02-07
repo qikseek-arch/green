@@ -17155,3 +17155,4 @@
 2026-02-07T15:38:56.719Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove null check
 2026-02-07T16:43:38.607Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update error handling
 2026-02-07T17:36:02.551Z OpenBSD <openbsd@users.noreply.github.com> :: refactor readme typo
+2026-02-07T18:02:14.799Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor dependency versions
