@@ -7472,3 +7472,4 @@
 2026-02-07T04:07:29.959Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump build script
 2026-02-07T04:25:16.564Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove cache keys
 2026-02-07T05:19:46.765Z WebRTC <discuss-webrtc@googlegroups.com> :: polish error handling
+2026-02-07T06:00:36.055Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update readme typo
