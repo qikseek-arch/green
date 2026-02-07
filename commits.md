@@ -7485,3 +7485,4 @@
 2026-02-07T16:02:39.424Z markqvist <markqvist@users.noreply.github.com> :: update logging
 2026-02-07T16:32:25.863Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up readme typo
 2026-02-07T16:45:34.007Z Taiko Foundation <info@taiko.xyz> :: remove the CI matrix
+2026-02-07T18:55:15.756Z CTFs <ctfs@users.noreply.github.com> :: wire up error handling
