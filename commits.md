@@ -17153,3 +17153,4 @@
 2026-02-07T11:43:18.459Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove null check
 2026-02-07T15:35:26.452Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove error handling
 2026-02-07T15:38:56.719Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove null check
+2026-02-07T16:43:38.607Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update error handling
