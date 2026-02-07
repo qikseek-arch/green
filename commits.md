@@ -7483,3 +7483,4 @@
 2026-02-07T11:24:55.589Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
 2026-02-07T14:19:22.082Z Getgems <getgems-io@users.noreply.github.com> :: add flaky test
 2026-02-07T16:02:39.424Z markqvist <markqvist@users.noreply.github.com> :: update logging
+2026-02-07T16:32:25.863Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up readme typo
