@@ -17141,3 +17141,4 @@
 2026-02-06T20:44:52.984Z Amie Lynn <stoked-zz@users.noreply.github.com> :: add the parser
 2026-02-06T23:01:19.524Z Dove Letter <skydoves2@gmail.com> :: refactor logging
 2026-02-07T00:35:38.189Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump error handling
+2026-02-07T01:07:31.782Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
