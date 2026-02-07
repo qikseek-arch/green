@@ -7466,3 +7466,4 @@
 2026-02-06T23:33:41.924Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up error handling
 2026-02-07T01:10:03.038Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up edge case in auth
 2026-02-07T01:40:50.675Z qiye <qiyeboy@users.noreply.github.com> :: refactor build script
+2026-02-07T02:14:32.034Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add the CI matrix
