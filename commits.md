@@ -17162,3 +17162,4 @@
 2026-02-07T22:39:35.021Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak null check
 2026-02-07T22:51:09.532Z winterbe <winterbe@users.noreply.github.com> :: update dependency versions
 2026-02-07T23:05:39.283Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix error handling
+2026-02-07T23:11:05.637Z OpenBSD <openbsd@users.noreply.github.com> :: refactor error handling
