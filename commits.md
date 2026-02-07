@@ -7482,3 +7482,4 @@
 2026-02-07T11:15:22.607Z AI4Bhārat <opensource@ai4bharat.org> :: update readme typo
 2026-02-07T11:24:55.589Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
 2026-02-07T14:19:22.082Z Getgems <getgems-io@users.noreply.github.com> :: add flaky test
+2026-02-07T16:02:39.424Z markqvist <markqvist@users.noreply.github.com> :: update logging
