@@ -379,3 +379,4 @@
 2026-02-05T09:44:14.720Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: add config defaults
 2026-02-06T12:57:08.884Z Hsiaoming Yang <lepture@users.noreply.github.com> :: bump null check
 2026-02-06T17:40:10.715Z xer0dayz <1N3@users.noreply.github.com> :: update edge case in auth
+2026-02-07T10:00:46.451Z David Robinson <dgrtwo@users.noreply.github.com> :: remove null check
