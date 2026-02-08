@@ -705,3 +705,4 @@
 2026-02-02T23:00:14.278Z dan <gaearon@users.noreply.github.com> :: update readme typo
 2026-02-06T04:45:20.013Z dan <gaearon@users.noreply.github.com> :: remove null check
 2026-02-08T00:14:24.583Z Flutter <flutter@users.noreply.github.com> :: add error handling
+2026-02-08T12:10:36.015Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: add null check
