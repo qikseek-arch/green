@@ -704,3 +704,4 @@
 2026-02-02T08:17:24.370Z Datawhale <datawhalechina@users.noreply.github.com> :: refactor flaky test
 2026-02-02T23:00:14.278Z dan <gaearon@users.noreply.github.com> :: update readme typo
 2026-02-06T04:45:20.013Z dan <gaearon@users.noreply.github.com> :: remove null check
+2026-02-08T00:14:24.583Z Flutter <flutter@users.noreply.github.com> :: add error handling
