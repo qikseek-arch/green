@@ -17176,3 +17176,4 @@
 2026-02-08T11:47:18.851Z Morvan <MorvanZhou@users.noreply.github.com> :: wire up the CI matrix
 2026-02-08T13:02:14.111Z winterbe <winterbe@users.noreply.github.com> :: bump build script
 2026-02-08T13:11:08.798Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak flaky test
+2026-02-08T13:53:34.726Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish edge case in auth
