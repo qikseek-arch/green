@@ -17185,3 +17185,4 @@
 2026-02-08T17:26:53.917Z OpenBMB <openbmb@gmail.com> :: refactor flaky test
 2026-02-08T18:29:10.343Z Odi <mathdroid@users.noreply.github.com> :: add cache keys
 2026-02-08T19:46:31.997Z Odi <mathdroid@users.noreply.github.com> :: bump error handling
+2026-02-08T20:28:39.354Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up edge case in auth
