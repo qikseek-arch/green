@@ -7496,3 +7496,4 @@
 2026-02-08T08:57:20.463Z Taiko Foundation <info@taiko.xyz> :: refactor flaky test
 2026-02-08T09:16:54.893Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update flaky test
 2026-02-08T11:00:11.936Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove dependency versions
+2026-02-08T11:03:07.129Z Sachin Soni <techiesms@users.noreply.github.com> :: bump the CI matrix
