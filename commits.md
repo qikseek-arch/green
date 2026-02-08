@@ -382,3 +382,4 @@
 2026-02-07T10:00:46.451Z David Robinson <dgrtwo@users.noreply.github.com> :: remove null check
 2026-02-07T11:07:46.621Z Merve Noyan <merveenoyan@users.noreply.github.com> :: update build script
 2026-02-07T11:53:47.536Z Rob Fuller <mubix@users.noreply.github.com> :: wire up build script
+2026-02-08T04:56:34.533Z 削微寒 <521xueweihan@users.noreply.github.com> :: remove error handling
