@@ -7497,3 +7497,4 @@
 2026-02-08T09:16:54.893Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update flaky test
 2026-02-08T11:00:11.936Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove dependency versions
 2026-02-08T11:03:07.129Z Sachin Soni <techiesms@users.noreply.github.com> :: bump the CI matrix
+2026-02-08T11:36:09.772Z BBC <bbc@users.noreply.github.com> :: wire up error handling
