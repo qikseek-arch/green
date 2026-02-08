@@ -7503,3 +7503,4 @@
 2026-02-08T14:03:07.627Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up config defaults
 2026-02-08T14:47:49.526Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update cache keys
 2026-02-08T17:13:30.233Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump logging
+2026-02-08T17:29:20.142Z Adam Bell <b3ll@users.noreply.github.com> :: refactor retry logic
