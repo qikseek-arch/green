@@ -7491,3 +7491,4 @@
 2026-02-08T01:33:52.503Z Claude <claude@users.noreply.github.com> :: clean up logging
 2026-02-08T01:48:23.154Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish cache keys
 2026-02-08T06:23:46.577Z Keith Smiley <keith@users.noreply.github.com> :: refactor config defaults
+2026-02-08T07:55:10.099Z Shubs <infosec-au@users.noreply.github.com> :: polish build script
