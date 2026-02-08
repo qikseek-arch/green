@@ -17165,3 +17165,4 @@
 2026-02-07T23:11:05.637Z OpenBSD <openbsd@users.noreply.github.com> :: refactor error handling
 2026-02-07T23:46:41.098Z Lovell Fuller <lovell@users.noreply.github.com> :: bump dependency versions
 2026-02-08T00:55:10.319Z rxi <rxi@users.noreply.github.com> :: fix the CI matrix
+2026-02-08T01:12:10.032Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak dead code
