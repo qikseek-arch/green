@@ -7499,3 +7499,4 @@
 2026-02-08T11:03:07.129Z Sachin Soni <techiesms@users.noreply.github.com> :: bump the CI matrix
 2026-02-08T11:36:09.772Z BBC <bbc@users.noreply.github.com> :: wire up error handling
 2026-02-08T12:05:14.561Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up logging
+2026-02-08T12:54:56.767Z Manu Arora <manuarora700@users.noreply.github.com> :: fix dependency versions
