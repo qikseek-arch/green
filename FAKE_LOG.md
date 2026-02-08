@@ -75,3 +75,4 @@
 2026-02-06T04:19:59.581Z vulture_silly <vulture_silly@users.noreply.github.com> :: refactor the CI matrix
 2026-02-07T03:54:56.870Z Yukihiro Matsumoto <yukihiro.matsumoto@example.com> :: clean up dependency versions
 2026-02-07T11:32:53.490Z SilentShrimp <silentshrimp@users.noreply.github.com> :: update error handling
+2026-02-08T10:58:54.956Z crimsoncomet64 <crimsoncomet64@users.noreply.github.com> :: bump dependency versions
