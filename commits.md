@@ -17188,3 +17188,4 @@
 2026-02-08T20:28:39.354Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up edge case in auth
 2026-02-08T21:15:24.898Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update error handling
 2026-02-08T23:12:15.366Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: add edge case in auth
+2026-02-08T23:28:39.116Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix build script
