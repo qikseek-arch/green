@@ -7506,3 +7506,4 @@
 2026-02-08T17:29:20.142Z Adam Bell <b3ll@users.noreply.github.com> :: refactor retry logic
 2026-02-08T17:43:46.665Z Odi <mathdroid@users.noreply.github.com> :: tweak build script
 2026-02-08T18:16:23.407Z vb <Vaibhavs10@users.noreply.github.com> :: bump the parser
+2026-02-08T18:51:16.292Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: wire up error handling
