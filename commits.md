@@ -7526,3 +7526,4 @@
 2026-02-09T07:15:32.240Z ring04h <ring04h@users.noreply.github.com> :: wire up logging
 2026-02-09T11:20:14.554Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak retry logic
 2026-02-09T12:46:20.637Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
+2026-02-09T13:22:14.850Z Adam Bell <b3ll@users.noreply.github.com> :: refactor null check
