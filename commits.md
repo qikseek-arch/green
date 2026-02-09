@@ -17193,3 +17193,4 @@
 2026-02-09T01:58:01.993Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up config defaults
 2026-02-09T02:02:05.228Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: clean up dependency versions
 2026-02-09T02:32:40.896Z Brian Holt <btholt@users.noreply.github.com> :: wire up build script
+2026-02-09T02:55:38.169Z Jordan Harband <ljharb@users.noreply.github.com> :: remove null check
