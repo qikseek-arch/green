@@ -7510,3 +7510,4 @@
 2026-02-08T18:51:34.641Z ㅤxander <vampirist@users.noreply.github.com> :: polish readme typo
 2026-02-08T21:09:25.117Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish null check
 2026-02-09T00:33:37.483Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
+2026-02-09T01:09:21.290Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove error handling
