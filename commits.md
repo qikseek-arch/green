@@ -17205,3 +17205,4 @@
 2026-02-09T15:35:27.912Z Michael Jackson <mjackson@users.noreply.github.com> :: polish the parser
 2026-02-09T16:08:55.825Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up edge case in auth
 2026-02-09T18:27:28.239Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish the CI matrix
+2026-02-09T20:18:03.651Z Sky Ao <skyao@users.noreply.github.com> :: bump error handling
