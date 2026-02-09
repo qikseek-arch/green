@@ -17197,3 +17197,4 @@
 2026-02-09T04:08:20.817Z Snowflake Labs <opensource@snowflake.com> :: add cache keys
 2026-02-09T08:24:31.638Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix error handling
 2026-02-09T09:08:57.053Z Epic Dev Space <team@epicweb.dev> :: polish logging
+2026-02-09T09:43:08.031Z 1 <insoxin@users.noreply.github.com> :: update null check
