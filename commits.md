@@ -17200,3 +17200,4 @@
 2026-02-09T09:43:08.031Z 1 <insoxin@users.noreply.github.com> :: update null check
 2026-02-09T09:49:58.174Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up null check
 2026-02-09T12:00:46.818Z Lovell Fuller <lovell@users.noreply.github.com> :: bump retry logic
+2026-02-09T14:38:10.301Z Jordan Harband <ljharb@users.noreply.github.com> :: add readme typo
