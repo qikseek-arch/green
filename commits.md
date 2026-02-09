@@ -7513,3 +7513,4 @@
 2026-02-09T01:09:21.290Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove error handling
 2026-02-09T02:08:59.587Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix logging
 2026-02-09T02:17:09.839Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor retry logic
+2026-02-09T02:40:05.984Z Shubs <infosec-au@users.noreply.github.com> :: remove readme typo
