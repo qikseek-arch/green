@@ -7538,3 +7538,4 @@
 2026-02-09T20:24:09.979Z Daniel Eden <daneden@users.noreply.github.com> :: add error handling
 2026-02-09T21:31:55.780Z Manu Arora <manuarora700@users.noreply.github.com> :: bump dead code
 2026-02-09T22:21:04.575Z ring04h <ring04h@users.noreply.github.com> :: add cache keys
+2026-02-09T22:56:32.897Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor edge case in auth
