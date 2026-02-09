@@ -17208,3 +17208,4 @@
 2026-02-09T20:18:03.651Z Sky Ao <skyao@users.noreply.github.com> :: bump error handling
 2026-02-09T20:47:53.073Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix build script
 2026-02-09T21:15:25.769Z cytopia <cytopia@users.noreply.github.com> :: polish dead code
+2026-02-09T21:55:45.713Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak error handling
