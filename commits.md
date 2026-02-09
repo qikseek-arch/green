@@ -7511,3 +7511,4 @@
 2026-02-08T21:09:25.117Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish null check
 2026-02-09T00:33:37.483Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
 2026-02-09T01:09:21.290Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove error handling
+2026-02-09T02:08:59.587Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix logging
