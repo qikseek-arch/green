@@ -17195,3 +17195,4 @@
 2026-02-09T02:32:40.896Z Brian Holt <btholt@users.noreply.github.com> :: wire up build script
 2026-02-09T02:55:38.169Z Jordan Harband <ljharb@users.noreply.github.com> :: remove null check
 2026-02-09T04:08:20.817Z Snowflake Labs <opensource@snowflake.com> :: add cache keys
+2026-02-09T08:24:31.638Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix error handling
