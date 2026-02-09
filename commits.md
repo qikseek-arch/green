@@ -7518,3 +7518,4 @@
 2026-02-09T03:26:26.786Z First Contributions <firstcontributions@gmail.com> :: refactor config defaults
 2026-02-09T03:47:52.399Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up cache keys
 2026-02-09T04:09:15.726Z AI4Bhārat <opensource@ai4bharat.org> :: update dependency versions
+2026-02-09T05:10:47.617Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update the CI matrix
