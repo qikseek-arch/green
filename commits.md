@@ -17202,3 +17202,4 @@
 2026-02-09T12:00:46.818Z Lovell Fuller <lovell@users.noreply.github.com> :: bump retry logic
 2026-02-09T14:38:10.301Z Jordan Harband <ljharb@users.noreply.github.com> :: add readme typo
 2026-02-09T14:48:49.023Z Amnezia VPN <support@amnezia.org> :: update edge case in auth
+2026-02-09T15:35:27.912Z Michael Jackson <mjackson@users.noreply.github.com> :: polish the parser
