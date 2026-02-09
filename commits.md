@@ -7520,3 +7520,4 @@
 2026-02-09T04:09:15.726Z AI4Bhārat <opensource@ai4bharat.org> :: update dependency versions
 2026-02-09T05:10:47.617Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update the CI matrix
 2026-02-09T06:26:20.449Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up the CI matrix
+2026-02-09T06:27:28.853Z Sachin Soni <techiesms@users.noreply.github.com> :: polish retry logic
