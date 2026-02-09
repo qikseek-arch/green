@@ -390,3 +390,4 @@
 2026-02-09T17:01:22.957Z Yihua Zhang <ZhangMYihua@users.noreply.github.com> :: wire up retry logic
 2026-02-09T18:15:22.029Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish readme typo
 2026-02-09T21:03:15.208Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update dependency versions
+2026-02-09T23:15:51.453Z Susan Li <susanli2016@users.noreply.github.com> :: wire up logging
