@@ -17198,3 +17198,4 @@
 2026-02-09T08:24:31.638Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix error handling
 2026-02-09T09:08:57.053Z Epic Dev Space <team@epicweb.dev> :: polish logging
 2026-02-09T09:43:08.031Z 1 <insoxin@users.noreply.github.com> :: update null check
+2026-02-09T09:49:58.174Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up null check
