@@ -17203,3 +17203,4 @@
 2026-02-09T14:38:10.301Z Jordan Harband <ljharb@users.noreply.github.com> :: add readme typo
 2026-02-09T14:48:49.023Z Amnezia VPN <support@amnezia.org> :: update edge case in auth
 2026-02-09T15:35:27.912Z Michael Jackson <mjackson@users.noreply.github.com> :: polish the parser
+2026-02-09T16:08:55.825Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up edge case in auth
