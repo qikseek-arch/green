@@ -7542,3 +7542,4 @@
 2026-02-09T23:53:07.534Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak dependency versions
 2026-02-10T00:28:01.808Z Shubs <infosec-au@users.noreply.github.com> :: remove the CI matrix
 2026-02-10T01:29:12.616Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up logging
+2026-02-10T01:34:11.634Z Adam Bell <b3ll@users.noreply.github.com> :: polish null check
