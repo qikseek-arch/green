@@ -7543,3 +7543,4 @@
 2026-02-10T00:28:01.808Z Shubs <infosec-au@users.noreply.github.com> :: remove the CI matrix
 2026-02-10T01:29:12.616Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up logging
 2026-02-10T01:34:11.634Z Adam Bell <b3ll@users.noreply.github.com> :: polish null check
+2026-02-10T02:12:14.807Z Getgems <getgems-io@users.noreply.github.com> :: bump build script
