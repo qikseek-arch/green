@@ -17226,3 +17226,4 @@
 2026-02-10T13:47:49.909Z Collabnix <collabnix@users.noreply.github.com> :: add dependency versions
 2026-02-10T14:23:55.462Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump the CI matrix
 2026-02-10T18:20:37.670Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update readme typo
+2026-02-10T19:49:10.581Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak config defaults
