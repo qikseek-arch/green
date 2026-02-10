@@ -434,3 +434,4 @@
 2026-02-01T22:33:28.256Z sleepy-badgerhq <sleepy-badgerhq@fake.invalid> :: update readme typo
 2026-02-05T09:49:51.856Z Ken Thompson <ken.thompson@fake.invalid> :: remove build script
 2026-02-07T11:31:18.690Z Solomon Hykes <solomon.hykes@fake.invalid> :: remove config defaults
+2026-02-10T15:18:53.592Z Robert C. Martin <robert.c.martin@fake.invalid> :: clean up config defaults
