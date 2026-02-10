@@ -7560,3 +7560,4 @@
 2026-02-10T17:44:03.445Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up the CI matrix
 2026-02-10T17:45:17.148Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up dependency versions
 2026-02-10T18:14:13.488Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove flaky test
+2026-02-10T18:15:22.532Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak error handling
