@@ -706,3 +706,4 @@
 2026-02-06T04:45:20.013Z dan <gaearon@users.noreply.github.com> :: remove null check
 2026-02-08T00:14:24.583Z Flutter <flutter@users.noreply.github.com> :: add error handling
 2026-02-08T12:10:36.015Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: add null check
+2026-02-10T03:37:04.998Z Tim Pope <tpope@users.noreply.github.com> :: wire up logging
