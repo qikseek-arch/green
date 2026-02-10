@@ -7540,3 +7540,4 @@
 2026-02-09T22:21:04.575Z ring04h <ring04h@users.noreply.github.com> :: add cache keys
 2026-02-09T22:56:32.897Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor edge case in auth
 2026-02-09T23:53:07.534Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak dependency versions
+2026-02-10T00:28:01.808Z Shubs <infosec-au@users.noreply.github.com> :: remove the CI matrix
