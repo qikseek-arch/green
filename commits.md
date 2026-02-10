@@ -17217,3 +17217,4 @@
 2026-02-10T04:15:08.394Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix the parser
 2026-02-10T04:16:20.054Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up build script
 2026-02-10T04:18:27.478Z OpenBSD <openbsd@users.noreply.github.com> :: update config defaults
+2026-02-10T06:18:09.193Z Lovell Fuller <lovell@users.noreply.github.com> :: fix retry logic
