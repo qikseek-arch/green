@@ -17222,3 +17222,4 @@
 2026-02-10T08:49:52.710Z yakeIore <yakeIore@users.noreply.github.com> :: refactor dependency versions
 2026-02-10T09:39:20.183Z SurrealDB <surrealdb@users.noreply.github.com> :: update dependency versions
 2026-02-10T11:22:33.798Z Tavis Ormandy <taviso@users.noreply.github.com> :: add dead code
+2026-02-10T12:47:44.304Z Tavis Ormandy <taviso@users.noreply.github.com> :: polish dead code
