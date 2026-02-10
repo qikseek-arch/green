@@ -392,3 +392,4 @@
 2026-02-09T21:03:15.208Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update dependency versions
 2026-02-09T23:15:51.453Z Susan Li <susanli2016@users.noreply.github.com> :: wire up logging
 2026-02-10T06:20:39.504Z xer0dayz <1N3@users.noreply.github.com> :: update retry logic
+2026-02-10T11:28:54.667Z MASSGRAVE <massgravel@users.noreply.github.com> :: add build script
