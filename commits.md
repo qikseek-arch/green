@@ -17264,3 +17264,4 @@
 2026-02-11T18:40:24.022Z Scott Chacon <schacon@users.noreply.github.com> :: update null check
 2026-02-11T19:14:27.279Z Prometheus <prometheus@users.noreply.github.com> :: add cache keys
 2026-02-11T19:23:14.919Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak build script
+2026-02-11T19:31:32.606Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove retry logic
