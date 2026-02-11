@@ -7600,3 +7600,4 @@
 2026-02-11T18:15:57.172Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak build script
 2026-02-11T19:34:26.752Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor retry logic
 2026-02-11T20:07:43.510Z Arduino <arduino@users.noreply.github.com> :: tweak the CI matrix
+2026-02-11T20:18:01.340Z LILYGO <LilyGO@users.noreply.github.com> :: add edge case in auth
