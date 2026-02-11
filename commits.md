@@ -7568,3 +7568,4 @@
 2026-02-10T22:19:09.877Z markqvist <markqvist@users.noreply.github.com> :: fix retry logic
 2026-02-10T23:05:04.418Z Qwen <qianwen_opensource@alibabacloud.com> :: bump error handling
 2026-02-10T23:40:17.052Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove edge case in auth
+2026-02-11T00:48:23.412Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak retry logic
