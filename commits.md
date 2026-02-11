@@ -7583,3 +7583,4 @@
 2026-02-11T11:33:05.278Z markqvist <markqvist@users.noreply.github.com> :: update config defaults
 2026-02-11T11:35:51.815Z OpenJS Foundation <info@openjsf.org> :: fix dead code
 2026-02-11T12:03:04.262Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up build script
+2026-02-11T12:12:56.464Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish the CI matrix
