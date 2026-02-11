@@ -7593,3 +7593,4 @@
 2026-02-11T15:34:29.725Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak the CI matrix
 2026-02-11T16:05:03.280Z Ryan Bigg <radar@users.noreply.github.com> :: remove flaky test
 2026-02-11T16:23:44.485Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add config defaults
+2026-02-11T16:34:02.039Z Taiko Foundation <info@taiko.xyz> :: bump retry logic
