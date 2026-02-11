@@ -394,3 +394,4 @@
 2026-02-10T06:20:39.504Z xer0dayz <1N3@users.noreply.github.com> :: update retry logic
 2026-02-10T11:28:54.667Z MASSGRAVE <massgravel@users.noreply.github.com> :: add build script
 2026-02-10T18:13:11.226Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
+2026-02-11T04:19:11.000Z vn.py <vnpy@users.noreply.github.com> :: update retry logic
