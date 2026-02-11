@@ -7575,3 +7575,4 @@
 2026-02-11T06:30:50.777Z David Fowler <davidfowl@users.noreply.github.com> :: tweak edge case in auth
 2026-02-11T07:37:32.282Z Barret李靖 <barretlee@users.noreply.github.com> :: bump null check
 2026-02-11T09:03:17.532Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak config defaults
+2026-02-11T10:01:14.270Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor config defaults
