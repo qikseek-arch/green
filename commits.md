@@ -396,3 +396,4 @@
 2026-02-10T18:13:11.226Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
 2026-02-11T04:19:11.000Z vn.py <vnpy@users.noreply.github.com> :: update retry logic
 2026-02-11T05:21:10.738Z 左程云 <algorithmzuo@users.noreply.github.com> :: add retry logic
+2026-02-11T06:00:23.021Z Leon AI <louis@getleon.ai> :: wire up readme typo
