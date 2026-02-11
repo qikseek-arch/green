@@ -17259,3 +17259,4 @@
 2026-02-11T16:38:38.555Z Sergey P. <ThirteenAG@users.noreply.github.com> :: refactor null check
 2026-02-11T16:42:59.907Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up cache keys
 2026-02-11T16:59:45.573Z Lovell Fuller <lovell@users.noreply.github.com> :: fix the parser
+2026-02-11T17:14:04.687Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up logging
