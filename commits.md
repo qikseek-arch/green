@@ -17248,3 +17248,4 @@
 2026-02-11T09:51:42.489Z Lovell Fuller <lovell@users.noreply.github.com> :: fix cache keys
 2026-02-11T10:29:24.983Z Brian Holt <btholt@users.noreply.github.com> :: fix the CI matrix
 2026-02-11T10:55:21.464Z Alex Teichman <teichman@users.noreply.github.com> :: bump cache keys
+2026-02-11T12:07:31.195Z Casey Muratori <cmuratori@users.noreply.github.com> :: polish edge case in auth
