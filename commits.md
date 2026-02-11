@@ -7571,3 +7571,4 @@
 2026-02-11T00:48:23.412Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak retry logic
 2026-02-11T01:53:19.403Z ring04h <ring04h@users.noreply.github.com> :: update error handling
 2026-02-11T06:01:20.781Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor config defaults
+2026-02-11T06:16:55.328Z Taiko Foundation <info@taiko.xyz> :: wire up logging
