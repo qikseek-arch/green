@@ -7582,3 +7582,4 @@
 2026-02-11T11:06:53.164Z ⠀ <destroy-boys@users.noreply.github.com> :: update build script
 2026-02-11T11:33:05.278Z markqvist <markqvist@users.noreply.github.com> :: update config defaults
 2026-02-11T11:35:51.815Z OpenJS Foundation <info@openjsf.org> :: fix dead code
+2026-02-11T12:03:04.262Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up build script
