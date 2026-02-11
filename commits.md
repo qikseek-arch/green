@@ -7586,3 +7586,4 @@
 2026-02-11T12:12:56.464Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish the CI matrix
 2026-02-11T12:28:48.332Z Adam Bell <b3ll@users.noreply.github.com> :: polish flaky test
 2026-02-11T13:51:24.368Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the CI matrix
+2026-02-11T13:54:21.322Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up null check
