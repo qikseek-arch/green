@@ -7597,3 +7597,4 @@
 2026-02-11T17:15:55.635Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish readme typo
 2026-02-11T17:52:26.153Z SouJunior <wouerner@soujunior.tech> :: wire up readme typo
 2026-02-11T17:58:23.216Z vb <Vaibhavs10@users.noreply.github.com> :: tweak retry logic
+2026-02-11T18:15:57.172Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak build script
