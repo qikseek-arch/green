@@ -17236,3 +17236,4 @@
 2026-02-10T23:04:41.625Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak flaky test
 2026-02-11T00:27:48.601Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: remove dead code
 2026-02-11T01:13:55.031Z Collabnix <collabnix@users.noreply.github.com> :: remove retry logic
+2026-02-11T02:48:41.611Z Prometheus <prometheus@users.noreply.github.com> :: polish the CI matrix
