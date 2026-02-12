@@ -398,3 +398,4 @@
 2026-02-11T05:21:10.738Z 左程云 <algorithmzuo@users.noreply.github.com> :: add retry logic
 2026-02-11T06:00:23.021Z Leon AI <louis@getleon.ai> :: wire up readme typo
 2026-02-11T10:29:19.454Z Ryubing <Ryubing@users.noreply.github.com> :: clean up error handling
+2026-02-12T00:37:07.576Z Donny/강동윤 <kdy1@users.noreply.github.com> :: fix error handling
