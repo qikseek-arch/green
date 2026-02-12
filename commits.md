@@ -7606,3 +7606,4 @@
 2026-02-12T01:44:36.953Z Adam Łucek <ALucek@users.noreply.github.com> :: add the parser
 2026-02-12T02:05:02.649Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: bump the parser
 2026-02-12T02:23:27.458Z LILYGO <LilyGO@users.noreply.github.com> :: remove readme typo
+2026-02-12T02:50:20.091Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update retry logic
