@@ -17288,3 +17288,4 @@
 2026-02-12T17:14:29.341Z 千古壹号 <qianguyihao@users.noreply.github.com> :: fix readme typo
 2026-02-12T17:22:53.521Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak dependency versions
 2026-02-12T21:05:00.763Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak dead code
+2026-02-12T21:09:36.435Z OpenBSD <openbsd@users.noreply.github.com> :: remove build script
