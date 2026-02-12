@@ -7623,3 +7623,4 @@
 2026-02-12T13:30:01.131Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove cache keys
 2026-02-12T13:41:06.234Z SouJunior <wouerner@soujunior.tech> :: wire up retry logic
 2026-02-12T13:41:14.459Z Getgems <getgems-io@users.noreply.github.com> :: clean up the parser
+2026-02-12T15:23:04.567Z ㅤxander <vampirist@users.noreply.github.com> :: polish config defaults
