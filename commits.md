@@ -17269,3 +17269,4 @@
 2026-02-11T19:58:21.691Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add error handling
 2026-02-11T20:32:20.913Z OpenBSD <openbsd@users.noreply.github.com> :: bump flaky test
 2026-02-11T22:33:52.806Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: add retry logic
+2026-02-12T00:09:05.495Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: clean up error handling
