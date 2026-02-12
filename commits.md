@@ -7614,3 +7614,4 @@
 2026-02-12T06:14:12.172Z Aurélien Geron <ageron@users.noreply.github.com> :: remove null check
 2026-02-12T07:59:28.851Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish build script
 2026-02-12T08:37:07.848Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up error handling
+2026-02-12T10:45:09.222Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update build script
