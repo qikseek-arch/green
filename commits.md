@@ -7612,3 +7612,4 @@
 2026-02-12T05:09:34.059Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add flaky test
 2026-02-12T05:36:02.963Z AI4Bhārat <opensource@ai4bharat.org> :: tweak config defaults
 2026-02-12T06:14:12.172Z Aurélien Geron <ageron@users.noreply.github.com> :: remove null check
+2026-02-12T07:59:28.851Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish build script
