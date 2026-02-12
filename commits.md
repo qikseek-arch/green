@@ -7627,3 +7627,4 @@
 2026-02-12T16:00:49.251Z vb <Vaibhavs10@users.noreply.github.com> :: bump logging
 2026-02-12T16:06:05.640Z WebRTC <discuss-webrtc@googlegroups.com> :: wire up build script
 2026-02-12T17:46:10.503Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up the CI matrix
+2026-02-12T19:02:22.300Z Damian Dulisz <shentao@users.noreply.github.com> :: remove edge case in auth
