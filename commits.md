@@ -7632,3 +7632,4 @@
 2026-02-12T19:50:15.267Z Aurélien Geron <ageron@users.noreply.github.com> :: bump null check
 2026-02-12T20:28:35.031Z Adam Bell <b3ll@users.noreply.github.com> :: refactor null check
 2026-02-12T20:30:01.773Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up dead code
+2026-02-12T20:53:56.672Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor config defaults
