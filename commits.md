@@ -7604,3 +7604,4 @@
 2026-02-11T20:22:12.272Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak readme typo
 2026-02-12T00:25:01.964Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2026-02-12T01:44:36.953Z Adam Łucek <ALucek@users.noreply.github.com> :: add the parser
+2026-02-12T02:05:02.649Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: bump the parser
