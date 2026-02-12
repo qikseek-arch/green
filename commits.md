@@ -17275,3 +17275,4 @@
 2026-02-12T03:44:40.176Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove retry logic
 2026-02-12T05:46:49.017Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak dependency versions
 2026-02-12T06:10:05.922Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish retry logic
+2026-02-12T07:25:42.032Z John Schulman <joschu@users.noreply.github.com> :: add null check
