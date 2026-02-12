@@ -7602,3 +7602,4 @@
 2026-02-11T20:07:43.510Z Arduino <arduino@users.noreply.github.com> :: tweak the CI matrix
 2026-02-11T20:18:01.340Z LILYGO <LilyGO@users.noreply.github.com> :: add edge case in auth
 2026-02-11T20:22:12.272Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak readme typo
+2026-02-12T00:25:01.964Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
