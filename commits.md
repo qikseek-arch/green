@@ -7629,3 +7629,4 @@
 2026-02-12T17:46:10.503Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up the CI matrix
 2026-02-12T19:02:22.300Z Damian Dulisz <shentao@users.noreply.github.com> :: remove edge case in auth
 2026-02-12T19:22:11.049Z ring04h <ring04h@users.noreply.github.com> :: add the CI matrix
+2026-02-12T19:50:15.267Z Aurélien Geron <ageron@users.noreply.github.com> :: bump null check
