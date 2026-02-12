@@ -7626,3 +7626,4 @@
 2026-02-12T15:23:04.567Z ㅤxander <vampirist@users.noreply.github.com> :: polish config defaults
 2026-02-12T16:00:49.251Z vb <Vaibhavs10@users.noreply.github.com> :: bump logging
 2026-02-12T16:06:05.640Z WebRTC <discuss-webrtc@googlegroups.com> :: wire up build script
+2026-02-12T17:46:10.503Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up the CI matrix
