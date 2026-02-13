@@ -17305,3 +17305,4 @@
 2026-02-13T14:34:07.358Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update dead code
 2026-02-13T14:45:08.190Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish null check
 2026-02-13T15:38:23.813Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add the parser
+2026-02-13T16:02:31.394Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak config defaults
