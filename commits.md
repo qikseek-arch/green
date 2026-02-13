@@ -17314,3 +17314,4 @@
 2026-02-13T21:25:44.087Z winterbe <winterbe@users.noreply.github.com> :: add dependency versions
 2026-02-13T21:59:47.840Z winterbe <winterbe@users.noreply.github.com> :: clean up config defaults
 2026-02-13T23:53:23.670Z Odi <mathdroid@users.noreply.github.com> :: remove readme typo
+2026-02-13T23:53:39.105Z winterbe <winterbe@users.noreply.github.com> :: bump retry logic
