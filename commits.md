@@ -17299,3 +17299,4 @@
 2026-02-13T09:49:51.467Z LocalSend <localsend@users.noreply.github.com> :: add dependency versions
 2026-02-13T10:21:17.441Z Brendan Gregg <brendangregg@users.noreply.github.com> :: wire up the parser
 2026-02-13T10:29:39.289Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish dead code
+2026-02-13T12:40:08.899Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove null check
