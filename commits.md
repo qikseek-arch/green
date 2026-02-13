@@ -17311,3 +17311,4 @@
 2026-02-13T20:28:12.184Z Prometheus <prometheus@users.noreply.github.com> :: fix flaky test
 2026-02-13T20:42:52.179Z Lipis <lipis@users.noreply.github.com> :: tweak dependency versions
 2026-02-13T20:44:13.085Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update readme typo
+2026-02-13T21:25:44.087Z winterbe <winterbe@users.noreply.github.com> :: add dependency versions
