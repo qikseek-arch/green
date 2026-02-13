@@ -17301,3 +17301,4 @@
 2026-02-13T10:29:39.289Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish dead code
 2026-02-13T12:40:08.899Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove null check
 2026-02-13T12:55:43.835Z Amnezia VPN <support@amnezia.org> :: clean up the CI matrix
+2026-02-13T14:03:35.228Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump config defaults
