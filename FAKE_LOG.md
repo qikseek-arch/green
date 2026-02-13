@@ -78,3 +78,4 @@
 2026-02-08T10:58:54.956Z crimsoncomet64 <crimsoncomet64@users.noreply.github.com> :: bump dependency versions
 2026-02-09T12:46:08.691Z VelvetWalrus <velvetwalrus@users.noreply.github.com> :: refactor edge case in auth
 2026-02-11T12:16:37.465Z Steve Jobs <steve.jobs@example.com> :: add logging
+2026-02-13T08:25:04.779Z ChillYak <chillyak@users.noreply.github.com> :: refactor null check
