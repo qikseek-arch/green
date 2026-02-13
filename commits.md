@@ -7661,3 +7661,4 @@
 2026-02-13T12:48:05.624Z md-5 <md-5@users.noreply.github.com> :: add cache keys
 2026-02-13T13:24:48.498Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump config defaults
 2026-02-13T15:17:15.649Z ㅤxander <vampirist@users.noreply.github.com> :: refactor flaky test
+2026-02-13T16:26:58.807Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up error handling
