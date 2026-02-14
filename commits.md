@@ -7681,3 +7681,4 @@
 2026-02-14T14:09:47.296Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump null check
 2026-02-14T15:49:06.535Z vb <Vaibhavs10@users.noreply.github.com> :: add retry logic
 2026-02-14T16:12:28.683Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up edge case in auth
+2026-02-14T18:45:01.936Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up the CI matrix
