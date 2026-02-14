@@ -7670,3 +7670,4 @@
 2026-02-13T22:43:21.133Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add dead code
 2026-02-13T23:53:54.602Z qiye <qiyeboy@users.noreply.github.com> :: clean up the CI matrix
 2026-02-14T00:12:10.427Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor the CI matrix
+2026-02-14T00:56:19.428Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix config defaults
