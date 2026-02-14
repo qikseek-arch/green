@@ -535,3 +535,4 @@
 2026-01-25T01:24:32.466Z Unicity Labs <info@unicity-labs.com> :: refactor the CI matrix
 2026-01-29T20:28:16.232Z Datawhale <datawhalechina@users.noreply.github.com> :: tweak dependency versions
 2026-01-30T01:42:00.439Z GPU.net <suraj@brahmgan.com> :: remove null check
+2026-02-14T15:00:38.927Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor build script
