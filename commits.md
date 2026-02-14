@@ -17333,3 +17333,4 @@
 2026-02-14T13:32:22.133Z John Schulman <joschu@users.noreply.github.com> :: tweak dependency versions
 2026-02-14T13:41:02.697Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up null check
 2026-02-14T13:59:04.541Z in28minutes <in28minutes@users.noreply.github.com> :: refactor build script
+2026-02-14T13:59:50.209Z Alex Teichman <teichman@users.noreply.github.com> :: clean up config defaults
