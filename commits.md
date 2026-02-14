@@ -17330,3 +17330,4 @@
 2026-02-14T10:24:27.241Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix build script
 2026-02-14T11:30:14.785Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor readme typo
 2026-02-14T12:53:48.112Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up build script
+2026-02-14T13:32:22.133Z John Schulman <joschu@users.noreply.github.com> :: tweak dependency versions
