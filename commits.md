@@ -7683,3 +7683,4 @@
 2026-02-14T16:12:28.683Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up edge case in auth
 2026-02-14T18:45:01.936Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up the CI matrix
 2026-02-14T20:33:55.569Z Keith Smiley <keith@users.noreply.github.com> :: wire up the CI matrix
+2026-02-14T21:12:31.041Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the parser
