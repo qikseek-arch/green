@@ -17329,3 +17329,4 @@
 2026-02-14T10:03:49.146Z 1 <insoxin@users.noreply.github.com> :: add retry logic
 2026-02-14T10:24:27.241Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix build script
 2026-02-14T11:30:14.785Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor readme typo
+2026-02-14T12:53:48.112Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up build script
