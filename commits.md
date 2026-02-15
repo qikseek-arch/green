@@ -412,3 +412,4 @@
 2026-02-14T21:25:36.698Z Alex Yang <himself65@users.noreply.github.com> :: fix the CI matrix
 2026-02-15T03:14:10.727Z 左程云 <algorithmzuo@users.noreply.github.com> :: wire up cache keys
 2026-02-15T05:54:00.648Z Alae-Eddine <alaesic@users.noreply.github.com> :: tweak edge case in auth
+2026-02-15T06:54:34.675Z Sasha Rush <srush@users.noreply.github.com> :: wire up build script
