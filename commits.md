@@ -7700,3 +7700,4 @@
 2026-02-15T16:59:47.255Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor cache keys
 2026-02-15T17:06:52.910Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the CI matrix
 2026-02-15T17:45:49.335Z Sachin Soni <techiesms@users.noreply.github.com> :: update readme typo
+2026-02-15T18:38:17.758Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix dependency versions
