@@ -7698,3 +7698,4 @@
 2026-02-15T12:07:11.351Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dependency versions
 2026-02-15T15:26:29.863Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: polish readme typo
 2026-02-15T16:59:47.255Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor cache keys
+2026-02-15T17:06:52.910Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the CI matrix
