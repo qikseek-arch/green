@@ -17352,3 +17352,4 @@
 2026-02-15T09:30:21.258Z in28minutes <in28minutes@users.noreply.github.com> :: add the parser
 2026-02-15T10:03:37.348Z DefTruth <DefTruth@users.noreply.github.com> :: fix dead code
 2026-02-15T10:37:05.451Z Odi <mathdroid@users.noreply.github.com> :: fix null check
+2026-02-15T12:56:05.322Z John Schulman <joschu@users.noreply.github.com> :: clean up null check
