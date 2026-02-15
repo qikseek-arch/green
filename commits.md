@@ -17355,3 +17355,4 @@
 2026-02-15T12:56:05.322Z John Schulman <joschu@users.noreply.github.com> :: clean up null check
 2026-02-15T14:02:29.576Z Odi <mathdroid@users.noreply.github.com> :: tweak error handling
 2026-02-15T14:19:10.443Z cytopia <cytopia@users.noreply.github.com> :: refactor the CI matrix
+2026-02-15T14:28:36.482Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish error handling
