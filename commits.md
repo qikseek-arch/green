@@ -7701,3 +7701,4 @@
 2026-02-15T17:06:52.910Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the CI matrix
 2026-02-15T17:45:49.335Z Sachin Soni <techiesms@users.noreply.github.com> :: update readme typo
 2026-02-15T18:38:17.758Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix dependency versions
+2026-02-15T19:40:39.611Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add null check
