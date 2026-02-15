@@ -17365,3 +17365,4 @@
 2026-02-15T20:29:53.941Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor edge case in auth
 2026-02-15T21:48:54.597Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: wire up the parser
 2026-02-15T23:14:44.834Z cytopia <cytopia@users.noreply.github.com> :: tweak build script
+2026-02-15T23:37:54.694Z Elliott Minns <elliottminns@users.noreply.github.com> :: add readme typo
