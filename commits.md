@@ -17357,3 +17357,4 @@
 2026-02-15T14:19:10.443Z cytopia <cytopia@users.noreply.github.com> :: refactor the CI matrix
 2026-02-15T14:28:36.482Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish error handling
 2026-02-15T15:23:59.414Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove the CI matrix
+2026-02-15T15:51:42.764Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up edge case in auth
