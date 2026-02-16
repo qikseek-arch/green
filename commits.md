@@ -17381,3 +17381,4 @@
 2026-02-16T16:16:31.182Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: add build script
 2026-02-16T17:30:18.733Z Scott Chacon <schacon@users.noreply.github.com> :: clean up readme typo
 2026-02-16T18:08:20.248Z Lipis <lipis@users.noreply.github.com> :: wire up retry logic
+2026-02-16T20:12:21.976Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix the CI matrix
