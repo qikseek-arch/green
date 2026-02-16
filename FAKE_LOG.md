@@ -236,3 +236,4 @@
 2026-02-10T10:18:02.834Z vex <vex@fake.invalid> :: bump config defaults
 2026-02-15T14:52:45.637Z juno <juno@fake.invalid> :: clean up build script
 2026-02-16T12:08:26.003Z ezra <ezra@fake.invalid> :: refactor the CI matrix
+2026-02-16T19:59:29.604Z halcyon <halcyon@fake.invalid> :: update null check
