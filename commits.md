@@ -7716,3 +7716,4 @@
 2026-02-16T14:03:47.678Z Adam Bell <b3ll@users.noreply.github.com> :: fix dependency versions
 2026-02-16T15:09:18.928Z BBC <bbc@users.noreply.github.com> :: bump retry logic
 2026-02-16T15:48:41.824Z heyli <lcxfs1991@users.noreply.github.com> :: tweak dead code
+2026-02-16T17:01:52.387Z Odi <mathdroid@users.noreply.github.com> :: fix logging
