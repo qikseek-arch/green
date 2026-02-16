@@ -17384,3 +17384,4 @@
 2026-02-16T20:12:21.976Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix the CI matrix
 2026-02-16T21:57:14.775Z LMSYS <lm-sys@users.noreply.github.com> :: bump edge case in auth
 2026-02-16T22:32:40.193Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix build script
+2026-02-16T22:58:37.696Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add null check
