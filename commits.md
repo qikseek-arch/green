@@ -7720,3 +7720,4 @@
 2026-02-16T17:15:43.188Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: polish the CI matrix
 2026-02-16T18:06:04.627Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak config defaults
 2026-02-16T18:46:59.055Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up edge case in auth
+2026-02-16T19:23:46.527Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish build script
