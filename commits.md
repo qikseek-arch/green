@@ -17370,3 +17370,4 @@
 2026-02-16T03:31:50.335Z cytopia <cytopia@users.noreply.github.com> :: add dead code
 2026-02-16T03:47:45.543Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump config defaults
 2026-02-16T04:26:30.195Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove logging
+2026-02-16T06:46:08.298Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish config defaults
