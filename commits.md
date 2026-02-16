@@ -7723,3 +7723,4 @@
 2026-02-16T19:23:46.527Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish build script
 2026-02-16T20:49:11.962Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up the parser
 2026-02-16T20:58:30.591Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: polish null check
+2026-02-16T21:07:46.048Z Barret李靖 <barretlee@users.noreply.github.com> :: fix dead code
