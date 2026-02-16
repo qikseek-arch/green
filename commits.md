@@ -17383,3 +17383,4 @@
 2026-02-16T18:08:20.248Z Lipis <lipis@users.noreply.github.com> :: wire up retry logic
 2026-02-16T20:12:21.976Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix the CI matrix
 2026-02-16T21:57:14.775Z LMSYS <lm-sys@users.noreply.github.com> :: bump edge case in auth
+2026-02-16T22:32:40.193Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix build script
