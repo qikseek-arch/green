@@ -235,3 +235,4 @@
 2026-01-24T06:23:54.312Z kai <kai@fake.invalid> :: bump config defaults
 2026-02-10T10:18:02.834Z vex <vex@fake.invalid> :: bump config defaults
 2026-02-15T14:52:45.637Z juno <juno@fake.invalid> :: clean up build script
+2026-02-16T12:08:26.003Z ezra <ezra@fake.invalid> :: refactor the CI matrix
