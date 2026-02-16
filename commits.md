@@ -7712,3 +7712,4 @@
 2026-02-16T05:30:16.631Z Fady Farag <iidmsa@users.noreply.github.com> :: update config defaults
 2026-02-16T11:16:07.730Z markqvist <markqvist@users.noreply.github.com> :: bump logging
 2026-02-16T13:18:11.073Z ZOMI <chenzomi12@users.noreply.github.com> :: add build script
+2026-02-16T14:01:45.125Z WebRTC <discuss-webrtc@googlegroups.com> :: update the CI matrix
