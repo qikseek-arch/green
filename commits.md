@@ -17379,3 +17379,4 @@
 2026-02-16T15:11:07.941Z Snowflake Labs <opensource@snowflake.com> :: update logging
 2026-02-16T15:13:39.847Z LMSYS <lm-sys@users.noreply.github.com> :: clean up cache keys
 2026-02-16T16:16:31.182Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: add build script
+2026-02-16T17:30:18.733Z Scott Chacon <schacon@users.noreply.github.com> :: clean up readme typo
