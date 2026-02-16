@@ -414,3 +414,4 @@
 2026-02-15T05:54:00.648Z Alae-Eddine <alaesic@users.noreply.github.com> :: tweak edge case in auth
 2026-02-15T06:54:34.675Z Sasha Rush <srush@users.noreply.github.com> :: wire up build script
 2026-02-15T14:16:19.157Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: tweak readme typo
+2026-02-16T01:39:57.729Z Philipp Schmid <philschmid@users.noreply.github.com> :: fix readme typo
