@@ -17372,3 +17372,4 @@
 2026-02-16T04:26:30.195Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove logging
 2026-02-16T06:46:08.298Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish config defaults
 2026-02-16T07:00:47.203Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up cache keys
+2026-02-16T11:09:45.109Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up readme typo
