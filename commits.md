@@ -7722,3 +7722,4 @@
 2026-02-16T18:46:59.055Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up edge case in auth
 2026-02-16T19:23:46.527Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish build script
 2026-02-16T20:49:11.962Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up the parser
+2026-02-16T20:58:30.591Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: polish null check
