@@ -417,3 +417,4 @@
 2026-02-16T01:39:57.729Z Philipp Schmid <philschmid@users.noreply.github.com> :: fix readme typo
 2026-02-16T05:02:29.365Z Susan Li <susanli2016@users.noreply.github.com> :: update the parser
 2026-02-16T11:23:30.605Z Max Lv <madeye@users.noreply.github.com> :: polish edge case in auth
+2026-02-16T20:23:16.554Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up build script
