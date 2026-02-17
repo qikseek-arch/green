@@ -338,3 +338,4 @@
 2026-01-25T18:39:38.263Z SillySocket <sillysocket@fake.invalid> :: wire up cache keys
 2026-01-29T16:23:58.905Z Satoshi Nakamoto <satoshi.nakamoto@fake.invalid> :: tweak error handling
 2026-02-03T09:20:35.331Z silly-cactus1337 <silly-cactus1337@fake.invalid> :: clean up dependency versions
+2026-02-17T23:49:25.986Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: fix dead code
