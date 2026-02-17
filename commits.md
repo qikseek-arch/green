@@ -7734,3 +7734,4 @@
 2026-02-17T05:27:51.113Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor readme typo
 2026-02-17T05:44:35.457Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up null check
 2026-02-17T05:58:34.113Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add dead code
+2026-02-17T06:20:26.728Z Getgems <getgems-io@users.noreply.github.com> :: tweak null check
