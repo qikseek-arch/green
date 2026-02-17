@@ -7732,3 +7732,4 @@
 2026-02-17T05:08:48.867Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add dependency versions
 2026-02-17T05:24:46.736Z Taiko Foundation <info@taiko.xyz> :: refactor the parser
 2026-02-17T05:27:51.113Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor readme typo
+2026-02-17T05:44:35.457Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up null check
