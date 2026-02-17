@@ -17393,3 +17393,4 @@
 2026-02-17T05:10:28.175Z Prometheus <prometheus@users.noreply.github.com> :: polish logging
 2026-02-17T05:25:55.593Z Scott Chacon <schacon@users.noreply.github.com> :: fix edge case in auth
 2026-02-17T06:41:34.879Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump null check
+2026-02-17T07:13:48.029Z Aman Kumar <Amanc77@users.noreply.github.com> :: update dependency versions
