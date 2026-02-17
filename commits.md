@@ -7748,3 +7748,4 @@
 2026-02-17T14:27:49.093Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish error handling
 2026-02-17T15:56:59.088Z Claude <claude@users.noreply.github.com> :: update the CI matrix
 2026-02-17T16:00:29.244Z vb <Vaibhavs10@users.noreply.github.com> :: fix readme typo
+2026-02-17T16:32:54.576Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up logging
