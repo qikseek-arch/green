@@ -17398,3 +17398,4 @@
 2026-02-17T09:58:12.370Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up cache keys
 2026-02-17T10:37:58.861Z LocalSend <localsend@users.noreply.github.com> :: refactor readme typo
 2026-02-17T12:16:53.828Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump flaky test
+2026-02-17T12:35:40.799Z Odi <mathdroid@users.noreply.github.com> :: tweak dependency versions
