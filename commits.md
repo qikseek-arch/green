@@ -7744,3 +7744,4 @@
 2026-02-17T12:49:29.629Z Getgems <getgems-io@users.noreply.github.com> :: tweak build script
 2026-02-17T13:45:05.965Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove edge case in auth
 2026-02-17T13:58:16.898Z WebRTC <discuss-webrtc@googlegroups.com> :: bump null check
+2026-02-17T14:16:56.875Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: remove null check
