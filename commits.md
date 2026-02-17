@@ -17391,3 +17391,4 @@
 2026-02-17T03:47:26.085Z Lipis <lipis@users.noreply.github.com> :: tweak cache keys
 2026-02-17T03:47:38.165Z OpenBSD <openbsd@users.noreply.github.com> :: add retry logic
 2026-02-17T05:10:28.175Z Prometheus <prometheus@users.noreply.github.com> :: polish logging
+2026-02-17T05:25:55.593Z Scott Chacon <schacon@users.noreply.github.com> :: fix edge case in auth
