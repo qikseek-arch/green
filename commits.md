@@ -17388,3 +17388,4 @@
 2026-02-17T00:41:22.338Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor dead code
 2026-02-17T02:20:21.775Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix the CI matrix
 2026-02-17T02:32:49.379Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: refactor edge case in auth
+2026-02-17T03:47:26.085Z Lipis <lipis@users.noreply.github.com> :: tweak cache keys
