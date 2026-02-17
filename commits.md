@@ -17400,3 +17400,4 @@
 2026-02-17T12:16:53.828Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump flaky test
 2026-02-17T12:35:40.799Z Odi <mathdroid@users.noreply.github.com> :: tweak dependency versions
 2026-02-17T13:02:24.010Z Scott Chacon <schacon@users.noreply.github.com> :: wire up flaky test
+2026-02-17T13:38:24.346Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish error handling
