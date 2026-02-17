@@ -7752,3 +7752,4 @@
 2026-02-17T16:51:02.822Z Adam Łucek <ALucek@users.noreply.github.com> :: remove error handling
 2026-02-17T17:03:59.031Z Odi <mathdroid@users.noreply.github.com> :: remove retry logic
 2026-02-17T17:28:49.864Z markqvist <markqvist@users.noreply.github.com> :: wire up readme typo
+2026-02-17T19:38:07.842Z Rafal <RafalW3bCraft@users.noreply.github.com> :: refactor dependency versions
