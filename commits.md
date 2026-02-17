@@ -17385,3 +17385,4 @@
 2026-02-16T21:57:14.775Z LMSYS <lm-sys@users.noreply.github.com> :: bump edge case in auth
 2026-02-16T22:32:40.193Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix build script
 2026-02-16T22:58:37.696Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add null check
+2026-02-17T00:41:22.338Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor dead code
