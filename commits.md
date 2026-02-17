@@ -7739,3 +7739,4 @@
 2026-02-17T07:57:17.137Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the CI matrix
 2026-02-17T09:15:58.929Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up readme typo
 2026-02-17T09:40:55.122Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update flaky test
+2026-02-17T11:50:22.978Z vb <Vaibhavs10@users.noreply.github.com> :: add config defaults
