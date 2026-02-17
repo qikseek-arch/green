@@ -420,3 +420,4 @@
 2026-02-16T20:23:16.554Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up build script
 2026-02-17T00:54:52.167Z GitHub Community <community@users.noreply.github.com> :: wire up build script
 2026-02-17T05:23:57.743Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add flaky test
+2026-02-17T09:42:31.127Z Connor <Connor9994@users.noreply.github.com> :: fix null check
