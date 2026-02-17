@@ -17396,3 +17396,4 @@
 2026-02-17T07:13:48.029Z Aman Kumar <Amanc77@users.noreply.github.com> :: update dependency versions
 2026-02-17T09:05:28.618Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak config defaults
 2026-02-17T09:58:12.370Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up cache keys
+2026-02-17T10:37:58.861Z LocalSend <localsend@users.noreply.github.com> :: refactor readme typo
