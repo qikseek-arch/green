@@ -7730,3 +7730,4 @@
 2026-02-17T02:56:40.392Z owenzhang <owenzhang@users.noreply.github.com> :: update dependency versions
 2026-02-17T04:48:16.572Z vb <Vaibhavs10@users.noreply.github.com> :: fix flaky test
 2026-02-17T05:08:48.867Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add dependency versions
+2026-02-17T05:24:46.736Z Taiko Foundation <info@taiko.xyz> :: refactor the parser
