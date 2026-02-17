@@ -17402,3 +17402,4 @@
 2026-02-17T13:02:24.010Z Scott Chacon <schacon@users.noreply.github.com> :: wire up flaky test
 2026-02-17T13:38:24.346Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish error handling
 2026-02-17T13:51:32.557Z Prometheus <prometheus@users.noreply.github.com> :: refactor the parser
+2026-02-17T16:20:14.819Z Morvan <MorvanZhou@users.noreply.github.com> :: bump error handling
