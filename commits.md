@@ -7747,3 +7747,4 @@
 2026-02-17T14:16:56.875Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: remove null check
 2026-02-17T14:27:49.093Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish error handling
 2026-02-17T15:56:59.088Z Claude <claude@users.noreply.github.com> :: update the CI matrix
+2026-02-17T16:00:29.244Z vb <Vaibhavs10@users.noreply.github.com> :: fix readme typo
