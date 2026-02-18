@@ -17421,3 +17421,4 @@
 2026-02-18T05:21:39.340Z Tom Dale <tomdale@users.noreply.github.com> :: bump retry logic
 2026-02-18T06:17:31.951Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: bump build script
 2026-02-18T08:01:11.397Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish the parser
+2026-02-18T12:06:49.234Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix error handling
