@@ -7761,3 +7761,4 @@
 2026-02-18T00:18:02.466Z Claude <claude@users.noreply.github.com> :: clean up build script
 2026-02-18T00:28:28.225Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update null check
 2026-02-18T00:57:45.242Z Adam Bell <b3ll@users.noreply.github.com> :: clean up build script
+2026-02-18T03:57:07.509Z Getgems <getgems-io@users.noreply.github.com> :: tweak readme typo
