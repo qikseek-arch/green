@@ -7765,3 +7765,4 @@
 2026-02-18T04:42:30.314Z Taiko Foundation <info@taiko.xyz> :: refactor dependency versions
 2026-02-18T07:15:07.607Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove the parser
 2026-02-18T09:06:59.151Z Keith Smiley <keith@users.noreply.github.com> :: clean up flaky test
+2026-02-18T09:15:25.207Z markqvist <markqvist@users.noreply.github.com> :: polish the CI matrix
