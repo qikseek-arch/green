@@ -81,3 +81,4 @@
 2026-02-13T08:25:04.779Z ChillYak <chillyak@users.noreply.github.com> :: refactor null check
 2026-02-14T08:19:03.713Z DustyMuffin <dustymuffin@users.noreply.github.com> :: remove error handling
 2026-02-18T00:24:39.857Z solar-comethq <solar-comethq@users.noreply.github.com> :: clean up readme typo
+2026-02-18T08:25:55.011Z chill-ninjadev <chill-ninjadev@users.noreply.github.com> :: wire up readme typo
