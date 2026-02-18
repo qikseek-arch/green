@@ -17428,3 +17428,4 @@
 2026-02-18T16:29:58.797Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak dead code
 2026-02-18T17:01:17.963Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up config defaults
 2026-02-18T17:57:56.910Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: refactor readme typo
+2026-02-18T19:07:01.419Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish logging
