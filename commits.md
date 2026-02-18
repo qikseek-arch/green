@@ -17424,3 +17424,4 @@
 2026-02-18T12:06:49.234Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix error handling
 2026-02-18T13:17:32.415Z Prometheus <prometheus@users.noreply.github.com> :: update the parser
 2026-02-18T13:31:27.618Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add config defaults
+2026-02-18T15:31:55.312Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: add error handling
