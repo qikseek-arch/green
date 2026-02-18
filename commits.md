@@ -17412,3 +17412,4 @@
 2026-02-17T19:26:21.543Z Zed Industries <hi@zed.dev> :: clean up build script
 2026-02-17T19:54:11.791Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish edge case in auth
 2026-02-17T22:21:40.143Z OpenBSD <openbsd@users.noreply.github.com> :: remove logging
+2026-02-18T00:04:01.503Z Google Fonts <googlefonts@users.noreply.github.com> :: tweak error handling
