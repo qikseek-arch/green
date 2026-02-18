@@ -7769,3 +7769,4 @@
 2026-02-18T11:50:42.845Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish the parser
 2026-02-18T12:14:17.303Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up null check
 2026-02-18T12:48:54.067Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
+2026-02-18T14:05:09.312Z SouJunior <wouerner@soujunior.tech> :: tweak the CI matrix
