@@ -421,3 +421,4 @@
 2026-02-17T00:54:52.167Z GitHub Community <community@users.noreply.github.com> :: wire up build script
 2026-02-17T05:23:57.743Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add flaky test
 2026-02-17T09:42:31.127Z Connor <Connor9994@users.noreply.github.com> :: fix null check
+2026-02-18T19:15:31.988Z Sylvain Gugger <sgugger@users.noreply.github.com> :: remove error handling
