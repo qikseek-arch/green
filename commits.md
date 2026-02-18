@@ -7770,3 +7770,4 @@
 2026-02-18T12:14:17.303Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up null check
 2026-02-18T12:48:54.067Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
 2026-02-18T14:05:09.312Z SouJunior <wouerner@soujunior.tech> :: tweak the CI matrix
+2026-02-18T15:28:03.850Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix error handling
