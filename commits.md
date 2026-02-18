@@ -7767,3 +7767,4 @@
 2026-02-18T09:06:59.151Z Keith Smiley <keith@users.noreply.github.com> :: clean up flaky test
 2026-02-18T09:15:25.207Z markqvist <markqvist@users.noreply.github.com> :: polish the CI matrix
 2026-02-18T11:50:42.845Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish the parser
+2026-02-18T12:14:17.303Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up null check
