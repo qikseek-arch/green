@@ -17437,3 +17437,4 @@
 2026-02-19T01:09:32.235Z Scott Chacon <schacon@users.noreply.github.com> :: polish readme typo
 2026-02-19T03:30:16.125Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor dead code
 2026-02-19T05:31:21.676Z Brian Holt <btholt@users.noreply.github.com> :: bump dead code
+2026-02-19T06:38:27.930Z Snowflake Labs <opensource@snowflake.com> :: clean up build script
