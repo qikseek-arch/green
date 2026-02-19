@@ -17444,3 +17444,4 @@
 2026-02-19T09:15:51.471Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove null check
 2026-02-19T09:21:44.266Z Scott Chacon <schacon@users.noreply.github.com> :: tweak dead code
 2026-02-19T09:21:48.567Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove the CI matrix
+2026-02-19T09:40:29.916Z rxi <rxi@users.noreply.github.com> :: bump edge case in auth
