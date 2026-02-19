@@ -17446,3 +17446,4 @@
 2026-02-19T09:21:48.567Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: remove the CI matrix
 2026-02-19T09:40:29.916Z rxi <rxi@users.noreply.github.com> :: bump edge case in auth
 2026-02-19T09:50:26.305Z Brian Holt <btholt@users.noreply.github.com> :: polish error handling
+2026-02-19T10:33:47.862Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump null check
