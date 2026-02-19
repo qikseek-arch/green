@@ -17448,3 +17448,4 @@
 2026-02-19T09:50:26.305Z Brian Holt <btholt@users.noreply.github.com> :: polish error handling
 2026-02-19T10:33:47.862Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump null check
 2026-02-19T12:11:00.161Z Brian Holt <btholt@users.noreply.github.com> :: bump dead code
+2026-02-19T12:59:00.615Z Scott Chacon <schacon@users.noreply.github.com> :: update dependency versions
