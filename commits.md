@@ -7781,3 +7781,4 @@
 2026-02-19T00:32:23.510Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up config defaults
 2026-02-19T00:51:32.928Z Adam Łucek <ALucek@users.noreply.github.com> :: polish edge case in auth
 2026-02-19T01:38:50.312Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
+2026-02-19T03:47:07.484Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor edge case in auth
