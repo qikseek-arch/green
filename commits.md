@@ -17455,3 +17455,4 @@
 2026-02-19T16:30:37.291Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up error handling
 2026-02-19T18:23:40.800Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove null check
 2026-02-19T18:39:43.464Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: wire up config defaults
+2026-02-19T18:53:25.081Z Tom Dale <tomdale@users.noreply.github.com> :: refactor the parser
