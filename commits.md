@@ -17441,3 +17441,4 @@
 2026-02-19T06:53:11.235Z LMSYS <lm-sys@users.noreply.github.com> :: tweak cache keys
 2026-02-19T07:06:07.550Z rxi <rxi@users.noreply.github.com> :: remove logging
 2026-02-19T07:12:20.073Z Jabrils <Jabrils@users.noreply.github.com> :: wire up cache keys
+2026-02-19T09:15:51.471Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove null check
