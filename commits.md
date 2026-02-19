@@ -7791,3 +7791,4 @@
 2026-02-19T08:02:42.021Z ㅤxander <vampirist@users.noreply.github.com> :: wire up retry logic
 2026-02-19T08:17:35.492Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor error handling
 2026-02-19T08:43:32.609Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump build script
+2026-02-19T09:56:40.415Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak the CI matrix
