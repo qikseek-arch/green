@@ -7800,3 +7800,4 @@
 2026-02-19T13:25:41.636Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dependency versions
 2026-02-19T14:25:16.615Z Adam Łucek <ALucek@users.noreply.github.com> :: fix the parser
 2026-02-19T17:18:05.731Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump config defaults
+2026-02-19T17:39:18.510Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish the CI matrix
