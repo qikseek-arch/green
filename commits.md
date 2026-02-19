@@ -17449,3 +17449,4 @@
 2026-02-19T10:33:47.862Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump null check
 2026-02-19T12:11:00.161Z Brian Holt <btholt@users.noreply.github.com> :: bump dead code
 2026-02-19T12:59:00.615Z Scott Chacon <schacon@users.noreply.github.com> :: update dependency versions
+2026-02-19T13:12:27.107Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up config defaults
