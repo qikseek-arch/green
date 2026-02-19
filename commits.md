@@ -17434,3 +17434,4 @@
 2026-02-18T23:08:36.628Z Amnezia VPN <support@amnezia.org> :: update null check
 2026-02-19T00:35:28.981Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add edge case in auth
 2026-02-19T00:39:13.902Z Brian Holt <btholt@users.noreply.github.com> :: add dead code
+2026-02-19T01:09:32.235Z Scott Chacon <schacon@users.noreply.github.com> :: polish readme typo
