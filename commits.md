@@ -17457,3 +17457,4 @@
 2026-02-19T18:39:43.464Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: wire up config defaults
 2026-02-19T18:53:25.081Z Tom Dale <tomdale@users.noreply.github.com> :: refactor the parser
 2026-02-19T20:06:26.255Z Prometheus <prometheus@users.noreply.github.com> :: refactor logging
+2026-02-19T20:37:03.685Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add error handling
