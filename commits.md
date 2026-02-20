@@ -7812,3 +7812,4 @@
 2026-02-20T02:43:33.383Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak null check
 2026-02-20T03:09:51.467Z ㅤxander <vampirist@users.noreply.github.com> :: tweak logging
 2026-02-20T03:41:26.436Z Rei <chloerei@users.noreply.github.com> :: wire up retry logic
+2026-02-20T03:45:45.742Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
