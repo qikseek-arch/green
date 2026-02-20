@@ -7815,3 +7815,4 @@
 2026-02-20T03:45:45.742Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
 2026-02-20T04:27:44.607Z ring04h <ring04h@users.noreply.github.com> :: wire up build script
 2026-02-20T05:00:58.120Z Adam Bell <b3ll@users.noreply.github.com> :: wire up readme typo
+2026-02-20T09:57:52.770Z Keith Smiley <keith@users.noreply.github.com> :: clean up build script
