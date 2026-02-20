@@ -17480,3 +17480,4 @@
 2026-02-20T17:14:47.803Z in28minutes <in28minutes@users.noreply.github.com> :: add null check
 2026-02-20T18:05:33.822Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: update the CI matrix
 2026-02-20T18:38:38.061Z Snowflake Labs <opensource@snowflake.com> :: update dead code
+2026-02-20T20:11:41.578Z Alexandre Mutel <xoofx@users.noreply.github.com> :: update error handling
