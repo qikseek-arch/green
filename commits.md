@@ -7808,3 +7808,4 @@
 2026-02-20T00:16:46.380Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update config defaults
 2026-02-20T00:20:56.116Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove cache keys
 2026-02-20T00:26:39.038Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add cache keys
+2026-02-20T01:26:45.176Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak retry logic
