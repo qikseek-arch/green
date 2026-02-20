@@ -17472,3 +17472,4 @@
 2026-02-20T10:41:21.144Z OpenMEDLab <openmedlab@pjlab.org.cn> :: clean up retry logic
 2026-02-20T11:34:28.911Z Lovell Fuller <lovell@users.noreply.github.com> :: bump edge case in auth
 2026-02-20T12:17:57.289Z Dove Letter <skydoves2@gmail.com> :: update retry logic
+2026-02-20T12:29:24.712Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish logging
