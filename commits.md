@@ -426,3 +426,4 @@
 2026-02-19T18:16:25.884Z Draven <draveness@users.noreply.github.com> :: update config defaults
 2026-02-19T20:50:18.012Z 4Geeks Academy <info@4geeksacademy.com> :: bump retry logic
 2026-02-19T21:51:52.995Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: add readme typo
+2026-02-20T08:11:40.945Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: clean up build script
