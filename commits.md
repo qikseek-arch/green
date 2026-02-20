@@ -17470,3 +17470,4 @@
 2026-02-20T10:26:44.685Z Petar Veličković <PetarV-@users.noreply.github.com> :: bump dead code
 2026-02-20T10:36:11.433Z OpenBMB <openbmb@gmail.com> :: update readme typo
 2026-02-20T10:41:21.144Z OpenMEDLab <openmedlab@pjlab.org.cn> :: clean up retry logic
+2026-02-20T11:34:28.911Z Lovell Fuller <lovell@users.noreply.github.com> :: bump edge case in auth
