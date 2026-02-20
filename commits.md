@@ -7823,3 +7823,4 @@
 2026-02-20T16:24:49.622Z heyli <lcxfs1991@users.noreply.github.com> :: tweak logging
 2026-02-20T17:43:49.378Z markqvist <markqvist@users.noreply.github.com> :: tweak retry logic
 2026-02-20T19:00:50.430Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix readme typo
+2026-02-20T19:09:31.061Z heyli <lcxfs1991@users.noreply.github.com> :: fix dependency versions
