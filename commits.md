@@ -7817,3 +7817,4 @@
 2026-02-20T05:00:58.120Z Adam Bell <b3ll@users.noreply.github.com> :: wire up readme typo
 2026-02-20T09:57:52.770Z Keith Smiley <keith@users.noreply.github.com> :: clean up build script
 2026-02-20T13:57:57.888Z Shubs <infosec-au@users.noreply.github.com> :: refactor flaky test
+2026-02-20T15:23:46.032Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak null check
