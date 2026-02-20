@@ -7804,3 +7804,4 @@
 2026-02-19T17:46:29.338Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump dead code
 2026-02-19T23:02:30.078Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish the CI matrix
 2026-02-19T23:18:22.732Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up build script
+2026-02-20T00:12:24.929Z Fady Farag <iidmsa@users.noreply.github.com> :: update the CI matrix
