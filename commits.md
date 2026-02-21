@@ -17492,3 +17492,4 @@
 2026-02-21T05:43:56.222Z Dove Letter <skydoves2@gmail.com> :: refactor error handling
 2026-02-21T06:41:52.723Z in28minutes <in28minutes@users.noreply.github.com> :: bump the CI matrix
 2026-02-21T07:10:58.513Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up readme typo
+2026-02-21T07:51:18.918Z winterbe <winterbe@users.noreply.github.com> :: tweak readme typo
