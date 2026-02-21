@@ -7848,3 +7848,4 @@
 2026-02-21T16:47:15.283Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: add dependency versions
 2026-02-21T19:36:59.316Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update retry logic
 2026-02-21T20:04:00.807Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak the parser
+2026-02-21T20:46:58.826Z Taiko Foundation <info@taiko.xyz> :: fix readme typo
