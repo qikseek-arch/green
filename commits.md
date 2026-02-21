@@ -7845,3 +7845,4 @@
 2026-02-21T15:16:54.228Z Taiko Foundation <info@taiko.xyz> :: wire up error handling
 2026-02-21T15:16:57.875Z qiye <qiyeboy@users.noreply.github.com> :: polish cache keys
 2026-02-21T15:42:11.313Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak readme typo
+2026-02-21T16:47:15.283Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: add dependency versions
