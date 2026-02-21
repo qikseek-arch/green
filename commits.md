@@ -17489,3 +17489,4 @@
 2026-02-21T03:19:18.763Z Tom Dale <tomdale@users.noreply.github.com> :: polish flaky test
 2026-02-21T05:09:01.988Z 毒奶博主 <limbopro@users.noreply.github.com> :: update cache keys
 2026-02-21T05:12:09.202Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up config defaults
+2026-02-21T05:43:56.222Z Dove Letter <skydoves2@gmail.com> :: refactor error handling
