@@ -430,3 +430,4 @@
 2026-02-20T14:35:50.610Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: refactor dead code
 2026-02-20T20:49:12.696Z Mark Erikson <markerikson@users.noreply.github.com> :: fix the CI matrix
 2026-02-21T00:59:40.800Z vn.py <vnpy@users.noreply.github.com> :: fix edge case in auth
+2026-02-21T15:45:35.353Z Odoo Community Association <OCA@users.noreply.github.com> :: bump config defaults
