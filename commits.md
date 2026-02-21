@@ -7850,3 +7850,4 @@
 2026-02-21T20:04:00.807Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak the parser
 2026-02-21T20:46:58.826Z Taiko Foundation <info@taiko.xyz> :: fix readme typo
 2026-02-21T21:07:07.585Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add edge case in auth
+2026-02-21T21:19:28.171Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor dependency versions
