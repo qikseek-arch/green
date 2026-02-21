@@ -7838,3 +7838,4 @@
 2026-02-21T06:39:42.993Z ㅤxander <vampirist@users.noreply.github.com> :: wire up edge case in auth
 2026-02-21T09:02:17.445Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor the CI matrix
 2026-02-21T09:26:11.984Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
+2026-02-21T11:17:56.100Z LILYGO <LilyGO@users.noreply.github.com> :: update dependency versions
