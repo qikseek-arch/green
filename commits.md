@@ -17509,3 +17509,4 @@
 2026-02-21T14:52:52.274Z Alex Teichman <teichman@users.noreply.github.com> :: tweak dependency versions
 2026-02-21T16:21:27.639Z OpenMEDLab <openmedlab@pjlab.org.cn> :: fix readme typo
 2026-02-21T16:46:44.812Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up logging
+2026-02-21T20:50:44.382Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update build script
