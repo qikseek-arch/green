@@ -17531,3 +17531,4 @@
 2026-02-22T11:54:30.642Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up cache keys
 2026-02-22T13:28:02.454Z CodeTips <CodeTips@users.noreply.github.com> :: refactor retry logic
 2026-02-22T13:32:07.347Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add logging
+2026-02-22T14:25:49.369Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak null check
