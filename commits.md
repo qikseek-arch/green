@@ -17527,3 +17527,4 @@
 2026-02-22T09:29:15.754Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak the CI matrix
 2026-02-22T09:45:04.575Z Scott Chacon <schacon@users.noreply.github.com> :: update the parser
 2026-02-22T10:22:43.247Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: tweak readme typo
+2026-02-22T11:42:30.046Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish error handling
