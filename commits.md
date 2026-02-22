@@ -7856,3 +7856,4 @@
 2026-02-22T04:27:38.622Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor dependency versions
 2026-02-22T04:29:01.300Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix cache keys
 2026-02-22T06:26:09.972Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add readme typo
+2026-02-22T06:36:32.174Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up error handling
