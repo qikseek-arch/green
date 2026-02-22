@@ -7880,3 +7880,4 @@
 2026-02-22T20:25:05.028Z Taiko Foundation <info@taiko.xyz> :: bump config defaults
 2026-02-22T20:39:36.993Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak the parser
 2026-02-22T21:13:51.550Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak the CI matrix
+2026-02-22T21:15:07.847Z SouJunior <wouerner@soujunior.tech> :: remove flaky test
