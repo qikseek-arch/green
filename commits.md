@@ -7862,3 +7862,4 @@
 2026-02-22T07:57:23.889Z ㅤxander <vampirist@users.noreply.github.com> :: fix config defaults
 2026-02-22T08:20:49.123Z Arduino <arduino@users.noreply.github.com> :: fix readme typo
 2026-02-22T08:29:21.941Z BBC <bbc@users.noreply.github.com> :: update build script
+2026-02-22T09:08:52.715Z Taiko Foundation <info@taiko.xyz> :: wire up dead code
