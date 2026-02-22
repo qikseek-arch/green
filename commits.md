@@ -17522,3 +17522,4 @@
 2026-02-22T04:25:34.653Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump dependency versions
 2026-02-22T05:59:20.437Z rxi <rxi@users.noreply.github.com> :: fix dependency versions
 2026-02-22T06:35:24.346Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: wire up config defaults
+2026-02-22T06:45:35.457Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up build script
