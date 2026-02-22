@@ -17539,3 +17539,4 @@
 2026-02-22T21:08:54.710Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak null check
 2026-02-22T21:41:45.999Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak readme typo
 2026-02-22T21:49:56.357Z Amnezia VPN <support@amnezia.org> :: clean up flaky test
+2026-02-22T21:57:13.936Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: remove config defaults
