@@ -7857,3 +7857,4 @@
 2026-02-22T04:29:01.300Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix cache keys
 2026-02-22T06:26:09.972Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add readme typo
 2026-02-22T06:36:32.174Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up error handling
+2026-02-22T06:37:49.420Z vb <Vaibhavs10@users.noreply.github.com> :: clean up edge case in auth
