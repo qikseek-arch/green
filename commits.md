@@ -17512,3 +17512,4 @@
 2026-02-21T20:50:44.382Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update build script
 2026-02-21T23:37:03.600Z Boshen <Boshen@users.noreply.github.com> :: bump logging
 2026-02-22T00:11:21.974Z rxi <rxi@users.noreply.github.com> :: add dependency versions
+2026-02-22T00:53:46.712Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up logging
