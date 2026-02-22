@@ -7867,3 +7867,4 @@
 2026-02-22T09:58:26.987Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: clean up edge case in auth
 2026-02-22T10:35:37.390Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove dependency versions
 2026-02-22T11:37:27.161Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
+2026-02-22T12:58:45.535Z ㅤxander <vampirist@users.noreply.github.com> :: wire up the CI matrix
