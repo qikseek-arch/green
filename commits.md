@@ -433,3 +433,4 @@
 2026-02-21T15:45:35.353Z Odoo Community Association <OCA@users.noreply.github.com> :: bump config defaults
 2026-02-22T07:09:29.729Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: remove null check
 2026-02-22T13:00:58.640Z @XDevelopers <xdevplatform@users.noreply.github.com> :: add config defaults
+2026-02-22T20:40:31.238Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump the parser
