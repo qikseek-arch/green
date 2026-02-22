@@ -431,3 +431,4 @@
 2026-02-20T20:49:12.696Z Mark Erikson <markerikson@users.noreply.github.com> :: fix the CI matrix
 2026-02-21T00:59:40.800Z vn.py <vnpy@users.noreply.github.com> :: fix edge case in auth
 2026-02-21T15:45:35.353Z Odoo Community Association <OCA@users.noreply.github.com> :: bump config defaults
+2026-02-22T07:09:29.729Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: remove null check
