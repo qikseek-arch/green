@@ -7865,3 +7865,4 @@
 2026-02-22T09:08:52.715Z Taiko Foundation <info@taiko.xyz> :: wire up dead code
 2026-02-22T09:26:46.392Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump edge case in auth
 2026-02-22T09:58:26.987Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: clean up edge case in auth
+2026-02-22T10:35:37.390Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove dependency versions
