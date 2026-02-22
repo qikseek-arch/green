@@ -17525,3 +17525,4 @@
 2026-02-22T06:45:35.457Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up build script
 2026-02-22T08:37:07.356Z OpenBMB <openbmb@gmail.com> :: remove logging
 2026-02-22T09:29:15.754Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak the CI matrix
+2026-02-22T09:45:04.575Z Scott Chacon <schacon@users.noreply.github.com> :: update the parser
