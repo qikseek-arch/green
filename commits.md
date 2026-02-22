@@ -17520,3 +17520,4 @@
 2026-02-22T02:52:32.204Z Jabrils <Jabrils@users.noreply.github.com> :: polish build script
 2026-02-22T03:58:52.548Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump config defaults
 2026-02-22T04:25:34.653Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump dependency versions
+2026-02-22T05:59:20.437Z rxi <rxi@users.noreply.github.com> :: fix dependency versions
