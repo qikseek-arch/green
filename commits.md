@@ -7877,3 +7877,4 @@
 2026-02-22T20:00:12.962Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak flaky test
 2026-02-22T20:02:23.031Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak logging
 2026-02-22T20:03:41.805Z heyli <lcxfs1991@users.noreply.github.com> :: add the parser
+2026-02-22T20:25:05.028Z Taiko Foundation <info@taiko.xyz> :: bump config defaults
