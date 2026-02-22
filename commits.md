@@ -17519,3 +17519,4 @@
 2026-02-22T02:35:06.522Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up edge case in auth
 2026-02-22T02:52:32.204Z Jabrils <Jabrils@users.noreply.github.com> :: polish build script
 2026-02-22T03:58:52.548Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump config defaults
+2026-02-22T04:25:34.653Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump dependency versions
