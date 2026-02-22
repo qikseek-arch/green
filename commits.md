@@ -17541,3 +17541,4 @@
 2026-02-22T21:49:56.357Z Amnezia VPN <support@amnezia.org> :: clean up flaky test
 2026-02-22T21:57:13.936Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: remove config defaults
 2026-02-22T23:56:42.336Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove logging
+2026-02-22T23:56:54.697Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: add error handling
