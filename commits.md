@@ -17516,3 +17516,4 @@
 2026-02-22T01:02:53.268Z LocalSend <localsend@users.noreply.github.com> :: add null check
 2026-02-22T01:45:22.354Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: wire up the CI matrix
 2026-02-22T01:47:29.444Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up flaky test
+2026-02-22T02:35:06.522Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up edge case in auth
