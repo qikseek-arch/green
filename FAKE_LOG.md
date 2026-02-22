@@ -437,3 +437,4 @@
 2026-02-10T15:18:53.592Z Robert C. Martin <robert.c.martin@fake.invalid> :: clean up config defaults
 2026-02-13T11:18:36.042Z quantumpanda554 <quantumpanda554@fake.invalid> :: add retry logic
 2026-02-15T21:58:17.716Z molten-moose <molten-moose@fake.invalid> :: refactor null check
+2026-02-22T18:54:01.505Z Yukihiro Matsumoto <yukihiro.matsumoto@fake.invalid> :: tweak edge case in auth
