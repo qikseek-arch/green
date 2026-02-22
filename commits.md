@@ -7858,3 +7858,4 @@
 2026-02-22T06:26:09.972Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add readme typo
 2026-02-22T06:36:32.174Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up error handling
 2026-02-22T06:37:49.420Z vb <Vaibhavs10@users.noreply.github.com> :: clean up edge case in auth
+2026-02-22T07:37:42.325Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak build script
