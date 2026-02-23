@@ -17557,3 +17557,4 @@
 2026-02-23T12:36:35.923Z Chetan Jogi <voidChetan@users.noreply.github.com> :: polish dead code
 2026-02-23T14:08:22.576Z SurrealDB <surrealdb@users.noreply.github.com> :: clean up dead code
 2026-02-23T14:57:54.215Z Xingang Pan <XingangPan@users.noreply.github.com> :: update null check
+2026-02-23T15:13:24.723Z Collabnix <collabnix@users.noreply.github.com> :: fix error handling
