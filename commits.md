@@ -17544,3 +17544,4 @@
 2026-02-22T23:56:54.697Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: add error handling
 2026-02-23T00:43:34.944Z Islem Maboud <ipenywis@users.noreply.github.com> :: remove null check
 2026-02-23T00:45:21.274Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor flaky test
+2026-02-23T01:34:44.236Z Dove Letter <skydoves2@gmail.com> :: tweak the CI matrix
