@@ -17550,3 +17550,4 @@
 2026-02-23T04:49:55.218Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: wire up build script
 2026-02-23T05:31:23.710Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix null check
 2026-02-23T09:15:57.830Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: remove cache keys
+2026-02-23T10:31:19.033Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up error handling
