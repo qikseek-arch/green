@@ -7897,3 +7897,4 @@
 2026-02-23T08:40:37.899Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix readme typo
 2026-02-23T08:51:01.208Z heyli <lcxfs1991@users.noreply.github.com> :: remove logging
 2026-02-23T09:31:20.055Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the CI matrix
+2026-02-23T11:32:30.930Z markqvist <markqvist@users.noreply.github.com> :: refactor error handling
