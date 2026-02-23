@@ -7899,3 +7899,4 @@
 2026-02-23T09:31:20.055Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the CI matrix
 2026-02-23T11:32:30.930Z markqvist <markqvist@users.noreply.github.com> :: refactor error handling
 2026-02-23T12:26:03.807Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add dependency versions
+2026-02-23T14:11:57.995Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor retry logic
