@@ -17562,3 +17562,4 @@
 2026-02-23T18:44:24.590Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump null check
 2026-02-23T19:55:19.958Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish readme typo
 2026-02-23T20:05:38.722Z 1 <insoxin@users.noreply.github.com> :: remove dependency versions
+2026-02-23T21:33:38.012Z OpenMEDLab <openmedlab@pjlab.org.cn> :: tweak build script
