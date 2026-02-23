@@ -17546,3 +17546,4 @@
 2026-02-23T00:45:21.274Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor flaky test
 2026-02-23T01:34:44.236Z Dove Letter <skydoves2@gmail.com> :: tweak the CI matrix
 2026-02-23T02:02:00.804Z Tavis Ormandy <taviso@users.noreply.github.com> :: refactor dependency versions
+2026-02-23T04:13:52.785Z Brian Holt <btholt@users.noreply.github.com> :: bump dependency versions
