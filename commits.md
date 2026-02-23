@@ -7891,3 +7891,4 @@
 2026-02-23T05:00:28.685Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add error handling
 2026-02-23T05:33:01.368Z Roger Labbe <rlabbe@users.noreply.github.com> :: update build script
 2026-02-23T06:33:03.091Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the CI matrix
+2026-02-23T07:44:37.422Z OpenJS Foundation <info@openjsf.org> :: add null check
