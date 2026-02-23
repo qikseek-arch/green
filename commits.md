@@ -7893,3 +7893,4 @@
 2026-02-23T06:33:03.091Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the CI matrix
 2026-02-23T07:44:37.422Z OpenJS Foundation <info@openjsf.org> :: add null check
 2026-02-23T08:01:50.170Z CTFs <ctfs@users.noreply.github.com> :: wire up build script
+2026-02-23T08:22:49.040Z LILYGO <LilyGO@users.noreply.github.com> :: refactor error handling
