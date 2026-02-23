@@ -7883,3 +7883,4 @@
 2026-02-22T21:15:07.847Z SouJunior <wouerner@soujunior.tech> :: remove flaky test
 2026-02-22T21:55:37.086Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish the CI matrix
 2026-02-22T23:19:11.341Z FlowiseAI <hello@flowiseai.com> :: remove the CI matrix
+2026-02-23T00:32:59.875Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix config defaults
