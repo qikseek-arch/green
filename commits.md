@@ -7895,3 +7895,4 @@
 2026-02-23T08:01:50.170Z CTFs <ctfs@users.noreply.github.com> :: wire up build script
 2026-02-23T08:22:49.040Z LILYGO <LilyGO@users.noreply.github.com> :: refactor error handling
 2026-02-23T08:40:37.899Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix readme typo
+2026-02-23T08:51:01.208Z heyli <lcxfs1991@users.noreply.github.com> :: remove logging
