@@ -17584,3 +17584,4 @@
 2026-02-24T16:04:39.528Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add error handling
 2026-02-24T16:39:36.024Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix dead code
 2026-02-24T17:13:06.053Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up readme typo
+2026-02-24T19:21:11.951Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: fix config defaults
