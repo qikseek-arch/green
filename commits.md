@@ -17580,3 +17580,4 @@
 2026-02-24T12:44:45.727Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up retry logic
 2026-02-24T14:10:49.986Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor cache keys
 2026-02-24T14:28:45.829Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: clean up cache keys
+2026-02-24T14:45:19.650Z Zed Industries <hi@zed.dev> :: clean up error handling
