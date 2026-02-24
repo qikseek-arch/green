@@ -7916,3 +7916,4 @@
 2026-02-24T05:03:52.930Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak dead code
 2026-02-24T05:53:07.017Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
 2026-02-24T06:22:42.763Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
+2026-02-24T06:46:52.643Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the CI matrix
