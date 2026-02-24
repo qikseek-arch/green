@@ -7918,3 +7918,4 @@
 2026-02-24T06:22:42.763Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
 2026-02-24T06:46:52.643Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the CI matrix
 2026-02-24T07:40:50.368Z vb <Vaibhavs10@users.noreply.github.com> :: fix the CI matrix
+2026-02-24T07:50:36.748Z Aurélien Geron <ageron@users.noreply.github.com> :: polish retry logic
