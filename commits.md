@@ -7934,3 +7934,4 @@
 2026-02-24T19:32:21.867Z Odi <mathdroid@users.noreply.github.com> :: clean up cache keys
 2026-02-24T19:37:41.449Z First Contributions <firstcontributions@gmail.com> :: bump the CI matrix
 2026-02-24T20:12:06.077Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up dead code
+2026-02-24T21:12:44.190Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update edge case in auth
