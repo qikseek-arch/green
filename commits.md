@@ -17573,3 +17573,4 @@
 2026-02-24T08:56:05.797Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump edge case in auth
 2026-02-24T08:59:12.980Z LMSYS <lm-sys@users.noreply.github.com> :: wire up config defaults
 2026-02-24T10:52:45.690Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix logging
+2026-02-24T10:57:11.633Z Lipis <lipis@users.noreply.github.com> :: wire up dependency versions
