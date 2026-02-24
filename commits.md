@@ -436,3 +436,4 @@
 2026-02-22T20:40:31.238Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump the parser
 2026-02-23T02:43:59.454Z Max Lv <madeye@users.noreply.github.com> :: tweak retry logic
 2026-02-24T04:56:34.619Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up cache keys
+2026-02-24T16:24:03.658Z Odoo Community Association <OCA@users.noreply.github.com> :: update null check
