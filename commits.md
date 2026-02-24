@@ -7926,3 +7926,4 @@
 2026-02-24T11:13:01.832Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump flaky test
 2026-02-24T11:25:48.264Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish flaky test
 2026-02-24T12:05:23.623Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the CI matrix
+2026-02-24T13:46:40.709Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
