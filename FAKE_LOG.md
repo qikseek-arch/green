@@ -238,3 +238,4 @@
 2026-02-16T12:08:26.003Z ezra <ezra@fake.invalid> :: refactor the CI matrix
 2026-02-16T19:59:29.604Z halcyon <halcyon@fake.invalid> :: update null check
 2026-02-20T01:11:50.129Z rune <rune@fake.invalid> :: add the parser
+2026-02-24T00:19:22.486Z ghost <ghost@fake.invalid> :: clean up readme typo
