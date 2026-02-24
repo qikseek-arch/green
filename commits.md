@@ -7927,3 +7927,4 @@
 2026-02-24T11:25:48.264Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish flaky test
 2026-02-24T12:05:23.623Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the CI matrix
 2026-02-24T13:46:40.709Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
+2026-02-24T14:30:46.742Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix config defaults
