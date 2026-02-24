@@ -7914,3 +7914,4 @@
 2026-02-24T03:18:44.227Z BBC <bbc@users.noreply.github.com> :: polish cache keys
 2026-02-24T04:58:20.324Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix edge case in auth
 2026-02-24T05:03:52.930Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak dead code
+2026-02-24T05:53:07.017Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
