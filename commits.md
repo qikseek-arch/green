@@ -7929,3 +7929,4 @@
 2026-02-24T13:46:40.709Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
 2026-02-24T14:30:46.742Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix config defaults
 2026-02-24T14:48:59.104Z Roger Labbe <rlabbe@users.noreply.github.com> :: update error handling
+2026-02-24T15:13:51.869Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up retry logic
