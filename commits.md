@@ -17575,3 +17575,4 @@
 2026-02-24T10:52:45.690Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix logging
 2026-02-24T10:57:11.633Z Lipis <lipis@users.noreply.github.com> :: wire up dependency versions
 2026-02-24T11:07:42.023Z Lovell Fuller <lovell@users.noreply.github.com> :: fix the parser
+2026-02-24T12:11:48.124Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add build script
