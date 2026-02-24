@@ -17577,3 +17577,4 @@
 2026-02-24T11:07:42.023Z Lovell Fuller <lovell@users.noreply.github.com> :: fix the parser
 2026-02-24T12:11:48.124Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: add build script
 2026-02-24T12:17:40.118Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix error handling
+2026-02-24T12:44:45.727Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up retry logic
