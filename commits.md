@@ -17571,3 +17571,4 @@
 2026-02-24T07:33:42.048Z Google Fonts <googlefonts@users.noreply.github.com> :: refactor cache keys
 2026-02-24T08:41:10.295Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish cache keys
 2026-02-24T08:56:05.797Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump edge case in auth
+2026-02-24T08:59:12.980Z LMSYS <lm-sys@users.noreply.github.com> :: wire up config defaults
