@@ -17598,3 +17598,4 @@
 2026-02-25T09:49:56.795Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: update config defaults
 2026-02-25T10:33:42.185Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update dependency versions
 2026-02-25T11:07:15.602Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix cache keys
+2026-02-25T11:10:29.142Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update edge case in auth
