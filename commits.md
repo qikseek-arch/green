@@ -7952,3 +7952,4 @@
 2026-02-25T08:54:23.143Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak the CI matrix
 2026-02-25T08:59:25.551Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up dependency versions
 2026-02-25T09:05:46.893Z Adam Bell <b3ll@users.noreply.github.com> :: remove flaky test
+2026-02-25T10:02:51.357Z Sachin Soni <techiesms@users.noreply.github.com> :: add build script
