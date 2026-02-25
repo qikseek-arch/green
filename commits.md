@@ -7943,3 +7943,4 @@
 2026-02-25T01:36:33.936Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump error handling
 2026-02-25T02:26:39.667Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up dead code
 2026-02-25T05:10:26.416Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up the parser
+2026-02-25T07:08:03.774Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up config defaults
