@@ -17602,3 +17602,4 @@
 2026-02-25T13:32:21.641Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor flaky test
 2026-02-25T14:17:10.720Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update dependency versions
 2026-02-25T16:57:54.613Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the CI matrix
+2026-02-25T17:23:58.746Z Brian Holt <btholt@users.noreply.github.com> :: clean up error handling
