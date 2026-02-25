@@ -7948,3 +7948,4 @@
 2026-02-25T07:19:18.026Z David Clark <nullptrException100@users.noreply.github.com> :: add edge case in auth
 2026-02-25T07:51:43.532Z markqvist <markqvist@users.noreply.github.com> :: tweak build script
 2026-02-25T08:26:07.017Z Bytedance Inc. <bytedance@users.noreply.github.com> :: wire up null check
+2026-02-25T08:43:37.928Z Manu Arora <manuarora700@users.noreply.github.com> :: add dependency versions
