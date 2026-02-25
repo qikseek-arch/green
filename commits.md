@@ -17601,3 +17601,4 @@
 2026-02-25T11:10:29.142Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update edge case in auth
 2026-02-25T13:32:21.641Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor flaky test
 2026-02-25T14:17:10.720Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update dependency versions
+2026-02-25T16:57:54.613Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the CI matrix
