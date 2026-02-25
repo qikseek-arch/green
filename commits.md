@@ -7945,3 +7945,4 @@
 2026-02-25T05:10:26.416Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up the parser
 2026-02-25T07:08:03.774Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up config defaults
 2026-02-25T07:17:17.289Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak the parser
+2026-02-25T07:19:18.026Z David Clark <nullptrException100@users.noreply.github.com> :: add edge case in auth
