@@ -719,3 +719,4 @@
 2026-02-23T09:52:30.306Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: tweak build script
 2026-02-23T23:08:03.580Z Jadi <jadijadi@users.noreply.github.com> :: tweak build script
 2026-02-24T00:13:20.737Z Christian Deacon <gamemann@users.noreply.github.com> :: fix retry logic
+2026-02-25T13:37:58.106Z Tim Pope <tpope@users.noreply.github.com> :: add edge case in auth
