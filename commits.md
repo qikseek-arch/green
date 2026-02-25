@@ -17593,3 +17593,4 @@
 2026-02-25T05:23:56.575Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up readme typo
 2026-02-25T06:01:24.242Z Sky Ao <skyao@users.noreply.github.com> :: refactor edge case in auth
 2026-02-25T06:32:00.182Z 千古壹号 <qianguyihao@users.noreply.github.com> :: refactor retry logic
+2026-02-25T08:06:24.243Z Alex Teichman <teichman@users.noreply.github.com> :: polish null check
