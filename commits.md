@@ -7939,3 +7939,4 @@
 2026-02-25T00:44:29.863Z SouJunior <wouerner@soujunior.tech> :: bump build script
 2026-02-25T01:19:31.396Z Manu Arora <manuarora700@users.noreply.github.com> :: polish logging
 2026-02-25T01:26:19.940Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up retry logic
+2026-02-25T01:32:07.906Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove edge case in auth
