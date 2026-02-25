@@ -17604,3 +17604,4 @@
 2026-02-25T16:57:54.613Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the CI matrix
 2026-02-25T17:23:58.746Z Brian Holt <btholt@users.noreply.github.com> :: clean up error handling
 2026-02-25T19:07:19.881Z Yiming Cui <ymcui@users.noreply.github.com> :: remove readme typo
+2026-02-25T19:27:57.213Z Marcel Pociot <mpociot@users.noreply.github.com> :: clean up the CI matrix
