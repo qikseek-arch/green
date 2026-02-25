@@ -7964,3 +7964,4 @@
 2026-02-25T15:26:29.185Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish edge case in auth
 2026-02-25T16:44:43.790Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor logging
 2026-02-25T19:30:03.028Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add dependency versions
+2026-02-25T20:40:12.902Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump null check
