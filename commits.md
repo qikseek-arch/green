@@ -17618,3 +17618,4 @@
 2026-02-26T04:23:53.117Z Henry <hzoo@users.noreply.github.com> :: remove flaky test
 2026-02-26T04:36:34.264Z Chetan Jogi <voidChetan@users.noreply.github.com> :: update the parser
 2026-02-26T05:17:36.957Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up error handling
+2026-02-26T06:56:51.873Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: bump error handling
