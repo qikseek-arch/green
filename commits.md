@@ -442,3 +442,4 @@
 2026-02-25T13:26:27.368Z Ovilia <Ovilia@users.noreply.github.com> :: tweak error handling
 2026-02-26T12:17:18.669Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak logging
 2026-02-26T14:58:39.261Z @XDevelopers <xdevplatform@users.noreply.github.com> :: tweak edge case in auth
+2026-02-26T18:36:02.457Z Shaian <zshaian@users.noreply.github.com> :: update error handling
