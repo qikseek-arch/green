@@ -17633,3 +17633,4 @@
 2026-02-26T19:33:46.900Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: wire up edge case in auth
 2026-02-26T19:39:03.735Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: wire up null check
 2026-02-26T20:30:02.627Z 1 <insoxin@users.noreply.github.com> :: remove cache keys
+2026-02-26T20:42:57.901Z Petar Veličković <PetarV-@users.noreply.github.com> :: add build script
