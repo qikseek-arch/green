@@ -7986,3 +7986,4 @@
 2026-02-26T12:08:42.750Z CTFs <ctfs@users.noreply.github.com> :: remove null check
 2026-02-26T13:11:01.689Z Keith Smiley <keith@users.noreply.github.com> :: fix retry logic
 2026-02-26T13:14:29.136Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: tweak edge case in auth
+2026-02-26T13:48:02.869Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak readme typo
