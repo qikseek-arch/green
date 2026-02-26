@@ -7974,3 +7974,4 @@
 2026-02-26T00:08:51.774Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add dependency versions
 2026-02-26T00:49:14.624Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up readme typo
 2026-02-26T02:11:43.499Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak config defaults
+2026-02-26T03:44:09.097Z Taiko Foundation <info@taiko.xyz> :: add cache keys
