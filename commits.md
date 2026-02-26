@@ -17613,3 +17613,4 @@
 2026-02-26T00:29:58.743Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: tweak config defaults
 2026-02-26T01:53:01.426Z DefTruth <DefTruth@users.noreply.github.com> :: update readme typo
 2026-02-26T02:14:40.363Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak readme typo
+2026-02-26T02:49:02.202Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak readme typo
