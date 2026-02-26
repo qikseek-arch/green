@@ -17610,3 +17610,4 @@
 2026-02-25T21:13:45.076Z SurrealDB <surrealdb@users.noreply.github.com> :: bump dependency versions
 2026-02-25T21:26:30.615Z OpenBSD <openbsd@users.noreply.github.com> :: add edge case in auth
 2026-02-26T00:08:39.503Z Google Fonts <googlefonts@users.noreply.github.com> :: bump the parser
+2026-02-26T00:29:58.743Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: tweak config defaults
