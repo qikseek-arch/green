@@ -7995,3 +7995,4 @@
 2026-02-26T17:16:08.178Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up dependency versions
 2026-02-26T20:20:03.669Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix logging
 2026-02-26T21:27:05.296Z Selenium <SeleniumHQ@users.noreply.github.com> :: update build script
+2026-02-26T21:32:08.782Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up error handling
