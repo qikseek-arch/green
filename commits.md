@@ -7997,3 +7997,4 @@
 2026-02-26T21:27:05.296Z Selenium <SeleniumHQ@users.noreply.github.com> :: update build script
 2026-02-26T21:32:08.782Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up error handling
 2026-02-26T22:14:55.141Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix edge case in auth
+2026-02-26T22:52:57.165Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
