@@ -17625,3 +17625,4 @@
 2026-02-26T13:59:39.735Z cytopia <cytopia@users.noreply.github.com> :: refactor retry logic
 2026-02-26T14:02:20.798Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: clean up retry logic
 2026-02-26T14:34:48.021Z Xingang Pan <XingangPan@users.noreply.github.com> :: add error handling
+2026-02-26T14:54:38.169Z OpenBMB <openbmb@gmail.com> :: fix logging
