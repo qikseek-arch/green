@@ -7991,3 +7991,4 @@
 2026-02-26T14:38:53.045Z Keith Smiley <keith@users.noreply.github.com> :: add null check
 2026-02-26T15:44:26.613Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish retry logic
 2026-02-26T16:03:37.709Z Ryan Bigg <radar@users.noreply.github.com> :: add edge case in auth
+2026-02-26T16:36:52.907Z LILYGO <LilyGO@users.noreply.github.com> :: fix the CI matrix
