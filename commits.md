@@ -17621,3 +17621,4 @@
 2026-02-26T06:56:51.873Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: bump error handling
 2026-02-26T07:49:57.700Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add error handling
 2026-02-26T10:19:00.876Z Jabrils <Jabrils@users.noreply.github.com> :: update cache keys
+2026-02-26T11:50:31.689Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up readme typo
