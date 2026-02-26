@@ -7998,3 +7998,4 @@
 2026-02-26T21:32:08.782Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up error handling
 2026-02-26T22:14:55.141Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix edge case in auth
 2026-02-26T22:52:57.165Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
+2026-02-26T23:12:30.635Z qiye <qiyeboy@users.noreply.github.com> :: fix dead code
