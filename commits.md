@@ -8006,3 +8006,4 @@
 2026-02-27T07:13:08.324Z ㅤxander <vampirist@users.noreply.github.com> :: wire up the CI matrix
 2026-02-27T07:15:37.984Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the parser
 2026-02-27T07:16:50.033Z Damian Dulisz <shentao@users.noreply.github.com> :: polish retry logic
+2026-02-27T09:44:37.366Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor error handling
