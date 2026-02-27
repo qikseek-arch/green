@@ -8015,3 +8015,4 @@
 2026-02-27T17:12:57.998Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up readme typo
 2026-02-27T17:20:10.024Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish retry logic
 2026-02-27T17:30:28.245Z OpenJS Foundation <info@openjsf.org> :: wire up dependency versions
+2026-02-27T18:08:53.600Z Taiko Foundation <info@taiko.xyz> :: update dead code
