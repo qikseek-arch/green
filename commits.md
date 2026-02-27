@@ -17660,3 +17660,4 @@
 2026-02-27T18:18:48.042Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish build script
 2026-02-27T19:02:15.080Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove cache keys
 2026-02-27T19:02:37.141Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up cache keys
+2026-02-27T19:28:56.868Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove edge case in auth
