@@ -8002,3 +8002,4 @@
 2026-02-27T01:14:37.552Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish the parser
 2026-02-27T02:58:48.375Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the parser
 2026-02-27T03:34:22.290Z Arduino <arduino@users.noreply.github.com> :: remove the parser
+2026-02-27T04:09:53.371Z markqvist <markqvist@users.noreply.github.com> :: add edge case in auth
