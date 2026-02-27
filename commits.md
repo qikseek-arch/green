@@ -8004,3 +8004,4 @@
 2026-02-27T03:34:22.290Z Arduino <arduino@users.noreply.github.com> :: remove the parser
 2026-02-27T04:09:53.371Z markqvist <markqvist@users.noreply.github.com> :: add edge case in auth
 2026-02-27T07:13:08.324Z ㅤxander <vampirist@users.noreply.github.com> :: wire up the CI matrix
+2026-02-27T07:15:37.984Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the parser
