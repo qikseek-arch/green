@@ -17640,3 +17640,4 @@
 2026-02-27T01:18:26.555Z rxi <rxi@users.noreply.github.com> :: remove error handling
 2026-02-27T01:39:09.750Z OpenBSD <openbsd@users.noreply.github.com> :: tweak config defaults
 2026-02-27T01:46:10.925Z Morvan <MorvanZhou@users.noreply.github.com> :: update logging
+2026-02-27T04:02:47.965Z Prometheus <prometheus@users.noreply.github.com> :: polish the CI matrix
