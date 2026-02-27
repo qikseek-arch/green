@@ -84,3 +84,4 @@
 2026-02-18T08:25:55.011Z chill-ninjadev <chill-ninjadev@users.noreply.github.com> :: wire up readme typo
 2026-02-19T14:57:25.517Z SilentMoose <silentmoose@users.noreply.github.com> :: polish readme typo
 2026-02-22T02:15:04.603Z FrozenMoose <frozenmoose@users.noreply.github.com> :: wire up logging
+2026-02-27T14:09:13.226Z crimson-llama1337 <crimson-llama1337@users.noreply.github.com> :: bump config defaults
