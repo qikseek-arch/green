@@ -17652,3 +17652,4 @@
 2026-02-27T12:42:21.534Z Collabnix <collabnix@users.noreply.github.com> :: fix edge case in auth
 2026-02-27T13:07:33.995Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: wire up cache keys
 2026-02-27T13:38:36.292Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish flaky test
+2026-02-27T15:13:23.210Z Sergey P. <ThirteenAG@users.noreply.github.com> :: remove edge case in auth
