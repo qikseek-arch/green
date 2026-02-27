@@ -17645,3 +17645,4 @@
 2026-02-27T07:11:18.989Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: remove the parser
 2026-02-27T07:17:48.766Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update cache keys
 2026-02-27T09:48:25.589Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: fix error handling
+2026-02-27T09:57:25.465Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove dead code
