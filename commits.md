@@ -8013,3 +8013,4 @@
 2026-02-27T13:09:52.650Z ring04h <ring04h@users.noreply.github.com> :: fix edge case in auth
 2026-02-27T17:09:23.056Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update config defaults
 2026-02-27T17:12:57.998Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up readme typo
+2026-02-27T17:20:10.024Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish retry logic
