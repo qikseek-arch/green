@@ -8020,3 +8020,4 @@
 2026-02-27T19:27:59.045Z vb <Vaibhavs10@users.noreply.github.com> :: update edge case in auth
 2026-02-27T19:48:50.404Z vb <Vaibhavs10@users.noreply.github.com> :: add null check
 2026-02-27T20:03:15.468Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove dead code
+2026-02-27T20:33:31.329Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix dead code
