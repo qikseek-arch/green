@@ -8010,3 +8010,4 @@
 2026-02-27T10:13:53.794Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix flaky test
 2026-02-27T11:19:01.455Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak the parser
 2026-02-27T11:56:38.963Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove retry logic
+2026-02-27T13:09:52.650Z ring04h <ring04h@users.noreply.github.com> :: fix edge case in auth
