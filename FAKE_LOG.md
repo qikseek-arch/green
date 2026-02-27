@@ -721,3 +721,4 @@
 2026-02-24T00:13:20.737Z Christian Deacon <gamemann@users.noreply.github.com> :: fix retry logic
 2026-02-25T13:37:58.106Z Tim Pope <tpope@users.noreply.github.com> :: add edge case in auth
 2026-02-25T14:59:25.222Z Wes Bos <wesbos@users.noreply.github.com> :: clean up readme typo
+2026-02-27T18:20:19.633Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: bump flaky test
