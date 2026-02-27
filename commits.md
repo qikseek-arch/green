@@ -17666,3 +17666,4 @@
 2026-02-27T21:47:47.747Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: refactor config defaults
 2026-02-27T23:01:36.467Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak null check
 2026-02-27T23:16:43.371Z Alex Teichman <teichman@users.noreply.github.com> :: update logging
+2026-02-27T23:40:28.038Z cytopia <cytopia@users.noreply.github.com> :: fix dependency versions
