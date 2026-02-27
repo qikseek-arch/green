@@ -8007,3 +8007,4 @@
 2026-02-27T07:15:37.984Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the parser
 2026-02-27T07:16:50.033Z Damian Dulisz <shentao@users.noreply.github.com> :: polish retry logic
 2026-02-27T09:44:37.366Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor error handling
+2026-02-27T10:13:53.794Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix flaky test
