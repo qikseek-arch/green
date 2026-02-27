@@ -85,3 +85,4 @@
 2026-02-19T14:57:25.517Z SilentMoose <silentmoose@users.noreply.github.com> :: polish readme typo
 2026-02-22T02:15:04.603Z FrozenMoose <frozenmoose@users.noreply.github.com> :: wire up logging
 2026-02-27T14:09:13.226Z crimson-llama1337 <crimson-llama1337@users.noreply.github.com> :: bump config defaults
+2026-02-27T16:40:01.189Z solarhamster777 <solarhamster777@users.noreply.github.com> :: clean up retry logic
