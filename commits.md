@@ -17682,3 +17682,4 @@
 2026-02-28T09:11:50.210Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix error handling
 2026-02-28T12:29:39.007Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish build script
 2026-02-28T12:37:10.043Z LMSYS <lm-sys@users.noreply.github.com> :: wire up flaky test
+2026-02-28T13:09:48.975Z 1 <insoxin@users.noreply.github.com> :: remove retry logic
