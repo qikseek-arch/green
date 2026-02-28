@@ -440,3 +440,4 @@
 2026-02-22T18:54:01.505Z Yukihiro Matsumoto <yukihiro.matsumoto@fake.invalid> :: tweak edge case in auth
 2026-02-23T00:52:39.251Z Edsger Dijkstra <edsger.dijkstra@fake.invalid> :: tweak config defaults
 2026-02-26T16:38:31.656Z Steve Jobs <steve.jobs@fake.invalid> :: tweak config defaults
+2026-02-28T04:24:15.327Z Jake Wharton <JakeWharton@users.noreply.github.com> :: wire up the CI matrix
