@@ -17686,3 +17686,4 @@
 2026-02-28T13:39:13.902Z rxi <rxi@users.noreply.github.com> :: update null check
 2026-02-28T14:12:50.544Z OpenBMB <openbmb@gmail.com> :: refactor the CI matrix
 2026-02-28T14:54:56.878Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
+2026-02-28T16:11:17.483Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove config defaults
