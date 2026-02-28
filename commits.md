@@ -17671,3 +17671,4 @@
 2026-02-28T01:19:50.241Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak null check
 2026-02-28T01:58:45.940Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: remove dead code
 2026-02-28T03:18:57.556Z Lipis <lipis@users.noreply.github.com> :: bump the CI matrix
+2026-02-28T03:33:08.237Z Michael Jackson <mjackson@users.noreply.github.com> :: polish build script
