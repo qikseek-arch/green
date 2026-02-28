@@ -8045,3 +8045,4 @@
 2026-02-28T14:29:26.467Z vb <Vaibhavs10@users.noreply.github.com> :: refactor edge case in auth
 2026-02-28T14:47:30.389Z SouJunior <wouerner@soujunior.tech> :: tweak dependency versions
 2026-02-28T15:33:15.036Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up null check
+2026-02-28T16:05:22.459Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add error handling
