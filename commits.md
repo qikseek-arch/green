@@ -17680,3 +17680,4 @@
 2026-02-28T08:12:09.890Z CodeTips <CodeTips@users.noreply.github.com> :: update error handling
 2026-02-28T08:19:13.988Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove flaky test
 2026-02-28T09:11:50.210Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix error handling
+2026-02-28T12:29:39.007Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish build script
