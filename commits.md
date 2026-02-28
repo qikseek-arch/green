@@ -8051,3 +8051,4 @@
 2026-02-28T17:30:06.491Z Damian Dulisz <shentao@users.noreply.github.com> :: bump error handling
 2026-02-28T18:49:35.842Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: clean up flaky test
 2026-02-28T19:37:54.855Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up flaky test
+2026-02-28T20:11:38.696Z Ivan Volkov <Chitus@users.noreply.github.com> :: update build script
