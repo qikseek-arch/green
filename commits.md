@@ -8035,3 +8035,4 @@
 2026-02-28T04:31:31.436Z BBC <bbc@users.noreply.github.com> :: fix dependency versions
 2026-02-28T05:17:47.069Z BBC <bbc@users.noreply.github.com> :: polish readme typo
 2026-02-28T06:04:47.162Z markqvist <markqvist@users.noreply.github.com> :: update readme typo
+2026-02-28T06:08:39.465Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up retry logic
