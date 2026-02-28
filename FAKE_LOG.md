@@ -723,3 +723,4 @@
 2026-02-25T14:59:25.222Z Wes Bos <wesbos@users.noreply.github.com> :: clean up readme typo
 2026-02-27T18:20:19.633Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: bump flaky test
 2026-02-28T06:54:35.423Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: add flaky test
+2026-02-28T10:17:04.930Z Ruan YiFeng <ruanyf@users.noreply.github.com> :: remove readme typo
