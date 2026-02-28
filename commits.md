@@ -17689,3 +17689,4 @@
 2026-02-28T16:11:17.483Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove config defaults
 2026-02-28T16:17:08.379Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak readme typo
 2026-02-28T17:07:24.199Z 1 <insoxin@users.noreply.github.com> :: bump error handling
+2026-02-28T18:23:55.831Z Brian Holt <btholt@users.noreply.github.com> :: update null check
