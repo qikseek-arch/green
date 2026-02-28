@@ -17687,3 +17687,4 @@
 2026-02-28T14:12:50.544Z OpenBMB <openbmb@gmail.com> :: refactor the CI matrix
 2026-02-28T14:54:56.878Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
 2026-02-28T16:11:17.483Z 千古壹号 <qianguyihao@users.noreply.github.com> :: remove config defaults
+2026-02-28T16:17:08.379Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: tweak readme typo
