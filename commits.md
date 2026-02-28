@@ -17667,3 +17667,4 @@
 2026-02-27T23:01:36.467Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak null check
 2026-02-27T23:16:43.371Z Alex Teichman <teichman@users.noreply.github.com> :: update logging
 2026-02-27T23:40:28.038Z cytopia <cytopia@users.noreply.github.com> :: fix dependency versions
+2026-02-28T00:40:39.690Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: add readme typo
