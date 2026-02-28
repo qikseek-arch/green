@@ -17674,3 +17674,4 @@
 2026-02-28T03:33:08.237Z Michael Jackson <mjackson@users.noreply.github.com> :: polish build script
 2026-02-28T03:47:18.567Z Petar Veličković <PetarV-@users.noreply.github.com> :: add config defaults
 2026-02-28T04:33:31.621Z Aman Kumar <Amanc77@users.noreply.github.com> :: wire up dependency versions
+2026-02-28T07:43:15.069Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove null check
