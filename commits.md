@@ -17695,3 +17695,4 @@
 2026-02-28T21:13:19.279Z Tom Dale <tomdale@users.noreply.github.com> :: update error handling
 2026-02-28T21:31:24.877Z yakeIore <yakeIore@users.noreply.github.com> :: add the CI matrix
 2026-02-28T21:32:21.869Z Xingang Pan <XingangPan@users.noreply.github.com> :: add dependency versions
+2026-02-28T22:16:38.259Z Snowflake Labs <opensource@snowflake.com> :: bump readme typo
