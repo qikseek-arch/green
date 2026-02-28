@@ -8034,3 +8034,4 @@
 2026-02-28T04:17:29.912Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish logging
 2026-02-28T04:31:31.436Z BBC <bbc@users.noreply.github.com> :: fix dependency versions
 2026-02-28T05:17:47.069Z BBC <bbc@users.noreply.github.com> :: polish readme typo
+2026-02-28T06:04:47.162Z markqvist <markqvist@users.noreply.github.com> :: update readme typo
