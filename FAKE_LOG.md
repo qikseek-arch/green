@@ -724,3 +724,4 @@
 2026-02-27T18:20:19.633Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: bump flaky test
 2026-02-28T06:54:35.423Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: add flaky test
 2026-02-28T10:17:04.930Z Ruan YiFeng <ruanyf@users.noreply.github.com> :: remove readme typo
+2026-02-28T10:25:09.258Z TJ <tj@users.noreply.github.com> :: tweak edge case in auth
