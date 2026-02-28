@@ -8053,3 +8053,4 @@
 2026-02-28T19:37:54.855Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up flaky test
 2026-02-28T20:11:38.696Z Ivan Volkov <Chitus@users.noreply.github.com> :: update build script
 2026-02-28T20:22:52.194Z markqvist <markqvist@users.noreply.github.com> :: wire up dependency versions
+2026-02-28T20:39:12.434Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump error handling
