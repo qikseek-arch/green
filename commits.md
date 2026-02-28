@@ -8046,3 +8046,4 @@
 2026-02-28T14:47:30.389Z SouJunior <wouerner@soujunior.tech> :: tweak dependency versions
 2026-02-28T15:33:15.036Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up null check
 2026-02-28T16:05:22.459Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add error handling
+2026-02-28T16:49:01.515Z SouJunior <wouerner@soujunior.tech> :: bump logging
