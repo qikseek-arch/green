@@ -8041,3 +8041,4 @@
 2026-02-28T07:23:29.891Z heyli <lcxfs1991@users.noreply.github.com> :: polish retry logic
 2026-02-28T08:52:30.394Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak build script
 2026-02-28T09:33:10.127Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up readme typo
+2026-02-28T14:14:50.337Z markqvist <markqvist@users.noreply.github.com> :: clean up the CI matrix
