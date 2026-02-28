@@ -8036,3 +8036,4 @@
 2026-02-28T05:17:47.069Z BBC <bbc@users.noreply.github.com> :: polish readme typo
 2026-02-28T06:04:47.162Z markqvist <markqvist@users.noreply.github.com> :: update readme typo
 2026-02-28T06:08:39.465Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up retry logic
+2026-02-28T06:54:42.314Z Getgems <getgems-io@users.noreply.github.com> :: refactor readme typo
