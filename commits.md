@@ -8039,3 +8039,4 @@
 2026-02-28T06:54:42.314Z Getgems <getgems-io@users.noreply.github.com> :: refactor readme typo
 2026-02-28T07:16:40.685Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish flaky test
 2026-02-28T07:23:29.891Z heyli <lcxfs1991@users.noreply.github.com> :: polish retry logic
+2026-02-28T08:52:30.394Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak build script
