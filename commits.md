@@ -8027,3 +8027,4 @@
 2026-02-27T22:07:26.131Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix cache keys
 2026-02-27T23:19:36.629Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump error handling
 2026-02-28T00:18:29.173Z First Contributions <firstcontributions@gmail.com> :: tweak the parser
+2026-02-28T00:53:11.691Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak edge case in auth
