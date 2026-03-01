@@ -17702,3 +17702,4 @@
 2026-03-01T04:36:12.288Z Odi <mathdroid@users.noreply.github.com> :: refactor build script
 2026-03-01T05:07:20.414Z Damian Gryski <dgryski@users.noreply.github.com> :: add error handling
 2026-03-01T07:37:07.597Z Collabnix <collabnix@users.noreply.github.com> :: bump logging
+2026-03-01T07:40:29.575Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix edge case in auth
