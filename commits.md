@@ -8070,3 +8070,4 @@
 2026-03-01T05:24:55.535Z vb <Vaibhavs10@users.noreply.github.com> :: bump the parser
 2026-03-01T06:26:09.281Z Almas Baim <AlmasB@users.noreply.github.com> :: add error handling
 2026-03-01T06:42:30.949Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up logging
+2026-03-01T07:53:31.337Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove retry logic
