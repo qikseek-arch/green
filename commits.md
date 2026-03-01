@@ -8075,3 +8075,4 @@
 2026-03-01T09:12:33.342Z md-5 <md-5@users.noreply.github.com> :: bump null check
 2026-03-01T10:11:52.108Z LILYGO <LilyGO@users.noreply.github.com> :: tweak logging
 2026-03-01T10:19:13.944Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add dead code
+2026-03-01T12:51:13.552Z Ryan Bigg <radar@users.noreply.github.com> :: wire up error handling
