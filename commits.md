@@ -17713,3 +17713,4 @@
 2026-03-01T13:16:01.274Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: remove retry logic
 2026-03-01T13:39:50.340Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up config defaults
 2026-03-01T18:50:22.297Z Morvan <MorvanZhou@users.noreply.github.com> :: add the CI matrix
+2026-03-01T19:05:49.092Z Casey Muratori <cmuratori@users.noreply.github.com> :: update dependency versions
