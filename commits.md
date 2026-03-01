@@ -8064,3 +8064,4 @@
 2026-03-01T01:57:23.364Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add edge case in auth
 2026-03-01T02:04:21.849Z AI4Bhārat <opensource@ai4bharat.org> :: remove logging
 2026-03-01T02:23:55.992Z Roger Labbe <rlabbe@users.noreply.github.com> :: update retry logic
+2026-03-01T03:55:54.769Z Odi <mathdroid@users.noreply.github.com> :: wire up error handling
