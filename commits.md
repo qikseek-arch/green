@@ -17704,3 +17704,4 @@
 2026-03-01T07:37:07.597Z Collabnix <collabnix@users.noreply.github.com> :: bump logging
 2026-03-01T07:40:29.575Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix edge case in auth
 2026-03-01T07:46:13.677Z OpenBMB <openbmb@gmail.com> :: add error handling
+2026-03-01T09:53:02.929Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update null check
