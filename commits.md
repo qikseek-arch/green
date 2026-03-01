@@ -17696,3 +17696,4 @@
 2026-02-28T21:31:24.877Z yakeIore <yakeIore@users.noreply.github.com> :: add the CI matrix
 2026-02-28T21:32:21.869Z Xingang Pan <XingangPan@users.noreply.github.com> :: add dependency versions
 2026-02-28T22:16:38.259Z Snowflake Labs <opensource@snowflake.com> :: bump readme typo
+2026-03-01T03:49:01.941Z Henry <hzoo@users.noreply.github.com> :: tweak config defaults
