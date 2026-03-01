@@ -8059,3 +8059,4 @@
 2026-02-28T23:22:50.253Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish retry logic
 2026-03-01T00:24:00.122Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up readme typo
 2026-03-01T01:19:44.353Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up cache keys
+2026-03-01T01:40:44.880Z Claude <claude@users.noreply.github.com> :: refactor the parser
