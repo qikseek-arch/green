@@ -8061,3 +8061,4 @@
 2026-03-01T01:19:44.353Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up cache keys
 2026-03-01T01:40:44.880Z Claude <claude@users.noreply.github.com> :: refactor the parser
 2026-03-01T01:54:12.787Z ㅤxander <vampirist@users.noreply.github.com> :: update dead code
+2026-03-01T01:57:23.364Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add edge case in auth
