@@ -8084,3 +8084,4 @@
 2026-03-01T18:30:36.411Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up dependency versions
 2026-03-01T19:11:43.577Z markqvist <markqvist@users.noreply.github.com> :: remove retry logic
 2026-03-01T19:36:09.665Z Getgems <getgems-io@users.noreply.github.com> :: update config defaults
+2026-03-01T21:03:15.267Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add logging
