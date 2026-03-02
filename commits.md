@@ -8088,3 +8088,4 @@
 2026-03-01T22:07:38.434Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up cache keys
 2026-03-01T22:55:36.073Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove error handling
 2026-03-02T00:27:21.130Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish flaky test
+2026-03-02T01:33:51.386Z OpenJS Foundation <info@openjsf.org> :: remove retry logic
