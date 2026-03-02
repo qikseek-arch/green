@@ -8100,3 +8100,4 @@
 2026-03-02T11:59:54.574Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the CI matrix
 2026-03-02T13:24:54.117Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up cache keys
 2026-03-02T13:27:10.820Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove null check
+2026-03-02T16:47:09.823Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump retry logic
