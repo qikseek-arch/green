@@ -8091,3 +8091,4 @@
 2026-03-02T01:33:51.386Z OpenJS Foundation <info@openjsf.org> :: remove retry logic
 2026-03-02T03:24:34.374Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update dead code
 2026-03-02T03:43:57.512Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump retry logic
+2026-03-02T08:07:54.259Z Arduino <arduino@users.noreply.github.com> :: update readme typo
