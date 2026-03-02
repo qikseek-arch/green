@@ -8106,3 +8106,4 @@
 2026-03-02T18:41:58.168Z SouJunior <wouerner@soujunior.tech> :: remove dead code
 2026-03-02T18:56:14.114Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up readme typo
 2026-03-02T19:23:12.686Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update retry logic
+2026-03-02T19:26:26.860Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up null check
