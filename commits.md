@@ -450,3 +450,4 @@
 2026-03-01T08:15:24.678Z Jimmy Song <rootsongjc@users.noreply.github.com> :: wire up dependency versions
 2026-03-01T13:38:41.138Z Shaian <zshaian@users.noreply.github.com> :: refactor dead code
 2026-03-01T20:42:24.593Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: bump logging
+2026-03-02T13:56:09.897Z Alex Yang <himself65@users.noreply.github.com> :: remove build script
