@@ -17726,3 +17726,4 @@
 2026-03-02T02:56:25.298Z Sky Ao <skyao@users.noreply.github.com> :: polish logging
 2026-03-02T03:24:16.494Z Snowflake Labs <opensource@snowflake.com> :: tweak error handling
 2026-03-02T03:51:06.002Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update retry logic
+2026-03-02T05:51:06.597Z John Schulman <joschu@users.noreply.github.com> :: clean up the parser
