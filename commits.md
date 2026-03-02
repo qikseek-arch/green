@@ -8102,3 +8102,4 @@
 2026-03-02T13:27:10.820Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove null check
 2026-03-02T16:47:09.823Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump retry logic
 2026-03-02T17:44:32.099Z ㅤxander <vampirist@users.noreply.github.com> :: clean up config defaults
+2026-03-02T18:39:42.803Z heyli <lcxfs1991@users.noreply.github.com> :: wire up edge case in auth
