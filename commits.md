@@ -17733,3 +17733,4 @@
 2026-03-02T08:00:06.907Z Cezanne Camacho <cezannec@users.noreply.github.com> :: tweak the parser
 2026-03-02T08:18:03.873Z Islem Maboud <ipenywis@users.noreply.github.com> :: update cache keys
 2026-03-02T08:25:05.215Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix the parser
+2026-03-02T08:52:27.756Z OpenBSD <openbsd@users.noreply.github.com> :: update config defaults
