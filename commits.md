@@ -8099,3 +8099,4 @@
 2026-03-02T09:32:35.338Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update dead code
 2026-03-02T11:59:54.574Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the CI matrix
 2026-03-02T13:24:54.117Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up cache keys
+2026-03-02T13:27:10.820Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove null check
