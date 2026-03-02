@@ -8104,3 +8104,4 @@
 2026-03-02T17:44:32.099Z ㅤxander <vampirist@users.noreply.github.com> :: clean up config defaults
 2026-03-02T18:39:42.803Z heyli <lcxfs1991@users.noreply.github.com> :: wire up edge case in auth
 2026-03-02T18:41:58.168Z SouJunior <wouerner@soujunior.tech> :: remove dead code
+2026-03-02T18:56:14.114Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up readme typo
