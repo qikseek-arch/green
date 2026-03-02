@@ -17728,3 +17728,4 @@
 2026-03-02T03:51:06.002Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update retry logic
 2026-03-02T05:51:06.597Z John Schulman <joschu@users.noreply.github.com> :: clean up the parser
 2026-03-02T05:57:40.543Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up the CI matrix
+2026-03-02T06:02:47.213Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: clean up null check
