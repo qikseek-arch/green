@@ -17724,3 +17724,4 @@
 2026-03-02T01:01:08.645Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up flaky test
 2026-03-02T01:21:39.478Z Michael Jackson <mjackson@users.noreply.github.com> :: polish readme typo
 2026-03-02T02:56:25.298Z Sky Ao <skyao@users.noreply.github.com> :: polish logging
+2026-03-02T03:24:16.494Z Snowflake Labs <opensource@snowflake.com> :: tweak error handling
