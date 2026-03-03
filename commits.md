@@ -8126,3 +8126,4 @@
 2026-03-03T08:34:51.141Z LILYGO <LilyGO@users.noreply.github.com> :: fix flaky test
 2026-03-03T08:35:17.124Z md-5 <md-5@users.noreply.github.com> :: wire up error handling
 2026-03-03T10:16:09.270Z Selenium <SeleniumHQ@users.noreply.github.com> :: add retry logic
+2026-03-03T11:01:07.898Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump edge case in auth
