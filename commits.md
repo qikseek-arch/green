@@ -17762,3 +17762,4 @@
 2026-03-03T12:23:07.651Z 千古壹号 <qianguyihao@users.noreply.github.com> :: refactor readme typo
 2026-03-03T13:19:08.442Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove build script
 2026-03-03T13:29:21.182Z Islem Maboud <ipenywis@users.noreply.github.com> :: bump dependency versions
+2026-03-03T14:09:30.510Z cytopia <cytopia@users.noreply.github.com> :: remove config defaults
