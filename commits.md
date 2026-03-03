@@ -456,3 +456,4 @@
 2026-03-03T12:21:18.365Z Odoo Community Association <OCA@users.noreply.github.com> :: wire up dead code
 2026-03-03T20:17:29.897Z Sylvain Gugger <sgugger@users.noreply.github.com> :: bump readme typo
 2026-03-03T20:48:24.473Z Forrest Knight <ForrestKnight@users.noreply.github.com> :: update null check
+2026-03-03T21:07:49.384Z Donny/강동윤 <kdy1@users.noreply.github.com> :: polish retry logic
