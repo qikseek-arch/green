@@ -17764,3 +17764,4 @@
 2026-03-03T13:29:21.182Z Islem Maboud <ipenywis@users.noreply.github.com> :: bump dependency versions
 2026-03-03T14:09:30.510Z cytopia <cytopia@users.noreply.github.com> :: remove config defaults
 2026-03-03T14:11:54.484Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add the parser
+2026-03-03T14:27:42.963Z Scott Chacon <schacon@users.noreply.github.com> :: tweak dependency versions
