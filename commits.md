@@ -17760,3 +17760,4 @@
 2026-03-03T09:04:07.269Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish error handling
 2026-03-03T10:52:23.539Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
 2026-03-03T12:23:07.651Z 千古壹号 <qianguyihao@users.noreply.github.com> :: refactor readme typo
+2026-03-03T13:19:08.442Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove build script
