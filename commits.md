@@ -17768,3 +17768,4 @@
 2026-03-03T15:11:24.507Z cytopia <cytopia@users.noreply.github.com> :: remove readme typo
 2026-03-03T15:51:42.291Z cytopia <cytopia@users.noreply.github.com> :: update the parser
 2026-03-03T17:16:30.106Z cytopia <cytopia@users.noreply.github.com> :: refactor build script
+2026-03-03T18:23:10.186Z Jabrils <Jabrils@users.noreply.github.com> :: wire up dependency versions
