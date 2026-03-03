@@ -17771,3 +17771,4 @@
 2026-03-03T18:23:10.186Z Jabrils <Jabrils@users.noreply.github.com> :: wire up dependency versions
 2026-03-03T19:24:36.428Z Collabnix <collabnix@users.noreply.github.com> :: clean up cache keys
 2026-03-03T19:32:26.816Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up null check
+2026-03-03T21:21:24.007Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish error handling
