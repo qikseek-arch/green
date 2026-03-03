@@ -8113,3 +8113,4 @@
 2026-03-02T22:33:22.678Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up dead code
 2026-03-03T01:03:36.065Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
 2026-03-03T01:47:17.414Z SouJunior <wouerner@soujunior.tech> :: update error handling
+2026-03-03T03:19:43.258Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish the parser
