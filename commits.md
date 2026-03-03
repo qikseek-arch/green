@@ -8124,3 +8124,4 @@
 2026-03-03T07:33:28.001Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add config defaults
 2026-03-03T08:01:32.073Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update build script
 2026-03-03T08:34:51.141Z LILYGO <LilyGO@users.noreply.github.com> :: fix flaky test
+2026-03-03T08:35:17.124Z md-5 <md-5@users.noreply.github.com> :: wire up error handling
