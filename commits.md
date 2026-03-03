@@ -8132,3 +8132,4 @@
 2026-03-03T14:46:37.196Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove edge case in auth
 2026-03-03T14:48:42.983Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update dependency versions
 2026-03-03T15:57:38.222Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump the CI matrix
+2026-03-03T16:33:06.273Z Aurélien Geron <ageron@users.noreply.github.com> :: bump error handling
