@@ -17773,3 +17773,4 @@
 2026-03-03T19:32:26.816Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up null check
 2026-03-03T21:21:24.007Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish error handling
 2026-03-03T21:32:47.576Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor the CI matrix
+2026-03-03T21:33:38.669Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak null check
