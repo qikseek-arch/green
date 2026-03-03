@@ -87,3 +87,4 @@
 2026-02-27T14:09:13.226Z crimson-llama1337 <crimson-llama1337@users.noreply.github.com> :: bump config defaults
 2026-02-27T16:40:01.189Z solarhamster777 <solarhamster777@users.noreply.github.com> :: clean up retry logic
 2026-03-02T05:17:26.200Z moose_silly42 <moose_silly42@users.noreply.github.com> :: update edge case in auth
+2026-03-03T01:36:12.756Z hollowshrimp72 <hollowshrimp72@users.noreply.github.com> :: polish config defaults
