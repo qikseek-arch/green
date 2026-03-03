@@ -8121,3 +8121,4 @@
 2026-03-03T04:59:03.684Z Odi <mathdroid@users.noreply.github.com> :: update config defaults
 2026-03-03T06:07:43.153Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up config defaults
 2026-03-03T07:29:21.804Z ㅤxander <vampirist@users.noreply.github.com> :: remove null check
+2026-03-03T07:33:28.001Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add config defaults
