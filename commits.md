@@ -17757,3 +17757,4 @@
 2026-03-03T06:58:36.831Z Lipis <lipis@users.noreply.github.com> :: add the CI matrix
 2026-03-03T07:04:31.362Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove build script
 2026-03-03T07:40:56.006Z yakeIore <yakeIore@users.noreply.github.com> :: fix the CI matrix
+2026-03-03T09:04:07.269Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish error handling
