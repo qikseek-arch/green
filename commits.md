@@ -8130,3 +8130,4 @@
 2026-03-03T13:35:52.606Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump dead code
 2026-03-03T14:00:15.429Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up config defaults
 2026-03-03T14:46:37.196Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove edge case in auth
+2026-03-03T14:48:42.983Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update dependency versions
