@@ -17755,3 +17755,4 @@
 2026-03-03T04:50:31.610Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove flaky test
 2026-03-03T05:13:52.818Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: add the parser
 2026-03-03T06:58:36.831Z Lipis <lipis@users.noreply.github.com> :: add the CI matrix
+2026-03-03T07:04:31.362Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove build script
