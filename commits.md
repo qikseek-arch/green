@@ -8140,3 +8140,4 @@
 2026-03-03T22:19:16.455Z BBC <bbc@users.noreply.github.com> :: update cache keys
 2026-03-03T22:49:21.490Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor flaky test
 2026-03-03T23:16:29.091Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: fix edge case in auth
+2026-03-03T23:29:43.886Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up null check
