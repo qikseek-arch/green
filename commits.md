@@ -8119,3 +8119,4 @@
 2026-03-03T04:22:52.878Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak dead code
 2026-03-03T04:28:27.190Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up flaky test
 2026-03-03T04:59:03.684Z Odi <mathdroid@users.noreply.github.com> :: update config defaults
+2026-03-03T06:07:43.153Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up config defaults
