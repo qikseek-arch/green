@@ -17796,3 +17796,4 @@
 2026-03-04T13:19:40.994Z Amnezia VPN <support@amnezia.org> :: remove null check
 2026-03-04T13:35:05.452Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish build script
 2026-03-04T15:12:20.831Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish dead code
+2026-03-04T16:25:01.125Z winterbe <winterbe@users.noreply.github.com> :: remove edge case in auth
