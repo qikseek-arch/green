@@ -8153,3 +8153,4 @@
 2026-03-04T06:17:34.287Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish config defaults
 2026-03-04T07:29:41.316Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add flaky test
 2026-03-04T09:20:14.051Z Getgems <getgems-io@users.noreply.github.com> :: fix dead code
+2026-03-04T09:27:20.998Z markqvist <markqvist@users.noreply.github.com> :: wire up dependency versions
