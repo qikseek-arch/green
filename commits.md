@@ -8161,3 +8161,4 @@
 2026-03-04T14:47:17.984Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak readme typo
 2026-03-04T15:44:14.437Z AI4Bhārat <opensource@ai4bharat.org> :: remove error handling
 2026-03-04T17:31:24.693Z Arduino <arduino@users.noreply.github.com> :: refactor retry logic
+2026-03-04T17:43:02.499Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update the parser
