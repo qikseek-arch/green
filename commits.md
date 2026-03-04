@@ -17786,3 +17786,4 @@
 2026-03-04T05:04:14.837Z John Schulman <joschu@users.noreply.github.com> :: add flaky test
 2026-03-04T07:40:28.558Z Petar Veličković <PetarV-@users.noreply.github.com> :: add the CI matrix
 2026-03-04T07:41:47.980Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor null check
+2026-03-04T08:54:12.583Z winterbe <winterbe@users.noreply.github.com> :: fix null check
