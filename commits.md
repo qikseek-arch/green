@@ -17803,3 +17803,4 @@
 2026-03-04T19:49:19.228Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: polish retry logic
 2026-03-04T19:50:27.504Z Mr L <Soldy@users.noreply.github.com> :: bump the parser
 2026-03-04T20:30:16.290Z Odi <mathdroid@users.noreply.github.com> :: refactor dependency versions
+2026-03-04T20:58:08.470Z John Schulman <joschu@users.noreply.github.com> :: tweak dependency versions
