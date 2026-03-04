@@ -17807,3 +17807,4 @@
 2026-03-04T21:19:24.846Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: remove config defaults
 2026-03-04T22:47:01.667Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up flaky test
 2026-03-04T22:47:14.074Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: tweak flaky test
+2026-03-04T23:38:32.055Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: wire up null check
