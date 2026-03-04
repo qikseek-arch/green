@@ -727,3 +727,4 @@
 2026-02-28T10:25:09.258Z TJ <tj@users.noreply.github.com> :: tweak edge case in auth
 2026-03-02T03:31:12.494Z John Washam <jwasham@users.noreply.github.com> :: bump retry logic
 2026-03-02T13:31:00.848Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: add the parser
+2026-03-04T14:25:07.337Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: clean up retry logic
