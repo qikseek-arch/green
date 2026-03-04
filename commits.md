@@ -8150,3 +8150,4 @@
 2026-03-04T04:43:39.134Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add config defaults
 2026-03-04T05:25:51.686Z Shubs <infosec-au@users.noreply.github.com> :: refactor edge case in auth
 2026-03-04T05:43:29.593Z markqvist <markqvist@users.noreply.github.com> :: refactor the parser
+2026-03-04T06:17:34.287Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish config defaults
