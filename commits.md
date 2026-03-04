@@ -17793,3 +17793,4 @@
 2026-03-04T12:16:00.373Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up config defaults
 2026-03-04T12:54:12.788Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak dependency versions
 2026-03-04T13:17:20.208Z Tavis Ormandy <taviso@users.noreply.github.com> :: add logging
+2026-03-04T13:19:40.994Z Amnezia VPN <support@amnezia.org> :: remove null check
