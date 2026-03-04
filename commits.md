@@ -17789,3 +17789,4 @@
 2026-03-04T08:54:12.583Z winterbe <winterbe@users.noreply.github.com> :: fix null check
 2026-03-04T10:14:56.246Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: tweak the parser
 2026-03-04T10:32:09.547Z OpenBSD <openbsd@users.noreply.github.com> :: fix retry logic
+2026-03-04T12:11:07.085Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak build script
