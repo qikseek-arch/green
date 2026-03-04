@@ -8156,3 +8156,4 @@
 2026-03-04T09:27:20.998Z markqvist <markqvist@users.noreply.github.com> :: wire up dependency versions
 2026-03-04T10:42:21.707Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove null check
 2026-03-04T11:08:36.680Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up readme typo
+2026-03-04T11:51:15.538Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak readme typo
