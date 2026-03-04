@@ -8147,3 +8147,4 @@
 2026-03-04T02:55:53.446Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove the parser
 2026-03-04T03:09:51.016Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up config defaults
 2026-03-04T03:48:33.298Z vb <Vaibhavs10@users.noreply.github.com> :: refactor dead code
+2026-03-04T04:43:39.134Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add config defaults
