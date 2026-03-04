@@ -8164,3 +8164,4 @@
 2026-03-04T17:43:02.499Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update the parser
 2026-03-04T18:23:36.210Z Almas Baim <AlmasB@users.noreply.github.com> :: update null check
 2026-03-04T19:21:26.573Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish logging
+2026-03-04T21:55:33.314Z ㅤxander <vampirist@users.noreply.github.com> :: wire up edge case in auth
