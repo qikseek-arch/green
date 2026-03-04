@@ -17799,3 +17799,4 @@
 2026-03-04T16:25:01.125Z winterbe <winterbe@users.noreply.github.com> :: remove edge case in auth
 2026-03-04T17:29:07.718Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove flaky test
 2026-03-04T18:56:59.422Z Brian Holt <btholt@users.noreply.github.com> :: add the parser
+2026-03-04T19:47:43.482Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish config defaults
