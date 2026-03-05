@@ -17819,3 +17819,4 @@
 2026-03-05T06:19:42.655Z Alex Teichman <teichman@users.noreply.github.com> :: refactor readme typo
 2026-03-05T11:06:25.788Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add edge case in auth
 2026-03-05T11:11:34.664Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak edge case in auth
+2026-03-05T12:49:38.780Z Casey Muratori <cmuratori@users.noreply.github.com> :: refactor logging
