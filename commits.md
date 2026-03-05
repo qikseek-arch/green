@@ -8166,3 +8166,4 @@
 2026-03-04T19:21:26.573Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish logging
 2026-03-04T21:55:33.314Z ㅤxander <vampirist@users.noreply.github.com> :: wire up edge case in auth
 2026-03-04T22:19:57.204Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up dead code
+2026-03-05T02:04:01.182Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump error handling
