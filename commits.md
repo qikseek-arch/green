@@ -8179,3 +8179,4 @@
 2026-03-05T12:42:53.962Z Shubs <infosec-au@users.noreply.github.com> :: tweak cache keys
 2026-03-05T14:15:47.096Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add retry logic
 2026-03-05T14:19:12.922Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump retry logic
+2026-03-05T15:57:41.277Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the CI matrix
