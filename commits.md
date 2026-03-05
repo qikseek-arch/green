@@ -8167,3 +8167,4 @@
 2026-03-04T21:55:33.314Z ㅤxander <vampirist@users.noreply.github.com> :: wire up edge case in auth
 2026-03-04T22:19:57.204Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up dead code
 2026-03-05T02:04:01.182Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump error handling
+2026-03-05T04:19:12.765Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor null check
