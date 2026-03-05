@@ -462,3 +462,4 @@
 2026-03-04T13:19:02.511Z Shaian <zshaian@users.noreply.github.com> :: bump readme typo
 2026-03-04T19:24:32.288Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak flaky test
 2026-03-04T20:32:37.122Z SomeBody <AbSomeone@users.noreply.github.com> :: wire up config defaults
+2026-03-05T03:18:00.312Z Odoo Community Association <OCA@users.noreply.github.com> :: fix flaky test
