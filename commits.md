@@ -17825,3 +17825,4 @@
 2026-03-05T17:39:33.938Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump build script
 2026-03-05T18:03:15.689Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: refactor cache keys
 2026-03-05T18:18:40.866Z winterbe <winterbe@users.noreply.github.com> :: bump dependency versions
+2026-03-05T19:54:06.530Z Mr L <Soldy@users.noreply.github.com> :: update the CI matrix
