@@ -8189,3 +8189,4 @@
 2026-03-05T19:27:36.375Z Selenium <SeleniumHQ@users.noreply.github.com> :: add dependency versions
 2026-03-05T19:55:48.693Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
 2026-03-05T20:41:20.191Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak error handling
+2026-03-05T23:29:17.745Z Claude <claude@users.noreply.github.com> :: clean up dependency versions
