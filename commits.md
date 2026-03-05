@@ -468,3 +468,4 @@
 2026-03-05T12:15:56.098Z Changkun Ou <changkun@users.noreply.github.com> :: fix build script
 2026-03-05T16:11:11.378Z scikit-learn <scikit-learn@users.noreply.github.com> :: clean up retry logic
 2026-03-05T18:51:31.624Z Yiming Cui <ymcui@users.noreply.github.com> :: refactor dead code
+2026-03-05T20:03:05.226Z Matt Pocock <mattpocock@users.noreply.github.com> :: update dependency versions
