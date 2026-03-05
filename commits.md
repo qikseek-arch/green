@@ -466,3 +466,4 @@
 2026-03-05T03:52:05.905Z scikit-learn <scikit-learn@users.noreply.github.com> :: bump cache keys
 2026-03-05T06:42:25.752Z Hsiaoming Yang <lepture@users.noreply.github.com> :: update the parser
 2026-03-05T12:15:56.098Z Changkun Ou <changkun@users.noreply.github.com> :: fix build script
+2026-03-05T16:11:11.378Z scikit-learn <scikit-learn@users.noreply.github.com> :: clean up retry logic
