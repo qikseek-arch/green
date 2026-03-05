@@ -17821,3 +17821,4 @@
 2026-03-05T11:11:34.664Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak edge case in auth
 2026-03-05T12:49:38.780Z Casey Muratori <cmuratori@users.noreply.github.com> :: refactor logging
 2026-03-05T13:58:20.997Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove build script
+2026-03-05T17:28:29.004Z SurrealDB <surrealdb@users.noreply.github.com> :: add the CI matrix
