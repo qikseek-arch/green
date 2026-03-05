@@ -8175,3 +8175,4 @@
 2026-03-05T09:33:31.669Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add config defaults
 2026-03-05T09:57:25.451Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump dead code
 2026-03-05T10:56:13.136Z Adam Bell <b3ll@users.noreply.github.com> :: clean up cache keys
+2026-03-05T12:04:51.137Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix logging
