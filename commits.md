@@ -17814,3 +17814,4 @@
 2026-03-05T03:20:58.834Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: add the parser
 2026-03-05T03:23:18.117Z Boshen <Boshen@users.noreply.github.com> :: bump edge case in auth
 2026-03-05T03:51:51.217Z John Schulman <joschu@users.noreply.github.com> :: update logging
+2026-03-05T04:40:47.578Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak dependency versions
