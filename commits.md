@@ -8177,3 +8177,4 @@
 2026-03-05T10:56:13.136Z Adam Bell <b3ll@users.noreply.github.com> :: clean up cache keys
 2026-03-05T12:04:51.137Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix logging
 2026-03-05T12:42:53.962Z Shubs <infosec-au@users.noreply.github.com> :: tweak cache keys
+2026-03-05T14:15:47.096Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add retry logic
