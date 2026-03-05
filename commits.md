@@ -8182,3 +8182,4 @@
 2026-03-05T15:57:41.277Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the CI matrix
 2026-03-05T16:11:54.082Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add config defaults
 2026-03-05T16:18:05.802Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up null check
+2026-03-05T16:29:15.009Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up readme typo
