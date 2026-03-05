@@ -17824,3 +17824,4 @@
 2026-03-05T17:28:29.004Z SurrealDB <surrealdb@users.noreply.github.com> :: add the CI matrix
 2026-03-05T17:39:33.938Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump build script
 2026-03-05T18:03:15.689Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: refactor cache keys
+2026-03-05T18:18:40.866Z winterbe <winterbe@users.noreply.github.com> :: bump dependency versions
