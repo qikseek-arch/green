@@ -443,3 +443,4 @@
 2026-02-28T04:24:15.327Z Jake Wharton <JakeWharton@users.noreply.github.com> :: wire up the CI matrix
 2026-03-02T11:46:31.623Z sillycomet896 <sillycomet896@fake.invalid> :: refactor edge case in auth
 2026-03-04T02:38:37.673Z electricwizard491 <electricwizard491@fake.invalid> :: update dependency versions
+2026-03-05T20:13:47.896Z cosmickernel495 <cosmickernel495@fake.invalid> :: tweak the CI matrix
