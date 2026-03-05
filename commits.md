@@ -17827,3 +17827,4 @@
 2026-03-05T18:18:40.866Z winterbe <winterbe@users.noreply.github.com> :: bump dependency versions
 2026-03-05T19:54:06.530Z Mr L <Soldy@users.noreply.github.com> :: update the CI matrix
 2026-03-05T20:25:25.825Z Jabrils <Jabrils@users.noreply.github.com> :: wire up the CI matrix
+2026-03-05T21:31:44.327Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump build script
