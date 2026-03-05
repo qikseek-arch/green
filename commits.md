@@ -8172,3 +8172,4 @@
 2026-03-05T05:11:50.823Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump config defaults
 2026-03-05T06:07:16.163Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump retry logic
 2026-03-05T08:19:31.725Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update retry logic
+2026-03-05T09:33:31.669Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add config defaults
