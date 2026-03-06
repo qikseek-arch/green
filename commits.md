@@ -8191,3 +8191,4 @@
 2026-03-05T20:41:20.191Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak error handling
 2026-03-05T23:29:17.745Z Claude <claude@users.noreply.github.com> :: clean up dependency versions
 2026-03-06T01:17:03.618Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor retry logic
+2026-03-06T01:27:59.896Z Ryan Bigg <radar@users.noreply.github.com> :: fix edge case in auth
