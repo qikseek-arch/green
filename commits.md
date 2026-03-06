@@ -17835,3 +17835,4 @@
 2026-03-06T03:41:35.226Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: add edge case in auth
 2026-03-06T03:51:59.447Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update error handling
 2026-03-06T04:17:52.220Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix the CI matrix
+2026-03-06T05:46:32.128Z Marcel Pociot <mpociot@users.noreply.github.com> :: add build script
