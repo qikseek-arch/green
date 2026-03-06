@@ -8203,3 +8203,4 @@
 2026-03-06T07:06:11.132Z ring04h <ring04h@users.noreply.github.com> :: tweak the CI matrix
 2026-03-06T07:37:12.360Z Taiko Foundation <info@taiko.xyz> :: tweak the CI matrix
 2026-03-06T07:58:40.759Z Ryan Bigg <radar@users.noreply.github.com> :: polish the CI matrix
+2026-03-06T07:58:46.960Z Adam Bell <b3ll@users.noreply.github.com> :: polish logging
