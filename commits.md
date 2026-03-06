@@ -8193,3 +8193,4 @@
 2026-03-06T01:17:03.618Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor retry logic
 2026-03-06T01:27:59.896Z Ryan Bigg <radar@users.noreply.github.com> :: fix edge case in auth
 2026-03-06T02:00:38.430Z Keith Smiley <keith@users.noreply.github.com> :: tweak error handling
+2026-03-06T02:13:10.154Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish build script
