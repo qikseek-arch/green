@@ -8205,3 +8205,4 @@
 2026-03-06T07:58:40.759Z Ryan Bigg <radar@users.noreply.github.com> :: polish the CI matrix
 2026-03-06T07:58:46.960Z Adam Bell <b3ll@users.noreply.github.com> :: polish logging
 2026-03-06T10:23:06.896Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up the parser
+2026-03-06T10:53:19.643Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add the parser
