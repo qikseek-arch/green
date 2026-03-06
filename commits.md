@@ -471,3 +471,4 @@
 2026-03-05T20:03:05.226Z Matt Pocock <mattpocock@users.noreply.github.com> :: update dependency versions
 2026-03-06T03:05:11.315Z 4Geeks Academy <info@4geeksacademy.com> :: bump the CI matrix
 2026-03-06T03:39:58.142Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: refactor config defaults
+2026-03-06T08:08:16.501Z vn.py <vnpy@users.noreply.github.com> :: bump retry logic
