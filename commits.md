@@ -8208,3 +8208,4 @@
 2026-03-06T10:53:19.643Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add the parser
 2026-03-06T11:25:48.379Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up readme typo
 2026-03-06T11:50:36.465Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: fix dependency versions
+2026-03-06T11:55:05.668Z Adam Wathan <adamwathan@users.noreply.github.com> :: fix edge case in auth
