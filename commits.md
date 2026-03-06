@@ -8212,3 +8212,4 @@
 2026-03-06T14:37:48.785Z OpenJS Foundation <info@openjsf.org> :: polish cache keys
 2026-03-06T15:01:50.263Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up flaky test
 2026-03-06T15:27:46.052Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump dependency versions
+2026-03-06T16:13:24.599Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor null check
