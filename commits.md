@@ -17848,3 +17848,4 @@
 2026-03-06T15:25:01.206Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak cache keys
 2026-03-06T17:05:33.420Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: tweak config defaults
 2026-03-06T17:29:49.059Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up build script
+2026-03-06T18:01:19.655Z Jordan Harband <ljharb@users.noreply.github.com> :: refactor dead code
