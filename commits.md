@@ -8220,3 +8220,4 @@
 2026-03-06T18:22:54.522Z owenzhang <owenzhang@users.noreply.github.com> :: refactor retry logic
 2026-03-06T19:19:53.933Z Rei <chloerei@users.noreply.github.com> :: bump the parser
 2026-03-06T22:04:14.391Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: remove build script
+2026-03-06T22:06:14.096Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix build script
