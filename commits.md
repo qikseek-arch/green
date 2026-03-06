@@ -17837,3 +17837,4 @@
 2026-03-06T04:17:52.220Z Islem Maboud <ipenywis@users.noreply.github.com> :: fix the CI matrix
 2026-03-06T05:46:32.128Z Marcel Pociot <mpociot@users.noreply.github.com> :: add build script
 2026-03-06T05:58:45.347Z SurrealDB <surrealdb@users.noreply.github.com> :: fix build script
+2026-03-06T06:14:13.561Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump null check
