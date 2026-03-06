@@ -17839,3 +17839,4 @@
 2026-03-06T05:58:45.347Z SurrealDB <surrealdb@users.noreply.github.com> :: fix build script
 2026-03-06T06:14:13.561Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump null check
 2026-03-06T07:30:24.313Z Snowflake Labs <opensource@snowflake.com> :: bump readme typo
+2026-03-06T11:15:01.352Z Aman Kumar <Amanc77@users.noreply.github.com> :: polish retry logic
