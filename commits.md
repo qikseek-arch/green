@@ -8245,3 +8245,4 @@
 2026-03-07T16:50:20.383Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
 2026-03-07T18:25:10.953Z qiye <qiyeboy@users.noreply.github.com> :: add the CI matrix
 2026-03-07T18:48:58.174Z Ben Hamner <benhamner@users.noreply.github.com> :: remove dead code
+2026-03-07T20:49:15.887Z AI4Bhārat <opensource@ai4bharat.org> :: fix readme typo
