@@ -17855,3 +17855,4 @@
 2026-03-06T21:51:51.137Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up dependency versions
 2026-03-06T22:36:52.790Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor the CI matrix
 2026-03-06T23:32:32.019Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix edge case in auth
+2026-03-07T02:37:05.711Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up config defaults
