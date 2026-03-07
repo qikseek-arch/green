@@ -8232,3 +8232,4 @@
 2026-03-07T06:25:46.894Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add dependency versions
 2026-03-07T06:29:45.411Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up the parser
 2026-03-07T06:35:19.069Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor edge case in auth
+2026-03-07T06:47:51.742Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix the parser
