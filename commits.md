@@ -476,3 +476,4 @@
 2026-03-07T04:53:11.706Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: wire up the CI matrix
 2026-03-07T05:55:57.553Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: remove the parser
 2026-03-07T06:52:34.090Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak error handling
+2026-03-07T22:44:00.926Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up readme typo
