@@ -17856,3 +17856,4 @@
 2026-03-06T22:36:52.790Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor the CI matrix
 2026-03-06T23:32:32.019Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix edge case in auth
 2026-03-07T02:37:05.711Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up config defaults
+2026-03-07T03:58:50.330Z Elliott Minns <elliottminns@users.noreply.github.com> :: update dead code
