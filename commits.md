@@ -473,3 +473,4 @@
 2026-03-06T03:39:58.142Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: refactor config defaults
 2026-03-06T08:08:16.501Z vn.py <vnpy@users.noreply.github.com> :: bump retry logic
 2026-03-06T19:48:10.978Z Charles Severance <csev@users.noreply.github.com> :: remove config defaults
+2026-03-07T04:53:11.706Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: wire up the CI matrix
