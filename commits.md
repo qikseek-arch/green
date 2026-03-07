@@ -8236,3 +8236,4 @@
 2026-03-07T07:06:24.322Z Keith Smiley <keith@users.noreply.github.com> :: update retry logic
 2026-03-07T07:41:27.192Z owenzhang <owenzhang@users.noreply.github.com> :: fix retry logic
 2026-03-07T07:49:25.387Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor cache keys
+2026-03-07T08:05:37.184Z Keith Smiley <keith@users.noreply.github.com> :: add null check
