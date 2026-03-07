@@ -733,3 +733,4 @@
 2026-03-05T04:12:06.245Z Adrian Hajdin - JS Mastery <adrianhajdin@users.noreply.github.com> :: clean up null check
 2026-03-06T09:57:55.073Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: bump the parser
 2026-03-06T17:21:34.114Z Kirat <hkirat@users.noreply.github.com> :: fix retry logic
+2026-03-07T15:46:04.525Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: wire up dead code
