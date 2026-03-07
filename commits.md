@@ -8243,3 +8243,4 @@
 2026-03-07T15:18:15.009Z heyli <lcxfs1991@users.noreply.github.com> :: bump dependency versions
 2026-03-07T16:12:45.823Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump the parser
 2026-03-07T16:50:20.383Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
+2026-03-07T18:25:10.953Z qiye <qiyeboy@users.noreply.github.com> :: add the CI matrix
