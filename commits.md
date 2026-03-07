@@ -17871,3 +17871,4 @@
 2026-03-07T11:25:31.286Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish cache keys
 2026-03-07T12:33:12.184Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: bump the CI matrix
 2026-03-07T15:08:15.562Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up the parser
+2026-03-07T16:43:04.259Z Petar Veličković <PetarV-@users.noreply.github.com> :: add the parser
