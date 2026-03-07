@@ -17876,3 +17876,4 @@
 2026-03-07T22:43:38.674Z Tom Dale <tomdale@users.noreply.github.com> :: add null check
 2026-03-07T22:58:02.412Z Prometheus <prometheus@users.noreply.github.com> :: tweak flaky test
 2026-03-07T23:32:16.011Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: add null check
+2026-03-07T23:43:34.871Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump dependency versions
