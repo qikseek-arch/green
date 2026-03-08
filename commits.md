@@ -17899,3 +17899,4 @@
 2026-03-08T14:35:47.726Z LocalSend <localsend@users.noreply.github.com> :: clean up cache keys
 2026-03-08T14:56:10.353Z Alex Teichman <teichman@users.noreply.github.com> :: update config defaults
 2026-03-08T17:13:27.578Z Damian Gryski <dgryski@users.noreply.github.com> :: bump logging
+2026-03-08T18:04:25.792Z Andreas Kling <awesomekling@users.noreply.github.com> :: add config defaults
