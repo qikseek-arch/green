@@ -8269,3 +8269,4 @@
 2026-03-08T16:00:30.954Z owenzhang <owenzhang@users.noreply.github.com> :: clean up retry logic
 2026-03-08T16:39:44.233Z Aurélien Geron <ageron@users.noreply.github.com> :: bump cache keys
 2026-03-08T17:12:41.763Z Taiko Foundation <info@taiko.xyz> :: update the parser
+2026-03-08T19:17:31.772Z markqvist <markqvist@users.noreply.github.com> :: clean up error handling
