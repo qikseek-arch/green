@@ -8261,3 +8261,4 @@
 2026-03-08T08:48:44.334Z BBC <bbc@users.noreply.github.com> :: bump null check
 2026-03-08T09:17:27.325Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add logging
 2026-03-08T09:47:03.168Z Claude <claude@users.noreply.github.com> :: remove config defaults
+2026-03-08T10:30:36.887Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up null check
