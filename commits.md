@@ -8265,3 +8265,4 @@
 2026-03-08T11:35:12.159Z ring04h <ring04h@users.noreply.github.com> :: fix config defaults
 2026-03-08T12:35:30.256Z WebRTC <discuss-webrtc@googlegroups.com> :: tweak logging
 2026-03-08T13:54:47.608Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: bump edge case in auth
+2026-03-08T15:06:49.629Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up dead code
