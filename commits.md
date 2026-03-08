@@ -17897,3 +17897,4 @@
 2026-03-08T12:21:56.721Z DefTruth <DefTruth@users.noreply.github.com> :: update logging
 2026-03-08T12:24:42.486Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak build script
 2026-03-08T14:35:47.726Z LocalSend <localsend@users.noreply.github.com> :: clean up cache keys
+2026-03-08T14:56:10.353Z Alex Teichman <teichman@users.noreply.github.com> :: update config defaults
