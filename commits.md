@@ -477,3 +477,4 @@
 2026-03-07T05:55:57.553Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: remove the parser
 2026-03-07T06:52:34.090Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak error handling
 2026-03-07T22:44:00.926Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up readme typo
+2026-03-08T17:42:45.075Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish the parser
