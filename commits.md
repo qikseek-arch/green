@@ -8252,3 +8252,4 @@
 2026-03-07T23:38:08.211Z First Contributions <firstcontributions@gmail.com> :: refactor null check
 2026-03-07T23:53:08.881Z Manu Arora <manuarora700@users.noreply.github.com> :: add build script
 2026-03-08T00:48:28.146Z Taiko Foundation <info@taiko.xyz> :: bump null check
+2026-03-08T01:13:06.137Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add null check
