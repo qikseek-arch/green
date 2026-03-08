@@ -17886,3 +17886,4 @@
 2026-03-08T04:26:12.835Z winterbe <winterbe@users.noreply.github.com> :: remove logging
 2026-03-08T05:11:55.283Z Tom Dale <tomdale@users.noreply.github.com> :: remove the CI matrix
 2026-03-08T06:03:36.713Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak config defaults
+2026-03-08T07:29:11.347Z LMSYS <lm-sys@users.noreply.github.com> :: clean up config defaults
