@@ -17888,3 +17888,4 @@
 2026-03-08T06:03:36.713Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak config defaults
 2026-03-08T07:29:11.347Z LMSYS <lm-sys@users.noreply.github.com> :: clean up config defaults
 2026-03-08T08:27:37.054Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: tweak null check
+2026-03-08T08:55:19.900Z Lovell Fuller <lovell@users.noreply.github.com> :: add build script
