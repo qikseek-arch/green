@@ -17884,3 +17884,4 @@
 2026-03-08T02:05:14.965Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump dead code
 2026-03-08T04:20:57.770Z Yiming Cui <ymcui@users.noreply.github.com> :: update retry logic
 2026-03-08T04:26:12.835Z winterbe <winterbe@users.noreply.github.com> :: remove logging
+2026-03-08T05:11:55.283Z Tom Dale <tomdale@users.noreply.github.com> :: remove the CI matrix
