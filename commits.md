@@ -17880,3 +17880,4 @@
 2026-03-07T23:55:37.007Z Mr L <Soldy@users.noreply.github.com> :: bump edge case in auth
 2026-03-08T00:41:54.047Z Prometheus <prometheus@users.noreply.github.com> :: add the CI matrix
 2026-03-08T01:40:29.745Z cytopia <cytopia@users.noreply.github.com> :: bump cache keys
+2026-03-08T01:54:42.641Z John Schulman <joschu@users.noreply.github.com> :: add error handling
