@@ -8297,3 +8297,4 @@
 2026-03-09T14:48:19.901Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: update the CI matrix
 2026-03-09T16:25:18.459Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak cache keys
 2026-03-09T16:36:24.130Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up retry logic
+2026-03-09T16:38:00.296Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the CI matrix
