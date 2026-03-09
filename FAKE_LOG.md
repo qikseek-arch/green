@@ -243,3 +243,4 @@
 2026-03-01T08:05:35.237Z cipher <cipher@fake.invalid> :: fix flaky test
 2026-03-02T01:54:23.551Z null <null@fake.invalid> :: remove retry logic
 2026-03-05T02:04:12.832Z juno <juno@fake.invalid> :: polish error handling
+2026-03-09T21:32:04.087Z ezra <ezra@fake.invalid> :: fix readme typo
