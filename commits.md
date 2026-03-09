@@ -17919,3 +17919,4 @@
 2026-03-09T09:39:22.181Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump cache keys
 2026-03-09T10:36:39.984Z Amnezia VPN <support@amnezia.org> :: tweak build script
 2026-03-09T11:46:41.617Z Jordan Harband <ljharb@users.noreply.github.com> :: add build script
+2026-03-09T13:14:28.452Z Collabnix <collabnix@users.noreply.github.com> :: fix readme typo
