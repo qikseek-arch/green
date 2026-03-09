@@ -8287,3 +8287,4 @@
 2026-03-09T08:53:52.741Z qiye <qiyeboy@users.noreply.github.com> :: remove readme typo
 2026-03-09T09:48:53.232Z Almas Baim <AlmasB@users.noreply.github.com> :: polish logging
 2026-03-09T10:27:12.419Z Getgems <getgems-io@users.noreply.github.com> :: update build script
+2026-03-09T11:07:48.193Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up readme typo
