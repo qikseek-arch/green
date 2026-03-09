@@ -8284,3 +8284,4 @@
 2026-03-09T07:39:53.892Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up config defaults
 2026-03-09T07:59:05.166Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix retry logic
 2026-03-09T08:00:45.102Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak flaky test
+2026-03-09T08:53:52.741Z qiye <qiyeboy@users.noreply.github.com> :: remove readme typo
