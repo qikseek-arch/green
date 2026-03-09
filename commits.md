@@ -8303,3 +8303,4 @@
 2026-03-09T19:05:14.236Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak retry logic
 2026-03-09T20:20:04.113Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up dependency versions
 2026-03-09T20:28:17.318Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove flaky test
+2026-03-09T20:54:48.400Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove error handling
