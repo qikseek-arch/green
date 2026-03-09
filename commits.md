@@ -8291,3 +8291,4 @@
 2026-03-09T11:37:06.631Z Taiko Foundation <info@taiko.xyz> :: bump error handling
 2026-03-09T11:49:42.798Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak logging
 2026-03-09T11:57:29.378Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove dead code
+2026-03-09T13:03:08.794Z owenzhang <owenzhang@users.noreply.github.com> :: clean up error handling
