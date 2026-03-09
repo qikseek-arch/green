@@ -17921,3 +17921,4 @@
 2026-03-09T11:46:41.617Z Jordan Harband <ljharb@users.noreply.github.com> :: add build script
 2026-03-09T13:14:28.452Z Collabnix <collabnix@users.noreply.github.com> :: fix readme typo
 2026-03-09T13:46:18.900Z Snowflake Labs <opensource@snowflake.com> :: clean up error handling
+2026-03-09T16:37:47.374Z Dove Letter <skydoves2@gmail.com> :: remove the CI matrix
