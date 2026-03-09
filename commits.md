@@ -17915,3 +17915,4 @@
 2026-03-09T05:41:05.027Z OpenBMB <openbmb@gmail.com> :: refactor readme typo
 2026-03-09T07:16:07.866Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: tweak logging
 2026-03-09T08:01:20.342Z Mr L <Soldy@users.noreply.github.com> :: bump readme typo
+2026-03-09T08:23:29.913Z Tavis Ormandy <taviso@users.noreply.github.com> :: update config defaults
