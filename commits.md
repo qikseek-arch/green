@@ -17908,3 +17908,4 @@
 2026-03-09T01:13:12.636Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump edge case in auth
 2026-03-09T01:43:30.341Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak the CI matrix
 2026-03-09T01:57:30.339Z Brian Holt <btholt@users.noreply.github.com> :: polish error handling
+2026-03-09T03:08:06.757Z John Schulman <joschu@users.noreply.github.com> :: add config defaults
