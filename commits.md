@@ -17917,3 +17917,4 @@
 2026-03-09T08:01:20.342Z Mr L <Soldy@users.noreply.github.com> :: bump readme typo
 2026-03-09T08:23:29.913Z Tavis Ormandy <taviso@users.noreply.github.com> :: update config defaults
 2026-03-09T09:39:22.181Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump cache keys
+2026-03-09T10:36:39.984Z Amnezia VPN <support@amnezia.org> :: tweak build script
