@@ -17904,3 +17904,4 @@
 2026-03-08T22:52:45.274Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish dead code
 2026-03-09T00:15:12.754Z LocalSend <localsend@users.noreply.github.com> :: update dead code
 2026-03-09T00:24:20.075Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: refactor error handling
+2026-03-09T01:01:44.887Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove the parser
