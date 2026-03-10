@@ -479,3 +479,4 @@
 2026-03-07T22:44:00.926Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up readme typo
 2026-03-08T17:42:45.075Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish the parser
 2026-03-09T07:08:23.457Z 左程云 <algorithmzuo@users.noreply.github.com> :: fix readme typo
+2026-03-10T00:38:26.080Z Leon AI <louis@getleon.ai> :: refactor dependency versions
