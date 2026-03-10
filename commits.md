@@ -8339,3 +8339,4 @@
 2026-03-10T17:22:33.298Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
 2026-03-10T17:26:47.256Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump error handling
 2026-03-10T18:15:21.908Z Taiko Foundation <info@taiko.xyz> :: wire up edge case in auth
+2026-03-10T18:41:59.819Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
