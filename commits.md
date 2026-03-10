@@ -8320,3 +8320,4 @@
 2026-03-10T06:29:09.328Z ㅤxander <vampirist@users.noreply.github.com> :: polish edge case in auth
 2026-03-10T07:28:33.929Z Adam Łucek <ALucek@users.noreply.github.com> :: add dead code
 2026-03-10T07:53:11.314Z Bytedance Inc. <bytedance@users.noreply.github.com> :: wire up the CI matrix
+2026-03-10T09:26:38.940Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove the parser
