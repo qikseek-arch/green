@@ -17942,3 +17942,4 @@
 2026-03-10T08:39:11.395Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor error handling
 2026-03-10T09:34:47.462Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove null check
 2026-03-10T09:42:47.018Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix the CI matrix
+2026-03-10T10:05:58.690Z cytopia <cytopia@users.noreply.github.com> :: add dependency versions
