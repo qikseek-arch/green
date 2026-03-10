@@ -8331,3 +8331,4 @@
 2026-03-10T14:30:17.053Z markqvist <markqvist@users.noreply.github.com> :: fix cache keys
 2026-03-10T14:59:21.701Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor dependency versions
 2026-03-10T15:19:50.265Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump dependency versions
+2026-03-10T15:23:32.169Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update edge case in auth
