@@ -17940,3 +17940,4 @@
 2026-03-10T07:21:41.986Z Collabnix <collabnix@users.noreply.github.com> :: clean up retry logic
 2026-03-10T07:23:23.345Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add error handling
 2026-03-10T08:39:11.395Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor error handling
+2026-03-10T09:34:47.462Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove null check
