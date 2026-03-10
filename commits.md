@@ -8312,3 +8312,4 @@
 2026-03-09T22:38:37.060Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add edge case in auth
 2026-03-09T22:44:36.842Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix retry logic
 2026-03-09T23:56:01.135Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
+2026-03-10T00:26:23.486Z qiye <qiyeboy@users.noreply.github.com> :: fix logging
