@@ -8333,3 +8333,4 @@
 2026-03-10T15:19:50.265Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump dependency versions
 2026-03-10T15:23:32.169Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update edge case in auth
 2026-03-10T15:47:41.179Z BBC <bbc@users.noreply.github.com> :: remove edge case in auth
+2026-03-10T16:50:08.616Z Barret李靖 <barretlee@users.noreply.github.com> :: fix the parser
