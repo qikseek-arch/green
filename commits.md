@@ -17935,3 +17935,4 @@
 2026-03-10T00:10:33.854Z Scott Chacon <schacon@users.noreply.github.com> :: wire up null check
 2026-03-10T03:14:47.901Z Alex Teichman <teichman@users.noreply.github.com> :: tweak config defaults
 2026-03-10T04:28:10.644Z OpenBMB <openbmb@gmail.com> :: refactor config defaults
+2026-03-10T04:32:07.283Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up error handling
