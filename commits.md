@@ -17932,3 +17932,4 @@
 2026-03-09T21:19:27.976Z cytopia <cytopia@users.noreply.github.com> :: remove dead code
 2026-03-09T21:33:32.085Z Boshen <Boshen@users.noreply.github.com> :: tweak flaky test
 2026-03-09T22:49:16.522Z Brian Holt <btholt@users.noreply.github.com> :: tweak readme typo
+2026-03-10T00:10:33.854Z Scott Chacon <schacon@users.noreply.github.com> :: wire up null check
