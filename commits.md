@@ -8317,3 +8317,4 @@
 2026-03-10T03:27:23.124Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the CI matrix
 2026-03-10T04:37:33.923Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove dependency versions
 2026-03-10T05:11:05.975Z ring04h <ring04h@users.noreply.github.com> :: polish config defaults
+2026-03-10T06:29:09.328Z ㅤxander <vampirist@users.noreply.github.com> :: polish edge case in auth
