@@ -17944,3 +17944,4 @@
 2026-03-10T09:42:47.018Z Cezanne Camacho <cezannec@users.noreply.github.com> :: fix the CI matrix
 2026-03-10T10:05:58.690Z cytopia <cytopia@users.noreply.github.com> :: add dependency versions
 2026-03-10T14:07:03.895Z imput <hello@imput.net> :: refactor dead code
+2026-03-10T14:26:14.251Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak readme typo
