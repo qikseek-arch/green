@@ -8340,3 +8340,4 @@
 2026-03-10T17:26:47.256Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump error handling
 2026-03-10T18:15:21.908Z Taiko Foundation <info@taiko.xyz> :: wire up edge case in auth
 2026-03-10T18:41:59.819Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
+2026-03-10T20:25:59.689Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove readme typo
