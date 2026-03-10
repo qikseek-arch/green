@@ -8336,3 +8336,4 @@
 2026-03-10T16:50:08.616Z Barret李靖 <barretlee@users.noreply.github.com> :: fix the parser
 2026-03-10T17:12:48.415Z Taiko Foundation <info@taiko.xyz> :: tweak error handling
 2026-03-10T17:13:12.343Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor flaky test
+2026-03-10T17:22:33.298Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
