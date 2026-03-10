@@ -8334,3 +8334,4 @@
 2026-03-10T15:23:32.169Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update edge case in auth
 2026-03-10T15:47:41.179Z BBC <bbc@users.noreply.github.com> :: remove edge case in auth
 2026-03-10T16:50:08.616Z Barret李靖 <barretlee@users.noreply.github.com> :: fix the parser
+2026-03-10T17:12:48.415Z Taiko Foundation <info@taiko.xyz> :: tweak error handling
