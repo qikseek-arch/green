@@ -8314,3 +8314,4 @@
 2026-03-09T23:56:01.135Z Keith Smiley <keith@users.noreply.github.com> :: add config defaults
 2026-03-10T00:26:23.486Z qiye <qiyeboy@users.noreply.github.com> :: fix logging
 2026-03-10T01:23:53.933Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove the parser
+2026-03-10T03:27:23.124Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the CI matrix
