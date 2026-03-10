@@ -8325,3 +8325,4 @@
 2026-03-10T09:43:31.485Z AI4Bhārat <opensource@ai4bharat.org> :: clean up retry logic
 2026-03-10T09:51:17.238Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish error handling
 2026-03-10T10:51:56.373Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up null check
+2026-03-10T11:29:55.070Z AI4Bhārat <opensource@ai4bharat.org> :: clean up null check
