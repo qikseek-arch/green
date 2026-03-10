@@ -8323,3 +8323,4 @@
 2026-03-10T09:26:38.940Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove the parser
 2026-03-10T09:33:56.968Z Arduino <arduino@users.noreply.github.com> :: polish cache keys
 2026-03-10T09:43:31.485Z AI4Bhārat <opensource@ai4bharat.org> :: clean up retry logic
+2026-03-10T09:51:17.238Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish error handling
