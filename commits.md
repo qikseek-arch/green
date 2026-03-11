@@ -17961,3 +17961,4 @@
 2026-03-11T08:29:45.473Z Scott Chacon <schacon@users.noreply.github.com> :: fix cache keys
 2026-03-11T09:01:35.685Z LMSYS <lm-sys@users.noreply.github.com> :: tweak edge case in auth
 2026-03-11T09:16:20.647Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish build script
+2026-03-11T09:39:00.276Z Michael Jackson <mjackson@users.noreply.github.com> :: remove readme typo
