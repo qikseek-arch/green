@@ -17959,3 +17959,4 @@
 2026-03-11T06:10:15.231Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up the CI matrix
 2026-03-11T07:49:49.237Z LMSYS <lm-sys@users.noreply.github.com> :: wire up the parser
 2026-03-11T08:29:45.473Z Scott Chacon <schacon@users.noreply.github.com> :: fix cache keys
+2026-03-11T09:01:35.685Z LMSYS <lm-sys@users.noreply.github.com> :: tweak edge case in auth
