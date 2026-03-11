@@ -17974,3 +17974,4 @@
 2026-03-11T15:29:35.934Z Snowflake Labs <opensource@snowflake.com> :: tweak error handling
 2026-03-11T17:25:34.534Z LocalSend <localsend@users.noreply.github.com> :: wire up retry logic
 2026-03-11T18:05:11.657Z Lovell Fuller <lovell@users.noreply.github.com> :: fix cache keys
+2026-03-11T18:44:30.266Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove cache keys
