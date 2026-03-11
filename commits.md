@@ -17965,3 +17965,4 @@
 2026-03-11T09:42:43.170Z rxi <rxi@users.noreply.github.com> :: refactor null check
 2026-03-11T10:23:25.399Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up null check
 2026-03-11T11:02:41.264Z SurrealDB <surrealdb@users.noreply.github.com> :: remove error handling
+2026-03-11T12:16:26.815Z OpenBSD <openbsd@users.noreply.github.com> :: remove config defaults
