@@ -17955,3 +17955,4 @@
 2026-03-11T02:31:56.829Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: fix dependency versions
 2026-03-11T04:05:51.964Z Prometheus <prometheus@users.noreply.github.com> :: bump logging
 2026-03-11T04:58:54.980Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove config defaults
+2026-03-11T05:52:38.548Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up edge case in auth
