@@ -8351,3 +8351,4 @@
 2026-03-11T00:45:43.074Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish build script
 2026-03-11T01:49:27.905Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up cache keys
 2026-03-11T03:24:51.730Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix config defaults
+2026-03-11T04:09:14.664Z SouJunior <wouerner@soujunior.tech> :: tweak retry logic
