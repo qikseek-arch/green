@@ -8354,3 +8354,4 @@
 2026-03-11T04:09:14.664Z SouJunior <wouerner@soujunior.tech> :: tweak retry logic
 2026-03-11T04:41:16.095Z ring04h <ring04h@users.noreply.github.com> :: update the CI matrix
 2026-03-11T04:45:07.206Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up the CI matrix
+2026-03-11T04:54:44.408Z Claude <claude@users.noreply.github.com> :: wire up error handling
