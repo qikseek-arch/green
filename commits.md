@@ -8348,3 +8348,4 @@
 2026-03-10T23:02:12.322Z David Fowler <davidfowl@users.noreply.github.com> :: fix dead code
 2026-03-11T00:02:45.647Z ring04h <ring04h@users.noreply.github.com> :: tweak the parser
 2026-03-11T00:11:50.749Z AI4Bhārat <opensource@ai4bharat.org> :: update flaky test
+2026-03-11T00:45:43.074Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish build script
