@@ -17962,3 +17962,4 @@
 2026-03-11T09:01:35.685Z LMSYS <lm-sys@users.noreply.github.com> :: tweak edge case in auth
 2026-03-11T09:16:20.647Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish build script
 2026-03-11T09:39:00.276Z Michael Jackson <mjackson@users.noreply.github.com> :: remove readme typo
+2026-03-11T09:42:43.170Z rxi <rxi@users.noreply.github.com> :: refactor null check
