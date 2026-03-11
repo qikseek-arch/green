@@ -17957,3 +17957,4 @@
 2026-03-11T04:58:54.980Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove config defaults
 2026-03-11T05:52:38.548Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up edge case in auth
 2026-03-11T06:10:15.231Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up the CI matrix
+2026-03-11T07:49:49.237Z LMSYS <lm-sys@users.noreply.github.com> :: wire up the parser
