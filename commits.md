@@ -8362,3 +8362,4 @@
 2026-03-11T15:28:12.481Z LILYGO <LilyGO@users.noreply.github.com> :: update edge case in auth
 2026-03-11T16:03:40.929Z md-5 <md-5@users.noreply.github.com> :: fix cache keys
 2026-03-11T17:09:14.046Z Sachin Soni <techiesms@users.noreply.github.com> :: fix the CI matrix
+2026-03-11T17:10:22.586Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: polish readme typo
