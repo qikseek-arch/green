@@ -17963,3 +17963,4 @@
 2026-03-11T09:16:20.647Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: polish build script
 2026-03-11T09:39:00.276Z Michael Jackson <mjackson@users.noreply.github.com> :: remove readme typo
 2026-03-11T09:42:43.170Z rxi <rxi@users.noreply.github.com> :: refactor null check
+2026-03-11T10:23:25.399Z Petar Veličković <PetarV-@users.noreply.github.com> :: wire up null check
