@@ -8356,3 +8356,4 @@
 2026-03-11T04:45:07.206Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up the CI matrix
 2026-03-11T04:54:44.408Z Claude <claude@users.noreply.github.com> :: wire up error handling
 2026-03-11T06:49:48.889Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add config defaults
+2026-03-11T10:02:54.547Z Almas Baim <AlmasB@users.noreply.github.com> :: polish cache keys
