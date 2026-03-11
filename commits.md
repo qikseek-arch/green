@@ -17972,3 +17972,4 @@
 2026-03-11T13:24:45.873Z cytopia <cytopia@users.noreply.github.com> :: update retry logic
 2026-03-11T13:32:56.242Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak null check
 2026-03-11T15:29:35.934Z Snowflake Labs <opensource@snowflake.com> :: tweak error handling
+2026-03-11T17:25:34.534Z LocalSend <localsend@users.noreply.github.com> :: wire up retry logic
