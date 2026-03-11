@@ -17982,3 +17982,4 @@
 2026-03-11T22:17:56.628Z John Schulman <joschu@users.noreply.github.com> :: fix edge case in auth
 2026-03-11T22:19:37.537Z Islem Maboud <ipenywis@users.noreply.github.com> :: bump error handling
 2026-03-11T22:42:38.539Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up null check
+2026-03-11T23:39:26.765Z winterbe <winterbe@users.noreply.github.com> :: bump dead code
