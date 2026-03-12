@@ -18011,3 +18011,4 @@
 2026-03-12T16:38:59.431Z Scott Chacon <schacon@users.noreply.github.com> :: bump error handling
 2026-03-12T16:53:49.847Z Brian Holt <btholt@users.noreply.github.com> :: update null check
 2026-03-12T17:07:18.675Z SurrealDB <surrealdb@users.noreply.github.com> :: bump retry logic
+2026-03-12T17:22:14.510Z Boshen <Boshen@users.noreply.github.com> :: update cache keys
