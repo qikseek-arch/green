@@ -18009,3 +18009,4 @@
 2026-03-12T14:28:16.245Z rxi <rxi@users.noreply.github.com> :: clean up retry logic
 2026-03-12T15:35:18.581Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the CI matrix
 2026-03-12T16:38:59.431Z Scott Chacon <schacon@users.noreply.github.com> :: bump error handling
+2026-03-12T16:53:49.847Z Brian Holt <btholt@users.noreply.github.com> :: update null check
