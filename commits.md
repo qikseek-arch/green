@@ -8371,3 +8371,4 @@
 2026-03-12T01:59:25.080Z vb <Vaibhavs10@users.noreply.github.com> :: refactor retry logic
 2026-03-12T05:37:37.432Z Taiko Foundation <info@taiko.xyz> :: clean up the parser
 2026-03-12T05:49:34.277Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up edge case in auth
+2026-03-12T07:34:13.113Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak the CI matrix
