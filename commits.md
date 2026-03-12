@@ -18007,3 +18007,4 @@
 2026-03-12T13:30:40.556Z Andreas Kling <awesomekling@users.noreply.github.com> :: update null check
 2026-03-12T14:01:01.993Z rxi <rxi@users.noreply.github.com> :: polish dependency versions
 2026-03-12T14:28:16.245Z rxi <rxi@users.noreply.github.com> :: clean up retry logic
+2026-03-12T15:35:18.581Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the CI matrix
