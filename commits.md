@@ -8382,3 +8382,4 @@
 2026-03-12T12:54:54.016Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up flaky test
 2026-03-12T12:58:35.173Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix flaky test
 2026-03-12T13:05:29.971Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove dependency versions
+2026-03-12T13:33:29.378Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix build script
