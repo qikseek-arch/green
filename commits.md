@@ -17986,3 +17986,4 @@
 2026-03-11T23:39:56.961Z OpenBSD <openbsd@users.noreply.github.com> :: fix error handling
 2026-03-11T23:45:15.471Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add retry logic
 2026-03-12T00:06:10.376Z LMSYS <lm-sys@users.noreply.github.com> :: polish the parser
+2026-03-12T00:13:34.598Z 1 <insoxin@users.noreply.github.com> :: tweak readme typo
