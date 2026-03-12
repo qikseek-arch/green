@@ -8394,3 +8394,4 @@
 2026-03-12T18:48:42.540Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak the CI matrix
 2026-03-12T19:48:23.818Z OpenJS Foundation <info@openjsf.org> :: refactor logging
 2026-03-12T19:56:57.795Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak readme typo
+2026-03-12T21:11:50.633Z Shubs <infosec-au@users.noreply.github.com> :: clean up logging
