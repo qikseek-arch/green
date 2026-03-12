@@ -17995,3 +17995,4 @@
 2026-03-12T04:57:48.000Z Jabrils <Jabrils@users.noreply.github.com> :: tweak dead code
 2026-03-12T05:27:37.690Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish the CI matrix
 2026-03-12T05:30:21.970Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish build script
+2026-03-12T06:08:14.248Z Dove Letter <skydoves2@gmail.com> :: update edge case in auth
