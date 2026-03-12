@@ -8385,3 +8385,4 @@
 2026-03-12T13:33:29.378Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix build script
 2026-03-12T14:20:37.591Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix the CI matrix
 2026-03-12T14:29:34.362Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump dependency versions
+2026-03-12T15:12:09.452Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up null check
