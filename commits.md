@@ -17998,3 +17998,4 @@
 2026-03-12T06:08:14.248Z Dove Letter <skydoves2@gmail.com> :: update edge case in auth
 2026-03-12T07:23:32.446Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up flaky test
 2026-03-12T07:31:41.241Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix config defaults
+2026-03-12T07:41:37.234Z OpenMEDLab <openmedlab@pjlab.org.cn> :: add error handling
