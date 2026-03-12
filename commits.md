@@ -17988,3 +17988,4 @@
 2026-03-12T00:06:10.376Z LMSYS <lm-sys@users.noreply.github.com> :: polish the parser
 2026-03-12T00:13:34.598Z 1 <insoxin@users.noreply.github.com> :: tweak readme typo
 2026-03-12T00:58:50.736Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up logging
+2026-03-12T01:06:52.748Z Yiming Cui <ymcui@users.noreply.github.com> :: add config defaults
