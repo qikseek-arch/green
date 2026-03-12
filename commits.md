@@ -18003,3 +18003,4 @@
 2026-03-12T09:11:42.362Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix readme typo
 2026-03-12T09:53:27.012Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix config defaults
 2026-03-12T13:00:43.937Z Boshen <Boshen@users.noreply.github.com> :: remove build script
+2026-03-12T13:11:24.347Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix readme typo
