@@ -8369,3 +8369,4 @@
 2026-03-11T23:23:50.879Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix null check
 2026-03-12T00:00:44.545Z markqvist <markqvist@users.noreply.github.com> :: fix cache keys
 2026-03-12T01:59:25.080Z vb <Vaibhavs10@users.noreply.github.com> :: refactor retry logic
+2026-03-12T05:37:37.432Z Taiko Foundation <info@taiko.xyz> :: clean up the parser
