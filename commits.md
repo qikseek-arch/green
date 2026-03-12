@@ -17999,3 +17999,4 @@
 2026-03-12T07:23:32.446Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up flaky test
 2026-03-12T07:31:41.241Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix config defaults
 2026-03-12T07:41:37.234Z OpenMEDLab <openmedlab@pjlab.org.cn> :: add error handling
+2026-03-12T08:18:55.592Z 薛翔 <xuexiangjys@users.noreply.github.com> :: tweak error handling
