@@ -8392,3 +8392,4 @@
 2026-03-12T18:06:55.596Z CTFs <ctfs@users.noreply.github.com> :: polish dependency versions
 2026-03-12T18:41:54.483Z Damian Dulisz <shentao@users.noreply.github.com> :: clean up build script
 2026-03-12T18:48:42.540Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak the CI matrix
+2026-03-12T19:48:23.818Z OpenJS Foundation <info@openjsf.org> :: refactor logging
