@@ -8399,3 +8399,4 @@
 2026-03-13T04:29:27.525Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
 2026-03-13T04:34:36.502Z WebRTC <discuss-webrtc@googlegroups.com> :: clean up the parser
 2026-03-13T06:19:07.661Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump dependency versions
+2026-03-13T08:40:06.301Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
