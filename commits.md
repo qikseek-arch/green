@@ -8402,3 +8402,4 @@
 2026-03-13T08:40:06.301Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
 2026-03-13T09:05:57.715Z Odi <mathdroid@users.noreply.github.com> :: update the CI matrix
 2026-03-13T09:20:49.041Z Shubs <infosec-au@users.noreply.github.com> :: remove edge case in auth
+2026-03-13T10:03:00.239Z Almas Baim <AlmasB@users.noreply.github.com> :: add null check
