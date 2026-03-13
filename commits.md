@@ -18040,3 +18040,4 @@
 2026-03-13T21:58:34.789Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up build script
 2026-03-13T22:09:45.890Z Scott Chacon <schacon@users.noreply.github.com> :: clean up config defaults
 2026-03-13T22:48:50.900Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: fix build script
+2026-03-13T23:47:43.104Z Petar Veličković <PetarV-@users.noreply.github.com> :: add readme typo
