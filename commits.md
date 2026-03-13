@@ -18037,3 +18037,4 @@
 2026-03-13T17:46:44.096Z 1 <insoxin@users.noreply.github.com> :: bump config defaults
 2026-03-13T18:52:44.367Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump config defaults
 2026-03-13T19:43:09.573Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up null check
+2026-03-13T21:58:34.789Z Michael Jackson <mjackson@users.noreply.github.com> :: clean up build script
