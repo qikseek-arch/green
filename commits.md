@@ -8404,3 +8404,4 @@
 2026-03-13T09:20:49.041Z Shubs <infosec-au@users.noreply.github.com> :: remove edge case in auth
 2026-03-13T10:03:00.239Z Almas Baim <AlmasB@users.noreply.github.com> :: add null check
 2026-03-13T10:12:40.474Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove dependency versions
+2026-03-13T11:29:38.165Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up error handling
