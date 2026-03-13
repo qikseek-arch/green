@@ -18025,3 +18025,4 @@
 2026-03-13T06:08:50.065Z SurrealDB <surrealdb@users.noreply.github.com> :: refactor dead code
 2026-03-13T09:28:41.664Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: update build script
 2026-03-13T09:36:24.074Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
+2026-03-13T10:24:47.041Z Morvan <MorvanZhou@users.noreply.github.com> :: add the CI matrix
