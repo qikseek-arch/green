@@ -18020,3 +18020,4 @@
 2026-03-13T00:11:50.751Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix readme typo
 2026-03-13T00:28:44.312Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak config defaults
 2026-03-13T00:42:35.220Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
+2026-03-13T01:55:33.826Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: refactor dependency versions
