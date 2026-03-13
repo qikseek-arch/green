@@ -490,3 +490,4 @@
 2026-03-12T10:11:08.162Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: fix null check
 2026-03-12T20:01:05.847Z MASSGRAVE <massgravel@users.noreply.github.com> :: fix null check
 2026-03-13T07:00:42.136Z Yiming Cui <ymcui@users.noreply.github.com> :: remove error handling
+2026-03-13T13:39:03.038Z Matt Pocock <mattpocock@users.noreply.github.com> :: fix edge case in auth
