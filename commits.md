@@ -18019,3 +18019,4 @@
 2026-03-12T22:33:13.466Z Damian Gryski <dgryski@users.noreply.github.com> :: add logging
 2026-03-13T00:11:50.751Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix readme typo
 2026-03-13T00:28:44.312Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak config defaults
+2026-03-13T00:42:35.220Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
