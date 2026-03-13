@@ -18027,3 +18027,4 @@
 2026-03-13T09:36:24.074Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
 2026-03-13T10:24:47.041Z Morvan <MorvanZhou@users.noreply.github.com> :: add the CI matrix
 2026-03-13T12:09:05.139Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up the CI matrix
+2026-03-13T12:32:20.046Z LocalSend <localsend@users.noreply.github.com> :: wire up build script
