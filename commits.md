@@ -18017,3 +18017,4 @@
 2026-03-12T20:30:24.174Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: tweak readme typo
 2026-03-12T21:47:45.392Z in28minutes <in28minutes@users.noreply.github.com> :: wire up build script
 2026-03-12T22:33:13.466Z Damian Gryski <dgryski@users.noreply.github.com> :: add logging
+2026-03-13T00:11:50.751Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix readme typo
