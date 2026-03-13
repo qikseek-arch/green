@@ -18030,3 +18030,4 @@
 2026-03-13T12:32:20.046Z LocalSend <localsend@users.noreply.github.com> :: wire up build script
 2026-03-13T12:53:11.212Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: add cache keys
 2026-03-13T13:16:20.307Z 1 <insoxin@users.noreply.github.com> :: update null check
+2026-03-13T14:00:55.354Z OpenBSD <openbsd@users.noreply.github.com> :: polish edge case in auth
