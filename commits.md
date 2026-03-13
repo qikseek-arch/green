@@ -8398,3 +8398,4 @@
 2026-03-13T00:12:31.304Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update cache keys
 2026-03-13T04:29:27.525Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
 2026-03-13T04:34:36.502Z WebRTC <discuss-webrtc@googlegroups.com> :: clean up the parser
+2026-03-13T06:19:07.661Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump dependency versions
