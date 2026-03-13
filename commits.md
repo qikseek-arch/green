@@ -8406,3 +8406,4 @@
 2026-03-13T10:12:40.474Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove dependency versions
 2026-03-13T11:29:38.165Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up error handling
 2026-03-13T11:37:27.331Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor the parser
+2026-03-13T11:41:54.399Z Claude <claude@users.noreply.github.com> :: update null check
