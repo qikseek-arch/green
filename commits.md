@@ -8429,3 +8429,4 @@
 2026-03-14T15:47:31.999Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
 2026-03-14T15:57:37.797Z md-5 <md-5@users.noreply.github.com> :: refactor logging
 2026-03-14T16:08:46.576Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
+2026-03-14T16:25:21.774Z Barret李靖 <barretlee@users.noreply.github.com> :: polish error handling
