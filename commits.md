@@ -18058,3 +18058,4 @@
 2026-03-14T13:27:19.766Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump the CI matrix
 2026-03-14T14:29:06.294Z Tom Dale <tomdale@users.noreply.github.com> :: remove dead code
 2026-03-14T15:30:34.582Z LMSYS <lm-sys@users.noreply.github.com> :: update cache keys
+2026-03-14T15:31:26.348Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up error handling
