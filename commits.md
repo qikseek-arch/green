@@ -18049,3 +18049,4 @@
 2026-03-14T04:14:15.751Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the CI matrix
 2026-03-14T05:38:31.735Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump dependency versions
 2026-03-14T06:12:40.394Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
+2026-03-14T08:15:29.532Z Tavis Ormandy <taviso@users.noreply.github.com> :: update error handling
