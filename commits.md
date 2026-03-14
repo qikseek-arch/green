@@ -8417,3 +8417,4 @@
 2026-03-14T03:30:39.463Z ring04h <ring04h@users.noreply.github.com> :: remove build script
 2026-03-14T04:42:46.051Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove dead code
 2026-03-14T05:45:45.227Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak build script
+2026-03-14T06:01:19.970Z markqvist <markqvist@users.noreply.github.com> :: tweak dependency versions
