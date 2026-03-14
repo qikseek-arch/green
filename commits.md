@@ -18051,3 +18051,4 @@
 2026-03-14T06:12:40.394Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
 2026-03-14T08:15:29.532Z Tavis Ormandy <taviso@users.noreply.github.com> :: update error handling
 2026-03-14T08:31:12.675Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: wire up error handling
+2026-03-14T11:11:49.598Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish edge case in auth
