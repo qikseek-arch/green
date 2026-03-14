@@ -18044,3 +18044,4 @@
 2026-03-14T00:39:57.045Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak readme typo
 2026-03-14T01:04:36.006Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: clean up dead code
 2026-03-14T02:27:09.902Z Dove Letter <skydoves2@gmail.com> :: bump retry logic
+2026-03-14T03:17:09.766Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: tweak the parser
