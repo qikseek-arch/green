@@ -18064,3 +18064,4 @@
 2026-03-14T20:15:39.501Z Damian Gryski <dgryski@users.noreply.github.com> :: add flaky test
 2026-03-14T20:42:30.220Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up null check
 2026-03-14T20:55:24.932Z OpenBSD <openbsd@users.noreply.github.com> :: polish build script
+2026-03-14T21:23:41.445Z winterbe <winterbe@users.noreply.github.com> :: add null check
