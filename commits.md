@@ -8426,3 +8426,4 @@
 2026-03-14T11:52:57.646Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add cache keys
 2026-03-14T12:53:14.623Z owenzhang <owenzhang@users.noreply.github.com> :: wire up null check
 2026-03-14T13:33:52.118Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up logging
+2026-03-14T15:47:31.999Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
