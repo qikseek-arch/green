@@ -8431,3 +8431,4 @@
 2026-03-14T16:08:46.576Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
 2026-03-14T16:25:21.774Z Barret李靖 <barretlee@users.noreply.github.com> :: polish error handling
 2026-03-14T16:39:22.231Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up readme typo
+2026-03-14T16:53:57.219Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove the parser
