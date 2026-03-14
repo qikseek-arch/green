@@ -445,3 +445,4 @@
 2026-03-04T02:38:37.673Z electricwizard491 <electricwizard491@fake.invalid> :: update dependency versions
 2026-03-05T20:13:47.896Z cosmickernel495 <cosmickernel495@fake.invalid> :: tweak the CI matrix
 2026-03-08T01:57:57.513Z Ken Iverson <ken.iverson@fake.invalid> :: add error handling
+2026-03-14T21:29:40.808Z arcane-cobra1337 <arcane-cobra1337@fake.invalid> :: bump build script
