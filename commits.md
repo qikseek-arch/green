@@ -18062,3 +18062,4 @@
 2026-03-14T15:54:43.880Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor error handling
 2026-03-14T18:41:24.792Z Shougo <Shougo@users.noreply.github.com> :: wire up flaky test
 2026-03-14T20:15:39.501Z Damian Gryski <dgryski@users.noreply.github.com> :: add flaky test
+2026-03-14T20:42:30.220Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up null check
