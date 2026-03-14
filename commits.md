@@ -18048,3 +18048,4 @@
 2026-03-14T04:07:32.166Z cytopia <cytopia@users.noreply.github.com> :: remove build script
 2026-03-14T04:14:15.751Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: remove the CI matrix
 2026-03-14T05:38:31.735Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump dependency versions
+2026-03-14T06:12:40.394Z Odi <mathdroid@users.noreply.github.com> :: bump the parser
