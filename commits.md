@@ -8435,3 +8435,4 @@
 2026-03-14T18:18:34.212Z AI4Bhārat <opensource@ai4bharat.org> :: clean up logging
 2026-03-14T19:20:06.725Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove null check
 2026-03-14T20:17:08.882Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up logging
+2026-03-14T20:24:41.160Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add dependency versions
