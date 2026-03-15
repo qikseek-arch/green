@@ -18081,3 +18081,4 @@
 2026-03-15T11:16:34.530Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump the CI matrix
 2026-03-15T11:44:25.319Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up readme typo
 2026-03-15T11:53:39.713Z Amnezia VPN <support@amnezia.org> :: add edge case in auth
+2026-03-15T12:28:10.535Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: clean up dependency versions
