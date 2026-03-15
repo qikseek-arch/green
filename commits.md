@@ -8457,3 +8457,4 @@
 2026-03-15T17:31:10.557Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak readme typo
 2026-03-15T19:59:05.187Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up error handling
 2026-03-15T21:24:19.793Z Shubs <infosec-au@users.noreply.github.com> :: polish cache keys
+2026-03-15T21:49:21.856Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the parser
