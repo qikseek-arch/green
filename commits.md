@@ -8450,3 +8450,4 @@
 2026-03-15T10:12:38.323Z markqvist <markqvist@users.noreply.github.com> :: clean up config defaults
 2026-03-15T10:29:56.836Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update readme typo
 2026-03-15T14:13:37.774Z Keith Smiley <keith@users.noreply.github.com> :: wire up null check
+2026-03-15T15:53:09.183Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
