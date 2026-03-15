@@ -18070,3 +18070,4 @@
 2026-03-15T00:08:12.409Z in28minutes <in28minutes@users.noreply.github.com> :: wire up flaky test
 2026-03-15T01:04:15.003Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump the CI matrix
 2026-03-15T01:15:33.213Z Lovell Fuller <lovell@users.noreply.github.com> :: remove edge case in auth
+2026-03-15T01:32:33.135Z Marcel Pociot <mpociot@users.noreply.github.com> :: wire up logging
