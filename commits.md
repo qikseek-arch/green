@@ -18091,3 +18091,4 @@
 2026-03-15T17:05:35.003Z Snowflake Labs <opensource@snowflake.com> :: polish retry logic
 2026-03-15T17:52:58.690Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up cache keys
 2026-03-15T18:10:08.908Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak error handling
+2026-03-15T18:10:52.541Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up readme typo
