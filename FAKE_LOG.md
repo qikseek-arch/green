@@ -92,3 +92,4 @@
 2026-03-14T18:58:55.034Z mimic <mimic@users.noreply.github.com> :: bump flaky test
 2026-03-15T07:51:03.828Z HyperFalcon <hyperfalcon@users.noreply.github.com> :: bump logging
 2026-03-15T12:42:06.842Z frozenshrimp130 <frozenshrimp130@users.noreply.github.com> :: polish dependency versions
+2026-03-15T13:02:47.256Z velvetraptor726 <velvetraptor726@users.noreply.github.com> :: update error handling
