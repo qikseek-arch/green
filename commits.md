@@ -8442,3 +8442,4 @@
 2026-03-15T01:16:15.892Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up dependency versions
 2026-03-15T04:16:27.434Z qiye <qiyeboy@users.noreply.github.com> :: polish flaky test
 2026-03-15T06:18:35.038Z owenzhang <owenzhang@users.noreply.github.com> :: remove build script
+2026-03-15T06:22:31.668Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up error handling
