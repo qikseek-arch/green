@@ -18095,3 +18095,4 @@
 2026-03-15T18:23:40.456Z in28minutes <in28minutes@users.noreply.github.com> :: refactor build script
 2026-03-15T18:25:43.571Z Boshen <Boshen@users.noreply.github.com> :: wire up retry logic
 2026-03-15T18:44:25.777Z OpenBMB <openbmb@gmail.com> :: bump dependency versions
+2026-03-15T19:35:28.930Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish error handling
