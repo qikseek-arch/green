@@ -18069,3 +18069,4 @@
 2026-03-14T22:33:14.393Z Dove Letter <skydoves2@gmail.com> :: refactor flaky test
 2026-03-15T00:08:12.409Z in28minutes <in28minutes@users.noreply.github.com> :: wire up flaky test
 2026-03-15T01:04:15.003Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump the CI matrix
+2026-03-15T01:15:33.213Z Lovell Fuller <lovell@users.noreply.github.com> :: remove edge case in auth
