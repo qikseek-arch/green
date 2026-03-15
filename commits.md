@@ -8439,3 +8439,4 @@
 2026-03-14T21:15:37.952Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix retry logic
 2026-03-14T23:59:38.814Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: bump logging
 2026-03-15T00:51:51.324Z Getgems <getgems-io@users.noreply.github.com> :: bump logging
+2026-03-15T01:16:15.892Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up dependency versions
