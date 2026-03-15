@@ -8455,3 +8455,4 @@
 2026-03-15T15:59:45.867Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix null check
 2026-03-15T16:18:44.144Z BBC <bbc@users.noreply.github.com> :: refactor edge case in auth
 2026-03-15T17:31:10.557Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak readme typo
+2026-03-15T19:59:05.187Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up error handling
