@@ -18074,3 +18074,4 @@
 2026-03-15T02:12:31.741Z Google Fonts <googlefonts@users.noreply.github.com> :: refactor dead code
 2026-03-15T02:40:06.563Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
 2026-03-15T02:52:35.978Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add flaky test
+2026-03-15T06:28:09.300Z Brian Holt <btholt@users.noreply.github.com> :: tweak the CI matrix
