@@ -8449,3 +8449,4 @@
 2026-03-15T09:26:08.120Z Odi <mathdroid@users.noreply.github.com> :: clean up flaky test
 2026-03-15T10:12:38.323Z markqvist <markqvist@users.noreply.github.com> :: clean up config defaults
 2026-03-15T10:29:56.836Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update readme typo
+2026-03-15T14:13:37.774Z Keith Smiley <keith@users.noreply.github.com> :: wire up null check
