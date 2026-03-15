@@ -18083,3 +18083,4 @@
 2026-03-15T11:53:39.713Z Amnezia VPN <support@amnezia.org> :: add edge case in auth
 2026-03-15T12:28:10.535Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: clean up dependency versions
 2026-03-15T12:59:09.879Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove config defaults
+2026-03-15T13:05:31.506Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish the parser
