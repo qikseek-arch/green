@@ -18090,3 +18090,4 @@
 2026-03-15T15:11:56.659Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish dependency versions
 2026-03-15T17:05:35.003Z Snowflake Labs <opensource@snowflake.com> :: polish retry logic
 2026-03-15T17:52:58.690Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up cache keys
+2026-03-15T18:10:08.908Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak error handling
