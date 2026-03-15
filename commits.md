@@ -8453,3 +8453,4 @@
 2026-03-15T15:53:09.183Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
 2026-03-15T15:57:58.006Z heyli <lcxfs1991@users.noreply.github.com> :: tweak logging
 2026-03-15T15:59:45.867Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix null check
+2026-03-15T16:18:44.144Z BBC <bbc@users.noreply.github.com> :: refactor edge case in auth
