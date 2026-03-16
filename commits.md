@@ -8487,3 +8487,4 @@
 2026-03-16T16:33:57.498Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump cache keys
 2026-03-16T17:05:07.989Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up readme typo
 2026-03-16T17:40:24.870Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump null check
+2026-03-16T18:55:59.438Z owenzhang <owenzhang@users.noreply.github.com> :: polish edge case in auth
