@@ -738,3 +738,4 @@
 2026-03-10T15:34:08.440Z Google <opensource@google.com> :: refactor the parser
 2026-03-11T22:43:01.749Z 代码家 <daimajia@users.noreply.github.com> :: add config defaults
 2026-03-15T05:55:52.051Z Anthropic <anthropics@users.noreply.github.com> :: clean up retry logic
+2026-03-16T03:33:14.354Z Mark Otto <mdo@users.noreply.github.com> :: update error handling
