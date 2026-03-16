@@ -8471,3 +8471,4 @@
 2026-03-16T06:08:34.321Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak readme typo
 2026-03-16T06:55:32.957Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
 2026-03-16T07:30:40.466Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
+2026-03-16T07:31:12.805Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor dead code
