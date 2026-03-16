@@ -8469,3 +8469,4 @@
 2026-03-16T04:04:04.640Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak the parser
 2026-03-16T04:51:41.596Z markqvist <markqvist@users.noreply.github.com> :: tweak flaky test
 2026-03-16T06:08:34.321Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak readme typo
+2026-03-16T06:55:32.957Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
