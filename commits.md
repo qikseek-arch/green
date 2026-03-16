@@ -8478,3 +8478,4 @@
 2026-03-16T11:04:35.513Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up retry logic
 2026-03-16T12:54:44.541Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix the parser
 2026-03-16T13:22:01.950Z Getgems <getgems-io@users.noreply.github.com> :: add flaky test
+2026-03-16T13:29:18.555Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish edge case in auth
