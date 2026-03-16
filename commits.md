@@ -8488,3 +8488,4 @@
 2026-03-16T17:05:07.989Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up readme typo
 2026-03-16T17:40:24.870Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump null check
 2026-03-16T18:55:59.438Z owenzhang <owenzhang@users.noreply.github.com> :: polish edge case in auth
+2026-03-16T19:24:04.059Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add build script
