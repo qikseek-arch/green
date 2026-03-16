@@ -18105,3 +18105,4 @@
 2026-03-16T04:25:53.252Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix null check
 2026-03-16T08:11:45.952Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish dependency versions
 2026-03-16T08:37:28.997Z Collabnix <collabnix@users.noreply.github.com> :: bump the parser
+2026-03-16T08:52:39.401Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: remove null check
