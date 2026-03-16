@@ -18123,3 +18123,4 @@
 2026-03-16T16:46:02.065Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: fix logging
 2026-03-16T18:09:27.661Z yakeIore <yakeIore@users.noreply.github.com> :: update config defaults
 2026-03-16T19:09:26.368Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove edge case in auth
+2026-03-16T19:30:52.126Z Michael Jackson <mjackson@users.noreply.github.com> :: bump error handling
