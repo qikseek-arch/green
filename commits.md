@@ -495,3 +495,4 @@
 2026-03-15T19:28:05.699Z thecodercoder <thecodercoder@users.noreply.github.com> :: bump readme typo
 2026-03-16T03:16:03.620Z Sebastian <sebmck@users.noreply.github.com> :: wire up config defaults
 2026-03-16T12:27:30.305Z 削微寒 <521xueweihan@users.noreply.github.com> :: clean up the CI matrix
+2026-03-16T21:17:30.284Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: wire up dead code
