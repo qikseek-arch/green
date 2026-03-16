@@ -8464,3 +8464,4 @@
 2026-03-16T01:30:44.683Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump edge case in auth
 2026-03-16T02:21:02.469Z Shubs <infosec-au@users.noreply.github.com> :: fix config defaults
 2026-03-16T03:11:15.541Z Adam Bell <b3ll@users.noreply.github.com> :: clean up dependency versions
+2026-03-16T03:48:59.729Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: clean up the CI matrix
