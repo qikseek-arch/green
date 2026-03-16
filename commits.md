@@ -8470,3 +8470,4 @@
 2026-03-16T04:51:41.596Z markqvist <markqvist@users.noreply.github.com> :: tweak flaky test
 2026-03-16T06:08:34.321Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak readme typo
 2026-03-16T06:55:32.957Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
+2026-03-16T07:30:40.466Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor config defaults
