@@ -18103,3 +18103,4 @@
 2026-03-16T03:14:29.235Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up build script
 2026-03-16T03:55:41.273Z Boshen <Boshen@users.noreply.github.com> :: bump dependency versions
 2026-03-16T04:25:53.252Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix null check
+2026-03-16T08:11:45.952Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish dependency versions
