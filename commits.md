@@ -8482,3 +8482,4 @@
 2026-03-16T13:50:17.029Z md-5 <md-5@users.noreply.github.com> :: refactor logging
 2026-03-16T13:57:39.442Z First Contributions <firstcontributions@gmail.com> :: bump the CI matrix
 2026-03-16T14:28:06.189Z Keith Smiley <keith@users.noreply.github.com> :: bump dead code
+2026-03-16T16:11:00.458Z Barret李靖 <barretlee@users.noreply.github.com> :: remove the parser
