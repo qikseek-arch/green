@@ -18111,3 +18111,4 @@
 2026-03-16T09:18:11.475Z Brian Holt <btholt@users.noreply.github.com> :: fix null check
 2026-03-16T10:01:19.148Z Casey Muratori <cmuratori@users.noreply.github.com> :: remove null check
 2026-03-16T10:31:27.915Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: fix logging
+2026-03-16T10:33:50.287Z Xingang Pan <XingangPan@users.noreply.github.com> :: update the CI matrix
