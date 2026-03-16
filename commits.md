@@ -493,3 +493,4 @@
 2026-03-13T13:39:03.038Z Matt Pocock <mattpocock@users.noreply.github.com> :: fix edge case in auth
 2026-03-14T14:15:13.485Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: remove readme typo
 2026-03-15T19:28:05.699Z thecodercoder <thecodercoder@users.noreply.github.com> :: bump readme typo
+2026-03-16T03:16:03.620Z Sebastian <sebmck@users.noreply.github.com> :: wire up config defaults
