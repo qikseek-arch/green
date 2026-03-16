@@ -18113,3 +18113,4 @@
 2026-03-16T10:31:27.915Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: fix logging
 2026-03-16T10:33:50.287Z Xingang Pan <XingangPan@users.noreply.github.com> :: update the CI matrix
 2026-03-16T11:43:02.442Z DefTruth <DefTruth@users.noreply.github.com> :: tweak retry logic
+2026-03-16T12:29:53.811Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update retry logic
