@@ -18116,3 +18116,4 @@
 2026-03-16T12:29:53.811Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: update retry logic
 2026-03-16T12:52:25.057Z BAPPY AHMED <entbappy@users.noreply.github.com> :: fix retry logic
 2026-03-16T14:06:15.832Z Amie Lynn <stoked-zz@users.noreply.github.com> :: tweak readme typo
+2026-03-16T14:26:13.603Z Brian Holt <btholt@users.noreply.github.com> :: polish retry logic
