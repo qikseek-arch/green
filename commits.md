@@ -8463,3 +8463,4 @@
 2026-03-15T22:50:01.856Z Rei <chloerei@users.noreply.github.com> :: tweak flaky test
 2026-03-16T01:30:44.683Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump edge case in auth
 2026-03-16T02:21:02.469Z Shubs <infosec-au@users.noreply.github.com> :: fix config defaults
+2026-03-16T03:11:15.541Z Adam Bell <b3ll@users.noreply.github.com> :: clean up dependency versions
