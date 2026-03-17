@@ -18128,3 +18128,4 @@
 2026-03-16T19:52:23.267Z LocalSend <localsend@users.noreply.github.com> :: polish flaky test
 2026-03-16T20:50:37.468Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor flaky test
 2026-03-16T22:56:45.524Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix config defaults
+2026-03-17T01:00:49.627Z Morvan <MorvanZhou@users.noreply.github.com> :: clean up null check
