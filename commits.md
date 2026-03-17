@@ -18143,3 +18143,4 @@
 2026-03-17T11:32:14.198Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix flaky test
 2026-03-17T12:50:06.618Z Alexandre Mutel <xoofx@users.noreply.github.com> :: update config defaults
 2026-03-17T12:59:34.636Z Alexandre Mutel <xoofx@users.noreply.github.com> :: bump retry logic
+2026-03-17T13:01:50.215Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor dependency versions
