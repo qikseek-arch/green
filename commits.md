@@ -8494,3 +8494,4 @@
 2026-03-16T22:34:07.473Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add retry logic
 2026-03-16T23:54:33.907Z markqvist <markqvist@users.noreply.github.com> :: remove build script
 2026-03-17T00:34:54.046Z Keith Smiley <keith@users.noreply.github.com> :: refactor logging
+2026-03-17T00:50:30.926Z Ryan Bigg <radar@users.noreply.github.com> :: fix build script
