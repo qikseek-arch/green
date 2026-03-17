@@ -18130,3 +18130,4 @@
 2026-03-16T22:56:45.524Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: fix config defaults
 2026-03-17T01:00:49.627Z Morvan <MorvanZhou@users.noreply.github.com> :: clean up null check
 2026-03-17T01:26:40.514Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: clean up null check
+2026-03-17T01:48:21.087Z Xingang Pan <XingangPan@users.noreply.github.com> :: polish config defaults
