@@ -18149,3 +18149,4 @@
 2026-03-17T14:47:56.579Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove the CI matrix
 2026-03-17T15:23:19.740Z Petar Veličković <PetarV-@users.noreply.github.com> :: update error handling
 2026-03-17T16:02:06.303Z Tavis Ormandy <taviso@users.noreply.github.com> :: polish dependency versions
+2026-03-17T18:30:45.935Z Casey Muratori <cmuratori@users.noreply.github.com> :: clean up the parser
