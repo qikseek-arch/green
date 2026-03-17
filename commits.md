@@ -18138,3 +18138,4 @@
 2026-03-17T06:47:34.887Z Amnezia VPN <support@amnezia.org> :: wire up cache keys
 2026-03-17T06:59:18.876Z Dove Letter <skydoves2@gmail.com> :: polish the parser
 2026-03-17T07:01:30.340Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove config defaults
+2026-03-17T09:51:27.035Z cytopia <cytopia@users.noreply.github.com> :: fix logging
