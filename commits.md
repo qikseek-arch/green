@@ -8509,3 +8509,4 @@
 2026-03-17T11:26:25.063Z vb <Vaibhavs10@users.noreply.github.com> :: fix retry logic
 2026-03-17T11:36:14.436Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor dependency versions
 2026-03-17T11:53:38.961Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove dependency versions
+2026-03-17T12:07:02.196Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor null check
