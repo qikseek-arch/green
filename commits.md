@@ -8498,3 +8498,4 @@
 2026-03-17T01:02:00.082Z Adam Bell <b3ll@users.noreply.github.com> :: wire up edge case in auth
 2026-03-17T03:06:45.839Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish build script
 2026-03-17T03:07:14.799Z Roger Labbe <rlabbe@users.noreply.github.com> :: add readme typo
+2026-03-17T04:27:33.860Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak retry logic
