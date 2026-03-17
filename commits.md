@@ -8502,3 +8502,4 @@
 2026-03-17T05:04:14.905Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dependency versions
 2026-03-17T07:10:31.157Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor cache keys
 2026-03-17T07:15:04.008Z Taiko Foundation <info@taiko.xyz> :: clean up logging
+2026-03-17T08:00:51.312Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix dead code
