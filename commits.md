@@ -18137,3 +18137,4 @@
 2026-03-17T06:41:49.780Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: refactor edge case in auth
 2026-03-17T06:47:34.887Z Amnezia VPN <support@amnezia.org> :: wire up cache keys
 2026-03-17T06:59:18.876Z Dove Letter <skydoves2@gmail.com> :: polish the parser
+2026-03-17T07:01:30.340Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove config defaults
