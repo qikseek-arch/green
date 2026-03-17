@@ -8510,3 +8510,4 @@
 2026-03-17T11:36:14.436Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor dependency versions
 2026-03-17T11:53:38.961Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove dependency versions
 2026-03-17T12:07:02.196Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor null check
+2026-03-17T13:00:52.471Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish dead code
