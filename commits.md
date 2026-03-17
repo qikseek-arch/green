@@ -8499,3 +8499,4 @@
 2026-03-17T03:06:45.839Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish build script
 2026-03-17T03:07:14.799Z Roger Labbe <rlabbe@users.noreply.github.com> :: add readme typo
 2026-03-17T04:27:33.860Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak retry logic
+2026-03-17T05:04:14.905Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up dependency versions
