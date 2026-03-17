@@ -8512,3 +8512,4 @@
 2026-03-17T12:07:02.196Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor null check
 2026-03-17T13:00:52.471Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish dead code
 2026-03-17T13:31:23.765Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up edge case in auth
+2026-03-17T14:56:01.814Z ㅤxander <vampirist@users.noreply.github.com> :: bump error handling
