@@ -18139,3 +18139,4 @@
 2026-03-17T06:59:18.876Z Dove Letter <skydoves2@gmail.com> :: polish the parser
 2026-03-17T07:01:30.340Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove config defaults
 2026-03-17T09:51:27.035Z cytopia <cytopia@users.noreply.github.com> :: fix logging
+2026-03-17T09:53:41.489Z 1 <insoxin@users.noreply.github.com> :: wire up error handling
