@@ -18142,3 +18142,4 @@
 2026-03-17T09:53:41.489Z 1 <insoxin@users.noreply.github.com> :: wire up error handling
 2026-03-17T11:32:14.198Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix flaky test
 2026-03-17T12:50:06.618Z Alexandre Mutel <xoofx@users.noreply.github.com> :: update config defaults
+2026-03-17T12:59:34.636Z Alexandre Mutel <xoofx@users.noreply.github.com> :: bump retry logic
