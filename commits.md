@@ -18145,3 +18145,4 @@
 2026-03-17T12:59:34.636Z Alexandre Mutel <xoofx@users.noreply.github.com> :: bump retry logic
 2026-03-17T13:01:50.215Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor dependency versions
 2026-03-17T13:48:04.699Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up config defaults
+2026-03-17T14:20:55.287Z Brian Holt <btholt@users.noreply.github.com> :: add dependency versions
