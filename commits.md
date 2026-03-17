@@ -8519,3 +8519,4 @@
 2026-03-17T17:33:17.067Z Adam Bell <b3ll@users.noreply.github.com> :: clean up logging
 2026-03-17T17:35:41.488Z Adam Bell <b3ll@users.noreply.github.com> :: bump error handling
 2026-03-17T17:47:06.094Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up config defaults
+2026-03-17T18:01:25.703Z heyli <lcxfs1991@users.noreply.github.com> :: refactor retry logic
