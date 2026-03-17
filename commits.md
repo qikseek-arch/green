@@ -8508,3 +8508,4 @@
 2026-03-17T10:23:17.004Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump error handling
 2026-03-17T11:26:25.063Z vb <Vaibhavs10@users.noreply.github.com> :: fix retry logic
 2026-03-17T11:36:14.436Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor dependency versions
+2026-03-17T11:53:38.961Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove dependency versions
