@@ -18141,3 +18141,4 @@
 2026-03-17T09:51:27.035Z cytopia <cytopia@users.noreply.github.com> :: fix logging
 2026-03-17T09:53:41.489Z 1 <insoxin@users.noreply.github.com> :: wire up error handling
 2026-03-17T11:32:14.198Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix flaky test
+2026-03-17T12:50:06.618Z Alexandre Mutel <xoofx@users.noreply.github.com> :: update config defaults
