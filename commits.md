@@ -18170,3 +18170,4 @@
 2026-03-18T16:30:26.593Z Snowflake Labs <opensource@snowflake.com> :: wire up the parser
 2026-03-18T18:14:31.176Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add the CI matrix
 2026-03-18T18:32:40.290Z LMSYS <lm-sys@users.noreply.github.com> :: bump dead code
+2026-03-18T19:53:29.323Z Asif Taj <axiftaj@users.noreply.github.com> :: add error handling
