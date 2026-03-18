@@ -18157,3 +18157,4 @@
 2026-03-18T04:19:18.055Z LMSYS <lm-sys@users.noreply.github.com> :: polish the CI matrix
 2026-03-18T05:18:41.305Z Odi <mathdroid@users.noreply.github.com> :: fix flaky test
 2026-03-18T05:44:58.558Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak build script
+2026-03-18T08:00:00.135Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: fix the CI matrix
