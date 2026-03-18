@@ -8535,3 +8535,4 @@
 2026-03-18T13:49:10.545Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up readme typo
 2026-03-18T15:28:37.951Z ㅤxander <vampirist@users.noreply.github.com> :: tweak the parser
 2026-03-18T15:29:11.552Z Keith Smiley <keith@users.noreply.github.com> :: update readme typo
+2026-03-18T16:05:34.549Z Adam Wathan <adamwathan@users.noreply.github.com> :: add edge case in auth
