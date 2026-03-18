@@ -8532,3 +8532,4 @@
 2026-03-18T05:12:44.249Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak config defaults
 2026-03-18T08:10:45.531Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the CI matrix
 2026-03-18T10:11:58.824Z ㅤxander <vampirist@users.noreply.github.com> :: tweak retry logic
+2026-03-18T13:49:10.545Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up readme typo
