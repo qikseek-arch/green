@@ -8531,3 +8531,4 @@
 2026-03-18T04:28:31.724Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
 2026-03-18T05:12:44.249Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak config defaults
 2026-03-18T08:10:45.531Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the CI matrix
+2026-03-18T10:11:58.824Z ㅤxander <vampirist@users.noreply.github.com> :: tweak retry logic
