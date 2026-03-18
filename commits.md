@@ -18172,3 +18172,4 @@
 2026-03-18T18:32:40.290Z LMSYS <lm-sys@users.noreply.github.com> :: bump dead code
 2026-03-18T19:53:29.323Z Asif Taj <axiftaj@users.noreply.github.com> :: add error handling
 2026-03-18T21:11:57.611Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix edge case in auth
+2026-03-18T21:26:00.820Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove null check
