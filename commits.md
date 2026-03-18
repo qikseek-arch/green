@@ -8533,3 +8533,4 @@
 2026-03-18T08:10:45.531Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the CI matrix
 2026-03-18T10:11:58.824Z ㅤxander <vampirist@users.noreply.github.com> :: tweak retry logic
 2026-03-18T13:49:10.545Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up readme typo
+2026-03-18T15:28:37.951Z ㅤxander <vampirist@users.noreply.github.com> :: tweak the parser
