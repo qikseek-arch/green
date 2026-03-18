@@ -447,3 +447,4 @@
 2026-03-08T01:57:57.513Z Ken Iverson <ken.iverson@fake.invalid> :: add error handling
 2026-03-14T21:29:40.808Z arcane-cobra1337 <arcane-cobra1337@fake.invalid> :: bump build script
 2026-03-17T06:41:48.439Z Sindre Sorhus <sindre.sorhus@fake.invalid> :: remove dead code
+2026-03-18T14:22:10.880Z ArcanePacket <arcanepacket@fake.invalid> :: add config defaults
