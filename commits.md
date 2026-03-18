@@ -8529,3 +8529,4 @@
 2026-03-18T02:47:14.502Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: fix build script
 2026-03-18T04:02:00.630Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish retry logic
 2026-03-18T04:28:31.724Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
+2026-03-18T05:12:44.249Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak config defaults
