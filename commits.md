@@ -8523,3 +8523,4 @@
 2026-03-17T18:14:05.545Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix flaky test
 2026-03-17T20:03:02.014Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: wire up flaky test
 2026-03-18T00:39:18.585Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish config defaults
+2026-03-18T00:47:20.047Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor config defaults
