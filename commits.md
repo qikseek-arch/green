@@ -8542,3 +8542,4 @@
 2026-03-18T18:25:12.079Z SouJunior <wouerner@soujunior.tech> :: fix flaky test
 2026-03-18T18:40:57.373Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump edge case in auth
 2026-03-18T20:51:41.176Z Bytedance Inc. <bytedance@users.noreply.github.com> :: polish logging
+2026-03-18T21:26:34.236Z Keith Smiley <keith@users.noreply.github.com> :: bump config defaults
