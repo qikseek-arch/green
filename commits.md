@@ -8543,3 +8543,4 @@
 2026-03-18T18:40:57.373Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump edge case in auth
 2026-03-18T20:51:41.176Z Bytedance Inc. <bytedance@users.noreply.github.com> :: polish logging
 2026-03-18T21:26:34.236Z Keith Smiley <keith@users.noreply.github.com> :: bump config defaults
+2026-03-18T22:02:18.330Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak the CI matrix
