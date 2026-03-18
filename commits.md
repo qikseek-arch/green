@@ -18167,3 +18167,4 @@
 2026-03-18T13:33:07.832Z OpenBMB <openbmb@gmail.com> :: clean up logging
 2026-03-18T14:45:47.043Z Collabnix <collabnix@users.noreply.github.com> :: remove logging
 2026-03-18T16:02:50.904Z Joe Hewitt <joehewitt@users.noreply.github.com> :: wire up cache keys
+2026-03-18T16:30:26.593Z Snowflake Labs <opensource@snowflake.com> :: wire up the parser
