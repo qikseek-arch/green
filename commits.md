@@ -18190,3 +18190,4 @@
 2026-03-19T17:07:15.908Z LocalSend <localsend@users.noreply.github.com> :: tweak retry logic
 2026-03-19T18:47:33.549Z Xingang Pan <XingangPan@users.noreply.github.com> :: add edge case in auth
 2026-03-19T21:05:19.768Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak config defaults
+2026-03-19T21:33:21.891Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix the CI matrix
