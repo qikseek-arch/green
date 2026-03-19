@@ -8550,3 +8550,4 @@
 2026-03-19T03:24:52.663Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up readme typo
 2026-03-19T04:14:55.569Z Shubs <infosec-au@users.noreply.github.com> :: remove the CI matrix
 2026-03-19T04:29:25.601Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove retry logic
+2026-03-19T06:45:36.953Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add dependency versions
