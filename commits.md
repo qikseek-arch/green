@@ -8568,3 +8568,4 @@
 2026-03-19T20:57:09.107Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dead code
 2026-03-19T22:19:10.132Z Keith Smiley <keith@users.noreply.github.com> :: tweak null check
 2026-03-19T23:01:24.316Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak null check
+2026-03-19T23:11:55.465Z Ryan Bigg <radar@users.noreply.github.com> :: add null check
