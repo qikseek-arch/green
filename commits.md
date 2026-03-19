@@ -8545,3 +8545,4 @@
 2026-03-18T21:26:34.236Z Keith Smiley <keith@users.noreply.github.com> :: bump config defaults
 2026-03-18T22:02:18.330Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak the CI matrix
 2026-03-18T22:37:18.291Z Arduino <arduino@users.noreply.github.com> :: polish null check
+2026-03-19T00:03:44.171Z David Clark <nullptrException100@users.noreply.github.com> :: clean up null check
