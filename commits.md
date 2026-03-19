@@ -8567,3 +8567,4 @@
 2026-03-19T18:48:29.981Z WebRTC <discuss-webrtc@googlegroups.com> :: polish error handling
 2026-03-19T20:57:09.107Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dead code
 2026-03-19T22:19:10.132Z Keith Smiley <keith@users.noreply.github.com> :: tweak null check
+2026-03-19T23:01:24.316Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak null check
