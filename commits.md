@@ -8559,3 +8559,4 @@
 2026-03-19T11:06:50.376Z OpenJS Foundation <info@openjsf.org> :: bump the parser
 2026-03-19T11:52:38.477Z markqvist <markqvist@users.noreply.github.com> :: fix config defaults
 2026-03-19T13:59:40.789Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: fix cache keys
+2026-03-19T15:20:11.281Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump retry logic
