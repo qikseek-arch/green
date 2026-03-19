@@ -18179,3 +18179,4 @@
 2026-03-18T23:55:27.138Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up build script
 2026-03-19T03:24:56.169Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak config defaults
 2026-03-19T04:19:25.506Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak config defaults
+2026-03-19T05:09:51.717Z Tavis Ormandy <taviso@users.noreply.github.com> :: update build script
