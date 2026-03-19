@@ -18177,3 +18177,4 @@
 2026-03-18T23:16:57.098Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up flaky test
 2026-03-18T23:17:22.306Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: fix build script
 2026-03-18T23:55:27.138Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: wire up build script
+2026-03-19T03:24:56.169Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak config defaults
