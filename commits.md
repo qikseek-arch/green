@@ -8552,3 +8552,4 @@
 2026-03-19T04:29:25.601Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove retry logic
 2026-03-19T06:45:36.953Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add dependency versions
 2026-03-19T07:00:48.882Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak edge case in auth
+2026-03-19T07:17:02.861Z WebRTC <discuss-webrtc@googlegroups.com> :: fix readme typo
