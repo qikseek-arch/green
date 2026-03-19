@@ -8556,3 +8556,4 @@
 2026-03-19T07:18:33.486Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove error handling
 2026-03-19T09:32:54.674Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump null check
 2026-03-19T11:04:01.908Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump edge case in auth
+2026-03-19T11:06:50.376Z OpenJS Foundation <info@openjsf.org> :: bump the parser
