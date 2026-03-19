@@ -8562,3 +8562,4 @@
 2026-03-19T15:20:11.281Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump retry logic
 2026-03-19T15:26:57.636Z heyli <lcxfs1991@users.noreply.github.com> :: fix flaky test
 2026-03-19T17:40:16.164Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update logging
+2026-03-19T18:09:56.442Z markqvist <markqvist@users.noreply.github.com> :: clean up the parser
