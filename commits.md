@@ -8554,3 +8554,4 @@
 2026-03-19T07:00:48.882Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak edge case in auth
 2026-03-19T07:17:02.861Z WebRTC <discuss-webrtc@googlegroups.com> :: fix readme typo
 2026-03-19T07:18:33.486Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove error handling
+2026-03-19T09:32:54.674Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump null check
