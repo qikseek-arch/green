@@ -8565,3 +8565,4 @@
 2026-03-19T18:09:56.442Z markqvist <markqvist@users.noreply.github.com> :: clean up the parser
 2026-03-19T18:38:47.158Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
 2026-03-19T18:48:29.981Z WebRTC <discuss-webrtc@googlegroups.com> :: polish error handling
+2026-03-19T20:57:09.107Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dead code
