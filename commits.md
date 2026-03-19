@@ -8547,3 +8547,4 @@
 2026-03-18T22:37:18.291Z Arduino <arduino@users.noreply.github.com> :: polish null check
 2026-03-19T00:03:44.171Z David Clark <nullptrException100@users.noreply.github.com> :: clean up null check
 2026-03-19T01:10:52.843Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: update null check
+2026-03-19T03:24:52.663Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up readme typo
