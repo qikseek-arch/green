@@ -18206,3 +18206,4 @@
 2026-03-20T07:15:41.747Z Brian Holt <btholt@users.noreply.github.com> :: fix edge case in auth
 2026-03-20T09:13:58.903Z CodeTips <CodeTips@users.noreply.github.com> :: clean up build script
 2026-03-20T10:00:26.829Z Alexandre Mutel <xoofx@users.noreply.github.com> :: tweak readme typo
+2026-03-20T11:13:58.501Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak error handling
