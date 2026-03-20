@@ -247,3 +247,4 @@
 2026-03-14T15:08:33.585Z quill <quill@fake.invalid> :: wire up the parser
 2026-03-16T14:01:55.312Z kai <kai@fake.invalid> :: add readme typo
 2026-03-17T17:24:57.649Z zero <zero@fake.invalid> :: update error handling
+2026-03-20T20:51:02.745Z vex <vex@fake.invalid> :: update dependency versions
