@@ -18221,3 +18221,4 @@
 2026-03-20T21:38:14.093Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up logging
 2026-03-20T21:44:38.678Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak dependency versions
 2026-03-20T22:24:25.471Z Brian Holt <btholt@users.noreply.github.com> :: remove error handling
+2026-03-20T22:29:18.179Z DefTruth <DefTruth@users.noreply.github.com> :: update dependency versions
