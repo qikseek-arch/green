@@ -18212,3 +18212,4 @@
 2026-03-20T13:58:56.971Z in28minutes <in28minutes@users.noreply.github.com> :: remove null check
 2026-03-20T14:41:40.412Z LMSYS <lm-sys@users.noreply.github.com> :: polish config defaults
 2026-03-20T14:43:12.033Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up edge case in auth
+2026-03-20T17:42:41.256Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish dependency versions
