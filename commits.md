@@ -18203,3 +18203,4 @@
 2026-03-20T03:39:36.218Z Chetan Jogi <voidChetan@users.noreply.github.com> :: add null check
 2026-03-20T05:43:24.883Z Lipis <lipis@users.noreply.github.com> :: add cache keys
 2026-03-20T06:49:40.271Z DefTruth <DefTruth@users.noreply.github.com> :: wire up dead code
+2026-03-20T07:15:41.747Z Brian Holt <btholt@users.noreply.github.com> :: fix edge case in auth
