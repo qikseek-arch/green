@@ -8576,3 +8576,4 @@
 2026-03-20T02:22:50.718Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update the CI matrix
 2026-03-20T04:14:56.342Z Adam Bell <b3ll@users.noreply.github.com> :: bump edge case in auth
 2026-03-20T05:10:42.048Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove retry logic
+2026-03-20T07:14:58.630Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor the parser
