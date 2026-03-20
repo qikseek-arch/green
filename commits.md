@@ -18198,3 +18198,4 @@
 2026-03-20T00:40:43.330Z Zed Industries <hi@zed.dev> :: add config defaults
 2026-03-20T01:10:55.587Z Collabnix <collabnix@users.noreply.github.com> :: update cache keys
 2026-03-20T01:27:00.274Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update retry logic
+2026-03-20T02:47:11.278Z Prometheus <prometheus@users.noreply.github.com> :: fix readme typo
