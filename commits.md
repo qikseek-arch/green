@@ -8589,3 +8589,4 @@
 2026-03-20T17:14:22.105Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
 2026-03-20T17:17:14.758Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add the parser
 2026-03-20T17:23:13.164Z First Contributions <firstcontributions@gmail.com> :: bump dependency versions
+2026-03-20T19:14:49.482Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove edge case in auth
