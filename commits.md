@@ -18208,3 +18208,4 @@
 2026-03-20T10:00:26.829Z Alexandre Mutel <xoofx@users.noreply.github.com> :: tweak readme typo
 2026-03-20T11:13:58.501Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak error handling
 2026-03-20T11:31:57.313Z Mr L <Soldy@users.noreply.github.com> :: update the CI matrix
+2026-03-20T12:21:56.820Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: add dead code
