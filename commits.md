@@ -18217,3 +18217,4 @@
 2026-03-20T19:49:28.237Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update logging
 2026-03-20T19:54:26.362Z OpenBSD <openbsd@users.noreply.github.com> :: tweak config defaults
 2026-03-20T19:58:57.078Z Prometheus <prometheus@users.noreply.github.com> :: bump flaky test
+2026-03-20T21:17:28.840Z Yiming Cui <ymcui@users.noreply.github.com> :: remove edge case in auth
