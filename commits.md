@@ -18196,3 +18196,4 @@
 2026-03-19T23:43:59.635Z Lovell Fuller <lovell@users.noreply.github.com> :: fix readme typo
 2026-03-19T23:55:41.163Z Alexandre Mutel <xoofx@users.noreply.github.com> :: refactor the parser
 2026-03-20T00:40:43.330Z Zed Industries <hi@zed.dev> :: add config defaults
+2026-03-20T01:10:55.587Z Collabnix <collabnix@users.noreply.github.com> :: update cache keys
