@@ -8593,3 +8593,4 @@
 2026-03-20T20:18:38.460Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix dependency versions
 2026-03-20T20:35:40.440Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump cache keys
 2026-03-20T22:01:55.947Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump the CI matrix
+2026-03-20T22:46:05.444Z ring04h <ring04h@users.noreply.github.com> :: fix dependency versions
