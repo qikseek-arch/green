@@ -8574,3 +8574,4 @@
 2026-03-20T02:00:38.837Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix flaky test
 2026-03-20T02:04:10.894Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump null check
 2026-03-20T02:22:50.718Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update the CI matrix
+2026-03-20T04:14:56.342Z Adam Bell <b3ll@users.noreply.github.com> :: bump edge case in auth
