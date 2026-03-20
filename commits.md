@@ -8587,3 +8587,4 @@
 2026-03-20T15:28:25.015Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add build script
 2026-03-20T16:06:06.982Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add readme typo
 2026-03-20T17:14:22.105Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
+2026-03-20T17:17:14.758Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add the parser
