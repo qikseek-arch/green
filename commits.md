@@ -8578,3 +8578,4 @@
 2026-03-20T05:10:42.048Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove retry logic
 2026-03-20T07:14:58.630Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor the parser
 2026-03-20T08:03:23.033Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak readme typo
+2026-03-20T08:26:44.047Z Keith Smiley <keith@users.noreply.github.com> :: update dead code
