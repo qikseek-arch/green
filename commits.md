@@ -18222,3 +18222,4 @@
 2026-03-20T21:44:38.678Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak dependency versions
 2026-03-20T22:24:25.471Z Brian Holt <btholt@users.noreply.github.com> :: remove error handling
 2026-03-20T22:29:18.179Z DefTruth <DefTruth@users.noreply.github.com> :: update dependency versions
+2026-03-20T22:31:19.811Z Boshen <Boshen@users.noreply.github.com> :: update readme typo
