@@ -8584,3 +8584,4 @@
 2026-03-20T13:01:31.111Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump readme typo
 2026-03-20T14:09:01.314Z qiye <qiyeboy@users.noreply.github.com> :: tweak logging
 2026-03-20T15:15:31.523Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add config defaults
+2026-03-20T15:28:25.015Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add build script
