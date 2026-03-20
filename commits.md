@@ -499,3 +499,4 @@
 2026-03-16T22:30:49.034Z Philipp Schmid <philschmid@users.noreply.github.com> :: clean up config defaults
 2026-03-18T05:41:02.246Z Yiming Cui <ymcui@users.noreply.github.com> :: remove flaky test
 2026-03-18T22:00:19.585Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: fix dead code
+2026-03-20T20:06:34.431Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: add the CI matrix
