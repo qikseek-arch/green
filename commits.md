@@ -8605,3 +8605,4 @@
 2026-03-21T08:33:47.274Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up dependency versions
 2026-03-21T08:42:51.662Z Arduino <arduino@users.noreply.github.com> :: fix error handling
 2026-03-21T08:56:20.535Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add logging
+2026-03-21T09:26:42.930Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add dead code
