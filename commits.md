@@ -8611,3 +8611,4 @@
 2026-03-21T11:43:19.951Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor error handling
 2026-03-21T12:00:18.536Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump error handling
 2026-03-21T12:51:50.094Z heyli <lcxfs1991@users.noreply.github.com> :: polish retry logic
+2026-03-21T14:17:14.016Z Getgems <getgems-io@users.noreply.github.com> :: polish edge case in auth
