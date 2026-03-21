@@ -8620,3 +8620,4 @@
 2026-03-21T20:33:02.328Z Keith Smiley <keith@users.noreply.github.com> :: tweak the parser
 2026-03-21T21:27:41.050Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump readme typo
 2026-03-21T22:35:35.694Z Claude <claude@users.noreply.github.com> :: wire up dead code
+2026-03-21T22:38:25.585Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
