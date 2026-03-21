@@ -8598,3 +8598,4 @@
 2026-03-20T23:49:59.566Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up dependency versions
 2026-03-21T00:38:06.068Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
 2026-03-21T02:11:15.444Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak cache keys
+2026-03-21T03:29:58.918Z Adam Łucek <ALucek@users.noreply.github.com> :: add error handling
