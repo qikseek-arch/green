@@ -18240,3 +18240,4 @@
 2026-03-21T18:57:34.732Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up logging
 2026-03-21T20:23:53.756Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: tweak dependency versions
 2026-03-21T20:59:37.373Z Tom Dale <tomdale@users.noreply.github.com> :: tweak flaky test
+2026-03-21T22:47:00.131Z imput <hello@imput.net> :: tweak readme typo
