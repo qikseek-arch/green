@@ -18233,3 +18233,4 @@
 2026-03-21T12:18:58.730Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: refactor flaky test
 2026-03-21T13:59:01.391Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: polish retry logic
 2026-03-21T14:50:15.274Z Islem Maboud <ipenywis@users.noreply.github.com> :: add the parser
+2026-03-21T16:19:49.310Z John Schulman <joschu@users.noreply.github.com> :: add the CI matrix
