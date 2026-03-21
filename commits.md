@@ -8607,3 +8607,4 @@
 2026-03-21T08:56:20.535Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add logging
 2026-03-21T09:26:42.930Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add dead code
 2026-03-21T10:04:34.463Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up the parser
+2026-03-21T10:38:40.063Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak null check
