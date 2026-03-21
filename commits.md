@@ -18236,3 +18236,4 @@
 2026-03-21T16:19:49.310Z John Schulman <joschu@users.noreply.github.com> :: add the CI matrix
 2026-03-21T16:22:52.483Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix edge case in auth
 2026-03-21T16:32:23.722Z OpenBMB <openbmb@gmail.com> :: fix dependency versions
+2026-03-21T17:05:18.178Z Boshen <Boshen@users.noreply.github.com> :: clean up dependency versions
