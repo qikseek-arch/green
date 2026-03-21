@@ -8617,3 +8617,4 @@
 2026-03-21T15:36:01.071Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump readme typo
 2026-03-21T15:41:30.662Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix error handling
 2026-03-21T16:11:19.309Z Odi <mathdroid@users.noreply.github.com> :: clean up the parser
+2026-03-21T20:33:02.328Z Keith Smiley <keith@users.noreply.github.com> :: tweak the parser
