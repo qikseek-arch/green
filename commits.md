@@ -18242,3 +18242,4 @@
 2026-03-21T20:59:37.373Z Tom Dale <tomdale@users.noreply.github.com> :: tweak flaky test
 2026-03-21T22:47:00.131Z imput <hello@imput.net> :: tweak readme typo
 2026-03-21T23:15:54.186Z Scott Chacon <schacon@users.noreply.github.com> :: wire up dead code
+2026-03-21T23:42:01.759Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add readme typo
