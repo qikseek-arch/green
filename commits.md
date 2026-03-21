@@ -8603,3 +8603,4 @@
 2026-03-21T05:47:13.110Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up flaky test
 2026-03-21T06:22:57.151Z vb <Vaibhavs10@users.noreply.github.com> :: fix logging
 2026-03-21T08:33:47.274Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up dependency versions
+2026-03-21T08:42:51.662Z Arduino <arduino@users.noreply.github.com> :: fix error handling
