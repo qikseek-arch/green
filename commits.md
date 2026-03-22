@@ -18244,3 +18244,4 @@
 2026-03-21T23:15:54.186Z Scott Chacon <schacon@users.noreply.github.com> :: wire up dead code
 2026-03-21T23:42:01.759Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add readme typo
 2026-03-22T01:05:30.447Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up edge case in auth
+2026-03-22T02:16:16.455Z rxi <rxi@users.noreply.github.com> :: remove logging
