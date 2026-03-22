@@ -8635,3 +8635,4 @@
 2026-03-22T06:23:43.111Z markqvist <markqvist@users.noreply.github.com> :: polish dependency versions
 2026-03-22T07:12:06.425Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add dependency versions
 2026-03-22T07:34:58.931Z Adam Bell <b3ll@users.noreply.github.com> :: remove edge case in auth
+2026-03-22T08:09:42.466Z Roger Labbe <rlabbe@users.noreply.github.com> :: add cache keys
