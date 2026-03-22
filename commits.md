@@ -18260,3 +18260,4 @@
 2026-03-22T15:35:51.749Z rxi <rxi@users.noreply.github.com> :: add the parser
 2026-03-22T16:15:17.419Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove error handling
 2026-03-22T17:17:03.261Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: polish retry logic
+2026-03-22T17:45:48.001Z Snowflake Labs <opensource@snowflake.com> :: bump null check
