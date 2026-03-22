@@ -742,3 +742,4 @@
 2026-03-17T05:12:15.320Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: wire up dead code
 2026-03-19T07:57:28.269Z Tim Pope <tpope@users.noreply.github.com> :: add flaky test
 2026-03-22T04:33:23.315Z NVIDIA Corporation <NVIDIA@users.noreply.github.com> :: refactor logging
+2026-03-22T19:06:46.598Z Wes Bos <wesbos@users.noreply.github.com> :: update dead code
