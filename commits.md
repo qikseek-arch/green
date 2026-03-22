@@ -18250,3 +18250,4 @@
 2026-03-22T04:05:44.444Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up retry logic
 2026-03-22T05:01:47.066Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
 2026-03-22T05:21:43.289Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix dependency versions
+2026-03-22T08:14:19.078Z OpenBSD <openbsd@users.noreply.github.com> :: refactor retry logic
