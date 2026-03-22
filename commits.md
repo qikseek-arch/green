@@ -18265,3 +18265,4 @@
 2026-03-22T18:12:13.373Z winterbe <winterbe@users.noreply.github.com> :: update flaky test
 2026-03-22T18:12:15.800Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove build script
 2026-03-22T18:18:24.484Z OpenBSD <openbsd@users.noreply.github.com> :: bump the parser
+2026-03-22T19:52:46.583Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up the parser
