@@ -8636,3 +8636,4 @@
 2026-03-22T07:12:06.425Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add dependency versions
 2026-03-22T07:34:58.931Z Adam Bell <b3ll@users.noreply.github.com> :: remove edge case in auth
 2026-03-22T08:09:42.466Z Roger Labbe <rlabbe@users.noreply.github.com> :: add cache keys
+2026-03-22T09:19:12.650Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak dependency versions
