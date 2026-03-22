@@ -8641,3 +8641,4 @@
 2026-03-22T11:19:30.121Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix build script
 2026-03-22T11:42:54.526Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish dead code
 2026-03-22T12:57:26.022Z vb <Vaibhavs10@users.noreply.github.com> :: wire up build script
+2026-03-22T14:03:51.569Z Shubs <infosec-au@users.noreply.github.com> :: tweak dependency versions
