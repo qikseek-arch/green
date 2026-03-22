@@ -8638,3 +8638,4 @@
 2026-03-22T08:09:42.466Z Roger Labbe <rlabbe@users.noreply.github.com> :: add cache keys
 2026-03-22T09:19:12.650Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak dependency versions
 2026-03-22T09:59:15.405Z WebRTC <discuss-webrtc@googlegroups.com> :: tweak dead code
+2026-03-22T11:19:30.121Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix build script
