@@ -504,3 +504,4 @@
 2026-03-21T22:37:52.565Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: remove the parser
 2026-03-22T04:50:37.211Z Philipp Schmid <philschmid@users.noreply.github.com> :: update flaky test
 2026-03-22T12:05:14.082Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: polish readme typo
+2026-03-22T18:06:31.577Z Susan Li <susanli2016@users.noreply.github.com> :: update edge case in auth
