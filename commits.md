@@ -8651,3 +8651,4 @@
 2026-03-22T20:25:59.242Z Adam Bell <b3ll@users.noreply.github.com> :: polish cache keys
 2026-03-22T21:30:19.016Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add logging
 2026-03-22T22:11:18.447Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak the CI matrix
+2026-03-22T22:35:51.408Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update config defaults
