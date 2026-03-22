@@ -8643,3 +8643,4 @@
 2026-03-22T12:57:26.022Z vb <Vaibhavs10@users.noreply.github.com> :: wire up build script
 2026-03-22T14:03:51.569Z Shubs <infosec-au@users.noreply.github.com> :: tweak dependency versions
 2026-03-22T14:11:09.796Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak retry logic
+2026-03-22T15:32:43.786Z Rei <chloerei@users.noreply.github.com> :: wire up the CI matrix
