@@ -18263,3 +18263,4 @@
 2026-03-22T17:45:48.001Z Snowflake Labs <opensource@snowflake.com> :: bump null check
 2026-03-22T18:09:19.959Z Islem Maboud <ipenywis@users.noreply.github.com> :: bump cache keys
 2026-03-22T18:12:13.373Z winterbe <winterbe@users.noreply.github.com> :: update flaky test
+2026-03-22T18:12:15.800Z Chetan Jogi <voidChetan@users.noreply.github.com> :: remove build script
