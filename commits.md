@@ -8633,3 +8633,4 @@
 2026-03-22T05:22:59.598Z First Contributions <firstcontributions@gmail.com> :: wire up the parser
 2026-03-22T06:23:32.616Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove null check
 2026-03-22T06:23:43.111Z markqvist <markqvist@users.noreply.github.com> :: polish dependency versions
+2026-03-22T07:12:06.425Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add dependency versions
