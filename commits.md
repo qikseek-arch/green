@@ -8623,3 +8623,4 @@
 2026-03-21T22:38:25.585Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
 2026-03-21T22:55:17.109Z OpenJS Foundation <info@openjsf.org> :: wire up the parser
 2026-03-21T23:48:12.984Z md-5 <md-5@users.noreply.github.com> :: add flaky test
+2026-03-22T00:28:29.563Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish dependency versions
