@@ -8647,3 +8647,4 @@
 2026-03-22T16:59:09.259Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
 2026-03-22T17:21:26.049Z Arduino <arduino@users.noreply.github.com> :: tweak logging
 2026-03-22T18:12:30.460Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update null check
+2026-03-22T19:01:15.744Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up retry logic
