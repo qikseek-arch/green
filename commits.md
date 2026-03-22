@@ -18269,3 +18269,4 @@
 2026-03-22T20:18:48.951Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: fix dead code
 2026-03-22T21:31:47.905Z Brian Holt <btholt@users.noreply.github.com> :: tweak build script
 2026-03-22T21:57:55.881Z Andreas Kling <awesomekling@users.noreply.github.com> :: add dead code
+2026-03-22T23:31:29.589Z Alex Teichman <teichman@users.noreply.github.com> :: wire up the CI matrix
