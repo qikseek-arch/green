@@ -8629,3 +8629,4 @@
 2026-03-22T01:59:03.528Z Inanc Gumus <inancgumus@users.noreply.github.com> :: wire up retry logic
 2026-03-22T03:18:19.798Z ㅤxander <vampirist@users.noreply.github.com> :: bump retry logic
 2026-03-22T04:26:42.948Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add build script
+2026-03-22T04:29:34.791Z Keith Smiley <keith@users.noreply.github.com> :: polish config defaults
