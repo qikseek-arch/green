@@ -18278,3 +18278,4 @@
 2026-03-23T03:04:29.396Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish retry logic
 2026-03-23T03:13:27.453Z Snowflake Labs <opensource@snowflake.com> :: remove the parser
 2026-03-23T03:59:44.812Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: remove the CI matrix
+2026-03-23T04:27:36.530Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor dead code
