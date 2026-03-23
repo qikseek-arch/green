@@ -505,3 +505,4 @@
 2026-03-22T04:50:37.211Z Philipp Schmid <philschmid@users.noreply.github.com> :: update flaky test
 2026-03-22T12:05:14.082Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: polish readme typo
 2026-03-22T18:06:31.577Z Susan Li <susanli2016@users.noreply.github.com> :: update edge case in auth
+2026-03-23T03:19:00.373Z Andrei Kashcha <anvaka@users.noreply.github.com> :: clean up build script
