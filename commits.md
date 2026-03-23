@@ -18276,3 +18276,4 @@
 2026-03-23T01:57:24.725Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak dependency versions
 2026-03-23T02:45:24.989Z OpenBMB <openbmb@gmail.com> :: remove readme typo
 2026-03-23T03:04:29.396Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish retry logic
+2026-03-23T03:13:27.453Z Snowflake Labs <opensource@snowflake.com> :: remove the parser
