@@ -18288,3 +18288,4 @@
 2026-03-23T10:00:07.735Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak edge case in auth
 2026-03-23T11:32:36.163Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update config defaults
 2026-03-23T12:06:06.037Z Snowflake Labs <opensource@snowflake.com> :: wire up cache keys
+2026-03-23T12:51:55.797Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add readme typo
