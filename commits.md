@@ -8674,3 +8674,4 @@
 2026-03-23T19:05:25.807Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish config defaults
 2026-03-23T19:19:52.987Z ring04h <ring04h@users.noreply.github.com> :: tweak error handling
 2026-03-23T19:53:09.059Z Adam Bell <b3ll@users.noreply.github.com> :: tweak logging
+2026-03-23T20:14:06.542Z Rei <chloerei@users.noreply.github.com> :: add null check
