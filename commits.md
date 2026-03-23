@@ -8662,3 +8662,4 @@
 2026-03-23T09:22:31.960Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update flaky test
 2026-03-23T10:58:32.125Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
 2026-03-23T11:25:33.142Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up readme typo
+2026-03-23T11:28:16.561Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up edge case in auth
