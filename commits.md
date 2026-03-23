@@ -18295,3 +18295,4 @@
 2026-03-23T14:23:14.768Z in28minutes <in28minutes@users.noreply.github.com> :: add config defaults
 2026-03-23T14:45:17.227Z Michael Jackson <mjackson@users.noreply.github.com> :: fix dependency versions
 2026-03-23T16:35:58.784Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak build script
+2026-03-23T17:04:55.285Z Xingang Pan <XingangPan@users.noreply.github.com> :: add edge case in auth
