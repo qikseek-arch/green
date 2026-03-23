@@ -18292,3 +18292,4 @@
 2026-03-23T13:39:18.603Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor config defaults
 2026-03-23T13:50:18.539Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove dead code
 2026-03-23T14:13:36.642Z Brendan Gregg <brendangregg@users.noreply.github.com> :: clean up flaky test
+2026-03-23T14:23:14.768Z in28minutes <in28minutes@users.noreply.github.com> :: add config defaults
