@@ -8676,3 +8676,4 @@
 2026-03-23T19:53:09.059Z Adam Bell <b3ll@users.noreply.github.com> :: tweak logging
 2026-03-23T20:14:06.542Z Rei <chloerei@users.noreply.github.com> :: add null check
 2026-03-23T20:36:12.072Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish dependency versions
+2026-03-23T21:04:50.110Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor cache keys
