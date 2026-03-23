@@ -8672,3 +8672,4 @@
 2026-03-23T16:58:22.963Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump cache keys
 2026-03-23T17:57:40.858Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove config defaults
 2026-03-23T19:05:25.807Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish config defaults
+2026-03-23T19:19:52.987Z ring04h <ring04h@users.noreply.github.com> :: tweak error handling
