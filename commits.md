@@ -18298,3 +18298,4 @@
 2026-03-23T17:04:55.285Z Xingang Pan <XingangPan@users.noreply.github.com> :: add edge case in auth
 2026-03-23T20:30:28.933Z Morvan <MorvanZhou@users.noreply.github.com> :: remove the parser
 2026-03-23T21:43:54.235Z Amie Lynn <stoked-zz@users.noreply.github.com> :: fix flaky test
+2026-03-23T22:58:42.106Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak readme typo
