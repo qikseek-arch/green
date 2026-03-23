@@ -18285,3 +18285,4 @@
 2026-03-23T08:02:53.641Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish dead code
 2026-03-23T08:17:37.616Z Brian Holt <btholt@users.noreply.github.com> :: add cache keys
 2026-03-23T08:46:52.416Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish cache keys
+2026-03-23T10:00:07.735Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak edge case in auth
