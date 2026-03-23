@@ -18286,3 +18286,4 @@
 2026-03-23T08:17:37.616Z Brian Holt <btholt@users.noreply.github.com> :: add cache keys
 2026-03-23T08:46:52.416Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish cache keys
 2026-03-23T10:00:07.735Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak edge case in auth
+2026-03-23T11:32:36.163Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: update config defaults
