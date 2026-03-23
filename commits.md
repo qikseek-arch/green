@@ -8660,3 +8660,4 @@
 2026-03-23T06:37:54.408Z Adam Łucek <ALucek@users.noreply.github.com> :: remove logging
 2026-03-23T08:36:21.766Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish the parser
 2026-03-23T09:22:31.960Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update flaky test
+2026-03-23T10:58:32.125Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
