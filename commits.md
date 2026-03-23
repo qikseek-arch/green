@@ -18283,3 +18283,4 @@
 2026-03-23T06:11:41.585Z 千古壹号 <qianguyihao@users.noreply.github.com> :: refactor readme typo
 2026-03-23T06:23:35.839Z Alexandre Mutel <xoofx@users.noreply.github.com> :: tweak error handling
 2026-03-23T08:02:53.641Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish dead code
+2026-03-23T08:17:37.616Z Brian Holt <btholt@users.noreply.github.com> :: add cache keys
