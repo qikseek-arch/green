@@ -18281,3 +18281,4 @@
 2026-03-23T04:27:36.530Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor dead code
 2026-03-23T05:39:06.090Z Henry <hzoo@users.noreply.github.com> :: update error handling
 2026-03-23T06:11:41.585Z 千古壹号 <qianguyihao@users.noreply.github.com> :: refactor readme typo
+2026-03-23T06:23:35.839Z Alexandre Mutel <xoofx@users.noreply.github.com> :: tweak error handling
