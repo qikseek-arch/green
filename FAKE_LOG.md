@@ -542,3 +542,4 @@
 2026-03-11T23:36:59.316Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: polish the parser
 2026-03-13T17:09:09.332Z Vercel <vercel@users.noreply.github.com> :: bump flaky test
 2026-03-14T22:25:57.025Z Diego Fernandes <diego3g@users.noreply.github.com> :: bump logging
+2026-03-23T02:14:50.802Z Visual Studio Code <Visual-Studio-Code@users.noreply.github.com> :: tweak edge case in auth
