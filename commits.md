@@ -8654,3 +8654,4 @@
 2026-03-22T22:35:51.408Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update config defaults
 2026-03-22T23:42:11.532Z David Fowler <davidfowl@users.noreply.github.com> :: add edge case in auth
 2026-03-23T00:02:01.302Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak config defaults
+2026-03-23T03:12:36.514Z Taiko Foundation <info@taiko.xyz> :: update the CI matrix
