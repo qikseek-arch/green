@@ -8680,3 +8680,4 @@
 2026-03-24T01:19:25.187Z vb <Vaibhavs10@users.noreply.github.com> :: fix config defaults
 2026-03-24T03:01:08.220Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove build script
 2026-03-24T06:28:31.085Z Taiko Foundation <info@taiko.xyz> :: remove dependency versions
+2026-03-24T07:11:03.888Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up logging
