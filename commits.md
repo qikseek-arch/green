@@ -8678,3 +8678,4 @@
 2026-03-23T20:36:12.072Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish dependency versions
 2026-03-23T21:04:50.110Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor cache keys
 2026-03-24T01:19:25.187Z vb <Vaibhavs10@users.noreply.github.com> :: fix config defaults
+2026-03-24T03:01:08.220Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove build script
