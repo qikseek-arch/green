@@ -18323,3 +18323,4 @@
 2026-03-24T19:19:54.164Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix readme typo
 2026-03-24T20:09:55.224Z Amnezia VPN <support@amnezia.org> :: wire up retry logic
 2026-03-24T20:37:35.694Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add readme typo
+2026-03-24T22:23:57.498Z Collabnix <collabnix@users.noreply.github.com> :: remove build script
