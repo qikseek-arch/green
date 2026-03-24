@@ -8682,3 +8682,4 @@
 2026-03-24T06:28:31.085Z Taiko Foundation <info@taiko.xyz> :: remove dependency versions
 2026-03-24T07:11:03.888Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up logging
 2026-03-24T09:11:55.589Z Taiko Foundation <info@taiko.xyz> :: add config defaults
+2026-03-24T09:21:48.573Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump the CI matrix
