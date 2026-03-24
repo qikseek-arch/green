@@ -510,3 +510,4 @@
 2026-03-23T19:06:46.046Z Changkun Ou <changkun@users.noreply.github.com> :: update cache keys
 2026-03-24T05:28:05.200Z Craig <geekcomputers@users.noreply.github.com> :: tweak flaky test
 2026-03-24T07:33:36.711Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up config defaults
+2026-03-24T15:28:03.817Z Mark Erikson <markerikson@users.noreply.github.com> :: remove dead code
