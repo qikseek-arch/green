@@ -18313,3 +18313,4 @@
 2026-03-24T09:50:40.655Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish the parser
 2026-03-24T11:33:12.238Z Cezanne Camacho <cezannec@users.noreply.github.com> :: wire up the CI matrix
 2026-03-24T11:41:53.612Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: polish flaky test
+2026-03-24T12:07:07.870Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish config defaults
