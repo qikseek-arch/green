@@ -8684,3 +8684,4 @@
 2026-03-24T09:11:55.589Z Taiko Foundation <info@taiko.xyz> :: add config defaults
 2026-03-24T09:21:48.573Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump the CI matrix
 2026-03-24T09:34:12.292Z AI4Bhārat <opensource@ai4bharat.org> :: update null check
+2026-03-24T11:19:04.783Z Adam Bell <b3ll@users.noreply.github.com> :: bump dead code
