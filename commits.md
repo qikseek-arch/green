@@ -18320,3 +18320,4 @@
 2026-03-24T17:31:40.383Z Snowflake Labs <opensource@snowflake.com> :: refactor edge case in auth
 2026-03-24T17:32:02.193Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak error handling
 2026-03-24T18:41:23.687Z Scott Chacon <schacon@users.noreply.github.com> :: bump readme typo
+2026-03-24T19:19:54.164Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix readme typo
