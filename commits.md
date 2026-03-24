@@ -18316,3 +18316,4 @@
 2026-03-24T12:07:07.870Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish config defaults
 2026-03-24T16:53:52.845Z 1 <insoxin@users.noreply.github.com> :: remove dependency versions
 2026-03-24T17:11:32.259Z Chetan Jogi <voidChetan@users.noreply.github.com> :: tweak null check
+2026-03-24T17:24:23.495Z Alex Teichman <teichman@users.noreply.github.com> :: add readme typo
