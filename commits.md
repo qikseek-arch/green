@@ -8686,3 +8686,4 @@
 2026-03-24T09:34:12.292Z AI4Bhārat <opensource@ai4bharat.org> :: update null check
 2026-03-24T11:19:04.783Z Adam Bell <b3ll@users.noreply.github.com> :: bump dead code
 2026-03-24T13:10:42.735Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up logging
+2026-03-24T14:28:43.216Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor dependency versions
