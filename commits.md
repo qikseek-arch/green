@@ -8690,3 +8690,4 @@
 2026-03-24T17:28:46.152Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish retry logic
 2026-03-24T18:30:42.475Z qiye <qiyeboy@users.noreply.github.com> :: update logging
 2026-03-24T18:44:36.849Z Adam Bell <b3ll@users.noreply.github.com> :: update edge case in auth
+2026-03-24T19:05:02.604Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix config defaults
