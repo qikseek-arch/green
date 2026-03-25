@@ -18337,3 +18337,4 @@
 2026-03-25T04:29:19.407Z Alex Teichman <teichman@users.noreply.github.com> :: polish cache keys
 2026-03-25T05:46:15.025Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor retry logic
 2026-03-25T06:18:44.669Z Brian Holt <btholt@users.noreply.github.com> :: clean up error handling
+2026-03-25T06:46:20.961Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add dead code
