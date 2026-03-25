@@ -18355,3 +18355,4 @@
 2026-03-25T14:05:53.538Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up dependency versions
 2026-03-25T15:20:10.132Z John Schulman <joschu@users.noreply.github.com> :: fix edge case in auth
 2026-03-25T15:37:54.700Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix dependency versions
+2026-03-25T16:11:54.312Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove readme typo
