@@ -8694,3 +8694,4 @@
 2026-03-24T19:37:20.264Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix edge case in auth
 2026-03-24T19:38:21.657Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump build script
 2026-03-25T00:16:29.220Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump flaky test
+2026-03-25T00:33:43.361Z CTFs <ctfs@users.noreply.github.com> :: bump the CI matrix
