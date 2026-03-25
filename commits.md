@@ -18331,3 +18331,4 @@
 2026-03-25T00:55:34.898Z LocalSend <localsend@users.noreply.github.com> :: wire up logging
 2026-03-25T01:32:13.778Z Boshen <Boshen@users.noreply.github.com> :: remove the CI matrix
 2026-03-25T01:47:00.192Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: add retry logic
+2026-03-25T02:05:14.571Z Lipis <lipis@users.noreply.github.com> :: clean up the parser
