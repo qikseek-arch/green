@@ -18353,3 +18353,4 @@
 2026-03-25T13:45:22.838Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
 2026-03-25T13:45:49.235Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up dependency versions
 2026-03-25T14:05:53.538Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up dependency versions
+2026-03-25T15:20:10.132Z John Schulman <joschu@users.noreply.github.com> :: fix edge case in auth
