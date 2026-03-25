@@ -18344,3 +18344,4 @@
 2026-03-25T08:38:21.224Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump flaky test
 2026-03-25T09:03:58.062Z Jordan Harband <ljharb@users.noreply.github.com> :: update the CI matrix
 2026-03-25T10:31:30.244Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update error handling
+2026-03-25T10:44:22.990Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish the parser
