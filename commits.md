@@ -18348,3 +18348,4 @@
 2026-03-25T11:26:13.231Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak readme typo
 2026-03-25T12:27:11.753Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix readme typo
 2026-03-25T12:47:29.523Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix edge case in auth
+2026-03-25T13:07:39.197Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
