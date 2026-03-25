@@ -8706,3 +8706,4 @@
 2026-03-25T12:31:08.613Z Barret李靖 <barretlee@users.noreply.github.com> :: polish logging
 2026-03-25T12:49:25.960Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update retry logic
 2026-03-25T13:43:19.546Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump retry logic
+2026-03-25T14:51:41.442Z md-5 <md-5@users.noreply.github.com> :: update error handling
