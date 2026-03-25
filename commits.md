@@ -18363,3 +18363,4 @@
 2026-03-25T20:26:20.627Z winterbe <winterbe@users.noreply.github.com> :: bump cache keys
 2026-03-25T20:36:25.481Z Alex Teichman <teichman@users.noreply.github.com> :: update dependency versions
 2026-03-25T23:52:45.806Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove cache keys
+2026-03-25T23:53:27.833Z Tom Dale <tomdale@users.noreply.github.com> :: clean up config defaults
