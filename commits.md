@@ -18329,3 +18329,4 @@
 2026-03-24T23:34:39.810Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor retry logic
 2026-03-25T00:10:08.674Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: update error handling
 2026-03-25T00:55:34.898Z LocalSend <localsend@users.noreply.github.com> :: wire up logging
+2026-03-25T01:32:13.778Z Boshen <Boshen@users.noreply.github.com> :: remove the CI matrix
