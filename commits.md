@@ -8711,3 +8711,4 @@
 2026-03-25T17:16:12.567Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up logging
 2026-03-25T18:26:20.112Z vb <Vaibhavs10@users.noreply.github.com> :: wire up the CI matrix
 2026-03-25T19:54:32.449Z AI4Bhārat <opensource@ai4bharat.org> :: fix error handling
+2026-03-25T21:42:42.246Z AI4Bhārat <opensource@ai4bharat.org> :: update dependency versions
