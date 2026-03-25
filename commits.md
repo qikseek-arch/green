@@ -8699,3 +8699,4 @@
 2026-03-25T06:02:44.945Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add flaky test
 2026-03-25T07:40:49.537Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up null check
 2026-03-25T09:37:51.029Z Shubs <infosec-au@users.noreply.github.com> :: fix build script
+2026-03-25T10:19:15.875Z md-5 <md-5@users.noreply.github.com> :: remove error handling
