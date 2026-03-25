@@ -8714,3 +8714,4 @@
 2026-03-25T21:42:42.246Z AI4Bhārat <opensource@ai4bharat.org> :: update dependency versions
 2026-03-25T21:59:06.187Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up edge case in auth
 2026-03-25T23:16:36.834Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump flaky test
+2026-03-25T23:35:16.910Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up build script
