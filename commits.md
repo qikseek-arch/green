@@ -18345,3 +18345,4 @@
 2026-03-25T09:03:58.062Z Jordan Harband <ljharb@users.noreply.github.com> :: update the CI matrix
 2026-03-25T10:31:30.244Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update error handling
 2026-03-25T10:44:22.990Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish the parser
+2026-03-25T11:26:13.231Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak readme typo
