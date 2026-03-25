@@ -18346,3 +18346,4 @@
 2026-03-25T10:31:30.244Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: update error handling
 2026-03-25T10:44:22.990Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish the parser
 2026-03-25T11:26:13.231Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak readme typo
+2026-03-25T12:27:11.753Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix readme typo
