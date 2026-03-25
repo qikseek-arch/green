@@ -8709,3 +8709,4 @@
 2026-03-25T14:51:41.442Z md-5 <md-5@users.noreply.github.com> :: update error handling
 2026-03-25T17:13:42.846Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove flaky test
 2026-03-25T17:16:12.567Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up logging
+2026-03-25T18:26:20.112Z vb <Vaibhavs10@users.noreply.github.com> :: wire up the CI matrix
