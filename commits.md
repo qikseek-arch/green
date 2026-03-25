@@ -18352,3 +18352,4 @@
 2026-03-25T13:41:50.846Z Boshen <Boshen@users.noreply.github.com> :: clean up flaky test
 2026-03-25T13:45:22.838Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
 2026-03-25T13:45:49.235Z SurrealDB <surrealdb@users.noreply.github.com> :: wire up dependency versions
+2026-03-25T14:05:53.538Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up dependency versions
