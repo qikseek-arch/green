@@ -18350,3 +18350,4 @@
 2026-03-25T12:47:29.523Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix edge case in auth
 2026-03-25T13:07:39.197Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the parser
 2026-03-25T13:41:50.846Z Boshen <Boshen@users.noreply.github.com> :: clean up flaky test
+2026-03-25T13:45:22.838Z Scott Chacon <schacon@users.noreply.github.com> :: update config defaults
