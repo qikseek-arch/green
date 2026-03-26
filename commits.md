@@ -8728,3 +8728,4 @@
 2026-03-26T13:12:45.887Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
 2026-03-26T13:40:30.048Z Arduino <arduino@users.noreply.github.com> :: wire up config defaults
 2026-03-26T14:06:53.477Z Adam Łucek <ALucek@users.noreply.github.com> :: polish dependency versions
+2026-03-26T15:20:04.814Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove the CI matrix
