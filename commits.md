@@ -18374,3 +18374,4 @@
 2026-03-26T07:05:47.564Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: wire up cache keys
 2026-03-26T08:05:28.962Z OpenBMB <openbmb@gmail.com> :: update retry logic
 2026-03-26T08:18:12.580Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish readme typo
+2026-03-26T08:35:58.692Z Damian Gryski <dgryski@users.noreply.github.com> :: remove dependency versions
