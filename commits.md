@@ -8725,3 +8725,4 @@
 2026-03-26T08:18:29.265Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor dependency versions
 2026-03-26T08:51:51.338Z qiye <qiyeboy@users.noreply.github.com> :: update the CI matrix
 2026-03-26T11:50:51.299Z md-5 <md-5@users.noreply.github.com> :: add the parser
+2026-03-26T13:12:45.887Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
