@@ -18393,3 +18393,4 @@
 2026-03-26T19:07:50.890Z Xingang Pan <XingangPan@users.noreply.github.com> :: remove config defaults
 2026-03-26T19:18:34.755Z DefTruth <DefTruth@users.noreply.github.com> :: fix the CI matrix
 2026-03-26T20:21:04.775Z 1 <insoxin@users.noreply.github.com> :: clean up the parser
+2026-03-26T21:47:52.943Z in28minutes <in28minutes@users.noreply.github.com> :: refactor dependency versions
