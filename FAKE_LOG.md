@@ -746,3 +746,4 @@
 2026-03-23T07:56:06.371Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up the CI matrix
 2026-03-25T18:41:01.645Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: refactor the parser
 2026-03-26T09:23:26.608Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: clean up dead code
+2026-03-26T18:23:23.503Z Alex The Analyst <AlexTheAnalyst@users.noreply.github.com> :: tweak retry logic
