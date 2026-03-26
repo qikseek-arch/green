@@ -8735,3 +8735,4 @@
 2026-03-26T20:40:35.247Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the CI matrix
 2026-03-26T22:05:20.856Z Odi <mathdroid@users.noreply.github.com> :: polish readme typo
 2026-03-26T22:49:02.422Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add dead code
+2026-03-26T23:02:24.161Z ring04h <ring04h@users.noreply.github.com> :: polish null check
