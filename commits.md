@@ -8715,3 +8715,4 @@
 2026-03-25T21:59:06.187Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up edge case in auth
 2026-03-25T23:16:36.834Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump flaky test
 2026-03-25T23:35:16.910Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up build script
+2026-03-26T00:18:59.103Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dead code
