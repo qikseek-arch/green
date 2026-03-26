@@ -8718,3 +8718,4 @@
 2026-03-26T00:18:59.103Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dead code
 2026-03-26T03:45:51.402Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor config defaults
 2026-03-26T04:45:38.658Z qiye <qiyeboy@users.noreply.github.com> :: remove flaky test
+2026-03-26T05:48:06.834Z Sachin Soni <techiesms@users.noreply.github.com> :: fix dependency versions
