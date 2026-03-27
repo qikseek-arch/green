@@ -517,3 +517,4 @@
 2026-03-25T17:34:13.253Z Susan Li <susanli2016@users.noreply.github.com> :: bump config defaults
 2026-03-27T11:05:13.760Z David Robinson <dgrtwo@users.noreply.github.com> :: add the CI matrix
 2026-03-27T14:21:14.770Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: bump null check
+2026-03-27T17:39:09.953Z MASSGRAVE <massgravel@users.noreply.github.com> :: refactor the CI matrix
