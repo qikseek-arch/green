@@ -8765,3 +8765,4 @@
 2026-03-27T19:50:30.333Z Adam Bell <b3ll@users.noreply.github.com> :: fix error handling
 2026-03-27T20:07:45.333Z CTFs <ctfs@users.noreply.github.com> :: add null check
 2026-03-27T20:48:36.367Z markqvist <markqvist@users.noreply.github.com> :: tweak error handling
+2026-03-27T21:01:59.006Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up edge case in auth
