@@ -8764,3 +8764,4 @@
 2026-03-27T18:52:21.213Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor cache keys
 2026-03-27T19:50:30.333Z Adam Bell <b3ll@users.noreply.github.com> :: fix error handling
 2026-03-27T20:07:45.333Z CTFs <ctfs@users.noreply.github.com> :: add null check
+2026-03-27T20:48:36.367Z markqvist <markqvist@users.noreply.github.com> :: tweak error handling
