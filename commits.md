@@ -18402,3 +18402,4 @@
 2026-03-27T06:08:16.252Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor readme typo
 2026-03-27T06:25:27.107Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove null check
 2026-03-27T06:51:02.031Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add dependency versions
+2026-03-27T07:38:00.316Z Amie Lynn <stoked-zz@users.noreply.github.com> :: remove dependency versions
