@@ -8739,3 +8739,4 @@
 2026-03-26T23:28:21.871Z Rei <chloerei@users.noreply.github.com> :: refactor readme typo
 2026-03-26T23:50:23.804Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump error handling
 2026-03-27T00:52:42.302Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up config defaults
+2026-03-27T02:36:32.749Z SouJunior <wouerner@soujunior.tech> :: clean up cache keys
