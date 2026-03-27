@@ -18413,3 +18413,4 @@
 2026-03-27T11:09:49.179Z Aman Kumar <Amanc77@users.noreply.github.com> :: clean up dead code
 2026-03-27T12:38:13.955Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish logging
 2026-03-27T13:06:35.957Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak retry logic
+2026-03-27T13:06:51.170Z Scott Chacon <schacon@users.noreply.github.com> :: add logging
