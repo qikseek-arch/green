@@ -18397,3 +18397,4 @@
 2026-03-26T22:14:02.042Z John Schulman <joschu@users.noreply.github.com> :: refactor retry logic
 2026-03-26T22:30:13.949Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak logging
 2026-03-27T02:35:28.597Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up readme typo
+2026-03-27T03:50:31.563Z Tom Dale <tomdale@users.noreply.github.com> :: add null check
