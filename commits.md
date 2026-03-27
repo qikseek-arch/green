@@ -8744,3 +8744,4 @@
 2026-03-27T06:11:43.284Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor readme typo
 2026-03-27T06:25:51.171Z markqvist <markqvist@users.noreply.github.com> :: update retry logic
 2026-03-27T06:41:21.954Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak build script
+2026-03-27T06:44:23.334Z David Fowler <davidfowl@users.noreply.github.com> :: polish config defaults
