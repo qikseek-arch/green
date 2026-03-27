@@ -8748,3 +8748,4 @@
 2026-03-27T07:23:43.037Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: add error handling
 2026-03-27T07:51:27.004Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor retry logic
 2026-03-27T07:53:35.786Z Shubs <infosec-au@users.noreply.github.com> :: refactor retry logic
+2026-03-27T08:00:00.548Z Taiko Foundation <info@taiko.xyz> :: add build script
