@@ -18421,3 +18421,4 @@
 2026-03-27T20:12:22.926Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove dependency versions
 2026-03-27T20:17:45.618Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: add dead code
 2026-03-27T21:22:34.788Z Tom Dale <tomdale@users.noreply.github.com> :: remove cache keys
+2026-03-27T21:36:54.618Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add null check
