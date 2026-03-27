@@ -8759,3 +8759,4 @@
 2026-03-27T14:10:12.928Z Fady Farag <iidmsa@users.noreply.github.com> :: clean up flaky test
 2026-03-27T14:18:34.723Z qiye <qiyeboy@users.noreply.github.com> :: remove the parser
 2026-03-27T15:47:02.312Z Sachin Soni <techiesms@users.noreply.github.com> :: bump build script
+2026-03-27T16:04:05.606Z OpenJS Foundation <info@openjsf.org> :: fix the parser
