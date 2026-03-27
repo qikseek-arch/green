@@ -18401,3 +18401,4 @@
 2026-03-27T04:10:53.032Z Marcel Pociot <mpociot@users.noreply.github.com> :: add config defaults
 2026-03-27T06:08:16.252Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: refactor readme typo
 2026-03-27T06:25:27.107Z Aman Kumar <Amanc77@users.noreply.github.com> :: remove null check
+2026-03-27T06:51:02.031Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add dependency versions
