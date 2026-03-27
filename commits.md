@@ -8755,3 +8755,4 @@
 2026-03-27T12:24:40.406Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: polish flaky test
 2026-03-27T12:34:19.413Z qiye <qiyeboy@users.noreply.github.com> :: remove dependency versions
 2026-03-27T12:58:04.056Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: add the CI matrix
+2026-03-27T13:30:59.475Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add readme typo
