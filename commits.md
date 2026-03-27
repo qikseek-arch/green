@@ -8767,3 +8767,4 @@
 2026-03-27T20:48:36.367Z markqvist <markqvist@users.noreply.github.com> :: tweak error handling
 2026-03-27T21:01:59.006Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up edge case in auth
 2026-03-27T21:42:58.771Z Almas Baim <AlmasB@users.noreply.github.com> :: remove null check
+2026-03-27T21:45:36.722Z David Fowler <davidfowl@users.noreply.github.com> :: polish readme typo
