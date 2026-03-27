@@ -448,3 +448,4 @@
 2026-03-14T21:29:40.808Z arcane-cobra1337 <arcane-cobra1337@fake.invalid> :: bump build script
 2026-03-17T06:41:48.439Z Sindre Sorhus <sindre.sorhus@fake.invalid> :: remove dead code
 2026-03-18T14:22:10.880Z ArcanePacket <arcanepacket@fake.invalid> :: add config defaults
+2026-03-27T18:50:30.432Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: fix logging
