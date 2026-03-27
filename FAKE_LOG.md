@@ -97,3 +97,4 @@
 2026-03-21T10:52:56.733Z hypercomet792 <hypercomet792@users.noreply.github.com> :: tweak retry logic
 2026-03-26T03:46:45.128Z Ken Iverson <ken.iverson@example.com> :: bump dependency versions
 2026-03-27T05:11:00.607Z MoltenLlama <moltenllama@users.noreply.github.com> :: clean up config defaults
+2026-03-27T21:47:15.148Z Anders Hejlsberg <anders.hejlsberg@example.com> :: clean up error handling
