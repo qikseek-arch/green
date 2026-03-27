@@ -8741,3 +8741,4 @@
 2026-03-27T00:52:42.302Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up config defaults
 2026-03-27T02:36:32.749Z SouJunior <wouerner@soujunior.tech> :: clean up cache keys
 2026-03-27T05:46:02.100Z OpenJS Foundation <info@openjsf.org> :: fix dead code
+2026-03-27T06:11:43.284Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor readme typo
