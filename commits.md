@@ -8762,3 +8762,4 @@
 2026-03-27T16:04:05.606Z OpenJS Foundation <info@openjsf.org> :: fix the parser
 2026-03-27T16:18:39.426Z First Contributions <firstcontributions@gmail.com> :: add readme typo
 2026-03-27T18:52:21.213Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor cache keys
+2026-03-27T19:50:30.333Z Adam Bell <b3ll@users.noreply.github.com> :: fix error handling
