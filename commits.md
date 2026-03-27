@@ -18416,3 +18416,4 @@
 2026-03-27T13:06:51.170Z Scott Chacon <schacon@users.noreply.github.com> :: add logging
 2026-03-27T13:43:19.365Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump readme typo
 2026-03-27T15:41:55.865Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump build script
+2026-03-27T18:06:29.555Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: tweak the CI matrix
