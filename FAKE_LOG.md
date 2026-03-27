@@ -449,3 +449,4 @@
 2026-03-17T06:41:48.439Z Sindre Sorhus <sindre.sorhus@fake.invalid> :: remove dead code
 2026-03-18T14:22:10.880Z ArcanePacket <arcanepacket@fake.invalid> :: add config defaults
 2026-03-27T18:50:30.432Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: fix logging
+2026-03-27T20:24:45.856Z daemon_neon1337 <daemon_neon1337@fake.invalid> :: bump dependency versions
