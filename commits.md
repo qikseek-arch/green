@@ -18412,3 +18412,4 @@
 2026-03-27T10:49:31.734Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix readme typo
 2026-03-27T11:09:49.179Z Aman Kumar <Amanc77@users.noreply.github.com> :: clean up dead code
 2026-03-27T12:38:13.955Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish logging
+2026-03-27T13:06:35.957Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak retry logic
