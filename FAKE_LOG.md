@@ -249,3 +249,4 @@
 2026-03-17T17:24:57.649Z zero <zero@fake.invalid> :: update error handling
 2026-03-20T20:51:02.745Z vex <vex@fake.invalid> :: update dependency versions
 2026-03-25T18:15:17.927Z zero <zero@fake.invalid> :: update flaky test
+2026-03-28T06:42:53.929Z wisp <wisp@fake.invalid> :: fix retry logic
