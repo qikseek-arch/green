@@ -8779,3 +8779,4 @@
 2026-03-28T07:44:53.409Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update logging
 2026-03-28T08:31:51.437Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish config defaults
 2026-03-28T09:16:34.434Z Shubs <infosec-au@users.noreply.github.com> :: polish logging
+2026-03-28T09:59:20.538Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up edge case in auth
