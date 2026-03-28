@@ -8772,3 +8772,4 @@
 2026-03-28T02:00:38.123Z markqvist <markqvist@users.noreply.github.com> :: tweak retry logic
 2026-03-28T03:00:18.462Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor flaky test
 2026-03-28T03:03:03.367Z BBC <bbc@users.noreply.github.com> :: tweak retry logic
+2026-03-28T04:14:21.763Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the CI matrix
