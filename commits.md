@@ -18455,3 +18455,4 @@
 2026-03-28T20:11:00.725Z Michael Jackson <mjackson@users.noreply.github.com> :: update the CI matrix
 2026-03-28T21:35:00.336Z Jabrils <Jabrils@users.noreply.github.com> :: fix logging
 2026-03-28T21:41:43.284Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: update dead code
+2026-03-28T21:42:45.732Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
