@@ -520,3 +520,4 @@
 2026-03-27T17:39:09.953Z MASSGRAVE <massgravel@users.noreply.github.com> :: refactor the CI matrix
 2026-03-27T21:11:35.065Z Iuri Silva <iuricode@users.noreply.github.com> :: polish flaky test
 2026-03-27T22:36:51.653Z Rob Fuller <mubix@users.noreply.github.com> :: clean up error handling
+2026-03-28T01:19:15.293Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak error handling
