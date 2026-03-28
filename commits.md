@@ -8797,3 +8797,4 @@
 2026-03-28T20:15:25.219Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the parser
 2026-03-28T20:22:26.257Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up null check
 2026-03-28T21:00:56.125Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak dependency versions
+2026-03-28T21:52:50.456Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add the CI matrix
