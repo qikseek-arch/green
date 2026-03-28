@@ -18444,3 +18444,4 @@
 2026-03-28T11:23:14.164Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up null check
 2026-03-28T11:57:16.806Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: polish dependency versions
 2026-03-28T12:53:01.606Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update the parser
+2026-03-28T12:54:57.067Z Elliott Minns <elliottminns@users.noreply.github.com> :: add dead code
