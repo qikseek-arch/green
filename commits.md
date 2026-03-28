@@ -18423,3 +18423,4 @@
 2026-03-27T21:22:34.788Z Tom Dale <tomdale@users.noreply.github.com> :: remove cache keys
 2026-03-27T21:36:54.618Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add null check
 2026-03-27T23:38:49.356Z Scott Chacon <schacon@users.noreply.github.com> :: add edge case in auth
+2026-03-28T00:22:09.397Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix dead code
