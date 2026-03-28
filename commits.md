@@ -8783,3 +8783,4 @@
 2026-03-28T10:17:20.072Z Manu Arora <manuarora700@users.noreply.github.com> :: fix config defaults
 2026-03-28T10:21:27.916Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
 2026-03-28T12:37:57.123Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor retry logic
+2026-03-28T12:52:06.710Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump the CI matrix
