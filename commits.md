@@ -8790,3 +8790,4 @@
 2026-03-28T16:08:14.848Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix edge case in auth
 2026-03-28T16:41:45.904Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish dependency versions
 2026-03-28T17:53:27.551Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove readme typo
+2026-03-28T18:50:07.320Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove retry logic
