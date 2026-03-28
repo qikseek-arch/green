@@ -18453,3 +18453,4 @@
 2026-03-28T18:22:17.632Z LocalSend <localsend@users.noreply.github.com> :: tweak config defaults
 2026-03-28T18:36:06.690Z 薛翔 <xuexiangjys@users.noreply.github.com> :: tweak config defaults
 2026-03-28T20:11:00.725Z Michael Jackson <mjackson@users.noreply.github.com> :: update the CI matrix
+2026-03-28T21:35:00.336Z Jabrils <Jabrils@users.noreply.github.com> :: fix logging
