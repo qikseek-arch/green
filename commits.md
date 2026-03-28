@@ -8787,3 +8787,4 @@
 2026-03-28T14:07:17.989Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add null check
 2026-03-28T15:25:54.811Z OpenJS Foundation <info@openjsf.org> :: refactor logging
 2026-03-28T16:08:02.360Z Rafal <RafalW3bCraft@users.noreply.github.com> :: remove retry logic
+2026-03-28T16:08:14.848Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix edge case in auth
