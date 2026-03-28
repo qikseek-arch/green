@@ -18449,3 +18449,4 @@
 2026-03-28T15:12:13.502Z 毒奶博主 <limbopro@users.noreply.github.com> :: clean up logging
 2026-03-28T17:19:54.427Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak the CI matrix
 2026-03-28T17:26:53.634Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up retry logic
+2026-03-28T18:09:33.320Z John Schulman <joschu@users.noreply.github.com> :: tweak config defaults
