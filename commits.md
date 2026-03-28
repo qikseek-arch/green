@@ -8801,3 +8801,4 @@
 2026-03-28T22:54:15.084Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: clean up the parser
 2026-03-28T23:30:15.467Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump null check
 2026-03-28T23:44:12.362Z Damian Dulisz <shentao@users.noreply.github.com> :: polish readme typo
+2026-03-28T23:45:28.573Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
