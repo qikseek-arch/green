@@ -8781,3 +8781,4 @@
 2026-03-28T09:16:34.434Z Shubs <infosec-au@users.noreply.github.com> :: polish logging
 2026-03-28T09:59:20.538Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up edge case in auth
 2026-03-28T10:17:20.072Z Manu Arora <manuarora700@users.noreply.github.com> :: fix config defaults
+2026-03-28T10:21:27.916Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
