@@ -18426,3 +18426,4 @@
 2026-03-28T00:22:09.397Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix dead code
 2026-03-28T00:34:59.438Z Dove Letter <skydoves2@gmail.com> :: tweak logging
 2026-03-28T00:44:52.199Z Tavis Ormandy <taviso@users.noreply.github.com> :: fix flaky test
+2026-03-28T01:39:23.785Z Amie Lynn <stoked-zz@users.noreply.github.com> :: wire up edge case in auth
