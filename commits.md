@@ -18441,3 +18441,4 @@
 2026-03-28T10:29:24.594Z Andreas Kling <awesomekling@users.noreply.github.com> :: add edge case in auth
 2026-03-28T10:52:35.656Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: refactor the parser
 2026-03-28T11:14:10.410Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor cache keys
+2026-03-28T11:23:14.164Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up null check
