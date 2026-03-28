@@ -8795,3 +8795,4 @@
 2026-03-28T19:18:34.135Z vb <Vaibhavs10@users.noreply.github.com> :: fix readme typo
 2026-03-28T20:14:22.412Z 如何翻墙 <bannedbook@users.noreply.github.com> :: clean up dead code
 2026-03-28T20:15:25.219Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the parser
+2026-03-28T20:22:26.257Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up null check
