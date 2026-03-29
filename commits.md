@@ -8814,3 +8814,4 @@
 2026-03-29T11:58:37.854Z owenzhang <owenzhang@users.noreply.github.com> :: refactor dependency versions
 2026-03-29T12:18:52.780Z Adam Bell <b3ll@users.noreply.github.com> :: wire up dead code
 2026-03-29T13:16:44.827Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor build script
+2026-03-29T13:32:17.850Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up config defaults
