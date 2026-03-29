@@ -99,3 +99,4 @@
 2026-03-27T05:11:00.607Z MoltenLlama <moltenllama@users.noreply.github.com> :: clean up config defaults
 2026-03-27T21:47:15.148Z Anders Hejlsberg <anders.hejlsberg@example.com> :: clean up error handling
 2026-03-28T13:34:25.865Z Katherine Johnson <katherine.johnson@example.com> :: bump readme typo
+2026-03-29T16:42:57.836Z arcane-goblinhq <arcane-goblinhq@users.noreply.github.com> :: bump retry logic
