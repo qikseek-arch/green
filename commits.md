@@ -18474,3 +18474,4 @@
 2026-03-29T17:31:01.135Z OpenBSD <openbsd@users.noreply.github.com> :: refactor retry logic
 2026-03-29T19:04:52.710Z Scott Chacon <schacon@users.noreply.github.com> :: polish the CI matrix
 2026-03-29T19:37:22.261Z Google Fonts <googlefonts@users.noreply.github.com> :: polish cache keys
+2026-03-29T19:53:55.299Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: fix error handling
