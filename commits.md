@@ -8811,3 +8811,4 @@
 2026-03-29T08:50:02.508Z qiye <qiyeboy@users.noreply.github.com> :: tweak edge case in auth
 2026-03-29T08:50:34.953Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove config defaults
 2026-03-29T10:34:46.761Z owenzhang <owenzhang@users.noreply.github.com> :: tweak logging
+2026-03-29T11:58:37.854Z owenzhang <owenzhang@users.noreply.github.com> :: refactor dependency versions
