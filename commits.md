@@ -8816,3 +8816,4 @@
 2026-03-29T13:16:44.827Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor build script
 2026-03-29T13:32:17.850Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up config defaults
 2026-03-29T14:03:07.851Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
+2026-03-29T14:18:59.799Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump error handling
