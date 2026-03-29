@@ -18477,3 +18477,4 @@
 2026-03-29T19:53:55.299Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: fix error handling
 2026-03-29T21:16:44.324Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor logging
 2026-03-29T23:45:38.744Z Zed Industries <hi@zed.dev> :: update config defaults
+2026-03-29T23:59:57.866Z OpenBMB <openbmb@gmail.com> :: update null check
