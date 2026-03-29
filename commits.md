@@ -18471,3 +18471,4 @@
 2026-03-29T14:25:27.930Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: fix dependency versions
 2026-03-29T15:55:11.434Z Jabrils <Jabrils@users.noreply.github.com> :: clean up flaky test
 2026-03-29T17:15:02.002Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish readme typo
+2026-03-29T17:31:01.135Z OpenBSD <openbsd@users.noreply.github.com> :: refactor retry logic
