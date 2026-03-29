@@ -525,3 +525,4 @@
 2026-03-28T12:11:27.087Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: tweak dead code
 2026-03-29T11:42:26.111Z Colt Steele <Colt@users.noreply.github.com> :: tweak flaky test
 2026-03-29T11:45:26.125Z Rob Fuller <mubix@users.noreply.github.com> :: remove the CI matrix
+2026-03-29T20:16:39.160Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: tweak the CI matrix
