@@ -18476,3 +18476,4 @@
 2026-03-29T19:37:22.261Z Google Fonts <googlefonts@users.noreply.github.com> :: polish cache keys
 2026-03-29T19:53:55.299Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: fix error handling
 2026-03-29T21:16:44.324Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor logging
+2026-03-29T23:45:38.744Z Zed Industries <hi@zed.dev> :: update config defaults
