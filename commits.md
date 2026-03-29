@@ -8818,3 +8818,4 @@
 2026-03-29T14:03:07.851Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
 2026-03-29T14:18:59.799Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump error handling
 2026-03-29T18:26:51.543Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up edge case in auth
+2026-03-29T18:48:24.315Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix edge case in auth
