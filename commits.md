@@ -8805,3 +8805,4 @@
 2026-03-29T01:01:25.022Z Selenium <SeleniumHQ@users.noreply.github.com> :: add null check
 2026-03-29T02:49:51.985Z vb <Vaibhavs10@users.noreply.github.com> :: tweak edge case in auth
 2026-03-29T03:23:46.006Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add null check
+2026-03-29T04:27:29.981Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove config defaults
