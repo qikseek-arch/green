@@ -8808,3 +8808,4 @@
 2026-03-29T04:27:29.981Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove config defaults
 2026-03-29T07:35:32.512Z vb <Vaibhavs10@users.noreply.github.com> :: update logging
 2026-03-29T08:38:56.656Z md-5 <md-5@users.noreply.github.com> :: fix the CI matrix
+2026-03-29T08:50:02.508Z qiye <qiyeboy@users.noreply.github.com> :: tweak edge case in auth
