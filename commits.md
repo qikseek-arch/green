@@ -18461,3 +18461,4 @@
 2026-03-29T00:29:50.165Z Epic Dev Space <team@epicweb.dev> :: clean up readme typo
 2026-03-29T01:38:14.547Z Michael Jackson <mjackson@users.noreply.github.com> :: update config defaults
 2026-03-29T02:21:59.330Z Alex Teichman <teichman@users.noreply.github.com> :: tweak flaky test
+2026-03-29T02:27:00.174Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak config defaults
