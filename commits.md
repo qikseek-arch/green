@@ -18458,3 +18458,4 @@
 2026-03-28T21:42:45.732Z Lovell Fuller <lovell@users.noreply.github.com> :: refactor edge case in auth
 2026-03-28T21:59:20.285Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: tweak build script
 2026-03-28T23:38:25.584Z Google Fonts <googlefonts@users.noreply.github.com> :: remove cache keys
+2026-03-29T00:29:50.165Z Epic Dev Space <team@epicweb.dev> :: clean up readme typo
