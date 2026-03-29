@@ -18459,3 +18459,4 @@
 2026-03-28T21:59:20.285Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: tweak build script
 2026-03-28T23:38:25.584Z Google Fonts <googlefonts@users.noreply.github.com> :: remove cache keys
 2026-03-29T00:29:50.165Z Epic Dev Space <team@epicweb.dev> :: clean up readme typo
+2026-03-29T01:38:14.547Z Michael Jackson <mjackson@users.noreply.github.com> :: update config defaults
