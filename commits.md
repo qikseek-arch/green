@@ -8803,3 +8803,4 @@
 2026-03-28T23:44:12.362Z Damian Dulisz <shentao@users.noreply.github.com> :: polish readme typo
 2026-03-28T23:45:28.573Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
 2026-03-29T01:01:25.022Z Selenium <SeleniumHQ@users.noreply.github.com> :: add null check
+2026-03-29T02:49:51.985Z vb <Vaibhavs10@users.noreply.github.com> :: tweak edge case in auth
