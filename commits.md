@@ -18468,3 +18468,4 @@
 2026-03-29T08:40:15.207Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: bump flaky test
 2026-03-29T10:38:03.229Z Snowflake Labs <opensource@snowflake.com> :: add edge case in auth
 2026-03-29T12:49:14.532Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak the CI matrix
+2026-03-29T14:25:27.930Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: fix dependency versions
