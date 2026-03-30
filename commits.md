@@ -8829,3 +8829,4 @@
 2026-03-30T04:35:33.076Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor retry logic
 2026-03-30T04:49:18.764Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
 2026-03-30T05:38:05.611Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix retry logic
+2026-03-30T06:17:05.092Z Adam Wathan <adamwathan@users.noreply.github.com> :: update build script
