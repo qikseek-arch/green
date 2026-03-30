@@ -8835,3 +8835,4 @@
 2026-03-30T07:33:40.442Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up logging
 2026-03-30T07:35:17.042Z Taiko Foundation <info@taiko.xyz> :: clean up dead code
 2026-03-30T08:20:27.431Z qiye <qiyeboy@users.noreply.github.com> :: clean up edge case in auth
+2026-03-30T08:31:15.082Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak the parser
