@@ -8833,3 +8833,4 @@
 2026-03-30T07:01:43.717Z OpenJS Foundation <info@openjsf.org> :: polish the CI matrix
 2026-03-30T07:17:51.879Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak cache keys
 2026-03-30T07:33:40.442Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up logging
+2026-03-30T07:35:17.042Z Taiko Foundation <info@taiko.xyz> :: clean up dead code
