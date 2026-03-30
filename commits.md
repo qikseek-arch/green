@@ -8841,3 +8841,4 @@
 2026-03-30T09:30:23.722Z Almas Baim <AlmasB@users.noreply.github.com> :: bump config defaults
 2026-03-30T11:17:28.990Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak dead code
 2026-03-30T11:55:12.624Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
+2026-03-30T12:13:40.672Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up the CI matrix
