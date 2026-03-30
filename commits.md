@@ -8838,3 +8838,4 @@
 2026-03-30T08:31:15.082Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak the parser
 2026-03-30T08:38:24.210Z Almas Baim <AlmasB@users.noreply.github.com> :: remove the parser
 2026-03-30T08:58:47.636Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak cache keys
+2026-03-30T09:30:23.722Z Almas Baim <AlmasB@users.noreply.github.com> :: bump config defaults
