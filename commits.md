@@ -8825,3 +8825,4 @@
 2026-03-30T00:24:06.832Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the CI matrix
 2026-03-30T02:00:11.672Z Shubs <infosec-au@users.noreply.github.com> :: fix dependency versions
 2026-03-30T03:01:01.144Z Sachin Soni <techiesms@users.noreply.github.com> :: add null check
+2026-03-30T03:24:37.580Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump config defaults
