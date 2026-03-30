@@ -18486,3 +18486,4 @@
 2026-03-30T07:38:18.765Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up dependency versions
 2026-03-30T07:50:30.140Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish retry logic
 2026-03-30T08:16:18.483Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak null check
+2026-03-30T10:03:09.397Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish config defaults
