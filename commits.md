@@ -531,3 +531,4 @@
 2026-03-30T11:30:40.586Z Holtz Yan <holtzy@users.noreply.github.com> :: clean up null check
 2026-03-30T12:21:47.447Z Rob Fuller <mubix@users.noreply.github.com> :: wire up retry logic
 2026-03-30T18:04:20.056Z Iuri Silva <iuricode@users.noreply.github.com> :: remove the parser
+2026-03-30T22:00:26.126Z Matt Pocock <mattpocock@users.noreply.github.com> :: add error handling
