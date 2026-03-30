@@ -18492,3 +18492,4 @@
 2026-03-30T10:49:49.795Z 千古壹号 <qianguyihao@users.noreply.github.com> :: wire up cache keys
 2026-03-30T11:17:07.258Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix readme typo
 2026-03-30T11:43:37.145Z J.Baci <jbaci@users.noreply.github.com> :: wire up retry logic
+2026-03-30T13:35:17.889Z winterbe <winterbe@users.noreply.github.com> :: polish dependency versions
