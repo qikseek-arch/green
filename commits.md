@@ -8852,3 +8852,4 @@
 2026-03-30T16:41:25.899Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump the parser
 2026-03-30T17:55:58.504Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove error handling
 2026-03-30T18:08:45.031Z Shubs <infosec-au@users.noreply.github.com> :: remove build script
+2026-03-30T18:09:11.709Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: remove error handling
