@@ -18487,3 +18487,4 @@
 2026-03-30T07:50:30.140Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: polish retry logic
 2026-03-30T08:16:18.483Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak null check
 2026-03-30T10:03:09.397Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish config defaults
+2026-03-30T10:12:04.636Z LMSYS <lm-sys@users.noreply.github.com> :: add dependency versions
