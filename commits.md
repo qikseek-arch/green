@@ -8823,3 +8823,4 @@
 2026-03-29T22:51:19.826Z Adam Bell <b3ll@users.noreply.github.com> :: wire up null check
 2026-03-29T23:21:21.435Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add edge case in auth
 2026-03-30T00:24:06.832Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the CI matrix
+2026-03-30T02:00:11.672Z Shubs <infosec-au@users.noreply.github.com> :: fix dependency versions
