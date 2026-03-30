@@ -8826,3 +8826,4 @@
 2026-03-30T02:00:11.672Z Shubs <infosec-au@users.noreply.github.com> :: fix dependency versions
 2026-03-30T03:01:01.144Z Sachin Soni <techiesms@users.noreply.github.com> :: add null check
 2026-03-30T03:24:37.580Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump config defaults
+2026-03-30T04:35:33.076Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor retry logic
