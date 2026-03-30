@@ -8849,3 +8849,4 @@
 2026-03-30T15:40:55.589Z SouJunior <wouerner@soujunior.tech> :: remove null check
 2026-03-30T15:59:20.951Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add logging
 2026-03-30T16:35:52.241Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dependency versions
+2026-03-30T16:41:25.899Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump the parser
