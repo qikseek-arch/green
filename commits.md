@@ -18494,3 +18494,4 @@
 2026-03-30T11:43:37.145Z J.Baci <jbaci@users.noreply.github.com> :: wire up retry logic
 2026-03-30T13:35:17.889Z winterbe <winterbe@users.noreply.github.com> :: polish dependency versions
 2026-03-30T16:45:21.091Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: refactor flaky test
+2026-03-30T19:02:55.557Z Brian Holt <btholt@users.noreply.github.com> :: wire up error handling
