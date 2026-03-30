@@ -8856,3 +8856,4 @@
 2026-03-30T19:26:51.620Z Taiko Foundation <info@taiko.xyz> :: bump retry logic
 2026-03-30T20:56:42.330Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove cache keys
 2026-03-30T21:05:15.304Z ㅤxander <vampirist@users.noreply.github.com> :: wire up config defaults
+2026-03-30T21:08:21.618Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor build script
