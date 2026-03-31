@@ -8859,3 +8859,4 @@
 2026-03-30T21:08:21.618Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor build script
 2026-03-30T22:14:49.444Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add dead code
 2026-03-31T00:29:32.679Z Getgems <getgems-io@users.noreply.github.com> :: add build script
+2026-03-31T00:55:48.406Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up dependency versions
