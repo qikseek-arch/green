@@ -533,3 +533,4 @@
 2026-03-30T18:04:20.056Z Iuri Silva <iuricode@users.noreply.github.com> :: remove the parser
 2026-03-30T22:00:26.126Z Matt Pocock <mattpocock@users.noreply.github.com> :: add error handling
 2026-03-31T01:22:14.060Z Ovilia <Ovilia@users.noreply.github.com> :: fix dead code
+2026-03-31T02:44:41.723Z FastAPI <fastapi@users.noreply.github.com> :: add config defaults
