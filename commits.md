@@ -8879,3 +8879,4 @@
 2026-03-31T20:46:29.761Z ring04h <ring04h@users.noreply.github.com> :: clean up flaky test
 2026-03-31T21:12:39.642Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak build script
 2026-03-31T22:07:41.035Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump error handling
+2026-03-31T22:28:01.224Z BBC <bbc@users.noreply.github.com> :: clean up config defaults
