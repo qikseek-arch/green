@@ -8870,3 +8870,4 @@
 2026-03-31T07:29:43.546Z Selenium <SeleniumHQ@users.noreply.github.com> :: update logging
 2026-03-31T07:58:03.449Z markqvist <markqvist@users.noreply.github.com> :: remove config defaults
 2026-03-31T09:05:45.999Z Adam Łucek <ALucek@users.noreply.github.com> :: add dead code
+2026-03-31T10:27:13.229Z markqvist <markqvist@users.noreply.github.com> :: update retry logic
