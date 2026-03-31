@@ -8866,3 +8866,4 @@
 2026-03-31T05:48:43.346Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the parser
 2026-03-31T06:09:32.634Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up build script
 2026-03-31T06:21:33.793Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor dead code
+2026-03-31T06:29:48.257Z Claude <claude@users.noreply.github.com> :: clean up null check
