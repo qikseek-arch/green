@@ -8872,3 +8872,4 @@
 2026-03-31T09:05:45.999Z Adam Łucek <ALucek@users.noreply.github.com> :: add dead code
 2026-03-31T10:27:13.229Z markqvist <markqvist@users.noreply.github.com> :: update retry logic
 2026-03-31T10:41:55.491Z Shubs <infosec-au@users.noreply.github.com> :: fix the CI matrix
+2026-03-31T13:14:21.377Z vb <Vaibhavs10@users.noreply.github.com> :: tweak edge case in auth
