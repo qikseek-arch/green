@@ -18515,3 +18515,4 @@
 2026-03-31T12:44:33.894Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump logging
 2026-03-31T12:53:05.230Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up cache keys
 2026-03-31T13:59:51.767Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: polish readme typo
+2026-03-31T16:11:17.139Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove dead code
