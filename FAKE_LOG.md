@@ -748,3 +748,4 @@
 2026-03-26T09:23:26.608Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: clean up dead code
 2026-03-26T18:23:23.503Z Alex The Analyst <AlexTheAnalyst@users.noreply.github.com> :: tweak retry logic
 2026-03-27T17:18:09.792Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: clean up dependency versions
+2026-03-31T01:13:14.820Z GitHub Community <community@users.noreply.github.com> :: update config defaults
