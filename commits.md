@@ -8877,3 +8877,4 @@
 2026-03-31T13:29:15.428Z ㅤxander <vampirist@users.noreply.github.com> :: bump the CI matrix
 2026-03-31T17:39:21.651Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: fix the CI matrix
 2026-03-31T20:46:29.761Z ring04h <ring04h@users.noreply.github.com> :: clean up flaky test
+2026-03-31T21:12:39.642Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak build script
