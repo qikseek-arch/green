@@ -8861,3 +8861,4 @@
 2026-03-31T00:29:32.679Z Getgems <getgems-io@users.noreply.github.com> :: add build script
 2026-03-31T00:55:48.406Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up dependency versions
 2026-03-31T02:50:46.946Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove the parser
+2026-03-31T03:25:51.727Z vb <Vaibhavs10@users.noreply.github.com> :: update the CI matrix
