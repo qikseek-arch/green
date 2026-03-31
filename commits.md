@@ -18521,3 +18521,4 @@
 2026-03-31T16:43:41.458Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish the CI matrix
 2026-03-31T17:50:53.707Z Henry <hzoo@users.noreply.github.com> :: bump cache keys
 2026-03-31T18:06:06.402Z Snowflake Labs <opensource@snowflake.com> :: tweak cache keys
+2026-03-31T18:38:45.122Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: tweak dependency versions
