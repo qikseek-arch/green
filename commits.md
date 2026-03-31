@@ -8869,3 +8869,4 @@
 2026-03-31T06:29:48.257Z Claude <claude@users.noreply.github.com> :: clean up null check
 2026-03-31T07:29:43.546Z Selenium <SeleniumHQ@users.noreply.github.com> :: update logging
 2026-03-31T07:58:03.449Z markqvist <markqvist@users.noreply.github.com> :: remove config defaults
+2026-03-31T09:05:45.999Z Adam Łucek <ALucek@users.noreply.github.com> :: add dead code
