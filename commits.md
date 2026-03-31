@@ -8875,3 +8875,4 @@
 2026-03-31T13:14:21.377Z vb <Vaibhavs10@users.noreply.github.com> :: tweak edge case in auth
 2026-03-31T13:18:52.522Z Shubs <infosec-au@users.noreply.github.com> :: polish build script
 2026-03-31T13:29:15.428Z ㅤxander <vampirist@users.noreply.github.com> :: bump the CI matrix
+2026-03-31T17:39:21.651Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: fix the CI matrix
