@@ -8864,3 +8864,4 @@
 2026-03-31T03:25:51.727Z vb <Vaibhavs10@users.noreply.github.com> :: update the CI matrix
 2026-03-31T03:38:52.542Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish error handling
 2026-03-31T05:48:43.346Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the parser
+2026-03-31T06:09:32.634Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up build script
