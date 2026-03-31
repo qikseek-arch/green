@@ -18517,3 +18517,4 @@
 2026-03-31T13:59:51.767Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: polish readme typo
 2026-03-31T16:11:17.139Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: remove dead code
 2026-03-31T16:19:59.210Z 毒奶博主 <limbopro@users.noreply.github.com> :: update logging
+2026-03-31T16:40:06.144Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak edge case in auth
