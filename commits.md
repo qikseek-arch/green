@@ -18529,3 +18529,4 @@
 2026-03-31T20:17:40.193Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: tweak readme typo
 2026-03-31T20:40:21.943Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak logging
 2026-03-31T21:56:28.246Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: refactor the CI matrix
+2026-03-31T23:07:27.612Z OpenBMB <openbmb@gmail.com> :: wire up the CI matrix
