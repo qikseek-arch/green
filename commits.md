@@ -18549,3 +18549,4 @@
 2026-04-01T14:12:34.320Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: refactor the CI matrix
 2026-04-01T14:17:25.696Z LocalSend <localsend@users.noreply.github.com> :: remove null check
 2026-04-01T18:14:32.060Z Prometheus <prometheus@users.noreply.github.com> :: fix logging
+2026-04-01T18:38:40.767Z imput <hello@imput.net> :: wire up null check
