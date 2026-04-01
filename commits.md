@@ -18544,3 +18544,4 @@
 2026-04-01T11:24:12.917Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove edge case in auth
 2026-04-01T12:26:49.406Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update config defaults
 2026-04-01T12:29:06.927Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor readme typo
+2026-04-01T12:46:24.402Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
