@@ -18542,3 +18542,4 @@
 2026-04-01T09:45:37.812Z Prometheus <prometheus@users.noreply.github.com> :: fix the parser
 2026-04-01T10:27:05.148Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump dead code
 2026-04-01T11:24:12.917Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove edge case in auth
+2026-04-01T12:26:49.406Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update config defaults
