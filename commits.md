@@ -538,3 +538,4 @@
 2026-04-01T03:10:54.049Z FastAPI <fastapi@users.noreply.github.com> :: wire up logging
 2026-04-01T15:31:57.140Z KDE GitHub Mirror <kde-community@kde.org> :: bump cache keys
 2026-04-01T17:32:12.931Z Philipp Schmid <philschmid@users.noreply.github.com> :: wire up error handling
+2026-04-01T19:45:16.411Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: remove the CI matrix
