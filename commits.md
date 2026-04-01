@@ -8895,3 +8895,4 @@
 2026-04-01T09:41:39.097Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish flaky test
 2026-04-01T10:05:39.474Z LILYGO <LilyGO@users.noreply.github.com> :: wire up retry logic
 2026-04-01T10:17:17.022Z LILYGO <LilyGO@users.noreply.github.com> :: refactor cache keys
+2026-04-01T10:26:00.570Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak error handling
