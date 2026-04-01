@@ -18534,3 +18534,4 @@
 2026-04-01T00:19:37.254Z Lovell Fuller <lovell@users.noreply.github.com> :: update config defaults
 2026-04-01T00:38:03.253Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update edge case in auth
 2026-04-01T01:17:35.649Z Boshen <Boshen@users.noreply.github.com> :: polish flaky test
+2026-04-01T03:35:07.655Z OpenBSD <openbsd@users.noreply.github.com> :: polish dead code
