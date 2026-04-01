@@ -18545,3 +18545,4 @@
 2026-04-01T12:26:49.406Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update config defaults
 2026-04-01T12:29:06.927Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor readme typo
 2026-04-01T12:46:24.402Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
+2026-04-01T13:11:34.648Z Boshen <Boshen@users.noreply.github.com> :: fix build script
