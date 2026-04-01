@@ -8903,3 +8903,4 @@
 2026-04-01T15:06:25.100Z qiye <qiyeboy@users.noreply.github.com> :: wire up build script
 2026-04-01T15:21:16.780Z md-5 <md-5@users.noreply.github.com> :: polish readme typo
 2026-04-01T16:17:41.922Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix retry logic
+2026-04-01T17:12:03.782Z Claude <claude@users.noreply.github.com> :: add null check
