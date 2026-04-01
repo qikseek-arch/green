@@ -18541,3 +18541,4 @@
 2026-04-01T09:09:31.924Z in28minutes <in28minutes@users.noreply.github.com> :: polish flaky test
 2026-04-01T09:45:37.812Z Prometheus <prometheus@users.noreply.github.com> :: fix the parser
 2026-04-01T10:27:05.148Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump dead code
+2026-04-01T11:24:12.917Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove edge case in auth
