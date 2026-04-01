@@ -8884,3 +8884,4 @@
 2026-04-01T02:53:56.301Z Shubs <infosec-au@users.noreply.github.com> :: refactor logging
 2026-04-01T03:49:07.125Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak dead code
 2026-04-01T03:55:35.799Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove config defaults
+2026-04-01T03:56:35.771Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up error handling
