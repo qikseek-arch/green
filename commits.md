@@ -8899,3 +8899,4 @@
 2026-04-01T12:16:08.396Z SouJunior <wouerner@soujunior.tech> :: fix dead code
 2026-04-01T14:24:34.944Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up null check
 2026-04-01T14:45:21.963Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up build script
+2026-04-01T14:50:27.161Z SouJunior <wouerner@soujunior.tech> :: clean up the CI matrix
