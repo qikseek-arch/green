@@ -8896,3 +8896,4 @@
 2026-04-01T10:05:39.474Z LILYGO <LilyGO@users.noreply.github.com> :: wire up retry logic
 2026-04-01T10:17:17.022Z LILYGO <LilyGO@users.noreply.github.com> :: refactor cache keys
 2026-04-01T10:26:00.570Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak error handling
+2026-04-01T12:16:08.396Z SouJunior <wouerner@soujunior.tech> :: fix dead code
