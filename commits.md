@@ -8897,3 +8897,4 @@
 2026-04-01T10:17:17.022Z LILYGO <LilyGO@users.noreply.github.com> :: refactor cache keys
 2026-04-01T10:26:00.570Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak error handling
 2026-04-01T12:16:08.396Z SouJunior <wouerner@soujunior.tech> :: fix dead code
+2026-04-01T14:24:34.944Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up null check
