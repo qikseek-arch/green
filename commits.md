@@ -8909,3 +8909,4 @@
 2026-04-01T20:17:04.421Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor build script
 2026-04-01T21:03:40.266Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump the parser
 2026-04-01T21:12:22.493Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix flaky test
+2026-04-01T21:31:49.473Z ㅤxander <vampirist@users.noreply.github.com> :: wire up dead code
