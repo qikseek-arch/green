@@ -18532,3 +18532,4 @@
 2026-03-31T23:07:27.612Z OpenBMB <openbmb@gmail.com> :: wire up the CI matrix
 2026-03-31T23:22:28.699Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: polish logging
 2026-04-01T00:19:37.254Z Lovell Fuller <lovell@users.noreply.github.com> :: update config defaults
+2026-04-01T00:38:03.253Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update edge case in auth
