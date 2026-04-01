@@ -8901,3 +8901,4 @@
 2026-04-01T14:45:21.963Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up build script
 2026-04-01T14:50:27.161Z SouJunior <wouerner@soujunior.tech> :: clean up the CI matrix
 2026-04-01T15:06:25.100Z qiye <qiyeboy@users.noreply.github.com> :: wire up build script
+2026-04-01T15:21:16.780Z md-5 <md-5@users.noreply.github.com> :: polish readme typo
