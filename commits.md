@@ -18584,3 +18584,4 @@
 2026-04-02T18:20:42.738Z OpenBSD <openbsd@users.noreply.github.com> :: bump dead code
 2026-04-02T18:24:20.083Z Henry <hzoo@users.noreply.github.com> :: update the CI matrix
 2026-04-02T19:15:05.034Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish cache keys
+2026-04-02T19:26:25.804Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
