@@ -18576,3 +18576,4 @@
 2026-04-02T13:18:54.275Z Brian Holt <btholt@users.noreply.github.com> :: update the parser
 2026-04-02T13:39:15.274Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: fix retry logic
 2026-04-02T14:55:45.681Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: polish null check
+2026-04-02T15:00:11.401Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak build script
