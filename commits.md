@@ -8934,3 +8934,4 @@
 2026-04-02T15:53:04.135Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove config defaults
 2026-04-02T16:32:37.121Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update config defaults
 2026-04-02T17:02:35.463Z Keith Smiley <keith@users.noreply.github.com> :: add cache keys
+2026-04-02T18:40:04.112Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
