@@ -8935,3 +8935,4 @@
 2026-04-02T16:32:37.121Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update config defaults
 2026-04-02T17:02:35.463Z Keith Smiley <keith@users.noreply.github.com> :: add cache keys
 2026-04-02T18:40:04.112Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
+2026-04-02T18:53:58.767Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: bump the parser
