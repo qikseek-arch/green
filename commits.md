@@ -8920,3 +8920,4 @@
 2026-04-02T03:42:38.883Z LILYGO <LilyGO@users.noreply.github.com> :: tweak logging
 2026-04-02T05:33:52.589Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak build script
 2026-04-02T05:39:40.105Z FlowiseAI <hello@flowiseai.com> :: tweak dependency versions
+2026-04-02T05:41:36.962Z Claude <claude@users.noreply.github.com> :: wire up cache keys
