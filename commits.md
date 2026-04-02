@@ -8918,3 +8918,4 @@
 2026-04-02T01:52:33.096Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add dependency versions
 2026-04-02T02:43:06.225Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove retry logic
 2026-04-02T03:42:38.883Z LILYGO <LilyGO@users.noreply.github.com> :: tweak logging
+2026-04-02T05:33:52.589Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak build script
