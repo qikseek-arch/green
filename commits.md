@@ -8932,3 +8932,4 @@
 2026-04-02T12:54:16.929Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up null check
 2026-04-02T14:03:37.325Z AI4Bhārat <opensource@ai4bharat.org> :: remove flaky test
 2026-04-02T15:53:04.135Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove config defaults
+2026-04-02T16:32:37.121Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update config defaults
