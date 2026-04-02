@@ -750,3 +750,4 @@
 2026-03-27T17:18:09.792Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: clean up dependency versions
 2026-03-31T01:13:14.820Z GitHub Community <community@users.noreply.github.com> :: update config defaults
 2026-03-31T11:39:24.001Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: tweak flaky test
+2026-04-02T04:46:20.455Z Epic Games <EpicGames@users.noreply.github.com> :: bump edge case in auth
