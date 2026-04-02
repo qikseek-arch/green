@@ -8929,3 +8929,4 @@
 2026-04-02T11:12:18.141Z Manu Arora <manuarora700@users.noreply.github.com> :: polish the parser
 2026-04-02T11:42:42.377Z Almas Baim <AlmasB@users.noreply.github.com> :: update edge case in auth
 2026-04-02T12:27:20.889Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor readme typo
+2026-04-02T12:54:16.929Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up null check
