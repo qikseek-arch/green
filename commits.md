@@ -18563,3 +18563,4 @@
 2026-04-02T01:50:28.690Z Tom Dale <tomdale@users.noreply.github.com> :: polish retry logic
 2026-04-02T03:39:33.866Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak dead code
 2026-04-02T04:42:02.722Z Mr L <Soldy@users.noreply.github.com> :: clean up dead code
+2026-04-02T06:29:49.276Z Michael Jackson <mjackson@users.noreply.github.com> :: wire up retry logic
