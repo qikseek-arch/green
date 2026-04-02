@@ -18568,3 +18568,4 @@
 2026-04-02T06:45:49.656Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up the CI matrix
 2026-04-02T07:35:54.804Z Collabnix <collabnix@users.noreply.github.com> :: update dependency versions
 2026-04-02T09:32:04.646Z Aman Kumar <Amanc77@users.noreply.github.com> :: fix error handling
+2026-04-02T09:41:50.704Z Alexandre Mutel <xoofx@users.noreply.github.com> :: wire up edge case in auth
