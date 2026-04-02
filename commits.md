@@ -8917,3 +8917,4 @@
 2026-04-01T23:56:31.474Z Barret李靖 <barretlee@users.noreply.github.com> :: update cache keys
 2026-04-02T01:52:33.096Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add dependency versions
 2026-04-02T02:43:06.225Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove retry logic
+2026-04-02T03:42:38.883Z LILYGO <LilyGO@users.noreply.github.com> :: tweak logging
