@@ -18586,3 +18586,4 @@
 2026-04-02T19:15:05.034Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish cache keys
 2026-04-02T19:26:25.804Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: clean up the parser
 2026-04-02T19:45:26.391Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: polish readme typo
+2026-04-02T21:24:05.284Z 1 <insoxin@users.noreply.github.com> :: clean up error handling
