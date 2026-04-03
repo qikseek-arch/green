@@ -8953,3 +8953,4 @@
 2026-04-03T14:21:25.243Z heyli <lcxfs1991@users.noreply.github.com> :: bump readme typo
 2026-04-03T14:40:23.390Z markqvist <markqvist@users.noreply.github.com> :: remove flaky test
 2026-04-03T14:48:57.442Z Shubs <infosec-au@users.noreply.github.com> :: wire up readme typo
+2026-04-03T15:58:58.931Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak error handling
