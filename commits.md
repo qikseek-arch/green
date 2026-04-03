@@ -18620,3 +18620,4 @@
 2026-04-03T21:20:09.369Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: add cache keys
 2026-04-03T21:29:14.274Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish logging
 2026-04-03T21:32:24.175Z LocalSend <localsend@users.noreply.github.com> :: fix dependency versions
+2026-04-03T21:49:21.589Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: update null check
