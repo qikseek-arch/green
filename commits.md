@@ -8948,3 +8948,4 @@
 2026-04-03T03:34:54.131Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish config defaults
 2026-04-03T04:21:09.948Z markqvist <markqvist@users.noreply.github.com> :: add error handling
 2026-04-03T06:17:20.715Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump null check
+2026-04-03T06:20:25.447Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak build script
