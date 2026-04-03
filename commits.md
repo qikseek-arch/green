@@ -8944,3 +8944,4 @@
 2026-04-03T02:30:46.538Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump logging
 2026-04-03T03:19:59.394Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up retry logic
 2026-04-03T03:24:56.978Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add config defaults
+2026-04-03T03:33:16.162Z ㅤxander <vampirist@users.noreply.github.com> :: update dependency versions
