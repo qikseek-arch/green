@@ -8941,3 +8941,4 @@
 2026-04-02T23:56:58.377Z Adam Bell <b3ll@users.noreply.github.com> :: fix build script
 2026-04-03T00:48:00.482Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix error handling
 2026-04-03T01:27:56.810Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up readme typo
+2026-04-03T02:30:46.538Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump logging
