@@ -8939,3 +8939,4 @@
 2026-04-02T19:03:00.739Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up dependency versions
 2026-04-02T23:26:36.393Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor the parser
 2026-04-02T23:56:58.377Z Adam Bell <b3ll@users.noreply.github.com> :: fix build script
+2026-04-03T00:48:00.482Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix error handling
