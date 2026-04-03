@@ -753,3 +753,4 @@
 2026-04-02T04:46:20.455Z Epic Games <EpicGames@users.noreply.github.com> :: bump edge case in auth
 2026-04-03T04:18:08.720Z GPU.net <suraj@brahmgan.com> :: tweak cache keys
 2026-04-03T11:42:23.707Z Andrej Marinchenko <BEPb@users.noreply.github.com> :: clean up the parser
+2026-04-03T12:17:23.376Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: update the CI matrix
