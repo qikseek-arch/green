@@ -18599,3 +18599,4 @@
 2026-04-03T05:39:19.967Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update logging
 2026-04-03T05:52:39.751Z Alex Teichman <teichman@users.noreply.github.com> :: add retry logic
 2026-04-03T05:58:59.126Z Henry <hzoo@users.noreply.github.com> :: refactor dead code
+2026-04-03T06:33:07.214Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the CI matrix
