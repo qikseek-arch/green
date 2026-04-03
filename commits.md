@@ -8955,3 +8955,4 @@
 2026-04-03T14:48:57.442Z Shubs <infosec-au@users.noreply.github.com> :: wire up readme typo
 2026-04-03T15:58:58.931Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak error handling
 2026-04-03T18:06:09.079Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up the parser
+2026-04-03T18:55:03.439Z CTFs <ctfs@users.noreply.github.com> :: update dependency versions
