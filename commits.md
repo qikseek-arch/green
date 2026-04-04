@@ -8985,3 +8985,4 @@
 2026-04-04T18:05:15.065Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
 2026-04-04T18:51:29.413Z Bert Belder <piscisaureus@users.noreply.github.com> :: polish edge case in auth
 2026-04-04T19:22:35.897Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: bump edge case in auth
+2026-04-04T19:43:52.553Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump readme typo
