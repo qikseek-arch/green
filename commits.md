@@ -8970,3 +8970,4 @@
 2026-04-04T10:24:23.023Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up the parser
 2026-04-04T10:28:09.133Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: remove edge case in auth
 2026-04-04T10:43:35.870Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up error handling
+2026-04-04T11:42:20.775Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove readme typo
