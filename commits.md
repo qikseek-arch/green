@@ -8980,3 +8980,4 @@
 2026-04-04T14:43:48.617Z Rodrigo Pombo <pomber@users.noreply.github.com> :: polish build script
 2026-04-04T16:20:10.406Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump dependency versions
 2026-04-04T16:21:46.618Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump config defaults
+2026-04-04T17:06:45.257Z Ryan Bigg <radar@users.noreply.github.com> :: clean up null check
