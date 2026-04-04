@@ -18641,3 +18641,4 @@
 2026-04-04T20:17:31.636Z Scott Chacon <schacon@users.noreply.github.com> :: wire up config defaults
 2026-04-04T21:12:05.210Z Jordan Harband <ljharb@users.noreply.github.com> :: update flaky test
 2026-04-04T21:53:47.806Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up readme typo
+2026-04-04T22:22:02.113Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: tweak dead code
