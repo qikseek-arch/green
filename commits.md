@@ -8988,3 +8988,4 @@
 2026-04-04T19:43:52.553Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump readme typo
 2026-04-04T20:39:04.330Z Adam Bell <b3ll@users.noreply.github.com> :: fix edge case in auth
 2026-04-04T21:14:52.731Z Adam Łucek <ALucek@users.noreply.github.com> :: update edge case in auth
+2026-04-04T21:19:28.626Z Getgems <getgems-io@users.noreply.github.com> :: refactor error handling
