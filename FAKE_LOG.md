@@ -756,3 +756,4 @@
 2026-04-03T12:17:23.376Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: update the CI matrix
 2026-04-04T04:06:43.191Z Crypto Michael <michaelliao@users.noreply.github.com> :: bump build script
 2026-04-04T14:28:47.453Z Donne Martin <donnemartin@users.noreply.github.com> :: refactor retry logic
+2026-04-04T20:03:47.640Z Hugging Face <huggingface@users.noreply.github.com> :: clean up error handling
