@@ -8975,3 +8975,4 @@
 2026-04-04T12:22:20.874Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up build script
 2026-04-04T13:03:35.319Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor the parser
 2026-04-04T13:08:24.362Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish retry logic
+2026-04-04T13:46:28.522Z md-5 <md-5@users.noreply.github.com> :: clean up readme typo
