@@ -8981,3 +8981,4 @@
 2026-04-04T16:20:10.406Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump dependency versions
 2026-04-04T16:21:46.618Z Ivan Volkov <Chitus@users.noreply.github.com> :: bump config defaults
 2026-04-04T17:06:45.257Z Ryan Bigg <radar@users.noreply.github.com> :: clean up null check
+2026-04-04T17:46:28.347Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump config defaults
