@@ -8960,3 +8960,4 @@
 2026-04-03T22:29:58.138Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update flaky test
 2026-04-04T00:16:46.201Z Adam Wathan <adamwathan@users.noreply.github.com> :: bump cache keys
 2026-04-04T01:33:53.127Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak null check
+2026-04-04T02:12:19.797Z OpenJS Foundation <info@openjsf.org> :: refactor null check
