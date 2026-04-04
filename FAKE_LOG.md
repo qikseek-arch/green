@@ -343,3 +343,4 @@
 2026-02-24T03:45:59.118Z Ken Thompson <ken.thompson@fake.invalid> :: polish the CI matrix
 2026-03-17T04:29:05.265Z Niklaus Wirth <niklaus.wirth@fake.invalid> :: polish flaky test | Co-authored-by: Filipe Deschamps <filipedeschamps@users.noreply.github.com>
 2026-03-29T14:41:32.869Z Stephen Hawking <stephen.hawking@fake.invalid> :: refactor dependency versions
+2026-04-04T23:38:54.202Z Barbara Liskov <barbara.liskov@fake.invalid> :: polish null check | Co-authored-by: George Hotz <geohot@users.noreply.github.com>
