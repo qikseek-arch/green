@@ -8967,3 +8967,4 @@
 2026-04-04T05:57:29.034Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
 2026-04-04T09:37:08.086Z Claude <claude@users.noreply.github.com> :: polish the parser
 2026-04-04T10:04:01.808Z Shubs <infosec-au@users.noreply.github.com> :: update dead code
+2026-04-04T10:24:23.023Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up the parser
