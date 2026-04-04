@@ -8964,3 +8964,4 @@
 2026-04-04T04:48:00.585Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor the CI matrix
 2026-04-04T05:20:59.844Z Shubs <infosec-au@users.noreply.github.com> :: fix flaky test
 2026-04-04T05:40:16.583Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the parser
+2026-04-04T05:57:29.034Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
