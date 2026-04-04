@@ -18635,3 +18635,4 @@
 2026-04-04T14:32:10.247Z Jordan Harband <ljharb@users.noreply.github.com> :: bump dead code
 2026-04-04T14:37:25.134Z Tom Dale <tomdale@users.noreply.github.com> :: wire up config defaults
 2026-04-04T14:55:56.992Z OpenBSD <openbsd@users.noreply.github.com> :: bump null check
+2026-04-04T15:32:16.066Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish the CI matrix
