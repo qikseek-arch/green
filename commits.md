@@ -18633,3 +18633,4 @@
 2026-04-04T10:23:49.951Z 1 <insoxin@users.noreply.github.com> :: tweak readme typo
 2026-04-04T12:56:06.894Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the parser
 2026-04-04T14:32:10.247Z Jordan Harband <ljharb@users.noreply.github.com> :: bump dead code
+2026-04-04T14:37:25.134Z Tom Dale <tomdale@users.noreply.github.com> :: wire up config defaults
