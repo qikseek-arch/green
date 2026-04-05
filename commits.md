@@ -8997,3 +8997,4 @@
 2026-04-05T05:21:19.667Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update config defaults
 2026-04-05T05:27:47.171Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove readme typo
 2026-04-05T06:30:10.300Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak the CI matrix
+2026-04-05T06:44:13.643Z Bert Belder <piscisaureus@users.noreply.github.com> :: update readme typo
