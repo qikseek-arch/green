@@ -9007,3 +9007,4 @@
 2026-04-05T14:12:44.842Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up the CI matrix
 2026-04-05T14:58:23.827Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up build script
 2026-04-05T16:44:30.639Z OpenJS Foundation <info@openjsf.org> :: add readme typo
+2026-04-05T17:43:08.892Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak dependency versions
