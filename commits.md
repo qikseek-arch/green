@@ -8996,3 +8996,4 @@
 2026-04-05T02:58:03.933Z Daniel Eden <daneden@users.noreply.github.com> :: refactor build script
 2026-04-05T05:21:19.667Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update config defaults
 2026-04-05T05:27:47.171Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove readme typo
+2026-04-05T06:30:10.300Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak the CI matrix
