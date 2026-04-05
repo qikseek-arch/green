@@ -18668,3 +18668,4 @@
 2026-04-05T14:20:58.051Z imput <hello@imput.net> :: fix build script
 2026-04-05T14:35:42.143Z DefTruth <DefTruth@users.noreply.github.com> :: bump build script
 2026-04-05T14:47:00.585Z Petar Veličković <PetarV-@users.noreply.github.com> :: update config defaults
+2026-04-05T14:47:38.694Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up config defaults
