@@ -9011,3 +9011,4 @@
 2026-04-05T19:55:23.336Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up config defaults
 2026-04-05T20:45:32.755Z Ryan Bigg <radar@users.noreply.github.com> :: bump logging
 2026-04-05T21:08:12.361Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix build script
+2026-04-05T22:28:02.340Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish dependency versions
