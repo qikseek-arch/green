@@ -18674,3 +18674,4 @@
 2026-04-05T15:30:03.043Z Yiming Cui <ymcui@users.noreply.github.com> :: update retry logic
 2026-04-05T17:06:14.226Z Morvan <MorvanZhou@users.noreply.github.com> :: update dead code
 2026-04-05T17:52:43.820Z Prometheus <prometheus@users.noreply.github.com> :: tweak cache keys
+2026-04-05T18:27:09.860Z yakeIore <yakeIore@users.noreply.github.com> :: add null check
