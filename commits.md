@@ -18665,3 +18665,4 @@
 2026-04-05T11:54:31.526Z Damian Gryski <dgryski@users.noreply.github.com> :: bump dependency versions
 2026-04-05T12:39:38.014Z winterbe <winterbe@users.noreply.github.com> :: polish retry logic
 2026-04-05T13:19:33.416Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add config defaults
+2026-04-05T14:20:58.051Z imput <hello@imput.net> :: fix build script
