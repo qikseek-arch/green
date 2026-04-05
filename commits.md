@@ -8993,3 +8993,4 @@
 2026-04-05T01:09:31.407Z Keith Smiley <keith@users.noreply.github.com> :: polish null check
 2026-04-05T01:12:56.600Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: wire up dead code
 2026-04-05T02:18:11.414Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
+2026-04-05T02:58:03.933Z Daniel Eden <daneden@users.noreply.github.com> :: refactor build script
