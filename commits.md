@@ -18654,3 +18654,4 @@
 2026-04-05T03:39:01.815Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update edge case in auth
 2026-04-05T04:15:46.757Z cytopia <cytopia@users.noreply.github.com> :: tweak config defaults
 2026-04-05T05:20:36.560Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: bump readme typo
+2026-04-05T05:25:23.462Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up the CI matrix
