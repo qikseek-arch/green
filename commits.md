@@ -8995,3 +8995,4 @@
 2026-04-05T02:18:11.414Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
 2026-04-05T02:58:03.933Z Daniel Eden <daneden@users.noreply.github.com> :: refactor build script
 2026-04-05T05:21:19.667Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update config defaults
+2026-04-05T05:27:47.171Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: remove readme typo
