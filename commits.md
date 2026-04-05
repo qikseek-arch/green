@@ -18644,3 +18644,4 @@
 2026-04-04T22:22:02.113Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: tweak dead code
 2026-04-04T22:43:58.460Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: wire up the CI matrix
 2026-04-04T23:06:52.594Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor the CI matrix
+2026-04-05T00:19:40.934Z LMSYS <lm-sys@users.noreply.github.com> :: tweak dependency versions
