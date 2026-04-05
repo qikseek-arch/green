@@ -9000,3 +9000,4 @@
 2026-04-05T06:44:13.643Z Bert Belder <piscisaureus@users.noreply.github.com> :: update readme typo
 2026-04-05T09:30:43.179Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish logging
 2026-04-05T10:28:44.329Z Almas Baim <AlmasB@users.noreply.github.com> :: polish null check
+2026-04-05T10:38:00.984Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish error handling
