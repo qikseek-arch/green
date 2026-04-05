@@ -18671,3 +18671,4 @@
 2026-04-05T14:47:38.694Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up config defaults
 2026-04-05T15:13:15.775Z 毒奶博主 <limbopro@users.noreply.github.com> :: clean up the CI matrix
 2026-04-05T15:16:07.914Z 1 <insoxin@users.noreply.github.com> :: clean up build script
+2026-04-05T15:30:03.043Z Yiming Cui <ymcui@users.noreply.github.com> :: update retry logic
