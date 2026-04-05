@@ -8999,3 +8999,4 @@
 2026-04-05T06:30:10.300Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak the CI matrix
 2026-04-05T06:44:13.643Z Bert Belder <piscisaureus@users.noreply.github.com> :: update readme typo
 2026-04-05T09:30:43.179Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish logging
+2026-04-05T10:28:44.329Z Almas Baim <AlmasB@users.noreply.github.com> :: polish null check
