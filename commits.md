@@ -9004,3 +9004,4 @@
 2026-04-05T11:26:50.551Z Getgems <getgems-io@users.noreply.github.com> :: remove edge case in auth
 2026-04-05T13:49:08.065Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix retry logic
 2026-04-05T13:51:25.540Z vb <Vaibhavs10@users.noreply.github.com> :: wire up dead code
+2026-04-05T14:12:44.842Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up the CI matrix
