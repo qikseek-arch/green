@@ -18662,3 +18662,4 @@
 2026-04-05T11:11:32.098Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: update the CI matrix
 2026-04-05T11:14:52.221Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump flaky test
 2026-04-05T11:39:15.075Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: bump logging
+2026-04-05T11:54:31.526Z Damian Gryski <dgryski@users.noreply.github.com> :: bump dependency versions
