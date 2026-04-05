@@ -18646,3 +18646,4 @@
 2026-04-04T23:06:52.594Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor the CI matrix
 2026-04-05T00:19:40.934Z LMSYS <lm-sys@users.noreply.github.com> :: tweak dependency versions
 2026-04-05T00:36:35.665Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: bump logging
+2026-04-05T00:40:52.879Z Collabnix <collabnix@users.noreply.github.com> :: wire up the parser
