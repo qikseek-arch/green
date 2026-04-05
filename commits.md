@@ -8991,3 +8991,4 @@
 2026-04-04T21:19:28.626Z Getgems <getgems-io@users.noreply.github.com> :: refactor error handling
 2026-04-05T01:00:52.477Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix config defaults
 2026-04-05T01:09:31.407Z Keith Smiley <keith@users.noreply.github.com> :: polish null check
+2026-04-05T01:12:56.600Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: wire up dead code
