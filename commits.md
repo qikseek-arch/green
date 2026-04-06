@@ -18697,3 +18697,4 @@
 2026-04-06T09:32:15.146Z Xingang Pan <XingangPan@users.noreply.github.com> :: clean up dead code
 2026-04-06T10:03:21.413Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: refactor retry logic
 2026-04-06T11:25:50.291Z 毒奶博主 <limbopro@users.noreply.github.com> :: update error handling
+2026-04-06T11:41:59.324Z OpenBSD <openbsd@users.noreply.github.com> :: remove null check
