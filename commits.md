@@ -9035,3 +9035,4 @@
 2026-04-06T14:29:20.842Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak logging
 2026-04-06T15:21:06.367Z Keith Smiley <keith@users.noreply.github.com> :: add the parser
 2026-04-06T17:45:35.295Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
+2026-04-06T18:04:35.256Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up dead code
