@@ -18687,3 +18687,4 @@
 2026-04-06T02:34:18.192Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor the CI matrix
 2026-04-06T03:08:46.123Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the parser
 2026-04-06T03:46:32.257Z in28minutes <in28minutes@users.noreply.github.com> :: bump the parser
+2026-04-06T04:21:10.713Z LocalSend <localsend@users.noreply.github.com> :: update dependency versions
