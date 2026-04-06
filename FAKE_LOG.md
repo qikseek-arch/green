@@ -450,3 +450,4 @@
 2026-03-18T14:22:10.880Z ArcanePacket <arcanepacket@fake.invalid> :: add config defaults
 2026-03-27T18:50:30.432Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: fix logging
 2026-03-27T20:24:45.856Z daemon_neon1337 <daemon_neon1337@fake.invalid> :: bump dependency versions
+2026-04-06T10:30:04.022Z Rich Hickey <rich.hickey@fake.invalid> :: tweak logging
