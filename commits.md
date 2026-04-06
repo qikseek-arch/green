@@ -18702,3 +18702,4 @@
 2026-04-06T12:03:42.393Z in28minutes <in28minutes@users.noreply.github.com> :: update readme typo
 2026-04-06T14:37:46.233Z Mr L <Soldy@users.noreply.github.com> :: clean up flaky test
 2026-04-06T15:06:07.579Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak cache keys
+2026-04-06T16:28:38.361Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add config defaults
