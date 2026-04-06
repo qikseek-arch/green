@@ -18685,3 +18685,4 @@
 2026-04-06T01:24:43.887Z 1 <insoxin@users.noreply.github.com> :: fix the parser
 2026-04-06T01:32:08.987Z Islem Maboud <ipenywis@users.noreply.github.com> :: update the parser
 2026-04-06T02:34:18.192Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor the CI matrix
+2026-04-06T03:08:46.123Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the parser
