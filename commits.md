@@ -9025,3 +9025,4 @@
 2026-04-06T08:51:07.001Z Bert Belder <piscisaureus@users.noreply.github.com> :: add cache keys
 2026-04-06T08:54:11.772Z ring04h <ring04h@users.noreply.github.com> :: remove build script
 2026-04-06T09:08:38.921Z Roger Labbe <rlabbe@users.noreply.github.com> :: update retry logic
+2026-04-06T09:36:49.255Z Taiko Foundation <info@taiko.xyz> :: bump retry logic
