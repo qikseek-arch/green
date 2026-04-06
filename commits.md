@@ -9029,3 +9029,4 @@
 2026-04-06T09:40:01.122Z Odi <mathdroid@users.noreply.github.com> :: tweak readme typo
 2026-04-06T11:43:55.091Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak dead code
 2026-04-06T12:07:02.747Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor config defaults
+2026-04-06T12:41:56.929Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak edge case in auth
