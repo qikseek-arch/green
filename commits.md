@@ -9017,3 +9017,4 @@
 2026-04-06T00:12:15.506Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump dead code
 2026-04-06T00:52:28.419Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix the parser
 2026-04-06T03:22:12.144Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor the parser
+2026-04-06T03:57:14.755Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up null check
