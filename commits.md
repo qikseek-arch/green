@@ -18690,3 +18690,4 @@
 2026-04-06T04:21:10.713Z LocalSend <localsend@users.noreply.github.com> :: update dependency versions
 2026-04-06T04:57:57.509Z Odi <mathdroid@users.noreply.github.com> :: tweak readme typo
 2026-04-06T05:10:18.805Z Odi <mathdroid@users.noreply.github.com> :: refactor logging
+2026-04-06T06:27:36.847Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update config defaults
