@@ -9039,3 +9039,4 @@
 2026-04-06T18:41:13.681Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add retry logic
 2026-04-06T19:58:40.254Z BBC <bbc@users.noreply.github.com> :: add readme typo
 2026-04-06T20:20:57.150Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove config defaults
+2026-04-06T22:37:45.891Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
