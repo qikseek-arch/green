@@ -18712,3 +18712,4 @@
 2026-04-06T20:23:10.827Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: fix edge case in auth
 2026-04-06T21:00:26.502Z Jabrils <Jabrils@users.noreply.github.com> :: add edge case in auth
 2026-04-06T22:27:02.756Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor the CI matrix
+2026-04-06T22:27:18.095Z Dove Letter <skydoves2@gmail.com> :: remove config defaults
