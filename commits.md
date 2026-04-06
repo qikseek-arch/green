@@ -18709,3 +18709,4 @@
 2026-04-06T17:50:38.876Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update flaky test
 2026-04-06T19:01:14.652Z LocalSend <localsend@users.noreply.github.com> :: polish logging
 2026-04-06T19:32:35.070Z winterbe <winterbe@users.noreply.github.com> :: polish dependency versions
+2026-04-06T20:23:10.827Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: fix edge case in auth
