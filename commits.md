@@ -9031,3 +9031,4 @@
 2026-04-06T12:07:02.747Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor config defaults
 2026-04-06T12:41:56.929Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak edge case in auth
 2026-04-06T13:20:41.382Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up flaky test
+2026-04-06T13:40:44.270Z Manu Arora <manuarora700@users.noreply.github.com> :: refactor dependency versions
