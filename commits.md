@@ -18705,3 +18705,4 @@
 2026-04-06T16:28:38.361Z Joe Hewitt <joehewitt@users.noreply.github.com> :: add config defaults
 2026-04-06T16:32:04.839Z Alex Teichman <teichman@users.noreply.github.com> :: update readme typo
 2026-04-06T16:48:40.989Z Scott Chacon <schacon@users.noreply.github.com> :: polish logging
+2026-04-06T16:54:34.097Z Brian Holt <btholt@users.noreply.github.com> :: update edge case in auth
