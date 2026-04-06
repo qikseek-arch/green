@@ -9020,3 +9020,4 @@
 2026-04-06T03:57:14.755Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up null check
 2026-04-06T04:10:32.697Z Manu Arora <manuarora700@users.noreply.github.com> :: bump the parser
 2026-04-06T04:47:17.330Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish readme typo
+2026-04-06T07:59:32.359Z markqvist <markqvist@users.noreply.github.com> :: polish readme typo
