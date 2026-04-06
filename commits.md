@@ -547,3 +547,4 @@
 2026-04-03T21:30:23.728Z Holtz Yan <holtzy@users.noreply.github.com> :: remove build script
 2026-04-04T09:31:24.949Z Yiming Cui <ymcui@users.noreply.github.com> :: bump logging
 2026-04-04T19:32:35.602Z Sylvain Gugger <sgugger@users.noreply.github.com> :: update config defaults
+2026-04-06T18:04:49.577Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up dead code
