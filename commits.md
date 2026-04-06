@@ -548,3 +548,4 @@
 2026-04-04T09:31:24.949Z Yiming Cui <ymcui@users.noreply.github.com> :: bump logging
 2026-04-04T19:32:35.602Z Sylvain Gugger <sgugger@users.noreply.github.com> :: update config defaults
 2026-04-06T18:04:49.577Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up dead code
+2026-04-06T23:40:24.503Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: bump the CI matrix
