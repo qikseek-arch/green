@@ -9034,3 +9034,4 @@
 2026-04-06T13:40:44.270Z Manu Arora <manuarora700@users.noreply.github.com> :: refactor dependency versions
 2026-04-06T14:29:20.842Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak logging
 2026-04-06T15:21:06.367Z Keith Smiley <keith@users.noreply.github.com> :: add the parser
+2026-04-06T17:45:35.295Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
