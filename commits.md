@@ -18727,3 +18727,4 @@
 2026-04-07T08:07:27.407Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish cache keys
 2026-04-07T10:03:58.695Z Brendan Gregg <brendangregg@users.noreply.github.com> :: clean up the parser
 2026-04-07T10:20:05.374Z LMSYS <lm-sys@users.noreply.github.com> :: remove error handling
+2026-04-07T10:37:57.092Z Islem Maboud <ipenywis@users.noreply.github.com> :: wire up cache keys
