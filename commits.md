@@ -9049,3 +9049,4 @@
 2026-04-07T04:57:27.379Z Bert Belder <piscisaureus@users.noreply.github.com> :: tweak config defaults
 2026-04-07T06:00:18.208Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump dependency versions
 2026-04-07T06:29:09.535Z AI4Bhārat <opensource@ai4bharat.org> :: add build script
+2026-04-07T06:35:38.934Z David Clark <nullptrException100@users.noreply.github.com> :: fix logging
