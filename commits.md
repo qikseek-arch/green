@@ -9042,3 +9042,4 @@
 2026-04-06T22:37:45.891Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
 2026-04-06T22:40:59.248Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up the parser
 2026-04-06T22:57:15.907Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump null check
+2026-04-07T00:19:57.228Z Keith Smiley <keith@users.noreply.github.com> :: refactor config defaults
