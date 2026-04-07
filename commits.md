@@ -18734,3 +18734,4 @@
 2026-04-07T13:46:57.514Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix dependency versions
 2026-04-07T15:07:56.322Z Brian Holt <btholt@users.noreply.github.com> :: clean up edge case in auth
 2026-04-07T15:55:12.714Z Lipis <lipis@users.noreply.github.com> :: bump logging
+2026-04-07T19:17:25.933Z 1 <insoxin@users.noreply.github.com> :: tweak the parser
