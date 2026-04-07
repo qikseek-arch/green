@@ -9044,3 +9044,4 @@
 2026-04-06T22:57:15.907Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump null check
 2026-04-07T00:19:57.228Z Keith Smiley <keith@users.noreply.github.com> :: refactor config defaults
 2026-04-07T00:26:07.227Z Ryan Bigg <radar@users.noreply.github.com> :: fix flaky test
+2026-04-07T00:58:08.502Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove dead code
