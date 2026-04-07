@@ -9057,3 +9057,4 @@
 2026-04-07T08:09:30.842Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
 2026-04-07T09:23:12.551Z markqvist <markqvist@users.noreply.github.com> :: refactor error handling
 2026-04-07T09:42:38.800Z markqvist <markqvist@users.noreply.github.com> :: add retry logic
+2026-04-07T11:17:35.177Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
