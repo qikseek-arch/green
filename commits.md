@@ -9055,3 +9055,4 @@
 2026-04-07T07:48:43.217Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak null check
 2026-04-07T08:03:13.713Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up readme typo
 2026-04-07T08:09:30.842Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak the CI matrix
+2026-04-07T09:23:12.551Z markqvist <markqvist@users.noreply.github.com> :: refactor error handling
