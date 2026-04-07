@@ -18731,3 +18731,4 @@
 2026-04-07T10:54:14.674Z Lovell Fuller <lovell@users.noreply.github.com> :: add the CI matrix
 2026-04-07T11:27:31.808Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: clean up logging
 2026-04-07T13:24:27.130Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish retry logic
+2026-04-07T13:46:57.514Z Sergey P. <ThirteenAG@users.noreply.github.com> :: fix dependency versions
