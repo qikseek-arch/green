@@ -9053,3 +9053,4 @@
 2026-04-07T07:31:32.970Z SouJunior <wouerner@soujunior.tech> :: clean up flaky test
 2026-04-07T07:40:42.563Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: wire up dead code
 2026-04-07T07:48:43.217Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak null check
+2026-04-07T08:03:13.713Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up readme typo
