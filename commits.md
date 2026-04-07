@@ -9060,3 +9060,4 @@
 2026-04-07T11:17:35.177Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
 2026-04-07T12:00:36.155Z ㅤxander <vampirist@users.noreply.github.com> :: wire up readme typo
 2026-04-07T12:37:26.823Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor readme typo
+2026-04-07T13:47:52.162Z Taiko Foundation <info@taiko.xyz> :: clean up logging
