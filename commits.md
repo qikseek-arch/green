@@ -18716,3 +18716,4 @@
 2026-04-06T23:45:16.538Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update dead code
 2026-04-06T23:52:20.106Z OpenBMB <openbmb@gmail.com> :: update cache keys
 2026-04-07T01:36:00.191Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor error handling
+2026-04-07T02:29:47.701Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: refactor the parser
