@@ -9067,3 +9067,4 @@
 2026-04-07T16:08:28.538Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add retry logic
 2026-04-07T16:10:31.655Z CTFs <ctfs@users.noreply.github.com> :: polish retry logic
 2026-04-07T18:18:11.850Z LILYGO <LilyGO@users.noreply.github.com> :: clean up the parser
+2026-04-07T19:59:59.056Z Ryan Bigg <radar@users.noreply.github.com> :: update dependency versions
