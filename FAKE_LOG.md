@@ -758,3 +758,4 @@
 2026-04-04T14:28:47.453Z Donne Martin <donnemartin@users.noreply.github.com> :: refactor retry logic
 2026-04-04T20:03:47.640Z Hugging Face <huggingface@users.noreply.github.com> :: clean up error handling
 2026-04-06T19:23:10.082Z Phil Wang <lucidrains@users.noreply.github.com> :: clean up readme typo
+2026-04-07T03:56:23.112Z Visual Studio Code <Visual-Studio-Code@users.noreply.github.com> :: tweak dependency versions
