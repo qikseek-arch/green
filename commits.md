@@ -9062,3 +9062,4 @@
 2026-04-07T12:37:26.823Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor readme typo
 2026-04-07T13:47:52.162Z Taiko Foundation <info@taiko.xyz> :: clean up logging
 2026-04-07T14:57:08.338Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the CI matrix
+2026-04-07T15:11:56.825Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up retry logic
