@@ -550,3 +550,4 @@
 2026-04-06T18:04:49.577Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up dead code
 2026-04-06T23:40:24.503Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: bump the CI matrix
 2026-04-07T03:29:21.458Z Kyler Condran <KylerCondran@users.noreply.github.com> :: wire up dependency versions
+2026-04-07T23:48:43.586Z Merve Noyan <merveenoyan@users.noreply.github.com> :: wire up logging
