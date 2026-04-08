@@ -9082,3 +9082,4 @@
 2026-04-08T04:06:07.204Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update the parser
 2026-04-08T05:14:31.891Z vb <Vaibhavs10@users.noreply.github.com> :: tweak flaky test
 2026-04-08T05:36:34.668Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix null check
+2026-04-08T07:21:48.453Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up dependency versions
