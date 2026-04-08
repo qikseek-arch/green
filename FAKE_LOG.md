@@ -344,3 +344,4 @@
 2026-03-17T04:29:05.265Z Niklaus Wirth <niklaus.wirth@fake.invalid> :: polish flaky test | Co-authored-by: Filipe Deschamps <filipedeschamps@users.noreply.github.com>
 2026-03-29T14:41:32.869Z Stephen Hawking <stephen.hawking@fake.invalid> :: refactor dependency versions
 2026-04-04T23:38:54.202Z Barbara Liskov <barbara.liskov@fake.invalid> :: polish null check | Co-authored-by: George Hotz <geohot@users.noreply.github.com>
+2026-04-08T23:32:09.060Z chill-muffinxx <chill-muffinxx@fake.invalid> :: update error handling
