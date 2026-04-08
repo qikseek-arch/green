@@ -18754,3 +18754,4 @@
 2026-04-08T17:03:37.818Z Elliott Minns <elliottminns@users.noreply.github.com> :: update retry logic
 2026-04-08T21:30:39.801Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix dependency versions
 2026-04-08T22:52:54.936Z winterbe <winterbe@users.noreply.github.com> :: add dead code
+2026-04-08T23:57:50.140Z Shougo <Shougo@users.noreply.github.com> :: tweak error handling
