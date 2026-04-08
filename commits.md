@@ -18742,3 +18742,4 @@
 2026-04-08T06:29:34.640Z SurrealDB <surrealdb@users.noreply.github.com> :: tweak null check
 2026-04-08T08:00:39.782Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up logging
 2026-04-08T09:33:58.415Z Michael Jackson <mjackson@users.noreply.github.com> :: tweak the parser
+2026-04-08T11:54:36.793Z Brian Holt <btholt@users.noreply.github.com> :: refactor build script
