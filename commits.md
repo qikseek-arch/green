@@ -18745,3 +18745,4 @@
 2026-04-08T11:54:36.793Z Brian Holt <btholt@users.noreply.github.com> :: refactor build script
 2026-04-08T12:03:06.513Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: wire up config defaults
 2026-04-08T12:51:55.272Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: refactor logging
+2026-04-08T12:53:01.761Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add null check
