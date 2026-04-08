@@ -9093,3 +9093,4 @@
 2026-04-08T18:49:19.253Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up build script
 2026-04-08T19:36:25.518Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up error handling
 2026-04-08T20:29:47.317Z Adam Łucek <ALucek@users.noreply.github.com> :: bump error handling
+2026-04-08T21:45:08.864Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix dependency versions
