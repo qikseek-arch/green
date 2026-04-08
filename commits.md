@@ -9076,3 +9076,4 @@
 2026-04-08T00:57:08.133Z vb <Vaibhavs10@users.noreply.github.com> :: refactor config defaults
 2026-04-08T01:37:29.266Z ㅤxander <vampirist@users.noreply.github.com> :: refactor config defaults
 2026-04-08T01:48:14.871Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up flaky test
+2026-04-08T02:40:00.997Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up dependency versions
