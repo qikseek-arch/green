@@ -18752,3 +18752,4 @@
 2026-04-08T15:11:36.922Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up readme typo
 2026-04-08T15:49:35.697Z Collabnix <collabnix@users.noreply.github.com> :: wire up error handling
 2026-04-08T17:03:37.818Z Elliott Minns <elliottminns@users.noreply.github.com> :: update retry logic
+2026-04-08T21:30:39.801Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix dependency versions
