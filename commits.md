@@ -9090,3 +9090,4 @@
 2026-04-08T15:07:35.697Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak flaky test
 2026-04-08T16:21:58.895Z Damian Dulisz <shentao@users.noreply.github.com> :: polish the CI matrix
 2026-04-08T18:43:09.842Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: refactor the parser
+2026-04-08T18:49:19.253Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up build script
