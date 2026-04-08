@@ -9078,3 +9078,4 @@
 2026-04-08T01:48:14.871Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up flaky test
 2026-04-08T02:40:00.997Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up dependency versions
 2026-04-08T03:02:53.683Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor retry logic
+2026-04-08T03:41:11.021Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove the CI matrix
