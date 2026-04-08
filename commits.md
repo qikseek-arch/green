@@ -9088,3 +9088,4 @@
 2026-04-08T11:35:45.722Z Adam Łucek <ALucek@users.noreply.github.com> :: polish config defaults
 2026-04-08T13:47:22.801Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
 2026-04-08T15:07:35.697Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak flaky test
+2026-04-08T16:21:58.895Z Damian Dulisz <shentao@users.noreply.github.com> :: polish the CI matrix
