@@ -9074,3 +9074,4 @@
 2026-04-08T00:03:35.899Z Keith Smiley <keith@users.noreply.github.com> :: fix logging
 2026-04-08T00:04:33.428Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix cache keys
 2026-04-08T00:57:08.133Z vb <Vaibhavs10@users.noreply.github.com> :: refactor config defaults
+2026-04-08T01:37:29.266Z ㅤxander <vampirist@users.noreply.github.com> :: refactor config defaults
