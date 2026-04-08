@@ -9086,3 +9086,4 @@
 2026-04-08T07:49:58.141Z md-5 <md-5@users.noreply.github.com> :: tweak build script
 2026-04-08T11:03:12.383Z David Fowler <davidfowl@users.noreply.github.com> :: remove build script
 2026-04-08T11:35:45.722Z Adam Łucek <ALucek@users.noreply.github.com> :: polish config defaults
+2026-04-08T13:47:22.801Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
