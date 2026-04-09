@@ -18772,3 +18772,4 @@
 2026-04-09T15:31:49.102Z yakeIore <yakeIore@users.noreply.github.com> :: add edge case in auth
 2026-04-09T16:21:16.407Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: add dependency versions
 2026-04-09T17:17:38.693Z Brendan Gregg <brendangregg@users.noreply.github.com> :: remove logging
+2026-04-09T17:52:46.046Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: polish build script
