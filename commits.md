@@ -9107,3 +9107,4 @@
 2026-04-09T13:42:06.298Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor dead code
 2026-04-09T14:02:47.925Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak edge case in auth
 2026-04-09T14:35:59.490Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove config defaults
+2026-04-09T15:09:17.812Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove build script
