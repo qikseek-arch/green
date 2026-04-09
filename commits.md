@@ -9106,3 +9106,4 @@
 2026-04-09T11:27:07.141Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix dead code
 2026-04-09T13:42:06.298Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor dead code
 2026-04-09T14:02:47.925Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak edge case in auth
+2026-04-09T14:35:59.490Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove config defaults
