@@ -9094,3 +9094,4 @@
 2026-04-08T19:36:25.518Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up error handling
 2026-04-08T20:29:47.317Z Adam Łucek <ALucek@users.noreply.github.com> :: bump error handling
 2026-04-08T21:45:08.864Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix dependency versions
+2026-04-09T01:44:02.947Z Aurélien Geron <ageron@users.noreply.github.com> :: polish retry logic
