@@ -18764,3 +18764,4 @@
 2026-04-09T04:28:18.085Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: clean up dependency versions
 2026-04-09T05:01:57.917Z cytopia <cytopia@users.noreply.github.com> :: bump the parser
 2026-04-09T05:13:34.741Z winterbe <winterbe@users.noreply.github.com> :: bump the parser
+2026-04-09T07:27:11.899Z OpenBSD <openbsd@users.noreply.github.com> :: tweak retry logic
