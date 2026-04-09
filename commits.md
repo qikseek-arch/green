@@ -18755,3 +18755,4 @@
 2026-04-08T21:30:39.801Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: fix dependency versions
 2026-04-08T22:52:54.936Z winterbe <winterbe@users.noreply.github.com> :: add dead code
 2026-04-08T23:57:50.140Z Shougo <Shougo@users.noreply.github.com> :: tweak error handling
+2026-04-09T00:29:31.894Z Lovell Fuller <lovell@users.noreply.github.com> :: add build script
