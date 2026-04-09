@@ -552,3 +552,4 @@
 2026-04-07T03:29:21.458Z Kyler Condran <KylerCondran@users.noreply.github.com> :: wire up dependency versions
 2026-04-07T23:48:43.586Z Merve Noyan <merveenoyan@users.noreply.github.com> :: wire up logging
 2026-04-08T20:28:44.295Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish config defaults
+2026-04-09T10:00:02.894Z macro <macrozheng@users.noreply.github.com> :: wire up cache keys
