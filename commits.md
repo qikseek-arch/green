@@ -9108,3 +9108,4 @@
 2026-04-09T14:02:47.925Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak edge case in auth
 2026-04-09T14:35:59.490Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove config defaults
 2026-04-09T15:09:17.812Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove build script
+2026-04-09T15:10:20.866Z Adam Bell <b3ll@users.noreply.github.com> :: refactor dependency versions
