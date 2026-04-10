@@ -18778,3 +18778,4 @@
 2026-04-09T21:56:01.446Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor edge case in auth
 2026-04-09T22:15:35.767Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak cache keys
 2026-04-09T22:46:49.683Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: bump retry logic
+2026-04-10T02:21:37.607Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up dependency versions
