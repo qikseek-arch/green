@@ -18782,3 +18782,4 @@
 2026-04-10T02:28:22.249Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor retry logic
 2026-04-10T04:52:07.548Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak logging
 2026-04-10T05:10:58.764Z Tom Dale <tomdale@users.noreply.github.com> :: update flaky test
+2026-04-10T05:17:16.163Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix the CI matrix
