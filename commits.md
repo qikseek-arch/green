@@ -9125,3 +9125,4 @@
 2026-04-10T03:46:11.579Z First Contributions <firstcontributions@gmail.com> :: tweak the parser
 2026-04-10T04:16:06.566Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish cache keys
 2026-04-10T04:49:35.347Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add build script
+2026-04-10T06:18:40.002Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
