@@ -9120,3 +9120,4 @@
 2026-04-09T20:56:41.114Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up cache keys
 2026-04-09T21:37:33.089Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: bump cache keys
 2026-04-10T00:43:26.918Z SouJunior <wouerner@soujunior.tech> :: polish config defaults
+2026-04-10T00:51:20.202Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the CI matrix
