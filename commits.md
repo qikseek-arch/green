@@ -9132,3 +9132,4 @@
 2026-04-10T14:00:52.141Z ㅤxander <vampirist@users.noreply.github.com> :: clean up retry logic
 2026-04-10T15:14:00.703Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update retry logic
 2026-04-10T15:30:55.876Z md-5 <md-5@users.noreply.github.com> :: remove readme typo
+2026-04-10T16:14:00.098Z Almas Baim <AlmasB@users.noreply.github.com> :: remove build script
