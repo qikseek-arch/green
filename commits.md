@@ -18789,3 +18789,4 @@
 2026-04-10T08:30:47.791Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove the parser
 2026-04-10T10:07:34.230Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: bump logging
 2026-04-10T12:04:47.458Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: bump cache keys
+2026-04-10T13:06:35.823Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak build script
