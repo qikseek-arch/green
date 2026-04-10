@@ -9140,3 +9140,4 @@
 2026-04-10T22:05:11.807Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up the CI matrix
 2026-04-10T22:11:35.868Z ring04h <ring04h@users.noreply.github.com> :: clean up dead code
 2026-04-10T22:41:16.495Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update readme typo
+2026-04-10T22:48:43.721Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove null check
