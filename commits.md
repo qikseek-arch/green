@@ -9141,3 +9141,4 @@
 2026-04-10T22:11:35.868Z ring04h <ring04h@users.noreply.github.com> :: clean up dead code
 2026-04-10T22:41:16.495Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update readme typo
 2026-04-10T22:48:43.721Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove null check
+2026-04-10T23:29:01.910Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up edge case in auth
