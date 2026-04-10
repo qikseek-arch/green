@@ -18792,3 +18792,4 @@
 2026-04-10T13:06:35.823Z Jarred Sumner <Jarred-Sumner@users.noreply.github.com> :: tweak build script
 2026-04-10T14:16:33.445Z DefTruth <DefTruth@users.noreply.github.com> :: fix logging
 2026-04-10T16:24:15.467Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak retry logic
+2026-04-10T17:18:02.826Z OpenBSD <openbsd@users.noreply.github.com> :: wire up edge case in auth
