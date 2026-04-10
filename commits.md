@@ -9135,3 +9135,4 @@
 2026-04-10T16:14:00.098Z Almas Baim <AlmasB@users.noreply.github.com> :: remove build script
 2026-04-10T16:25:26.226Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix readme typo
 2026-04-10T16:35:35.359Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update readme typo
+2026-04-10T20:55:23.352Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add dependency versions
