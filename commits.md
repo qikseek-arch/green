@@ -9127,3 +9127,4 @@
 2026-04-10T04:49:35.347Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add build script
 2026-04-10T06:18:40.002Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
 2026-04-10T07:31:23.459Z Keith Smiley <keith@users.noreply.github.com> :: fix the parser
+2026-04-10T07:47:10.007Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up the parser
