@@ -18799,3 +18799,4 @@
 2026-04-10T18:42:42.962Z Brian Holt <btholt@users.noreply.github.com> :: polish cache keys
 2026-04-10T20:41:48.058Z rxi <rxi@users.noreply.github.com> :: update edge case in auth
 2026-04-10T21:54:31.961Z Damian Gryski <dgryski@users.noreply.github.com> :: add config defaults
+2026-04-10T23:23:34.327Z SurrealDB <surrealdb@users.noreply.github.com> :: refactor logging
