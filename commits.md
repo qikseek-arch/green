@@ -18794,3 +18794,4 @@
 2026-04-10T16:24:15.467Z Andreas Kling <awesomekling@users.noreply.github.com> :: tweak retry logic
 2026-04-10T17:18:02.826Z OpenBSD <openbsd@users.noreply.github.com> :: wire up edge case in auth
 2026-04-10T17:52:11.556Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor the CI matrix
+2026-04-10T18:14:05.782Z Odi <mathdroid@users.noreply.github.com> :: tweak readme typo
