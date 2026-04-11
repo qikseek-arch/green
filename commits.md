@@ -9158,3 +9158,4 @@
 2026-04-11T09:26:46.490Z Claude <claude@users.noreply.github.com> :: remove logging
 2026-04-11T09:38:18.552Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update readme typo
 2026-04-11T10:31:50.108Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump the CI matrix
+2026-04-11T10:47:08.616Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor null check
