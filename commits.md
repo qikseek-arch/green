@@ -9164,3 +9164,4 @@
 2026-04-11T12:41:37.740Z Claude <claude@users.noreply.github.com> :: wire up logging
 2026-04-11T15:47:17.639Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up readme typo
 2026-04-11T16:44:31.512Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak cache keys
+2026-04-11T16:56:10.232Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix error handling
