@@ -18814,3 +18814,4 @@
 2026-04-11T08:45:11.611Z Chetan Jogi <voidChetan@users.noreply.github.com> :: update logging
 2026-04-11T10:10:25.808Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: bump the CI matrix
 2026-04-11T10:34:10.869Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish dead code
+2026-04-11T10:56:38.047Z Jabrils <Jabrils@users.noreply.github.com> :: update config defaults
