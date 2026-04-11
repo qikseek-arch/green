@@ -9160,3 +9160,4 @@
 2026-04-11T10:31:50.108Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump the CI matrix
 2026-04-11T10:47:08.616Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor null check
 2026-04-11T10:58:37.557Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump logging
+2026-04-11T11:30:36.256Z OpenJS Foundation <info@openjsf.org> :: clean up edge case in auth
