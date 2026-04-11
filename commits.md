@@ -18816,3 +18816,4 @@
 2026-04-11T10:34:10.869Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish dead code
 2026-04-11T10:56:38.047Z Jabrils <Jabrils@users.noreply.github.com> :: update config defaults
 2026-04-11T11:04:07.684Z Aman Kumar <Amanc77@users.noreply.github.com> :: bump retry logic
+2026-04-11T11:47:11.005Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove error handling
