@@ -18804,3 +18804,4 @@
 2026-04-11T00:54:08.201Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: wire up config defaults
 2026-04-11T00:55:16.509Z Petar Veličković <PetarV-@users.noreply.github.com> :: update logging
 2026-04-11T04:28:35.310Z Odi <mathdroid@users.noreply.github.com> :: add logging
+2026-04-11T05:13:09.155Z Elliott Minns <elliottminns@users.noreply.github.com> :: update readme typo
