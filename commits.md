@@ -18802,3 +18802,4 @@
 2026-04-10T23:23:34.327Z SurrealDB <surrealdb@users.noreply.github.com> :: refactor logging
 2026-04-11T00:49:18.761Z Scott Chacon <schacon@users.noreply.github.com> :: clean up logging
 2026-04-11T00:54:08.201Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: wire up config defaults
+2026-04-11T00:55:16.509Z Petar Veličković <PetarV-@users.noreply.github.com> :: update logging
