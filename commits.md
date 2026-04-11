@@ -9162,3 +9162,4 @@
 2026-04-11T10:58:37.557Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump logging
 2026-04-11T11:30:36.256Z OpenJS Foundation <info@openjsf.org> :: clean up edge case in auth
 2026-04-11T12:41:37.740Z Claude <claude@users.noreply.github.com> :: wire up logging
+2026-04-11T15:47:17.639Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up readme typo
