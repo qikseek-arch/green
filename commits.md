@@ -18809,3 +18809,4 @@
 2026-04-11T06:12:44.817Z Lipis <lipis@users.noreply.github.com> :: tweak config defaults
 2026-04-11T07:13:27.099Z Damian Gryski <dgryski@users.noreply.github.com> :: bump cache keys
 2026-04-11T07:27:14.319Z Jordan Harband <ljharb@users.noreply.github.com> :: tweak the CI matrix
+2026-04-11T08:12:08.639Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up edge case in auth
