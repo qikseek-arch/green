@@ -18826,3 +18826,4 @@
 2026-04-11T18:32:09.116Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish null check
 2026-04-11T19:36:21.363Z Alex Teichman <teichman@users.noreply.github.com> :: refactor build script
 2026-04-11T19:40:36.493Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove cache keys
+2026-04-11T21:33:34.254Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: wire up config defaults
