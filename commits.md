@@ -18846,3 +18846,4 @@
 2026-04-12T11:04:08.938Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: update config defaults
 2026-04-12T11:14:36.414Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish dependency versions
 2026-04-12T12:19:01.698Z yakeIore <yakeIore@users.noreply.github.com> :: polish the parser
+2026-04-12T13:43:26.230Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update retry logic
