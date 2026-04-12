@@ -18842,3 +18842,4 @@
 2026-04-12T09:09:08.566Z Google Fonts <googlefonts@users.noreply.github.com> :: wire up error handling
 2026-04-12T09:37:56.422Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: clean up readme typo
 2026-04-12T10:44:24.978Z J.Baci <jbaci@users.noreply.github.com> :: wire up readme typo
+2026-04-12T10:54:31.421Z LocalSend <localsend@users.noreply.github.com> :: tweak config defaults
