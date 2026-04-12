@@ -9184,3 +9184,4 @@
 2026-04-12T08:15:37.692Z Selenium <SeleniumHQ@users.noreply.github.com> :: add config defaults
 2026-04-12T08:32:27.856Z md-5 <md-5@users.noreply.github.com> :: bump retry logic
 2026-04-12T08:49:35.752Z Adam Bell <b3ll@users.noreply.github.com> :: refactor dependency versions
+2026-04-12T08:53:43.253Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak the parser
