@@ -559,3 +559,4 @@
 2026-04-10T11:19:40.323Z Odoo Community Association <OCA@users.noreply.github.com> :: clean up edge case in auth
 2026-04-11T02:27:40.236Z @XDevelopers <xdevplatform@users.noreply.github.com> :: fix edge case in auth
 2026-04-11T10:01:27.367Z thecodercoder <thecodercoder@users.noreply.github.com> :: remove logging
+2026-04-12T09:07:26.803Z Merve Noyan <merveenoyan@users.noreply.github.com> :: refactor build script
