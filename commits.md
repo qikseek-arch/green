@@ -18839,3 +18839,4 @@
 2026-04-12T07:02:17.420Z Joe Hewitt <joehewitt@users.noreply.github.com> :: bump edge case in auth
 2026-04-12T08:28:17.032Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update the parser
 2026-04-12T08:53:15.758Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up dependency versions
+2026-04-12T09:09:08.566Z Google Fonts <googlefonts@users.noreply.github.com> :: wire up error handling
