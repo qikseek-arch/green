@@ -9180,3 +9180,4 @@
 2026-04-12T02:57:41.375Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix cache keys
 2026-04-12T03:16:13.323Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
 2026-04-12T06:58:32.283Z Keith Smiley <keith@users.noreply.github.com> :: polish flaky test
+2026-04-12T08:05:17.922Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up logging
