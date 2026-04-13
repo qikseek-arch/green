@@ -18884,3 +18884,4 @@
 2026-04-13T05:49:26.896Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor error handling
 2026-04-13T07:06:09.942Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove error handling
 2026-04-13T09:56:55.555Z LocalSend <localsend@users.noreply.github.com> :: tweak the parser
+2026-04-13T10:39:20.746Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
