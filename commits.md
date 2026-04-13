@@ -18885,3 +18885,4 @@
 2026-04-13T07:06:09.942Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove error handling
 2026-04-13T09:56:55.555Z LocalSend <localsend@users.noreply.github.com> :: tweak the parser
 2026-04-13T10:39:20.746Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: fix dependency versions
+2026-04-13T10:50:10.307Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add the CI matrix
