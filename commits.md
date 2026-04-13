@@ -9193,3 +9193,4 @@
 2026-04-13T00:17:15.909Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up flaky test
 2026-04-13T00:58:40.686Z ㅤxander <vampirist@users.noreply.github.com> :: clean up the CI matrix
 2026-04-13T04:33:52.933Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up flaky test
+2026-04-13T07:06:29.132Z Keith Smiley <keith@users.noreply.github.com> :: remove config defaults
