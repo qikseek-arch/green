@@ -18874,3 +18874,4 @@
 2026-04-13T03:35:34.758Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up logging
 2026-04-13T04:00:53.359Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump the parser
 2026-04-13T04:02:43.599Z Michael Jackson <mjackson@users.noreply.github.com> :: update the CI matrix
+2026-04-13T04:12:24.739Z Lipis <lipis@users.noreply.github.com> :: refactor edge case in auth
