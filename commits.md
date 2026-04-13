@@ -18870,3 +18870,4 @@
 2026-04-13T02:04:48.005Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor readme typo
 2026-04-13T02:13:10.606Z Prometheus <prometheus@users.noreply.github.com> :: remove flaky test
 2026-04-13T02:24:36.164Z 毒奶博主 <limbopro@users.noreply.github.com> :: bump the parser
+2026-04-13T03:25:07.482Z Epic Dev Space <team@epicweb.dev> :: wire up build script
