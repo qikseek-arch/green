@@ -18864,3 +18864,4 @@
 2026-04-13T00:25:12.059Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up the parser
 2026-04-13T01:05:09.466Z BAPPY AHMED <entbappy@users.noreply.github.com> :: add retry logic
 2026-04-13T01:32:09.791Z Dove Letter <skydoves2@gmail.com> :: update logging
+2026-04-13T01:35:35.260Z Marcel Pociot <mpociot@users.noreply.github.com> :: refactor config defaults
