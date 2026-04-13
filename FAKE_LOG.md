@@ -103,3 +103,4 @@
 2026-04-06T23:00:14.411Z daemon_quantum_dev <daemon_quantum_dev@users.noreply.github.com> :: wire up retry logic
 2026-04-09T02:26:26.192Z ChillToaster <chilltoaster@users.noreply.github.com> :: bump logging
 2026-04-13T18:21:55.521Z Steve Wozniak <steve.wozniak@example.com> :: fix readme typo
+2026-04-13T23:02:50.600Z vulture_grumpy_x <vulture_grumpy_x@users.noreply.github.com> :: update dependency versions
