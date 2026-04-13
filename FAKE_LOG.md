@@ -102,3 +102,4 @@
 2026-03-29T16:42:57.836Z arcane-goblinhq <arcane-goblinhq@users.noreply.github.com> :: bump retry logic
 2026-04-06T23:00:14.411Z daemon_quantum_dev <daemon_quantum_dev@users.noreply.github.com> :: wire up retry logic
 2026-04-09T02:26:26.192Z ChillToaster <chilltoaster@users.noreply.github.com> :: bump logging
+2026-04-13T18:21:55.521Z Steve Wozniak <steve.wozniak@example.com> :: fix readme typo
