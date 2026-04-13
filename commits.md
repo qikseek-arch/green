@@ -9207,3 +9207,4 @@
 2026-04-13T14:44:21.939Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump retry logic
 2026-04-13T15:19:16.793Z Claude <claude@users.noreply.github.com> :: refactor readme typo
 2026-04-13T18:23:46.513Z md-5 <md-5@users.noreply.github.com> :: wire up cache keys
+2026-04-13T18:57:00.903Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up edge case in auth
