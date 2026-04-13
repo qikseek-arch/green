@@ -9198,3 +9198,4 @@
 2026-04-13T09:41:53.785Z Getgems <getgems-io@users.noreply.github.com> :: tweak the parser
 2026-04-13T10:11:55.230Z owenzhang <owenzhang@users.noreply.github.com> :: remove retry logic
 2026-04-13T10:30:30.090Z Adam Bell <b3ll@users.noreply.github.com> :: clean up error handling
+2026-04-13T10:30:42.263Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up the CI matrix
