@@ -18867,3 +18867,4 @@
 2026-04-13T01:35:35.260Z Marcel Pociot <mpociot@users.noreply.github.com> :: refactor config defaults
 2026-04-13T01:37:39.382Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up the CI matrix
 2026-04-13T01:51:24.163Z rxi <rxi@users.noreply.github.com> :: refactor logging
+2026-04-13T02:04:48.005Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor readme typo
