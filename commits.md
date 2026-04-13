@@ -18861,3 +18861,4 @@
 2026-04-12T22:03:52.868Z Henry <hzoo@users.noreply.github.com> :: polish null check
 2026-04-12T22:39:19.839Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: bump the CI matrix
 2026-04-12T22:49:03.600Z Zed Industries <hi@zed.dev> :: update null check
+2026-04-13T00:25:12.059Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up the parser
