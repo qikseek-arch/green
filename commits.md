@@ -562,3 +562,4 @@
 2026-04-12T09:07:26.803Z Merve Noyan <merveenoyan@users.noreply.github.com> :: refactor build script
 2026-04-12T12:16:02.751Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak flaky test
 2026-04-13T06:24:33.651Z 左程云 <algorithmzuo@users.noreply.github.com> :: add config defaults
+2026-04-13T10:10:45.899Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak edge case in auth
