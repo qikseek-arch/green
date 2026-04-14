@@ -9217,3 +9217,4 @@
 2026-04-14T03:52:27.545Z Daniel Eden <daneden@users.noreply.github.com> :: fix flaky test
 2026-04-14T04:53:16.198Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor dependency versions
 2026-04-14T10:38:24.147Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up config defaults
+2026-04-14T11:54:45.350Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add the CI matrix
