@@ -18908,3 +18908,4 @@
 2026-04-14T06:11:47.713Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: remove the parser
 2026-04-14T06:30:35.098Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor logging
 2026-04-14T07:58:00.189Z Xingang Pan <XingangPan@users.noreply.github.com> :: wire up edge case in auth
+2026-04-14T08:04:12.292Z Mr L <Soldy@users.noreply.github.com> :: remove null check
