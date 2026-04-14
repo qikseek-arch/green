@@ -9214,3 +9214,4 @@
 2026-04-14T01:30:18.245Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish the parser
 2026-04-14T01:46:59.683Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
 2026-04-14T02:43:40.796Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump flaky test
+2026-04-14T03:52:27.545Z Daniel Eden <daneden@users.noreply.github.com> :: fix flaky test
