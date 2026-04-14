@@ -18931,3 +18931,4 @@
 2026-04-14T22:32:44.239Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish retry logic
 2026-04-14T23:08:43.870Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up logging
 2026-04-14T23:41:13.701Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak the parser
+2026-04-14T23:54:09.847Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: tweak config defaults
