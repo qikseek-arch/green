@@ -9212,3 +9212,4 @@
 2026-04-14T00:28:31.377Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak readme typo
 2026-04-14T01:13:13.671Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update build script
 2026-04-14T01:30:18.245Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish the parser
+2026-04-14T01:46:59.683Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
