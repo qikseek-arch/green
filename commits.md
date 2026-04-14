@@ -9216,3 +9216,4 @@
 2026-04-14T02:43:40.796Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump flaky test
 2026-04-14T03:52:27.545Z Daniel Eden <daneden@users.noreply.github.com> :: fix flaky test
 2026-04-14T04:53:16.198Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor dependency versions
+2026-04-14T10:38:24.147Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up config defaults
