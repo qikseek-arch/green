@@ -18926,3 +18926,4 @@
 2026-04-14T19:40:24.817Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak null check
 2026-04-14T20:13:36.205Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak dependency versions
 2026-04-14T20:16:00.408Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up config defaults
+2026-04-14T21:00:57.803Z JoJo Amanie <jojoamanie@users.noreply.github.com> :: tweak dead code
