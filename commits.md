@@ -9209,3 +9209,4 @@
 2026-04-13T18:23:46.513Z md-5 <md-5@users.noreply.github.com> :: wire up cache keys
 2026-04-13T18:57:00.903Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up edge case in auth
 2026-04-14T00:14:31.064Z Getgems <getgems-io@users.noreply.github.com> :: tweak config defaults
+2026-04-14T00:28:31.377Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak readme typo
