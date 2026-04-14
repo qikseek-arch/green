@@ -9224,3 +9224,4 @@
 2026-04-14T18:47:54.917Z Duy Tran <khanhduytran0@users.noreply.github.com> :: tweak dependency versions
 2026-04-14T22:15:24.819Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove build script
 2026-04-14T22:38:33.945Z LILYGO <LilyGO@users.noreply.github.com> :: bump readme typo
+2026-04-14T22:47:33.321Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove retry logic
