@@ -18919,3 +18919,4 @@
 2026-04-14T16:20:20.122Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish logging
 2026-04-14T16:22:48.583Z OpenBMB <openbmb@gmail.com> :: wire up retry logic
 2026-04-14T17:30:53.800Z BAPPY AHMED <entbappy@users.noreply.github.com> :: add logging
+2026-04-14T17:34:49.705Z Chetan Jogi <voidChetan@users.noreply.github.com> :: add error handling
