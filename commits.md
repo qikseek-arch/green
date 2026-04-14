@@ -18914,3 +18914,4 @@
 2026-04-14T10:00:52.974Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: fix retry logic
 2026-04-14T11:07:16.267Z Cezanne Camacho <cezannec@users.noreply.github.com> :: polish build script
 2026-04-14T12:32:41.984Z winterbe <winterbe@users.noreply.github.com> :: clean up null check
+2026-04-14T15:31:14.339Z rxi <rxi@users.noreply.github.com> :: refactor readme typo
