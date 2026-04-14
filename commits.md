@@ -18929,3 +18929,4 @@
 2026-04-14T21:00:57.803Z JoJo Amanie <jojoamanie@users.noreply.github.com> :: tweak dead code
 2026-04-14T22:11:13.959Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump build script
 2026-04-14T22:32:44.239Z Joe Hewitt <joehewitt@users.noreply.github.com> :: polish retry logic
+2026-04-14T23:08:43.870Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: wire up logging
