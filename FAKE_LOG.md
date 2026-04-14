@@ -764,3 +764,4 @@
 2026-04-09T18:46:55.733Z Jadi <jadijadi@users.noreply.github.com> :: remove retry logic
 2026-04-10T01:38:12.570Z Sarah Drasner <sdras@users.noreply.github.com> :: bump dead code
 2026-04-13T06:54:58.653Z DeepSeek <service@deepseek.com> :: tweak config defaults
+2026-04-14T09:54:15.528Z Hitesh Choudhary <hiteshchoudhary@users.noreply.github.com> :: fix dependency versions
