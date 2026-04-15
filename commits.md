@@ -567,3 +567,4 @@
 2026-04-14T06:30:19.705Z Sasha Rush <srush@users.noreply.github.com> :: remove flaky test
 2026-04-15T09:40:51.189Z t11s <transmissions11@users.noreply.github.com> :: update the CI matrix
 2026-04-15T11:20:41.215Z Odoo Community Association <OCA@users.noreply.github.com> :: wire up dead code
+2026-04-15T12:41:20.341Z Yangqing Jia <Yangqing@users.noreply.github.com> :: tweak dead code
