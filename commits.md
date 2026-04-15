@@ -9227,3 +9227,4 @@
 2026-04-14T22:47:33.321Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove retry logic
 2026-04-14T23:47:11.028Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish retry logic
 2026-04-15T00:10:30.396Z Taiko Foundation <info@taiko.xyz> :: tweak dead code
+2026-04-15T02:30:24.419Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove config defaults
