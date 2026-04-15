@@ -565,3 +565,4 @@
 2026-04-13T10:10:45.899Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak edge case in auth
 2026-04-13T11:30:50.100Z Holtz Yan <holtzy@users.noreply.github.com> :: polish build script
 2026-04-14T06:30:19.705Z Sasha Rush <srush@users.noreply.github.com> :: remove flaky test
+2026-04-15T09:40:51.189Z t11s <transmissions11@users.noreply.github.com> :: update the CI matrix
