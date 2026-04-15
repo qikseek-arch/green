@@ -18946,3 +18946,4 @@
 2026-04-15T09:55:51.557Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
 2026-04-15T10:54:40.980Z Brian Holt <btholt@users.noreply.github.com> :: add the CI matrix
 2026-04-15T11:04:37.320Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: fix logging
+2026-04-15T11:08:33.970Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: update readme typo
