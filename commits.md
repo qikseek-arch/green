@@ -18941,3 +18941,4 @@
 2026-04-15T06:43:58.677Z imput <hello@imput.net> :: clean up build script
 2026-04-15T07:38:14.535Z Collabnix <collabnix@users.noreply.github.com> :: fix flaky test
 2026-04-15T07:45:35.782Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update error handling
+2026-04-15T08:57:07.380Z Jordan Harband <ljharb@users.noreply.github.com> :: remove build script
