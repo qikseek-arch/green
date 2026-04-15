@@ -9236,3 +9236,4 @@
 2026-04-15T05:55:18.034Z Odi <mathdroid@users.noreply.github.com> :: clean up cache keys
 2026-04-15T05:55:43.826Z LILYGO <LilyGO@users.noreply.github.com> :: fix the CI matrix
 2026-04-15T07:47:53.468Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove flaky test
+2026-04-15T07:53:30.462Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up edge case in auth
