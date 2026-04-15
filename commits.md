@@ -9249,3 +9249,4 @@
 2026-04-15T16:47:30.943Z Claude <claude@users.noreply.github.com> :: tweak build script
 2026-04-15T17:35:09.221Z Taiko Foundation <info@taiko.xyz> :: add the CI matrix
 2026-04-15T18:02:30.926Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add logging
+2026-04-15T18:04:05.198Z Manu Arora <manuarora700@users.noreply.github.com> :: add build script
