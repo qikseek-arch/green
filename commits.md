@@ -9247,3 +9247,4 @@
 2026-04-15T15:27:23.259Z WebRTC <discuss-webrtc@googlegroups.com> :: update the CI matrix
 2026-04-15T16:20:07.215Z WebRTC <discuss-webrtc@googlegroups.com> :: wire up retry logic
 2026-04-15T16:47:30.943Z Claude <claude@users.noreply.github.com> :: tweak build script
+2026-04-15T17:35:09.221Z Taiko Foundation <info@taiko.xyz> :: add the CI matrix
