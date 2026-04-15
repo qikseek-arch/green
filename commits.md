@@ -9239,3 +9239,4 @@
 2026-04-15T07:53:30.462Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up edge case in auth
 2026-04-15T08:10:35.329Z owenzhang <owenzhang@users.noreply.github.com> :: refactor the parser
 2026-04-15T10:10:02.893Z Sachin Soni <techiesms@users.noreply.github.com> :: fix edge case in auth
+2026-04-15T10:32:00.171Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove retry logic
