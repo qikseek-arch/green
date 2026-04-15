@@ -18951,3 +18951,4 @@
 2026-04-15T11:36:41.274Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove logging
 2026-04-15T12:51:14.798Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix flaky test
 2026-04-15T13:10:04.010Z Alex Teichman <teichman@users.noreply.github.com> :: wire up config defaults
+2026-04-15T14:42:13.939Z Petar Veličković <PetarV-@users.noreply.github.com> :: clean up retry logic
