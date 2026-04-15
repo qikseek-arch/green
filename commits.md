@@ -9230,3 +9230,4 @@
 2026-04-15T02:30:24.419Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove config defaults
 2026-04-15T02:50:00.256Z WebRTC <discuss-webrtc@googlegroups.com> :: wire up dependency versions
 2026-04-15T03:02:04.779Z Getgems <getgems-io@users.noreply.github.com> :: tweak edge case in auth
+2026-04-15T03:20:55.309Z markqvist <markqvist@users.noreply.github.com> :: bump error handling
