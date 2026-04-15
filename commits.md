@@ -18957,3 +18957,4 @@
 2026-04-15T19:38:53.494Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor config defaults
 2026-04-15T20:26:18.176Z Islem Maboud <ipenywis@users.noreply.github.com> :: bump edge case in auth
 2026-04-15T22:39:51.754Z Chetan Jogi <voidChetan@users.noreply.github.com> :: bump null check
+2026-04-15T22:59:52.193Z Islem Maboud <ipenywis@users.noreply.github.com> :: polish dependency versions
