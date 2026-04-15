@@ -18940,3 +18940,4 @@
 2026-04-15T05:33:24.101Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove dependency versions
 2026-04-15T06:43:58.677Z imput <hello@imput.net> :: clean up build script
 2026-04-15T07:38:14.535Z Collabnix <collabnix@users.noreply.github.com> :: fix flaky test
+2026-04-15T07:45:35.782Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update error handling
