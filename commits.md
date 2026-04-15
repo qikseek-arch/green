@@ -18944,3 +18944,4 @@
 2026-04-15T08:57:07.380Z Jordan Harband <ljharb@users.noreply.github.com> :: remove build script
 2026-04-15T09:31:13.031Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: fix the parser
 2026-04-15T09:55:51.557Z OpenBSD <openbsd@users.noreply.github.com> :: wire up error handling
+2026-04-15T10:54:40.980Z Brian Holt <btholt@users.noreply.github.com> :: add the CI matrix
