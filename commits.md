@@ -9278,3 +9278,4 @@
 2026-04-16T18:49:30.651Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: fix null check
 2026-04-16T20:50:16.637Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor config defaults
 2026-04-16T21:23:44.362Z SouJunior <wouerner@soujunior.tech> :: polish the CI matrix
+2026-04-16T22:38:22.994Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add edge case in auth
