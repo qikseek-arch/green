@@ -9260,3 +9260,4 @@
 2026-04-16T02:02:15.538Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor null check
 2026-04-16T03:55:26.109Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
 2026-04-16T04:39:29.334Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add the parser
+2026-04-16T06:12:25.219Z LILYGO <LilyGO@users.noreply.github.com> :: polish readme typo
