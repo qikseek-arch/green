@@ -569,3 +569,4 @@
 2026-04-15T11:20:41.215Z Odoo Community Association <OCA@users.noreply.github.com> :: wire up dead code
 2026-04-15T12:41:20.341Z Yangqing Jia <Yangqing@users.noreply.github.com> :: tweak dead code
 2026-04-16T00:41:29.163Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: update null check
+2026-04-16T12:52:40.101Z Mark Erikson <markerikson@users.noreply.github.com> :: add flaky test
