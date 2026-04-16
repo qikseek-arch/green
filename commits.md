@@ -18961,3 +18961,4 @@
 2026-04-16T00:00:02.375Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
 2026-04-16T00:02:16.471Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: clean up cache keys
 2026-04-16T01:14:13.721Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix error handling
+2026-04-16T06:46:17.748Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak error handling
