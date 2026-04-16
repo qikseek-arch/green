@@ -568,3 +568,4 @@
 2026-04-15T09:40:51.189Z t11s <transmissions11@users.noreply.github.com> :: update the CI matrix
 2026-04-15T11:20:41.215Z Odoo Community Association <OCA@users.noreply.github.com> :: wire up dead code
 2026-04-15T12:41:20.341Z Yangqing Jia <Yangqing@users.noreply.github.com> :: tweak dead code
+2026-04-16T00:41:29.163Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: update null check
