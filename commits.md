@@ -9262,3 +9262,4 @@
 2026-04-16T04:39:29.334Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add the parser
 2026-04-16T06:12:25.219Z LILYGO <LilyGO@users.noreply.github.com> :: polish readme typo
 2026-04-16T06:46:00.301Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the parser
+2026-04-16T07:06:06.558Z markqvist <markqvist@users.noreply.github.com> :: update null check
