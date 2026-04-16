@@ -9272,3 +9272,4 @@
 2026-04-16T14:00:06.565Z AI4Bhārat <opensource@ai4bharat.org> :: remove error handling
 2026-04-16T14:59:44.884Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor config defaults
 2026-04-16T15:12:53.461Z David Clark <nullptrException100@users.noreply.github.com> :: fix build script
+2026-04-16T16:35:32.599Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up build script
