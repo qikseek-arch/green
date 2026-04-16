@@ -18971,3 +18971,4 @@
 2026-04-16T10:50:40.323Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: add edge case in auth
 2026-04-16T11:52:11.340Z John Schulman <joschu@users.noreply.github.com> :: fix cache keys
 2026-04-16T11:52:13.244Z Tom Dale <tomdale@users.noreply.github.com> :: polish edge case in auth
+2026-04-16T12:07:08.735Z John Schulman <joschu@users.noreply.github.com> :: tweak null check
