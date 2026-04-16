@@ -18980,3 +18980,4 @@
 2026-04-16T19:48:29.469Z Morvan <MorvanZhou@users.noreply.github.com> :: bump flaky test
 2026-04-16T21:39:40.996Z 千古壹号 <qianguyihao@users.noreply.github.com> :: polish the parser
 2026-04-16T21:45:09.388Z OpenBMB <openbmb@gmail.com> :: refactor readme typo
+2026-04-16T22:24:46.612Z Odi <mathdroid@users.noreply.github.com> :: tweak dependency versions
