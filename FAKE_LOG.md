@@ -550,3 +550,4 @@
 2026-04-10T09:48:42.531Z Google <opensource@google.com> :: polish error handling
 2026-04-13T07:40:58.270Z Brais Moure <mouredev@users.noreply.github.com> :: bump dependency versions
 2026-04-16T16:49:26.929Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: update dependency versions
+2026-04-16T23:39:18.674Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: fix the CI matrix
