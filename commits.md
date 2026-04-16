@@ -9264,3 +9264,4 @@
 2026-04-16T06:46:00.301Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update the parser
 2026-04-16T07:06:06.558Z markqvist <markqvist@users.noreply.github.com> :: update null check
 2026-04-16T08:19:21.014Z Duy Tran <khanhduytran0@users.noreply.github.com> :: clean up edge case in auth
+2026-04-16T09:56:08.962Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add null check
