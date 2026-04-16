@@ -9269,3 +9269,4 @@
 2026-04-16T10:28:49.829Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up build script
 2026-04-16T11:01:06.835Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up dependency versions
 2026-04-16T12:19:39.310Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump edge case in auth
+2026-04-16T14:00:06.565Z AI4Bhārat <opensource@ai4bharat.org> :: remove error handling
