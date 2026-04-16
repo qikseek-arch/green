@@ -18963,3 +18963,4 @@
 2026-04-16T01:14:13.721Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix error handling
 2026-04-16T06:46:17.748Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak error handling
 2026-04-16T07:17:32.914Z John Schulman <joschu@users.noreply.github.com> :: clean up edge case in auth
+2026-04-16T07:48:17.447Z Jordan Harband <ljharb@users.noreply.github.com> :: bump edge case in auth
