@@ -574,3 +574,4 @@
 2026-04-16T17:39:06.542Z Holtz Yan <holtzy@users.noreply.github.com> :: clean up logging
 2026-04-16T20:39:54.447Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: update readme typo
 2026-04-16T23:54:43.155Z HashLips <HashLips@users.noreply.github.com> :: refactor dependency versions
+2026-04-17T07:25:29.228Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: bump error handling
