@@ -18987,3 +18987,4 @@
 2026-04-16T23:52:56.845Z Tom Dale <tomdale@users.noreply.github.com> :: add null check
 2026-04-17T02:55:40.657Z Brian Holt <btholt@users.noreply.github.com> :: remove retry logic
 2026-04-17T03:06:01.256Z 千古壹号 <qianguyihao@users.noreply.github.com> :: clean up cache keys
+2026-04-17T03:31:32.849Z Petar Veličković <PetarV-@users.noreply.github.com> :: add error handling
