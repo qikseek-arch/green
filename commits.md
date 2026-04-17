@@ -9289,3 +9289,4 @@
 2026-04-17T09:43:20.754Z Getgems <getgems-io@users.noreply.github.com> :: remove config defaults
 2026-04-17T10:19:35.958Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix build script
 2026-04-17T10:34:06.467Z Getgems <getgems-io@users.noreply.github.com> :: update build script
+2026-04-17T11:07:29.471Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the CI matrix
