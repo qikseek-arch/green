@@ -9287,3 +9287,4 @@
 2026-04-17T07:54:37.072Z Claude <claude@users.noreply.github.com> :: clean up build script
 2026-04-17T08:08:07.769Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix cache keys
 2026-04-17T09:43:20.754Z Getgems <getgems-io@users.noreply.github.com> :: remove config defaults
+2026-04-17T10:19:35.958Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix build script
