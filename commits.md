@@ -9292,3 +9292,4 @@
 2026-04-17T11:07:29.471Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the CI matrix
 2026-04-17T11:22:11.196Z ring04h <ring04h@users.noreply.github.com> :: clean up cache keys
 2026-04-17T12:54:40.756Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add null check
+2026-04-17T14:30:13.130Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update error handling
