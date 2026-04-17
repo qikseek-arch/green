@@ -9296,3 +9296,4 @@
 2026-04-17T15:07:18.571Z Getgems <getgems-io@users.noreply.github.com> :: refactor dead code
 2026-04-17T16:23:00.613Z Odi <mathdroid@users.noreply.github.com> :: refactor config defaults
 2026-04-17T16:35:15.916Z ㅤxander <vampirist@users.noreply.github.com> :: remove cache keys
+2026-04-17T18:40:28.194Z ㅤxander <vampirist@users.noreply.github.com> :: tweak null check
