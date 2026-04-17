@@ -9295,3 +9295,4 @@
 2026-04-17T14:30:13.130Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update error handling
 2026-04-17T15:07:18.571Z Getgems <getgems-io@users.noreply.github.com> :: refactor dead code
 2026-04-17T16:23:00.613Z Odi <mathdroid@users.noreply.github.com> :: refactor config defaults
+2026-04-17T16:35:15.916Z ㅤxander <vampirist@users.noreply.github.com> :: remove cache keys
