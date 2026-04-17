@@ -19006,3 +19006,4 @@
 2026-04-17T17:40:50.668Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: bump edge case in auth
 2026-04-17T20:05:48.633Z Epic Dev Space <team@epicweb.dev> :: add dead code
 2026-04-17T20:22:43.973Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix logging
+2026-04-17T20:28:18.681Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up dependency versions
