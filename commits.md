@@ -19008,3 +19008,4 @@
 2026-04-17T20:22:43.973Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix logging
 2026-04-17T20:28:18.681Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up dependency versions
 2026-04-17T20:34:44.358Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor null check
+2026-04-17T20:47:57.800Z Dove Letter <skydoves2@gmail.com> :: clean up the parser
