@@ -19000,3 +19000,4 @@
 2026-04-17T11:40:14.751Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish logging
 2026-04-17T12:45:31.352Z Michael Jackson <mjackson@users.noreply.github.com> :: polish readme typo
 2026-04-17T13:36:47.708Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove the parser
+2026-04-17T14:20:00.856Z OpenBMB <openbmb@gmail.com> :: add null check
