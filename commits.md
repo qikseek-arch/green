@@ -18999,3 +18999,4 @@
 2026-04-17T10:24:01.571Z Dove Letter <skydoves2@gmail.com> :: add config defaults
 2026-04-17T11:40:14.751Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish logging
 2026-04-17T12:45:31.352Z Michael Jackson <mjackson@users.noreply.github.com> :: polish readme typo
+2026-04-17T13:36:47.708Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: remove the parser
