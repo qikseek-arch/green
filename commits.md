@@ -19028,3 +19028,4 @@
 2026-04-18T15:31:56.441Z Tom Dale <tomdale@users.noreply.github.com> :: bump build script
 2026-04-18T15:58:14.575Z Mr L <Soldy@users.noreply.github.com> :: clean up dependency versions
 2026-04-18T17:42:26.468Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update flaky test
+2026-04-18T17:45:00.308Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: tweak error handling
