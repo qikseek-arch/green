@@ -19024,3 +19024,4 @@
 2026-04-18T09:41:31.199Z Alex Teichman <teichman@users.noreply.github.com> :: tweak the CI matrix
 2026-04-18T12:38:39.920Z imput <hello@imput.net> :: add cache keys
 2026-04-18T13:29:10.611Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove logging
+2026-04-18T14:00:31.277Z winterbe <winterbe@users.noreply.github.com> :: fix config defaults
