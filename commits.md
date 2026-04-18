@@ -580,3 +580,4 @@
 2026-04-18T05:42:36.337Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: update error handling
 2026-04-18T06:44:25.243Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor edge case in auth
 2026-04-18T08:26:29.389Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish the parser
+2026-04-18T20:27:47.666Z Rob Fuller <mubix@users.noreply.github.com> :: fix the parser
