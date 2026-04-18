@@ -19022,3 +19022,4 @@
 2026-04-18T07:53:50.817Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish error handling
 2026-04-18T09:36:30.476Z OpenBSD <openbsd@users.noreply.github.com> :: update the parser
 2026-04-18T09:41:31.199Z Alex Teichman <teichman@users.noreply.github.com> :: tweak the CI matrix
+2026-04-18T12:38:39.920Z imput <hello@imput.net> :: add cache keys
