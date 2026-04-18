@@ -19013,3 +19013,4 @@
 2026-04-18T00:32:02.840Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up dead code
 2026-04-18T03:10:40.984Z Jordan Harband <ljharb@users.noreply.github.com> :: polish cache keys
 2026-04-18T03:22:38.020Z Scott Chacon <schacon@users.noreply.github.com> :: wire up build script
+2026-04-18T05:02:34.974Z Brian Holt <btholt@users.noreply.github.com> :: bump readme typo
