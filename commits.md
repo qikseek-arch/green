@@ -9308,3 +9308,4 @@
 2026-04-18T04:05:25.657Z Adam Łucek <ALucek@users.noreply.github.com> :: fix null check
 2026-04-18T04:30:20.811Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak config defaults
 2026-04-18T08:06:36.021Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor flaky test
+2026-04-18T08:08:14.642Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix edge case in auth
