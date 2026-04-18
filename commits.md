@@ -19025,3 +19025,4 @@
 2026-04-18T12:38:39.920Z imput <hello@imput.net> :: add cache keys
 2026-04-18T13:29:10.611Z MelikaRezazadeh <MelikaRezazadeh@users.noreply.github.com> :: remove logging
 2026-04-18T14:00:31.277Z winterbe <winterbe@users.noreply.github.com> :: fix config defaults
+2026-04-18T15:31:56.441Z Tom Dale <tomdale@users.noreply.github.com> :: bump build script
