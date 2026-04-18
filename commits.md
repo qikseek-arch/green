@@ -19018,3 +19018,4 @@
 2026-04-18T07:11:37.714Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: add edge case in auth
 2026-04-18T07:11:47.668Z Petar Veličković <PetarV-@users.noreply.github.com> :: add dependency versions
 2026-04-18T07:26:23.743Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: refactor the CI matrix
+2026-04-18T07:33:05.298Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update dependency versions
