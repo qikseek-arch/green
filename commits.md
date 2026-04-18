@@ -9313,3 +9313,4 @@
 2026-04-18T11:45:17.015Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up readme typo
 2026-04-18T12:09:05.196Z Roger Labbe <rlabbe@users.noreply.github.com> :: add config defaults
 2026-04-18T13:07:41.813Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix dead code
+2026-04-18T13:53:31.740Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak null check
