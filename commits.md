@@ -9306,3 +9306,4 @@
 2026-04-18T00:45:40.584Z Manu Arora <manuarora700@users.noreply.github.com> :: polish flaky test
 2026-04-18T01:54:27.021Z Manu Arora <manuarora700@users.noreply.github.com> :: polish dependency versions
 2026-04-18T04:05:25.657Z Adam Łucek <ALucek@users.noreply.github.com> :: fix null check
+2026-04-18T04:30:20.811Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak config defaults
