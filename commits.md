@@ -9311,3 +9311,4 @@
 2026-04-18T08:08:14.642Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix edge case in auth
 2026-04-18T11:10:33.792Z David Fowler <davidfowl@users.noreply.github.com> :: bump flaky test
 2026-04-18T11:45:17.015Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up readme typo
+2026-04-18T12:09:05.196Z Roger Labbe <rlabbe@users.noreply.github.com> :: add config defaults
