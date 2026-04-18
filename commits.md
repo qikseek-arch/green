@@ -19012,3 +19012,4 @@
 2026-04-17T22:06:23.165Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak the parser
 2026-04-18T00:32:02.840Z Islem Maboud <ipenywis@users.noreply.github.com> :: clean up dead code
 2026-04-18T03:10:40.984Z Jordan Harband <ljharb@users.noreply.github.com> :: polish cache keys
+2026-04-18T03:22:38.020Z Scott Chacon <schacon@users.noreply.github.com> :: wire up build script
