@@ -19032,3 +19032,4 @@
 2026-04-18T17:49:21.692Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak cache keys
 2026-04-18T18:56:58.541Z Elliott Minns <elliottminns@users.noreply.github.com> :: add the CI matrix
 2026-04-18T19:02:48.657Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: bump null check
+2026-04-18T21:34:59.209Z Scott Chacon <schacon@users.noreply.github.com> :: add dependency versions
