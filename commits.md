@@ -9334,3 +9334,4 @@
 2026-04-19T01:12:49.288Z qiye <qiyeboy@users.noreply.github.com> :: clean up error handling
 2026-04-19T02:03:27.432Z CTFs <ctfs@users.noreply.github.com> :: update null check
 2026-04-19T04:02:35.537Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update config defaults
+2026-04-19T04:38:04.377Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up dead code
