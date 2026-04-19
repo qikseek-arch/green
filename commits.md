@@ -19055,3 +19055,4 @@
 2026-04-19T19:14:26.643Z Elliott Minns <elliottminns@users.noreply.github.com> :: refactor error handling
 2026-04-19T20:04:35.301Z Morvan <MorvanZhou@users.noreply.github.com> :: bump dependency versions
 2026-04-19T20:26:57.196Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: wire up config defaults
+2026-04-19T21:00:20.555Z Snowflake Labs <opensource@snowflake.com> :: refactor edge case in auth
