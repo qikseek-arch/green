@@ -19046,3 +19046,4 @@
 2026-04-19T08:25:25.595Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak error handling
 2026-04-19T11:17:49.073Z John Schulman <joschu@users.noreply.github.com> :: update dependency versions
 2026-04-19T11:46:19.547Z Xingang Pan <XingangPan@users.noreply.github.com> :: wire up dead code
+2026-04-19T12:32:23.691Z Alex Teichman <teichman@users.noreply.github.com> :: bump null check
