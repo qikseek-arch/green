@@ -19047,3 +19047,4 @@
 2026-04-19T11:17:49.073Z John Schulman <joschu@users.noreply.github.com> :: update dependency versions
 2026-04-19T11:46:19.547Z Xingang Pan <XingangPan@users.noreply.github.com> :: wire up dead code
 2026-04-19T12:32:23.691Z Alex Teichman <teichman@users.noreply.github.com> :: bump null check
+2026-04-19T13:06:03.142Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove error handling
