@@ -105,3 +105,4 @@
 2026-04-13T18:21:55.521Z Steve Wozniak <steve.wozniak@example.com> :: fix readme typo
 2026-04-13T23:02:50.600Z vulture_grumpy_x <vulture_grumpy_x@users.noreply.github.com> :: update dependency versions
 2026-04-14T10:15:29.765Z GlitchyDaemon <glitchydaemon@users.noreply.github.com> :: add logging
+2026-04-19T20:54:01.367Z Robert C. Martin <robert.c.martin@example.com> :: remove edge case in auth
