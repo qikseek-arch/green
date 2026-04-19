@@ -19044,3 +19044,4 @@
 2026-04-19T05:34:56.798Z Islem Maboud <ipenywis@users.noreply.github.com> :: refactor cache keys
 2026-04-19T07:46:34.665Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak build script
 2026-04-19T08:25:25.595Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: tweak error handling
+2026-04-19T11:17:49.073Z John Schulman <joschu@users.noreply.github.com> :: update dependency versions
