@@ -9330,3 +9330,4 @@
 2026-04-18T20:45:49.327Z Qwen <qianwen_opensource@alibabacloud.com> :: fix readme typo
 2026-04-19T00:29:42.722Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak logging
 2026-04-19T00:49:31.062Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix build script
+2026-04-19T01:05:38.954Z LILYGO <LilyGO@users.noreply.github.com> :: wire up the CI matrix
