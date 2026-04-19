@@ -19058,3 +19058,4 @@
 2026-04-19T21:00:20.555Z Snowflake Labs <opensource@snowflake.com> :: refactor edge case in auth
 2026-04-19T23:02:24.791Z John Schulman <joschu@users.noreply.github.com> :: bump null check
 2026-04-19T23:55:57.160Z Jordan Harband <ljharb@users.noreply.github.com> :: remove retry logic
+2026-04-19T23:58:02.470Z Xingang Pan <XingangPan@users.noreply.github.com> :: add config defaults
