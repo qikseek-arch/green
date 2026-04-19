@@ -19037,3 +19037,4 @@
 2026-04-18T23:12:33.126Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: update config defaults
 2026-04-18T23:22:45.505Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor logging
 2026-04-19T01:10:08.133Z Lovell Fuller <lovell@users.noreply.github.com> :: add retry logic
+2026-04-19T02:22:13.410Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish null check
