@@ -9341,3 +9341,4 @@
 2026-04-19T08:13:50.474Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update dependency versions
 2026-04-19T08:32:58.532Z Qwen <qianwen_opensource@alibabacloud.com> :: bump cache keys
 2026-04-19T08:39:48.990Z Getgems <getgems-io@users.noreply.github.com> :: remove build script
+2026-04-19T09:45:34.947Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix null check
