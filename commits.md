@@ -9342,3 +9342,4 @@
 2026-04-19T08:32:58.532Z Qwen <qianwen_opensource@alibabacloud.com> :: bump cache keys
 2026-04-19T08:39:48.990Z Getgems <getgems-io@users.noreply.github.com> :: remove build script
 2026-04-19T09:45:34.947Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix null check
+2026-04-19T09:58:20.472Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up build script
