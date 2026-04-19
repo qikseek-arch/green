@@ -9351,3 +9351,4 @@
 2026-04-19T21:39:50.371Z Barret李靖 <barretlee@users.noreply.github.com> :: remove retry logic
 2026-04-19T21:53:47.493Z Almas Baim <AlmasB@users.noreply.github.com> :: fix cache keys
 2026-04-19T23:07:25.220Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove flaky test
+2026-04-19T23:45:29.440Z David Fowler <davidfowl@users.noreply.github.com> :: clean up dependency versions
