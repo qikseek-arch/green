@@ -453,3 +453,4 @@
 2026-04-06T10:30:04.022Z Rich Hickey <rich.hickey@fake.invalid> :: tweak logging
 2026-04-15T22:46:49.501Z Steve Wozniak <steve.wozniak@fake.invalid> :: polish logging
 2026-04-17T13:06:34.059Z Evan You <yyx990803@users.noreply.github.com> :: update logging
+2026-04-19T14:15:50.634Z dusty-cactus <dusty-cactus@fake.invalid> :: refactor dependency versions
