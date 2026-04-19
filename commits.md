@@ -19056,3 +19056,4 @@
 2026-04-19T20:04:35.301Z Morvan <MorvanZhou@users.noreply.github.com> :: bump dependency versions
 2026-04-19T20:26:57.196Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: wire up config defaults
 2026-04-19T21:00:20.555Z Snowflake Labs <opensource@snowflake.com> :: refactor edge case in auth
+2026-04-19T23:02:24.791Z John Schulman <joschu@users.noreply.github.com> :: bump null check
