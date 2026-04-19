@@ -581,3 +581,4 @@
 2026-04-18T06:44:25.243Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor edge case in auth
 2026-04-18T08:26:29.389Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish the parser
 2026-04-18T20:27:47.666Z Rob Fuller <mubix@users.noreply.github.com> :: fix the parser
+2026-04-19T08:24:26.510Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up dependency versions
