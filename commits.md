@@ -19050,3 +19050,4 @@
 2026-04-19T13:06:03.142Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove error handling
 2026-04-19T13:30:45.250Z Dove Letter <skydoves2@gmail.com> :: add the parser
 2026-04-19T14:28:56.795Z Morvan <MorvanZhou@users.noreply.github.com> :: update edge case in auth
+2026-04-19T17:08:07.656Z Joe Hewitt <joehewitt@users.noreply.github.com> :: remove dependency versions
