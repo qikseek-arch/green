@@ -19074,3 +19074,4 @@
 2026-04-20T15:47:22.304Z Ivan Grokhotkov <igrr@users.noreply.github.com> :: refactor cache keys
 2026-04-20T17:37:09.756Z yakeIore <yakeIore@users.noreply.github.com> :: update config defaults
 2026-04-20T17:59:51.432Z 1 <insoxin@users.noreply.github.com> :: tweak dead code
+2026-04-20T20:06:26.044Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish logging
