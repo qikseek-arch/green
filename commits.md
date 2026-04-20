@@ -19076,3 +19076,4 @@
 2026-04-20T17:59:51.432Z 1 <insoxin@users.noreply.github.com> :: tweak dead code
 2026-04-20T20:06:26.044Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish logging
 2026-04-20T22:33:52.744Z Cezanne Camacho <cezannec@users.noreply.github.com> :: clean up readme typo
+2026-04-20T23:19:37.222Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the CI matrix
