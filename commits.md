@@ -9356,3 +9356,4 @@
 2026-04-20T00:21:36.257Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up build script
 2026-04-20T03:14:56.940Z heyli <lcxfs1991@users.noreply.github.com> :: add flaky test
 2026-04-20T05:30:36.114Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump error handling
+2026-04-20T05:33:18.745Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
