@@ -9362,3 +9362,4 @@
 2026-04-20T06:41:46.040Z Sachin Soni <techiesms@users.noreply.github.com> :: fix build script
 2026-04-20T10:36:03.845Z Sachin Soni <techiesms@users.noreply.github.com> :: update retry logic
 2026-04-20T11:51:48.682Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up null check
+2026-04-20T12:57:46.876Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor readme typo
