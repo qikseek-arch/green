@@ -9368,3 +9368,4 @@
 2026-04-20T16:29:36.688Z David Clark <nullptrException100@users.noreply.github.com> :: polish the parser
 2026-04-20T17:20:40.589Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak logging
 2026-04-20T17:37:53.088Z vb <Vaibhavs10@users.noreply.github.com> :: polish null check
+2026-04-20T18:45:23.413Z BBC <bbc@users.noreply.github.com> :: clean up build script
