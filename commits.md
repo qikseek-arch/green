@@ -9359,3 +9359,4 @@
 2026-04-20T05:33:18.745Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
 2026-04-20T05:34:32.005Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the parser
 2026-04-20T05:46:57.561Z Adam Bell <b3ll@users.noreply.github.com> :: wire up config defaults
+2026-04-20T06:41:46.040Z Sachin Soni <techiesms@users.noreply.github.com> :: fix build script
