@@ -9366,3 +9366,4 @@
 2026-04-20T14:56:30.628Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update readme typo
 2026-04-20T15:07:41.852Z md-5 <md-5@users.noreply.github.com> :: polish null check
 2026-04-20T16:29:36.688Z David Clark <nullptrException100@users.noreply.github.com> :: polish the parser
+2026-04-20T17:20:40.589Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak logging
