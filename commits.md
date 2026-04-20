@@ -19062,3 +19062,4 @@
 2026-04-20T00:12:23.986Z Casey Muratori <cmuratori@users.noreply.github.com> :: fix the CI matrix
 2026-04-20T05:15:47.860Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor the parser
 2026-04-20T05:18:20.122Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: refactor null check
+2026-04-20T06:36:47.783Z Brian Holt <btholt@users.noreply.github.com> :: wire up dependency versions
