@@ -9358,3 +9358,4 @@
 2026-04-20T05:30:36.114Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump error handling
 2026-04-20T05:33:18.745Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
 2026-04-20T05:34:32.005Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish the parser
+2026-04-20T05:46:57.561Z Adam Bell <b3ll@users.noreply.github.com> :: wire up config defaults
