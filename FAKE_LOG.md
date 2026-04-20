@@ -454,3 +454,4 @@
 2026-04-15T22:46:49.501Z Steve Wozniak <steve.wozniak@fake.invalid> :: polish logging
 2026-04-17T13:06:34.059Z Evan You <yyx990803@users.noreply.github.com> :: update logging
 2026-04-19T14:15:50.634Z dusty-cactus <dusty-cactus@fake.invalid> :: refactor dependency versions
+2026-04-20T11:29:17.839Z 稚晖 <peng-zhihui@users.noreply.github.com> :: remove readme typo
