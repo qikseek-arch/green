@@ -19063,3 +19063,4 @@
 2026-04-20T05:15:47.860Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: refactor the parser
 2026-04-20T05:18:20.122Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: refactor null check
 2026-04-20T06:36:47.783Z Brian Holt <btholt@users.noreply.github.com> :: wire up dependency versions
+2026-04-20T07:27:05.656Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
