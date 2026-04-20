@@ -19066,3 +19066,4 @@
 2026-04-20T07:27:05.656Z Mr L <Soldy@users.noreply.github.com> :: clean up build script
 2026-04-20T08:39:48.499Z Asif Taj <axiftaj@users.noreply.github.com> :: clean up dependency versions
 2026-04-20T09:36:02.018Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the parser
+2026-04-20T09:58:15.329Z winterbe <winterbe@users.noreply.github.com> :: add the parser
