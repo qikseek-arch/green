@@ -9374,3 +9374,4 @@
 2026-04-20T23:53:40.420Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up null check
 2026-04-20T23:53:40.860Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump error handling
 2026-04-21T02:45:02.231Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor the CI matrix
+2026-04-21T03:02:45.021Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove error handling
