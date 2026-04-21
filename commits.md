@@ -9383,3 +9383,4 @@
 2026-04-21T11:58:33.633Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add retry logic
 2026-04-21T12:23:25.130Z CTFs <ctfs@users.noreply.github.com> :: fix the parser
 2026-04-21T13:41:54.225Z ZOMI <chenzomi12@users.noreply.github.com> :: polish dependency versions
+2026-04-21T15:58:33.478Z Adam Bell <b3ll@users.noreply.github.com> :: bump retry logic
