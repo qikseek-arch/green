@@ -9375,3 +9375,4 @@
 2026-04-20T23:53:40.860Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump error handling
 2026-04-21T02:45:02.231Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor the CI matrix
 2026-04-21T03:02:45.021Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove error handling
+2026-04-21T04:02:52.672Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
