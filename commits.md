@@ -19090,3 +19090,4 @@
 2026-04-21T12:25:18.203Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish the CI matrix
 2026-04-21T13:03:54.555Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: refactor dead code
 2026-04-21T13:28:34.268Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: polish config defaults
+2026-04-21T14:39:45.032Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up readme typo
