@@ -9394,3 +9394,4 @@
 2026-04-21T20:08:32.404Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove readme typo
 2026-04-21T21:03:06.818Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: fix the parser
 2026-04-21T23:08:37.505Z ⠀ <destroy-boys@users.noreply.github.com> :: wire up build script
+2026-04-21T23:33:14.929Z First Contributions <firstcontributions@gmail.com> :: remove the CI matrix
