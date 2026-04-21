@@ -19085,3 +19085,4 @@
 2026-04-21T06:39:05.503Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: refactor the parser
 2026-04-21T10:55:36.543Z Sky Ao <skyao@users.noreply.github.com> :: add error handling
 2026-04-21T11:03:26.917Z Amnezia VPN <support@amnezia.org> :: polish dead code
+2026-04-21T11:38:04.784Z Brian Holt <btholt@users.noreply.github.com> :: remove readme typo
