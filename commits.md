@@ -9381,3 +9381,4 @@
 2026-04-21T08:57:11.054Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix retry logic
 2026-04-21T09:40:05.858Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
 2026-04-21T11:58:33.633Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add retry logic
+2026-04-21T12:23:25.130Z CTFs <ctfs@users.noreply.github.com> :: fix the parser
