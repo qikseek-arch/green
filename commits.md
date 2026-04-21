@@ -9377,3 +9377,4 @@
 2026-04-21T03:02:45.021Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove error handling
 2026-04-21T04:02:52.672Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
 2026-04-21T04:51:54.772Z OpenJS Foundation <info@openjsf.org> :: bump readme typo
+2026-04-21T07:21:06.068Z Ben Hamner <benhamner@users.noreply.github.com> :: remove the CI matrix
