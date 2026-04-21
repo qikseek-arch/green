@@ -584,3 +584,4 @@
 2026-04-19T08:24:26.510Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up dependency versions
 2026-04-19T08:28:11.913Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: bump logging
 2026-04-20T12:00:09.550Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: polish build script
+2026-04-21T08:21:28.244Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor the CI matrix
