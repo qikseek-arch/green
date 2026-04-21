@@ -9392,3 +9392,4 @@
 2026-04-21T19:58:25.288Z OpenJS Foundation <info@openjsf.org> :: bump logging
 2026-04-21T20:07:40.425Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump the CI matrix
 2026-04-21T20:08:32.404Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove readme typo
+2026-04-21T21:03:06.818Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: fix the parser
