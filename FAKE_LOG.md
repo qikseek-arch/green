@@ -253,3 +253,4 @@
 2026-04-01T15:36:51.687Z mimic <mimic@fake.invalid> :: wire up cache keys
 2026-04-03T05:00:40.373Z nyx <nyx@fake.invalid> :: refactor build script
 2026-04-08T02:33:49.133Z nyx <nyx@fake.invalid> :: wire up readme typo
+2026-04-21T10:54:54.872Z nyx <nyx@fake.invalid> :: wire up the CI matrix
