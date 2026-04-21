@@ -9388,3 +9388,4 @@
 2026-04-21T18:34:09.420Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove dependency versions
 2026-04-21T18:52:16.181Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix readme typo
 2026-04-21T19:20:06.942Z ring04h <ring04h@users.noreply.github.com> :: remove build script
+2026-04-21T19:23:16.049Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump readme typo
