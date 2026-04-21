@@ -9379,3 +9379,4 @@
 2026-04-21T04:51:54.772Z OpenJS Foundation <info@openjsf.org> :: bump readme typo
 2026-04-21T07:21:06.068Z Ben Hamner <benhamner@users.noreply.github.com> :: remove the CI matrix
 2026-04-21T08:57:11.054Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix retry logic
+2026-04-21T09:40:05.858Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
