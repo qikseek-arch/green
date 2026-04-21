@@ -586,3 +586,4 @@
 2026-04-20T12:00:09.550Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: polish build script
 2026-04-21T08:21:28.244Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor the CI matrix
 2026-04-21T14:25:36.752Z Ce Gao <gaocegege@users.noreply.github.com> :: polish build script
+2026-04-21T23:35:43.510Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: update the CI matrix
