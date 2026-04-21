@@ -19088,3 +19088,4 @@
 2026-04-21T11:38:04.784Z Brian Holt <btholt@users.noreply.github.com> :: remove readme typo
 2026-04-21T11:52:59.746Z yakeIore <yakeIore@users.noreply.github.com> :: wire up the parser
 2026-04-21T12:25:18.203Z Elliott Minns <elliottminns@users.noreply.github.com> :: polish the CI matrix
+2026-04-21T13:03:54.555Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: refactor dead code
