@@ -348,3 +348,4 @@
 2026-04-10T01:45:35.431Z Steve Wozniak <steve.wozniak@fake.invalid> :: fix readme typo
 2026-04-12T08:30:05.144Z Barbara Liskov <barbara.liskov@fake.invalid> :: clean up flaky test
 2026-04-15T10:36:41.396Z Barbara Liskov <barbara.liskov@fake.invalid> :: wire up flaky test | Co-authored-by: Hitesh Choudhary <hiteshchoudhary@users.noreply.github.com>
+2026-04-21T10:19:09.604Z Nikola Tesla <nikola.tesla@fake.invalid> :: polish retry logic
