@@ -9390,3 +9390,4 @@
 2026-04-21T19:20:06.942Z ring04h <ring04h@users.noreply.github.com> :: remove build script
 2026-04-21T19:23:16.049Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump readme typo
 2026-04-21T19:58:25.288Z OpenJS Foundation <info@openjsf.org> :: bump logging
+2026-04-21T20:07:40.425Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump the CI matrix
