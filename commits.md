@@ -9421,3 +9421,4 @@
 2026-04-22T22:02:04.438Z Getgems <getgems-io@users.noreply.github.com> :: tweak config defaults
 2026-04-22T22:49:36.835Z AI4Bhārat <opensource@ai4bharat.org> :: tweak logging
 2026-04-22T22:58:59.545Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: wire up null check
+2026-04-22T23:20:29.810Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish config defaults
