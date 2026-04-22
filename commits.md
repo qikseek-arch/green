@@ -19130,3 +19130,4 @@
 2026-04-22T16:18:26.034Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump dependency versions
 2026-04-22T18:13:00.315Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add dependency versions
 2026-04-22T20:22:04.625Z cytopia <cytopia@users.noreply.github.com> :: tweak config defaults
+2026-04-22T21:00:07.790Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump null check
