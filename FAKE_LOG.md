@@ -770,3 +770,4 @@
 2026-04-15T20:36:45.078Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: clean up flaky test
 2026-04-16T19:23:26.136Z Mu Li <mli@users.noreply.github.com> :: update the parser
 2026-04-18T20:21:46.222Z Unicity Labs <info@unicity-labs.com> :: update readme typo
+2026-04-22T00:27:32.916Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: fix retry logic
