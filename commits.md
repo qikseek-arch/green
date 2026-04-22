@@ -19107,3 +19107,4 @@
 2026-04-21T22:31:48.324Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix dead code
 2026-04-21T23:25:51.969Z DefTruth <DefTruth@users.noreply.github.com> :: wire up logging
 2026-04-22T00:46:07.053Z Tavis Ormandy <taviso@users.noreply.github.com> :: clean up logging
+2026-04-22T01:08:59.510Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: clean up null check
