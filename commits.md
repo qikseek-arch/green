@@ -19125,3 +19125,4 @@
 2026-04-22T13:06:19.720Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up readme typo
 2026-04-22T13:35:00.317Z Damian Gryski <dgryski@users.noreply.github.com> :: update the CI matrix
 2026-04-22T14:52:33.597Z Elliott Minns <elliottminns@users.noreply.github.com> :: update logging
+2026-04-22T15:43:04.802Z Mr L <Soldy@users.noreply.github.com> :: add null check
