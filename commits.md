@@ -9409,3 +9409,4 @@
 2026-04-22T10:27:54.186Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump null check
 2026-04-22T13:20:23.602Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove edge case in auth
 2026-04-22T13:22:34.217Z owenzhang <owenzhang@users.noreply.github.com> :: polish the parser
+2026-04-22T13:32:05.174Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish dead code
