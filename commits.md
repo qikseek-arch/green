@@ -589,3 +589,4 @@
 2026-04-21T23:35:43.510Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: update the CI matrix
 2026-04-22T00:04:45.178Z FastAPI <fastapi@users.noreply.github.com> :: clean up flaky test
 2026-04-22T00:57:21.705Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: bump readme typo
+2026-04-22T06:38:00.354Z Kenneth Reitz <kennethreitz@users.noreply.github.com> :: bump retry logic
