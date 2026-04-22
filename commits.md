@@ -9396,3 +9396,4 @@
 2026-04-21T23:08:37.505Z ⠀ <destroy-boys@users.noreply.github.com> :: wire up build script
 2026-04-21T23:33:14.929Z First Contributions <firstcontributions@gmail.com> :: remove the CI matrix
 2026-04-22T00:04:31.972Z Keith Smiley <keith@users.noreply.github.com> :: fix dead code
+2026-04-22T00:10:11.711Z Odi <mathdroid@users.noreply.github.com> :: wire up null check
