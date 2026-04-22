@@ -771,3 +771,4 @@
 2026-04-16T19:23:26.136Z Mu Li <mli@users.noreply.github.com> :: update the parser
 2026-04-18T20:21:46.222Z Unicity Labs <info@unicity-labs.com> :: update readme typo
 2026-04-22T00:27:32.916Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: fix retry logic
+2026-04-22T04:01:50.406Z John Washam <jwasham@users.noreply.github.com> :: fix null check
