@@ -19127,3 +19127,4 @@
 2026-04-22T14:52:33.597Z Elliott Minns <elliottminns@users.noreply.github.com> :: update logging
 2026-04-22T15:43:04.802Z Mr L <Soldy@users.noreply.github.com> :: add null check
 2026-04-22T15:52:22.312Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove null check
+2026-04-22T16:18:26.034Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump dependency versions
