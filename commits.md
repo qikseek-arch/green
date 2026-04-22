@@ -19117,3 +19117,4 @@
 2026-04-22T07:47:01.501Z 毒奶博主 <limbopro@users.noreply.github.com> :: fix dependency versions
 2026-04-22T08:15:17.263Z Xingang Pan <XingangPan@users.noreply.github.com> :: add edge case in auth
 2026-04-22T08:45:23.561Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak readme typo
+2026-04-22T09:03:40.434Z rxi <rxi@users.noreply.github.com> :: clean up dependency versions
