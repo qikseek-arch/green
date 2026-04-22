@@ -19120,3 +19120,4 @@
 2026-04-22T09:03:40.434Z rxi <rxi@users.noreply.github.com> :: clean up dependency versions
 2026-04-22T10:36:12.770Z CodeTips <CodeTips@users.noreply.github.com> :: wire up the parser
 2026-04-22T12:05:35.065Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump the CI matrix
+2026-04-22T12:09:17.021Z LMSYS <lm-sys@users.noreply.github.com> :: tweak config defaults
