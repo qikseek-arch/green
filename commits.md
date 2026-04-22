@@ -19129,3 +19129,4 @@
 2026-04-22T15:52:22.312Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove null check
 2026-04-22T16:18:26.034Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: bump dependency versions
 2026-04-22T18:13:00.315Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: add dependency versions
+2026-04-22T20:22:04.625Z cytopia <cytopia@users.noreply.github.com> :: tweak config defaults
