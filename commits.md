@@ -19122,3 +19122,4 @@
 2026-04-22T12:05:35.065Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump the CI matrix
 2026-04-22T12:09:17.021Z LMSYS <lm-sys@users.noreply.github.com> :: tweak config defaults
 2026-04-22T12:22:17.384Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: tweak the CI matrix
+2026-04-22T13:06:19.720Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up readme typo
