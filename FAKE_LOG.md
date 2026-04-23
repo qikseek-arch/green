@@ -772,3 +772,4 @@
 2026-04-18T20:21:46.222Z Unicity Labs <info@unicity-labs.com> :: update readme typo
 2026-04-22T00:27:32.916Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: fix retry logic
 2026-04-22T04:01:50.406Z John Washam <jwasham@users.noreply.github.com> :: fix null check
+2026-04-23T06:11:52.977Z Phil Wang <lucidrains@users.noreply.github.com> :: polish build script
