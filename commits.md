@@ -9427,3 +9427,4 @@
 2026-04-23T01:02:47.484Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update flaky test
 2026-04-23T02:32:59.084Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up build script
 2026-04-23T03:04:01.558Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor config defaults
+2026-04-23T04:38:32.164Z Almas Baim <AlmasB@users.noreply.github.com> :: remove the CI matrix
