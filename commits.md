@@ -9448,3 +9448,4 @@
 2026-04-23T19:00:44.072Z Rafal <RafalW3bCraft@users.noreply.github.com> :: refactor error handling
 2026-04-23T20:10:10.051Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add error handling
 2026-04-23T20:37:09.485Z Rei <chloerei@users.noreply.github.com> :: add dependency versions
+2026-04-23T22:26:33.143Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up dependency versions
