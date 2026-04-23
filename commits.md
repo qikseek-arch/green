@@ -19141,3 +19141,4 @@
 2026-04-23T00:11:30.906Z Lipis <lipis@users.noreply.github.com> :: fix edge case in auth
 2026-04-23T00:53:02.596Z Asif Taj <axiftaj@users.noreply.github.com> :: fix dead code
 2026-04-23T01:27:25.451Z Scott Chacon <schacon@users.noreply.github.com> :: polish the CI matrix
+2026-04-23T02:37:05.859Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak error handling
