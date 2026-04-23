@@ -9447,3 +9447,4 @@
 2026-04-23T18:58:19.165Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up null check
 2026-04-23T19:00:44.072Z Rafal <RafalW3bCraft@users.noreply.github.com> :: refactor error handling
 2026-04-23T20:10:10.051Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add error handling
+2026-04-23T20:37:09.485Z Rei <chloerei@users.noreply.github.com> :: add dependency versions
