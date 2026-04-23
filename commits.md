@@ -19143,3 +19143,4 @@
 2026-04-23T01:27:25.451Z Scott Chacon <schacon@users.noreply.github.com> :: polish the CI matrix
 2026-04-23T02:37:05.859Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak error handling
 2026-04-23T02:45:36.659Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: remove error handling
+2026-04-23T04:55:42.563Z OpenBSD <openbsd@users.noreply.github.com> :: bump error handling
