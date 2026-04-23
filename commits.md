@@ -19159,3 +19159,4 @@
 2026-04-23T18:08:44.362Z Elliott Minns <elliottminns@users.noreply.github.com> :: tweak build script
 2026-04-23T18:25:05.445Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor dead code
 2026-04-23T18:29:13.097Z Jabrils <Jabrils@users.noreply.github.com> :: add build script
+2026-04-23T19:23:30.152Z Dove Letter <skydoves2@gmail.com> :: clean up readme typo
