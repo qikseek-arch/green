@@ -595,3 +595,4 @@
 2026-04-23T00:44:07.175Z 削微寒 <521xueweihan@users.noreply.github.com> :: update dependency versions
 2026-04-23T01:52:52.681Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: update logging
 2026-04-23T05:02:53.030Z Holtz Yan <holtzy@users.noreply.github.com> :: update build script
+2026-04-23T10:38:22.298Z @XDevelopers <xdevplatform@users.noreply.github.com> :: bump the parser
