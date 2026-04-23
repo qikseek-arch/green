@@ -9435,3 +9435,4 @@
 2026-04-23T09:00:31.114Z Manu Arora <manuarora700@users.noreply.github.com> :: remove dead code
 2026-04-23T10:18:01.709Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add config defaults
 2026-04-23T10:20:25.103Z Arduino <arduino@users.noreply.github.com> :: polish logging
+2026-04-23T11:21:40.452Z ㅤxander <vampirist@users.noreply.github.com> :: remove null check
