@@ -19138,3 +19138,4 @@
 2026-04-22T23:34:40.555Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: fix config defaults
 2026-04-22T23:43:32.623Z 千古壹号 <qianguyihao@users.noreply.github.com> :: tweak config defaults
 2026-04-23T00:03:05.944Z Shougo <Shougo@users.noreply.github.com> :: refactor build script
+2026-04-23T00:11:30.906Z Lipis <lipis@users.noreply.github.com> :: fix edge case in auth
