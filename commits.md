@@ -19149,3 +19149,4 @@
 2026-04-23T06:27:50.832Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: tweak the parser
 2026-04-23T10:02:30.698Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
 2026-04-23T10:33:44.831Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: bump dependency versions
+2026-04-23T10:56:39.737Z Lovell Fuller <lovell@users.noreply.github.com> :: bump build script
