@@ -19150,3 +19150,4 @@
 2026-04-23T10:02:30.698Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
 2026-04-23T10:33:44.831Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: bump dependency versions
 2026-04-23T10:56:39.737Z Lovell Fuller <lovell@users.noreply.github.com> :: bump build script
+2026-04-23T13:25:21.555Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up null check
