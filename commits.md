@@ -594,3 +594,4 @@
 2026-04-22T15:10:13.492Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: update config defaults
 2026-04-23T00:44:07.175Z 削微寒 <521xueweihan@users.noreply.github.com> :: update dependency versions
 2026-04-23T01:52:52.681Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: update logging
+2026-04-23T05:02:53.030Z Holtz Yan <holtzy@users.noreply.github.com> :: update build script
