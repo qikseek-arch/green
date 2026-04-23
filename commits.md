@@ -9445,3 +9445,4 @@
 2026-04-23T16:59:17.257Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up the parser
 2026-04-23T18:28:26.495Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak cache keys
 2026-04-23T18:58:19.165Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: clean up null check
+2026-04-23T19:00:44.072Z Rafal <RafalW3bCraft@users.noreply.github.com> :: refactor error handling
