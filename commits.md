@@ -9429,3 +9429,4 @@
 2026-04-23T03:04:01.558Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor config defaults
 2026-04-23T04:38:32.164Z Almas Baim <AlmasB@users.noreply.github.com> :: remove the CI matrix
 2026-04-23T06:11:42.114Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor cache keys
+2026-04-23T06:53:21.145Z SouJunior <wouerner@soujunior.tech> :: update the CI matrix
