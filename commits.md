@@ -9443,3 +9443,4 @@
 2026-04-23T14:39:19.247Z vb <Vaibhavs10@users.noreply.github.com> :: polish flaky test
 2026-04-23T16:55:47.118Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update the CI matrix
 2026-04-23T16:59:17.257Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up the parser
+2026-04-23T18:28:26.495Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak cache keys
