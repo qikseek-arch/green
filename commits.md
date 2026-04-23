@@ -9436,3 +9436,4 @@
 2026-04-23T10:18:01.709Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add config defaults
 2026-04-23T10:20:25.103Z Arduino <arduino@users.noreply.github.com> :: polish logging
 2026-04-23T11:21:40.452Z ㅤxander <vampirist@users.noreply.github.com> :: remove null check
+2026-04-23T11:25:55.192Z Aurélien Geron <ageron@users.noreply.github.com> :: polish error handling
