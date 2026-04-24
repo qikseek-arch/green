@@ -9456,3 +9456,4 @@
 2026-04-24T06:10:21.375Z Keith Smiley <keith@users.noreply.github.com> :: clean up edge case in auth
 2026-04-24T06:11:44.954Z First Contributions <firstcontributions@gmail.com> :: refactor the CI matrix
 2026-04-24T06:39:49.986Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor dependency versions
+2026-04-24T07:39:06.504Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove error handling
