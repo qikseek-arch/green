@@ -19172,3 +19172,4 @@
 2026-04-24T08:12:25.128Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: clean up the CI matrix
 2026-04-24T08:23:56.041Z Tom Dale <tomdale@users.noreply.github.com> :: tweak flaky test
 2026-04-24T09:14:07.778Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up the CI matrix
+2026-04-24T09:57:34.932Z Henry <hzoo@users.noreply.github.com> :: update the CI matrix
