@@ -19165,3 +19165,4 @@
 2026-04-23T21:16:30.345Z Lipis <lipis@users.noreply.github.com> :: wire up flaky test
 2026-04-23T23:34:07.009Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak error handling
 2026-04-24T02:34:26.951Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak error handling
+2026-04-24T03:55:52.686Z Alex Teichman <teichman@users.noreply.github.com> :: remove the CI matrix
