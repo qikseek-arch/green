@@ -9461,3 +9461,4 @@
 2026-04-24T07:59:06.239Z OpenJS Foundation <info@openjsf.org> :: fix dependency versions
 2026-04-24T08:53:07.347Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor the CI matrix
 2026-04-24T09:11:02.661Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up edge case in auth
+2026-04-24T09:28:51.651Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor dead code
