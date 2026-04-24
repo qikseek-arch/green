@@ -9473,3 +9473,4 @@
 2026-04-24T14:54:57.409Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up config defaults
 2026-04-24T15:43:42.385Z Taiko Foundation <info@taiko.xyz> :: refactor dead code
 2026-04-24T17:29:33.498Z Adam Wathan <adamwathan@users.noreply.github.com> :: polish config defaults
+2026-04-24T19:49:19.907Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update dependency versions
