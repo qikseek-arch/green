@@ -9464,3 +9464,4 @@
 2026-04-24T09:28:51.651Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor dead code
 2026-04-24T10:17:40.032Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up edge case in auth
 2026-04-24T10:23:51.963Z Aurélien Geron <ageron@users.noreply.github.com> :: fix null check
+2026-04-24T11:01:51.314Z OpenJS Foundation <info@openjsf.org> :: fix retry logic
