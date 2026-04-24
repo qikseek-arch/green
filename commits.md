@@ -597,3 +597,4 @@
 2026-04-23T05:02:53.030Z Holtz Yan <holtzy@users.noreply.github.com> :: update build script
 2026-04-23T10:38:22.298Z @XDevelopers <xdevplatform@users.noreply.github.com> :: bump the parser
 2026-04-23T16:32:55.072Z Ovilia <Ovilia@users.noreply.github.com> :: add dependency versions
+2026-04-24T15:51:11.532Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: clean up readme typo
