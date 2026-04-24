@@ -9458,3 +9458,4 @@
 2026-04-24T06:39:49.986Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor dependency versions
 2026-04-24T07:39:06.504Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove error handling
 2026-04-24T07:44:08.126Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak retry logic
+2026-04-24T07:59:06.239Z OpenJS Foundation <info@openjsf.org> :: fix dependency versions
