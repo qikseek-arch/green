@@ -19177,3 +19177,4 @@
 2026-04-24T12:15:55.329Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: refactor the CI matrix
 2026-04-24T12:17:48.005Z Chetan Jogi <voidChetan@users.noreply.github.com> :: clean up the CI matrix
 2026-04-24T13:51:49.342Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: clean up the parser
+2026-04-24T14:16:07.486Z Petar Veličković <PetarV-@users.noreply.github.com> :: update build script
