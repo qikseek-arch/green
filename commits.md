@@ -599,3 +599,4 @@
 2026-04-23T16:32:55.072Z Ovilia <Ovilia@users.noreply.github.com> :: add dependency versions
 2026-04-24T15:51:11.532Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: clean up readme typo
 2026-04-24T16:24:18.087Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: tweak dead code
+2026-04-24T18:36:48.134Z Sebastian <sebmck@users.noreply.github.com> :: remove null check
