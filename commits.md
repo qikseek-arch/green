@@ -9471,3 +9471,4 @@
 2026-04-24T14:43:28.735Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up retry logic
 2026-04-24T14:49:11.113Z Sachin Soni <techiesms@users.noreply.github.com> :: fix cache keys
 2026-04-24T14:54:57.409Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up config defaults
+2026-04-24T15:43:42.385Z Taiko Foundation <info@taiko.xyz> :: refactor dead code
