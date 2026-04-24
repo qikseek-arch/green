@@ -19182,3 +19182,4 @@
 2026-04-24T15:37:51.758Z Snowflake Labs <opensource@snowflake.com> :: add logging
 2026-04-24T17:40:22.452Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix the parser
 2026-04-24T17:47:42.515Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix retry logic
+2026-04-24T22:02:08.290Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove null check
