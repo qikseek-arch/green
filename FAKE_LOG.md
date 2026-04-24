@@ -456,3 +456,4 @@
 2026-04-19T14:15:50.634Z dusty-cactus <dusty-cactus@fake.invalid> :: refactor dependency versions
 2026-04-20T11:29:17.839Z 稚晖 <peng-zhihui@users.noreply.github.com> :: remove readme typo
 2026-04-21T05:08:16.194Z yak_lazy <yak_lazy@fake.invalid> :: polish edge case in auth
+2026-04-24T00:33:17.132Z shrimp_quantum99 <shrimp_quantum99@fake.invalid> :: refactor the parser
