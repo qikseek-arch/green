@@ -9451,3 +9451,4 @@
 2026-04-23T22:26:33.143Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up dependency versions
 2026-04-23T22:44:11.025Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove readme typo
 2026-04-24T02:32:44.311Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update error handling
+2026-04-24T03:45:12.323Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak null check
