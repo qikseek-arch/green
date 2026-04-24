@@ -9475,3 +9475,4 @@
 2026-04-24T17:29:33.498Z Adam Wathan <adamwathan@users.noreply.github.com> :: polish config defaults
 2026-04-24T19:49:19.907Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update dependency versions
 2026-04-24T20:00:43.982Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add retry logic
+2026-04-24T20:08:59.474Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor build script
