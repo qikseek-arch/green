@@ -9453,3 +9453,4 @@
 2026-04-24T02:32:44.311Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update error handling
 2026-04-24T03:45:12.323Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak null check
 2026-04-24T05:30:03.390Z David Clark <nullptrException100@users.noreply.github.com> :: bump error handling
+2026-04-24T06:10:21.375Z Keith Smiley <keith@users.noreply.github.com> :: clean up edge case in auth
