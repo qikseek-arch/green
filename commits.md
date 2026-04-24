@@ -19180,3 +19180,4 @@
 2026-04-24T14:16:07.486Z Petar Veličković <PetarV-@users.noreply.github.com> :: update build script
 2026-04-24T15:08:17.213Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: fix null check
 2026-04-24T15:37:51.758Z Snowflake Labs <opensource@snowflake.com> :: add logging
+2026-04-24T17:40:22.452Z Elliott Minns <elliottminns@users.noreply.github.com> :: fix the parser
