@@ -19170,3 +19170,4 @@
 2026-04-24T07:47:23.366Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak retry logic
 2026-04-24T07:47:27.405Z yakeIore <yakeIore@users.noreply.github.com> :: clean up null check
 2026-04-24T08:12:25.128Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: clean up the CI matrix
+2026-04-24T08:23:56.041Z Tom Dale <tomdale@users.noreply.github.com> :: tweak flaky test
