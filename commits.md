@@ -19168,3 +19168,4 @@
 2026-04-24T03:55:52.686Z Alex Teichman <teichman@users.noreply.github.com> :: remove the CI matrix
 2026-04-24T05:40:48.196Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update cache keys
 2026-04-24T07:47:23.366Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak retry logic
+2026-04-24T07:47:27.405Z yakeIore <yakeIore@users.noreply.github.com> :: clean up null check
