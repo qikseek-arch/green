@@ -9509,3 +9509,4 @@
 2026-04-25T19:40:22.116Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up retry logic
 2026-04-25T20:14:12.385Z Ivan Volkov <Chitus@users.noreply.github.com> :: update dependency versions
 2026-04-25T22:19:52.478Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix null check
+2026-04-25T23:51:05.907Z markqvist <markqvist@users.noreply.github.com> :: clean up the CI matrix
