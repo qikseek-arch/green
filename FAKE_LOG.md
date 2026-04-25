@@ -255,3 +255,4 @@
 2026-04-08T02:33:49.133Z nyx <nyx@fake.invalid> :: wire up readme typo
 2026-04-21T10:54:54.872Z nyx <nyx@fake.invalid> :: wire up the CI matrix
 2026-04-24T06:04:36.867Z void <void@fake.invalid> :: polish build script
+2026-04-25T11:17:11.890Z obsidian <obsidian@fake.invalid> :: clean up the CI matrix
