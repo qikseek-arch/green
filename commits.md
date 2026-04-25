@@ -9488,3 +9488,4 @@
 2026-04-25T02:26:56.286Z SouJunior <wouerner@soujunior.tech> :: remove flaky test
 2026-04-25T04:09:41.547Z First Contributions <firstcontributions@gmail.com> :: clean up edge case in auth
 2026-04-25T04:21:03.120Z Odi <mathdroid@users.noreply.github.com> :: wire up null check
+2026-04-25T04:59:08.205Z David Fowler <davidfowl@users.noreply.github.com> :: bump the CI matrix
