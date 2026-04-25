@@ -19187,3 +19187,4 @@
 2026-04-25T00:34:12.762Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up logging
 2026-04-25T00:47:36.008Z imput <hello@imput.net> :: remove build script
 2026-04-25T01:31:26.194Z LMSYS <lm-sys@users.noreply.github.com> :: remove retry logic
+2026-04-25T02:28:17.124Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove config defaults
