@@ -19192,3 +19192,4 @@
 2026-04-25T03:10:50.183Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix flaky test
 2026-04-25T05:36:10.479Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add readme typo
 2026-04-25T06:38:34.282Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish dependency versions
+2026-04-25T09:20:46.141Z Tavis Ormandy <taviso@users.noreply.github.com> :: add logging
