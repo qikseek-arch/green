@@ -19212,3 +19212,4 @@
 2026-04-25T17:11:07.583Z Brian Holt <btholt@users.noreply.github.com> :: refactor the CI matrix
 2026-04-25T21:52:20.806Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak config defaults
 2026-04-25T23:17:27.829Z Prometheus <prometheus@users.noreply.github.com> :: bump build script
+2026-04-25T23:44:53.548Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor error handling
