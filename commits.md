@@ -19207,3 +19207,4 @@
 2026-04-25T14:01:15.066Z Alex Teichman <teichman@users.noreply.github.com> :: bump dead code
 2026-04-25T15:44:38.587Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
 2026-04-25T16:17:28.580Z Sergey P. <ThirteenAG@users.noreply.github.com> :: bump cache keys
+2026-04-25T16:45:59.010Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix the CI matrix
