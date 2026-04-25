@@ -9500,3 +9500,4 @@
 2026-04-25T11:57:20.366Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up build script
 2026-04-25T12:16:04.933Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor config defaults
 2026-04-25T12:31:12.957Z qiye <qiyeboy@users.noreply.github.com> :: update retry logic
+2026-04-25T13:15:18.855Z Shubs <infosec-au@users.noreply.github.com> :: refactor dependency versions
