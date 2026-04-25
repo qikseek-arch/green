@@ -19205,3 +19205,4 @@
 2026-04-25T13:07:26.551Z LocalSend <localsend@users.noreply.github.com> :: bump the parser
 2026-04-25T13:08:27.874Z Aman Kumar <Amanc77@users.noreply.github.com> :: wire up cache keys
 2026-04-25T14:01:15.066Z Alex Teichman <teichman@users.noreply.github.com> :: bump dead code
+2026-04-25T15:44:38.587Z OpenBSD <openbsd@users.noreply.github.com> :: add config defaults
