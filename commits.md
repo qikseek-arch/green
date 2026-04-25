@@ -19197,3 +19197,4 @@
 2026-04-25T10:18:39.259Z cytopia <cytopia@users.noreply.github.com> :: refactor retry logic
 2026-04-25T10:26:28.531Z Google Fonts <googlefonts@users.noreply.github.com> :: add logging
 2026-04-25T10:44:33.495Z Collabnix <collabnix@users.noreply.github.com> :: tweak dependency versions
+2026-04-25T10:58:26.796Z cytopia <cytopia@users.noreply.github.com> :: tweak null check
