@@ -19210,3 +19210,4 @@
 2026-04-25T16:45:59.010Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: fix the CI matrix
 2026-04-25T16:58:03.752Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: add null check
 2026-04-25T17:11:07.583Z Brian Holt <btholt@users.noreply.github.com> :: refactor the CI matrix
+2026-04-25T21:52:20.806Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak config defaults
