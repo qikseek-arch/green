@@ -19190,3 +19190,4 @@
 2026-04-25T02:28:17.124Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: remove config defaults
 2026-04-25T02:31:11.664Z Brian Holt <btholt@users.noreply.github.com> :: tweak the parser
 2026-04-25T03:10:50.183Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: fix flaky test
+2026-04-25T05:36:10.479Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: add readme typo
