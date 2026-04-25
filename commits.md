@@ -9497,3 +9497,4 @@
 2026-04-25T09:33:48.092Z First Contributions <firstcontributions@gmail.com> :: update logging
 2026-04-25T10:35:24.517Z Claude <claude@users.noreply.github.com> :: wire up dependency versions
 2026-04-25T10:47:31.394Z CTFs <ctfs@users.noreply.github.com> :: refactor build script
+2026-04-25T11:57:20.366Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up build script
