@@ -9498,3 +9498,4 @@
 2026-04-25T10:35:24.517Z Claude <claude@users.noreply.github.com> :: wire up dependency versions
 2026-04-25T10:47:31.394Z CTFs <ctfs@users.noreply.github.com> :: refactor build script
 2026-04-25T11:57:20.366Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up build script
+2026-04-25T12:16:04.933Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor config defaults
