@@ -9483,3 +9483,4 @@
 2026-04-24T23:46:23.922Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump null check
 2026-04-25T00:35:42.828Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove build script
 2026-04-25T00:40:14.420Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: add dependency versions
+2026-04-25T01:35:09.609Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove edge case in auth
