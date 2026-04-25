@@ -9508,3 +9508,4 @@
 2026-04-25T15:09:15.945Z Shubs <infosec-au@users.noreply.github.com> :: polish logging
 2026-04-25T19:40:22.116Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up retry logic
 2026-04-25T20:14:12.385Z Ivan Volkov <Chitus@users.noreply.github.com> :: update dependency versions
+2026-04-25T22:19:52.478Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix null check
