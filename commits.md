@@ -19199,3 +19199,4 @@
 2026-04-25T10:44:33.495Z Collabnix <collabnix@users.noreply.github.com> :: tweak dependency versions
 2026-04-25T10:58:26.796Z cytopia <cytopia@users.noreply.github.com> :: tweak null check
 2026-04-25T11:33:35.758Z Collabnix <collabnix@users.noreply.github.com> :: clean up error handling
+2026-04-25T12:37:56.228Z Asif Taj <axiftaj@users.noreply.github.com> :: refactor the parser
