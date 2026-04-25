@@ -600,3 +600,4 @@
 2026-04-24T15:51:11.532Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: clean up readme typo
 2026-04-24T16:24:18.087Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: tweak dead code
 2026-04-24T18:36:48.134Z Sebastian <sebmck@users.noreply.github.com> :: remove null check
+2026-04-25T05:49:07.213Z Holtz Yan <holtzy@users.noreply.github.com> :: wire up dependency versions
