@@ -19184,3 +19184,4 @@
 2026-04-24T17:47:42.515Z Joe Hewitt <joehewitt@users.noreply.github.com> :: fix retry logic
 2026-04-24T22:02:08.290Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: remove null check
 2026-04-24T22:20:07.554Z Lipis <lipis@users.noreply.github.com> :: remove dependency versions
+2026-04-25T00:34:12.762Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up logging
