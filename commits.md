@@ -606,3 +606,4 @@
 2026-04-25T15:28:25.782Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump build script
 2026-04-25T22:22:08.174Z t11s <transmissions11@users.noreply.github.com> :: remove error handling
 2026-04-26T00:50:53.391Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up logging
+2026-04-26T13:40:25.085Z xer0dayz <1N3@users.noreply.github.com> :: update build script
