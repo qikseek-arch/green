@@ -19228,3 +19228,4 @@
 2026-04-26T16:07:50.511Z Mr L <Soldy@users.noreply.github.com> :: refactor dependency versions
 2026-04-26T16:28:15.736Z Lovell Fuller <lovell@users.noreply.github.com> :: remove config defaults
 2026-04-26T16:47:02.379Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak edge case in auth
+2026-04-26T16:47:28.660Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak null check
