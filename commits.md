@@ -19229,3 +19229,4 @@
 2026-04-26T16:28:15.736Z Lovell Fuller <lovell@users.noreply.github.com> :: remove config defaults
 2026-04-26T16:47:02.379Z Damian Gryski <dgryski@users.noreply.github.com> :: tweak edge case in auth
 2026-04-26T16:47:28.660Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak null check
+2026-04-26T18:44:56.851Z OpenBSD <openbsd@users.noreply.github.com> :: polish config defaults
