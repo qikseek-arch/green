@@ -19225,3 +19225,4 @@
 2026-04-26T14:30:25.693Z Scott Chacon <schacon@users.noreply.github.com> :: fix flaky test
 2026-04-26T15:21:57.966Z Damian Gryski <dgryski@users.noreply.github.com> :: polish dependency versions
 2026-04-26T15:43:37.002Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the CI matrix
+2026-04-26T16:07:50.511Z Mr L <Soldy@users.noreply.github.com> :: refactor dependency versions
