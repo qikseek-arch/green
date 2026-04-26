@@ -605,3 +605,4 @@
 2026-04-25T09:59:24.175Z thecodercoder <thecodercoder@users.noreply.github.com> :: wire up flaky test
 2026-04-25T15:28:25.782Z Philipp Schmid <philschmid@users.noreply.github.com> :: bump build script
 2026-04-25T22:22:08.174Z t11s <transmissions11@users.noreply.github.com> :: remove error handling
+2026-04-26T00:50:53.391Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up logging
