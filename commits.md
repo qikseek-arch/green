@@ -9510,3 +9510,4 @@
 2026-04-25T20:14:12.385Z Ivan Volkov <Chitus@users.noreply.github.com> :: update dependency versions
 2026-04-25T22:19:52.478Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix null check
 2026-04-25T23:51:05.907Z markqvist <markqvist@users.noreply.github.com> :: clean up the CI matrix
+2026-04-26T00:06:58.274Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump edge case in auth
