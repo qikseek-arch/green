@@ -9514,3 +9514,4 @@
 2026-04-26T01:20:38.882Z OpenJS Foundation <info@openjsf.org> :: add logging
 2026-04-26T02:17:04.721Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up dependency versions
 2026-04-26T05:03:44.531Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix null check
+2026-04-26T06:10:07.349Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor config defaults
