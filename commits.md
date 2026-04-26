@@ -9530,3 +9530,4 @@
 2026-04-26T14:11:45.171Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish the parser
 2026-04-26T14:30:33.630Z David Fowler <davidfowl@users.noreply.github.com> :: update the CI matrix
 2026-04-26T14:56:06.056Z ㅤxander <vampirist@users.noreply.github.com> :: polish null check
+2026-04-26T17:52:02.651Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up retry logic
