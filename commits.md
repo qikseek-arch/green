@@ -19216,3 +19216,4 @@
 2026-04-26T01:47:21.274Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: polish flaky test
 2026-04-26T03:07:49.711Z Odi <mathdroid@users.noreply.github.com> :: refactor build script
 2026-04-26T03:57:39.755Z LocalSend <localsend@users.noreply.github.com> :: bump retry logic
+2026-04-26T05:43:24.415Z Boshen <Boshen@users.noreply.github.com> :: add readme typo
