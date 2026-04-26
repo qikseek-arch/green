@@ -9535,3 +9535,4 @@
 2026-04-26T21:07:24.498Z vb <Vaibhavs10@users.noreply.github.com> :: clean up logging
 2026-04-26T21:38:20.165Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish error handling
 2026-04-26T22:18:10.550Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up the CI matrix
+2026-04-26T23:01:05.179Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak the CI matrix
