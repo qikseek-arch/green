@@ -9527,3 +9527,4 @@
 2026-04-26T12:11:52.757Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
 2026-04-26T13:34:01.764Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix the CI matrix
 2026-04-26T13:54:14.785Z Claude <claude@users.noreply.github.com> :: polish readme typo
+2026-04-26T14:11:45.171Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish the parser
