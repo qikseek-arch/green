@@ -19224,3 +19224,4 @@
 2026-04-26T13:41:47.835Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish flaky test
 2026-04-26T14:30:25.693Z Scott Chacon <schacon@users.noreply.github.com> :: fix flaky test
 2026-04-26T15:21:57.966Z Damian Gryski <dgryski@users.noreply.github.com> :: polish dependency versions
+2026-04-26T15:43:37.002Z Lovell Fuller <lovell@users.noreply.github.com> :: clean up the CI matrix
