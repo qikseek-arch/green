@@ -9534,3 +9534,4 @@
 2026-04-26T20:33:52.828Z AI4Bhārat <opensource@ai4bharat.org> :: bump cache keys
 2026-04-26T21:07:24.498Z vb <Vaibhavs10@users.noreply.github.com> :: clean up logging
 2026-04-26T21:38:20.165Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish error handling
+2026-04-26T22:18:10.550Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up the CI matrix
