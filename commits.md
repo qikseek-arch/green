@@ -9516,3 +9516,4 @@
 2026-04-26T05:03:44.531Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix null check
 2026-04-26T06:10:07.349Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor config defaults
 2026-04-26T06:26:35.528Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor the parser
+2026-04-26T07:35:16.157Z Adam Łucek <ALucek@users.noreply.github.com> :: polish dead code
