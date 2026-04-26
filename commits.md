@@ -9526,3 +9526,4 @@
 2026-04-26T12:06:05.228Z BBC <bbc@users.noreply.github.com> :: fix build script
 2026-04-26T12:11:52.757Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump dependency versions
 2026-04-26T13:34:01.764Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix the CI matrix
+2026-04-26T13:54:14.785Z Claude <claude@users.noreply.github.com> :: polish readme typo
