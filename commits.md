@@ -9551,3 +9551,4 @@
 2026-04-27T07:58:59.741Z Claude <claude@users.noreply.github.com> :: fix cache keys
 2026-04-27T08:07:15.018Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up dead code
 2026-04-27T09:19:44.264Z Manu Arora <manuarora700@users.noreply.github.com> :: polish retry logic
+2026-04-27T09:41:24.869Z Taiko Foundation <info@taiko.xyz> :: add config defaults
