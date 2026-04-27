@@ -9562,3 +9562,4 @@
 2026-04-27T21:15:04.366Z owenzhang <owenzhang@users.noreply.github.com> :: update the parser
 2026-04-27T21:24:27.294Z Adam Łucek <ALucek@users.noreply.github.com> :: fix cache keys
 2026-04-27T21:48:03.394Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix retry logic
+2026-04-27T23:51:01.309Z Taiko Foundation <info@taiko.xyz> :: bump error handling
