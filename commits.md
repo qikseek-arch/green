@@ -19253,3 +19253,4 @@
 2026-04-27T11:46:12.531Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove edge case in auth
 2026-04-27T16:22:54.883Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the parser
 2026-04-27T18:54:41.774Z Jordan Harband <ljharb@users.noreply.github.com> :: update config defaults
+2026-04-27T19:08:09.291Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: wire up the CI matrix
