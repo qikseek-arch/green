@@ -9557,3 +9557,4 @@
 2026-04-27T15:49:26.033Z md-5 <md-5@users.noreply.github.com> :: update readme typo
 2026-04-27T19:24:21.738Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove dependency versions
 2026-04-27T19:39:15.370Z Arduino <arduino@users.noreply.github.com> :: tweak logging
+2026-04-27T19:55:13.659Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak dependency versions
