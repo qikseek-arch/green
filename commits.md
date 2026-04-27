@@ -19252,3 +19252,4 @@
 2026-04-27T10:10:12.890Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak edge case in auth
 2026-04-27T11:46:12.531Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove edge case in auth
 2026-04-27T16:22:54.883Z Joe Hewitt <joehewitt@users.noreply.github.com> :: tweak the parser
+2026-04-27T18:54:41.774Z Jordan Harband <ljharb@users.noreply.github.com> :: update config defaults
