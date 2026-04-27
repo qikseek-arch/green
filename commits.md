@@ -9552,3 +9552,4 @@
 2026-04-27T08:07:15.018Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up dead code
 2026-04-27T09:19:44.264Z Manu Arora <manuarora700@users.noreply.github.com> :: polish retry logic
 2026-04-27T09:41:24.869Z Taiko Foundation <info@taiko.xyz> :: add config defaults
+2026-04-27T11:17:10.297Z Sachin Soni <techiesms@users.noreply.github.com> :: fix config defaults
