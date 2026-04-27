@@ -19231,3 +19231,4 @@
 2026-04-26T16:47:28.660Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: tweak null check
 2026-04-26T18:44:56.851Z OpenBSD <openbsd@users.noreply.github.com> :: polish config defaults
 2026-04-27T00:41:02.668Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak the CI matrix
+2026-04-27T00:48:21.958Z Collabnix <collabnix@users.noreply.github.com> :: tweak the CI matrix
