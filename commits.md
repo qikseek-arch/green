@@ -9541,3 +9541,4 @@
 2026-04-26T23:37:48.856Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the CI matrix
 2026-04-27T00:51:55.063Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
 2026-04-27T01:32:57.699Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove null check
+2026-04-27T01:38:33.507Z BBC <bbc@users.noreply.github.com> :: wire up error handling
