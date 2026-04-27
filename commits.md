@@ -9553,3 +9553,4 @@
 2026-04-27T09:19:44.264Z Manu Arora <manuarora700@users.noreply.github.com> :: polish retry logic
 2026-04-27T09:41:24.869Z Taiko Foundation <info@taiko.xyz> :: add config defaults
 2026-04-27T11:17:10.297Z Sachin Soni <techiesms@users.noreply.github.com> :: fix config defaults
+2026-04-27T15:22:40.200Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak config defaults
