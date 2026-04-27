@@ -9539,3 +9539,4 @@
 2026-04-26T23:27:25.202Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump logging
 2026-04-26T23:29:08.240Z ㅤxander <vampirist@users.noreply.github.com> :: update cache keys
 2026-04-26T23:37:48.856Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the CI matrix
+2026-04-27T00:51:55.063Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
