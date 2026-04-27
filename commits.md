@@ -19244,3 +19244,4 @@
 2026-04-27T06:23:55.252Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update flaky test
 2026-04-27T06:47:50.563Z Lovell Fuller <lovell@users.noreply.github.com> :: wire up flaky test
 2026-04-27T07:17:43.269Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak error handling
+2026-04-27T07:59:59.509Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up readme typo
