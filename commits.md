@@ -19255,3 +19255,4 @@
 2026-04-27T18:54:41.774Z Jordan Harband <ljharb@users.noreply.github.com> :: update config defaults
 2026-04-27T19:08:09.291Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: wire up the CI matrix
 2026-04-27T19:15:25.004Z 毒奶博主 <limbopro@users.noreply.github.com> :: bump the parser
+2026-04-27T19:34:20.032Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: clean up readme typo
