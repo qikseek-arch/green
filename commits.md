@@ -19249,3 +19249,4 @@
 2026-04-27T08:25:34.937Z OpenBSD <openbsd@users.noreply.github.com> :: bump error handling
 2026-04-27T09:24:05.233Z 千古壹号 <qianguyihao@users.noreply.github.com> :: update null check
 2026-04-27T09:24:14.670Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish the CI matrix
+2026-04-27T10:10:12.890Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak edge case in auth
