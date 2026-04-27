@@ -19235,3 +19235,4 @@
 2026-04-27T02:00:55.854Z Scott Chacon <schacon@users.noreply.github.com> :: polish logging
 2026-04-27T02:04:56.432Z OpenBMB <openbmb@gmail.com> :: clean up the CI matrix
 2026-04-27T02:29:13.660Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak build script
+2026-04-27T03:49:44.460Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: update edge case in auth
