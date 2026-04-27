@@ -9542,3 +9542,4 @@
 2026-04-27T00:51:55.063Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
 2026-04-27T01:32:57.699Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove null check
 2026-04-27T01:38:33.507Z BBC <bbc@users.noreply.github.com> :: wire up error handling
+2026-04-27T02:12:42.593Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump readme typo
