@@ -19246,3 +19246,4 @@
 2026-04-27T07:17:43.269Z Valerio Velardo <musikalkemist@users.noreply.github.com> :: tweak error handling
 2026-04-27T07:59:59.509Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up readme typo
 2026-04-27T08:07:40.765Z Jordan Harband <ljharb@users.noreply.github.com> :: bump dead code
+2026-04-27T08:25:34.937Z OpenBSD <openbsd@users.noreply.github.com> :: bump error handling
