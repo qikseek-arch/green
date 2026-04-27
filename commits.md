@@ -610,3 +610,4 @@
 2026-04-26T17:11:12.482Z Susan Li <susanli2016@users.noreply.github.com> :: tweak the parser
 2026-04-27T12:28:50.502Z Philipp Schmid <philschmid@users.noreply.github.com> :: refactor retry logic
 2026-04-27T15:06:02.352Z Hsiaoming Yang <lepture@users.noreply.github.com> :: refactor dead code
+2026-04-27T23:50:02.325Z ONLYOFFICE <support@onlyoffice.com> :: add the parser
