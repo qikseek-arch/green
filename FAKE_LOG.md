@@ -777,3 +777,4 @@
 2026-04-23T22:11:40.909Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: polish build script
 2026-04-24T07:25:09.466Z Wes Bos <wesbos@users.noreply.github.com> :: wire up the CI matrix
 2026-04-24T22:28:05.430Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: wire up the CI matrix
+2026-04-27T09:02:38.628Z Vercel <vercel@users.noreply.github.com> :: polish dependency versions
