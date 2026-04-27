@@ -19258,3 +19258,4 @@
 2026-04-27T19:34:20.032Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: clean up readme typo
 2026-04-27T19:55:36.082Z Jabrils <Jabrils@users.noreply.github.com> :: update logging
 2026-04-27T20:12:18.369Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak cache keys
+2026-04-27T22:21:54.730Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: update dependency versions
