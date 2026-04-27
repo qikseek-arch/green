@@ -19250,3 +19250,4 @@
 2026-04-27T09:24:05.233Z 千古壹号 <qianguyihao@users.noreply.github.com> :: update null check
 2026-04-27T09:24:14.670Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish the CI matrix
 2026-04-27T10:10:12.890Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak edge case in auth
+2026-04-27T11:46:12.531Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove edge case in auth
