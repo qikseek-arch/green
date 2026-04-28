@@ -9570,3 +9570,4 @@
 2026-04-28T03:46:46.170Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add edge case in auth
 2026-04-28T04:05:48.165Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
 2026-04-28T04:57:23.968Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up flaky test
+2026-04-28T05:19:48.562Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak error handling
