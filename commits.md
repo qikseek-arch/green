@@ -19275,3 +19275,4 @@
 2026-04-28T13:30:18.407Z Mr L <Soldy@users.noreply.github.com> :: polish null check
 2026-04-28T13:36:52.586Z 毒奶博主 <limbopro@users.noreply.github.com> :: refactor edge case in auth
 2026-04-28T14:20:48.926Z John Schulman <joschu@users.noreply.github.com> :: tweak retry logic
+2026-04-28T14:58:43.790Z Lovell Fuller <lovell@users.noreply.github.com> :: add the CI matrix
