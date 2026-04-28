@@ -9600,3 +9600,4 @@
 2026-04-28T18:10:43.804Z BBC <bbc@users.noreply.github.com> :: wire up the parser
 2026-04-28T18:29:26.843Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish dead code
 2026-04-28T21:25:33.954Z LILYGO <LilyGO@users.noreply.github.com> :: add the CI matrix
+2026-04-28T22:35:20.168Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up the CI matrix
