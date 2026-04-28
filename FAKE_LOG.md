@@ -553,3 +553,4 @@
 2026-04-16T23:39:18.674Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: fix the CI matrix
 2026-04-21T14:54:15.067Z Bruno Simon <brunosimon@users.noreply.github.com> :: refactor retry logic
 2026-04-21T20:15:49.981Z Hugging Face <huggingface@users.noreply.github.com> :: update dependency versions
+2026-04-28T16:18:03.159Z David J. Malan <dmalan@users.noreply.github.com> :: wire up dependency versions
