@@ -9578,3 +9578,4 @@
 2026-04-28T08:50:59.953Z markqvist <markqvist@users.noreply.github.com> :: remove logging
 2026-04-28T08:53:49.266Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix readme typo
 2026-04-28T09:22:36.788Z Qwen <qianwen_opensource@alibabacloud.com> :: fix null check
+2026-04-28T09:33:55.946Z Sachin Soni <techiesms@users.noreply.github.com> :: fix dead code
