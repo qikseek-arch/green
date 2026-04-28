@@ -9576,3 +9576,4 @@
 2026-04-28T07:57:53.025Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix build script
 2026-04-28T08:50:06.698Z Adam Łucek <ALucek@users.noreply.github.com> :: update logging
 2026-04-28T08:50:59.953Z markqvist <markqvist@users.noreply.github.com> :: remove logging
+2026-04-28T08:53:49.266Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix readme typo
