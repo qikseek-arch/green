@@ -9586,3 +9586,4 @@
 2026-04-28T10:10:25.451Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix cache keys
 2026-04-28T11:19:42.993Z ㅤxander <vampirist@users.noreply.github.com> :: polish flaky test
 2026-04-28T11:51:07.990Z OpenJS Foundation <info@openjsf.org> :: remove retry logic
+2026-04-28T12:06:28.760Z Damian Dulisz <shentao@users.noreply.github.com> :: add build script
