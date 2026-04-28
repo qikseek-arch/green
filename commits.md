@@ -9566,3 +9566,4 @@
 2026-04-28T00:08:12.220Z vb <Vaibhavs10@users.noreply.github.com> :: polish error handling
 2026-04-28T00:41:22.172Z Fady Farag <iidmsa@users.noreply.github.com> :: fix the CI matrix
 2026-04-28T01:41:37.659Z Claude <claude@users.noreply.github.com> :: fix error handling
+2026-04-28T03:12:34.477Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump dependency versions
