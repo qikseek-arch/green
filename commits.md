@@ -19270,3 +19270,4 @@
 2026-04-28T10:25:37.983Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: remove the parser
 2026-04-28T11:27:50.408Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: polish config defaults
 2026-04-28T11:33:24.868Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: add edge case in auth
+2026-04-28T12:16:10.267Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update retry logic
