@@ -9592,3 +9592,4 @@
 2026-04-28T15:00:07.850Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up edge case in auth
 2026-04-28T15:21:56.219Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
 2026-04-28T15:42:54.118Z heyli <lcxfs1991@users.noreply.github.com> :: wire up dependency versions
+2026-04-28T16:11:40.599Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor dependency versions
