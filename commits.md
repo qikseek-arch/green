@@ -9568,3 +9568,4 @@
 2026-04-28T01:41:37.659Z Claude <claude@users.noreply.github.com> :: fix error handling
 2026-04-28T03:12:34.477Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump dependency versions
 2026-04-28T03:46:46.170Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add edge case in auth
+2026-04-28T04:05:48.165Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
