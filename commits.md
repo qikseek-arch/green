@@ -9572,3 +9572,4 @@
 2026-04-28T04:57:23.968Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: wire up flaky test
 2026-04-28T05:19:48.562Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak error handling
 2026-04-28T05:52:26.594Z CTFs <ctfs@users.noreply.github.com> :: polish null check
+2026-04-28T07:42:24.714Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor edge case in auth
