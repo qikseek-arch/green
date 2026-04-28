@@ -9575,3 +9575,4 @@
 2026-04-28T07:42:24.714Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor edge case in auth
 2026-04-28T07:57:53.025Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix build script
 2026-04-28T08:50:06.698Z Adam Łucek <ALucek@users.noreply.github.com> :: update logging
+2026-04-28T08:50:59.953Z markqvist <markqvist@users.noreply.github.com> :: remove logging
