@@ -19261,3 +19261,4 @@
 2026-04-27T22:21:54.730Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: update dependency versions
 2026-04-27T23:55:09.269Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: remove flaky test
 2026-04-28T03:03:02.485Z Elliott Minns <elliottminns@users.noreply.github.com> :: clean up retry logic
+2026-04-28T03:05:03.123Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak the CI matrix
