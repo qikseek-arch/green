@@ -19267,3 +19267,4 @@
 2026-04-28T07:39:36.096Z t11s <transmissions11@users.noreply.github.com> :: tweak dependency versions
 2026-04-28T08:12:25.302Z Alex Teichman <teichman@users.noreply.github.com> :: bump error handling
 2026-04-28T09:22:23.298Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: polish build script
+2026-04-28T10:25:37.983Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: remove the parser
