@@ -612,3 +612,4 @@
 2026-04-27T15:06:02.352Z Hsiaoming Yang <lepture@users.noreply.github.com> :: refactor dead code
 2026-04-27T23:50:02.325Z ONLYOFFICE <support@onlyoffice.com> :: add the parser
 2026-04-28T00:42:20.302Z GitHub Community <community@users.noreply.github.com> :: remove config defaults
+2026-04-28T02:16:49.272Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: fix the parser
