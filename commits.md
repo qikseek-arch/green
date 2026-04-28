@@ -19283,3 +19283,4 @@
 2026-04-28T19:13:26.340Z cytopia <cytopia@users.noreply.github.com> :: wire up the parser
 2026-04-28T19:52:03.857Z imput <hello@imput.net> :: clean up dead code
 2026-04-28T21:01:27.978Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish logging
+2026-04-28T21:14:16.140Z Collabnix <collabnix@users.noreply.github.com> :: clean up build script
