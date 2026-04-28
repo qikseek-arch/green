@@ -19277,3 +19277,4 @@
 2026-04-28T14:20:48.926Z John Schulman <joschu@users.noreply.github.com> :: tweak retry logic
 2026-04-28T14:58:43.790Z Lovell Fuller <lovell@users.noreply.github.com> :: add the CI matrix
 2026-04-28T16:32:40.107Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: refactor retry logic
+2026-04-28T17:11:01.664Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: fix the parser
