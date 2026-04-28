@@ -9563,3 +9563,4 @@
 2026-04-27T21:24:27.294Z Adam Łucek <ALucek@users.noreply.github.com> :: fix cache keys
 2026-04-27T21:48:03.394Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix retry logic
 2026-04-27T23:51:01.309Z Taiko Foundation <info@taiko.xyz> :: bump error handling
+2026-04-28T00:08:12.220Z vb <Vaibhavs10@users.noreply.github.com> :: polish error handling
