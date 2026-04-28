@@ -611,3 +611,4 @@
 2026-04-27T12:28:50.502Z Philipp Schmid <philschmid@users.noreply.github.com> :: refactor retry logic
 2026-04-27T15:06:02.352Z Hsiaoming Yang <lepture@users.noreply.github.com> :: refactor dead code
 2026-04-27T23:50:02.325Z ONLYOFFICE <support@onlyoffice.com> :: add the parser
+2026-04-28T00:42:20.302Z GitHub Community <community@users.noreply.github.com> :: remove config defaults
