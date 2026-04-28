@@ -19272,3 +19272,4 @@
 2026-04-28T11:33:24.868Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: add edge case in auth
 2026-04-28T12:16:10.267Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update retry logic
 2026-04-28T13:16:40.392Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: remove readme typo
+2026-04-28T13:30:18.407Z Mr L <Soldy@users.noreply.github.com> :: polish null check
