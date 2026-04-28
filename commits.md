@@ -19280,3 +19280,4 @@
 2026-04-28T17:11:01.664Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: fix the parser
 2026-04-28T18:02:25.840Z Odi <mathdroid@users.noreply.github.com> :: update cache keys
 2026-04-28T19:10:55.689Z Amie Lynn <stoked-zz@users.noreply.github.com> :: bump the parser
+2026-04-28T19:13:26.340Z cytopia <cytopia@users.noreply.github.com> :: wire up the parser
