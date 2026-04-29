@@ -615,3 +615,4 @@
 2026-04-28T02:16:49.272Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: fix the parser
 2026-04-28T04:58:12.545Z HashLips <HashLips@users.noreply.github.com> :: clean up config defaults
 2026-04-28T15:25:06.299Z Rob Fuller <mubix@users.noreply.github.com> :: tweak the parser
+2026-04-29T12:00:56.549Z David Robinson <dgrtwo@users.noreply.github.com> :: clean up null check
