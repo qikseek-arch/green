@@ -19290,3 +19290,4 @@
 2026-04-28T23:41:37.989Z Prometheus <prometheus@users.noreply.github.com> :: polish the CI matrix
 2026-04-28T23:56:02.470Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish cache keys
 2026-04-29T00:42:29.214Z Collabnix <collabnix@users.noreply.github.com> :: bump edge case in auth
+2026-04-29T01:32:42.799Z Tom Dale <tomdale@users.noreply.github.com> :: add logging
