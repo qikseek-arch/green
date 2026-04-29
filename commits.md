@@ -9620,3 +9620,4 @@
 2026-04-29T18:28:10.328Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up the CI matrix
 2026-04-29T19:00:46.797Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor cache keys
 2026-04-29T20:15:04.208Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up dead code
+2026-04-29T20:28:29.782Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish readme typo
