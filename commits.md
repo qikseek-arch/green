@@ -19291,3 +19291,4 @@
 2026-04-28T23:56:02.470Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: polish cache keys
 2026-04-29T00:42:29.214Z Collabnix <collabnix@users.noreply.github.com> :: bump edge case in auth
 2026-04-29T01:32:42.799Z Tom Dale <tomdale@users.noreply.github.com> :: add logging
+2026-04-29T03:08:16.714Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: update dependency versions
