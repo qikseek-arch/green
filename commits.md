@@ -9614,3 +9614,4 @@
 2026-04-29T08:28:36.028Z heyli <lcxfs1991@users.noreply.github.com> :: bump build script
 2026-04-29T11:05:04.558Z markqvist <markqvist@users.noreply.github.com> :: update the CI matrix
 2026-04-29T12:51:40.191Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump cache keys
+2026-04-29T14:16:15.430Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak dependency versions
