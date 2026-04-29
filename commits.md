@@ -9623,3 +9623,4 @@
 2026-04-29T20:28:29.782Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish readme typo
 2026-04-29T21:19:47.253Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update build script
 2026-04-29T22:53:48.363Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove edge case in auth
+2026-04-29T23:19:35.959Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: refactor dependency versions
