@@ -617,3 +617,4 @@
 2026-04-28T15:25:06.299Z Rob Fuller <mubix@users.noreply.github.com> :: tweak the parser
 2026-04-29T12:00:56.549Z David Robinson <dgrtwo@users.noreply.github.com> :: clean up null check
 2026-04-29T20:07:37.596Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: clean up dead code
+2026-04-29T22:34:51.319Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: fix retry logic
