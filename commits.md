@@ -9606,3 +9606,4 @@
 2026-04-29T00:26:42.853Z owenzhang <owenzhang@users.noreply.github.com> :: tweak build script
 2026-04-29T01:17:30.033Z Keith Smiley <keith@users.noreply.github.com> :: refactor build script
 2026-04-29T01:54:45.989Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: remove config defaults
+2026-04-29T02:27:45.928Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor edge case in auth
