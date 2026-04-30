@@ -9637,3 +9637,4 @@
 2026-04-30T07:41:48.945Z AI4Bhārat <opensource@ai4bharat.org> :: remove flaky test
 2026-04-30T08:34:57.255Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add null check
 2026-04-30T10:08:23.345Z ring04h <ring04h@users.noreply.github.com> :: clean up config defaults
+2026-04-30T10:09:40.163Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up cache keys
