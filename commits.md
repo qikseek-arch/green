@@ -9647,3 +9647,4 @@
 2026-04-30T22:15:19.001Z OpenJS Foundation <info@openjsf.org> :: refactor build script
 2026-04-30T22:25:02.574Z owenzhang <owenzhang@users.noreply.github.com> :: remove flaky test
 2026-04-30T22:31:56.623Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up retry logic
+2026-04-30T23:04:37.819Z SouJunior <wouerner@soujunior.tech> :: wire up dependency versions
