@@ -19315,3 +19315,4 @@
 2026-04-30T02:56:34.882Z Asif Taj <axiftaj@users.noreply.github.com> :: remove readme typo
 2026-04-30T03:23:29.511Z SurrealDB <surrealdb@users.noreply.github.com> :: bump flaky test
 2026-04-30T03:57:41.595Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: add cache keys
+2026-04-30T07:49:49.527Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update build script
