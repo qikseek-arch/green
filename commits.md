@@ -19326,3 +19326,4 @@
 2026-04-30T15:38:20.653Z Lovell Fuller <lovell@users.noreply.github.com> :: polish build script
 2026-04-30T16:33:45.933Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor config defaults
 2026-04-30T16:40:49.461Z Morvan <MorvanZhou@users.noreply.github.com> :: update the CI matrix
+2026-04-30T17:53:23.370Z John Schulman <joschu@users.noreply.github.com> :: wire up null check
