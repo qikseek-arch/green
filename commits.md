@@ -19324,3 +19324,4 @@
 2026-04-30T11:27:32.473Z Brian Holt <btholt@users.noreply.github.com> :: clean up readme typo
 2026-04-30T13:07:48.979Z SurrealDB <surrealdb@users.noreply.github.com> :: polish flaky test
 2026-04-30T15:38:20.653Z Lovell Fuller <lovell@users.noreply.github.com> :: polish build script
+2026-04-30T16:33:45.933Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: refactor config defaults
