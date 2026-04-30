@@ -19329,3 +19329,4 @@
 2026-04-30T17:53:23.370Z John Schulman <joschu@users.noreply.github.com> :: wire up null check
 2026-04-30T18:59:50.957Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up cache keys
 2026-04-30T22:05:28.513Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish dependency versions
+2026-04-30T22:29:45.545Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish null check
