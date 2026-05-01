@@ -9662,3 +9662,4 @@
 2026-05-01T15:42:14.234Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump readme typo
 2026-05-01T16:03:46.807Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up readme typo
 2026-05-01T18:51:41.976Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak dead code
+2026-05-01T19:06:01.498Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: update flaky test
