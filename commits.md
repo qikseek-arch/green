@@ -19331,3 +19331,4 @@
 2026-04-30T22:05:28.513Z Amie Lynn <stoked-zz@users.noreply.github.com> :: polish dependency versions
 2026-04-30T22:29:45.545Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish null check
 2026-05-01T00:03:33.880Z cytopia <cytopia@users.noreply.github.com> :: tweak dead code
+2026-05-01T00:59:50.958Z Xingang Pan <XingangPan@users.noreply.github.com> :: tweak the parser
