@@ -9661,3 +9661,4 @@
 2026-05-01T15:37:01.551Z heyli <lcxfs1991@users.noreply.github.com> :: update readme typo
 2026-05-01T15:42:14.234Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump readme typo
 2026-05-01T16:03:46.807Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up readme typo
+2026-05-01T18:51:41.976Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak dead code
