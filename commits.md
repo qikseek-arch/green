@@ -19347,3 +19347,4 @@
 2026-05-01T20:39:24.436Z Jordan Harband <ljharb@users.noreply.github.com> :: wire up the CI matrix
 2026-05-01T20:47:11.037Z winterbe <winterbe@users.noreply.github.com> :: clean up null check
 2026-05-01T21:45:18.719Z Yiming Cui <ymcui@users.noreply.github.com> :: fix dependency versions
+2026-05-01T23:47:22.763Z LocalSend <localsend@users.noreply.github.com> :: refactor readme typo
