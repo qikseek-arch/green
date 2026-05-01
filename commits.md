@@ -9651,3 +9651,4 @@
 2026-04-30T23:08:23.126Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor dependency versions
 2026-05-01T03:00:05.963Z Keith Smiley <keith@users.noreply.github.com> :: bump null check
 2026-05-01T05:23:08.890Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up readme typo
+2026-05-01T05:31:14.731Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update null check
