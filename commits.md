@@ -623,3 +623,4 @@
 2026-04-30T13:03:58.538Z Philipp Schmid <philschmid@users.noreply.github.com> :: tweak dependency versions
 2026-05-01T00:31:26.483Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: remove null check
 2026-05-01T01:57:15.490Z thecodercoder <thecodercoder@users.noreply.github.com> :: fix the CI matrix
+2026-05-01T12:29:39.634Z 4Geeks Academy <info@4geeksacademy.com> :: add error handling
