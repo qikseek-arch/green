@@ -621,3 +621,4 @@
 2026-04-29T23:09:54.040Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up flaky test
 2026-04-30T05:28:13.802Z Odoo Community Association <OCA@users.noreply.github.com> :: clean up dependency versions
 2026-04-30T13:03:58.538Z Philipp Schmid <philschmid@users.noreply.github.com> :: tweak dependency versions
+2026-05-01T00:31:26.483Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: remove null check
