@@ -19343,3 +19343,4 @@
 2026-05-01T13:04:05.048Z SurrealDB <surrealdb@users.noreply.github.com> :: clean up retry logic
 2026-05-01T15:08:43.093Z Nishant Chahar <chaharnishant11@users.noreply.github.com> :: add retry logic
 2026-05-01T19:28:47.087Z Petar Veličković <PetarV-@users.noreply.github.com> :: add readme typo
+2026-05-01T20:01:08.111Z Aman Kumar <Amanc77@users.noreply.github.com> :: update null check
