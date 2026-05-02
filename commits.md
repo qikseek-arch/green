@@ -19362,3 +19362,4 @@
 2026-05-02T15:48:58.731Z Chetan Jogi <voidChetan@users.noreply.github.com> :: fix dead code
 2026-05-02T16:24:11.766Z 毒奶博主 <limbopro@users.noreply.github.com> :: remove null check
 2026-05-02T21:32:07.469Z Sky Ao <skyao@users.noreply.github.com> :: bump error handling
+2026-05-02T21:46:33.872Z Brian Holt <btholt@users.noreply.github.com> :: wire up dependency versions
