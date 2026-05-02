@@ -19358,3 +19358,4 @@
 2026-05-02T06:52:15.435Z Jabrils <Jabrils@users.noreply.github.com> :: remove the parser
 2026-05-02T07:04:27.950Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the parser
 2026-05-02T11:29:11.970Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak dependency versions
+2026-05-02T13:22:26.249Z Aman Kumar <Amanc77@users.noreply.github.com> :: tweak config defaults
