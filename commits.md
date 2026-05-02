@@ -19356,3 +19356,4 @@
 2026-05-02T05:53:24.080Z 南宫雪珊 <vvb2060@users.noreply.github.com> :: polish dependency versions
 2026-05-02T06:00:15.253Z Sergey P. <ThirteenAG@users.noreply.github.com> :: add build script
 2026-05-02T06:52:15.435Z Jabrils <Jabrils@users.noreply.github.com> :: remove the parser
+2026-05-02T07:04:27.950Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: clean up the parser
