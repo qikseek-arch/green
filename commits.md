@@ -9677,3 +9677,4 @@
 2026-05-02T09:51:33.241Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump retry logic
 2026-05-02T09:57:38.218Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor build script
 2026-05-02T10:32:59.058Z Adam Łucek <ALucek@users.noreply.github.com> :: bump cache keys
+2026-05-02T11:30:57.864Z vb <Vaibhavs10@users.noreply.github.com> :: clean up config defaults
