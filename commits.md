@@ -9671,3 +9671,4 @@
 2026-05-02T01:17:06.647Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up dependency versions
 2026-05-02T03:49:33.490Z CTFs <ctfs@users.noreply.github.com> :: remove readme typo
 2026-05-02T03:55:08.067Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: tweak the CI matrix
+2026-05-02T07:19:22.324Z md-5 <md-5@users.noreply.github.com> :: remove null check
