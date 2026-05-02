@@ -9673,3 +9673,4 @@
 2026-05-02T03:55:08.067Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: tweak the CI matrix
 2026-05-02T07:19:22.324Z md-5 <md-5@users.noreply.github.com> :: remove null check
 2026-05-02T07:19:54.347Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up build script
+2026-05-02T09:31:29.956Z Arduino <arduino@users.noreply.github.com> :: wire up null check
