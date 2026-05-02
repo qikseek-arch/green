@@ -9669,3 +9669,4 @@
 2026-05-01T22:38:03.439Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak build script
 2026-05-01T23:01:29.427Z Arduino <arduino@users.noreply.github.com> :: tweak readme typo
 2026-05-02T01:17:06.647Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up dependency versions
+2026-05-02T03:49:33.490Z CTFs <ctfs@users.noreply.github.com> :: remove readme typo
