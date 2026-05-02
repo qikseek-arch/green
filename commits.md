@@ -19350,3 +19350,4 @@
 2026-05-01T23:47:22.763Z LocalSend <localsend@users.noreply.github.com> :: refactor readme typo
 2026-05-02T00:09:17.447Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: refactor the CI matrix
 2026-05-02T01:23:21.146Z Scott Chacon <schacon@users.noreply.github.com> :: clean up retry logic
+2026-05-02T01:56:17.881Z Collabnix <collabnix@users.noreply.github.com> :: bump the CI matrix
