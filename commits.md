@@ -9700,3 +9700,4 @@
 2026-05-03T11:54:53.525Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump edge case in auth
 2026-05-03T12:32:36.074Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove dependency versions
 2026-05-03T14:04:36.773Z owenzhang <owenzhang@users.noreply.github.com> :: fix flaky test
+2026-05-03T15:46:32.269Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove edge case in auth
