@@ -9690,3 +9690,4 @@
 2026-05-03T02:57:38.729Z Almas Baim <AlmasB@users.noreply.github.com> :: remove flaky test
 2026-05-03T03:26:52.209Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
 2026-05-03T03:59:04.649Z Taiko Foundation <info@taiko.xyz> :: refactor build script
+2026-05-03T04:31:26.893Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up readme typo
