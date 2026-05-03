@@ -19368,3 +19368,4 @@
 2026-05-03T00:37:35.901Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak the CI matrix
 2026-05-03T00:58:27.149Z Tom Dale <tomdale@users.noreply.github.com> :: remove error handling
 2026-05-03T05:32:17.501Z Google Fonts <googlefonts@users.noreply.github.com> :: fix logging
+2026-05-03T05:44:21.465Z Scott Chacon <schacon@users.noreply.github.com> :: polish dead code
