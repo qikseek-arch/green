@@ -19367,3 +19367,4 @@
 2026-05-02T23:11:02.271Z Collabnix <collabnix@users.noreply.github.com> :: wire up dead code
 2026-05-03T00:37:35.901Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak the CI matrix
 2026-05-03T00:58:27.149Z Tom Dale <tomdale@users.noreply.github.com> :: remove error handling
+2026-05-03T05:32:17.501Z Google Fonts <googlefonts@users.noreply.github.com> :: fix logging
