@@ -19384,3 +19384,4 @@
 2026-05-03T17:26:35.535Z Cezanne Camacho <cezannec@users.noreply.github.com> :: remove flaky test
 2026-05-03T17:36:38.849Z Petar Veličković <PetarV-@users.noreply.github.com> :: polish cache keys
 2026-05-03T17:37:10.333Z in28minutes <in28minutes@users.noreply.github.com> :: clean up error handling
+2026-05-03T18:00:05.890Z Sergey P. <ThirteenAG@users.noreply.github.com> :: tweak null check
