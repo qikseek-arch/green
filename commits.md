@@ -19392,3 +19392,4 @@
 2026-05-03T21:42:38.438Z Tavis Ormandy <taviso@users.noreply.github.com> :: remove dead code
 2026-05-03T22:51:57.905Z Morvan <MorvanZhou@users.noreply.github.com> :: fix flaky test
 2026-05-03T23:10:04.865Z yakeIore <yakeIore@users.noreply.github.com> :: remove error handling
+2026-05-03T23:26:47.979Z Alex Teichman <teichman@users.noreply.github.com> :: remove readme typo
