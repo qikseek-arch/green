@@ -9707,3 +9707,4 @@
 2026-05-03T19:11:44.232Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish edge case in auth
 2026-05-03T19:52:54.872Z Rei <chloerei@users.noreply.github.com> :: tweak error handling
 2026-05-03T21:51:25.092Z RISC-V <info@riscv.org> :: update null check
+2026-05-03T22:28:41.025Z Shubs <infosec-au@users.noreply.github.com> :: fix dead code
