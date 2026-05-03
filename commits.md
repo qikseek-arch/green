@@ -9698,3 +9698,4 @@
 2026-05-03T11:30:22.436Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up the parser
 2026-05-03T11:40:35.996Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix config defaults
 2026-05-03T11:54:53.525Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump edge case in auth
+2026-05-03T12:32:36.074Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove dependency versions
