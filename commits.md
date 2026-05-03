@@ -19376,3 +19376,4 @@
 2026-05-03T10:04:13.566Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump readme typo
 2026-05-03T10:40:21.620Z DefTruth <DefTruth@users.noreply.github.com> :: wire up logging
 2026-05-03T11:51:02.782Z Petar Veličković <PetarV-@users.noreply.github.com> :: fix build script
+2026-05-03T11:59:34.030Z 1 <insoxin@users.noreply.github.com> :: tweak logging
