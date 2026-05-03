@@ -19388,3 +19388,4 @@
 2026-05-03T18:21:39.722Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: wire up error handling
 2026-05-03T18:36:21.411Z Petar Veličković <PetarV-@users.noreply.github.com> :: add logging
 2026-05-03T19:08:26.194Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor readme typo
+2026-05-03T21:17:57.250Z Dove Letter <skydoves2@gmail.com> :: refactor the CI matrix
