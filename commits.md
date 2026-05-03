@@ -19380,3 +19380,4 @@
 2026-05-03T13:28:22.102Z Lipis <lipis@users.noreply.github.com> :: remove build script
 2026-05-03T14:04:12.511Z Amnezia VPN <support@amnezia.org> :: refactor cache keys
 2026-05-03T14:54:04.608Z Amnezia VPN <support@amnezia.org> :: refactor retry logic
+2026-05-03T17:06:02.637Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak retry logic
