@@ -9696,3 +9696,4 @@
 2026-05-03T05:26:22.874Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add dead code
 2026-05-03T07:13:54.884Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove flaky test
 2026-05-03T11:30:22.436Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up the parser
+2026-05-03T11:40:35.996Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix config defaults
