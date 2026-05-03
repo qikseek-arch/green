@@ -19372,3 +19372,4 @@
 2026-05-03T07:58:15.024Z Prometheus <prometheus@users.noreply.github.com> :: bump build script
 2026-05-03T08:29:01.183Z Asif Taj <axiftaj@users.noreply.github.com> :: fix edge case in auth
 2026-05-03T08:32:16.388Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: bump readme typo
+2026-05-03T09:23:13.329Z Morvan <MorvanZhou@users.noreply.github.com> :: tweak retry logic
