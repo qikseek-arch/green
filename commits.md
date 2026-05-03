@@ -19365,3 +19365,4 @@
 2026-05-02T21:46:33.872Z Brian Holt <btholt@users.noreply.github.com> :: wire up dependency versions
 2026-05-02T21:55:25.401Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up retry logic
 2026-05-02T23:11:02.271Z Collabnix <collabnix@users.noreply.github.com> :: wire up dead code
+2026-05-03T00:37:35.901Z Petar Veličković <PetarV-@users.noreply.github.com> :: tweak the CI matrix
