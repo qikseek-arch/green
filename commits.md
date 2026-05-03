@@ -9711,3 +9711,4 @@
 2026-05-03T22:43:53.055Z Ryan Bigg <radar@users.noreply.github.com> :: refactor flaky test
 2026-05-03T22:47:06.080Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up readme typo
 2026-05-03T22:58:55.935Z Daniel Eden <daneden@users.noreply.github.com> :: fix null check
+2026-05-03T23:11:44.095Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up edge case in auth
