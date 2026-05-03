@@ -627,3 +627,4 @@
 2026-05-02T07:23:41.367Z HashLips <HashLips@users.noreply.github.com> :: polish retry logic
 2026-05-02T19:17:51.438Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: remove readme typo
 2026-05-02T21:20:47.587Z Sasha Rush <srush@users.noreply.github.com> :: wire up build script
+2026-05-03T06:44:12.254Z HashLips <HashLips@users.noreply.github.com> :: refactor dependency versions
