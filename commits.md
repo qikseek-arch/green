@@ -9715,3 +9715,4 @@
 2026-05-03T23:18:15.821Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak build script
 2026-05-03T23:26:53.603Z Adam Bell <b3ll@users.noreply.github.com> :: wire up flaky test
 2026-05-04T01:57:09.431Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: tweak the parser
+2026-05-04T02:31:56.223Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor error handling
