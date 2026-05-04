@@ -9733,3 +9733,4 @@
 2026-05-04T16:56:51.640Z Shubs <infosec-au@users.noreply.github.com> :: update edge case in auth
 2026-05-04T19:29:09.973Z Ben Hamner <benhamner@users.noreply.github.com> :: update error handling
 2026-05-04T23:35:34.730Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump dead code
+2026-05-04T23:49:05.032Z LILYGO <LilyGO@users.noreply.github.com> :: add the parser
