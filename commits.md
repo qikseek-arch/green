@@ -19400,3 +19400,4 @@
 2026-05-04T02:50:46.431Z Snowflake Labs <opensource@snowflake.com> :: update edge case in auth
 2026-05-04T03:24:49.275Z Dove Letter <skydoves2@gmail.com> :: remove dependency versions
 2026-05-04T03:39:50.766Z Alex Teichman <teichman@users.noreply.github.com> :: refactor edge case in auth
+2026-05-04T04:45:13.789Z OpenBSD <openbsd@users.noreply.github.com> :: bump the parser
