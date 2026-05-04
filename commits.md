@@ -9729,3 +9729,4 @@
 2026-05-04T13:43:34.976Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dependency versions
 2026-05-04T14:44:21.930Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update edge case in auth
 2026-05-04T15:40:43.848Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish null check
+2026-05-04T16:25:09.870Z BBC <bbc@users.noreply.github.com> :: remove dead code
