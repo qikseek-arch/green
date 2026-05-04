@@ -19394,3 +19394,4 @@
 2026-05-03T23:10:04.865Z yakeIore <yakeIore@users.noreply.github.com> :: remove error handling
 2026-05-03T23:26:47.979Z Alex Teichman <teichman@users.noreply.github.com> :: remove readme typo
 2026-05-04T00:06:37.420Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump edge case in auth
+2026-05-04T01:35:32.191Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up config defaults
