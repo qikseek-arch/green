@@ -19411,3 +19411,4 @@
 2026-05-04T10:05:39.931Z in28minutes <in28minutes@users.noreply.github.com> :: tweak build script
 2026-05-04T11:40:04.847Z 薛翔 <xuexiangjys@users.noreply.github.com> :: bump the parser
 2026-05-04T12:49:28.379Z Elliott Minns <elliottminns@users.noreply.github.com> :: add cache keys
+2026-05-04T13:32:15.365Z 1 <insoxin@users.noreply.github.com> :: fix build script
