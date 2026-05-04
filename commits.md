@@ -19410,3 +19410,4 @@
 2026-05-04T09:06:03.031Z LocalSend <localsend@users.noreply.github.com> :: refactor the parser
 2026-05-04T10:05:39.931Z in28minutes <in28minutes@users.noreply.github.com> :: tweak build script
 2026-05-04T11:40:04.847Z 薛翔 <xuexiangjys@users.noreply.github.com> :: bump the parser
+2026-05-04T12:49:28.379Z Elliott Minns <elliottminns@users.noreply.github.com> :: add cache keys
