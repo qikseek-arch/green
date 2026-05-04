@@ -19404,3 +19404,4 @@
 2026-05-04T05:02:00.237Z DefTruth <DefTruth@users.noreply.github.com> :: add the parser
 2026-05-04T05:17:53.138Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up dependency versions
 2026-05-04T05:53:40.223Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: fix readme typo
+2026-05-04T07:30:33.264Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update build script
