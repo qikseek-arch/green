@@ -19406,3 +19406,4 @@
 2026-05-04T05:53:40.223Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: fix readme typo
 2026-05-04T07:30:33.264Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update build script
 2026-05-04T08:29:53.053Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak the parser
+2026-05-04T08:58:26.559Z Jordan Harband <ljharb@users.noreply.github.com> :: bump dependency versions
