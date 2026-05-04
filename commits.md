@@ -9718,3 +9718,4 @@
 2026-05-04T02:31:56.223Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor error handling
 2026-05-04T03:08:37.700Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up retry logic
 2026-05-04T04:59:32.985Z AI4Bhārat <opensource@ai4bharat.org> :: add flaky test
+2026-05-04T05:49:35.814Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove error handling
