@@ -19412,3 +19412,4 @@
 2026-05-04T11:40:04.847Z 薛翔 <xuexiangjys@users.noreply.github.com> :: bump the parser
 2026-05-04T12:49:28.379Z Elliott Minns <elliottminns@users.noreply.github.com> :: add cache keys
 2026-05-04T13:32:15.365Z 1 <insoxin@users.noreply.github.com> :: fix build script
+2026-05-04T14:37:16.944Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: update null check
