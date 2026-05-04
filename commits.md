@@ -629,3 +629,4 @@
 2026-05-02T21:20:47.587Z Sasha Rush <srush@users.noreply.github.com> :: wire up build script
 2026-05-03T06:44:12.254Z HashLips <HashLips@users.noreply.github.com> :: refactor dependency versions
 2026-05-03T17:10:46.218Z t11s <transmissions11@users.noreply.github.com> :: bump build script
+2026-05-04T12:30:33.363Z 左程云 <algorithmzuo@users.noreply.github.com> :: remove edge case in auth
