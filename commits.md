@@ -19423,3 +19423,4 @@
 2026-05-04T19:18:32.937Z t11s <transmissions11@users.noreply.github.com> :: wire up dead code
 2026-05-04T21:01:18.347Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: fix flaky test
 2026-05-04T22:03:05.027Z Mr L <Soldy@users.noreply.github.com> :: bump build script
+2026-05-04T22:42:18.751Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
