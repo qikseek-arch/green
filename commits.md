@@ -19398,3 +19398,4 @@
 2026-05-04T01:53:36.454Z Prometheus <prometheus@users.noreply.github.com> :: clean up error handling
 2026-05-04T02:36:09.414Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix readme typo
 2026-05-04T02:50:46.431Z Snowflake Labs <opensource@snowflake.com> :: update edge case in auth
+2026-05-04T03:24:49.275Z Dove Letter <skydoves2@gmail.com> :: remove dependency versions
