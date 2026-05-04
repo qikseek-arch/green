@@ -9726,3 +9726,4 @@
 2026-05-04T08:58:50.279Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add cache keys
 2026-05-04T09:34:06.230Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak error handling
 2026-05-04T13:37:35.142Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump the CI matrix
+2026-05-04T13:43:34.976Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dependency versions
