@@ -19397,3 +19397,4 @@
 2026-05-04T01:35:32.191Z Jordan Harband <ljharb@users.noreply.github.com> :: clean up config defaults
 2026-05-04T01:53:36.454Z Prometheus <prometheus@users.noreply.github.com> :: clean up error handling
 2026-05-04T02:36:09.414Z Xingang Pan <XingangPan@users.noreply.github.com> :: fix readme typo
+2026-05-04T02:50:46.431Z Snowflake Labs <opensource@snowflake.com> :: update edge case in auth
