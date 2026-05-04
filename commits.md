@@ -19407,3 +19407,4 @@
 2026-05-04T07:30:33.264Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: update build script
 2026-05-04T08:29:53.053Z Theodorus Clarence <theodorusclarence@users.noreply.github.com> :: tweak the parser
 2026-05-04T08:58:26.559Z Jordan Harband <ljharb@users.noreply.github.com> :: bump dependency versions
+2026-05-04T09:06:03.031Z LocalSend <localsend@users.noreply.github.com> :: refactor the parser
