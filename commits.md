@@ -9759,3 +9759,4 @@
 2026-05-05T21:45:50.987Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove flaky test
 2026-05-05T21:49:25.575Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up edge case in auth
 2026-05-05T22:02:52.401Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish null check
+2026-05-05T22:30:05.567Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up retry logic
