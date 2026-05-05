@@ -9760,3 +9760,4 @@
 2026-05-05T21:49:25.575Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up edge case in auth
 2026-05-05T22:02:52.401Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish null check
 2026-05-05T22:30:05.567Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up retry logic
+2026-05-05T23:29:41.832Z Bytedance Inc. <bytedance@users.noreply.github.com> :: add readme typo
