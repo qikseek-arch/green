@@ -9746,3 +9746,4 @@
 2026-05-05T08:16:45.979Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
 2026-05-05T08:27:24.554Z OpenJS Foundation <info@openjsf.org> :: polish edge case in auth
 2026-05-05T08:30:26.348Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix the parser
+2026-05-05T10:08:25.201Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: remove edge case in auth
