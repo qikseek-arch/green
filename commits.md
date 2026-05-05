@@ -9752,3 +9752,4 @@
 2026-05-05T13:20:50.285Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove retry logic
 2026-05-05T14:40:36.791Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add dead code
 2026-05-05T16:05:05.004Z Keith Smiley <keith@users.noreply.github.com> :: add build script
+2026-05-05T16:41:00.371Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update config defaults
