@@ -9738,3 +9738,4 @@
 2026-05-05T02:29:21.470Z vb <Vaibhavs10@users.noreply.github.com> :: refactor flaky test
 2026-05-05T02:45:11.023Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up the CI matrix
 2026-05-05T02:53:15.779Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor the CI matrix
+2026-05-05T03:00:02.869Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up dependency versions
