@@ -9749,3 +9749,4 @@
 2026-05-05T10:08:25.201Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: remove edge case in auth
 2026-05-05T10:34:41.774Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
 2026-05-05T12:00:08.430Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump config defaults
+2026-05-05T13:20:50.285Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove retry logic
