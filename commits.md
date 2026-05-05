@@ -9748,3 +9748,4 @@
 2026-05-05T08:30:26.348Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix the parser
 2026-05-05T10:08:25.201Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: remove edge case in auth
 2026-05-05T10:34:41.774Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
+2026-05-05T12:00:08.430Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump config defaults
