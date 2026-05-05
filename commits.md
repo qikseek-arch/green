@@ -9744,3 +9744,4 @@
 2026-05-05T03:23:37.174Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update logging
 2026-05-05T05:24:25.923Z Odi <mathdroid@users.noreply.github.com> :: tweak logging
 2026-05-05T08:16:45.979Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
+2026-05-05T08:27:24.554Z OpenJS Foundation <info@openjsf.org> :: polish edge case in auth
