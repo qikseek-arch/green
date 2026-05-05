@@ -9742,3 +9742,4 @@
 2026-05-05T03:12:41.174Z Claude <claude@users.noreply.github.com> :: wire up retry logic
 2026-05-05T03:22:30.116Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish edge case in auth
 2026-05-05T03:23:37.174Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update logging
+2026-05-05T05:24:25.923Z Odi <mathdroid@users.noreply.github.com> :: tweak logging
