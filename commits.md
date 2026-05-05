@@ -19431,3 +19431,4 @@
 2026-05-05T05:21:06.951Z Yiming Cui <ymcui@users.noreply.github.com> :: add the parser
 2026-05-05T05:40:59.312Z Lovell Fuller <lovell@users.noreply.github.com> :: polish the parser
 2026-05-05T05:54:12.876Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: refactor flaky test
+2026-05-05T07:18:53.291Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: fix null check
