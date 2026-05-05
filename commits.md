@@ -9736,3 +9736,4 @@
 2026-05-04T23:49:05.032Z LILYGO <LilyGO@users.noreply.github.com> :: add the parser
 2026-05-05T00:35:00.930Z BBC <bbc@users.noreply.github.com> :: bump build script
 2026-05-05T02:29:21.470Z vb <Vaibhavs10@users.noreply.github.com> :: refactor flaky test
+2026-05-05T02:45:11.023Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up the CI matrix
