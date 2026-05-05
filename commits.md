@@ -9745,3 +9745,4 @@
 2026-05-05T05:24:25.923Z Odi <mathdroid@users.noreply.github.com> :: tweak logging
 2026-05-05T08:16:45.979Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: tweak dependency versions
 2026-05-05T08:27:24.554Z OpenJS Foundation <info@openjsf.org> :: polish edge case in auth
+2026-05-05T08:30:26.348Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix the parser
