@@ -9757,3 +9757,4 @@
 2026-05-05T21:03:41.728Z markqvist <markqvist@users.noreply.github.com> :: polish the CI matrix
 2026-05-05T21:41:15.936Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove flaky test
 2026-05-05T21:45:50.987Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove flaky test
+2026-05-05T21:49:25.575Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up edge case in auth
