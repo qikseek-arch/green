@@ -634,3 +634,4 @@
 2026-05-04T19:44:45.250Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: tweak edge case in auth
 2026-05-04T23:40:02.935Z FastAPI <fastapi@users.noreply.github.com> :: clean up the parser
 2026-05-05T10:20:54.397Z Ovilia <Ovilia@users.noreply.github.com> :: bump dead code
+2026-05-05T10:55:33.156Z Changkun Ou <changkun@users.noreply.github.com> :: refactor null check
