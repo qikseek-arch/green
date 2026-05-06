@@ -9761,3 +9761,4 @@
 2026-05-05T22:02:52.401Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish null check
 2026-05-05T22:30:05.567Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up retry logic
 2026-05-05T23:29:41.832Z Bytedance Inc. <bytedance@users.noreply.github.com> :: add readme typo
+2026-05-06T00:21:40.062Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump edge case in auth
