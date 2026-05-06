@@ -19442,3 +19442,4 @@
 2026-05-05T20:02:52.548Z MAHADI HASAN AFRIDI <MAHADI-143@users.noreply.github.com> :: fix null check
 2026-05-05T23:37:16.134Z cytopia <cytopia@users.noreply.github.com> :: tweak edge case in auth
 2026-05-06T00:06:23.115Z 毒奶博主 <limbopro@users.noreply.github.com> :: tweak error handling
+2026-05-06T01:38:13.039Z Tavis Ormandy <taviso@users.noreply.github.com> :: wire up readme typo
