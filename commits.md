@@ -9789,3 +9789,4 @@
 2026-05-06T16:17:48.681Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up null check
 2026-05-06T18:05:51.071Z Taiko Foundation <info@taiko.xyz> :: update build script
 2026-05-06T18:21:32.893Z ㅤxander <vampirist@users.noreply.github.com> :: polish null check
+2026-05-06T18:31:47.590Z Claude <claude@users.noreply.github.com> :: refactor null check
