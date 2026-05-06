@@ -9771,3 +9771,4 @@
 2026-05-06T07:49:19.299Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix config defaults
 2026-05-06T08:21:10.739Z Ryan Bigg <radar@users.noreply.github.com> :: tweak the CI matrix
 2026-05-06T08:22:00.340Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the parser
+2026-05-06T08:43:00.383Z CTFs <ctfs@users.noreply.github.com> :: add null check
