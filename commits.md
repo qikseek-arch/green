@@ -19462,3 +19462,4 @@
 2026-05-06T22:03:38.937Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: clean up cache keys
 2026-05-06T22:07:35.110Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish logging
 2026-05-06T22:07:47.719Z Alex Teichman <teichman@users.noreply.github.com> :: update retry logic
+2026-05-06T23:35:59.225Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak readme typo
