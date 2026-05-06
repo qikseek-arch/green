@@ -9769,3 +9769,4 @@
 2026-05-06T05:52:51.761Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix cache keys
 2026-05-06T07:46:13.816Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up dependency versions
 2026-05-06T07:49:19.299Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix config defaults
+2026-05-06T08:21:10.739Z Ryan Bigg <radar@users.noreply.github.com> :: tweak the CI matrix
