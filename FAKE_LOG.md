@@ -782,3 +782,4 @@
 2026-05-01T20:16:07.950Z Donne Martin <donnemartin@users.noreply.github.com> :: fix retry logic
 2026-05-03T22:55:09.810Z Alp ₿📈🚀🌕 <IDouble@users.noreply.github.com> :: fix readme typo
 2026-05-05T03:59:59.981Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: fix logging
+2026-05-06T05:21:29.936Z Mu Li <mli@users.noreply.github.com> :: fix dead code
