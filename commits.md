@@ -19452,3 +19452,4 @@
 2026-05-06T12:35:58.445Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: polish build script
 2026-05-06T12:36:54.471Z Amnezia VPN <support@amnezia.org> :: remove flaky test
 2026-05-06T13:40:24.777Z Amnezia VPN <support@amnezia.org> :: remove error handling
+2026-05-06T13:40:38.975Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up null check
