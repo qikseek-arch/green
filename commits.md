@@ -9787,3 +9787,4 @@
 2026-05-06T14:46:06.072Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add edge case in auth
 2026-05-06T15:22:38.295Z Odi <mathdroid@users.noreply.github.com> :: update edge case in auth
 2026-05-06T16:17:48.681Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up null check
+2026-05-06T18:05:51.071Z Taiko Foundation <info@taiko.xyz> :: update build script
