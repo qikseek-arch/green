@@ -9763,3 +9763,4 @@
 2026-05-05T23:29:41.832Z Bytedance Inc. <bytedance@users.noreply.github.com> :: add readme typo
 2026-05-06T00:21:40.062Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump edge case in auth
 2026-05-06T00:30:58.259Z First Contributions <firstcontributions@gmail.com> :: remove config defaults
+2026-05-06T01:24:15.329Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish edge case in auth
