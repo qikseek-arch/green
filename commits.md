@@ -9768,3 +9768,4 @@
 2026-05-06T05:42:17.470Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak cache keys
 2026-05-06T05:52:51.761Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix cache keys
 2026-05-06T07:46:13.816Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up dependency versions
+2026-05-06T07:49:19.299Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix config defaults
