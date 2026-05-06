@@ -9777,3 +9777,4 @@
 2026-05-06T11:08:09.666Z CTFs <ctfs@users.noreply.github.com> :: polish flaky test
 2026-05-06T12:30:01.399Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update dependency versions
 2026-05-06T12:47:29.736Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add dead code
+2026-05-06T13:01:57.077Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up null check
