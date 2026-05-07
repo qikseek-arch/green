@@ -9818,3 +9818,4 @@
 2026-05-07T12:20:47.500Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump config defaults
 2026-05-07T16:07:23.526Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak edge case in auth
 2026-05-07T16:08:18.235Z Keith Smiley <keith@users.noreply.github.com> :: remove edge case in auth
+2026-05-07T16:13:15.810Z LILYGO <LilyGO@users.noreply.github.com> :: wire up error handling
