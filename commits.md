@@ -9797,3 +9797,4 @@
 2026-05-06T21:45:56.535Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump cache keys
 2026-05-06T22:18:07.319Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor config defaults
 2026-05-06T23:26:04.937Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
+2026-05-07T00:57:12.060Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up retry logic
