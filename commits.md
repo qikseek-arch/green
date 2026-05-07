@@ -9826,3 +9826,4 @@
 2026-05-07T20:38:05.841Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add dependency versions
 2026-05-07T22:15:41.382Z Odi <mathdroid@users.noreply.github.com> :: add edge case in auth
 2026-05-07T22:27:58.855Z Taiko Foundation <info@taiko.xyz> :: clean up dependency versions
+2026-05-07T23:27:50.399Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix dead code
