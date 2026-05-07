@@ -19482,3 +19482,4 @@
 2026-05-07T17:27:06.715Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove config defaults
 2026-05-07T17:50:55.214Z J.Baci <jbaci@users.noreply.github.com> :: refactor config defaults
 2026-05-07T18:52:09.860Z Tom Dale <tomdale@users.noreply.github.com> :: clean up config defaults
+2026-05-07T20:37:38.313Z winterbe <winterbe@users.noreply.github.com> :: remove cache keys
