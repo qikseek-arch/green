@@ -19480,3 +19480,4 @@
 2026-05-07T15:07:19.270Z Jordan Harband <ljharb@users.noreply.github.com> :: add dead code
 2026-05-07T16:25:33.579Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: tweak null check
 2026-05-07T17:27:06.715Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove config defaults
+2026-05-07T17:50:55.214Z J.Baci <jbaci@users.noreply.github.com> :: refactor config defaults
