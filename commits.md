@@ -9809,3 +9809,4 @@
 2026-05-07T05:26:38.526Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
 2026-05-07T06:09:33.290Z SouJunior <wouerner@soujunior.tech> :: update config defaults
 2026-05-07T07:03:21.839Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add the parser
+2026-05-07T07:56:25.438Z Claude <claude@users.noreply.github.com> :: refactor null check
