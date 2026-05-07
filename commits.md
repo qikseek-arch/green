@@ -9801,3 +9801,4 @@
 2026-05-07T02:00:19.668Z Duy Tran <khanhduytran0@users.noreply.github.com> :: refactor readme typo
 2026-05-07T02:30:23.838Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
 2026-05-07T02:45:29.078Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak the parser
+2026-05-07T02:48:36.390Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up edge case in auth
