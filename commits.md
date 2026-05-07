@@ -9822,3 +9822,4 @@
 2026-05-07T16:14:56.678Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix edge case in auth
 2026-05-07T17:54:05.728Z David Fowler <davidfowl@users.noreply.github.com> :: bump retry logic
 2026-05-07T17:58:33.342Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish config defaults
+2026-05-07T19:40:04.286Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump config defaults
