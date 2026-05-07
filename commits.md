@@ -9807,3 +9807,4 @@
 2026-05-07T04:13:19.965Z Roger Labbe <rlabbe@users.noreply.github.com> :: add retry logic
 2026-05-07T05:06:22.791Z Rei <chloerei@users.noreply.github.com> :: bump the parser
 2026-05-07T05:26:38.526Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
+2026-05-07T06:09:33.290Z SouJunior <wouerner@soujunior.tech> :: update config defaults
