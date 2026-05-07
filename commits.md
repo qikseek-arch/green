@@ -9827,3 +9827,4 @@
 2026-05-07T22:15:41.382Z Odi <mathdroid@users.noreply.github.com> :: add edge case in auth
 2026-05-07T22:27:58.855Z Taiko Foundation <info@taiko.xyz> :: clean up dependency versions
 2026-05-07T23:27:50.399Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix dead code
+2026-05-07T23:31:11.328Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak config defaults
