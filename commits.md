@@ -19463,3 +19463,4 @@
 2026-05-06T22:07:35.110Z Moonshot AI <MoonshotAI@users.noreply.github.com> :: polish logging
 2026-05-06T22:07:47.719Z Alex Teichman <teichman@users.noreply.github.com> :: update retry logic
 2026-05-06T23:35:59.225Z Islem Maboud <ipenywis@users.noreply.github.com> :: tweak readme typo
+2026-05-07T00:03:53.337Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add retry logic
