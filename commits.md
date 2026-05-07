@@ -19469,3 +19469,4 @@
 2026-05-07T04:01:23.612Z Xingang Pan <XingangPan@users.noreply.github.com> :: refactor retry logic
 2026-05-07T04:44:08.907Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: fix edge case in auth
 2026-05-07T05:04:45.539Z Jordan Harband <ljharb@users.noreply.github.com> :: polish the parser
+2026-05-07T05:11:07.373Z Mirrors of opendev.org/openstack <openstack-discuss@lists.openstack.org> :: wire up null check
