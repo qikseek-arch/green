@@ -9824,3 +9824,4 @@
 2026-05-07T17:58:33.342Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish config defaults
 2026-05-07T19:40:04.286Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump config defaults
 2026-05-07T20:38:05.841Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add dependency versions
+2026-05-07T22:15:41.382Z Odi <mathdroid@users.noreply.github.com> :: add edge case in auth
