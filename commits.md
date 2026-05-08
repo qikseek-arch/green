@@ -19508,3 +19508,4 @@
 2026-05-08T14:54:06.618Z Prometheus <prometheus@users.noreply.github.com> :: update flaky test
 2026-05-08T15:06:52.626Z Andreas Kling <awesomekling@users.noreply.github.com> :: update readme typo
 2026-05-08T15:07:17.795Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor the CI matrix
+2026-05-08T15:31:43.340Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up flaky test
