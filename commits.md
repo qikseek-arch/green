@@ -9850,3 +9850,4 @@
 2026-05-08T20:13:02.630Z LILYGO <LilyGO@users.noreply.github.com> :: clean up the parser
 2026-05-08T21:04:47.360Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove error handling
 2026-05-08T21:08:41.753Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up readme typo
+2026-05-08T21:29:06.248Z First Contributions <firstcontributions@gmail.com> :: bump null check
