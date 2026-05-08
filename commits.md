@@ -9846,3 +9846,4 @@
 2026-05-08T18:53:41.739Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up edge case in auth
 2026-05-08T18:56:11.041Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak flaky test
 2026-05-08T20:04:19.930Z md-5 <md-5@users.noreply.github.com> :: clean up config defaults
+2026-05-08T20:12:49.859Z Arduino <arduino@users.noreply.github.com> :: tweak logging
