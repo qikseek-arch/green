@@ -19507,3 +19507,4 @@
 2026-05-08T14:48:42.587Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: add logging
 2026-05-08T14:54:06.618Z Prometheus <prometheus@users.noreply.github.com> :: update flaky test
 2026-05-08T15:06:52.626Z Andreas Kling <awesomekling@users.noreply.github.com> :: update readme typo
+2026-05-08T15:07:17.795Z Petar Veličković <PetarV-@users.noreply.github.com> :: refactor the CI matrix
