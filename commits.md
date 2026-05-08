@@ -9843,3 +9843,4 @@
 2026-05-08T15:57:01.840Z vb <Vaibhavs10@users.noreply.github.com> :: remove error handling
 2026-05-08T18:00:41.100Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up the CI matrix
 2026-05-08T18:21:28.359Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the CI matrix
+2026-05-08T18:53:41.739Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up edge case in auth
