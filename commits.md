@@ -9844,3 +9844,4 @@
 2026-05-08T18:00:41.100Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up the CI matrix
 2026-05-08T18:21:28.359Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the CI matrix
 2026-05-08T18:53:41.739Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up edge case in auth
+2026-05-08T18:56:11.041Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak flaky test
