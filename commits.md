@@ -19511,3 +19511,4 @@
 2026-05-08T15:31:43.340Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: wire up flaky test
 2026-05-08T16:24:26.928Z winterbe <winterbe@users.noreply.github.com> :: remove the CI matrix
 2026-05-08T16:41:20.297Z Dove Letter <skydoves2@gmail.com> :: update logging
+2026-05-08T18:01:17.206Z Tom Dale <tomdale@users.noreply.github.com> :: bump error handling
