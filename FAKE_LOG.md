@@ -783,3 +783,4 @@
 2026-05-03T22:55:09.810Z Alp ₿📈🚀🌕 <IDouble@users.noreply.github.com> :: fix readme typo
 2026-05-05T03:59:59.981Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: fix logging
 2026-05-06T05:21:29.936Z Mu Li <mli@users.noreply.github.com> :: fix dead code
+2026-05-08T05:10:53.784Z Ryan Dahl <ry@users.noreply.github.com> :: tweak config defaults
