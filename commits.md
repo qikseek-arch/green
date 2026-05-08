@@ -19520,3 +19520,4 @@
 2026-05-08T21:36:25.446Z Amie Lynn <stoked-zz@users.noreply.github.com> :: update edge case in auth
 2026-05-08T21:57:44.103Z Mr L <Soldy@users.noreply.github.com> :: refactor config defaults
 2026-05-08T22:09:23.828Z Asif Taj <axiftaj@users.noreply.github.com> :: add dead code
+2026-05-08T22:57:21.678Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up logging
