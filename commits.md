@@ -19492,3 +19492,4 @@
 2026-05-08T03:12:51.227Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
 2026-05-08T03:36:16.870Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up dependency versions
 2026-05-08T04:41:21.301Z OpenBMB <openbmb@gmail.com> :: fix dead code
+2026-05-08T05:33:07.227Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump the parser
