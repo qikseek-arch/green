@@ -9836,3 +9836,4 @@
 2026-05-08T12:39:30.836Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump cache keys
 2026-05-08T13:06:12.735Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the CI matrix
 2026-05-08T13:07:55.118Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish the CI matrix
+2026-05-08T13:21:59.246Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
