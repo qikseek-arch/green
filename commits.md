@@ -19495,3 +19495,4 @@
 2026-05-08T05:33:07.227Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump the parser
 2026-05-08T05:52:05.708Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor error handling
 2026-05-08T05:56:55.057Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: wire up null check
+2026-05-08T06:25:39.587Z winterbe <winterbe@users.noreply.github.com> :: fix retry logic
