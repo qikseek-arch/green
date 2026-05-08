@@ -19490,3 +19490,4 @@
 2026-05-08T01:04:05.814Z Odi <mathdroid@users.noreply.github.com> :: tweak retry logic
 2026-05-08T02:43:12.640Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor config defaults
 2026-05-08T03:12:51.227Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
+2026-05-08T03:36:16.870Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up dependency versions
