@@ -19503,3 +19503,4 @@
 2026-05-08T10:29:58.596Z Jordan Harband <ljharb@users.noreply.github.com> :: add error handling
 2026-05-08T11:10:53.877Z OpenBMB <openbmb@gmail.com> :: wire up retry logic
 2026-05-08T11:33:05.239Z winterbe <winterbe@users.noreply.github.com> :: tweak readme typo
+2026-05-08T12:26:45.305Z Collabnix <collabnix@users.noreply.github.com> :: tweak logging
