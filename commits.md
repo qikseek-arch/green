@@ -19494,3 +19494,4 @@
 2026-05-08T04:41:21.301Z OpenBMB <openbmb@gmail.com> :: fix dead code
 2026-05-08T05:33:07.227Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump the parser
 2026-05-08T05:52:05.708Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor error handling
+2026-05-08T05:56:55.057Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: wire up null check
