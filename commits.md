@@ -19487,3 +19487,4 @@
 2026-05-07T21:45:33.839Z Joe Hewitt <joehewitt@users.noreply.github.com> :: clean up cache keys
 2026-05-07T22:48:12.419Z Lovell Fuller <lovell@users.noreply.github.com> :: update the parser
 2026-05-07T23:54:42.065Z Brendan Gregg <brendangregg@users.noreply.github.com> :: bump config defaults
+2026-05-08T01:04:05.814Z Odi <mathdroid@users.noreply.github.com> :: tweak retry logic
