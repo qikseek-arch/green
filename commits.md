@@ -19498,3 +19498,4 @@
 2026-05-08T06:25:39.587Z winterbe <winterbe@users.noreply.github.com> :: fix retry logic
 2026-05-08T07:18:18.215Z Asif Taj <axiftaj@users.noreply.github.com> :: add dead code
 2026-05-08T08:34:47.262Z imput <hello@imput.net> :: remove dependency versions
+2026-05-08T08:48:38.925Z Michael Jackson <mjackson@users.noreply.github.com> :: fix build script
