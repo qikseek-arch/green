@@ -9829,3 +9829,4 @@
 2026-05-07T23:27:50.399Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix dead code
 2026-05-07T23:31:11.328Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak config defaults
 2026-05-08T08:52:25.480Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add flaky test
+2026-05-08T09:08:06.392Z AI4Bhārat <opensource@ai4bharat.org> :: fix config defaults
