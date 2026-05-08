@@ -9830,3 +9830,4 @@
 2026-05-07T23:31:11.328Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak config defaults
 2026-05-08T08:52:25.480Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add flaky test
 2026-05-08T09:08:06.392Z AI4Bhārat <opensource@ai4bharat.org> :: fix config defaults
+2026-05-08T09:49:09.301Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update dependency versions
