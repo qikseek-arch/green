@@ -9848,3 +9848,4 @@
 2026-05-08T20:04:19.930Z md-5 <md-5@users.noreply.github.com> :: clean up config defaults
 2026-05-08T20:12:49.859Z Arduino <arduino@users.noreply.github.com> :: tweak logging
 2026-05-08T20:13:02.630Z LILYGO <LilyGO@users.noreply.github.com> :: clean up the parser
+2026-05-08T21:04:47.360Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove error handling
