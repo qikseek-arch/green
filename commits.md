@@ -9838,3 +9838,4 @@
 2026-05-08T13:07:55.118Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish the CI matrix
 2026-05-08T13:21:59.246Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
 2026-05-08T14:36:43.205Z Bytedance Inc. <bytedance@users.noreply.github.com> :: remove null check
+2026-05-08T14:39:28.838Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up null check
