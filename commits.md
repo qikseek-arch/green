@@ -19493,3 +19493,4 @@
 2026-05-08T03:36:16.870Z Damian Gryski <dgryski@users.noreply.github.com> :: clean up dependency versions
 2026-05-08T04:41:21.301Z OpenBMB <openbmb@gmail.com> :: fix dead code
 2026-05-08T05:33:07.227Z Cezanne Camacho <cezannec@users.noreply.github.com> :: bump the parser
+2026-05-08T05:52:05.708Z Joe Hewitt <joehewitt@users.noreply.github.com> :: refactor error handling
