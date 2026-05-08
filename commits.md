@@ -19489,3 +19489,4 @@
 2026-05-07T23:54:42.065Z Brendan Gregg <brendangregg@users.noreply.github.com> :: bump config defaults
 2026-05-08T01:04:05.814Z Odi <mathdroid@users.noreply.github.com> :: tweak retry logic
 2026-05-08T02:43:12.640Z Amie Lynn <stoked-zz@users.noreply.github.com> :: refactor config defaults
+2026-05-08T03:12:51.227Z Jordan Harband <ljharb@users.noreply.github.com> :: polish error handling
