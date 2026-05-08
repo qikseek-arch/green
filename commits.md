@@ -9834,3 +9834,4 @@
 2026-05-08T11:57:17.639Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix edge case in auth
 2026-05-08T12:26:10.684Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: refactor flaky test
 2026-05-08T12:39:30.836Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump cache keys
+2026-05-08T13:06:12.735Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the CI matrix
