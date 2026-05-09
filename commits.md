@@ -9860,3 +9860,4 @@
 2026-05-09T10:33:35.589Z Keith Smiley <keith@users.noreply.github.com> :: tweak error handling
 2026-05-09T11:03:04.750Z CTFs <ctfs@users.noreply.github.com> :: refactor the parser
 2026-05-09T11:19:12.560Z First Contributions <firstcontributions@gmail.com> :: bump dependency versions
+2026-05-09T12:05:57.905Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove logging
