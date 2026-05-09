@@ -9855,3 +9855,4 @@
 2026-05-09T02:14:31.625Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up retry logic
 2026-05-09T03:50:17.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add error handling
 2026-05-09T04:38:22.029Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up null check
+2026-05-09T06:15:40.808Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add the parser
