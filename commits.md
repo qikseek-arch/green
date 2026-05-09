@@ -19546,3 +19546,4 @@
 2026-05-09T18:44:49.033Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump config defaults
 2026-05-09T19:55:00.224Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up edge case in auth
 2026-05-09T20:07:38.432Z John Schulman <joschu@users.noreply.github.com> :: add cache keys
+2026-05-09T20:55:43.974Z Amnezia VPN <support@amnezia.org> :: update the CI matrix
