@@ -19533,3 +19533,4 @@
 2026-05-09T07:38:41.888Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: tweak edge case in auth
 2026-05-09T08:05:58.743Z Elliott Minns <elliottminns@users.noreply.github.com> :: wire up error handling
 2026-05-09T09:10:55.943Z OpenBSD <openbsd@users.noreply.github.com> :: remove readme typo
+2026-05-09T10:45:15.480Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up readme typo
