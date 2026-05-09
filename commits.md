@@ -9853,3 +9853,4 @@
 2026-05-08T21:29:06.248Z First Contributions <firstcontributions@gmail.com> :: bump null check
 2026-05-09T02:05:32.822Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak config defaults
 2026-05-09T02:14:31.625Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up retry logic
+2026-05-09T03:50:17.486Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add error handling
