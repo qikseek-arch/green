@@ -9867,3 +9867,4 @@
 2026-05-09T16:42:07.799Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the CI matrix
 2026-05-09T18:09:55.066Z David Fowler <davidfowl@users.noreply.github.com> :: fix edge case in auth
 2026-05-09T18:50:01.579Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up the CI matrix
+2026-05-09T21:09:23.766Z ring04h <ring04h@users.noreply.github.com> :: add dependency versions
