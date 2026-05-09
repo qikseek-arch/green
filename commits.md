@@ -19525,3 +19525,4 @@
 2026-05-09T00:11:10.597Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump readme typo
 2026-05-09T00:38:42.811Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor the CI matrix
 2026-05-09T00:38:48.267Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix config defaults
+2026-05-09T01:56:31.798Z OpenBSD <openbsd@users.noreply.github.com> :: bump edge case in auth
