@@ -9865,3 +9865,4 @@
 2026-05-09T13:27:09.344Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up dead code
 2026-05-09T13:49:50.087Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add edge case in auth
 2026-05-09T16:42:07.799Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the CI matrix
+2026-05-09T18:09:55.066Z David Fowler <davidfowl@users.noreply.github.com> :: fix edge case in auth
