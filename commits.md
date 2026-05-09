@@ -19524,3 +19524,4 @@
 2026-05-09T00:07:41.353Z cytopia <cytopia@users.noreply.github.com> :: tweak logging
 2026-05-09T00:11:10.597Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: bump readme typo
 2026-05-09T00:38:42.811Z Cezanne Camacho <cezannec@users.noreply.github.com> :: refactor the CI matrix
+2026-05-09T00:38:48.267Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: fix config defaults
