@@ -19535,3 +19535,4 @@
 2026-05-09T09:10:55.943Z OpenBSD <openbsd@users.noreply.github.com> :: remove readme typo
 2026-05-09T10:45:15.480Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: clean up readme typo
 2026-05-09T11:01:39.589Z 千古壹号 <qianguyihao@users.noreply.github.com> :: bump config defaults
+2026-05-09T11:34:12.443Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak retry logic
