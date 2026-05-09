@@ -19544,3 +19544,4 @@
 2026-05-09T17:30:56.801Z Hüseyin BABAL <huseyinbabal@users.noreply.github.com> :: remove logging
 2026-05-09T17:33:25.268Z Sergey P. <ThirteenAG@users.noreply.github.com> :: update retry logic
 2026-05-09T18:44:49.033Z Xingang Pan <XingangPan@users.noreply.github.com> :: bump config defaults
+2026-05-09T19:55:00.224Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: wire up edge case in auth
