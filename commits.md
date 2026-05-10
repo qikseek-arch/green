@@ -19549,3 +19549,4 @@
 2026-05-09T20:55:43.974Z Amnezia VPN <support@amnezia.org> :: update the CI matrix
 2026-05-09T21:58:46.506Z Tom Dale <tomdale@users.noreply.github.com> :: bump edge case in auth
 2026-05-10T00:11:45.250Z Alex Teichman <teichman@users.noreply.github.com> :: refactor dead code
+2026-05-10T00:29:01.502Z Elliott Minns <elliottminns@users.noreply.github.com> :: remove config defaults
