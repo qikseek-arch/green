@@ -9881,3 +9881,4 @@
 2026-05-10T07:06:03.843Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor cache keys
 2026-05-10T07:54:38.926Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the parser
 2026-05-10T08:14:15.517Z Manu Arora <manuarora700@users.noreply.github.com> :: polish dependency versions
+2026-05-10T08:20:29.611Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up build script
