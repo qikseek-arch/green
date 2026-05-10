@@ -9884,3 +9884,4 @@
 2026-05-10T08:20:29.611Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up build script
 2026-05-10T09:42:18.744Z Martin Grenfell <scrooloose@users.noreply.github.com> :: add cache keys
 2026-05-10T10:11:34.041Z ring04h <ring04h@users.noreply.github.com> :: clean up null check
+2026-05-10T10:38:03.855Z markqvist <markqvist@users.noreply.github.com> :: update edge case in auth
