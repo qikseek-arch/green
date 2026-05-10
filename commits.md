@@ -19550,3 +19550,4 @@
 2026-05-09T21:58:46.506Z Tom Dale <tomdale@users.noreply.github.com> :: bump edge case in auth
 2026-05-10T00:11:45.250Z Alex Teichman <teichman@users.noreply.github.com> :: refactor dead code
 2026-05-10T00:29:01.502Z Elliott Minns <elliottminns@users.noreply.github.com> :: remove config defaults
+2026-05-10T01:10:47.691Z Morvan <MorvanZhou@users.noreply.github.com> :: polish null check
