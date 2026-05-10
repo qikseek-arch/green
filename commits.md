@@ -9880,3 +9880,4 @@
 2026-05-10T07:00:56.836Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up build script
 2026-05-10T07:06:03.843Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor cache keys
 2026-05-10T07:54:38.926Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the parser
+2026-05-10T08:14:15.517Z Manu Arora <manuarora700@users.noreply.github.com> :: polish dependency versions
