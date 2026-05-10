@@ -9871,3 +9871,4 @@
 2026-05-09T21:31:54.276Z CTFs <ctfs@users.noreply.github.com> :: refactor the parser
 2026-05-09T21:54:01.677Z Bert Belder <piscisaureus@users.noreply.github.com> :: tweak null check
 2026-05-09T23:24:50.752Z Roger Labbe <rlabbe@users.noreply.github.com> :: add the CI matrix
+2026-05-10T02:15:59.835Z heyli <lcxfs1991@users.noreply.github.com> :: polish dependency versions
