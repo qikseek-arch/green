@@ -19563,3 +19563,4 @@
 2026-05-10T14:23:45.366Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak cache keys
 2026-05-10T16:25:21.086Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish error handling
 2026-05-10T17:38:40.771Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove build script
+2026-05-10T17:59:41.298Z Huang Haiguang <fengdu78@users.noreply.github.com> :: add dependency versions
