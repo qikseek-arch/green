@@ -19562,3 +19562,4 @@
 2026-05-10T13:59:16.510Z Scott Chacon <schacon@users.noreply.github.com> :: fix readme typo
 2026-05-10T14:23:45.366Z Rishabh Mishra <rishabhnmishra@users.noreply.github.com> :: tweak cache keys
 2026-05-10T16:25:21.086Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: polish error handling
+2026-05-10T17:38:40.771Z Steven Atkinson <sdatkinson@users.noreply.github.com> :: remove build script
