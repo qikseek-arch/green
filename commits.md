@@ -19569,3 +19569,4 @@
 2026-05-10T19:13:43.287Z Sergey P. <ThirteenAG@users.noreply.github.com> :: polish cache keys
 2026-05-10T20:09:52.897Z LMSYS <lm-sys@users.noreply.github.com> :: wire up error handling
 2026-05-10T20:10:36.780Z Muhammad Mujtaba <MuhammadMujtabaa@users.noreply.github.com> :: wire up dead code
+2026-05-10T21:05:50.377Z cytopia <cytopia@users.noreply.github.com> :: remove error handling
