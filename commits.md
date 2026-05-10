@@ -19552,3 +19552,4 @@
 2026-05-10T00:29:01.502Z Elliott Minns <elliottminns@users.noreply.github.com> :: remove config defaults
 2026-05-10T01:10:47.691Z Morvan <MorvanZhou@users.noreply.github.com> :: polish null check
 2026-05-10T01:41:00.741Z Muhammet Mert Polat <mmertpolat@users.noreply.github.com> :: wire up null check
+2026-05-10T02:01:04.566Z Amnezia VPN <support@amnezia.org> :: remove retry logic
