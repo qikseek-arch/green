@@ -9919,3 +9919,4 @@
 2026-05-11T13:30:51.667Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix the CI matrix
 2026-05-11T13:39:42.809Z Ryan Bigg <radar@users.noreply.github.com> :: add retry logic
 2026-05-11T13:47:04.291Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix config defaults
+2026-05-11T14:54:19.322Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish null check
