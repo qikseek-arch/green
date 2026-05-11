@@ -9903,3 +9903,4 @@
 2026-05-11T01:27:18.533Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up dependency versions
 2026-05-11T02:36:30.568Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up logging
 2026-05-11T04:27:19.192Z ㅤxander <vampirist@users.noreply.github.com> :: bump retry logic
+2026-05-11T04:40:20.428Z Adam Łucek <ALucek@users.noreply.github.com> :: polish build script
