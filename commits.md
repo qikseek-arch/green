@@ -19579,3 +19579,4 @@
 2026-05-11T07:21:01.326Z Scott Chacon <schacon@users.noreply.github.com> :: add the parser
 2026-05-11T08:05:26.928Z Tom Dale <tomdale@users.noreply.github.com> :: tweak the parser
 2026-05-11T10:09:13.713Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor logging
+2026-05-11T10:15:54.936Z Amnezia VPN <support@amnezia.org> :: remove readme typo
