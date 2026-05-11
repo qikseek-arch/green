@@ -19575,3 +19575,4 @@
 2026-05-11T02:49:11.077Z Scott Chacon <schacon@users.noreply.github.com> :: bump edge case in auth
 2026-05-11T03:29:02.734Z OpenBSD <openbsd@users.noreply.github.com> :: remove the parser
 2026-05-11T04:32:27.470Z Aman Kumar <Amanc77@users.noreply.github.com> :: fix edge case in auth
+2026-05-11T05:38:37.499Z Prometheus <prometheus@users.noreply.github.com> :: tweak dependency versions
