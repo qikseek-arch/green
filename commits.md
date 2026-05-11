@@ -9931,3 +9931,4 @@
 2026-05-11T19:08:32.633Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add config defaults
 2026-05-11T19:13:05.101Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove cache keys
 2026-05-11T20:15:14.964Z Manu Arora <manuarora700@users.noreply.github.com> :: add readme typo
+2026-05-11T21:33:21.071Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up edge case in auth
