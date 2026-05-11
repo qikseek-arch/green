@@ -19581,3 +19581,4 @@
 2026-05-11T10:09:13.713Z Jesse Duffield <jesseduffield@users.noreply.github.com> :: refactor logging
 2026-05-11T10:15:54.936Z Amnezia VPN <support@amnezia.org> :: remove readme typo
 2026-05-11T11:15:12.876Z Joel Yliluoma <bisqwit@users.noreply.github.com> :: bump dependency versions
+2026-05-11T12:32:06.655Z Cezanne Camacho <cezannec@users.noreply.github.com> :: add cache keys
