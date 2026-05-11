@@ -19586,3 +19586,4 @@
 2026-05-11T15:48:18.086Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: wire up config defaults
 2026-05-11T17:42:46.267Z John Schulman <joschu@users.noreply.github.com> :: clean up dead code
 2026-05-11T17:59:52.370Z Collabnix <collabnix@users.noreply.github.com> :: remove edge case in auth
+2026-05-11T18:03:51.386Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: polish dead code
