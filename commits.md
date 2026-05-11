@@ -9900,3 +9900,4 @@
 2026-05-10T20:33:10.371Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update readme typo
 2026-05-11T00:54:58.891Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump flaky test
 2026-05-11T01:10:25.976Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
+2026-05-11T01:27:18.533Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up dependency versions
