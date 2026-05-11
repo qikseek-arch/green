@@ -9911,3 +9911,4 @@
 2026-05-11T06:48:16.547Z Claude <claude@users.noreply.github.com> :: remove logging
 2026-05-11T08:33:09.846Z heyli <lcxfs1991@users.noreply.github.com> :: fix edge case in auth
 2026-05-11T09:16:10.571Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up the CI matrix
+2026-05-11T11:11:34.263Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up cache keys
