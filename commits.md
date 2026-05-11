@@ -9930,3 +9930,4 @@
 2026-05-11T19:08:10.426Z markqvist <markqvist@users.noreply.github.com> :: refactor dependency versions
 2026-05-11T19:08:32.633Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add config defaults
 2026-05-11T19:13:05.101Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove cache keys
+2026-05-11T20:15:14.964Z Manu Arora <manuarora700@users.noreply.github.com> :: add readme typo
