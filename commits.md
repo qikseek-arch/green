@@ -649,3 +649,4 @@
 2026-05-10T17:08:52.395Z Alae-Eddine <alaesic@users.noreply.github.com> :: tweak dependency versions
 2026-05-10T21:14:23.905Z Ovilia <Ovilia@users.noreply.github.com> :: tweak cache keys
 2026-05-10T23:20:17.279Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: tweak logging
+2026-05-11T18:19:00.841Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak config defaults
