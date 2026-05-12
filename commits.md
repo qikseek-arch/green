@@ -19600,3 +19600,4 @@
 2026-05-12T05:05:27.565Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the CI matrix
 2026-05-12T05:12:54.458Z Lovell Fuller <lovell@users.noreply.github.com> :: update logging
 2026-05-12T05:40:03.938Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
+2026-05-12T05:58:06.089Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
