@@ -19622,3 +19622,4 @@
 2026-05-12T22:58:30.189Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove config defaults
 2026-05-12T23:04:26.591Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add error handling
 2026-05-12T23:23:48.071Z Dmitrii Kovanikov <chshersh@users.noreply.github.com> :: update readme typo
+2026-05-12T23:28:32.445Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up config defaults
