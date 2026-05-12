@@ -19619,3 +19619,4 @@
 2026-05-12T21:05:43.756Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak config defaults
 2026-05-12T21:28:21.750Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak config defaults
 2026-05-12T22:13:58.715Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak flaky test
+2026-05-12T22:58:30.189Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove config defaults
