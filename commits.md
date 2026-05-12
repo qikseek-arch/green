@@ -19604,3 +19604,4 @@
 2026-05-12T07:29:28.192Z Prometheus <prometheus@users.noreply.github.com> :: refactor config defaults
 2026-05-12T10:07:30.260Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor cache keys
 2026-05-12T11:38:32.862Z cytopia <cytopia@users.noreply.github.com> :: bump dependency versions
+2026-05-12T13:38:46.494Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor build script
