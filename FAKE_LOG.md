@@ -461,3 +461,4 @@
 2026-05-02T02:40:42.407Z Bram Cohen <bram.cohen@fake.invalid> :: wire up dependency versions
 2026-05-05T23:03:28.860Z vivid-packet <vivid-packet@fake.invalid> :: fix flaky test
 2026-05-06T19:55:58.105Z quantum-wizardxx <quantum-wizardxx@fake.invalid> :: bump dead code
+2026-05-12T06:23:50.667Z NeonHamster <neonhamster@fake.invalid> :: refactor the parser
