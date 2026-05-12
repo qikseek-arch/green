@@ -19598,3 +19598,4 @@
 2026-05-12T02:05:26.945Z Prometheus <prometheus@users.noreply.github.com> :: add dead code
 2026-05-12T02:34:26.712Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak the CI matrix
 2026-05-12T05:05:27.565Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the CI matrix
+2026-05-12T05:12:54.458Z Lovell Fuller <lovell@users.noreply.github.com> :: update logging
