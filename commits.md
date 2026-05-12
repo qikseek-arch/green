@@ -19605,3 +19605,4 @@
 2026-05-12T10:07:30.260Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: refactor cache keys
 2026-05-12T11:38:32.862Z cytopia <cytopia@users.noreply.github.com> :: bump dependency versions
 2026-05-12T13:38:46.494Z Damian Gryski <dgryski@users.noreply.github.com> :: refactor build script
+2026-05-12T14:10:12.706Z Petar Veličković <PetarV-@users.noreply.github.com> :: add the parser
