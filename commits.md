@@ -9944,3 +9944,4 @@
 2026-05-12T10:07:51.559Z Adam Bell <b3ll@users.noreply.github.com> :: bump retry logic
 2026-05-12T10:38:08.551Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add config defaults
 2026-05-12T11:27:08.556Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: add readme typo
+2026-05-12T13:00:38.991Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor cache keys
