@@ -650,3 +650,4 @@
 2026-05-10T21:14:23.905Z Ovilia <Ovilia@users.noreply.github.com> :: tweak cache keys
 2026-05-10T23:20:17.279Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: tweak logging
 2026-05-11T18:19:00.841Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak config defaults
+2026-05-12T15:11:32.082Z Avik Jain <Avik-Jain@users.noreply.github.com> :: add the CI matrix
