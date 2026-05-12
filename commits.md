@@ -19614,3 +19614,4 @@
 2026-05-12T17:18:14.708Z OpenMEDLab <openmedlab@pjlab.org.cn> :: add build script
 2026-05-12T17:55:28.795Z winterbe <winterbe@users.noreply.github.com> :: add dependency versions
 2026-05-12T18:08:41.210Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor logging
+2026-05-12T18:18:22.405Z DefTruth <DefTruth@users.noreply.github.com> :: polish readme typo
