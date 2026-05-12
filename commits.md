@@ -19601,3 +19601,4 @@
 2026-05-12T05:12:54.458Z Lovell Fuller <lovell@users.noreply.github.com> :: update logging
 2026-05-12T05:40:03.938Z Michael Jackson <mjackson@users.noreply.github.com> :: bump edge case in auth
 2026-05-12T05:58:06.089Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
+2026-05-12T07:29:28.192Z Prometheus <prometheus@users.noreply.github.com> :: refactor config defaults
