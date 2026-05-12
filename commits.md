@@ -19620,3 +19620,4 @@
 2026-05-12T21:28:21.750Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak config defaults
 2026-05-12T22:13:58.715Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: tweak flaky test
 2026-05-12T22:58:30.189Z TON - The Open Network <ton-blockchain@users.noreply.github.com> :: remove config defaults
+2026-05-12T23:04:26.591Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: add error handling
