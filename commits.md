@@ -19617,3 +19617,4 @@
 2026-05-12T18:18:22.405Z DefTruth <DefTruth@users.noreply.github.com> :: polish readme typo
 2026-05-12T19:07:56.730Z in28minutes <in28minutes@users.noreply.github.com> :: polish null check
 2026-05-12T21:05:43.756Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: tweak config defaults
+2026-05-12T21:28:21.750Z Lovell Fuller <lovell@users.noreply.github.com> :: tweak config defaults
