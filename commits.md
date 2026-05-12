@@ -9938,3 +9938,4 @@
 2026-05-12T03:12:59.310Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: wire up readme typo
 2026-05-12T05:33:11.535Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up cache keys
 2026-05-12T05:58:37.821Z Ryan Bigg <radar@users.noreply.github.com> :: bump the CI matrix
+2026-05-12T07:00:09.260Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak edge case in auth
