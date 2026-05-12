@@ -19596,3 +19596,4 @@
 2026-05-12T00:58:04.504Z Anuj Kumar Sharma <Anuj-Kumar-Sharma@users.noreply.github.com> :: clean up error handling
 2026-05-12T01:49:29.000Z LocalSend <localsend@users.noreply.github.com> :: tweak readme typo
 2026-05-12T02:05:26.945Z Prometheus <prometheus@users.noreply.github.com> :: add dead code
+2026-05-12T02:34:26.712Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak the CI matrix
