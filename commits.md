@@ -9937,3 +9937,4 @@
 2026-05-12T03:09:42.262Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update edge case in auth
 2026-05-12T03:12:59.310Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: wire up readme typo
 2026-05-12T05:33:11.535Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up cache keys
+2026-05-12T05:58:37.821Z Ryan Bigg <radar@users.noreply.github.com> :: bump the CI matrix
