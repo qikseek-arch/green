@@ -9949,3 +9949,4 @@
 2026-05-12T14:53:01.696Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update dead code
 2026-05-12T15:21:59.907Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove error handling
 2026-05-12T18:03:41.412Z ㅤxander <vampirist@users.noreply.github.com> :: polish flaky test
+2026-05-12T19:22:20.154Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add edge case in auth
