@@ -9940,3 +9940,4 @@
 2026-05-12T05:58:37.821Z Ryan Bigg <radar@users.noreply.github.com> :: bump the CI matrix
 2026-05-12T07:00:09.260Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak edge case in auth
 2026-05-12T08:38:52.962Z md-5 <md-5@users.noreply.github.com> :: fix logging
+2026-05-12T09:05:42.898Z Adam Łucek <ALucek@users.noreply.github.com> :: remove build script
