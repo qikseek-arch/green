@@ -9978,3 +9978,4 @@
 2026-05-13T15:24:29.404Z Daniel Eden <daneden@users.noreply.github.com> :: remove the CI matrix
 2026-05-13T17:12:54.787Z SouJunior <wouerner@soujunior.tech> :: fix config defaults
 2026-05-13T17:45:04.265Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump dependency versions
+2026-05-13T17:59:48.723Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up build script
