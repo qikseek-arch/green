@@ -19634,3 +19634,4 @@
 2026-05-13T11:17:15.081Z Yiming Cui <ymcui@users.noreply.github.com> :: fix readme typo
 2026-05-13T11:33:50.526Z Asif Taj <axiftaj@users.noreply.github.com> :: remove cache keys
 2026-05-13T12:32:26.754Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove retry logic
+2026-05-13T13:44:26.302Z BAPPY AHMED <entbappy@users.noreply.github.com> :: clean up edge case in auth
