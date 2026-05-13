@@ -9972,3 +9972,4 @@
 2026-05-13T11:30:38.923Z CTFs <ctfs@users.noreply.github.com> :: refactor dependency versions
 2026-05-13T12:25:05.160Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up error handling
 2026-05-13T12:32:39.078Z Keith Smiley <keith@users.noreply.github.com> :: polish edge case in auth
+2026-05-13T13:19:16.465Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
