@@ -9965,3 +9965,4 @@
 2026-05-13T07:28:21.733Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove dependency versions
 2026-05-13T08:04:27.763Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up build script
 2026-05-13T09:37:48.949Z LILYGO <LilyGO@users.noreply.github.com> :: polish null check
+2026-05-13T09:58:58.489Z Odi <mathdroid@users.noreply.github.com> :: polish the CI matrix
