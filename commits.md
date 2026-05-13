@@ -19636,3 +19636,4 @@
 2026-05-13T12:32:26.754Z Petar Veličković <PetarV-@users.noreply.github.com> :: remove retry logic
 2026-05-13T13:44:26.302Z BAPPY AHMED <entbappy@users.noreply.github.com> :: clean up edge case in auth
 2026-05-13T14:00:17.206Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
+2026-05-13T14:12:41.855Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update dependency versions
