@@ -9954,3 +9954,4 @@
 2026-05-12T19:48:11.231Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up config defaults
 2026-05-12T19:59:40.956Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up the parser
 2026-05-12T22:31:50.314Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
+2026-05-13T00:50:09.411Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
