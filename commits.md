@@ -9974,3 +9974,4 @@
 2026-05-13T12:32:39.078Z Keith Smiley <keith@users.noreply.github.com> :: polish edge case in auth
 2026-05-13T13:19:16.465Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
 2026-05-13T13:44:57.827Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor build script
+2026-05-13T13:50:01.164Z Almas Baim <AlmasB@users.noreply.github.com> :: add cache keys
