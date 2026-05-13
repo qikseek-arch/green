@@ -463,3 +463,4 @@
 2026-05-06T19:55:58.105Z quantum-wizardxx <quantum-wizardxx@fake.invalid> :: bump dead code
 2026-05-12T06:23:50.667Z NeonHamster <neonhamster@fake.invalid> :: refactor the parser
 2026-05-12T14:05:27.724Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: fix flaky test
+2026-05-13T17:14:11.954Z Hadley Wickham <hadley@users.noreply.github.com> :: clean up readme typo
