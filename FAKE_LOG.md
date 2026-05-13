@@ -555,3 +555,4 @@
 2026-04-21T20:15:49.981Z Hugging Face <huggingface@users.noreply.github.com> :: update dependency versions
 2026-04-28T16:18:03.159Z David J. Malan <dmalan@users.noreply.github.com> :: wire up dependency versions
 2026-05-04T07:44:21.516Z Iris Series 鸢尾花书 <Visualize-ML@users.noreply.github.com> :: remove build script
+2026-05-13T13:52:51.545Z Mu Li <mli@users.noreply.github.com> :: remove the CI matrix
