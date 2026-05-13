@@ -9955,3 +9955,4 @@
 2026-05-12T19:59:40.956Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up the parser
 2026-05-12T22:31:50.314Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
 2026-05-13T00:50:09.411Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
+2026-05-13T01:01:55.403Z heyli <lcxfs1991@users.noreply.github.com> :: fix dependency versions
