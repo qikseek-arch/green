@@ -19644,3 +19644,4 @@
 2026-05-13T21:04:01.894Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the parser
 2026-05-13T21:09:02.283Z Jordan Harband <ljharb@users.noreply.github.com> :: polish edge case in auth
 2026-05-13T21:15:36.233Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: bump logging
+2026-05-13T22:43:24.907Z Lovell Fuller <lovell@users.noreply.github.com> :: bump the CI matrix
