@@ -19625,3 +19625,4 @@
 2026-05-12T23:28:32.445Z Michal J A Paszkiewicz <MichalPaszkiewicz@users.noreply.github.com> :: clean up config defaults
 2026-05-13T02:21:23.528Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor build script
 2026-05-13T03:56:47.234Z Sai Subramanyam Upadhyayula <SaiUpadhyayula@users.noreply.github.com> :: wire up readme typo
+2026-05-13T05:00:23.411Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump the CI matrix
