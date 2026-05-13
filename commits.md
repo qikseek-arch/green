@@ -9988,3 +9988,4 @@
 2026-05-13T21:31:43.971Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: wire up the parser
 2026-05-13T21:44:50.471Z Taiko Foundation <info@taiko.xyz> :: tweak dependency versions
 2026-05-13T22:20:10.776Z heyli <lcxfs1991@users.noreply.github.com> :: refactor null check
+2026-05-13T22:31:18.804Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix the parser
