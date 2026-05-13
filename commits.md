@@ -19642,3 +19642,4 @@
 2026-05-13T19:10:22.630Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dead code
 2026-05-13T20:45:22.641Z OpenBMB <openbmb@gmail.com> :: tweak the parser
 2026-05-13T21:04:01.894Z Nafiul Islam <nafiul-afk@users.noreply.github.com> :: polish the parser
+2026-05-13T21:09:02.283Z Jordan Harband <ljharb@users.noreply.github.com> :: polish edge case in auth
