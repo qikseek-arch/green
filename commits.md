@@ -653,3 +653,4 @@
 2026-05-12T15:11:32.082Z Avik Jain <Avik-Jain@users.noreply.github.com> :: add the CI matrix
 2026-05-12T20:05:11.411Z Ryubing <Ryubing@users.noreply.github.com> :: update retry logic
 2026-05-13T06:36:24.098Z 左程云 <algorithmzuo@users.noreply.github.com> :: fix dependency versions
+2026-05-13T17:28:54.440Z vn.py <vnpy@users.noreply.github.com> :: update retry logic
