@@ -9986,3 +9986,4 @@
 2026-05-13T20:23:38.217Z owenzhang <owenzhang@users.noreply.github.com> :: wire up flaky test
 2026-05-13T20:28:50.030Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up error handling
 2026-05-13T21:31:43.971Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: wire up the parser
+2026-05-13T21:44:50.471Z Taiko Foundation <info@taiko.xyz> :: tweak dependency versions
