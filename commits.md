@@ -19647,3 +19647,4 @@
 2026-05-13T22:43:24.907Z Lovell Fuller <lovell@users.noreply.github.com> :: bump the CI matrix
 2026-05-13T22:52:19.345Z Dove Letter <skydoves2@gmail.com> :: bump logging
 2026-05-13T23:24:30.156Z Odi <mathdroid@users.noreply.github.com> :: tweak config defaults
+2026-05-13T23:55:21.036Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump error handling
