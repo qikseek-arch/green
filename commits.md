@@ -19638,3 +19638,4 @@
 2026-05-13T14:00:17.206Z Robin Malfait <RobinMalfait@users.noreply.github.com> :: remove dead code
 2026-05-13T14:12:41.855Z Mafuj Shikder <MafujShikder@users.noreply.github.com> :: update dependency versions
 2026-05-13T16:48:28.871Z Dimitri Fontaine <dimitri@users.noreply.github.com> :: fix flaky test
+2026-05-13T19:04:00.146Z Joe Hewitt <joehewitt@users.noreply.github.com> :: update build script
