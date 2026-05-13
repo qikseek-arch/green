@@ -9957,3 +9957,4 @@
 2026-05-13T00:50:09.411Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish null check
 2026-05-13T01:01:55.403Z heyli <lcxfs1991@users.noreply.github.com> :: fix dependency versions
 2026-05-13T01:17:02.320Z Manu Arora <manuarora700@users.noreply.github.com> :: update readme typo
+2026-05-13T01:57:29.648Z Adam Łucek <ALucek@users.noreply.github.com> :: update error handling
