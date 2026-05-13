@@ -9980,3 +9980,4 @@
 2026-05-13T17:45:04.265Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump dependency versions
 2026-05-13T17:59:48.723Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up build script
 2026-05-13T18:49:32.265Z Keith Smiley <keith@users.noreply.github.com> :: tweak config defaults
+2026-05-13T19:28:37.676Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up config defaults
