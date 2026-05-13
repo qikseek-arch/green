@@ -9969,3 +9969,4 @@
 2026-05-13T10:21:06.307Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor logging
 2026-05-13T10:22:59.271Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up edge case in auth
 2026-05-13T10:51:23.159Z AI4Bhārat <opensource@ai4bharat.org> :: remove cache keys
+2026-05-13T11:30:38.923Z CTFs <ctfs@users.noreply.github.com> :: refactor dependency versions
