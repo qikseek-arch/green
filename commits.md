@@ -9982,3 +9982,4 @@
 2026-05-13T18:49:32.265Z Keith Smiley <keith@users.noreply.github.com> :: tweak config defaults
 2026-05-13T19:28:37.676Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up config defaults
 2026-05-13T19:33:25.932Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak cache keys
+2026-05-13T20:12:09.577Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor build script
