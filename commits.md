@@ -9967,3 +9967,4 @@
 2026-05-13T09:37:48.949Z LILYGO <LilyGO@users.noreply.github.com> :: polish null check
 2026-05-13T09:58:58.489Z Odi <mathdroid@users.noreply.github.com> :: polish the CI matrix
 2026-05-13T10:21:06.307Z Jason Zhang <Hackl0us@users.noreply.github.com> :: refactor logging
+2026-05-13T10:22:59.271Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up edge case in auth
