@@ -19628,3 +19628,4 @@
 2026-05-13T05:00:23.411Z Andreas Kling <awesomekling@users.noreply.github.com> :: bump the CI matrix
 2026-05-13T07:19:15.053Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up logging
 2026-05-13T07:19:58.414Z Morvan <MorvanZhou@users.noreply.github.com> :: refactor the CI matrix
+2026-05-13T08:14:26.418Z Cezanne Camacho <cezannec@users.noreply.github.com> :: update the parser
