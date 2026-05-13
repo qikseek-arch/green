@@ -9984,3 +9984,4 @@
 2026-05-13T19:33:25.932Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak cache keys
 2026-05-13T20:12:09.577Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor build script
 2026-05-13T20:23:38.217Z owenzhang <owenzhang@users.noreply.github.com> :: wire up flaky test
+2026-05-13T20:28:50.030Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up error handling
