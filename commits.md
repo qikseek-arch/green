@@ -9976,3 +9976,4 @@
 2026-05-13T13:44:57.827Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor build script
 2026-05-13T13:50:01.164Z Almas Baim <AlmasB@users.noreply.github.com> :: add cache keys
 2026-05-13T15:24:29.404Z Daniel Eden <daneden@users.noreply.github.com> :: remove the CI matrix
+2026-05-13T17:12:54.787Z SouJunior <wouerner@soujunior.tech> :: fix config defaults
