@@ -655,3 +655,4 @@
 2026-05-13T06:36:24.098Z 左程云 <algorithmzuo@users.noreply.github.com> :: fix dependency versions
 2026-05-13T17:28:54.440Z vn.py <vnpy@users.noreply.github.com> :: update retry logic
 2026-05-13T23:11:32.744Z FastAPI <fastapi@users.noreply.github.com> :: clean up dependency versions
+2026-05-14T21:18:45.841Z @XDevelopers <xdevplatform@users.noreply.github.com> :: polish edge case in auth
