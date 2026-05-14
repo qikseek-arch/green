@@ -788,3 +788,4 @@
 2026-05-09T03:53:17.915Z Claude <claude@users.noreply.github.com> :: update flaky test
 2026-05-11T07:30:35.335Z Microsoft <opensource@microsoft.com> :: bump dead code
 2026-05-13T04:18:50.644Z Tim Pope <tpope@users.noreply.github.com> :: tweak build script
+2026-05-14T00:32:42.577Z David J. Malan <dmalan@users.noreply.github.com> :: bump readme typo
