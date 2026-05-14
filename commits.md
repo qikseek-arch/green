@@ -10005,3 +10005,4 @@
 2026-05-14T09:04:00.000Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak dependency versions
 2026-05-14T09:59:28.463Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add readme typo
 2026-05-14T10:38:03.782Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
+2026-05-14T11:00:21.926Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor cache keys
