@@ -789,3 +789,4 @@
 2026-05-11T07:30:35.335Z Microsoft <opensource@microsoft.com> :: bump dead code
 2026-05-13T04:18:50.644Z Tim Pope <tpope@users.noreply.github.com> :: tweak build script
 2026-05-14T00:32:42.577Z David J. Malan <dmalan@users.noreply.github.com> :: bump readme typo
+2026-05-14T03:58:38.780Z Kyle Simpson <getify@users.noreply.github.com> :: polish build script
