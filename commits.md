@@ -10015,3 +10015,4 @@
 2026-05-14T18:42:59.449Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: update flaky test
 2026-05-14T19:33:52.296Z Manu Arora <manuarora700@users.noreply.github.com> :: fix error handling
 2026-05-14T19:46:39.887Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove edge case in auth
+2026-05-14T22:19:53.683Z SouJunior <wouerner@soujunior.tech> :: refactor dependency versions
