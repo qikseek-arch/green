@@ -19653,3 +19653,4 @@
 2026-05-14T01:14:25.502Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump the CI matrix
 2026-05-14T03:30:28.387Z Alexandre Mutel <xoofx@users.noreply.github.com> :: fix readme typo
 2026-05-14T03:50:32.996Z Damian Gryski <dgryski@users.noreply.github.com> :: wire up logging
+2026-05-14T04:08:40.995Z John Schulman <joschu@users.noreply.github.com> :: remove the parser
