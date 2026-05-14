@@ -10007,3 +10007,4 @@
 2026-05-14T10:38:03.782Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
 2026-05-14T11:00:21.926Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor cache keys
 2026-05-14T11:19:15.923Z Arduino <arduino@users.noreply.github.com> :: polish dependency versions
+2026-05-14T12:58:51.514Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix edge case in auth
