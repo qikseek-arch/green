@@ -117,3 +117,4 @@
 2026-05-05T10:26:37.394Z Ada Lovelace <ada.lovelace@example.com> :: wire up logging
 2026-05-09T19:02:20.363Z void <void@users.noreply.github.com> :: tweak flaky test
 2026-05-10T10:49:38.169Z Ken Iverson <ken.iverson@example.com> :: polish cache keys
+2026-05-14T18:19:27.173Z packet_grumpy <packet_grumpy@users.noreply.github.com> :: wire up readme typo
