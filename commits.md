@@ -10010,3 +10010,4 @@
 2026-05-14T12:58:51.514Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix edge case in auth
 2026-05-14T14:36:58.960Z qiye <qiyeboy@users.noreply.github.com> :: clean up edge case in auth
 2026-05-14T16:37:31.505Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: update build script
+2026-05-14T17:55:14.207Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish the parser
