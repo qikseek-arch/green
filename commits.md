@@ -19651,3 +19651,4 @@
 2026-05-14T00:06:29.371Z Andreas Kling <awesomekling@users.noreply.github.com> :: clean up build script
 2026-05-14T00:48:13.387Z Asif Taj <axiftaj@users.noreply.github.com> :: bump null check
 2026-05-14T01:14:25.502Z Elliott Minns <elliottminns@users.noreply.github.com> :: bump the CI matrix
+2026-05-14T03:30:28.387Z Alexandre Mutel <xoofx@users.noreply.github.com> :: fix readme typo
