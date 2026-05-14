@@ -9992,3 +9992,4 @@
 2026-05-14T00:24:31.954Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump logging
 2026-05-14T00:39:57.964Z vb <Vaibhavs10@users.noreply.github.com> :: refactor flaky test
 2026-05-14T01:14:35.520Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update logging
+2026-05-14T01:44:38.255Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor readme typo
