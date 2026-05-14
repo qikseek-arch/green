@@ -9989,3 +9989,4 @@
 2026-05-13T21:44:50.471Z Taiko Foundation <info@taiko.xyz> :: tweak dependency versions
 2026-05-13T22:20:10.776Z heyli <lcxfs1991@users.noreply.github.com> :: refactor null check
 2026-05-13T22:31:18.804Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix the parser
+2026-05-14T00:24:31.954Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump logging
