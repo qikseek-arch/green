@@ -10004,3 +10004,4 @@
 2026-05-14T08:50:29.499Z Getgems <getgems-io@users.noreply.github.com> :: polish dependency versions
 2026-05-14T09:04:00.000Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak dependency versions
 2026-05-14T09:59:28.463Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add readme typo
+2026-05-14T10:38:03.782Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
