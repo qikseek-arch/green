@@ -9994,3 +9994,4 @@
 2026-05-14T01:14:35.520Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update logging
 2026-05-14T01:44:38.255Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor readme typo
 2026-05-14T02:52:24.332Z OpenJS Foundation <info@openjsf.org> :: refactor flaky test
+2026-05-14T03:20:27.434Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up error handling
