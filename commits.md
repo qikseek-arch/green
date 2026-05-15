@@ -10026,3 +10026,4 @@
 2026-05-15T04:25:28.814Z Barret李靖 <barretlee@users.noreply.github.com> :: remove the parser
 2026-05-15T05:21:20.159Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump null check
 2026-05-15T05:50:23.038Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up dependency versions
+2026-05-15T06:31:55.474Z md-5 <md-5@users.noreply.github.com> :: update readme typo
