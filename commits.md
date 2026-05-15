@@ -10029,3 +10029,4 @@
 2026-05-15T06:31:55.474Z md-5 <md-5@users.noreply.github.com> :: update readme typo
 2026-05-15T07:15:27.658Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up config defaults
 2026-05-15T07:38:59.281Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
+2026-05-15T08:03:54.934Z Duy Tran <khanhduytran0@users.noreply.github.com> :: fix edge case in auth
