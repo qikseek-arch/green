@@ -10025,3 +10025,4 @@
 2026-05-15T04:05:23.618Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
 2026-05-15T04:25:28.814Z Barret李靖 <barretlee@users.noreply.github.com> :: remove the parser
 2026-05-15T05:21:20.159Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump null check
+2026-05-15T05:50:23.038Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up dependency versions
