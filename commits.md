@@ -10020,3 +10020,4 @@
 2026-05-15T00:32:45.677Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
 2026-05-15T00:58:36.509Z Getgems <getgems-io@users.noreply.github.com> :: refactor dead code
 2026-05-15T03:43:16.419Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the CI matrix
+2026-05-15T03:46:45.548Z Shubs <infosec-au@users.noreply.github.com> :: tweak dependency versions
