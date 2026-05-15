@@ -10048,3 +10048,4 @@
 2026-05-15T18:11:36.307Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update error handling
 2026-05-15T20:26:15.491Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: tweak the parser
 2026-05-15T20:49:25.112Z SouJunior <wouerner@soujunior.tech> :: fix readme typo
+2026-05-15T21:33:05.409Z Bytedance Inc. <bytedance@users.noreply.github.com> :: add the CI matrix
