@@ -658,3 +658,4 @@
 2026-05-14T21:18:45.841Z @XDevelopers <xdevplatform@users.noreply.github.com> :: polish edge case in auth
 2026-05-15T00:34:42.372Z Connor <Connor9994@users.noreply.github.com> :: polish dependency versions
 2026-05-15T09:30:43.357Z Electron <info+org@electronjs.org> :: polish retry logic
+2026-05-15T21:09:12.484Z Bruno Simon <brunosimon@users.noreply.github.com> :: remove dependency versions
