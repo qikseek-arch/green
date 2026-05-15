@@ -10023,3 +10023,4 @@
 2026-05-15T03:46:45.548Z Shubs <infosec-au@users.noreply.github.com> :: tweak dependency versions
 2026-05-15T03:49:05.014Z Shubs <infosec-au@users.noreply.github.com> :: update null check
 2026-05-15T04:05:23.618Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
+2026-05-15T04:25:28.814Z Barret李靖 <barretlee@users.noreply.github.com> :: remove the parser
