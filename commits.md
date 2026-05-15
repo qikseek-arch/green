@@ -10028,3 +10028,4 @@
 2026-05-15T05:50:23.038Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up dependency versions
 2026-05-15T06:31:55.474Z md-5 <md-5@users.noreply.github.com> :: update readme typo
 2026-05-15T07:15:27.658Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up config defaults
+2026-05-15T07:38:59.281Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak build script
