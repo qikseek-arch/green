@@ -10022,3 +10022,4 @@
 2026-05-15T03:43:16.419Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update the CI matrix
 2026-05-15T03:46:45.548Z Shubs <infosec-au@users.noreply.github.com> :: tweak dependency versions
 2026-05-15T03:49:05.014Z Shubs <infosec-au@users.noreply.github.com> :: update null check
+2026-05-15T04:05:23.618Z Claude <claude@users.noreply.github.com> :: polish the CI matrix
