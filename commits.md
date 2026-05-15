@@ -10039,3 +10039,4 @@
 2026-05-15T13:29:53.339Z Barret李靖 <barretlee@users.noreply.github.com> :: wire up error handling
 2026-05-15T13:43:38.867Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: refactor dependency versions
 2026-05-15T14:27:55.379Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish logging
+2026-05-15T14:28:57.820Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add config defaults
