@@ -10041,3 +10041,4 @@
 2026-05-15T14:27:55.379Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish logging
 2026-05-15T14:28:57.820Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add config defaults
 2026-05-15T14:42:45.591Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump dead code
+2026-05-15T14:56:04.033Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update the CI matrix
