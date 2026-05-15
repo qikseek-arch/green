@@ -10017,3 +10017,4 @@
 2026-05-14T19:46:39.887Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove edge case in auth
 2026-05-14T22:19:53.683Z SouJunior <wouerner@soujunior.tech> :: refactor dependency versions
 2026-05-14T23:16:18.517Z Keith Smiley <keith@users.noreply.github.com> :: fix config defaults
+2026-05-15T00:32:45.677Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
