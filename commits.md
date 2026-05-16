@@ -10050,3 +10050,4 @@
 2026-05-15T20:49:25.112Z SouJunior <wouerner@soujunior.tech> :: fix readme typo
 2026-05-15T21:33:05.409Z Bytedance Inc. <bytedance@users.noreply.github.com> :: add the CI matrix
 2026-05-15T23:48:30.611Z Almas Baim <AlmasB@users.noreply.github.com> :: add the parser
+2026-05-16T00:35:34.394Z SouJunior <wouerner@soujunior.tech> :: polish logging
