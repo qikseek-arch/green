@@ -10070,3 +10070,4 @@
 2026-05-16T09:54:11.087Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add error handling
 2026-05-16T11:45:49.427Z Damian Dulisz <shentao@users.noreply.github.com> :: fix error handling
 2026-05-16T13:27:05.146Z owenzhang <owenzhang@users.noreply.github.com> :: polish error handling
+2026-05-16T13:38:37.567Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up the parser
