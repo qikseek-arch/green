@@ -665,3 +665,4 @@
 2026-05-16T13:39:34.575Z Odoo Community Association <OCA@users.noreply.github.com> :: bump null check
 2026-05-16T18:40:56.660Z Ce Gao <gaocegege@users.noreply.github.com> :: update config defaults
 2026-05-16T22:06:39.662Z Merve Noyan <merveenoyan@users.noreply.github.com> :: tweak the parser
+2026-05-16T22:38:22.383Z DeepSeek <service@deepseek.com> :: fix error handling
