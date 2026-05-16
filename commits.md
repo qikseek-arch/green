@@ -10054,3 +10054,4 @@
 2026-05-16T00:59:02.414Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump retry logic
 2026-05-16T01:15:12.339Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor retry logic
 2026-05-16T01:43:39.657Z Adam Wathan <adamwathan@users.noreply.github.com> :: wire up edge case in auth
+2026-05-16T01:58:30.117Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor error handling
