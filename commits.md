@@ -659,3 +659,4 @@
 2026-05-15T00:34:42.372Z Connor <Connor9994@users.noreply.github.com> :: polish dependency versions
 2026-05-15T09:30:43.357Z Electron <info+org@electronjs.org> :: polish retry logic
 2026-05-15T21:09:12.484Z Bruno Simon <brunosimon@users.noreply.github.com> :: remove dependency versions
+2026-05-16T03:58:01.747Z Rob Fuller <mubix@users.noreply.github.com> :: polish logging
