@@ -663,3 +663,4 @@
 2026-05-16T11:57:53.696Z Hsiaoming Yang <lepture@users.noreply.github.com> :: polish readme typo
 2026-05-16T12:03:01.724Z 削微寒 <521xueweihan@users.noreply.github.com> :: remove cache keys
 2026-05-16T13:39:34.575Z Odoo Community Association <OCA@users.noreply.github.com> :: bump null check
+2026-05-16T18:40:56.660Z Ce Gao <gaocegege@users.noreply.github.com> :: update config defaults
