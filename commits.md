@@ -10075,3 +10075,4 @@
 2026-05-16T18:08:06.168Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up config defaults
 2026-05-16T18:13:48.820Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove config defaults
 2026-05-16T18:33:04.431Z Taiko Foundation <info@taiko.xyz> :: fix dead code
+2026-05-16T21:20:29.603Z vb <Vaibhavs10@users.noreply.github.com> :: polish the CI matrix
