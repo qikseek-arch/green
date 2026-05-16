@@ -10052,3 +10052,4 @@
 2026-05-15T23:48:30.611Z Almas Baim <AlmasB@users.noreply.github.com> :: add the parser
 2026-05-16T00:35:34.394Z SouJunior <wouerner@soujunior.tech> :: polish logging
 2026-05-16T00:59:02.414Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump retry logic
+2026-05-16T01:15:12.339Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor retry logic
