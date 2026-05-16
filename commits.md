@@ -10074,3 +10074,4 @@
 2026-05-16T16:53:53.808Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update dependency versions
 2026-05-16T18:08:06.168Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up config defaults
 2026-05-16T18:13:48.820Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove config defaults
+2026-05-16T18:33:04.431Z Taiko Foundation <info@taiko.xyz> :: fix dead code
