@@ -10066,3 +10066,4 @@
 2026-05-16T06:54:31.093Z Shubs <infosec-au@users.noreply.github.com> :: add flaky test
 2026-05-16T08:09:03.504Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak dead code
 2026-05-16T08:28:50.484Z ring04h <ring04h@users.noreply.github.com> :: add cache keys
+2026-05-16T09:26:03.032Z Getgems <getgems-io@users.noreply.github.com> :: wire up dependency versions
