@@ -10089,3 +10089,4 @@
 2026-05-17T05:22:03.345Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor config defaults
 2026-05-17T05:56:22.166Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor cache keys
 2026-05-17T06:37:15.517Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
+2026-05-17T07:50:49.242Z md-5 <md-5@users.noreply.github.com> :: tweak cache keys
