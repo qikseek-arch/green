@@ -10103,3 +10103,4 @@
 2026-05-17T11:42:19.759Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update config defaults
 2026-05-17T12:40:17.914Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up flaky test
 2026-05-17T14:42:21.526Z Adam Bell <b3ll@users.noreply.github.com> :: wire up config defaults
+2026-05-17T15:07:12.226Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove readme typo
