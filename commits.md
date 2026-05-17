@@ -10077,3 +10077,4 @@
 2026-05-16T18:33:04.431Z Taiko Foundation <info@taiko.xyz> :: fix dead code
 2026-05-16T21:20:29.603Z vb <Vaibhavs10@users.noreply.github.com> :: polish the CI matrix
 2026-05-16T21:53:39.405Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove retry logic
+2026-05-17T00:56:03.427Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor build script
