@@ -667,3 +667,4 @@
 2026-05-16T22:06:39.662Z Merve Noyan <merveenoyan@users.noreply.github.com> :: tweak the parser
 2026-05-16T22:38:22.383Z DeepSeek <service@deepseek.com> :: fix error handling
 2026-05-17T06:31:52.415Z Shaian <zshaian@users.noreply.github.com> :: polish edge case in auth
+2026-05-17T06:44:50.782Z Mark Murphy <commonsguy@users.noreply.github.com> :: add build script
