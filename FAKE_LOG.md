@@ -793,3 +793,4 @@
 2026-05-14T15:08:58.290Z Adrian Hajdin - JS Mastery <adrianhajdin@users.noreply.github.com> :: clean up the CI matrix
 2026-05-16T03:36:23.518Z Chip Huyen <chiphuyen@users.noreply.github.com> :: refactor null check
 2026-05-16T16:24:06.043Z Jeff Delaney <codediodeio@users.noreply.github.com> :: bump the CI matrix
+2026-05-17T00:14:14.295Z TJ <tj@users.noreply.github.com> :: refactor retry logic
