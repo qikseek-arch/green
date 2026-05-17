@@ -10096,3 +10096,4 @@
 2026-05-17T09:31:15.748Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish dependency versions
 2026-05-17T09:35:54.329Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish build script
 2026-05-17T09:58:55.341Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove edge case in auth
+2026-05-17T10:00:55.682Z owenzhang <owenzhang@users.noreply.github.com> :: tweak error handling
