@@ -10112,3 +10112,4 @@
 2026-05-17T20:31:56.661Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish flaky test
 2026-05-17T20:47:15.136Z Keith Smiley <keith@users.noreply.github.com> :: wire up null check
 2026-05-17T21:46:18.455Z heyli <lcxfs1991@users.noreply.github.com> :: clean up the parser
+2026-05-17T22:24:56.745Z Arduino <arduino@users.noreply.github.com> :: fix edge case in auth
