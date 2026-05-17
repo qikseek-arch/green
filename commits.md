@@ -10088,3 +10088,4 @@
 2026-05-17T04:37:16.274Z Damian Dulisz <shentao@users.noreply.github.com> :: add edge case in auth
 2026-05-17T05:22:03.345Z Ivan Volkov <Chitus@users.noreply.github.com> :: refactor config defaults
 2026-05-17T05:56:22.166Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor cache keys
+2026-05-17T06:37:15.517Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
