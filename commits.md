@@ -10093,3 +10093,4 @@
 2026-05-17T08:00:13.218Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor readme typo
 2026-05-17T09:15:14.161Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump the parser
 2026-05-17T09:21:33.741Z SouJunior <wouerner@soujunior.tech> :: polish config defaults
+2026-05-17T09:31:15.748Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish dependency versions
