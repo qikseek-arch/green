@@ -10079,3 +10079,4 @@
 2026-05-16T21:53:39.405Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove retry logic
 2026-05-17T00:56:03.427Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor build script
 2026-05-17T01:33:50.794Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix the parser
+2026-05-17T01:36:48.047Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
