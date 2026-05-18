@@ -10147,3 +10147,4 @@
 2026-05-18T21:06:25.099Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add logging
 2026-05-18T21:46:26.377Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove the parser
 2026-05-18T22:57:25.185Z Adam Bell <b3ll@users.noreply.github.com> :: tweak dependency versions
+2026-05-18T23:35:14.208Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
