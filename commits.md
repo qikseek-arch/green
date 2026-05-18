@@ -672,3 +672,4 @@
 2026-05-17T16:04:06.129Z Electron <info+org@electronjs.org> :: tweak dependency versions
 2026-05-17T18:50:57.603Z Cheng Lou <chenglou@users.noreply.github.com> :: bump flaky test
 2026-05-18T07:45:20.731Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: tweak logging
+2026-05-18T18:04:56.604Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: wire up dependency versions
