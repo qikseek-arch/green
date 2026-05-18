@@ -10124,3 +10124,4 @@
 2026-05-18T03:52:20.099Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix edge case in auth
 2026-05-18T04:41:02.363Z Claude <claude@users.noreply.github.com> :: clean up dead code
 2026-05-18T04:57:37.427Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor cache keys
+2026-05-18T07:15:41.003Z ring04h <ring04h@users.noreply.github.com> :: tweak null check
