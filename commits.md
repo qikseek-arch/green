@@ -10126,3 +10126,4 @@
 2026-05-18T04:57:37.427Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor cache keys
 2026-05-18T07:15:41.003Z ring04h <ring04h@users.noreply.github.com> :: tweak null check
 2026-05-18T08:56:58.148Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak the parser
+2026-05-18T08:59:01.171Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove the parser
