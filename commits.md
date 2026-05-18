@@ -10115,3 +10115,4 @@
 2026-05-17T22:24:56.745Z Arduino <arduino@users.noreply.github.com> :: fix edge case in auth
 2026-05-18T00:22:08.018Z David Clark <nullptrException100@users.noreply.github.com> :: wire up config defaults
 2026-05-18T00:30:37.931Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix edge case in auth
+2026-05-18T00:53:35.208Z Keith Smiley <keith@users.noreply.github.com> :: update dead code
