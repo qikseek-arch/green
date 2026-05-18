@@ -10135,3 +10135,4 @@
 2026-05-18T12:54:58.866Z BBC <bbc@users.noreply.github.com> :: refactor the parser
 2026-05-18T13:57:29.914Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up the parser
 2026-05-18T14:41:26.493Z ring04h <ring04h@users.noreply.github.com> :: remove logging
+2026-05-18T14:48:19.082Z First Contributions <firstcontributions@gmail.com> :: clean up null check
