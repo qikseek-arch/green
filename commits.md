@@ -10131,3 +10131,4 @@
 2026-05-18T10:07:58.041Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump retry logic
 2026-05-18T10:36:15.051Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add edge case in auth
 2026-05-18T11:00:04.422Z Keith Smiley <keith@users.noreply.github.com> :: remove retry logic
+2026-05-18T11:49:11.195Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak the parser
