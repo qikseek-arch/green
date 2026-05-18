@@ -10133,3 +10133,4 @@
 2026-05-18T11:00:04.422Z Keith Smiley <keith@users.noreply.github.com> :: remove retry logic
 2026-05-18T11:49:11.195Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak the parser
 2026-05-18T12:54:58.866Z BBC <bbc@users.noreply.github.com> :: refactor the parser
+2026-05-18T13:57:29.914Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up the parser
