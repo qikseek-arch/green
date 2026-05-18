@@ -10138,3 +10138,4 @@
 2026-05-18T14:48:19.082Z First Contributions <firstcontributions@gmail.com> :: clean up null check
 2026-05-18T14:57:38.168Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up retry logic
 2026-05-18T15:15:01.464Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix null check
+2026-05-18T15:34:31.385Z Bert Belder <piscisaureus@users.noreply.github.com> :: polish build script
