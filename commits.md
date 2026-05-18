@@ -10118,3 +10118,4 @@
 2026-05-18T00:53:35.208Z Keith Smiley <keith@users.noreply.github.com> :: update dead code
 2026-05-18T01:26:25.050Z Odi <mathdroid@users.noreply.github.com> :: bump logging
 2026-05-18T01:43:31.144Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix flaky test
+2026-05-18T02:03:48.745Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up logging
