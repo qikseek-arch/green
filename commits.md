@@ -10113,3 +10113,4 @@
 2026-05-17T20:47:15.136Z Keith Smiley <keith@users.noreply.github.com> :: wire up null check
 2026-05-17T21:46:18.455Z heyli <lcxfs1991@users.noreply.github.com> :: clean up the parser
 2026-05-17T22:24:56.745Z Arduino <arduino@users.noreply.github.com> :: fix edge case in auth
+2026-05-18T00:22:08.018Z David Clark <nullptrException100@users.noreply.github.com> :: wire up config defaults
