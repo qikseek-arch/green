@@ -10129,3 +10129,4 @@
 2026-05-18T08:59:01.171Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove the parser
 2026-05-18T09:51:43.615Z SouJunior <wouerner@soujunior.tech> :: bump readme typo
 2026-05-18T10:07:58.041Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump retry logic
+2026-05-18T10:36:15.051Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: add edge case in auth
