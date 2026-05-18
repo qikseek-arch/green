@@ -10142,3 +10142,4 @@
 2026-05-18T15:54:50.808Z Fady Farag <iidmsa@users.noreply.github.com> :: fix null check
 2026-05-18T16:16:48.450Z SouJunior <wouerner@soujunior.tech> :: wire up dependency versions
 2026-05-18T17:14:28.504Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update null check
+2026-05-18T18:57:27.741Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
