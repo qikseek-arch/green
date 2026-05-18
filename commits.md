@@ -10123,3 +10123,4 @@
 2026-05-18T02:29:35.348Z Adam Bell <b3ll@users.noreply.github.com> :: polish dead code
 2026-05-18T03:52:20.099Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix edge case in auth
 2026-05-18T04:41:02.363Z Claude <claude@users.noreply.github.com> :: clean up dead code
+2026-05-18T04:57:37.427Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor cache keys
