@@ -10146,3 +10146,4 @@
 2026-05-18T20:36:48.754Z CTFs <ctfs@users.noreply.github.com> :: fix the parser
 2026-05-18T21:06:25.099Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add logging
 2026-05-18T21:46:26.377Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove the parser
+2026-05-18T22:57:25.185Z Adam Bell <b3ll@users.noreply.github.com> :: tweak dependency versions
