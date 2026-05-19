@@ -10157,3 +10157,4 @@
 2026-05-19T12:28:08.467Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up flaky test
 2026-05-19T14:02:54.166Z AI4Bhārat <opensource@ai4bharat.org> :: polish build script
 2026-05-19T14:53:17.659Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up null check
+2026-05-19T15:42:33.651Z Selenium <SeleniumHQ@users.noreply.github.com> :: update config defaults
