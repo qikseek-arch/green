@@ -10148,3 +10148,4 @@
 2026-05-18T21:46:26.377Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove the parser
 2026-05-18T22:57:25.185Z Adam Bell <b3ll@users.noreply.github.com> :: tweak dependency versions
 2026-05-18T23:35:14.208Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
+2026-05-19T06:55:49.342Z Shubs <infosec-au@users.noreply.github.com> :: fix retry logic
