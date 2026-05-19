@@ -10156,3 +10156,4 @@
 2026-05-19T11:17:52.459Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish readme typo
 2026-05-19T12:28:08.467Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up flaky test
 2026-05-19T14:02:54.166Z AI4Bhārat <opensource@ai4bharat.org> :: polish build script
+2026-05-19T14:53:17.659Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up null check
