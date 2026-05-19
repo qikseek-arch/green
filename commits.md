@@ -10150,3 +10150,4 @@
 2026-05-18T23:35:14.208Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
 2026-05-19T06:55:49.342Z Shubs <infosec-au@users.noreply.github.com> :: fix retry logic
 2026-05-19T07:51:02.048Z Adam Bell <b3ll@users.noreply.github.com> :: polish config defaults
+2026-05-19T08:49:48.929Z Keith Smiley <keith@users.noreply.github.com> :: clean up dependency versions
