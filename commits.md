@@ -10153,3 +10153,4 @@
 2026-05-19T08:49:48.929Z Keith Smiley <keith@users.noreply.github.com> :: clean up dependency versions
 2026-05-19T09:20:13.129Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update build script
 2026-05-19T10:41:47.316Z Keith Smiley <keith@users.noreply.github.com> :: tweak logging
+2026-05-19T11:17:52.459Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish readme typo
