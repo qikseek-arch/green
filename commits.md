@@ -10171,3 +10171,4 @@
 2026-05-20T02:18:27.639Z owenzhang <owenzhang@users.noreply.github.com> :: clean up the CI matrix
 2026-05-20T03:19:01.013Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump the CI matrix
 2026-05-20T03:31:24.013Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak readme typo
+2026-05-20T04:07:01.008Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
