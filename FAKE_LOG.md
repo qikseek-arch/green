@@ -798,3 +798,4 @@
 2026-05-17T11:09:56.054Z Linus Torvalds <torvalds@users.noreply.github.com> :: wire up readme typo
 2026-05-18T06:18:52.693Z Jake Wharton <JakeWharton@users.noreply.github.com> :: remove cache keys
 2026-05-19T01:42:21.523Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: bump retry logic
+2026-05-20T03:41:13.052Z Meta <facebook@users.noreply.github.com> :: bump config defaults
