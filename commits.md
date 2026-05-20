@@ -10174,3 +10174,4 @@
 2026-05-20T04:07:01.008Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
 2026-05-20T05:22:58.986Z Taiko Foundation <info@taiko.xyz> :: fix readme typo
 2026-05-20T06:27:04.474Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up dead code
+2026-05-20T07:03:17.247Z Ryan Bigg <radar@users.noreply.github.com> :: add build script
