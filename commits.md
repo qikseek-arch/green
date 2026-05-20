@@ -10187,3 +10187,4 @@
 2026-05-20T15:44:33.546Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up the parser
 2026-05-20T17:22:05.103Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: refactor the CI matrix
 2026-05-20T18:59:41.936Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update flaky test
+2026-05-20T19:05:05.534Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump the parser
