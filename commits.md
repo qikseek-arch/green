@@ -10178,3 +10178,4 @@
 2026-05-20T07:52:38.227Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix edge case in auth
 2026-05-20T08:13:10.343Z Almas Baim <AlmasB@users.noreply.github.com> :: remove edge case in auth
 2026-05-20T08:37:32.275Z Getgems <getgems-io@users.noreply.github.com> :: remove null check
+2026-05-20T08:42:39.211Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish cache keys
