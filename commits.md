@@ -10177,3 +10177,4 @@
 2026-05-20T07:03:17.247Z Ryan Bigg <radar@users.noreply.github.com> :: add build script
 2026-05-20T07:52:38.227Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix edge case in auth
 2026-05-20T08:13:10.343Z Almas Baim <AlmasB@users.noreply.github.com> :: remove edge case in auth
+2026-05-20T08:37:32.275Z Getgems <getgems-io@users.noreply.github.com> :: remove null check
