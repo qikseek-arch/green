@@ -10183,3 +10183,4 @@
 2026-05-20T11:06:48.428Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak the CI matrix
 2026-05-20T11:10:27.783Z First Contributions <firstcontributions@gmail.com> :: polish flaky test
 2026-05-20T11:48:54.902Z SouJunior <wouerner@soujunior.tech> :: add null check
+2026-05-20T15:39:32.550Z owenzhang <owenzhang@users.noreply.github.com> :: tweak the CI matrix
