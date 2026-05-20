@@ -120,3 +120,4 @@
 2026-05-14T18:19:27.173Z packet_grumpy <packet_grumpy@users.noreply.github.com> :: wire up readme typo
 2026-05-18T19:49:14.262Z Martin Fowler <martin.fowler@example.com> :: clean up edge case in auth
 2026-05-19T11:59:39.896Z Kent Beck <kent.beck@example.com> :: clean up edge case in auth
+2026-05-20T01:21:37.979Z socket_chillhq <socket_chillhq@users.noreply.github.com> :: add dependency versions
