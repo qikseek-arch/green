@@ -10173,3 +10173,4 @@
 2026-05-20T03:31:24.013Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak readme typo
 2026-05-20T04:07:01.008Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump edge case in auth
 2026-05-20T05:22:58.986Z Taiko Foundation <info@taiko.xyz> :: fix readme typo
+2026-05-20T06:27:04.474Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up dead code
