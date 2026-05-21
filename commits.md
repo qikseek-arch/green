@@ -10203,3 +10203,4 @@
 2026-05-21T12:27:00.122Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: polish the CI matrix
 2026-05-21T13:18:08.174Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update cache keys
 2026-05-21T16:55:39.416Z ring04h <ring04h@users.noreply.github.com> :: refactor the parser
+2026-05-21T17:47:24.466Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump null check
