@@ -10194,3 +10194,4 @@
 2026-05-20T23:30:58.552Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor error handling
 2026-05-21T01:08:10.997Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish dependency versions
 2026-05-21T02:40:32.889Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor retry logic
+2026-05-21T04:37:44.908Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the CI matrix
