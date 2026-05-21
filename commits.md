@@ -10207,3 +10207,4 @@
 2026-05-21T17:56:18.632Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up error handling
 2026-05-21T18:50:23.486Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix dependency versions
 2026-05-21T19:27:42.879Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor dead code
+2026-05-21T19:34:33.714Z Shubs <infosec-au@users.noreply.github.com> :: refactor build script
