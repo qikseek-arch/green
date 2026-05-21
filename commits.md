@@ -10192,3 +10192,4 @@
 2026-05-20T21:51:43.370Z FlowiseAI <hello@flowiseai.com> :: update logging
 2026-05-20T22:13:48.220Z Manu Arora <manuarora700@users.noreply.github.com> :: refactor the parser
 2026-05-20T23:30:58.552Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor error handling
+2026-05-21T01:08:10.997Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish dependency versions
