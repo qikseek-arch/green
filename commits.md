@@ -10196,3 +10196,4 @@
 2026-05-21T02:40:32.889Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor retry logic
 2026-05-21T04:37:44.908Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the CI matrix
 2026-05-21T05:43:03.580Z Daniel Eden <daneden@users.noreply.github.com> :: wire up flaky test
+2026-05-21T05:52:02.999Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump config defaults
