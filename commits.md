@@ -10204,3 +10204,4 @@
 2026-05-21T13:18:08.174Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update cache keys
 2026-05-21T16:55:39.416Z ring04h <ring04h@users.noreply.github.com> :: refactor the parser
 2026-05-21T17:47:24.466Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump null check
+2026-05-21T17:56:18.632Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up error handling
