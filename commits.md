@@ -10215,3 +10215,4 @@
 2026-05-22T01:44:39.137Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
 2026-05-22T01:51:15.902Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix readme typo
 2026-05-22T03:32:53.741Z Keith Smiley <keith@users.noreply.github.com> :: refactor build script
+2026-05-22T04:35:11.166Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
