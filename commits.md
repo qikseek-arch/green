@@ -10229,3 +10229,4 @@
 2026-05-22T14:53:06.821Z Ryan Bigg <radar@users.noreply.github.com> :: polish the parser
 2026-05-22T16:55:40.734Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: refactor the parser
 2026-05-22T17:37:17.534Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix cache keys
+2026-05-22T19:35:18.517Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
