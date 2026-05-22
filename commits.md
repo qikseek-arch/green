@@ -10216,3 +10216,4 @@
 2026-05-22T01:51:15.902Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix readme typo
 2026-05-22T03:32:53.741Z Keith Smiley <keith@users.noreply.github.com> :: refactor build script
 2026-05-22T04:35:11.166Z qiye <qiyeboy@users.noreply.github.com> :: fix error handling
+2026-05-22T04:38:04.737Z Rafal <RafalW3bCraft@users.noreply.github.com> :: tweak dead code
