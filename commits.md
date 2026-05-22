@@ -10235,3 +10235,4 @@
 2026-05-22T21:21:18.998Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove the CI matrix
 2026-05-22T21:37:52.092Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove dead code
 2026-05-22T23:46:57.926Z Keith Smiley <keith@users.noreply.github.com> :: tweak config defaults
+2026-05-22T23:52:53.502Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up null check
