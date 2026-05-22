@@ -681,3 +681,4 @@
 2026-05-21T02:40:36.770Z Merve Noyan <merveenoyan@users.noreply.github.com> :: add the CI matrix
 2026-05-21T04:35:03.436Z Brian Lovin <brianlovin@users.noreply.github.com> :: wire up dependency versions
 2026-05-21T06:06:27.241Z Iuri Silva <iuricode@users.noreply.github.com> :: polish dependency versions
+2026-05-22T13:02:09.046Z FastAPI <fastapi@users.noreply.github.com> :: tweak the CI matrix
