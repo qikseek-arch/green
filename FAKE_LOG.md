@@ -259,3 +259,4 @@
 2026-04-27T12:44:34.026Z ghost <ghost@fake.invalid> :: fix the parser
 2026-05-12T01:31:22.490Z echo <echo@fake.invalid> :: wire up flaky test
 2026-05-12T12:16:33.648Z kai <kai@fake.invalid> :: refactor null check
+2026-05-22T15:27:42.576Z ghost <ghost@fake.invalid> :: polish build script
