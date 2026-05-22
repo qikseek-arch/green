@@ -10209,3 +10209,4 @@
 2026-05-21T19:27:42.879Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor dead code
 2026-05-21T19:34:33.714Z Shubs <infosec-au@users.noreply.github.com> :: refactor build script
 2026-05-21T23:27:07.172Z LILYGO <LilyGO@users.noreply.github.com> :: bump build script
+2026-05-22T00:09:35.349Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish error handling
