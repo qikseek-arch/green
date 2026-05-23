@@ -10256,3 +10256,4 @@
 2026-05-23T18:53:36.833Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor retry logic
 2026-05-23T19:12:46.691Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add null check
 2026-05-23T20:33:27.792Z Claude <claude@users.noreply.github.com> :: polish dependency versions
+2026-05-23T20:59:23.866Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add readme typo
