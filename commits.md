@@ -10257,3 +10257,4 @@
 2026-05-23T19:12:46.691Z Sadık TURAN <sadikturan@users.noreply.github.com> :: add null check
 2026-05-23T20:33:27.792Z Claude <claude@users.noreply.github.com> :: polish dependency versions
 2026-05-23T20:59:23.866Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add readme typo
+2026-05-23T21:30:15.672Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump build script
