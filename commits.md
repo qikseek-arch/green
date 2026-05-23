@@ -10251,3 +10251,4 @@
 2026-05-23T15:09:19.200Z owenzhang <owenzhang@users.noreply.github.com> :: clean up null check
 2026-05-23T16:36:11.702Z WebRTC <discuss-webrtc@googlegroups.com> :: tweak flaky test
 2026-05-23T17:02:02.579Z SouJunior <wouerner@soujunior.tech> :: add dead code
+2026-05-23T17:11:43.939Z Keith Smiley <keith@users.noreply.github.com> :: refactor null check
