@@ -10246,3 +10246,4 @@
 2026-05-23T07:06:21.143Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove cache keys
 2026-05-23T11:08:11.050Z Fady Farag <iidmsa@users.noreply.github.com> :: clean up dead code
 2026-05-23T11:57:59.370Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update logging
+2026-05-23T12:16:28.613Z ㅤxander <vampirist@users.noreply.github.com> :: refactor config defaults
