@@ -10248,3 +10248,4 @@
 2026-05-23T11:57:59.370Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update logging
 2026-05-23T12:16:28.613Z ㅤxander <vampirist@users.noreply.github.com> :: refactor config defaults
 2026-05-23T14:47:44.494Z Odi <mathdroid@users.noreply.github.com> :: bump build script
+2026-05-23T15:09:19.200Z owenzhang <owenzhang@users.noreply.github.com> :: clean up null check
