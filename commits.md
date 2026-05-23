@@ -10237,3 +10237,4 @@
 2026-05-22T23:46:57.926Z Keith Smiley <keith@users.noreply.github.com> :: tweak config defaults
 2026-05-22T23:52:53.502Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up null check
 2026-05-22T23:56:08.142Z Arduino <arduino@users.noreply.github.com> :: refactor readme typo
+2026-05-23T01:51:26.301Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up dependency versions
