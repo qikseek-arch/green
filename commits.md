@@ -10250,3 +10250,4 @@
 2026-05-23T14:47:44.494Z Odi <mathdroid@users.noreply.github.com> :: bump build script
 2026-05-23T15:09:19.200Z owenzhang <owenzhang@users.noreply.github.com> :: clean up null check
 2026-05-23T16:36:11.702Z WebRTC <discuss-webrtc@googlegroups.com> :: tweak flaky test
+2026-05-23T17:02:02.579Z SouJunior <wouerner@soujunior.tech> :: add dead code
