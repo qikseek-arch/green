@@ -10278,3 +10278,4 @@
 2026-05-24T13:39:17.587Z AI4Bhārat <opensource@ai4bharat.org> :: polish flaky test
 2026-05-24T14:46:44.436Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add the CI matrix
 2026-05-24T18:31:01.933Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix dependency versions
+2026-05-24T18:47:58.797Z ㅤxander <vampirist@users.noreply.github.com> :: fix the parser
