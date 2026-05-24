@@ -10276,3 +10276,4 @@
 2026-05-24T11:46:35.328Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix the CI matrix
 2026-05-24T12:52:46.944Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up config defaults
 2026-05-24T13:39:17.587Z AI4Bhārat <opensource@ai4bharat.org> :: polish flaky test
+2026-05-24T14:46:44.436Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add the CI matrix
