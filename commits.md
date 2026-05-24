@@ -10280,3 +10280,4 @@
 2026-05-24T18:31:01.933Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix dependency versions
 2026-05-24T18:47:58.797Z ㅤxander <vampirist@users.noreply.github.com> :: fix the parser
 2026-05-24T19:40:17.046Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update error handling
+2026-05-24T19:53:35.805Z OpenJS Foundation <info@openjsf.org> :: wire up logging
