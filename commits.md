@@ -10281,3 +10281,4 @@
 2026-05-24T18:47:58.797Z ㅤxander <vampirist@users.noreply.github.com> :: fix the parser
 2026-05-24T19:40:17.046Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update error handling
 2026-05-24T19:53:35.805Z OpenJS Foundation <info@openjsf.org> :: wire up logging
+2026-05-24T20:27:14.164Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove edge case in auth
