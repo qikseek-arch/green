@@ -10273,3 +10273,4 @@
 2026-05-24T08:25:57.361Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish logging
 2026-05-24T09:11:32.558Z OpenJS Foundation <info@openjsf.org> :: update cache keys
 2026-05-24T10:36:23.143Z Claude <claude@users.noreply.github.com> :: update the CI matrix
+2026-05-24T11:46:35.328Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix the CI matrix
