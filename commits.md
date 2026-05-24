@@ -10270,3 +10270,4 @@
 2026-05-24T05:13:59.432Z Odi <mathdroid@users.noreply.github.com> :: clean up dependency versions
 2026-05-24T06:31:44.403Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add the CI matrix
 2026-05-24T07:56:27.319Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up retry logic
+2026-05-24T08:25:57.361Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish logging
