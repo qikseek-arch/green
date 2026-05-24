@@ -10264,3 +10264,4 @@
 2026-05-24T03:22:11.236Z Getgems <getgems-io@users.noreply.github.com> :: clean up the CI matrix
 2026-05-24T03:53:56.483Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
 2026-05-24T03:57:26.993Z AI4Bhārat <opensource@ai4bharat.org> :: add cache keys
+2026-05-24T04:10:14.466Z Daniel Eden <daneden@users.noreply.github.com> :: update error handling
