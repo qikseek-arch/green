@@ -10262,3 +10262,4 @@
 2026-05-24T00:07:38.010Z CTFs <ctfs@users.noreply.github.com> :: update dead code
 2026-05-24T00:39:51.318Z Adam Łucek <ALucek@users.noreply.github.com> :: polish build script
 2026-05-24T03:22:11.236Z Getgems <getgems-io@users.noreply.github.com> :: clean up the CI matrix
+2026-05-24T03:53:56.483Z Adam Bell <b3ll@users.noreply.github.com> :: update the CI matrix
