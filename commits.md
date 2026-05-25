@@ -10303,3 +10303,4 @@
 2026-05-25T13:16:16.080Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor dead code
 2026-05-25T13:52:10.344Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add retry logic
 2026-05-25T14:37:27.613Z Ryan Bigg <radar@users.noreply.github.com> :: fix dependency versions
+2026-05-25T16:07:49.975Z AI4Bhārat <opensource@ai4bharat.org> :: bump the parser
