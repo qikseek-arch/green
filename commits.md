@@ -686,3 +686,4 @@
 2026-05-24T18:35:24.465Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up the parser
 2026-05-25T07:58:59.322Z Justin Tunney <jart@users.noreply.github.com> :: add retry logic
 2026-05-25T11:45:43.469Z Colt Steele <Colt@users.noreply.github.com> :: add edge case in auth
+2026-05-25T19:24:10.932Z 削微寒 <521xueweihan@users.noreply.github.com> :: remove retry logic
