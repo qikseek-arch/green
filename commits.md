@@ -10289,3 +10289,4 @@
 2026-05-25T00:34:02.654Z vb <Vaibhavs10@users.noreply.github.com> :: polish build script
 2026-05-25T01:21:56.977Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove flaky test
 2026-05-25T02:29:19.619Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor readme typo
+2026-05-25T02:36:33.343Z BBC <bbc@users.noreply.github.com> :: refactor edge case in auth
