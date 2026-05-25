@@ -10290,3 +10290,4 @@
 2026-05-25T01:21:56.977Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove flaky test
 2026-05-25T02:29:19.619Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor readme typo
 2026-05-25T02:36:33.343Z BBC <bbc@users.noreply.github.com> :: refactor edge case in auth
+2026-05-25T03:01:57.339Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up the CI matrix
