@@ -684,3 +684,4 @@
 2026-05-22T13:02:09.046Z FastAPI <fastapi@users.noreply.github.com> :: tweak the CI matrix
 2026-05-23T17:02:36.528Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: add readme typo
 2026-05-24T18:35:24.465Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: clean up the parser
+2026-05-25T07:58:59.322Z Justin Tunney <jart@users.noreply.github.com> :: add retry logic
