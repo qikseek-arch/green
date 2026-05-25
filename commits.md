@@ -10315,3 +10315,4 @@
 2026-05-25T20:53:34.640Z Arduino <arduino@users.noreply.github.com> :: add error handling
 2026-05-25T21:16:53.506Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up config defaults
 2026-05-25T22:09:14.348Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove readme typo
+2026-05-25T22:41:36.521Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update retry logic
