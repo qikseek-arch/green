@@ -10302,3 +10302,4 @@
 2026-05-25T12:53:02.896Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix cache keys
 2026-05-25T13:16:16.080Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: refactor dead code
 2026-05-25T13:52:10.344Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: add retry logic
+2026-05-25T14:37:27.613Z Ryan Bigg <radar@users.noreply.github.com> :: fix dependency versions
