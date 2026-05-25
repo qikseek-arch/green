@@ -10292,3 +10292,4 @@
 2026-05-25T02:36:33.343Z BBC <bbc@users.noreply.github.com> :: refactor edge case in auth
 2026-05-25T03:01:57.339Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up the CI matrix
 2026-05-25T04:05:47.646Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up edge case in auth
+2026-05-25T04:30:54.842Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up error handling
