@@ -10299,3 +10299,4 @@
 2026-05-25T09:45:57.978Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up cache keys
 2026-05-25T09:55:31.453Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix logging
 2026-05-25T12:12:41.047Z heyli <lcxfs1991@users.noreply.github.com> :: fix edge case in auth
+2026-05-25T12:53:02.896Z Roger Labbe <rlabbe@users.noreply.github.com> :: fix cache keys
