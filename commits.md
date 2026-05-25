@@ -10317,3 +10317,4 @@
 2026-05-25T22:09:14.348Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove readme typo
 2026-05-25T22:41:36.521Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update retry logic
 2026-05-25T22:47:18.031Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
+2026-05-25T22:54:04.202Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove build script
