@@ -10343,3 +10343,4 @@
 2026-05-26T16:37:28.498Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor error handling
 2026-05-26T16:47:01.958Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up edge case in auth
 2026-05-26T17:35:34.715Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up logging
+2026-05-26T20:04:09.148Z Almas Baim <AlmasB@users.noreply.github.com> :: remove dependency versions
