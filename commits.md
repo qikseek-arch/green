@@ -10336,3 +10336,4 @@
 2026-05-26T11:21:40.357Z AI4Bhārat <opensource@ai4bharat.org> :: polish the CI matrix
 2026-05-26T12:02:19.730Z BBC <bbc@users.noreply.github.com> :: update dependency versions
 2026-05-26T12:26:54.949Z vb <Vaibhavs10@users.noreply.github.com> :: fix the CI matrix
+2026-05-26T13:51:53.544Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the parser
