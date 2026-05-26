@@ -10320,3 +10320,4 @@
 2026-05-25T22:54:04.202Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove build script
 2026-05-26T00:18:19.969Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up edge case in auth
 2026-05-26T02:41:59.077Z Claude <claude@users.noreply.github.com> :: wire up retry logic
+2026-05-26T03:05:51.791Z David Clark <nullptrException100@users.noreply.github.com> :: clean up edge case in auth
