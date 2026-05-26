@@ -801,3 +801,4 @@
 2026-05-20T03:41:13.052Z Meta <facebook@users.noreply.github.com> :: bump config defaults
 2026-05-21T10:12:39.539Z Claude <claude@users.noreply.github.com> :: add edge case in auth
 2026-05-25T05:48:00.350Z Sebastian Raschka <rasbt@users.noreply.github.com> :: update edge case in auth
+2026-05-26T05:10:48.371Z Stephen Grider <StephenGrider@users.noreply.github.com> :: tweak error handling
