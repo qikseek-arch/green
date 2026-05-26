@@ -10334,3 +10334,4 @@
 2026-05-26T09:52:33.575Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up cache keys
 2026-05-26T11:12:57.889Z qiye <qiyeboy@users.noreply.github.com> :: remove the parser
 2026-05-26T11:21:40.357Z AI4Bhārat <opensource@ai4bharat.org> :: polish the CI matrix
+2026-05-26T12:02:19.730Z BBC <bbc@users.noreply.github.com> :: update dependency versions
