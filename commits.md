@@ -688,3 +688,4 @@
 2026-05-25T11:45:43.469Z Colt Steele <Colt@users.noreply.github.com> :: add edge case in auth
 2026-05-25T19:24:10.932Z 削微寒 <521xueweihan@users.noreply.github.com> :: remove retry logic
 2026-05-26T16:44:08.367Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: fix retry logic
+2026-05-26T18:14:44.382Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish build script
