@@ -10325,3 +10325,4 @@
 2026-05-26T03:38:56.793Z Adafruit Industries <adafruit@users.noreply.github.com> :: clean up the CI matrix
 2026-05-26T04:05:22.142Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor retry logic
 2026-05-26T04:20:48.076Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up retry logic
+2026-05-26T06:12:57.991Z Keith Smiley <keith@users.noreply.github.com> :: update build script
