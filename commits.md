@@ -10346,3 +10346,4 @@
 2026-05-26T20:04:09.148Z Almas Baim <AlmasB@users.noreply.github.com> :: remove dependency versions
 2026-05-26T21:42:51.579Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
 2026-05-26T22:34:41.437Z Claude <claude@users.noreply.github.com> :: add logging
+2026-05-26T22:53:22.918Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dependency versions
