@@ -10338,3 +10338,4 @@
 2026-05-26T12:26:54.949Z vb <Vaibhavs10@users.noreply.github.com> :: fix the CI matrix
 2026-05-26T13:51:53.544Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: update the parser
 2026-05-26T14:06:26.626Z md-5 <md-5@users.noreply.github.com> :: wire up null check
+2026-05-26T14:50:35.447Z heyli <lcxfs1991@users.noreply.github.com> :: fix null check
