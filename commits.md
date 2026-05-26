@@ -10349,3 +10349,4 @@
 2026-05-26T22:53:22.918Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dependency versions
 2026-05-26T23:15:49.747Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up null check
 2026-05-26T23:30:37.223Z CTFs <ctfs@users.noreply.github.com> :: wire up logging
+2026-05-26T23:55:36.330Z David Clark <nullptrException100@users.noreply.github.com> :: clean up the CI matrix
