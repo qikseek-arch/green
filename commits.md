@@ -10347,3 +10347,4 @@
 2026-05-26T21:42:51.579Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
 2026-05-26T22:34:41.437Z Claude <claude@users.noreply.github.com> :: add logging
 2026-05-26T22:53:22.918Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor dependency versions
+2026-05-26T23:15:49.747Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up null check
