@@ -10340,3 +10340,4 @@
 2026-05-26T14:06:26.626Z md-5 <md-5@users.noreply.github.com> :: wire up null check
 2026-05-26T14:50:35.447Z heyli <lcxfs1991@users.noreply.github.com> :: fix null check
 2026-05-26T14:57:31.288Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the CI matrix
+2026-05-26T16:37:28.498Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor error handling
