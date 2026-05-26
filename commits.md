@@ -10318,3 +10318,4 @@
 2026-05-25T22:41:36.521Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update retry logic
 2026-05-25T22:47:18.031Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
 2026-05-25T22:54:04.202Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove build script
+2026-05-26T00:18:19.969Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up edge case in auth
