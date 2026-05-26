@@ -805,3 +805,4 @@
 2026-05-26T16:58:34.156Z Krish C Naik <krishnaik06@users.noreply.github.com> :: refactor null check
 2026-05-26T17:05:46.380Z Siraj Raval <llSourcell@users.noreply.github.com> :: tweak cache keys
 2026-05-26T20:27:24.891Z Chip Huyen <chiphuyen@users.noreply.github.com> :: clean up retry logic
+2026-05-26T21:59:28.697Z Brais Moure <mouredev@users.noreply.github.com> :: remove retry logic
