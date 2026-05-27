@@ -10372,3 +10372,4 @@
 2026-05-27T20:29:20.899Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak logging
 2026-05-27T20:31:38.629Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up dependency versions
 2026-05-27T20:35:12.957Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish readme typo
+2026-05-27T22:20:40.902Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up dead code
