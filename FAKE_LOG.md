@@ -260,3 +260,4 @@
 2026-05-12T01:31:22.490Z echo <echo@fake.invalid> :: wire up flaky test
 2026-05-12T12:16:33.648Z kai <kai@fake.invalid> :: refactor null check
 2026-05-22T15:27:42.576Z ghost <ghost@fake.invalid> :: polish build script
+2026-05-27T08:59:47.721Z rune <rune@fake.invalid> :: tweak null check
