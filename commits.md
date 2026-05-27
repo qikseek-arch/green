@@ -10369,3 +10369,4 @@
 2026-05-27T17:43:06.149Z Adam Bell <b3ll@users.noreply.github.com> :: bump dead code
 2026-05-27T18:01:57.175Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor retry logic
 2026-05-27T19:53:02.395Z Rei <chloerei@users.noreply.github.com> :: add build script
+2026-05-27T20:29:20.899Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak logging
