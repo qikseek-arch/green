@@ -806,3 +806,4 @@
 2026-05-26T17:05:46.380Z Siraj Raval <llSourcell@users.noreply.github.com> :: tweak cache keys
 2026-05-26T20:27:24.891Z Chip Huyen <chiphuyen@users.noreply.github.com> :: clean up retry logic
 2026-05-26T21:59:28.697Z Brais Moure <mouredev@users.noreply.github.com> :: remove retry logic
+2026-05-27T16:49:52.617Z Grant Sanderson <3b1b@users.noreply.github.com> :: wire up readme typo
