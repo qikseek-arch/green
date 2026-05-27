@@ -10364,3 +10364,4 @@
 2026-05-27T14:03:13.526Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak error handling
 2026-05-27T14:28:06.577Z md-5 <md-5@users.noreply.github.com> :: clean up config defaults
 2026-05-27T14:40:23.202Z Getgems <getgems-io@users.noreply.github.com> :: fix null check
+2026-05-27T15:51:33.799Z AI4Bhārat <opensource@ai4bharat.org> :: refactor retry logic
