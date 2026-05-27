@@ -10350,3 +10350,4 @@
 2026-05-26T23:15:49.747Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up null check
 2026-05-26T23:30:37.223Z CTFs <ctfs@users.noreply.github.com> :: wire up logging
 2026-05-26T23:55:36.330Z David Clark <nullptrException100@users.noreply.github.com> :: clean up the CI matrix
+2026-05-27T00:15:35.394Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump error handling
