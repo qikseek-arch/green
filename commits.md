@@ -10373,3 +10373,4 @@
 2026-05-27T20:31:38.629Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up dependency versions
 2026-05-27T20:35:12.957Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish readme typo
 2026-05-27T22:20:40.902Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up dead code
+2026-05-27T23:01:07.075Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up null check
