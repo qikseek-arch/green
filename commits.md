@@ -10351,3 +10351,4 @@
 2026-05-26T23:30:37.223Z CTFs <ctfs@users.noreply.github.com> :: wire up logging
 2026-05-26T23:55:36.330Z David Clark <nullptrException100@users.noreply.github.com> :: clean up the CI matrix
 2026-05-27T00:15:35.394Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump error handling
+2026-05-27T00:59:40.825Z SouJunior <wouerner@soujunior.tech> :: wire up dependency versions
