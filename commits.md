@@ -690,3 +690,4 @@
 2026-05-26T16:44:08.367Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: fix retry logic
 2026-05-26T18:14:44.382Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: polish build script
 2026-05-27T08:47:33.636Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: add build script
+2026-05-27T08:55:47.546Z scikit-learn <scikit-learn@users.noreply.github.com> :: fix dependency versions
