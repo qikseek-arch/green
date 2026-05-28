@@ -471,3 +471,4 @@
 2026-05-18T17:11:02.016Z echo <echo@fake.invalid> :: bump error handling
 2026-05-24T22:14:32.742Z Robert C. Martin <robert.c.martin@fake.invalid> :: bump config defaults
 2026-05-25T09:29:30.033Z James Gosling <james.gosling@fake.invalid> :: tweak dead code
+2026-05-28T16:48:44.639Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: remove the CI matrix
