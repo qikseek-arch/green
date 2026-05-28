@@ -10381,3 +10381,4 @@
 2026-05-28T03:30:00.891Z Adam Bell <b3ll@users.noreply.github.com> :: add null check
 2026-05-28T03:36:49.583Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor the CI matrix
 2026-05-28T03:58:34.923Z CTFs <ctfs@users.noreply.github.com> :: update config defaults
+2026-05-28T04:44:38.408Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak edge case in auth
