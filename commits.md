@@ -10388,3 +10388,4 @@
 2026-05-28T10:29:59.629Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor edge case in auth
 2026-05-28T10:54:06.495Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up error handling
 2026-05-28T11:19:53.013Z WebRTC <discuss-webrtc@googlegroups.com> :: fix dead code
+2026-05-28T12:03:00.126Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update build script
