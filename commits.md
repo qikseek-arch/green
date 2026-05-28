@@ -10379,3 +10379,4 @@
 2026-05-28T02:16:08.427Z Sadık TURAN <sadikturan@users.noreply.github.com> :: wire up retry logic
 2026-05-28T03:26:22.608Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor dead code
 2026-05-28T03:30:00.891Z Adam Bell <b3ll@users.noreply.github.com> :: add null check
+2026-05-28T03:36:49.583Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor the CI matrix
