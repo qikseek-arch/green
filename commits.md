@@ -10414,3 +10414,4 @@
 2026-05-29T15:15:07.177Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add error handling
 2026-05-29T15:17:24.905Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish logging
 2026-05-29T15:33:19.846Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up cache keys
+2026-05-29T16:27:59.791Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
