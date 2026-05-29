@@ -10421,3 +10421,4 @@
 2026-05-29T17:36:24.536Z ring04h <ring04h@users.noreply.github.com> :: bump build script
 2026-05-29T18:04:56.465Z Ryan Bigg <radar@users.noreply.github.com> :: bump logging
 2026-05-29T18:10:12.147Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up edge case in auth
+2026-05-29T19:37:31.990Z Taiko Foundation <info@taiko.xyz> :: remove logging
