@@ -472,3 +472,4 @@
 2026-05-24T22:14:32.742Z Robert C. Martin <robert.c.martin@fake.invalid> :: bump config defaults
 2026-05-25T09:29:30.033Z James Gosling <james.gosling@fake.invalid> :: tweak dead code
 2026-05-28T16:48:44.639Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: remove the CI matrix
+2026-05-29T10:35:36.320Z zero <zero@fake.invalid> :: fix config defaults
