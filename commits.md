@@ -10401,3 +10401,4 @@
 2026-05-29T02:10:36.311Z AI4Bhārat <opensource@ai4bharat.org> :: polish config defaults
 2026-05-29T04:33:42.995Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add config defaults
 2026-05-29T08:04:41.468Z BBC <bbc@users.noreply.github.com> :: wire up dead code
+2026-05-29T08:05:39.606Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor null check
