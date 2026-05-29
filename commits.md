@@ -10399,3 +10399,4 @@
 2026-05-28T22:03:20.330Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor retry logic
 2026-05-29T01:32:20.896Z SouJunior <wouerner@soujunior.tech> :: fix readme typo
 2026-05-29T02:10:36.311Z AI4Bhārat <opensource@ai4bharat.org> :: polish config defaults
+2026-05-29T04:33:42.995Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add config defaults
