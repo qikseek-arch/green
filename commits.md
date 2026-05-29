@@ -10406,3 +10406,4 @@
 2026-05-29T09:03:43.064Z Manu Arora <manuarora700@users.noreply.github.com> :: bump config defaults
 2026-05-29T09:06:06.048Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
 2026-05-29T12:24:59.491Z Damian Dulisz <shentao@users.noreply.github.com> :: update cache keys
+2026-05-29T12:34:45.819Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the CI matrix
