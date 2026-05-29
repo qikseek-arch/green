@@ -10408,3 +10408,4 @@
 2026-05-29T12:24:59.491Z Damian Dulisz <shentao@users.noreply.github.com> :: update cache keys
 2026-05-29T12:34:45.819Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the CI matrix
 2026-05-29T14:17:07.601Z Getgems <getgems-io@users.noreply.github.com> :: bump logging
+2026-05-29T14:51:45.753Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish config defaults
