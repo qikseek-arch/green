@@ -10398,3 +10398,4 @@
 2026-05-28T19:53:47.262Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump null check
 2026-05-28T22:03:20.330Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor retry logic
 2026-05-29T01:32:20.896Z SouJunior <wouerner@soujunior.tech> :: fix readme typo
+2026-05-29T02:10:36.311Z AI4Bhārat <opensource@ai4bharat.org> :: polish config defaults
