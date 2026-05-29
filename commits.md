@@ -10417,3 +10417,4 @@
 2026-05-29T16:27:59.791Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
 2026-05-29T16:52:01.468Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add readme typo
 2026-05-29T17:07:56.981Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor error handling
+2026-05-29T17:14:13.342Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up retry logic
