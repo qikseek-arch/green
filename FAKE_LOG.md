@@ -807,3 +807,4 @@
 2026-05-26T20:27:24.891Z Chip Huyen <chiphuyen@users.noreply.github.com> :: clean up retry logic
 2026-05-26T21:59:28.697Z Brais Moure <mouredev@users.noreply.github.com> :: remove retry logic
 2026-05-27T16:49:52.617Z Grant Sanderson <3b1b@users.noreply.github.com> :: wire up readme typo
+2026-05-29T16:27:51.990Z ReVanced <nosupport@revanced.app> :: wire up the parser
