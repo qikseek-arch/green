@@ -10430,3 +10430,4 @@
 2026-05-30T03:32:55.497Z qiye <qiyeboy@users.noreply.github.com> :: refactor the parser
 2026-05-30T06:04:01.383Z AI4Bhārat <opensource@ai4bharat.org> :: wire up dead code
 2026-05-30T06:23:21.873Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump flaky test
+2026-05-30T08:22:19.171Z CTFs <ctfs@users.noreply.github.com> :: wire up config defaults
