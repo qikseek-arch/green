@@ -10427,3 +10427,4 @@
 2026-05-30T00:32:54.173Z heyli <lcxfs1991@users.noreply.github.com> :: remove the CI matrix
 2026-05-30T01:36:01.950Z Rei <chloerei@users.noreply.github.com> :: clean up dependency versions
 2026-05-30T02:31:18.944Z Bert Belder <piscisaureus@users.noreply.github.com> :: add readme typo
+2026-05-30T03:32:55.497Z qiye <qiyeboy@users.noreply.github.com> :: refactor the parser
