@@ -10423,3 +10423,4 @@
 2026-05-29T18:10:12.147Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up edge case in auth
 2026-05-29T19:37:31.990Z Taiko Foundation <info@taiko.xyz> :: remove logging
 2026-05-29T21:30:54.944Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: bump the CI matrix
+2026-05-30T00:30:47.962Z qiye <qiyeboy@users.noreply.github.com> :: bump edge case in auth
