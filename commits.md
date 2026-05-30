@@ -10434,3 +10434,4 @@
 2026-05-30T09:38:08.418Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add the CI matrix
 2026-05-30T10:07:21.325Z AI4Bhārat <opensource@ai4bharat.org> :: update dead code
 2026-05-30T10:23:18.731Z First Contributions <firstcontributions@gmail.com> :: fix retry logic
+2026-05-30T18:30:02.108Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up build script
