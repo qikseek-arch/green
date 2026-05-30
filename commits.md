@@ -10437,3 +10437,4 @@
 2026-05-30T18:30:02.108Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up build script
 2026-05-30T21:17:58.050Z Taiko Foundation <info@taiko.xyz> :: bump dead code
 2026-05-30T22:04:57.845Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor config defaults
+2026-05-30T23:02:52.325Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dependency versions
