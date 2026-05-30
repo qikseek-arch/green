@@ -10436,3 +10436,4 @@
 2026-05-30T10:23:18.731Z First Contributions <firstcontributions@gmail.com> :: fix retry logic
 2026-05-30T18:30:02.108Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up build script
 2026-05-30T21:17:58.050Z Taiko Foundation <info@taiko.xyz> :: bump dead code
+2026-05-30T22:04:57.845Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor config defaults
