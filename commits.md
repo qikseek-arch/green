@@ -10452,3 +10452,4 @@
 2026-05-31T10:24:27.228Z md-5 <md-5@users.noreply.github.com> :: refactor build script
 2026-05-31T11:28:06.466Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up cache keys
 2026-05-31T11:45:39.465Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up edge case in auth
+2026-05-31T12:02:55.496Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: fix dependency versions
