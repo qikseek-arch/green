@@ -10440,3 +10440,4 @@
 2026-05-30T23:02:52.325Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dependency versions
 2026-05-31T00:00:17.389Z markqvist <markqvist@users.noreply.github.com> :: remove null check
 2026-05-31T01:16:07.299Z md-5 <md-5@users.noreply.github.com> :: update dependency versions
+2026-05-31T02:31:37.320Z owenzhang <owenzhang@users.noreply.github.com> :: tweak edge case in auth
