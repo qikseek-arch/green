@@ -473,3 +473,4 @@
 2026-05-25T09:29:30.033Z James Gosling <james.gosling@fake.invalid> :: tweak dead code
 2026-05-28T16:48:44.639Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: remove the CI matrix
 2026-05-29T10:35:36.320Z zero <zero@fake.invalid> :: fix config defaults
+2026-05-31T15:13:08.505Z vivid-kernel42 <vivid-kernel42@fake.invalid> :: fix readme typo
