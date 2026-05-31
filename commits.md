@@ -10448,3 +10448,4 @@
 2026-05-31T04:57:55.254Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update build script
 2026-05-31T05:02:28.189Z Taiko Foundation <info@taiko.xyz> :: polish dependency versions
 2026-05-31T08:25:04.866Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak the CI matrix
+2026-05-31T09:04:13.498Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add dependency versions
