@@ -10455,3 +10455,4 @@
 2026-05-31T12:02:55.496Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: fix dependency versions
 2026-05-31T13:02:00.753Z LILYGO <LilyGO@users.noreply.github.com> :: update flaky test
 2026-05-31T14:43:11.063Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up dependency versions
+2026-05-31T15:01:56.052Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update null check
