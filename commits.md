@@ -10462,3 +10462,4 @@
 2026-05-31T20:17:12.851Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2026-05-31T21:00:04.360Z ㅤxander <vampirist@users.noreply.github.com> :: clean up cache keys
 2026-05-31T21:12:19.108Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump null check
+2026-05-31T21:30:24.093Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove error handling
