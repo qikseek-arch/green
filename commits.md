@@ -10438,3 +10438,4 @@
 2026-05-30T21:17:58.050Z Taiko Foundation <info@taiko.xyz> :: bump dead code
 2026-05-30T22:04:57.845Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor config defaults
 2026-05-30T23:02:52.325Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dependency versions
+2026-05-31T00:00:17.389Z markqvist <markqvist@users.noreply.github.com> :: remove null check
