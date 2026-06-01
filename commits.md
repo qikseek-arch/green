@@ -10487,3 +10487,4 @@
 2026-06-01T21:56:37.792Z ㅤxander <vampirist@users.noreply.github.com> :: wire up build script
 2026-06-01T22:25:31.146Z qiye <qiyeboy@users.noreply.github.com> :: remove dead code
 2026-06-01T22:26:37.276Z OpenJS Foundation <info@openjsf.org> :: add dependency versions
+2026-06-01T23:55:04.391Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up readme typo
