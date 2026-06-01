@@ -10470,3 +10470,4 @@
 2026-06-01T01:55:28.583Z Taiko Foundation <info@taiko.xyz> :: wire up build script
 2026-06-01T05:18:48.879Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update edge case in auth
 2026-06-01T05:38:24.731Z AI4Bhārat <opensource@ai4bharat.org> :: update dependency versions
+2026-06-01T06:25:21.593Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish build script
