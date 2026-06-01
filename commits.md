@@ -10468,3 +10468,4 @@
 2026-06-01T00:06:56.426Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor build script
 2026-06-01T00:59:11.344Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up null check
 2026-06-01T01:55:28.583Z Taiko Foundation <info@taiko.xyz> :: wire up build script
+2026-06-01T05:18:48.879Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update edge case in auth
