@@ -10467,3 +10467,4 @@
 2026-05-31T23:28:21.794Z First Contributions <firstcontributions@gmail.com> :: fix dependency versions
 2026-06-01T00:06:56.426Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor build script
 2026-06-01T00:59:11.344Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up null check
+2026-06-01T01:55:28.583Z Taiko Foundation <info@taiko.xyz> :: wire up build script
