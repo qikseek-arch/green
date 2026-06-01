@@ -10484,3 +10484,4 @@
 2026-06-01T19:30:36.923Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update logging
 2026-06-01T21:32:13.523Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump dead code
 2026-06-01T21:35:51.859Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix cache keys
+2026-06-01T21:56:37.792Z ㅤxander <vampirist@users.noreply.github.com> :: wire up build script
