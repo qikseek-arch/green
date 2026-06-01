@@ -10477,3 +10477,4 @@
 2026-06-01T10:59:04.024Z Fady Farag <iidmsa@users.noreply.github.com> :: remove cache keys
 2026-06-01T11:42:05.887Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix edge case in auth
 2026-06-01T12:58:32.553Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor the parser
+2026-06-01T13:09:20.713Z Taiko Foundation <info@taiko.xyz> :: bump edge case in auth
