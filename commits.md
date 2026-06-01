@@ -10479,3 +10479,4 @@
 2026-06-01T12:58:32.553Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor the parser
 2026-06-01T13:09:20.713Z Taiko Foundation <info@taiko.xyz> :: bump edge case in auth
 2026-06-01T14:02:00.698Z markqvist <markqvist@users.noreply.github.com> :: update the CI matrix
+2026-06-01T14:34:39.930Z Manu Arora <manuarora700@users.noreply.github.com> :: update logging
