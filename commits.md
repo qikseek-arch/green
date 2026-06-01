@@ -10475,3 +10475,4 @@
 2026-06-01T07:26:23.285Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix logging
 2026-06-01T07:37:16.691Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish cache keys
 2026-06-01T10:59:04.024Z Fady Farag <iidmsa@users.noreply.github.com> :: remove cache keys
+2026-06-01T11:42:05.887Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix edge case in auth
