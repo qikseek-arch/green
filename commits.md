@@ -10495,3 +10495,4 @@
 2026-06-02T05:42:40.501Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove build script
 2026-06-02T07:10:04.741Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove edge case in auth
 2026-06-02T07:11:26.716Z vb <Vaibhavs10@users.noreply.github.com> :: refactor dependency versions
+2026-06-02T09:15:03.276Z Shubs <infosec-au@users.noreply.github.com> :: polish readme typo
