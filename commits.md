@@ -10498,3 +10498,4 @@
 2026-06-02T09:15:03.276Z Shubs <infosec-au@users.noreply.github.com> :: polish readme typo
 2026-06-02T09:42:15.104Z Claude <claude@users.noreply.github.com> :: bump null check
 2026-06-02T09:43:36.362Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add edge case in auth
+2026-06-02T09:58:14.878Z heyli <lcxfs1991@users.noreply.github.com> :: polish dead code
