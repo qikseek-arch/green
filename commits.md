@@ -10499,3 +10499,4 @@
 2026-06-02T09:42:15.104Z Claude <claude@users.noreply.github.com> :: bump null check
 2026-06-02T09:43:36.362Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add edge case in auth
 2026-06-02T09:58:14.878Z heyli <lcxfs1991@users.noreply.github.com> :: polish dead code
+2026-06-02T10:55:31.880Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: tweak dependency versions
