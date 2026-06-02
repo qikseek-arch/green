@@ -10507,3 +10507,4 @@
 2026-06-02T16:52:39.423Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
 2026-06-02T18:07:21.082Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add flaky test
 2026-06-02T18:50:08.130Z Keith Smiley <keith@users.noreply.github.com> :: bump null check
+2026-06-02T19:18:21.333Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump edge case in auth
