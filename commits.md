@@ -700,3 +700,4 @@
 2026-05-30T19:43:23.818Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: wire up the parser
 2026-05-31T15:42:03.977Z Yangqing Jia <Yangqing@users.noreply.github.com> :: add null check
 2026-06-01T14:55:36.542Z Craig <geekcomputers@users.noreply.github.com> :: wire up the parser
+2026-06-02T02:36:06.390Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak null check
