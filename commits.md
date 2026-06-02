@@ -10502,3 +10502,4 @@
 2026-06-02T10:55:31.880Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: tweak dependency versions
 2026-06-02T15:03:33.880Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up readme typo
 2026-06-02T15:07:30.210Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak null check
+2026-06-02T15:55:01.501Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update dependency versions
