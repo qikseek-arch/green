@@ -10506,3 +10506,4 @@
 2026-06-02T16:49:11.880Z Shubs <infosec-au@users.noreply.github.com> :: polish readme typo
 2026-06-02T16:52:39.423Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add config defaults
 2026-06-02T18:07:21.082Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add flaky test
+2026-06-02T18:50:08.130Z Keith Smiley <keith@users.noreply.github.com> :: bump null check
