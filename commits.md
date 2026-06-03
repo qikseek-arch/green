@@ -703,3 +703,4 @@
 2026-06-02T02:36:06.390Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: tweak null check
 2026-06-02T19:42:51.462Z HashLips <HashLips@users.noreply.github.com> :: polish the CI matrix
 2026-06-02T22:52:34.123Z kathy <pifafu@users.noreply.github.com> :: add config defaults
+2026-06-03T02:12:10.253Z Iuri Silva <iuricode@users.noreply.github.com> :: polish cache keys
