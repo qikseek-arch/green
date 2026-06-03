@@ -10535,3 +10535,4 @@
 2026-06-03T14:16:55.514Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak edge case in auth
 2026-06-03T15:46:39.435Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove the parser
 2026-06-03T16:27:40.085Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update dependency versions
+2026-06-03T17:17:09.163Z Claude <claude@users.noreply.github.com> :: fix build script
