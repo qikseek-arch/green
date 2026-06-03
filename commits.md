@@ -10537,3 +10537,4 @@
 2026-06-03T16:27:40.085Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update dependency versions
 2026-06-03T17:17:09.163Z Claude <claude@users.noreply.github.com> :: fix build script
 2026-06-03T18:35:25.374Z vb <Vaibhavs10@users.noreply.github.com> :: update the parser
+2026-06-03T18:41:28.335Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor error handling
