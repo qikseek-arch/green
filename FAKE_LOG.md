@@ -809,3 +809,4 @@
 2026-05-27T16:49:52.617Z Grant Sanderson <3b1b@users.noreply.github.com> :: wire up readme typo
 2026-05-29T16:27:51.990Z ReVanced <nosupport@revanced.app> :: wire up the parser
 2026-06-01T12:12:09.228Z Google <opensource@google.com> :: remove retry logic
+2026-06-03T13:11:36.024Z Donne Martin <donnemartin@users.noreply.github.com> :: tweak dead code
