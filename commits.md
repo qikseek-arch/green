@@ -10515,3 +10515,4 @@
 2026-06-02T23:28:48.359Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up dependency versions
 2026-06-03T00:06:09.523Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish readme typo
 2026-06-03T00:27:17.521Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add the CI matrix
+2026-06-03T01:21:39.298Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
