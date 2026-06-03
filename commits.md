@@ -10533,3 +10533,4 @@
 2026-06-03T11:58:59.959Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak the CI matrix
 2026-06-03T12:55:40.531Z Taiko Foundation <info@taiko.xyz> :: bump dependency versions
 2026-06-03T14:16:55.514Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak edge case in auth
+2026-06-03T15:46:39.435Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove the parser
