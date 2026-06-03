@@ -10520,3 +10520,4 @@
 2026-06-03T03:21:43.362Z AI4Bhārat <opensource@ai4bharat.org> :: polish error handling
 2026-06-03T04:15:16.427Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor dependency versions
 2026-06-03T04:26:14.566Z AI4Bhārat <opensource@ai4bharat.org> :: clean up build script
+2026-06-03T04:50:10.078Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: wire up build script
