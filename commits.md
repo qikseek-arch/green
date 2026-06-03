@@ -10540,3 +10540,4 @@
 2026-06-03T18:41:28.335Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor error handling
 2026-06-03T20:01:24.704Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor the parser
 2026-06-03T20:26:49.194Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up dead code
+2026-06-03T21:40:51.407Z ring04h <ring04h@users.noreply.github.com> :: polish build script
