@@ -10517,3 +10517,4 @@
 2026-06-03T00:27:17.521Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add the CI matrix
 2026-06-03T01:21:39.298Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
 2026-06-03T02:30:24.253Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up null check
+2026-06-03T03:21:43.362Z AI4Bhārat <opensource@ai4bharat.org> :: polish error handling
