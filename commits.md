@@ -10519,3 +10519,4 @@
 2026-06-03T02:30:24.253Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up null check
 2026-06-03T03:21:43.362Z AI4Bhārat <opensource@ai4bharat.org> :: polish error handling
 2026-06-03T04:15:16.427Z Aurélien Geron <ageron@users.noreply.github.com> :: refactor dependency versions
+2026-06-03T04:26:14.566Z AI4Bhārat <opensource@ai4bharat.org> :: clean up build script
