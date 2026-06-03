@@ -10532,3 +10532,4 @@
 2026-06-03T10:25:50.300Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish retry logic
 2026-06-03T11:58:59.959Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak the CI matrix
 2026-06-03T12:55:40.531Z Taiko Foundation <info@taiko.xyz> :: bump dependency versions
+2026-06-03T14:16:55.514Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak edge case in auth
