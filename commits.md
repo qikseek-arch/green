@@ -10546,3 +10546,4 @@
 2026-06-04T00:20:46.142Z Adam Bell <b3ll@users.noreply.github.com> :: update dependency versions
 2026-06-04T01:56:26.832Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add dead code
 2026-06-04T03:05:38.300Z Odi <mathdroid@users.noreply.github.com> :: add build script
+2026-06-04T04:08:45.228Z qiye <qiyeboy@users.noreply.github.com> :: wire up null check
