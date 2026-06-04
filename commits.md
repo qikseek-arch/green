@@ -10544,3 +10544,4 @@
 2026-06-03T22:29:24.641Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up readme typo
 2026-06-04T00:11:44.334Z Claude <claude@users.noreply.github.com> :: wire up edge case in auth
 2026-06-04T00:20:46.142Z Adam Bell <b3ll@users.noreply.github.com> :: update dependency versions
+2026-06-04T01:56:26.832Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add dead code
