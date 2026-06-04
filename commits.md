@@ -10542,3 +10542,4 @@
 2026-06-03T20:26:49.194Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up dead code
 2026-06-03T21:40:51.407Z ring04h <ring04h@users.noreply.github.com> :: polish build script
 2026-06-03T22:29:24.641Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up readme typo
+2026-06-04T00:11:44.334Z Claude <claude@users.noreply.github.com> :: wire up edge case in auth
