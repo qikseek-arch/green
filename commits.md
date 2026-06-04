@@ -10555,3 +10555,4 @@
 2026-06-04T08:37:29.347Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor the parser
 2026-06-04T08:55:58.130Z Arduino <arduino@users.noreply.github.com> :: refactor cache keys
 2026-06-04T10:00:53.248Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: wire up readme typo
+2026-06-04T11:04:59.578Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump null check
