@@ -10561,3 +10561,4 @@
 2026-06-04T17:38:37.762Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add error handling
 2026-06-04T17:47:33.776Z markqvist <markqvist@users.noreply.github.com> :: wire up dependency versions
 2026-06-04T18:45:52.257Z Claude <claude@users.noreply.github.com> :: polish error handling
+2026-06-04T20:18:24.596Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix logging
