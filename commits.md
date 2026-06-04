@@ -10552,3 +10552,4 @@
 2026-06-04T04:37:39.587Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump build script
 2026-06-04T08:13:45.848Z BBC <bbc@users.noreply.github.com> :: bump readme typo
 2026-06-04T08:32:33.534Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: clean up config defaults
+2026-06-04T08:37:29.347Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor the parser
