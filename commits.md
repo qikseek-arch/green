@@ -10558,3 +10558,4 @@
 2026-06-04T11:04:59.578Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump null check
 2026-06-04T11:14:33.921Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump flaky test
 2026-06-04T14:21:49.718Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove edge case in auth
+2026-06-04T17:38:37.762Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add error handling
