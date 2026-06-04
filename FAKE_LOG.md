@@ -810,3 +810,4 @@
 2026-05-29T16:27:51.990Z ReVanced <nosupport@revanced.app> :: wire up the parser
 2026-06-01T12:12:09.228Z Google <opensource@google.com> :: remove retry logic
 2026-06-03T13:11:36.024Z Donne Martin <donnemartin@users.noreply.github.com> :: tweak dead code
+2026-06-04T13:07:18.769Z Anthony Fu <antfu@users.noreply.github.com> :: update edge case in auth
