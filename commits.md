@@ -10560,3 +10560,4 @@
 2026-06-04T14:21:49.718Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove edge case in auth
 2026-06-04T17:38:37.762Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add error handling
 2026-06-04T17:47:33.776Z markqvist <markqvist@users.noreply.github.com> :: wire up dependency versions
+2026-06-04T18:45:52.257Z Claude <claude@users.noreply.github.com> :: polish error handling
