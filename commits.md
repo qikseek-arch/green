@@ -10565,3 +10565,4 @@
 2026-06-04T20:36:11.595Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish retry logic
 2026-06-04T21:43:40.065Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump retry logic
 2026-06-04T21:46:42.990Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up build script
+2026-06-04T22:45:09.220Z Shubs <infosec-au@users.noreply.github.com> :: refactor logging
