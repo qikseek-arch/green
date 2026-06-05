@@ -10569,3 +10569,4 @@
 2026-06-05T00:41:42.209Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor config defaults
 2026-06-05T01:20:43.232Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up the parser
 2026-06-05T03:24:12.956Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish dependency versions
+2026-06-05T06:41:18.585Z Fady Farag <iidmsa@users.noreply.github.com> :: remove null check
