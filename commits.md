@@ -10572,3 +10572,4 @@
 2026-06-05T06:41:18.585Z Fady Farag <iidmsa@users.noreply.github.com> :: remove null check
 2026-06-05T08:58:14.742Z qiye <qiyeboy@users.noreply.github.com> :: remove logging
 2026-06-05T10:40:45.721Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak config defaults
+2026-06-05T10:54:27.206Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
