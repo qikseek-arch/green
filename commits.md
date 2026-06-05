@@ -10584,3 +10584,4 @@
 2026-06-05T20:30:21.095Z owenzhang <owenzhang@users.noreply.github.com> :: tweak the CI matrix
 2026-06-05T21:02:09.698Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak build script
 2026-06-05T21:35:27.986Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up edge case in auth
+2026-06-05T23:37:09.776Z First Contributions <firstcontributions@gmail.com> :: add dependency versions
