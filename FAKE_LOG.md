@@ -262,3 +262,4 @@
 2026-05-22T15:27:42.576Z ghost <ghost@fake.invalid> :: polish build script
 2026-05-27T08:59:47.721Z rune <rune@fake.invalid> :: tweak null check
 2026-06-03T02:06:06.701Z seraph <seraph@fake.invalid> :: add the CI matrix
+2026-06-05T21:06:33.642Z admin <admin@fake.invalid> :: tweak dead code
