@@ -10580,3 +10580,4 @@
 2026-06-05T15:03:15.230Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up build script
 2026-06-05T15:04:33.848Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add logging
 2026-06-05T17:01:01.739Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the parser
+2026-06-05T18:32:28.000Z md-5 <md-5@users.noreply.github.com> :: refactor the parser
