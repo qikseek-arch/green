@@ -812,3 +812,4 @@
 2026-06-03T13:11:36.024Z Donne Martin <donnemartin@users.noreply.github.com> :: tweak dead code
 2026-06-04T13:07:18.769Z Anthony Fu <antfu@users.noreply.github.com> :: update edge case in auth
 2026-06-05T03:34:57.804Z George Hotz <geohot@users.noreply.github.com> :: clean up the parser
+2026-06-05T20:21:34.132Z Mu Li <mli@users.noreply.github.com> :: fix logging
