@@ -10567,3 +10567,4 @@
 2026-06-04T21:46:42.990Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up build script
 2026-06-04T22:45:09.220Z Shubs <infosec-au@users.noreply.github.com> :: refactor logging
 2026-06-05T00:41:42.209Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor config defaults
+2026-06-05T01:20:43.232Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up the parser
