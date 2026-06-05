@@ -10582,3 +10582,4 @@
 2026-06-05T17:01:01.739Z Damian Dulisz <shentao@users.noreply.github.com> :: bump the parser
 2026-06-05T18:32:28.000Z md-5 <md-5@users.noreply.github.com> :: refactor the parser
 2026-06-05T20:30:21.095Z owenzhang <owenzhang@users.noreply.github.com> :: tweak the CI matrix
+2026-06-05T21:02:09.698Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak build script
