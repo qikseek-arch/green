@@ -10587,3 +10587,4 @@
 2026-06-05T23:37:09.776Z First Contributions <firstcontributions@gmail.com> :: add dependency versions
 2026-06-06T00:27:42.240Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix cache keys
 2026-06-06T00:50:45.722Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: update the parser
+2026-06-06T01:10:57.618Z Taiko Foundation <info@taiko.xyz> :: fix config defaults
