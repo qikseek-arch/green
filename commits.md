@@ -10598,3 +10598,4 @@
 2026-06-06T06:43:11.894Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update readme typo
 2026-06-06T06:53:09.557Z SouJunior <wouerner@soujunior.tech> :: bump edge case in auth
 2026-06-06T07:50:02.991Z heyli <lcxfs1991@users.noreply.github.com> :: tweak logging
+2026-06-06T08:24:17.538Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: refactor error handling
