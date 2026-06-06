@@ -709,3 +709,4 @@
 2026-06-04T06:07:57.381Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor the parser
 2026-06-04T09:37:40.466Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: refactor build script
 2026-06-05T03:03:54.057Z Avik Jain <Avik-Jain@users.noreply.github.com> :: clean up cache keys
+2026-06-06T01:08:39.693Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: polish edge case in auth
