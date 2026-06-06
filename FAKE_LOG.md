@@ -563,3 +563,4 @@
 2026-05-27T03:50:58.575Z Evan You <yyx990803@users.noreply.github.com> :: update cache keys
 2026-05-27T06:44:31.209Z Donne Martin <donnemartin@users.noreply.github.com> :: refactor build script
 2026-06-05T00:23:26.220Z Anthony Fu <antfu@users.noreply.github.com> :: refactor readme typo
+2026-06-06T17:10:22.342Z Christian Deacon <gamemann@users.noreply.github.com> :: remove the CI matrix
