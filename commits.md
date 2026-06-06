@@ -711,3 +711,4 @@
 2026-06-05T03:03:54.057Z Avik Jain <Avik-Jain@users.noreply.github.com> :: clean up cache keys
 2026-06-06T01:08:39.693Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: polish edge case in auth
 2026-06-06T16:14:41.319Z David Robinson <dgrtwo@users.noreply.github.com> :: tweak logging
+2026-06-06T21:15:26.720Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: clean up retry logic
