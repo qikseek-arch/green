@@ -10607,3 +10607,4 @@
 2026-06-06T13:58:33.837Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
 2026-06-06T15:58:09.180Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up error handling
 2026-06-06T16:22:43.189Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up flaky test
+2026-06-06T16:36:57.526Z md-5 <md-5@users.noreply.github.com> :: tweak the CI matrix
