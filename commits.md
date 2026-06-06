@@ -10590,3 +10590,4 @@
 2026-06-06T01:10:57.618Z Taiko Foundation <info@taiko.xyz> :: fix config defaults
 2026-06-06T02:51:48.702Z Getgems <getgems-io@users.noreply.github.com> :: fix cache keys
 2026-06-06T04:18:34.507Z heyli <lcxfs1991@users.noreply.github.com> :: bump logging
+2026-06-06T04:56:54.901Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add dead code
