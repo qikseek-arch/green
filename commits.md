@@ -10602,3 +10602,4 @@
 2026-06-06T09:28:13.957Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor edge case in auth
 2026-06-06T10:59:53.760Z heyli <lcxfs1991@users.noreply.github.com> :: fix flaky test
 2026-06-06T11:11:13.599Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak readme typo
+2026-06-06T12:02:07.269Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump dependency versions
