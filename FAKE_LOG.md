@@ -263,3 +263,4 @@
 2026-05-27T08:59:47.721Z rune <rune@fake.invalid> :: tweak null check
 2026-06-03T02:06:06.701Z seraph <seraph@fake.invalid> :: add the CI matrix
 2026-06-05T21:06:33.642Z admin <admin@fake.invalid> :: tweak dead code
+2026-06-06T20:51:13.644Z cipher <cipher@fake.invalid> :: wire up null check
