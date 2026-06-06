@@ -10599,3 +10599,4 @@
 2026-06-06T06:53:09.557Z SouJunior <wouerner@soujunior.tech> :: bump edge case in auth
 2026-06-06T07:50:02.991Z heyli <lcxfs1991@users.noreply.github.com> :: tweak logging
 2026-06-06T08:24:17.538Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: refactor error handling
+2026-06-06T09:28:13.957Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor edge case in auth
