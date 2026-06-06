@@ -10608,3 +10608,4 @@
 2026-06-06T15:58:09.180Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up error handling
 2026-06-06T16:22:43.189Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up flaky test
 2026-06-06T16:36:57.526Z md-5 <md-5@users.noreply.github.com> :: tweak the CI matrix
+2026-06-06T16:48:51.221Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump logging
