@@ -10605,3 +10605,4 @@
 2026-06-06T12:02:07.269Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump dependency versions
 2026-06-06T13:49:29.024Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix null check
 2026-06-06T13:58:33.837Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
+2026-06-06T15:58:09.180Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up error handling
