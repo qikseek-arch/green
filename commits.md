@@ -10614,3 +10614,4 @@
 2026-06-06T19:43:30.497Z Odi <mathdroid@users.noreply.github.com> :: clean up the CI matrix
 2026-06-06T19:51:01.300Z WebRTC <discuss-webrtc@googlegroups.com> :: update the parser
 2026-06-06T20:42:10.033Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update build script
+2026-06-06T21:51:22.824Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update edge case in auth
