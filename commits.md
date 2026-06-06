@@ -10604,3 +10604,4 @@
 2026-06-06T11:11:13.599Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak readme typo
 2026-06-06T12:02:07.269Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump dependency versions
 2026-06-06T13:49:29.024Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix null check
+2026-06-06T13:58:33.837Z SouJunior <wouerner@soujunior.tech> :: tweak cache keys
