@@ -10640,3 +10640,4 @@
 2026-06-07T18:41:02.815Z owenzhang <owenzhang@users.noreply.github.com> :: fix edge case in auth
 2026-06-07T19:09:22.643Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up the CI matrix
 2026-06-07T22:12:21.211Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up retry logic
+2026-06-07T22:14:55.974Z Damian Dulisz <shentao@users.noreply.github.com> :: add null check
