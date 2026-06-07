@@ -10629,3 +10629,4 @@
 2026-06-07T09:34:00.619Z CTFs <ctfs@users.noreply.github.com> :: remove readme typo
 2026-06-07T09:40:49.347Z CTFs <ctfs@users.noreply.github.com> :: polish the parser
 2026-06-07T10:13:46.769Z AI4Bhārat <opensource@ai4bharat.org> :: remove config defaults
+2026-06-07T10:22:37.876Z First Contributions <firstcontributions@gmail.com> :: clean up the parser
