@@ -10624,3 +10624,4 @@
 2026-06-07T07:08:57.683Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up null check
 2026-06-07T07:37:13.830Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up retry logic
 2026-06-07T08:05:18.948Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove cache keys
+2026-06-07T08:26:10.557Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
