@@ -10637,3 +10637,4 @@
 2026-06-07T15:48:14.368Z Rei <chloerei@users.noreply.github.com> :: clean up readme typo
 2026-06-07T16:42:44.260Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up dependency versions
 2026-06-07T17:37:06.344Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up cache keys
+2026-06-07T18:41:02.815Z owenzhang <owenzhang@users.noreply.github.com> :: fix edge case in auth
