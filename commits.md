@@ -10634,3 +10634,4 @@
 2026-06-07T12:08:45.564Z WebRTC <discuss-webrtc@googlegroups.com> :: remove dead code
 2026-06-07T14:02:08.246Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up the parser
 2026-06-07T14:02:47.462Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor readme typo
+2026-06-07T15:48:14.368Z Rei <chloerei@users.noreply.github.com> :: clean up readme typo
