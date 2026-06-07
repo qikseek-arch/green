@@ -10625,3 +10625,4 @@
 2026-06-07T07:37:13.830Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: clean up retry logic
 2026-06-07T08:05:18.948Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove cache keys
 2026-06-07T08:26:10.557Z Selenium <SeleniumHQ@users.noreply.github.com> :: refactor the CI matrix
+2026-06-07T08:55:29.512Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up retry logic
