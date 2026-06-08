@@ -10650,3 +10650,4 @@
 2026-06-08T07:34:03.129Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
 2026-06-08T07:43:58.429Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up the CI matrix
 2026-06-08T07:47:28.377Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: refactor error handling
+2026-06-08T08:32:58.947Z Shubs <infosec-au@users.noreply.github.com> :: bump dead code
