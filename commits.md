@@ -10660,3 +10660,4 @@
 2026-06-08T12:18:58.329Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix dependency versions
 2026-06-08T12:39:47.054Z OpenJS Foundation <info@openjsf.org> :: tweak logging
 2026-06-08T12:55:16.799Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up dependency versions
+2026-06-08T13:25:58.095Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor the parser
