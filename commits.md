@@ -10659,3 +10659,4 @@
 2026-06-08T11:18:22.468Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish the CI matrix
 2026-06-08T12:18:58.329Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix dependency versions
 2026-06-08T12:39:47.054Z OpenJS Foundation <info@openjsf.org> :: tweak logging
+2026-06-08T12:55:16.799Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up dependency versions
