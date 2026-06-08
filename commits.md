@@ -10648,3 +10648,4 @@
 2026-06-08T03:12:51.716Z Getgems <getgems-io@users.noreply.github.com> :: refactor readme typo
 2026-06-08T05:36:59.414Z David Clark <nullptrException100@users.noreply.github.com> :: tweak flaky test
 2026-06-08T07:34:03.129Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
+2026-06-08T07:43:58.429Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up the CI matrix
