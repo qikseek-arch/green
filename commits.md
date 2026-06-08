@@ -10658,3 +10658,4 @@
 2026-06-08T10:59:43.532Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove readme typo
 2026-06-08T11:18:22.468Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish the CI matrix
 2026-06-08T12:18:58.329Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix dependency versions
+2026-06-08T12:39:47.054Z OpenJS Foundation <info@openjsf.org> :: tweak logging
