@@ -10655,3 +10655,4 @@
 2026-06-08T09:03:24.023Z BBC <bbc@users.noreply.github.com> :: wire up dependency versions
 2026-06-08T10:00:41.449Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up edge case in auth
 2026-06-08T10:58:53.202Z markqvist <markqvist@users.noreply.github.com> :: polish readme typo
+2026-06-08T10:59:43.532Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove readme typo
