@@ -10643,3 +10643,4 @@
 2026-06-07T22:14:55.974Z Damian Dulisz <shentao@users.noreply.github.com> :: add null check
 2026-06-07T22:50:51.878Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak cache keys
 2026-06-07T23:52:15.630Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish retry logic
+2026-06-08T00:40:46.072Z Taiko Foundation <info@taiko.xyz> :: bump dependency versions
