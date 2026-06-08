@@ -10664,3 +10664,4 @@
 2026-06-08T15:05:01.716Z ring04h <ring04h@users.noreply.github.com> :: fix error handling
 2026-06-08T17:18:30.980Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update cache keys
 2026-06-08T17:56:55.350Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update retry logic
+2026-06-08T18:34:11.496Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add cache keys
