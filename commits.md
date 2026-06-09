@@ -10682,3 +10682,4 @@
 2026-06-09T06:18:55.614Z Adam Bell <b3ll@users.noreply.github.com> :: fix the parser
 2026-06-09T06:32:48.627Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump edge case in auth
 2026-06-09T06:49:41.062Z Adam Łucek <ALucek@users.noreply.github.com> :: polish the parser
+2026-06-09T07:08:49.537Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix dead code
