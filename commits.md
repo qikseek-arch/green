@@ -10698,3 +10698,4 @@
 2026-06-09T20:57:01.026Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up logging
 2026-06-09T21:01:42.229Z CTFs <ctfs@users.noreply.github.com> :: remove logging
 2026-06-09T21:02:50.398Z owenzhang <owenzhang@users.noreply.github.com> :: wire up dead code
+2026-06-09T22:53:56.231Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up dependency versions
