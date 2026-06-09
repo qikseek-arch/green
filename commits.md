@@ -10678,3 +10678,4 @@
 2026-06-09T05:40:37.350Z Aurélien Geron <ageron@users.noreply.github.com> :: bump retry logic
 2026-06-09T05:45:23.951Z CTFs <ctfs@users.noreply.github.com> :: polish edge case in auth
 2026-06-09T05:46:59.185Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump readme typo
+2026-06-09T05:53:41.533Z LILYGO <LilyGO@users.noreply.github.com> :: clean up edge case in auth
