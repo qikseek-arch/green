@@ -717,3 +717,4 @@
 2026-06-07T12:21:40.516Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: polish edge case in auth
 2026-06-07T19:42:21.122Z 4Geeks Academy <info@4geeksacademy.com> :: update dead code
 2026-06-09T00:30:41.490Z Philipp Schmid <philschmid@users.noreply.github.com> :: update the CI matrix
+2026-06-09T08:51:16.659Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: remove config defaults
