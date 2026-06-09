@@ -10677,3 +10677,4 @@
 2026-06-09T05:33:31.012Z qiye <qiyeboy@users.noreply.github.com> :: bump cache keys
 2026-06-09T05:40:37.350Z Aurélien Geron <ageron@users.noreply.github.com> :: bump retry logic
 2026-06-09T05:45:23.951Z CTFs <ctfs@users.noreply.github.com> :: polish edge case in auth
+2026-06-09T05:46:59.185Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump readme typo
