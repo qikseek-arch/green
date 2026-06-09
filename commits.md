@@ -10686,3 +10686,4 @@
 2026-06-09T10:51:39.038Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update retry logic
 2026-06-09T16:18:24.340Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add dependency versions
 2026-06-09T16:32:02.658Z Barret李靖 <barretlee@users.noreply.github.com> :: add error handling
+2026-06-09T17:01:16.286Z Manu Arora <manuarora700@users.noreply.github.com> :: fix config defaults
