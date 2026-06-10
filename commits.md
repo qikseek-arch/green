@@ -10704,3 +10704,4 @@
 2026-06-10T02:02:54.585Z qiye <qiyeboy@users.noreply.github.com> :: clean up config defaults
 2026-06-10T07:19:10.310Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
 2026-06-10T09:29:39.083Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix edge case in auth
+2026-06-10T11:48:26.782Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove null check
