@@ -10719,3 +10719,4 @@
 2026-06-10T19:12:08.628Z qiye <qiyeboy@users.noreply.github.com> :: tweak dependency versions
 2026-06-10T20:02:55.716Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor the CI matrix
 2026-06-10T20:07:43.678Z BBC <bbc@users.noreply.github.com> :: add build script
+2026-06-10T23:24:22.161Z Sachin Soni <techiesms@users.noreply.github.com> :: remove the parser
