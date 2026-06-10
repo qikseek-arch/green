@@ -721,3 +721,4 @@
 2026-06-09T16:43:07.715Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: update flaky test
 2026-06-10T07:47:29.702Z FastAPI <fastapi@users.noreply.github.com> :: wire up flaky test
 2026-06-10T07:48:25.155Z Rob Fuller <mubix@users.noreply.github.com> :: refactor edge case in auth
+2026-06-10T10:01:35.728Z 4Geeks Academy <info@4geeksacademy.com> :: wire up the CI matrix
