@@ -10708,3 +10708,4 @@
 2026-06-10T12:20:20.976Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish flaky test
 2026-06-10T13:01:33.458Z Roger Labbe <rlabbe@users.noreply.github.com> :: update dead code
 2026-06-10T13:02:16.025Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump build script
+2026-06-10T13:11:57.443Z LILYGO <LilyGO@users.noreply.github.com> :: tweak config defaults
