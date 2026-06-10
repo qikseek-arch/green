@@ -719,3 +719,4 @@
 2026-06-09T00:30:41.490Z Philipp Schmid <philschmid@users.noreply.github.com> :: update the CI matrix
 2026-06-09T08:51:16.659Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: remove config defaults
 2026-06-09T16:43:07.715Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: update flaky test
+2026-06-10T07:47:29.702Z FastAPI <fastapi@users.noreply.github.com> :: wire up flaky test
