@@ -10717,3 +10717,4 @@
 2026-06-10T18:47:42.741Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add error handling
 2026-06-10T18:59:09.621Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: fix error handling
 2026-06-10T19:12:08.628Z qiye <qiyeboy@users.noreply.github.com> :: tweak dependency versions
+2026-06-10T20:02:55.716Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor the CI matrix
