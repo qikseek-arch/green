@@ -10701,3 +10701,4 @@
 2026-06-09T22:53:56.231Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up dependency versions
 2026-06-10T00:38:37.061Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix config defaults
 2026-06-10T00:56:17.444Z David Clark <nullptrException100@users.noreply.github.com> :: update cache keys
+2026-06-10T02:02:54.585Z qiye <qiyeboy@users.noreply.github.com> :: clean up config defaults
