@@ -10703,3 +10703,4 @@
 2026-06-10T00:56:17.444Z David Clark <nullptrException100@users.noreply.github.com> :: update cache keys
 2026-06-10T02:02:54.585Z qiye <qiyeboy@users.noreply.github.com> :: clean up config defaults
 2026-06-10T07:19:10.310Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
+2026-06-10T09:29:39.083Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix edge case in auth
