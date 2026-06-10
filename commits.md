@@ -10706,3 +10706,4 @@
 2026-06-10T09:29:39.083Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix edge case in auth
 2026-06-10T11:48:26.782Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove null check
 2026-06-10T12:20:20.976Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish flaky test
+2026-06-10T13:01:33.458Z Roger Labbe <rlabbe@users.noreply.github.com> :: update dead code
