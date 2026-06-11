@@ -10736,3 +10736,4 @@
 2026-06-11T15:05:21.794Z CTFs <ctfs@users.noreply.github.com> :: tweak dead code
 2026-06-11T16:51:01.281Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update readme typo
 2026-06-11T17:57:49.957Z Keith Smiley <keith@users.noreply.github.com> :: refactor the parser
+2026-06-11T18:25:33.871Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump null check
