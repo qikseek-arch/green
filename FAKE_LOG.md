@@ -475,3 +475,4 @@
 2026-05-29T10:35:36.320Z zero <zero@fake.invalid> :: fix config defaults
 2026-05-31T15:13:08.505Z vivid-kernel42 <vivid-kernel42@fake.invalid> :: fix readme typo
 2026-06-10T10:18:11.657Z walrus_dusty_io <walrus_dusty_io@fake.invalid> :: tweak retry logic
+2026-06-11T20:37:49.828Z midnightwizard316 <midnightwizard316@fake.invalid> :: refactor flaky test
