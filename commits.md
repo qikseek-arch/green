@@ -10739,3 +10739,4 @@
 2026-06-11T18:25:33.871Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump null check
 2026-06-11T18:54:27.683Z Ryan Bigg <radar@users.noreply.github.com> :: add build script
 2026-06-11T18:59:36.497Z ring04h <ring04h@users.noreply.github.com> :: add readme typo
+2026-06-11T19:13:41.493Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up the parser
