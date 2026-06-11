@@ -727,3 +727,4 @@
 2026-06-10T21:06:16.775Z Ryubing <Ryubing@users.noreply.github.com> :: update cache keys
 2026-06-11T10:45:34.694Z Ovilia <Ovilia@users.noreply.github.com> :: tweak the CI matrix
 2026-06-11T20:45:17.265Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: refactor dependency versions
+2026-06-11T21:02:06.692Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up logging
