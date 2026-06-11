@@ -10740,3 +10740,4 @@
 2026-06-11T18:54:27.683Z Ryan Bigg <radar@users.noreply.github.com> :: add build script
 2026-06-11T18:59:36.497Z ring04h <ring04h@users.noreply.github.com> :: add readme typo
 2026-06-11T19:13:41.493Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up the parser
+2026-06-11T20:24:49.977Z markqvist <markqvist@users.noreply.github.com> :: tweak the parser
