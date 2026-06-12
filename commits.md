@@ -10765,3 +10765,4 @@
 2026-06-12T16:35:54.854Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up null check
 2026-06-12T16:55:40.746Z Sadık TURAN <sadikturan@users.noreply.github.com> :: refactor null check
 2026-06-12T17:54:44.446Z markqvist <markqvist@users.noreply.github.com> :: update build script
+2026-06-12T18:47:00.619Z markqvist <markqvist@users.noreply.github.com> :: tweak dependency versions
