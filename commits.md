@@ -10767,3 +10767,4 @@
 2026-06-12T17:54:44.446Z markqvist <markqvist@users.noreply.github.com> :: update build script
 2026-06-12T18:47:00.619Z markqvist <markqvist@users.noreply.github.com> :: tweak dependency versions
 2026-06-12T20:27:56.201Z Bert Belder <piscisaureus@users.noreply.github.com> :: update readme typo
+2026-06-12T20:47:45.496Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix logging
