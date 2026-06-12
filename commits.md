@@ -10743,3 +10743,4 @@
 2026-06-11T20:24:49.977Z markqvist <markqvist@users.noreply.github.com> :: tweak the parser
 2026-06-11T22:37:30.641Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor logging
 2026-06-12T01:05:23.086Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: wire up config defaults
+2026-06-12T01:58:57.777Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: tweak error handling
