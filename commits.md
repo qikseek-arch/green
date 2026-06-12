@@ -10749,3 +10749,4 @@
 2026-06-12T02:36:37.165Z Keith Smiley <keith@users.noreply.github.com> :: wire up error handling
 2026-06-12T03:11:56.456Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up cache keys
 2026-06-12T03:46:00.357Z Adam Bell <b3ll@users.noreply.github.com> :: fix error handling
+2026-06-12T05:58:11.495Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add config defaults
