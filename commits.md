@@ -10756,3 +10756,4 @@
 2026-06-12T08:12:27.254Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
 2026-06-12T08:21:59.784Z Shubs <infosec-au@users.noreply.github.com> :: polish retry logic
 2026-06-12T09:21:22.123Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up edge case in auth
+2026-06-12T09:43:27.281Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up logging
