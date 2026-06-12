@@ -10750,3 +10750,4 @@
 2026-06-12T03:11:56.456Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up cache keys
 2026-06-12T03:46:00.357Z Adam Bell <b3ll@users.noreply.github.com> :: fix error handling
 2026-06-12T05:58:11.495Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: add config defaults
+2026-06-12T06:55:30.869Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak dead code
