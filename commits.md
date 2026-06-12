@@ -10760,3 +10760,4 @@
 2026-06-12T10:02:36.818Z Adam Bell <b3ll@users.noreply.github.com> :: remove cache keys
 2026-06-12T13:27:18.067Z ㅤxander <vampirist@users.noreply.github.com> :: bump readme typo
 2026-06-12T13:35:02.227Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor dependency versions
+2026-06-12T15:40:59.520Z markqvist <markqvist@users.noreply.github.com> :: fix dependency versions
