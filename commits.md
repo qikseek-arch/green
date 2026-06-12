@@ -10762,3 +10762,4 @@
 2026-06-12T13:35:02.227Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor dependency versions
 2026-06-12T15:40:59.520Z markqvist <markqvist@users.noreply.github.com> :: fix dependency versions
 2026-06-12T16:20:25.677Z Sachin Soni <techiesms@users.noreply.github.com> :: polish the CI matrix
+2026-06-12T16:35:54.854Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up null check
