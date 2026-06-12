@@ -729,3 +729,4 @@
 2026-06-11T20:45:17.265Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: refactor dependency versions
 2026-06-11T21:02:06.692Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: wire up logging
 2026-06-11T22:08:40.470Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: add dead code
+2026-06-12T11:04:46.194Z Merve Noyan <merveenoyan@users.noreply.github.com> :: bump readme typo
