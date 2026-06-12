@@ -10768,3 +10768,4 @@
 2026-06-12T18:47:00.619Z markqvist <markqvist@users.noreply.github.com> :: tweak dependency versions
 2026-06-12T20:27:56.201Z Bert Belder <piscisaureus@users.noreply.github.com> :: update readme typo
 2026-06-12T20:47:45.496Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix logging
+2026-06-12T20:48:02.437Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the CI matrix
