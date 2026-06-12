@@ -733,3 +733,4 @@
 2026-06-12T14:36:22.088Z Ovilia <Ovilia@users.noreply.github.com> :: update null check
 2026-06-12T17:06:42.672Z Donny/강동윤 <kdy1@users.noreply.github.com> :: update flaky test
 2026-06-12T20:48:51.300Z Eko Kurniawan Khannedy <khannedy@users.noreply.github.com> :: polish retry logic
+2026-06-12T22:22:17.764Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak retry logic
