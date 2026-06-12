@@ -814,3 +814,4 @@
 2026-06-05T03:34:57.804Z George Hotz <geohot@users.noreply.github.com> :: clean up the parser
 2026-06-05T20:21:34.132Z Mu Li <mli@users.noreply.github.com> :: fix logging
 2026-06-08T04:18:08.566Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up flaky test
+2026-06-12T23:18:54.737Z Diego Fernandes <diego3g@users.noreply.github.com> :: bump dependency versions
