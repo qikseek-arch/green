@@ -10773,3 +10773,4 @@
 2026-06-12T21:32:01.728Z Getgems <getgems-io@users.noreply.github.com> :: add the parser
 2026-06-12T22:37:12.872Z ㅤxander <vampirist@users.noreply.github.com> :: add the CI matrix
 2026-06-13T00:33:08.674Z Taiko Foundation <info@taiko.xyz> :: remove retry logic
+2026-06-13T02:13:54.008Z CTFs <ctfs@users.noreply.github.com> :: tweak build script
