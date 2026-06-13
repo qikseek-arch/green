@@ -10785,3 +10785,4 @@
 2026-06-13T07:43:34.452Z Adam Łucek <ALucek@users.noreply.github.com> :: fix edge case in auth
 2026-06-13T09:23:06.935Z CTFs <ctfs@users.noreply.github.com> :: fix dead code
 2026-06-13T10:51:19.842Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up flaky test
+2026-06-13T11:02:37.409Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
