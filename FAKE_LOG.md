@@ -815,3 +815,4 @@
 2026-06-05T20:21:34.132Z Mu Li <mli@users.noreply.github.com> :: fix logging
 2026-06-08T04:18:08.566Z Peter Steinberger <steipete@users.noreply.github.com> :: clean up flaky test
 2026-06-12T23:18:54.737Z Diego Fernandes <diego3g@users.noreply.github.com> :: bump dependency versions
+2026-06-13T06:11:40.640Z Wes Bos <wesbos@users.noreply.github.com> :: remove the parser
