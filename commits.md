@@ -10797,3 +10797,4 @@
 2026-06-13T21:08:05.612Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up cache keys
 2026-06-13T21:15:35.864Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: tweak the CI matrix
 2026-06-13T22:03:58.896Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump build script
+2026-06-13T22:50:14.903Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update the CI matrix
