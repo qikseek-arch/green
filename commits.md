@@ -10789,3 +10789,4 @@
 2026-06-13T11:23:37.902Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: clean up build script
 2026-06-13T11:57:56.451Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up null check
 2026-06-13T15:43:34.757Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak cache keys
+2026-06-13T17:19:54.119Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
