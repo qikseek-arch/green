@@ -736,3 +736,4 @@
 2026-06-12T22:22:17.764Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: tweak retry logic
 2026-06-12T23:55:48.577Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: tweak dead code
 2026-06-13T02:07:45.570Z Ryubing <Ryubing@users.noreply.github.com> :: update error handling
+2026-06-13T16:43:51.333Z Sylvain Gugger <sgugger@users.noreply.github.com> :: clean up dead code
