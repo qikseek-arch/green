@@ -10804,3 +10804,4 @@
 2026-06-14T02:02:13.678Z Getgems <getgems-io@users.noreply.github.com> :: remove dependency versions
 2026-06-14T02:04:59.220Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: add retry logic
 2026-06-14T02:44:28.098Z Arduino <arduino@users.noreply.github.com> :: polish logging
+2026-06-14T02:51:06.457Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up null check
