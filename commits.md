@@ -10813,3 +10813,4 @@
 2026-06-14T14:05:11.906Z David Clark <nullptrException100@users.noreply.github.com> :: fix the CI matrix
 2026-06-14T15:51:52.784Z Keith Smiley <keith@users.noreply.github.com> :: tweak logging
 2026-06-14T16:07:07.632Z ring04h <ring04h@users.noreply.github.com> :: polish config defaults
+2026-06-14T18:08:57.180Z vb <Vaibhavs10@users.noreply.github.com> :: clean up error handling
