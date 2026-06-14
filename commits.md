@@ -10801,3 +10801,4 @@
 2026-06-13T22:52:29.051Z Almas Baim <AlmasB@users.noreply.github.com> :: update cache keys
 2026-06-13T23:13:10.773Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up cache keys
 2026-06-14T00:18:21.786Z Shubs <infosec-au@users.noreply.github.com> :: remove flaky test
+2026-06-14T02:02:13.678Z Getgems <getgems-io@users.noreply.github.com> :: remove dependency versions
