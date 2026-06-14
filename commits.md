@@ -10815,3 +10815,4 @@
 2026-06-14T16:07:07.632Z ring04h <ring04h@users.noreply.github.com> :: polish config defaults
 2026-06-14T18:08:57.180Z vb <Vaibhavs10@users.noreply.github.com> :: clean up error handling
 2026-06-14T18:17:13.005Z qiye <qiyeboy@users.noreply.github.com> :: bump retry logic
+2026-06-14T18:49:08.572Z Ben Hamner <benhamner@users.noreply.github.com> :: refactor retry logic
