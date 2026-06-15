@@ -10828,3 +10828,4 @@
 2026-06-15T01:04:38.699Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the CI matrix
 2026-06-15T01:36:44.750Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up the parser
 2026-06-15T01:42:52.097Z Shubs <infosec-au@users.noreply.github.com> :: refactor the parser
+2026-06-15T02:51:45.943Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
