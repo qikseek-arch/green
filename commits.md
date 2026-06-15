@@ -741,3 +741,4 @@
 2026-06-14T01:18:25.997Z 4Geeks Academy <info@4geeksacademy.com> :: fix cache keys
 2026-06-14T04:46:56.330Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor error handling
 2026-06-15T08:21:25.339Z 左程云 <algorithmzuo@users.noreply.github.com> :: remove dependency versions
+2026-06-15T10:11:46.860Z Matt Pocock <mattpocock@users.noreply.github.com> :: wire up readme typo
