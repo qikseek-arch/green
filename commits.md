@@ -10837,3 +10837,4 @@
 2026-06-15T07:03:12.233Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add logging
 2026-06-15T09:07:14.397Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump the CI matrix
 2026-06-15T11:03:31.014Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak flaky test
+2026-06-15T11:11:57.324Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish error handling
