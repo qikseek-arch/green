@@ -10830,3 +10830,4 @@
 2026-06-15T01:42:52.097Z Shubs <infosec-au@users.noreply.github.com> :: refactor the parser
 2026-06-15T02:51:45.943Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
 2026-06-15T04:19:18.140Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: remove build script
+2026-06-15T04:54:01.177Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor the CI matrix
