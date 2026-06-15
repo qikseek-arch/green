@@ -10825,3 +10825,4 @@
 2026-06-14T22:40:49.629Z Jason Zhang <Hackl0us@users.noreply.github.com> :: remove flaky test
 2026-06-14T23:22:57.100Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update build script
 2026-06-15T01:04:32.414Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish flaky test
+2026-06-15T01:04:38.699Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix the CI matrix
