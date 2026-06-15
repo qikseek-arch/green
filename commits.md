@@ -10849,3 +10849,4 @@
 2026-06-15T17:03:29.474Z Barret李靖 <barretlee@users.noreply.github.com> :: fix the parser
 2026-06-15T17:08:59.890Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update flaky test
 2026-06-15T18:00:48.407Z LILYGO <LilyGO@users.noreply.github.com> :: wire up readme typo
+2026-06-15T19:20:40.506Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak build script
