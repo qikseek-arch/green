@@ -10871,3 +10871,4 @@
 2026-06-16T11:09:07.869Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add cache keys
 2026-06-16T11:30:13.596Z AI4Bhārat <opensource@ai4bharat.org> :: bump build script
 2026-06-16T11:44:02.374Z ㅤxander <vampirist@users.noreply.github.com> :: clean up null check
+2026-06-16T12:03:35.251Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak error handling
