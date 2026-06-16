@@ -10855,3 +10855,4 @@
 2026-06-16T00:51:14.968Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak dependency versions
 2026-06-16T01:10:02.073Z Sachin Soni <techiesms@users.noreply.github.com> :: add retry logic
 2026-06-16T01:11:39.925Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove error handling
+2026-06-16T02:06:57.962Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak the parser
