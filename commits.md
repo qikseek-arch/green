@@ -10852,3 +10852,4 @@
 2026-06-15T19:20:40.506Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: tweak build script
 2026-06-15T22:26:22.092Z Getgems <getgems-io@users.noreply.github.com> :: add the CI matrix
 2026-06-16T00:20:29.569Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump the CI matrix
+2026-06-16T00:51:14.968Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak dependency versions
