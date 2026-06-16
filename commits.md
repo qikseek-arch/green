@@ -10878,3 +10878,4 @@
 2026-06-16T16:04:11.814Z Keith Smiley <keith@users.noreply.github.com> :: refactor error handling
 2026-06-16T17:55:59.676Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add config defaults
 2026-06-16T18:10:37.308Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish build script
+2026-06-16T18:14:26.906Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up the parser
