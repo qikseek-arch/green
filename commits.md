@@ -10876,3 +10876,4 @@
 2026-06-16T14:40:56.809Z Getgems <getgems-io@users.noreply.github.com> :: bump edge case in auth
 2026-06-16T14:55:37.694Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up dead code
 2026-06-16T16:04:11.814Z Keith Smiley <keith@users.noreply.github.com> :: refactor error handling
+2026-06-16T17:55:59.676Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add config defaults
