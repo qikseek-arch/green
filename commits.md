@@ -743,3 +743,4 @@
 2026-06-15T08:21:25.339Z 左程云 <algorithmzuo@users.noreply.github.com> :: remove dependency versions
 2026-06-15T10:11:46.860Z Matt Pocock <mattpocock@users.noreply.github.com> :: wire up readme typo
 2026-06-15T11:12:09.880Z @XDevelopers <xdevplatform@users.noreply.github.com> :: add error handling
+2026-06-16T15:11:05.481Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: tweak retry logic
