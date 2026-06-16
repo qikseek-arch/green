@@ -10858,3 +10858,4 @@
 2026-06-16T02:06:57.962Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak the parser
 2026-06-16T02:14:12.136Z Fady Farag <iidmsa@users.noreply.github.com> :: bump null check
 2026-06-16T02:34:26.949Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove dead code
+2026-06-16T02:37:06.996Z SouJunior <wouerner@soujunior.tech> :: remove dependency versions
