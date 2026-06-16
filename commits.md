@@ -10863,3 +10863,4 @@
 2026-06-16T03:54:40.797Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up build script
 2026-06-16T05:09:48.356Z Rei <chloerei@users.noreply.github.com> :: tweak readme typo
 2026-06-16T05:13:57.983Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up dependency versions
+2026-06-16T06:10:43.365Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor build script
