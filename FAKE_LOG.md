@@ -266,3 +266,4 @@
 2026-06-06T20:51:13.644Z cipher <cipher@fake.invalid> :: wire up null check
 2026-06-10T09:15:15.404Z rune <rune@fake.invalid> :: refactor readme typo
 2026-06-10T19:09:58.458Z admin <admin@fake.invalid> :: bump error handling
+2026-06-16T16:47:53.251Z lumen <lumen@fake.invalid> :: remove null check
