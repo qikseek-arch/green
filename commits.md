@@ -10879,3 +10879,4 @@
 2026-06-16T17:55:59.676Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add config defaults
 2026-06-16T18:10:37.308Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish build script
 2026-06-16T18:14:26.906Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up the parser
+2026-06-16T18:32:40.433Z vb <Vaibhavs10@users.noreply.github.com> :: remove edge case in auth
