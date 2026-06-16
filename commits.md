@@ -10861,3 +10861,4 @@
 2026-06-16T02:37:06.996Z SouJunior <wouerner@soujunior.tech> :: remove dependency versions
 2026-06-16T03:52:09.064Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak retry logic
 2026-06-16T03:54:40.797Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up build script
+2026-06-16T05:09:48.356Z Rei <chloerei@users.noreply.github.com> :: tweak readme typo
