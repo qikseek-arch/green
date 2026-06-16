@@ -10860,3 +10860,4 @@
 2026-06-16T02:34:26.949Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove dead code
 2026-06-16T02:37:06.996Z SouJunior <wouerner@soujunior.tech> :: remove dependency versions
 2026-06-16T03:52:09.064Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak retry logic
+2026-06-16T03:54:40.797Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up build script
