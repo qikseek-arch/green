@@ -10873,3 +10873,4 @@
 2026-06-16T11:44:02.374Z ㅤxander <vampirist@users.noreply.github.com> :: clean up null check
 2026-06-16T12:03:35.251Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak error handling
 2026-06-16T12:41:13.401Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up flaky test
+2026-06-16T14:40:56.809Z Getgems <getgems-io@users.noreply.github.com> :: bump edge case in auth
