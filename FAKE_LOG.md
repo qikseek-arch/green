@@ -818,3 +818,4 @@
 2026-06-13T06:11:40.640Z Wes Bos <wesbos@users.noreply.github.com> :: remove the parser
 2026-06-15T19:46:12.627Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: clean up retry logic
 2026-06-16T01:43:33.702Z 稚晖 <peng-zhihui@users.noreply.github.com> :: fix dead code
+2026-06-16T10:38:00.161Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: tweak edge case in auth
