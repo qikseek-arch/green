@@ -10902,3 +10902,4 @@
 2026-06-17T15:20:28.405Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor edge case in auth
 2026-06-17T15:53:10.064Z Adam Łucek <ALucek@users.noreply.github.com> :: add error handling
 2026-06-17T16:13:49.793Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
+2026-06-17T17:35:43.345Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
