@@ -10899,3 +10899,4 @@
 2026-06-17T13:25:45.064Z Shubs <infosec-au@users.noreply.github.com> :: remove build script
 2026-06-17T13:43:12.233Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish readme typo
 2026-06-17T14:10:10.351Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update edge case in auth
+2026-06-17T15:20:28.405Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: refactor edge case in auth
