@@ -10887,3 +10887,4 @@
 2026-06-17T03:10:37.442Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update logging
 2026-06-17T04:37:15.874Z owenzhang <owenzhang@users.noreply.github.com> :: add flaky test
 2026-06-17T05:14:18.966Z md-5 <md-5@users.noreply.github.com> :: wire up edge case in auth
+2026-06-17T05:31:57.470Z Claude <claude@users.noreply.github.com> :: remove config defaults
