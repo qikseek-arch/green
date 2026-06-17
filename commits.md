@@ -10881,3 +10881,4 @@
 2026-06-16T18:14:26.906Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up the parser
 2026-06-16T18:32:40.433Z vb <Vaibhavs10@users.noreply.github.com> :: remove edge case in auth
 2026-06-16T21:14:27.085Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove dead code
+2026-06-17T00:35:14.465Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove config defaults
