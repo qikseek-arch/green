@@ -10904,3 +10904,4 @@
 2026-06-17T16:13:49.793Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
 2026-06-17T17:35:43.345Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
 2026-06-17T17:44:26.381Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the parser
+2026-06-17T19:54:19.981Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the parser
