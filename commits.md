@@ -10891,3 +10891,4 @@
 2026-06-17T06:04:56.945Z Claude <claude@users.noreply.github.com> :: clean up config defaults
 2026-06-17T06:32:20.805Z owenzhang <owenzhang@users.noreply.github.com> :: bump dependency versions
 2026-06-17T06:34:18.051Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: add the CI matrix
+2026-06-17T07:27:56.633Z Daniel Eden <daneden@users.noreply.github.com> :: polish the CI matrix
