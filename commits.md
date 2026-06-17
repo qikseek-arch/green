@@ -10897,3 +10897,4 @@
 2026-06-17T10:10:22.342Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor cache keys
 2026-06-17T10:18:57.241Z CTFs <ctfs@users.noreply.github.com> :: clean up dependency versions
 2026-06-17T13:25:45.064Z Shubs <infosec-au@users.noreply.github.com> :: remove build script
+2026-06-17T13:43:12.233Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish readme typo
