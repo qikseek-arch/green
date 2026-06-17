@@ -10893,3 +10893,4 @@
 2026-06-17T06:34:18.051Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: add the CI matrix
 2026-06-17T07:27:56.633Z Daniel Eden <daneden@users.noreply.github.com> :: polish the CI matrix
 2026-06-17T08:43:05.698Z OpenJS Foundation <info@openjsf.org> :: tweak error handling
+2026-06-17T09:31:47.618Z vb <Vaibhavs10@users.noreply.github.com> :: tweak build script
