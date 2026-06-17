@@ -10895,3 +10895,4 @@
 2026-06-17T08:43:05.698Z OpenJS Foundation <info@openjsf.org> :: tweak error handling
 2026-06-17T09:31:47.618Z vb <Vaibhavs10@users.noreply.github.com> :: tweak build script
 2026-06-17T10:10:22.342Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor cache keys
+2026-06-17T10:18:57.241Z CTFs <ctfs@users.noreply.github.com> :: clean up dependency versions
