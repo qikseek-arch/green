@@ -10905,3 +10905,4 @@
 2026-06-17T17:35:43.345Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
 2026-06-17T17:44:26.381Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the parser
 2026-06-17T19:54:19.981Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up the parser
+2026-06-17T20:37:40.176Z Sachin Soni <techiesms@users.noreply.github.com> :: update build script
