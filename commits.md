@@ -10908,3 +10908,4 @@
 2026-06-17T20:37:40.176Z Sachin Soni <techiesms@users.noreply.github.com> :: update build script
 2026-06-17T22:59:22.735Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up retry logic
 2026-06-18T01:40:20.462Z Adam Łucek <ALucek@users.noreply.github.com> :: bump the CI matrix
+2026-06-18T03:01:14.565Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up dependency versions
