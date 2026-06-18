@@ -10917,3 +10917,4 @@
 2026-06-18T12:30:35.070Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up build script
 2026-06-18T13:07:50.480Z Taiko Foundation <info@taiko.xyz> :: fix flaky test
 2026-06-18T14:23:36.902Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
+2026-06-18T15:09:42.734Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
