@@ -747,3 +747,4 @@
 2026-06-16T19:54:00.374Z Avik Jain <Avik-Jain@users.noreply.github.com> :: bump error handling
 2026-06-17T15:51:47.365Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: refactor dead code
 2026-06-18T09:20:18.913Z Merve Noyan <merveenoyan@users.noreply.github.com> :: remove build script
+2026-06-18T14:43:23.535Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: fix config defaults
