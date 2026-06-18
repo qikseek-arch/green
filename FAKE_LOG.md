@@ -361,3 +361,4 @@
 2026-06-11T09:22:04.460Z Srinivasa Ramanujan <srinivasa.ramanujan@fake.invalid> :: polish edge case in auth | Co-authored-by: Microsoft <opensource@microsoft.com>
 2026-06-15T04:21:51.314Z Katherine Johnson <katherine.johnson@fake.invalid> :: refactor the parser | Co-authored-by: Kenneth Reitz <kennethreitz@users.noreply.github.com>
 2026-06-15T18:28:40.724Z Larry Wall <larry.wall@fake.invalid> :: clean up logging
+2026-06-18T17:52:57.648Z QuantumHamster <quantumhamster@fake.invalid> :: remove the parser
