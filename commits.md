@@ -10919,3 +10919,4 @@
 2026-06-18T14:23:36.902Z Ryan Bigg <radar@users.noreply.github.com> :: update build script
 2026-06-18T15:09:42.734Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
 2026-06-18T16:46:45.146Z ㅤxander <vampirist@users.noreply.github.com> :: add null check
+2026-06-18T20:15:32.865Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up logging
