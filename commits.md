@@ -10958,3 +10958,4 @@
 2026-06-19T21:02:43.039Z ring04h <ring04h@users.noreply.github.com> :: clean up retry logic
 2026-06-19T21:29:27.792Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump flaky test
 2026-06-19T21:31:00.876Z Sachin Soni <techiesms@users.noreply.github.com> :: remove null check
+2026-06-19T22:03:57.882Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix dead code
