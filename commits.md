@@ -10941,3 +10941,4 @@
 2026-06-19T07:55:18.569Z markqvist <markqvist@users.noreply.github.com> :: update edge case in auth
 2026-06-19T08:13:45.868Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix dependency versions
 2026-06-19T08:20:08.356Z First Contributions <firstcontributions@gmail.com> :: fix retry logic
+2026-06-19T09:13:28.035Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak readme typo
