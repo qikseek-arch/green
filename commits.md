@@ -10947,3 +10947,4 @@
 2026-06-19T13:15:44.202Z Taiko Foundation <info@taiko.xyz> :: remove cache keys
 2026-06-19T13:40:26.331Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor the parser
 2026-06-19T15:13:07.548Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the parser
+2026-06-19T15:48:56.680Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
