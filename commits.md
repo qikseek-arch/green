@@ -10936,3 +10936,4 @@
 2026-06-19T03:37:00.561Z CTFs <ctfs@users.noreply.github.com> :: remove the CI matrix
 2026-06-19T03:37:42.490Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump retry logic
 2026-06-19T04:41:04.417Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up readme typo
+2026-06-19T06:31:53.479Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor config defaults
