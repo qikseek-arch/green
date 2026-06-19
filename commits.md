@@ -749,3 +749,4 @@
 2026-06-18T09:20:18.913Z Merve Noyan <merveenoyan@users.noreply.github.com> :: remove build script
 2026-06-18T14:43:23.535Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: fix config defaults
 2026-06-19T00:48:43.375Z thecodercoder <thecodercoder@users.noreply.github.com> :: remove the parser
+2026-06-19T17:43:19.547Z ONLYOFFICE <support@onlyoffice.com> :: wire up build script
