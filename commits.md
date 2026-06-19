@@ -10938,3 +10938,4 @@
 2026-06-19T04:41:04.417Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up readme typo
 2026-06-19T06:31:53.479Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor config defaults
 2026-06-19T07:05:57.824Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update config defaults
+2026-06-19T07:55:18.569Z markqvist <markqvist@users.noreply.github.com> :: update edge case in auth
