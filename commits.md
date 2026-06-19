@@ -10935,3 +10935,4 @@
 2026-06-19T03:35:22.801Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump readme typo
 2026-06-19T03:37:00.561Z CTFs <ctfs@users.noreply.github.com> :: remove the CI matrix
 2026-06-19T03:37:42.490Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump retry logic
+2026-06-19T04:41:04.417Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up readme typo
