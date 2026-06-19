@@ -10952,3 +10952,4 @@
 2026-06-19T16:36:59.688Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak dependency versions
 2026-06-19T18:42:01.185Z First Contributions <firstcontributions@gmail.com> :: update retry logic
 2026-06-19T18:42:28.588Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove config defaults
+2026-06-19T18:45:57.447Z Ryan Bigg <radar@users.noreply.github.com> :: wire up edge case in auth
