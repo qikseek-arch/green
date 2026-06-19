@@ -10959,3 +10959,4 @@
 2026-06-19T21:29:27.792Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump flaky test
 2026-06-19T21:31:00.876Z Sachin Soni <techiesms@users.noreply.github.com> :: remove null check
 2026-06-19T22:03:57.882Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix dead code
+2026-06-19T22:04:41.480Z SouJunior <wouerner@soujunior.tech> :: tweak the CI matrix
