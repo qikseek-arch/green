@@ -10932,3 +10932,4 @@
 2026-06-19T00:38:28.754Z Keith Smiley <keith@users.noreply.github.com> :: remove cache keys
 2026-06-19T00:56:18.993Z Rei <chloerei@users.noreply.github.com> :: remove dependency versions
 2026-06-19T01:20:29.399Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update edge case in auth
+2026-06-19T03:35:22.801Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump readme typo
