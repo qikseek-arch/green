@@ -10948,3 +10948,4 @@
 2026-06-19T13:40:26.331Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor the parser
 2026-06-19T15:13:07.548Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the parser
 2026-06-19T15:48:56.680Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
+2026-06-19T16:26:42.651Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor config defaults
