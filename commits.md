@@ -751,3 +751,4 @@
 2026-06-19T00:48:43.375Z thecodercoder <thecodercoder@users.noreply.github.com> :: remove the parser
 2026-06-19T17:43:19.547Z ONLYOFFICE <support@onlyoffice.com> :: wire up build script
 2026-06-19T19:20:47.747Z macro <macrozheng@users.noreply.github.com> :: refactor dependency versions
+2026-06-19T19:43:15.120Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update readme typo
