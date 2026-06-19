@@ -10931,3 +10931,4 @@
 2026-06-19T00:20:24.109Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up dependency versions
 2026-06-19T00:38:28.754Z Keith Smiley <keith@users.noreply.github.com> :: remove cache keys
 2026-06-19T00:56:18.993Z Rei <chloerei@users.noreply.github.com> :: remove dependency versions
+2026-06-19T01:20:29.399Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update edge case in auth
