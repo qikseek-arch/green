@@ -752,3 +752,4 @@
 2026-06-19T17:43:19.547Z ONLYOFFICE <support@onlyoffice.com> :: wire up build script
 2026-06-19T19:20:47.747Z macro <macrozheng@users.noreply.github.com> :: refactor dependency versions
 2026-06-19T19:43:15.120Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update readme typo
+2026-06-20T06:29:12.475Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak config defaults
