@@ -10972,3 +10972,4 @@
 2026-06-20T05:36:07.800Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove the parser
 2026-06-20T07:46:53.423Z LILYGO <LilyGO@users.noreply.github.com> :: add error handling
 2026-06-20T07:47:05.921Z qiye <qiyeboy@users.noreply.github.com> :: fix readme typo
+2026-06-20T08:10:10.066Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: clean up build script
