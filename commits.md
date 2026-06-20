@@ -754,3 +754,4 @@
 2026-06-19T19:43:15.120Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update readme typo
 2026-06-20T06:29:12.475Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak config defaults
 2026-06-20T11:00:51.732Z Rob Fuller <mubix@users.noreply.github.com> :: update readme typo
+2026-06-20T14:47:11.223Z HashLips <HashLips@users.noreply.github.com> :: wire up config defaults
