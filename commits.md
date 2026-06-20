@@ -753,3 +753,4 @@
 2026-06-19T19:20:47.747Z macro <macrozheng@users.noreply.github.com> :: refactor dependency versions
 2026-06-19T19:43:15.120Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: update readme typo
 2026-06-20T06:29:12.475Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak config defaults
+2026-06-20T11:00:51.732Z Rob Fuller <mubix@users.noreply.github.com> :: update readme typo
