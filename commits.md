@@ -10977,3 +10977,4 @@
 2026-06-20T08:37:02.677Z Selenium <SeleniumHQ@users.noreply.github.com> :: add build script
 2026-06-20T09:00:38.884Z BBC <bbc@users.noreply.github.com> :: polish cache keys
 2026-06-20T09:00:39.133Z owenzhang <owenzhang@users.noreply.github.com> :: remove the parser
+2026-06-20T09:26:36.851Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up build script
