@@ -10982,3 +10982,4 @@
 2026-06-20T14:10:37.809Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump readme typo
 2026-06-20T14:24:11.978Z markqvist <markqvist@users.noreply.github.com> :: polish cache keys
 2026-06-20T15:23:49.038Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak readme typo
+2026-06-20T19:45:31.146Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish dependency versions
