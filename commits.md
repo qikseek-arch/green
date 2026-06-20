@@ -10968,3 +10968,4 @@
 2026-06-20T00:01:07.297Z AI4Bhārat <opensource@ai4bharat.org> :: remove dependency versions
 2026-06-20T01:26:56.072Z OpenJS Foundation <info@openjsf.org> :: update null check
 2026-06-20T03:28:15.543Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak cache keys
+2026-06-20T04:36:52.704Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update null check
