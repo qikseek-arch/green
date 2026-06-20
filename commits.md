@@ -10983,3 +10983,4 @@
 2026-06-20T14:24:11.978Z markqvist <markqvist@users.noreply.github.com> :: polish cache keys
 2026-06-20T15:23:49.038Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak readme typo
 2026-06-20T19:45:31.146Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish dependency versions
+2026-06-20T19:56:53.330Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add the CI matrix
