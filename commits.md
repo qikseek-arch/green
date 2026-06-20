@@ -10966,3 +10966,4 @@
 2026-06-19T23:43:41.812Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump cache keys
 2026-06-19T23:50:57.611Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix config defaults
 2026-06-20T00:01:07.297Z AI4Bhārat <opensource@ai4bharat.org> :: remove dependency versions
+2026-06-20T01:26:56.072Z OpenJS Foundation <info@openjsf.org> :: update null check
