@@ -362,3 +362,4 @@
 2026-06-15T04:21:51.314Z Katherine Johnson <katherine.johnson@fake.invalid> :: refactor the parser | Co-authored-by: Kenneth Reitz <kennethreitz@users.noreply.github.com>
 2026-06-15T18:28:40.724Z Larry Wall <larry.wall@fake.invalid> :: clean up logging
 2026-06-18T17:52:57.648Z QuantumHamster <quantumhamster@fake.invalid> :: remove the parser
+2026-06-21T20:08:34.327Z Martin Fowler <martin.fowler@fake.invalid> :: wire up retry logic
