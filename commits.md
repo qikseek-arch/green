@@ -11006,3 +11006,4 @@
 2026-06-21T07:22:25.037Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak edge case in auth
 2026-06-21T09:26:05.971Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump logging
 2026-06-21T09:41:39.956Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up flaky test
+2026-06-21T10:41:45.974Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add logging
