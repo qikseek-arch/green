@@ -10993,3 +10993,4 @@
 2026-06-20T22:43:38.615Z Odi <mathdroid@users.noreply.github.com> :: tweak cache keys
 2026-06-20T22:49:03.589Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
 2026-06-20T23:36:23.082Z Rei <chloerei@users.noreply.github.com> :: remove dead code
+2026-06-21T01:12:22.971Z md-5 <md-5@users.noreply.github.com> :: clean up null check
