@@ -758,3 +758,4 @@
 2026-06-20T22:33:51.662Z Ryubing <Ryubing@users.noreply.github.com> :: polish flaky test
 2026-06-21T07:16:17.251Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: refactor flaky test
 2026-06-21T10:29:20.952Z Cheng Lou <chenglou@users.noreply.github.com> :: tweak logging
+2026-06-21T11:46:05.751Z Sylvain Gugger <sgugger@users.noreply.github.com> :: add flaky test
