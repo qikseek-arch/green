@@ -11016,3 +11016,4 @@
 2026-06-21T21:28:58.360Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update dependency versions
 2026-06-21T21:54:14.046Z Odi <mathdroid@users.noreply.github.com> :: refactor dead code
 2026-06-21T22:48:11.177Z ㅤxander <vampirist@users.noreply.github.com> :: polish readme typo
+2026-06-21T23:34:31.220Z Ryan Bigg <radar@users.noreply.github.com> :: tweak null check
