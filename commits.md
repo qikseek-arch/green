@@ -11011,3 +11011,4 @@
 2026-06-21T12:48:39.640Z Taiko Foundation <info@taiko.xyz> :: polish error handling
 2026-06-21T12:56:21.943Z Rei <chloerei@users.noreply.github.com> :: tweak config defaults
 2026-06-21T16:51:29.345Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove dependency versions
+2026-06-21T17:10:05.914Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove null check
