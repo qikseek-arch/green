@@ -11008,3 +11008,4 @@
 2026-06-21T09:41:39.956Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up flaky test
 2026-06-21T10:41:45.974Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add logging
 2026-06-21T11:43:10.862Z BBC <bbc@users.noreply.github.com> :: update cache keys
+2026-06-21T12:48:39.640Z Taiko Foundation <info@taiko.xyz> :: polish error handling
