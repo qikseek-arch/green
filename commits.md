@@ -11012,3 +11012,4 @@
 2026-06-21T12:56:21.943Z Rei <chloerei@users.noreply.github.com> :: tweak config defaults
 2026-06-21T16:51:29.345Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove dependency versions
 2026-06-21T17:10:05.914Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove null check
+2026-06-21T20:54:05.418Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
