@@ -820,3 +820,4 @@
 2026-06-16T01:43:33.702Z 稚晖 <peng-zhihui@users.noreply.github.com> :: fix dead code
 2026-06-16T10:38:00.161Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: tweak edge case in auth
 2026-06-19T10:19:34.925Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: refactor config defaults
+2026-06-21T15:24:42.609Z Tim Ruscica <techwithtim@users.noreply.github.com> :: polish config defaults
