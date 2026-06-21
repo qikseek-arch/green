@@ -11000,3 +11000,4 @@
 2026-06-21T02:26:42.445Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update retry logic
 2026-06-21T02:37:03.307Z OpenJS Foundation <info@openjsf.org> :: clean up error handling
 2026-06-21T03:29:17.594Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add flaky test
+2026-06-21T04:50:38.991Z heyli <lcxfs1991@users.noreply.github.com> :: fix readme typo
