@@ -760,3 +760,4 @@
 2026-06-21T10:29:20.952Z Cheng Lou <chenglou@users.noreply.github.com> :: tweak logging
 2026-06-21T11:46:05.751Z Sylvain Gugger <sgugger@users.noreply.github.com> :: add flaky test
 2026-06-21T13:03:12.344Z 4Geeks Academy <info@4geeksacademy.com> :: update error handling
+2026-06-22T01:24:36.697Z Ovilia <Ovilia@users.noreply.github.com> :: clean up edge case in auth
