@@ -11019,3 +11019,4 @@
 2026-06-21T23:34:31.220Z Ryan Bigg <radar@users.noreply.github.com> :: tweak null check
 2026-06-21T23:55:54.365Z owenzhang <owenzhang@users.noreply.github.com> :: tweak readme typo
 2026-06-22T00:06:30.810Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up logging
+2026-06-22T01:21:20.400Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
