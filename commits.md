@@ -11038,3 +11038,4 @@
 2026-06-22T15:53:33.501Z md-5 <md-5@users.noreply.github.com> :: refactor build script
 2026-06-22T18:28:01.442Z Sachin Soni <techiesms@users.noreply.github.com> :: fix null check
 2026-06-22T19:22:45.778Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix retry logic
+2026-06-22T20:25:56.628Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor error handling
