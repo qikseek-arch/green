@@ -11023,3 +11023,4 @@
 2026-06-22T02:40:19.740Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove cache keys
 2026-06-22T03:02:42.863Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump null check
 2026-06-22T03:17:46.282Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up logging
+2026-06-22T06:00:17.029Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix edge case in auth
