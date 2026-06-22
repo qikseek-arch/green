@@ -11022,3 +11022,4 @@
 2026-06-22T01:21:20.400Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove null check
 2026-06-22T02:40:19.740Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove cache keys
 2026-06-22T03:02:42.863Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump null check
+2026-06-22T03:17:46.282Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up logging
