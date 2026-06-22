@@ -823,3 +823,4 @@
 2026-06-21T15:24:42.609Z Tim Ruscica <techwithtim@users.noreply.github.com> :: polish config defaults
 2026-06-22T00:29:39.139Z Google <opensource@google.com> :: add build script
 2026-06-22T14:51:39.649Z Hitesh Choudhary <hiteshchoudhary@users.noreply.github.com> :: polish flaky test
+2026-06-22T19:00:14.103Z Grant Sanderson <3b1b@users.noreply.github.com> :: clean up readme typo
