@@ -762,3 +762,4 @@
 2026-06-21T13:03:12.344Z 4Geeks Academy <info@4geeksacademy.com> :: update error handling
 2026-06-22T01:24:36.697Z Ovilia <Ovilia@users.noreply.github.com> :: clean up edge case in auth
 2026-06-22T04:13:25.556Z Katrina Owen <kytrinyx@users.noreply.github.com> :: update logging
+2026-06-22T13:22:07.020Z xer0dayz <1N3@users.noreply.github.com> :: polish build script
