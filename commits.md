@@ -765,3 +765,4 @@
 2026-06-22T13:22:07.020Z xer0dayz <1N3@users.noreply.github.com> :: polish build script
 2026-06-22T16:27:19.452Z MASSGRAVE <massgravel@users.noreply.github.com> :: bump retry logic
 2026-06-22T21:28:54.749Z Sebastian <sebmck@users.noreply.github.com> :: remove logging
+2026-06-22T21:30:00.440Z David Robinson <dgrtwo@users.noreply.github.com> :: wire up the CI matrix
