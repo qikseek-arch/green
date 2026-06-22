@@ -11035,3 +11035,4 @@
 2026-06-22T13:17:38.732Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
 2026-06-22T14:46:31.940Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix readme typo
 2026-06-22T14:51:48.181Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix dead code
+2026-06-22T15:53:33.501Z md-5 <md-5@users.noreply.github.com> :: refactor build script
