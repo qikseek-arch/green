@@ -11041,3 +11041,4 @@
 2026-06-22T20:25:56.628Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor error handling
 2026-06-22T21:54:11.894Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up cache keys
 2026-06-22T23:30:18.810Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update null check
+2026-06-22T23:43:58.949Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove config defaults
