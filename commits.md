@@ -11031,3 +11031,4 @@
 2026-06-22T11:07:33.904Z Adam Bell <b3ll@users.noreply.github.com> :: add build script
 2026-06-22T11:22:36.535Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add error handling
 2026-06-22T12:02:39.681Z qiye <qiyeboy@users.noreply.github.com> :: update dependency versions
+2026-06-22T13:16:27.466Z Adam Bell <b3ll@users.noreply.github.com> :: tweak edge case in auth
