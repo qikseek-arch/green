@@ -11033,3 +11033,4 @@
 2026-06-22T12:02:39.681Z qiye <qiyeboy@users.noreply.github.com> :: update dependency versions
 2026-06-22T13:16:27.466Z Adam Bell <b3ll@users.noreply.github.com> :: tweak edge case in auth
 2026-06-22T13:17:38.732Z Ryan Bigg <radar@users.noreply.github.com> :: fix the CI matrix
+2026-06-22T14:46:31.940Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix readme typo
