@@ -11053,3 +11053,4 @@
 2026-06-23T05:33:05.612Z ㅤxander <vampirist@users.noreply.github.com> :: polish cache keys
 2026-06-23T05:52:33.189Z owenzhang <owenzhang@users.noreply.github.com> :: bump the CI matrix
 2026-06-23T06:26:32.083Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up edge case in auth
+2026-06-23T07:23:33.961Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add the parser
