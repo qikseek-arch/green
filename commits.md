@@ -11067,3 +11067,4 @@
 2026-06-23T18:42:53.905Z Odi <mathdroid@users.noreply.github.com> :: clean up flaky test
 2026-06-23T21:50:12.999Z Barret李靖 <barretlee@users.noreply.github.com> :: remove the parser
 2026-06-23T22:05:26.445Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix retry logic
+2026-06-23T22:35:55.505Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak config defaults
