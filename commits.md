@@ -769,3 +769,4 @@
 2026-06-22T22:51:35.595Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: wire up config defaults
 2026-06-23T03:20:31.111Z Sasha Rush <srush@users.noreply.github.com> :: refactor the CI matrix
 2026-06-23T03:59:07.580Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: remove retry logic
+2026-06-23T09:56:38.937Z Susan Li <susanli2016@users.noreply.github.com> :: tweak retry logic
