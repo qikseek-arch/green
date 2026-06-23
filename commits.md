@@ -11047,3 +11047,4 @@
 2026-06-23T02:07:13.747Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up cache keys
 2026-06-23T02:55:08.370Z AI4Bhārat <opensource@ai4bharat.org> :: clean up flaky test
 2026-06-23T03:31:31.696Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump null check
+2026-06-23T03:38:47.049Z BBC <bbc@users.noreply.github.com> :: add build script
