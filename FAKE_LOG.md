@@ -137,3 +137,4 @@
 2026-06-16T09:27:00.058Z PixelMoose <pixelmoose@users.noreply.github.com> :: polish config defaults
 2026-06-16T15:31:37.726Z Sanjay Ghemawat <sanjay.ghemawat@example.com> :: bump readme typo
 2026-06-23T10:28:41.505Z John Carmack <john.carmack@example.com> :: wire up dead code
+2026-06-23T17:25:05.619Z MoltenOtter <moltenotter@users.noreply.github.com> :: wire up build script
