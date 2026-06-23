@@ -11061,3 +11061,4 @@
 2026-06-23T15:02:41.476Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak dependency versions
 2026-06-23T15:27:14.195Z David Clark <nullptrException100@users.noreply.github.com> :: clean up cache keys
 2026-06-23T16:04:25.263Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: remove readme typo
+2026-06-23T17:03:40.372Z Taiko Foundation <info@taiko.xyz> :: clean up the CI matrix
