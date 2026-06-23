@@ -11055,3 +11055,4 @@
 2026-06-23T06:26:32.083Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up edge case in auth
 2026-06-23T07:23:33.961Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add the parser
 2026-06-23T07:57:34.695Z LILYGO <LilyGO@users.noreply.github.com> :: fix dead code
+2026-06-23T09:06:40.964Z OpenJS Foundation <info@openjsf.org> :: refactor null check
