@@ -767,3 +767,4 @@
 2026-06-22T21:28:54.749Z Sebastian <sebmck@users.noreply.github.com> :: remove logging
 2026-06-22T21:30:00.440Z David Robinson <dgrtwo@users.noreply.github.com> :: wire up the CI matrix
 2026-06-22T22:51:35.595Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: wire up config defaults
+2026-06-23T03:20:31.111Z Sasha Rush <srush@users.noreply.github.com> :: refactor the CI matrix
