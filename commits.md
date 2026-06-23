@@ -11043,3 +11043,4 @@
 2026-06-22T23:30:18.810Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update null check
 2026-06-22T23:43:58.949Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove config defaults
 2026-06-22T23:45:15.805Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove the parser
+2026-06-23T01:11:55.540Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
