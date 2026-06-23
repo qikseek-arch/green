@@ -11057,3 +11057,4 @@
 2026-06-23T07:57:34.695Z LILYGO <LilyGO@users.noreply.github.com> :: fix dead code
 2026-06-23T09:06:40.964Z OpenJS Foundation <info@openjsf.org> :: refactor null check
 2026-06-23T10:05:21.615Z ring04h <ring04h@users.noreply.github.com> :: remove null check
+2026-06-23T14:17:31.098Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up readme typo
