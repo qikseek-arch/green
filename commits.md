@@ -11077,3 +11077,4 @@
 2026-06-24T05:55:07.172Z ZOMI <chenzomi12@users.noreply.github.com> :: refactor cache keys
 2026-06-24T07:12:36.351Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak null check
 2026-06-24T09:02:00.061Z Barret李靖 <barretlee@users.noreply.github.com> :: polish edge case in auth
+2026-06-24T10:05:27.579Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish error handling
