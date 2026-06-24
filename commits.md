@@ -11072,3 +11072,4 @@
 2026-06-24T01:43:31.548Z Damian Dulisz <shentao@users.noreply.github.com> :: fix dead code
 2026-06-24T02:14:10.098Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add the CI matrix
 2026-06-24T03:28:58.231Z markqvist <markqvist@users.noreply.github.com> :: wire up build script
+2026-06-24T05:05:44.093Z heyli <lcxfs1991@users.noreply.github.com> :: refactor error handling
