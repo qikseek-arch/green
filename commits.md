@@ -11091,3 +11091,4 @@
 2026-06-24T20:05:06.643Z AI4Bhārat <opensource@ai4bharat.org> :: fix flaky test
 2026-06-24T20:21:44.915Z Shubs <infosec-au@users.noreply.github.com> :: update edge case in auth
 2026-06-24T20:30:58.128Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump dead code
+2026-06-24T20:49:04.224Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
