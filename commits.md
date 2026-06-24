@@ -11073,3 +11073,4 @@
 2026-06-24T02:14:10.098Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add the CI matrix
 2026-06-24T03:28:58.231Z markqvist <markqvist@users.noreply.github.com> :: wire up build script
 2026-06-24T05:05:44.093Z heyli <lcxfs1991@users.noreply.github.com> :: refactor error handling
+2026-06-24T05:07:01.786Z md-5 <md-5@users.noreply.github.com> :: update null check
