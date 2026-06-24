@@ -827,3 +827,4 @@
 2026-06-23T11:25:36.936Z Alex The Analyst <AlexTheAnalyst@users.noreply.github.com> :: add the CI matrix
 2026-06-23T14:22:02.208Z Phil Wang <lucidrains@users.noreply.github.com> :: update readme typo
 2026-06-23T15:11:42.089Z Stephen Grider <StephenGrider@users.noreply.github.com> :: fix flaky test
+2026-06-24T08:43:31.240Z Kirat <hkirat@users.noreply.github.com> :: fix readme typo
