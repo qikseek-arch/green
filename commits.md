@@ -11083,3 +11083,4 @@
 2026-06-24T10:52:05.466Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove logging
 2026-06-24T11:09:46.259Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dependency versions
 2026-06-24T11:27:02.103Z CTFs <ctfs@users.noreply.github.com> :: fix build script
+2026-06-24T15:30:27.003Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up dependency versions
