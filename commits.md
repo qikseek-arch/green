@@ -11070,3 +11070,4 @@
 2026-06-23T22:35:55.505Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak config defaults
 2026-06-23T23:59:44.819Z BBC <bbc@users.noreply.github.com> :: polish error handling
 2026-06-24T01:43:31.548Z Damian Dulisz <shentao@users.noreply.github.com> :: fix dead code
+2026-06-24T02:14:10.098Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add the CI matrix
