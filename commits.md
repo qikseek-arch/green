@@ -11089,3 +11089,4 @@
 2026-06-24T18:19:23.783Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor the parser
 2026-06-24T19:28:04.969Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
 2026-06-24T20:05:06.643Z AI4Bhārat <opensource@ai4bharat.org> :: fix flaky test
+2026-06-24T20:21:44.915Z Shubs <infosec-au@users.noreply.github.com> :: update edge case in auth
