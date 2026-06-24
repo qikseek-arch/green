@@ -11078,3 +11078,4 @@
 2026-06-24T07:12:36.351Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak null check
 2026-06-24T09:02:00.061Z Barret李靖 <barretlee@users.noreply.github.com> :: polish edge case in auth
 2026-06-24T10:05:27.579Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish error handling
+2026-06-24T10:39:21.404Z vb <Vaibhavs10@users.noreply.github.com> :: clean up error handling
