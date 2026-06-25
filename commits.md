@@ -11103,3 +11103,4 @@
 2026-06-25T04:33:05.663Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up build script
 2026-06-25T06:07:00.466Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up edge case in auth
 2026-06-25T06:08:51.244Z Aurélien Geron <ageron@users.noreply.github.com> :: bump the CI matrix
+2026-06-25T08:58:10.247Z Shubs <infosec-au@users.noreply.github.com> :: update readme typo
