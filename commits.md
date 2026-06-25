@@ -11107,3 +11107,4 @@
 2026-06-25T09:18:16.665Z Ryan Bigg <radar@users.noreply.github.com> :: polish the parser
 2026-06-25T10:15:05.482Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add retry logic
 2026-06-25T10:43:00.679Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak flaky test
+2026-06-25T10:44:44.562Z David Fowler <davidfowl@users.noreply.github.com> :: fix error handling
