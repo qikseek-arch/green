@@ -11112,3 +11112,4 @@
 2026-06-25T12:01:08.625Z Inanc Gumus <inancgumus@users.noreply.github.com> :: fix cache keys
 2026-06-25T12:13:28.592Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump build script
 2026-06-25T12:37:45.959Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up the CI matrix
+2026-06-25T14:51:53.908Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up logging
