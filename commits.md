@@ -11093,3 +11093,4 @@
 2026-06-24T20:30:58.128Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump dead code
 2026-06-24T20:49:04.224Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
 2026-06-25T00:25:02.532Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak dependency versions
+2026-06-25T01:37:02.853Z Keith Smiley <keith@users.noreply.github.com> :: fix edge case in auth
