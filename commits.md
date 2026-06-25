@@ -11105,3 +11105,4 @@
 2026-06-25T06:08:51.244Z Aurélien Geron <ageron@users.noreply.github.com> :: bump the CI matrix
 2026-06-25T08:58:10.247Z Shubs <infosec-au@users.noreply.github.com> :: update readme typo
 2026-06-25T09:18:16.665Z Ryan Bigg <radar@users.noreply.github.com> :: polish the parser
+2026-06-25T10:15:05.482Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add retry logic
