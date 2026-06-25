@@ -11115,3 +11115,4 @@
 2026-06-25T14:51:53.908Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up logging
 2026-06-25T16:54:59.924Z Keith Smiley <keith@users.noreply.github.com> :: refactor the parser
 2026-06-25T19:59:47.783Z Adam Łucek <ALucek@users.noreply.github.com> :: clean up retry logic
+2026-06-25T20:15:51.313Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump the CI matrix
