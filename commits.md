@@ -11102,3 +11102,4 @@
 2026-06-25T03:57:32.706Z BBC <bbc@users.noreply.github.com> :: wire up error handling
 2026-06-25T04:33:05.663Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up build script
 2026-06-25T06:07:00.466Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up edge case in auth
+2026-06-25T06:08:51.244Z Aurélien Geron <ageron@users.noreply.github.com> :: bump the CI matrix
