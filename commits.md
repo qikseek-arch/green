@@ -11092,3 +11092,4 @@
 2026-06-24T20:21:44.915Z Shubs <infosec-au@users.noreply.github.com> :: update edge case in auth
 2026-06-24T20:30:58.128Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump dead code
 2026-06-24T20:49:04.224Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix null check
+2026-06-25T00:25:02.532Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: tweak dependency versions
