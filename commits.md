@@ -773,3 +773,4 @@
 2026-06-23T12:50:30.214Z Avik Jain <Avik-Jain@users.noreply.github.com> :: polish flaky test
 2026-06-23T19:31:50.860Z Mark Erikson <markerikson@users.noreply.github.com> :: tweak readme typo
 2026-06-25T06:53:55.834Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: polish logging
+2026-06-26T09:21:14.961Z Kyler Condran <KylerCondran@users.noreply.github.com> :: update null check
