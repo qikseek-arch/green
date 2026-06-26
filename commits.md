@@ -11131,3 +11131,4 @@
 2026-06-26T13:39:07.537Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor build script
 2026-06-26T14:02:31.063Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix flaky test
 2026-06-26T17:55:28.201Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dependency versions
+2026-06-26T18:30:24.930Z Rei <chloerei@users.noreply.github.com> :: update retry logic
