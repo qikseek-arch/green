@@ -478,3 +478,4 @@
 2026-06-11T20:37:49.828Z midnightwizard316 <midnightwizard316@fake.invalid> :: refactor flaky test
 2026-06-12T00:18:49.439Z Brais Moure <mouredev@users.noreply.github.com> :: update null check
 2026-06-19T12:21:32.584Z atomic-ninja1337 <atomic-ninja1337@fake.invalid> :: update readme typo
+2026-06-26T09:06:35.079Z Niklaus Wirth <niklaus.wirth@fake.invalid> :: fix build script
