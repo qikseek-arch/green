@@ -11127,3 +11127,4 @@
 2026-06-26T10:24:54.596Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dependency versions
 2026-06-26T11:50:58.302Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove the CI matrix
 2026-06-26T12:43:18.963Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix edge case in auth
+2026-06-26T13:20:25.732Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up null check
