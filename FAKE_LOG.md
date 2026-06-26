@@ -831,3 +831,4 @@
 2026-06-26T12:43:04.847Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: bump build script
 2026-06-26T19:15:46.459Z GitHub Community <community@users.noreply.github.com> :: refactor flaky test
 2026-06-26T20:25:20.672Z Christian Deacon <gamemann@users.noreply.github.com> :: remove the parser
+2026-06-26T23:39:49.042Z Unicity Labs <info@unicity-labs.com> :: bump retry logic
