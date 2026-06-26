@@ -11118,3 +11118,4 @@
 2026-06-25T20:15:51.313Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump the CI matrix
 2026-06-25T23:37:03.312Z Getgems <getgems-io@users.noreply.github.com> :: wire up the CI matrix
 2026-06-26T00:24:02.193Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove flaky test
+2026-06-26T02:09:37.243Z Ryan Bigg <radar@users.noreply.github.com> :: wire up the parser
