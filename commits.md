@@ -775,3 +775,4 @@
 2026-06-25T06:53:55.834Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: polish logging
 2026-06-26T09:21:14.961Z Kyler Condran <KylerCondran@users.noreply.github.com> :: update null check
 2026-06-26T09:31:17.569Z MASSGRAVE <massgravel@users.noreply.github.com> :: remove build script
+2026-06-26T15:00:40.050Z ONLYOFFICE <support@onlyoffice.com> :: fix cache keys
