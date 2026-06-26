@@ -11126,3 +11126,4 @@
 2026-06-26T09:11:10.158Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak retry logic
 2026-06-26T10:24:54.596Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dependency versions
 2026-06-26T11:50:58.302Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: remove the CI matrix
+2026-06-26T12:43:18.963Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix edge case in auth
