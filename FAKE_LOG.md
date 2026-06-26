@@ -828,3 +828,4 @@
 2026-06-23T14:22:02.208Z Phil Wang <lucidrains@users.noreply.github.com> :: update readme typo
 2026-06-23T15:11:42.089Z Stephen Grider <StephenGrider@users.noreply.github.com> :: fix flaky test
 2026-06-24T08:43:31.240Z Kirat <hkirat@users.noreply.github.com> :: fix readme typo
+2026-06-26T12:43:04.847Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: bump build script
