@@ -11159,3 +11159,4 @@
 2026-06-27T16:54:20.688Z Ryan Bigg <radar@users.noreply.github.com> :: add null check
 2026-06-27T18:22:13.493Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
 2026-06-27T20:14:59.629Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix error handling
+2026-06-27T20:39:42.626Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor logging
