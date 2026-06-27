@@ -11162,3 +11162,4 @@
 2026-06-27T20:39:42.626Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor logging
 2026-06-27T20:51:50.627Z ring04h <ring04h@users.noreply.github.com> :: wire up readme typo
 2026-06-27T22:50:31.277Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up flaky test
+2026-06-27T23:48:02.019Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix edge case in auth
