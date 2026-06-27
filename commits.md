@@ -11151,3 +11151,4 @@
 2026-06-27T11:17:22.996Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
 2026-06-27T11:48:49.062Z heyli <lcxfs1991@users.noreply.github.com> :: tweak build script
 2026-06-27T12:30:03.960Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump dead code
+2026-06-27T13:08:53.428Z Keith Smiley <keith@users.noreply.github.com> :: remove config defaults
