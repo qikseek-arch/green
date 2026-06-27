@@ -11141,3 +11141,4 @@
 2026-06-27T01:47:56.887Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
 2026-06-27T05:36:16.323Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update the CI matrix
 2026-06-27T06:25:41.282Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the CI matrix
+2026-06-27T06:57:09.947Z Odi <mathdroid@users.noreply.github.com> :: wire up edge case in auth
