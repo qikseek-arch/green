@@ -11144,3 +11144,4 @@
 2026-06-27T06:57:09.947Z Odi <mathdroid@users.noreply.github.com> :: wire up edge case in auth
 2026-06-27T07:48:19.227Z CTFs <ctfs@users.noreply.github.com> :: fix config defaults
 2026-06-27T08:37:29.295Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix the parser
+2026-06-27T08:54:31.453Z Keith Smiley <keith@users.noreply.github.com> :: wire up config defaults
