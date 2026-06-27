@@ -268,3 +268,4 @@
 2026-06-10T19:09:58.458Z admin <admin@fake.invalid> :: bump error handling
 2026-06-16T16:47:53.251Z lumen <lumen@fake.invalid> :: remove null check
 2026-06-24T03:29:56.389Z obsidian <obsidian@fake.invalid> :: remove cache keys
+2026-06-27T00:28:31.622Z onyx <onyx@fake.invalid> :: update error handling
