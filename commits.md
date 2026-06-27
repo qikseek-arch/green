@@ -11149,3 +11149,4 @@
 2026-06-27T11:00:13.634Z Almas Baim <AlmasB@users.noreply.github.com> :: polish flaky test
 2026-06-27T11:02:27.578Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor the CI matrix
 2026-06-27T11:17:22.996Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix error handling
+2026-06-27T11:48:49.062Z heyli <lcxfs1991@users.noreply.github.com> :: tweak build script
