@@ -833,3 +833,4 @@
 2026-06-26T20:25:20.672Z Christian Deacon <gamemann@users.noreply.github.com> :: remove the parser
 2026-06-26T23:39:49.042Z Unicity Labs <info@unicity-labs.com> :: bump retry logic
 2026-06-27T03:40:57.670Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: fix the parser
+2026-06-27T22:02:03.605Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: add readme typo
