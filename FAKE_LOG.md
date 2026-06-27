@@ -565,3 +565,4 @@
 2026-06-05T00:23:26.220Z Anthony Fu <antfu@users.noreply.github.com> :: refactor readme typo
 2026-06-06T17:10:22.342Z Christian Deacon <gamemann@users.noreply.github.com> :: remove the CI matrix
 2026-06-22T17:59:47.875Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: bump logging
+2026-06-27T17:22:47.683Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: update config defaults
