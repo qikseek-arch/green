@@ -11154,3 +11154,4 @@
 2026-06-27T13:08:53.428Z Keith Smiley <keith@users.noreply.github.com> :: remove config defaults
 2026-06-27T14:14:51.687Z David Fowler <davidfowl@users.noreply.github.com> :: tweak logging
 2026-06-27T14:45:42.378Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump retry logic
+2026-06-27T15:13:16.569Z Shubs <infosec-au@users.noreply.github.com> :: update dependency versions
