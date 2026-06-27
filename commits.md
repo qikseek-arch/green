@@ -11139,3 +11139,4 @@
 2026-06-27T00:07:30.289Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak dead code
 2026-06-27T00:40:38.734Z Claude <claude@users.noreply.github.com> :: remove error handling
 2026-06-27T01:47:56.887Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
+2026-06-27T05:36:16.323Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update the CI matrix
