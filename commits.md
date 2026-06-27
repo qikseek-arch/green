@@ -778,3 +778,4 @@
 2026-06-26T15:00:40.050Z ONLYOFFICE <support@onlyoffice.com> :: fix cache keys
 2026-06-26T21:43:24.205Z Domenic Denicola <domenic@users.noreply.github.com> :: remove the CI matrix
 2026-06-26T23:11:59.432Z Domenic Denicola <domenic@users.noreply.github.com> :: remove dependency versions
+2026-06-27T02:30:46.693Z Merve Noyan <merveenoyan@users.noreply.github.com> :: polish dead code
