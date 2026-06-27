@@ -11136,3 +11136,4 @@
 2026-06-26T21:28:44.087Z CTFs <ctfs@users.noreply.github.com> :: refactor build script
 2026-06-26T22:12:02.688Z Claude <claude@users.noreply.github.com> :: remove config defaults
 2026-06-26T23:19:48.574Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump config defaults
+2026-06-27T00:07:30.289Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak dead code
