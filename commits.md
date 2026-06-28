@@ -11179,3 +11179,4 @@
 2026-06-28T17:12:14.417Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor the parser
 2026-06-28T18:35:02.020Z Adam Bell <b3ll@users.noreply.github.com> :: clean up edge case in auth
 2026-06-28T19:49:25.688Z Sadık TURAN <sadikturan@users.noreply.github.com> :: tweak retry logic
+2026-06-28T21:53:50.992Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
