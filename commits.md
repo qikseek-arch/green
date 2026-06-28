@@ -11178,3 +11178,4 @@
 2026-06-28T16:13:11.736Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix null check
 2026-06-28T17:12:14.417Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor the parser
 2026-06-28T18:35:02.020Z Adam Bell <b3ll@users.noreply.github.com> :: clean up edge case in auth
+2026-06-28T19:49:25.688Z Sadık TURAN <sadikturan@users.noreply.github.com> :: tweak retry logic
