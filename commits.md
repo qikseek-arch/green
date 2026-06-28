@@ -782,3 +782,4 @@
 2026-06-27T05:04:40.109Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: wire up flaky test
 2026-06-28T02:52:45.728Z Philipp Schmid <philschmid@users.noreply.github.com> :: clean up cache keys
 2026-06-28T17:00:04.177Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: polish edge case in auth
+2026-06-28T22:42:05.069Z Glenn Jocher <glenn-jocher@users.noreply.github.com> :: fix null check
