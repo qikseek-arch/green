@@ -11177,3 +11177,4 @@
 2026-06-28T15:41:03.196Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix logging
 2026-06-28T16:13:11.736Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix null check
 2026-06-28T17:12:14.417Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor the parser
+2026-06-28T18:35:02.020Z Adam Bell <b3ll@users.noreply.github.com> :: clean up edge case in auth
