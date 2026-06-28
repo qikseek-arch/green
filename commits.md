@@ -11170,3 +11170,4 @@
 2026-06-28T06:36:44.265Z markqvist <markqvist@users.noreply.github.com> :: refactor readme typo
 2026-06-28T08:00:42.661Z Aurélien Geron <ageron@users.noreply.github.com> :: polish the CI matrix
 2026-06-28T10:31:09.918Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix error handling
+2026-06-28T13:06:34.170Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove build script
