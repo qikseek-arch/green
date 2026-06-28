@@ -11181,3 +11181,4 @@
 2026-06-28T19:49:25.688Z Sadık TURAN <sadikturan@users.noreply.github.com> :: tweak retry logic
 2026-06-28T21:53:50.992Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix the CI matrix
 2026-06-28T22:38:56.794Z Getgems <getgems-io@users.noreply.github.com> :: tweak error handling
+2026-06-28T22:47:40.310Z Rei <chloerei@users.noreply.github.com> :: bump readme typo
