@@ -11174,3 +11174,4 @@
 2026-06-28T13:38:04.754Z Aurélien Geron <ageron@users.noreply.github.com> :: add the CI matrix
 2026-06-28T14:03:13.782Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: bump the parser
 2026-06-28T15:30:19.960Z Manu Arora <manuarora700@users.noreply.github.com> :: add the parser
+2026-06-28T15:41:03.196Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix logging
