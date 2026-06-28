@@ -11175,3 +11175,4 @@
 2026-06-28T14:03:13.782Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: bump the parser
 2026-06-28T15:30:19.960Z Manu Arora <manuarora700@users.noreply.github.com> :: add the parser
 2026-06-28T15:41:03.196Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix logging
+2026-06-28T16:13:11.736Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix null check
