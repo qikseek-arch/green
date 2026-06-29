@@ -787,3 +787,4 @@
 2026-06-29T01:40:56.221Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: refactor error handling
 2026-06-29T06:32:03.057Z Colt Steele <Colt@users.noreply.github.com> :: add dead code
 2026-06-29T10:18:32.621Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
+2026-06-29T12:20:11.430Z Ce Gao <gaocegege@users.noreply.github.com> :: clean up readme typo
