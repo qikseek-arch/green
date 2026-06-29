@@ -11203,3 +11203,4 @@
 2026-06-29T16:51:49.071Z Adam Bell <b3ll@users.noreply.github.com> :: fix the parser
 2026-06-29T16:59:04.938Z markqvist <markqvist@users.noreply.github.com> :: remove edge case in auth
 2026-06-29T19:28:09.931Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: update the CI matrix
+2026-06-29T19:32:42.318Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the CI matrix
