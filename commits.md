@@ -11195,3 +11195,4 @@
 2026-06-29T10:20:04.305Z Keith Smiley <keith@users.noreply.github.com> :: refactor dependency versions
 2026-06-29T10:29:40.261Z First Contributions <firstcontributions@gmail.com> :: wire up dead code
 2026-06-29T10:31:04.672Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update cache keys
+2026-06-29T10:49:31.152Z First Contributions <firstcontributions@gmail.com> :: clean up edge case in auth
