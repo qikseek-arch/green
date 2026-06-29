@@ -11205,3 +11205,4 @@
 2026-06-29T19:28:09.931Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: update the CI matrix
 2026-06-29T19:32:42.318Z AI4Bhārat <opensource@ai4bharat.org> :: tweak the CI matrix
 2026-06-29T21:11:20.102Z LILYGO <LilyGO@users.noreply.github.com> :: remove config defaults
+2026-06-29T21:13:24.507Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump edge case in auth
