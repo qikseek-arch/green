@@ -11191,3 +11191,4 @@
 2026-06-29T04:29:09.089Z Sachin Soni <techiesms@users.noreply.github.com> :: add flaky test
 2026-06-29T06:14:15.649Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump logging
 2026-06-29T06:52:20.853Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix logging
+2026-06-29T10:00:23.587Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up readme typo
