@@ -11207,3 +11207,4 @@
 2026-06-29T21:11:20.102Z LILYGO <LilyGO@users.noreply.github.com> :: remove config defaults
 2026-06-29T21:13:24.507Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump edge case in auth
 2026-06-29T21:24:18.029Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
+2026-06-29T21:27:26.787Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump null check
