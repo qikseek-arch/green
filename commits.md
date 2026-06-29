@@ -11199,3 +11199,4 @@
 2026-06-29T12:09:40.413Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up the CI matrix
 2026-06-29T14:01:12.701Z Getgems <getgems-io@users.noreply.github.com> :: update dependency versions
 2026-06-29T15:10:03.890Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update dependency versions
+2026-06-29T16:28:48.056Z Odi <mathdroid@users.noreply.github.com> :: add dependency versions
