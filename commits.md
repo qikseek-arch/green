@@ -11184,3 +11184,4 @@
 2026-06-28T22:47:40.310Z Rei <chloerei@users.noreply.github.com> :: bump readme typo
 2026-06-29T00:55:19.240Z markqvist <markqvist@users.noreply.github.com> :: bump dependency versions
 2026-06-29T01:01:44.191Z Manu Arora <manuarora700@users.noreply.github.com> :: fix null check
+2026-06-29T01:18:06.510Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up the parser
