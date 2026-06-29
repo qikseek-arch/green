@@ -11197,3 +11197,4 @@
 2026-06-29T10:31:04.672Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update cache keys
 2026-06-29T10:49:31.152Z First Contributions <firstcontributions@gmail.com> :: clean up edge case in auth
 2026-06-29T12:09:40.413Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up the CI matrix
+2026-06-29T14:01:12.701Z Getgems <getgems-io@users.noreply.github.com> :: update dependency versions
