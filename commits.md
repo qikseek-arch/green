@@ -11229,3 +11229,4 @@
 2026-06-30T21:33:52.415Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: tweak dependency versions
 2026-06-30T21:43:34.458Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump cache keys
 2026-06-30T21:43:40.242Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add dependency versions
+2026-06-30T22:37:08.439Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish error handling
