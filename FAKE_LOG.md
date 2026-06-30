@@ -835,3 +835,4 @@
 2026-06-27T03:40:57.670Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: fix the parser
 2026-06-27T22:02:03.605Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: add readme typo
 2026-06-28T12:01:34.504Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: wire up the CI matrix
+2026-06-30T01:53:58.810Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: add dependency versions
