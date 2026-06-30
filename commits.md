@@ -11221,3 +11221,4 @@
 2026-06-30T12:49:21.441Z BBC <bbc@users.noreply.github.com> :: fix config defaults
 2026-06-30T12:53:04.464Z AI4Bhārat <opensource@ai4bharat.org> :: clean up dead code
 2026-06-30T13:25:04.566Z markqvist <markqvist@users.noreply.github.com> :: remove dependency versions
+2026-06-30T16:08:20.055Z LILYGO <LilyGO@users.noreply.github.com> :: wire up logging
