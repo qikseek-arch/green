@@ -11225,3 +11225,4 @@
 2026-06-30T16:57:56.738Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update config defaults
 2026-06-30T19:32:54.288Z heyli <lcxfs1991@users.noreply.github.com> :: tweak cache keys
 2026-06-30T19:37:26.300Z Almas Baim <AlmasB@users.noreply.github.com> :: polish retry logic
+2026-06-30T20:03:23.060Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add edge case in auth
