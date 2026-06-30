@@ -11218,3 +11218,4 @@
 2026-06-30T08:25:56.340Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add dependency versions
 2026-06-30T10:12:17.720Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor readme typo
 2026-06-30T10:40:16.519Z ring04h <ring04h@users.noreply.github.com> :: fix dead code
+2026-06-30T12:49:21.441Z BBC <bbc@users.noreply.github.com> :: fix config defaults
