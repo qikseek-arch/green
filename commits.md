@@ -11209,3 +11209,4 @@
 2026-06-29T21:24:18.029Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
 2026-06-29T21:27:26.787Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump null check
 2026-06-29T21:53:28.510Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up flaky test
+2026-06-30T00:57:49.618Z ㅤxander <vampirist@users.noreply.github.com> :: remove readme typo
