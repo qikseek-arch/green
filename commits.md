@@ -11215,3 +11215,4 @@
 2026-06-30T05:55:36.185Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor null check
 2026-06-30T06:28:15.377Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor dead code
 2026-06-30T07:02:08.920Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: bump retry logic
+2026-06-30T08:25:56.340Z Rodrigo Pombo <pomber@users.noreply.github.com> :: add dependency versions
