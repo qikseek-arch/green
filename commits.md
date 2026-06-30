@@ -11211,3 +11211,4 @@
 2026-06-29T21:53:28.510Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up flaky test
 2026-06-30T00:57:49.618Z ㅤxander <vampirist@users.noreply.github.com> :: remove readme typo
 2026-06-30T03:39:03.269Z CTFs <ctfs@users.noreply.github.com> :: remove config defaults
+2026-06-30T04:29:32.431Z Tim MacDonald <timacdonald@users.noreply.github.com> :: remove dead code
