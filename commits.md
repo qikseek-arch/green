@@ -11210,3 +11210,4 @@
 2026-06-29T21:27:26.787Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump null check
 2026-06-29T21:53:28.510Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up flaky test
 2026-06-30T00:57:49.618Z ㅤxander <vampirist@users.noreply.github.com> :: remove readme typo
+2026-06-30T03:39:03.269Z CTFs <ctfs@users.noreply.github.com> :: remove config defaults
