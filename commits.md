@@ -11255,3 +11255,4 @@
 2026-07-01T17:06:19.056Z SouJunior <wouerner@soujunior.tech> :: polish dead code
 2026-07-01T18:42:13.112Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up flaky test
 2026-07-01T19:43:57.392Z Keith Smiley <keith@users.noreply.github.com> :: add build script
+2026-07-01T20:41:25.982Z Taiko Foundation <info@taiko.xyz> :: remove build script
