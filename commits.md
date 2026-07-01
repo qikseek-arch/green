@@ -11231,3 +11231,4 @@
 2026-06-30T21:43:40.242Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add dependency versions
 2026-06-30T22:37:08.439Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish error handling
 2026-07-01T01:02:56.306Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up logging
+2026-07-01T01:04:33.417Z Taiko Foundation <info@taiko.xyz> :: remove null check
