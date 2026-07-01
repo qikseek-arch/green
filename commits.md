@@ -11254,3 +11254,4 @@
 2026-07-01T14:39:03.967Z Taiko Foundation <info@taiko.xyz> :: polish logging
 2026-07-01T17:06:19.056Z SouJunior <wouerner@soujunior.tech> :: polish dead code
 2026-07-01T18:42:13.112Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up flaky test
+2026-07-01T19:43:57.392Z Keith Smiley <keith@users.noreply.github.com> :: add build script
