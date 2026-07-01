@@ -11258,3 +11258,4 @@
 2026-07-01T20:41:25.982Z Taiko Foundation <info@taiko.xyz> :: remove build script
 2026-07-01T21:20:00.291Z Rafal <RafalW3bCraft@users.noreply.github.com> :: update build script
 2026-07-01T22:58:49.009Z qiye <qiyeboy@users.noreply.github.com> :: tweak retry logic
+2026-07-01T23:28:43.207Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up logging
