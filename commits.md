@@ -11245,3 +11245,4 @@
 2026-07-01T07:49:49.527Z Barret李靖 <barretlee@users.noreply.github.com> :: fix dead code
 2026-07-01T08:05:05.105Z Selenium <SeleniumHQ@users.noreply.github.com> :: tweak cache keys
 2026-07-01T08:09:10.086Z Arduino <arduino@users.noreply.github.com> :: polish dead code
+2026-07-01T09:52:27.348Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up null check
