@@ -11233,3 +11233,4 @@
 2026-07-01T01:02:56.306Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: clean up logging
 2026-07-01T01:04:33.417Z Taiko Foundation <info@taiko.xyz> :: remove null check
 2026-07-01T02:27:39.576Z ㅤxander <vampirist@users.noreply.github.com> :: fix edge case in auth
+2026-07-01T03:19:03.186Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up retry logic
