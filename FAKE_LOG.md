@@ -837,3 +837,4 @@
 2026-06-28T12:01:34.504Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: wire up the CI matrix
 2026-06-30T01:53:58.810Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: add dependency versions
 2026-06-30T12:42:18.619Z Phil Wang <lucidrains@users.noreply.github.com> :: remove the CI matrix
+2026-07-01T22:08:14.995Z Jeff Delaney <codediodeio@users.noreply.github.com> :: update the CI matrix
