@@ -11270,3 +11270,4 @@
 2026-07-02T07:33:27.075Z Taiko Foundation <info@taiko.xyz> :: refactor readme typo
 2026-07-02T08:37:38.101Z CTFs <ctfs@users.noreply.github.com> :: clean up the parser
 2026-07-02T08:45:10.585Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up dependency versions
+2026-07-02T09:50:49.670Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
