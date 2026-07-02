@@ -11279,3 +11279,4 @@
 2026-07-02T12:33:01.030Z Taiko Foundation <info@taiko.xyz> :: remove the CI matrix
 2026-07-02T13:22:14.190Z First Contributions <firstcontributions@gmail.com> :: refactor error handling
 2026-07-02T15:19:44.252Z AI4Bhārat <opensource@ai4bharat.org> :: bump dependency versions
+2026-07-02T16:28:23.736Z Shubs <infosec-au@users.noreply.github.com> :: fix null check
