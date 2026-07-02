@@ -11268,3 +11268,4 @@
 2026-07-02T05:06:10.619Z md-5 <md-5@users.noreply.github.com> :: add cache keys
 2026-07-02T07:10:25.687Z markqvist <markqvist@users.noreply.github.com> :: remove the parser
 2026-07-02T07:33:27.075Z Taiko Foundation <info@taiko.xyz> :: refactor readme typo
+2026-07-02T08:37:38.101Z CTFs <ctfs@users.noreply.github.com> :: clean up the parser
