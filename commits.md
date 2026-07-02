@@ -789,3 +789,4 @@
 2026-06-29T10:18:32.621Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update error handling
 2026-06-29T12:20:11.430Z Ce Gao <gaocegege@users.noreply.github.com> :: clean up readme typo
 2026-06-30T11:28:30.077Z Ryubing <Ryubing@users.noreply.github.com> :: clean up config defaults
+2026-07-02T08:16:23.241Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: refactor build script
