@@ -11277,3 +11277,4 @@
 2026-07-02T11:24:14.844Z Adam Łucek <ALucek@users.noreply.github.com> :: add readme typo
 2026-07-02T11:37:46.614Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump readme typo
 2026-07-02T12:33:01.030Z Taiko Foundation <info@taiko.xyz> :: remove the CI matrix
+2026-07-02T13:22:14.190Z First Contributions <firstcontributions@gmail.com> :: refactor error handling
