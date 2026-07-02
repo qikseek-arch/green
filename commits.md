@@ -11262,3 +11262,4 @@
 2026-07-02T00:01:12.516Z BBC <bbc@users.noreply.github.com> :: polish logging
 2026-07-02T01:26:49.454Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up cache keys
 2026-07-02T02:50:08.047Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak retry logic
+2026-07-02T03:47:17.196Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update readme typo
