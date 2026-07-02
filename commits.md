@@ -11283,3 +11283,4 @@
 2026-07-02T16:47:32.921Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix build script
 2026-07-02T17:23:00.685Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up flaky test
 2026-07-02T17:57:37.570Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak the CI matrix
+2026-07-02T19:12:23.916Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor build script
