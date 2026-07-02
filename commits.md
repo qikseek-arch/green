@@ -11286,3 +11286,4 @@
 2026-07-02T19:12:23.916Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor build script
 2026-07-02T20:00:25.231Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak build script
 2026-07-02T20:37:56.812Z SouJunior <wouerner@soujunior.tech> :: clean up flaky test
+2026-07-02T22:06:44.546Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish logging
