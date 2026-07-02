@@ -11260,3 +11260,4 @@
 2026-07-01T22:58:49.009Z qiye <qiyeboy@users.noreply.github.com> :: tweak retry logic
 2026-07-01T23:28:43.207Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up logging
 2026-07-02T00:01:12.516Z BBC <bbc@users.noreply.github.com> :: polish logging
+2026-07-02T01:26:49.454Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up cache keys
