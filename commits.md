@@ -11272,3 +11272,4 @@
 2026-07-02T08:45:10.585Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up dependency versions
 2026-07-02T09:50:49.670Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
 2026-07-02T09:55:07.052Z vb <Vaibhavs10@users.noreply.github.com> :: wire up the CI matrix
+2026-07-02T10:41:33.752Z ㅤxander <vampirist@users.noreply.github.com> :: wire up build script
