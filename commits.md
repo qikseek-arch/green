@@ -11287,3 +11287,4 @@
 2026-07-02T20:00:25.231Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: tweak build script
 2026-07-02T20:37:56.812Z SouJunior <wouerner@soujunior.tech> :: clean up flaky test
 2026-07-02T22:06:44.546Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish logging
+2026-07-02T22:15:04.645Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak dependency versions
