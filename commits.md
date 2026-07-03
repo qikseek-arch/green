@@ -11317,3 +11317,4 @@
 2026-07-03T18:06:20.153Z Keith Smiley <keith@users.noreply.github.com> :: remove error handling
 2026-07-03T19:07:54.682Z Arduino <arduino@users.noreply.github.com> :: update logging
 2026-07-03T20:03:09.563Z OpenJS Foundation <info@openjsf.org> :: update config defaults
+2026-07-03T20:24:10.997Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor the CI matrix
