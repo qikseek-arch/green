@@ -11320,3 +11320,4 @@
 2026-07-03T20:24:10.997Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor the CI matrix
 2026-07-03T21:41:50.571Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up cache keys
 2026-07-03T21:52:44.371Z ring04h <ring04h@users.noreply.github.com> :: add null check
+2026-07-03T23:06:51.180Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish null check
