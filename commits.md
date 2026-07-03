@@ -11294,3 +11294,4 @@
 2026-07-03T01:27:21.872Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update retry logic
 2026-07-03T02:57:40.134Z Taiko Foundation <info@taiko.xyz> :: remove readme typo
 2026-07-03T03:35:56.107Z owenzhang <owenzhang@users.noreply.github.com> :: bump the parser
+2026-07-03T04:01:46.915Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up config defaults
