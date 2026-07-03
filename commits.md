@@ -11313,3 +11313,4 @@
 2026-07-03T16:53:59.525Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish dead code
 2026-07-03T16:58:47.863Z heyli <lcxfs1991@users.noreply.github.com> :: add readme typo
 2026-07-03T16:59:35.999Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up error handling
+2026-07-03T18:00:08.485Z markqvist <markqvist@users.noreply.github.com> :: tweak dependency versions
