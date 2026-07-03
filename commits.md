@@ -11311,3 +11311,4 @@
 2026-07-03T16:43:44.328Z Adam Wathan <adamwathan@users.noreply.github.com> :: refactor edge case in auth
 2026-07-03T16:52:50.406Z Taiko Foundation <info@taiko.xyz> :: clean up dependency versions
 2026-07-03T16:53:59.525Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish dead code
+2026-07-03T16:58:47.863Z heyli <lcxfs1991@users.noreply.github.com> :: add readme typo
