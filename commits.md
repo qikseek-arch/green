@@ -11305,3 +11305,4 @@
 2026-07-03T10:33:09.420Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump logging
 2026-07-03T11:26:35.637Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: bump dead code
 2026-07-03T12:00:00.921Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update retry logic
+2026-07-03T14:19:21.963Z Sachin Soni <techiesms@users.noreply.github.com> :: remove the CI matrix
