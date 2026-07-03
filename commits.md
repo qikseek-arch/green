@@ -11318,3 +11318,4 @@
 2026-07-03T19:07:54.682Z Arduino <arduino@users.noreply.github.com> :: update logging
 2026-07-03T20:03:09.563Z OpenJS Foundation <info@openjsf.org> :: update config defaults
 2026-07-03T20:24:10.997Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor the CI matrix
+2026-07-03T21:41:50.571Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up cache keys
