@@ -11290,3 +11290,4 @@
 2026-07-02T22:15:04.645Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak dependency versions
 2026-07-02T22:56:05.038Z Adam Bell <b3ll@users.noreply.github.com> :: fix the CI matrix
 2026-07-03T00:07:47.565Z CTFs <ctfs@users.noreply.github.com> :: add null check
+2026-07-03T00:44:25.944Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish edge case in auth
