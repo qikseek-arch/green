@@ -11308,3 +11308,4 @@
 2026-07-03T14:19:21.963Z Sachin Soni <techiesms@users.noreply.github.com> :: remove the CI matrix
 2026-07-03T14:29:36.850Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor the parser
 2026-07-03T15:22:08.639Z WebRTC <discuss-webrtc@googlegroups.com> :: add cache keys
+2026-07-03T16:43:44.328Z Adam Wathan <adamwathan@users.noreply.github.com> :: refactor edge case in auth
