@@ -11292,3 +11292,4 @@
 2026-07-03T00:07:47.565Z CTFs <ctfs@users.noreply.github.com> :: add null check
 2026-07-03T00:44:25.944Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish edge case in auth
 2026-07-03T01:27:21.872Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update retry logic
+2026-07-03T02:57:40.134Z Taiko Foundation <info@taiko.xyz> :: remove readme typo
