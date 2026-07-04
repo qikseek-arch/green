@@ -11340,3 +11340,4 @@
 2026-07-04T10:33:51.625Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak logging
 2026-07-04T11:10:48.526Z AI4Bhārat <opensource@ai4bharat.org> :: add edge case in auth
 2026-07-04T11:18:15.646Z Ben Hamner <benhamner@users.noreply.github.com> :: add the parser
+2026-07-04T11:56:57.349Z md-5 <md-5@users.noreply.github.com> :: clean up readme typo
