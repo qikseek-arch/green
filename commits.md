@@ -11325,3 +11325,4 @@
 2026-07-04T00:07:37.537Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add flaky test
 2026-07-04T00:43:39.525Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak dead code
 2026-07-04T01:21:55.149Z CTFs <ctfs@users.noreply.github.com> :: polish dead code
+2026-07-04T01:59:12.082Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix logging
