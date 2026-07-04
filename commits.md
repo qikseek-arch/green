@@ -794,3 +794,4 @@
 2026-07-02T13:42:55.574Z Yiming Cui <ymcui@users.noreply.github.com> :: add flaky test
 2026-07-03T00:48:38.449Z 秋葉杏 <Akegarasu@users.noreply.github.com> :: wire up flaky test
 2026-07-03T05:22:05.307Z Justin Tunney <jart@users.noreply.github.com> :: clean up logging
+2026-07-04T14:33:54.670Z Odoo Community Association <OCA@users.noreply.github.com> :: add edge case in auth
