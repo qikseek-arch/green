@@ -11339,3 +11339,4 @@
 2026-07-04T10:29:16.638Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up config defaults
 2026-07-04T10:33:51.625Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak logging
 2026-07-04T11:10:48.526Z AI4Bhārat <opensource@ai4bharat.org> :: add edge case in auth
+2026-07-04T11:18:15.646Z Ben Hamner <benhamner@users.noreply.github.com> :: add the parser
