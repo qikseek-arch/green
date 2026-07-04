@@ -11346,3 +11346,4 @@
 2026-07-04T14:42:30.336Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add flaky test
 2026-07-04T16:08:36.949Z Almas Baim <AlmasB@users.noreply.github.com> :: polish dead code
 2026-07-04T16:09:13.532Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak edge case in auth
+2026-07-04T16:30:14.609Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up dead code
