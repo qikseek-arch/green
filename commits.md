@@ -11350,3 +11350,4 @@
 2026-07-04T18:34:44.836Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up logging
 2026-07-04T19:04:52.592Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix build script
 2026-07-04T19:16:33.016Z AI4Bhārat <opensource@ai4bharat.org> :: polish the parser
+2026-07-04T19:55:47.593Z CTFs <ctfs@users.noreply.github.com> :: bump dependency versions
