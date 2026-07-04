@@ -11337,3 +11337,4 @@
 2026-07-04T09:58:34.315Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up dead code
 2026-07-04T10:00:51.428Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor flaky test
 2026-07-04T10:29:16.638Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up config defaults
+2026-07-04T10:33:51.625Z Rodrigo Pombo <pomber@users.noreply.github.com> :: tweak logging
