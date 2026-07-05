@@ -11367,3 +11367,4 @@
 2026-07-05T07:35:31.820Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor error handling
 2026-07-05T09:49:43.666Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
 2026-07-05T10:23:10.991Z vb <Vaibhavs10@users.noreply.github.com> :: remove null check
+2026-07-05T11:01:37.408Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
