@@ -11353,3 +11353,4 @@
 2026-07-04T19:55:47.593Z CTFs <ctfs@users.noreply.github.com> :: bump dependency versions
 2026-07-04T21:23:44.732Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak readme typo
 2026-07-04T22:34:48.759Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix flaky test
+2026-07-05T00:45:37.616Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump logging
