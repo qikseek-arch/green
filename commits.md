@@ -11362,3 +11362,4 @@
 2026-07-05T03:54:38.092Z BBC <bbc@users.noreply.github.com> :: update null check
 2026-07-05T04:36:50.571Z Adam Łucek <ALucek@users.noreply.github.com> :: remove the CI matrix
 2026-07-05T06:34:40.464Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up dead code
+2026-07-05T06:55:20.435Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up logging
