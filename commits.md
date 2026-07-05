@@ -11382,3 +11382,4 @@
 2026-07-05T19:14:43.978Z ZOMI <chenzomi12@users.noreply.github.com> :: clean up config defaults
 2026-07-05T19:50:14.336Z LILYGO <LilyGO@users.noreply.github.com> :: polish error handling
 2026-07-05T19:50:22.301Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up error handling
+2026-07-05T20:56:16.207Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: clean up null check
