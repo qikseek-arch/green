@@ -11356,3 +11356,4 @@
 2026-07-05T00:45:37.616Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump logging
 2026-07-05T01:09:57.225Z ring04h <ring04h@users.noreply.github.com> :: update the parser
 2026-07-05T01:15:02.524Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump logging
+2026-07-05T01:43:33.772Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
