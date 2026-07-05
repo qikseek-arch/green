@@ -11365,3 +11365,4 @@
 2026-07-05T06:55:20.435Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up logging
 2026-07-05T06:57:30.177Z AI4Bhārat <opensource@ai4bharat.org> :: tweak null check
 2026-07-05T07:35:31.820Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor error handling
+2026-07-05T09:49:43.666Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
