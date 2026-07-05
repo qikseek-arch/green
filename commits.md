@@ -11359,3 +11359,4 @@
 2026-07-05T01:43:33.772Z Getgems <getgems-io@users.noreply.github.com> :: remove the CI matrix
 2026-07-05T02:58:48.575Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update edge case in auth
 2026-07-05T03:50:18.887Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update error handling
+2026-07-05T03:54:38.092Z BBC <bbc@users.noreply.github.com> :: update null check
