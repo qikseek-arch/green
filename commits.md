@@ -11378,3 +11378,4 @@
 2026-07-05T14:54:24.245Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump cache keys
 2026-07-05T15:18:57.511Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up the parser
 2026-07-05T16:56:33.130Z Taiko Foundation <info@taiko.xyz> :: bump cache keys
+2026-07-05T19:05:13.456Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add readme typo
