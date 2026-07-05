@@ -11370,3 +11370,4 @@
 2026-07-05T11:01:37.408Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
 2026-07-05T11:13:21.262Z Aurélien Geron <ageron@users.noreply.github.com> :: bump the parser
 2026-07-05T12:35:52.646Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak the parser
+2026-07-05T13:02:32.845Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up build script
