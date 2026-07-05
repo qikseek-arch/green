@@ -838,3 +838,4 @@
 2026-06-30T01:53:58.810Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: add dependency versions
 2026-06-30T12:42:18.619Z Phil Wang <lucidrains@users.noreply.github.com> :: remove the CI matrix
 2026-07-01T22:08:14.995Z Jeff Delaney <codediodeio@users.noreply.github.com> :: update the CI matrix
+2026-07-05T19:39:22.737Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: update build script
