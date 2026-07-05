@@ -11366,3 +11366,4 @@
 2026-07-05T06:57:30.177Z AI4Bhārat <opensource@ai4bharat.org> :: tweak null check
 2026-07-05T07:35:31.820Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: refactor error handling
 2026-07-05T09:49:43.666Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
+2026-07-05T10:23:10.991Z vb <Vaibhavs10@users.noreply.github.com> :: remove null check
