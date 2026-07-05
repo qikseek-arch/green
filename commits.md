@@ -11376,3 +11376,4 @@
 2026-07-05T14:29:10.489Z heyli <lcxfs1991@users.noreply.github.com> :: tweak dependency versions
 2026-07-05T14:50:01.135Z Getgems <getgems-io@users.noreply.github.com> :: polish build script
 2026-07-05T14:54:24.245Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump cache keys
+2026-07-05T15:18:57.511Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up the parser
