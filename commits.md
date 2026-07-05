@@ -11368,3 +11368,4 @@
 2026-07-05T09:49:43.666Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak error handling
 2026-07-05T10:23:10.991Z vb <Vaibhavs10@users.noreply.github.com> :: remove null check
 2026-07-05T11:01:37.408Z Keith Smiley <keith@users.noreply.github.com> :: tweak build script
+2026-07-05T11:13:21.262Z Aurélien Geron <ageron@users.noreply.github.com> :: bump the parser
