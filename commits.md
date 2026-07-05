@@ -11380,3 +11380,4 @@
 2026-07-05T16:56:33.130Z Taiko Foundation <info@taiko.xyz> :: bump cache keys
 2026-07-05T19:05:13.456Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add readme typo
 2026-07-05T19:14:43.978Z ZOMI <chenzomi12@users.noreply.github.com> :: clean up config defaults
+2026-07-05T19:50:14.336Z LILYGO <LilyGO@users.noreply.github.com> :: polish error handling
