@@ -11403,3 +11403,4 @@
 2026-07-06T17:13:44.269Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
 2026-07-06T17:55:22.477Z Rei <chloerei@users.noreply.github.com> :: remove build script
 2026-07-06T18:51:17.891Z Adam Bell <b3ll@users.noreply.github.com> :: tweak logging
+2026-07-06T19:19:40.624Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix the parser
