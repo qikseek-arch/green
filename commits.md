@@ -11395,3 +11395,4 @@
 2026-07-06T08:20:11.555Z Roger Labbe <rlabbe@users.noreply.github.com> :: update dead code
 2026-07-06T08:48:57.875Z Rei <chloerei@users.noreply.github.com> :: bump build script
 2026-07-06T11:30:01.614Z AI4Bhārat <opensource@ai4bharat.org> :: clean up null check
+2026-07-06T12:39:26.110Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish the CI matrix
