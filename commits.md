@@ -11398,3 +11398,4 @@
 2026-07-06T12:39:26.110Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish the CI matrix
 2026-07-06T13:25:04.945Z md-5 <md-5@users.noreply.github.com> :: fix logging
 2026-07-06T14:50:35.125Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump retry logic
+2026-07-06T15:17:52.292Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add config defaults
