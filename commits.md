@@ -11407,3 +11407,4 @@
 2026-07-06T20:48:57.265Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor dependency versions
 2026-07-06T22:25:31.764Z BBC <bbc@users.noreply.github.com> :: clean up the parser
 2026-07-06T23:08:27.236Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add readme typo
+2026-07-06T23:40:10.446Z Claude <claude@users.noreply.github.com> :: tweak retry logic
