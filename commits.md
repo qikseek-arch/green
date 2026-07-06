@@ -11402,3 +11402,4 @@
 2026-07-06T16:45:57.600Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dead code
 2026-07-06T17:13:44.269Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
 2026-07-06T17:55:22.477Z Rei <chloerei@users.noreply.github.com> :: remove build script
+2026-07-06T18:51:17.891Z Adam Bell <b3ll@users.noreply.github.com> :: tweak logging
