@@ -11399,3 +11399,4 @@
 2026-07-06T13:25:04.945Z md-5 <md-5@users.noreply.github.com> :: fix logging
 2026-07-06T14:50:35.125Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump retry logic
 2026-07-06T15:17:52.292Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add config defaults
+2026-07-06T16:45:57.600Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dead code
