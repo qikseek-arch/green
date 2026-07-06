@@ -144,3 +144,4 @@
 2026-06-28T08:33:58.834Z panda_turbo_dev <panda_turbo_dev@users.noreply.github.com> :: update flaky test
 2026-07-02T06:18:23.230Z hollowbadger261 <hollowbadger261@users.noreply.github.com> :: remove the parser
 2026-07-06T05:32:47.244Z CosmicBadger <cosmicbadger@users.noreply.github.com> :: tweak readme typo
+2026-07-06T07:08:41.437Z FrozenRaptor <frozenraptor@users.noreply.github.com> :: polish null check
