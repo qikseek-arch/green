@@ -840,3 +840,4 @@
 2026-07-01T22:08:14.995Z Jeff Delaney <codediodeio@users.noreply.github.com> :: update the CI matrix
 2026-07-05T19:39:22.737Z Kent C. Dodds <kentcdodds@users.noreply.github.com> :: update build script
 2026-07-06T13:34:04.002Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: bump the parser
+2026-07-06T19:07:47.997Z Jeff Delaney <codediodeio@users.noreply.github.com> :: fix null check
