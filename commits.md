@@ -805,3 +805,4 @@
 2026-07-06T02:45:56.608Z Alex Yang <himself65@users.noreply.github.com> :: wire up flaky test
 2026-07-06T03:30:49.529Z Mark Erikson <markerikson@users.noreply.github.com> :: update retry logic
 2026-07-06T15:47:56.677Z SomeBody <AbSomeone@users.noreply.github.com> :: add dependency versions
+2026-07-07T07:17:52.804Z FastAPI <fastapi@users.noreply.github.com> :: tweak error handling
