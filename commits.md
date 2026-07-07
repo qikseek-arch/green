@@ -11412,3 +11412,4 @@
 2026-07-07T01:00:31.811Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove readme typo
 2026-07-07T01:03:45.504Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove config defaults
 2026-07-07T03:03:24.909Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak build script
+2026-07-07T03:43:46.340Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak null check
