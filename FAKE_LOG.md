@@ -365,3 +365,4 @@
 2026-06-21T20:08:34.327Z Martin Fowler <martin.fowler@fake.invalid> :: wire up retry logic
 2026-07-01T15:19:36.401Z solardaemon508 <solardaemon508@fake.invalid> :: refactor error handling
 2026-07-03T03:27:13.717Z Vint Cerf <vint.cerf@fake.invalid> :: wire up cache keys | Co-authored-by: David J. Malan <dmalan@users.noreply.github.com>
+2026-07-07T01:21:01.960Z Barbara Liskov <barbara.liskov@fake.invalid> :: clean up error handling
