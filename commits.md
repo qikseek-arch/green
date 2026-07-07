@@ -11429,3 +11429,4 @@
 2026-07-07T22:27:04.402Z CTFs <ctfs@users.noreply.github.com> :: clean up dead code
 2026-07-07T23:06:24.324Z Rei <chloerei@users.noreply.github.com> :: refactor dependency versions
 2026-07-07T23:22:48.340Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump config defaults
+2026-07-07T23:33:18.299Z Taiko Foundation <info@taiko.xyz> :: polish edge case in auth
