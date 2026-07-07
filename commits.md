@@ -11410,3 +11410,4 @@
 2026-07-06T23:40:10.446Z Claude <claude@users.noreply.github.com> :: tweak retry logic
 2026-07-07T00:42:00.779Z Shubs <infosec-au@users.noreply.github.com> :: tweak flaky test
 2026-07-07T01:00:31.811Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove readme typo
+2026-07-07T01:03:45.504Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: remove config defaults
