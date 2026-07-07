@@ -480,3 +480,4 @@
 2026-06-19T12:21:32.584Z atomic-ninja1337 <atomic-ninja1337@fake.invalid> :: update readme typo
 2026-06-26T09:06:35.079Z Niklaus Wirth <niklaus.wirth@fake.invalid> :: fix build script
 2026-07-05T16:13:51.042Z raptor_frozen <raptor_frozen@fake.invalid> :: polish readme typo
+2026-07-07T15:48:29.563Z Diego Fernandes <diego3g@users.noreply.github.com> :: polish logging
