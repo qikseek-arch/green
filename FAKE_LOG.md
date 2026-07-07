@@ -842,3 +842,4 @@
 2026-07-06T13:34:04.002Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: bump the parser
 2026-07-06T19:07:47.997Z Jeff Delaney <codediodeio@users.noreply.github.com> :: fix null check
 2026-07-07T08:38:17.177Z Google <opensource@google.com> :: clean up null check
+2026-07-07T16:47:20.266Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: add cache keys
