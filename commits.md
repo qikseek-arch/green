@@ -11448,3 +11448,4 @@
 2026-07-08T11:25:56.010Z Odi <mathdroid@users.noreply.github.com> :: refactor logging
 2026-07-08T11:34:51.749Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up dependency versions
 2026-07-08T12:43:19.958Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up config defaults
+2026-07-08T13:00:33.484Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up config defaults
