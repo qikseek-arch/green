@@ -11443,3 +11443,4 @@
 2026-07-08T08:35:52.321Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix logging
 2026-07-08T08:38:00.106Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish readme typo
 2026-07-08T08:56:54.826Z Adam Bell <b3ll@users.noreply.github.com> :: bump the CI matrix
+2026-07-08T11:03:57.254Z Daniel Eden <daneden@users.noreply.github.com> :: polish config defaults
