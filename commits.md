@@ -11451,3 +11451,4 @@
 2026-07-08T13:00:33.484Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up config defaults
 2026-07-08T13:11:23.967Z David Fowler <davidfowl@users.noreply.github.com> :: bump build script
 2026-07-08T13:40:48.404Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up flaky test
+2026-07-08T14:06:15.519Z Ryan Bigg <radar@users.noreply.github.com> :: remove the parser
