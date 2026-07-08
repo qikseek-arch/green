@@ -11460,3 +11460,4 @@
 2026-07-08T17:09:01.358Z OpenJS Foundation <info@openjsf.org> :: fix error handling
 2026-07-08T17:20:58.926Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: bump flaky test
 2026-07-08T20:36:04.229Z Tim MacDonald <timacdonald@users.noreply.github.com> :: update retry logic
+2026-07-08T22:14:56.648Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: remove null check
