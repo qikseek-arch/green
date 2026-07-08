@@ -11441,3 +11441,4 @@
 2026-07-08T08:03:44.341Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish the CI matrix
 2026-07-08T08:12:42.321Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish cache keys
 2026-07-08T08:35:52.321Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix logging
+2026-07-08T08:38:00.106Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish readme typo
