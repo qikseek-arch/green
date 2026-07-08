@@ -11437,3 +11437,4 @@
 2026-07-08T05:06:58.864Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the parser
 2026-07-08T05:39:45.028Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
 2026-07-08T06:10:54.854Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove the CI matrix
+2026-07-08T06:27:10.455Z heyli <lcxfs1991@users.noreply.github.com> :: wire up logging
