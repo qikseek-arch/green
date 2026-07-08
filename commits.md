@@ -11447,3 +11447,4 @@
 2026-07-08T11:08:01.118Z Ben Hamner <benhamner@users.noreply.github.com> :: bump the CI matrix
 2026-07-08T11:25:56.010Z Odi <mathdroid@users.noreply.github.com> :: refactor logging
 2026-07-08T11:34:51.749Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up dependency versions
+2026-07-08T12:43:19.958Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up config defaults
