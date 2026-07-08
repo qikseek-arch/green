@@ -11431,3 +11431,4 @@
 2026-07-07T23:22:48.340Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump config defaults
 2026-07-07T23:33:18.299Z Taiko Foundation <info@taiko.xyz> :: polish edge case in auth
 2026-07-08T00:26:31.121Z BBC <bbc@users.noreply.github.com> :: remove readme typo
+2026-07-08T00:44:06.439Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: fix dependency versions
