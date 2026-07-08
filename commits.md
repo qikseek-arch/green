@@ -11436,3 +11436,4 @@
 2026-07-08T03:37:43.728Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak dependency versions
 2026-07-08T05:06:58.864Z heyli <lcxfs1991@users.noreply.github.com> :: wire up the parser
 2026-07-08T05:39:45.028Z AI4Bhārat <opensource@ai4bharat.org> :: tweak retry logic
+2026-07-08T06:10:54.854Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove the CI matrix
