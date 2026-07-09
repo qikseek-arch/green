@@ -11479,3 +11479,4 @@
 2026-07-09T10:26:44.992Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix the CI matrix
 2026-07-09T11:25:26.149Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor null check
 2026-07-09T11:40:27.624Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update config defaults
+2026-07-09T11:51:33.606Z Inanc Gumus <inancgumus@users.noreply.github.com> :: update logging
