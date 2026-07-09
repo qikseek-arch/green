@@ -11490,3 +11490,4 @@
 2026-07-09T16:07:51.192Z CTFs <ctfs@users.noreply.github.com> :: fix the parser
 2026-07-09T16:17:35.536Z Bert Belder <piscisaureus@users.noreply.github.com> :: clean up the CI matrix
 2026-07-09T16:28:12.320Z BBC <bbc@users.noreply.github.com> :: add retry logic
+2026-07-09T17:25:46.918Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the parser
