@@ -11468,3 +11468,4 @@
 2026-07-09T01:59:52.080Z ㅤxander <vampirist@users.noreply.github.com> :: update build script
 2026-07-09T02:01:00.426Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove readme typo
 2026-07-09T03:31:51.924Z Aurélien Geron <ageron@users.noreply.github.com> :: remove cache keys
+2026-07-09T04:15:16.131Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak build script
