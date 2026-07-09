@@ -11498,3 +11498,4 @@
 2026-07-09T21:35:19.849Z Ryan Bigg <radar@users.noreply.github.com> :: clean up the CI matrix
 2026-07-09T21:39:01.173Z Manu Arora <manuarora700@users.noreply.github.com> :: polish build script
 2026-07-09T22:26:25.665Z ㅤxander <vampirist@users.noreply.github.com> :: tweak the CI matrix
+2026-07-09T22:51:52.319Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add config defaults
