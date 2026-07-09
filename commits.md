@@ -11494,3 +11494,4 @@
 2026-07-09T18:19:12.368Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up error handling
 2026-07-09T19:04:00.167Z heyli <lcxfs1991@users.noreply.github.com> :: remove retry logic
 2026-07-09T19:08:06.933Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
+2026-07-09T20:36:25.256Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix dead code
