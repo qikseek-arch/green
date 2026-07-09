@@ -11493,3 +11493,4 @@
 2026-07-09T17:25:46.918Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the parser
 2026-07-09T18:19:12.368Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up error handling
 2026-07-09T19:04:00.167Z heyli <lcxfs1991@users.noreply.github.com> :: remove retry logic
+2026-07-09T19:08:06.933Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
