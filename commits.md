@@ -11496,3 +11496,4 @@
 2026-07-09T19:08:06.933Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak readme typo
 2026-07-09T20:36:25.256Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix dead code
 2026-07-09T21:35:19.849Z Ryan Bigg <radar@users.noreply.github.com> :: clean up the CI matrix
+2026-07-09T21:39:01.173Z Manu Arora <manuarora700@users.noreply.github.com> :: polish build script
