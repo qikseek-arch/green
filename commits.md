@@ -11476,3 +11476,4 @@
 2026-07-09T07:19:54.768Z heyli <lcxfs1991@users.noreply.github.com> :: clean up retry logic
 2026-07-09T07:41:50.797Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up the parser
 2026-07-09T09:29:51.014Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak the CI matrix
+2026-07-09T10:26:44.992Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix the CI matrix
