@@ -11473,3 +11473,4 @@
 2026-07-09T05:49:39.120Z Jason Zhang <Hackl0us@users.noreply.github.com> :: tweak the parser
 2026-07-09T06:19:18.869Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up retry logic
 2026-07-09T06:56:12.037Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update readme typo
+2026-07-09T07:19:54.768Z heyli <lcxfs1991@users.noreply.github.com> :: clean up retry logic
