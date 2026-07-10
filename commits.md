@@ -11516,3 +11516,4 @@
 2026-07-10T15:50:52.612Z vb <Vaibhavs10@users.noreply.github.com> :: fix flaky test
 2026-07-10T18:57:55.108Z qiye <qiyeboy@users.noreply.github.com> :: remove logging
 2026-07-10T18:58:07.355Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump the CI matrix
+2026-07-10T19:02:00.329Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update edge case in auth
