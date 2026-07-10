@@ -11505,3 +11505,4 @@
 2026-07-10T01:41:22.460Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove logging
 2026-07-10T01:52:18.723Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump config defaults
 2026-07-10T05:09:21.566Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak flaky test
+2026-07-10T06:11:33.549Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: bump retry logic
