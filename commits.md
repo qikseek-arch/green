@@ -11518,3 +11518,4 @@
 2026-07-10T18:58:07.355Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump the CI matrix
 2026-07-10T19:02:00.329Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update edge case in auth
 2026-07-10T19:02:13.299Z Adam Łucek <ALucek@users.noreply.github.com> :: remove cache keys
+2026-07-10T19:35:28.473Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: tweak build script
