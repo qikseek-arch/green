@@ -11511,3 +11511,4 @@
 2026-07-10T10:40:32.926Z Taiko Foundation <info@taiko.xyz> :: refactor config defaults
 2026-07-10T12:51:08.466Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix dependency versions
 2026-07-10T14:31:27.702Z Shubs <infosec-au@users.noreply.github.com> :: polish dependency versions
+2026-07-10T14:54:39.115Z owenzhang <owenzhang@users.noreply.github.com> :: clean up readme typo
