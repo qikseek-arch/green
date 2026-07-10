@@ -11508,3 +11508,4 @@
 2026-07-10T06:11:33.549Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: bump retry logic
 2026-07-10T07:18:46.273Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor readme typo
 2026-07-10T07:50:37.137Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up flaky test
+2026-07-10T10:40:32.926Z Taiko Foundation <info@taiko.xyz> :: refactor config defaults
