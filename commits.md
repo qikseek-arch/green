@@ -812,3 +812,4 @@
 2026-07-09T06:16:15.280Z Yihua Zhang <ZhangMYihua@users.noreply.github.com> :: update dependency versions
 2026-07-09T14:23:33.873Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: polish logging
 2026-07-10T03:58:21.546Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: update build script
+2026-07-10T04:28:20.905Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: remove logging
