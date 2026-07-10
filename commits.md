@@ -11501,3 +11501,4 @@
 2026-07-09T22:51:52.319Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: add config defaults
 2026-07-09T23:03:33.991Z md-5 <md-5@users.noreply.github.com> :: remove flaky test
 2026-07-10T00:38:38.379Z Daniel Öster <dalathegreat@users.noreply.github.com> :: fix dead code
+2026-07-10T00:49:24.773Z Taiko Foundation <info@taiko.xyz> :: remove dead code
