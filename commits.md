@@ -11536,3 +11536,4 @@
 2026-07-11T06:39:22.371Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix dead code
 2026-07-11T09:02:28.904Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: remove logging
 2026-07-11T09:18:47.015Z AI4Bhārat <opensource@ai4bharat.org> :: polish build script
+2026-07-11T10:33:11.486Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak config defaults
