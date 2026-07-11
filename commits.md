@@ -11552,3 +11552,4 @@
 2026-07-11T19:30:41.834Z SouJunior <wouerner@soujunior.tech> :: wire up readme typo
 2026-07-11T20:19:37.314Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
 2026-07-11T20:32:27.962Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump dependency versions
+2026-07-11T21:21:01.762Z AI4Bhārat <opensource@ai4bharat.org> :: refactor the parser
