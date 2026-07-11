@@ -11543,3 +11543,4 @@
 2026-07-11T12:11:31.880Z md-5 <md-5@users.noreply.github.com> :: tweak error handling
 2026-07-11T14:55:19.065Z First Contributions <firstcontributions@gmail.com> :: polish the CI matrix
 2026-07-11T15:04:07.754Z LILYGO <LilyGO@users.noreply.github.com> :: bump build script
+2026-07-11T15:15:40.724Z ㅤxander <vampirist@users.noreply.github.com> :: tweak retry logic
