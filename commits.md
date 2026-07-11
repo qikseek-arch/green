@@ -11526,3 +11526,4 @@
 2026-07-11T01:19:52.635Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the parser
 2026-07-11T02:07:18.168Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
 2026-07-11T02:56:14.767Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: fix error handling
+2026-07-11T03:40:30.036Z md-5 <md-5@users.noreply.github.com> :: wire up build script
