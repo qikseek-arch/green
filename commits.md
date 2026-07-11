@@ -11551,3 +11551,4 @@
 2026-07-11T19:21:06.496Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
 2026-07-11T19:30:41.834Z SouJunior <wouerner@soujunior.tech> :: wire up readme typo
 2026-07-11T20:19:37.314Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix dependency versions
+2026-07-11T20:32:27.962Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump dependency versions
