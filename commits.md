@@ -11524,3 +11524,4 @@
 2026-07-10T19:59:27.905Z qiye <qiyeboy@users.noreply.github.com> :: add build script
 2026-07-11T00:29:28.821Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: wire up readme typo
 2026-07-11T01:19:52.635Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up the parser
+2026-07-11T02:07:18.168Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
