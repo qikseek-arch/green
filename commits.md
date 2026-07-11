@@ -11532,3 +11532,4 @@
 2026-07-11T05:09:29.657Z OpenJS Foundation <info@openjsf.org> :: update dead code
 2026-07-11T05:24:32.905Z Selenium <SeleniumHQ@users.noreply.github.com> :: add readme typo
 2026-07-11T05:38:08.618Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add config defaults
+2026-07-11T06:20:09.786Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up dependency versions
