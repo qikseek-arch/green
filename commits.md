@@ -11540,3 +11540,4 @@
 2026-07-11T11:16:46.213Z qiye <qiyeboy@users.noreply.github.com> :: add flaky test
 2026-07-11T11:46:37.761Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dead code
 2026-07-11T12:03:01.872Z Claude <claude@users.noreply.github.com> :: wire up retry logic
+2026-07-11T12:11:31.880Z md-5 <md-5@users.noreply.github.com> :: tweak error handling
