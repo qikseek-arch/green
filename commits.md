@@ -11549,3 +11549,4 @@
 2026-07-11T17:33:55.243Z David Clark <nullptrException100@users.noreply.github.com> :: refactor retry logic
 2026-07-11T18:16:12.803Z Ben Hamner <benhamner@users.noreply.github.com> :: add edge case in auth
 2026-07-11T19:21:06.496Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
+2026-07-11T19:30:41.834Z SouJunior <wouerner@soujunior.tech> :: wire up readme typo
