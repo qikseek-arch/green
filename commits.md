@@ -11530,3 +11530,4 @@
 2026-07-11T04:16:02.169Z Ryan Bigg <radar@users.noreply.github.com> :: update cache keys
 2026-07-11T05:02:47.080Z David Fowler <davidfowl@users.noreply.github.com> :: refactor cache keys
 2026-07-11T05:09:29.657Z OpenJS Foundation <info@openjsf.org> :: update dead code
+2026-07-11T05:24:32.905Z Selenium <SeleniumHQ@users.noreply.github.com> :: add readme typo
