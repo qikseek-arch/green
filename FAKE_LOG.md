@@ -847,3 +847,4 @@
 2026-07-09T05:08:56.399Z Mark Otto <mdo@users.noreply.github.com> :: polish edge case in auth
 2026-07-09T14:34:17.331Z Microsoft-Corporation <Microsoft-corp@users.noreply.github.com> :: tweak flaky test
 2026-07-11T16:29:28.756Z Addy Osmani <addyosmani@users.noreply.github.com> :: polish flaky test
+2026-07-12T01:13:32.875Z LangChain <support@langchain.dev> :: polish error handling
