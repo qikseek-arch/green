@@ -11579,3 +11579,4 @@
 2026-07-12T21:15:49.861Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add readme typo
 2026-07-12T22:10:34.933Z Fady Farag <iidmsa@users.noreply.github.com> :: add flaky test
 2026-07-12T23:49:07.918Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove logging
+2026-07-12T23:54:52.046Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up build script
