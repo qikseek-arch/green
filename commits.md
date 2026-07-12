@@ -11561,3 +11561,4 @@
 2026-07-12T03:58:04.577Z heyli <lcxfs1991@users.noreply.github.com> :: tweak dependency versions
 2026-07-12T04:25:47.241Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor flaky test
 2026-07-12T04:38:44.661Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up the CI matrix
+2026-07-12T04:51:32.054Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up dependency versions
