@@ -11573,3 +11573,4 @@
 2026-07-12T11:01:28.792Z Roger Labbe <rlabbe@users.noreply.github.com> :: wire up flaky test
 2026-07-12T12:46:33.323Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor logging
 2026-07-12T16:53:52.498Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update error handling
+2026-07-12T17:56:11.816Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor cache keys
