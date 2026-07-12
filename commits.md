@@ -11569,3 +11569,4 @@
 2026-07-12T07:47:24.323Z LILYGO <LilyGO@users.noreply.github.com> :: add retry logic
 2026-07-12T08:01:58.251Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak edge case in auth
 2026-07-12T09:39:03.362Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dependency versions
+2026-07-12T10:12:42.736Z Adam Bell <b3ll@users.noreply.github.com> :: fix dead code
