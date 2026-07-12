@@ -11560,3 +11560,4 @@
 2026-07-12T02:40:25.330Z markqvist <markqvist@users.noreply.github.com> :: polish edge case in auth
 2026-07-12T03:58:04.577Z heyli <lcxfs1991@users.noreply.github.com> :: tweak dependency versions
 2026-07-12T04:25:47.241Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor flaky test
+2026-07-12T04:38:44.661Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up the CI matrix
