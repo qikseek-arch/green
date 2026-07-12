@@ -11568,3 +11568,4 @@
 2026-07-12T06:51:13.352Z First Contributions <firstcontributions@gmail.com> :: remove flaky test
 2026-07-12T07:47:24.323Z LILYGO <LilyGO@users.noreply.github.com> :: add retry logic
 2026-07-12T08:01:58.251Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak edge case in auth
+2026-07-12T09:39:03.362Z Andreas Kling <awesomekling@users.noreply.github.com> :: wire up dependency versions
