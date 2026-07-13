@@ -11591,3 +11591,4 @@
 2026-07-13T10:58:13.834Z Rodrigo Pombo <pomber@users.noreply.github.com> :: remove config defaults
 2026-07-13T13:25:34.716Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump logging
 2026-07-13T14:58:33.274Z Aurélien Geron <ageron@users.noreply.github.com> :: update config defaults
+2026-07-13T15:02:59.673Z ㅤxander <vampirist@users.noreply.github.com> :: refactor build script
