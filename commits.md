@@ -11594,3 +11594,4 @@
 2026-07-13T15:02:59.673Z ㅤxander <vampirist@users.noreply.github.com> :: refactor build script
 2026-07-13T15:45:59.764Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up config defaults
 2026-07-13T16:16:24.623Z Ryan Bigg <radar@users.noreply.github.com> :: bump the CI matrix
+2026-07-13T16:25:34.891Z Manu Arora <manuarora700@users.noreply.github.com> :: add dependency versions
