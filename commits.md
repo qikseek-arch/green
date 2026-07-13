@@ -11585,3 +11585,4 @@
 2026-07-13T05:02:31.325Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up readme typo
 2026-07-13T06:26:36.950Z Bytedance Inc. <bytedance@users.noreply.github.com> :: polish error handling
 2026-07-13T06:28:39.175Z Odi <mathdroid@users.noreply.github.com> :: add retry logic
+2026-07-13T07:29:41.483Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update null check
