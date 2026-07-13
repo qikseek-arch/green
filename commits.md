@@ -11580,3 +11580,4 @@
 2026-07-12T22:10:34.933Z Fady Farag <iidmsa@users.noreply.github.com> :: add flaky test
 2026-07-12T23:49:07.918Z Tim Großmann <timgrossmann@users.noreply.github.com> :: remove logging
 2026-07-12T23:54:52.046Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up build script
+2026-07-13T00:05:09.145Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor build script
