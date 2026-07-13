@@ -11598,3 +11598,4 @@
 2026-07-13T18:36:11.765Z Claude <claude@users.noreply.github.com> :: bump edge case in auth
 2026-07-13T19:26:12.983Z Tim Neutkens <timneutkens@users.noreply.github.com> :: update cache keys
 2026-07-13T21:50:14.068Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up error handling
+2026-07-13T22:52:05.318Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up the CI matrix
