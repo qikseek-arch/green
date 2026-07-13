@@ -11584,3 +11584,4 @@
 2026-07-13T01:55:34.790Z Rei <chloerei@users.noreply.github.com> :: remove readme typo
 2026-07-13T05:02:31.325Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up readme typo
 2026-07-13T06:26:36.950Z Bytedance Inc. <bytedance@users.noreply.github.com> :: polish error handling
+2026-07-13T06:28:39.175Z Odi <mathdroid@users.noreply.github.com> :: add retry logic
