@@ -272,3 +272,4 @@
 2026-06-30T20:14:19.764Z null <null@fake.invalid> :: fix retry logic
 2026-07-09T13:07:26.761Z ghost <ghost@fake.invalid> :: clean up the parser
 2026-07-12T01:14:21.374Z halcyon <halcyon@fake.invalid> :: bump readme typo
+2026-07-13T20:32:51.690Z obsidian <obsidian@fake.invalid> :: polish the CI matrix
