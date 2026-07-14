@@ -11624,3 +11624,4 @@
 2026-07-14T20:35:38.310Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor dead code
 2026-07-14T21:11:18.540Z OpenJS Foundation <info@openjsf.org> :: refactor the parser
 2026-07-14T21:49:13.942Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up edge case in auth
+2026-07-14T22:39:09.320Z SouJunior <wouerner@soujunior.tech> :: add config defaults
