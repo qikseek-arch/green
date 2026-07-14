@@ -822,3 +822,4 @@
 2026-07-12T09:03:36.070Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak build script
 2026-07-12T16:50:29.147Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor dependency versions
 2026-07-12T19:22:16.301Z HumanAIGC <HumanAIGC@users.noreply.github.com> :: fix dead code
+2026-07-14T05:07:51.923Z Changkun Ou <changkun@users.noreply.github.com> :: refactor readme typo
