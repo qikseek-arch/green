@@ -11602,3 +11602,4 @@
 2026-07-13T23:29:20.944Z owenzhang <owenzhang@users.noreply.github.com> :: update edge case in auth
 2026-07-14T00:02:34.098Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix retry logic
 2026-07-14T00:58:22.112Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add retry logic
+2026-07-14T01:18:12.623Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: remove config defaults
