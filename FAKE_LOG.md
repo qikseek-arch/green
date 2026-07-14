@@ -273,3 +273,4 @@
 2026-07-09T13:07:26.761Z ghost <ghost@fake.invalid> :: clean up the parser
 2026-07-12T01:14:21.374Z halcyon <halcyon@fake.invalid> :: bump readme typo
 2026-07-13T20:32:51.690Z obsidian <obsidian@fake.invalid> :: polish the CI matrix
+2026-07-14T23:19:20.824Z juno <juno@fake.invalid> :: remove null check
