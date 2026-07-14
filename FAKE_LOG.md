@@ -367,3 +367,4 @@
 2026-07-03T03:27:13.717Z Vint Cerf <vint.cerf@fake.invalid> :: wire up cache keys | Co-authored-by: David J. Malan <dmalan@users.noreply.github.com>
 2026-07-07T01:21:01.960Z Barbara Liskov <barbara.liskov@fake.invalid> :: clean up error handling
 2026-07-10T16:43:31.975Z Sanjay Ghemawat <sanjay.ghemawat@fake.invalid> :: remove edge case in auth
+2026-07-14T09:29:59.580Z Rasmus Lerdorf <rasmus.lerdorf@fake.invalid> :: update edge case in auth
