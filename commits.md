@@ -11612,3 +11612,4 @@
 2026-07-14T09:04:46.400Z First Contributions <firstcontributions@gmail.com> :: remove the parser
 2026-07-14T10:07:46.613Z OpenJS Foundation <info@openjsf.org> :: update retry logic
 2026-07-14T10:10:13.151Z Sadık TURAN <sadikturan@users.noreply.github.com> :: tweak logging
+2026-07-14T12:04:25.687Z Ryan Bigg <radar@users.noreply.github.com> :: refactor edge case in auth
