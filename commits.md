@@ -11620,3 +11620,4 @@
 2026-07-14T18:29:19.566Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump build script
 2026-07-14T18:48:16.521Z CTFs <ctfs@users.noreply.github.com> :: update dead code
 2026-07-14T20:01:31.683Z vb <Vaibhavs10@users.noreply.github.com> :: bump error handling
+2026-07-14T20:19:55.154Z Inanc Gumus <inancgumus@users.noreply.github.com> :: tweak the CI matrix
