@@ -825,3 +825,4 @@
 2026-07-14T05:07:51.923Z Changkun Ou <changkun@users.noreply.github.com> :: refactor readme typo
 2026-07-14T09:50:37.713Z Shaian <zshaian@users.noreply.github.com> :: polish dead code
 2026-07-14T10:04:19.071Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: update error handling
+2026-07-14T19:14:40.121Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: tweak the parser
