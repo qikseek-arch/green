@@ -570,3 +570,4 @@
 2026-07-05T05:36:54.847Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: clean up dead code
 2026-07-09T08:33:50.299Z freeCodeCamp.org <freeCodeCamp@users.noreply.github.com> :: fix the parser
 2026-07-13T21:18:50.584Z Meta <facebook@users.noreply.github.com> :: wire up readme typo
+2026-07-14T13:53:03.796Z Ryan Dahl <ry@users.noreply.github.com> :: polish edge case in auth
