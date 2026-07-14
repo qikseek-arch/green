@@ -11616,3 +11616,4 @@
 2026-07-14T12:39:52.863Z LILYGO <LilyGO@users.noreply.github.com> :: tweak edge case in auth
 2026-07-14T16:08:55.714Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up dependency versions
 2026-07-14T16:39:36.739Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak retry logic
+2026-07-14T16:59:14.887Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update null check
