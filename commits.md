@@ -11625,3 +11625,4 @@
 2026-07-14T21:11:18.540Z OpenJS Foundation <info@openjsf.org> :: refactor the parser
 2026-07-14T21:49:13.942Z Thomas Dohmke <ashtom@users.noreply.github.com> :: clean up edge case in auth
 2026-07-14T22:39:09.320Z SouJunior <wouerner@soujunior.tech> :: add config defaults
+2026-07-14T23:05:09.034Z qiye <qiyeboy@users.noreply.github.com> :: remove edge case in auth
