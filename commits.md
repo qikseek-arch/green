@@ -11600,3 +11600,4 @@
 2026-07-13T21:50:14.068Z Ivan Volkov <Chitus@users.noreply.github.com> :: wire up error handling
 2026-07-13T22:52:05.318Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: clean up the CI matrix
 2026-07-13T23:29:20.944Z owenzhang <owenzhang@users.noreply.github.com> :: update edge case in auth
+2026-07-14T00:02:34.098Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix retry logic
