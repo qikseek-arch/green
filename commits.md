@@ -11615,3 +11615,4 @@
 2026-07-14T12:04:25.687Z Ryan Bigg <radar@users.noreply.github.com> :: refactor edge case in auth
 2026-07-14T12:39:52.863Z LILYGO <LilyGO@users.noreply.github.com> :: tweak edge case in auth
 2026-07-14T16:08:55.714Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up dependency versions
+2026-07-14T16:39:36.739Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak retry logic
