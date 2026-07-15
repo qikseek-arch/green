@@ -11646,3 +11646,4 @@
 2026-07-15T20:49:29.374Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak config defaults
 2026-07-15T20:59:09.861Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up error handling
 2026-07-15T21:40:05.588Z Adam Łucek <ALucek@users.noreply.github.com> :: fix the parser
+2026-07-15T22:22:18.952Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
