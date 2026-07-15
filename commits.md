@@ -11641,3 +11641,4 @@
 2026-07-15T15:27:19.061Z markqvist <markqvist@users.noreply.github.com> :: add dependency versions
 2026-07-15T17:25:32.974Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove readme typo
 2026-07-15T17:46:04.488Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix the parser
+2026-07-15T17:47:39.128Z Shubs <infosec-au@users.noreply.github.com> :: add logging
