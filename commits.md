@@ -828,3 +828,4 @@
 2026-07-14T19:14:40.121Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: tweak the parser
 2026-07-14T23:05:09.722Z Colt Steele <Colt@users.noreply.github.com> :: remove config defaults
 2026-07-15T02:25:41.861Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak cache keys
+2026-07-15T16:05:36.277Z Yiming Cui <ymcui@users.noreply.github.com> :: add edge case in auth
