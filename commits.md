@@ -11642,3 +11642,4 @@
 2026-07-15T17:25:32.974Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove readme typo
 2026-07-15T17:46:04.488Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix the parser
 2026-07-15T17:47:39.128Z Shubs <infosec-au@users.noreply.github.com> :: add logging
+2026-07-15T19:23:53.404Z David Clark <nullptrException100@users.noreply.github.com> :: clean up the parser
