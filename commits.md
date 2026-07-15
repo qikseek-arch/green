@@ -11639,3 +11639,4 @@
 2026-07-15T12:09:51.080Z BBC <bbc@users.noreply.github.com> :: remove dependency versions
 2026-07-15T12:18:08.081Z md-5 <md-5@users.noreply.github.com> :: wire up the CI matrix
 2026-07-15T15:27:19.061Z markqvist <markqvist@users.noreply.github.com> :: add dependency versions
+2026-07-15T17:25:32.974Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove readme typo
