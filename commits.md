@@ -11628,3 +11628,4 @@
 2026-07-14T23:05:09.034Z qiye <qiyeboy@users.noreply.github.com> :: remove edge case in auth
 2026-07-15T02:57:31.313Z AI4Bhārat <opensource@ai4bharat.org> :: remove config defaults
 2026-07-15T04:31:09.152Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix null check
+2026-07-15T04:34:14.328Z Rei <chloerei@users.noreply.github.com> :: wire up logging
