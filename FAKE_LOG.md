@@ -482,3 +482,4 @@
 2026-07-05T16:13:51.042Z raptor_frozen <raptor_frozen@fake.invalid> :: polish readme typo
 2026-07-07T15:48:29.563Z Diego Fernandes <diego3g@users.noreply.github.com> :: polish logging
 2026-07-11T22:52:56.411Z Jeff Dean <jeff.dean@fake.invalid> :: refactor dependency versions
+2026-07-15T11:56:46.544Z Alonzo Church <alonzo.church@fake.invalid> :: tweak readme typo
