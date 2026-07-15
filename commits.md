@@ -11635,3 +11635,4 @@
 2026-07-15T08:07:19.315Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor config defaults
 2026-07-15T09:21:05.658Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak edge case in auth
 2026-07-15T11:02:12.969Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak cache keys
+2026-07-15T11:48:28.232Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up config defaults
