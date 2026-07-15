@@ -11637,3 +11637,4 @@
 2026-07-15T11:02:12.969Z Martin Grenfell <scrooloose@users.noreply.github.com> :: tweak cache keys
 2026-07-15T11:48:28.232Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up config defaults
 2026-07-15T12:09:51.080Z BBC <bbc@users.noreply.github.com> :: remove dependency versions
+2026-07-15T12:18:08.081Z md-5 <md-5@users.noreply.github.com> :: wire up the CI matrix
