@@ -11632,3 +11632,4 @@
 2026-07-15T05:23:36.621Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump flaky test
 2026-07-15T05:43:27.265Z Taiko Foundation <info@taiko.xyz> :: wire up build script
 2026-07-15T06:34:31.450Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update null check
+2026-07-15T08:07:19.315Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor config defaults
