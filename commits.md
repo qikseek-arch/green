@@ -11630,3 +11630,4 @@
 2026-07-15T04:31:09.152Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix null check
 2026-07-15T04:34:14.328Z Rei <chloerei@users.noreply.github.com> :: wire up logging
 2026-07-15T05:23:36.621Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump flaky test
+2026-07-15T05:43:27.265Z Taiko Foundation <info@taiko.xyz> :: wire up build script
