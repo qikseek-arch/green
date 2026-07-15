@@ -11633,3 +11633,4 @@
 2026-07-15T05:43:27.265Z Taiko Foundation <info@taiko.xyz> :: wire up build script
 2026-07-15T06:34:31.450Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update null check
 2026-07-15T08:07:19.315Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor config defaults
+2026-07-15T09:21:05.658Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak edge case in auth
