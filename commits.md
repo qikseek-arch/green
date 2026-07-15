@@ -11644,3 +11644,4 @@
 2026-07-15T17:47:39.128Z Shubs <infosec-au@users.noreply.github.com> :: add logging
 2026-07-15T19:23:53.404Z David Clark <nullptrException100@users.noreply.github.com> :: clean up the parser
 2026-07-15T20:49:29.374Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak config defaults
+2026-07-15T20:59:09.861Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up error handling
