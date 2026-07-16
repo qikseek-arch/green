@@ -11651,3 +11651,4 @@
 2026-07-16T01:27:46.024Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
 2026-07-16T01:52:44.286Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump the parser
 2026-07-16T04:36:23.230Z Shubs <infosec-au@users.noreply.github.com> :: bump config defaults
+2026-07-16T05:25:59.967Z CTFs <ctfs@users.noreply.github.com> :: clean up config defaults
