@@ -849,3 +849,4 @@
 2026-07-11T16:29:28.756Z Addy Osmani <addyosmani@users.noreply.github.com> :: polish flaky test
 2026-07-12T01:13:32.875Z LangChain <support@langchain.dev> :: polish error handling
 2026-07-13T04:44:42.206Z Andrej <karpathy@users.noreply.github.com> :: refactor error handling
+2026-07-16T06:01:36.421Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: add build script
