@@ -11663,3 +11663,4 @@
 2026-07-16T10:51:34.263Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up cache keys
 2026-07-16T11:15:34.442Z LILYGO <LilyGO@users.noreply.github.com> :: wire up the parser
 2026-07-16T12:26:55.899Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix error handling
+2026-07-16T12:33:15.203Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor readme typo
