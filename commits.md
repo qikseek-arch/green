@@ -11649,3 +11649,4 @@
 2026-07-15T22:22:18.952Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
 2026-07-16T00:03:45.086Z AI4Bhārat <opensource@ai4bharat.org> :: tweak cache keys
 2026-07-16T01:27:46.024Z Adam Bell <b3ll@users.noreply.github.com> :: refactor the CI matrix
+2026-07-16T01:52:44.286Z Rafal <RafalW3bCraft@users.noreply.github.com> :: bump the parser
