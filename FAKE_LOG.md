@@ -274,3 +274,4 @@
 2026-07-12T01:14:21.374Z halcyon <halcyon@fake.invalid> :: bump readme typo
 2026-07-13T20:32:51.690Z obsidian <obsidian@fake.invalid> :: polish the CI matrix
 2026-07-14T23:19:20.824Z juno <juno@fake.invalid> :: remove null check
+2026-07-16T21:25:33.175Z echo <echo@fake.invalid> :: refactor the CI matrix
