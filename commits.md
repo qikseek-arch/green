@@ -831,3 +831,4 @@
 2026-07-15T16:05:36.277Z Yiming Cui <ymcui@users.noreply.github.com> :: add edge case in auth
 2026-07-15T18:57:43.240Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: fix error handling
 2026-07-15T20:07:38.771Z Sebastian <sebmck@users.noreply.github.com> :: fix edge case in auth
+2026-07-16T00:31:18.337Z Mark Erikson <markerikson@users.noreply.github.com> :: clean up error handling
