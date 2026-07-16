@@ -11659,3 +11659,4 @@
 2026-07-16T07:32:19.191Z qiye <qiyeboy@users.noreply.github.com> :: fix dependency versions
 2026-07-16T09:07:13.357Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump logging
 2026-07-16T10:03:13.421Z owenzhang <owenzhang@users.noreply.github.com> :: remove dependency versions
+2026-07-16T10:20:23.817Z Rei <chloerei@users.noreply.github.com> :: update build script
