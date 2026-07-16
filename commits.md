@@ -11662,3 +11662,4 @@
 2026-07-16T10:20:23.817Z Rei <chloerei@users.noreply.github.com> :: update build script
 2026-07-16T10:51:34.263Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up cache keys
 2026-07-16T11:15:34.442Z LILYGO <LilyGO@users.noreply.github.com> :: wire up the parser
+2026-07-16T12:26:55.899Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix error handling
