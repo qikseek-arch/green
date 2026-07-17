@@ -11687,3 +11687,4 @@
 2026-07-17T10:27:45.029Z Rafal <RafalW3bCraft@users.noreply.github.com> :: update the parser
 2026-07-17T10:30:15.253Z markqvist <markqvist@users.noreply.github.com> :: polish error handling
 2026-07-17T10:39:19.208Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: add edge case in auth
+2026-07-17T12:05:52.460Z OpenJS Foundation <info@openjsf.org> :: clean up null check
