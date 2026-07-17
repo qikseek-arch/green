@@ -11704,3 +11704,4 @@
 2026-07-17T20:56:01.595Z Roger Labbe <rlabbe@users.noreply.github.com> :: update the parser
 2026-07-17T21:38:59.011Z OpenJS Foundation <info@openjsf.org> :: bump the CI matrix
 2026-07-17T21:56:34.128Z Claude <claude@users.noreply.github.com> :: wire up null check
+2026-07-17T22:27:51.541Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump logging
