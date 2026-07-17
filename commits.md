@@ -11681,3 +11681,4 @@
 2026-07-17T05:59:57.554Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix edge case in auth
 2026-07-17T06:14:44.198Z Rei <chloerei@users.noreply.github.com> :: polish build script
 2026-07-17T07:41:40.289Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up dependency versions
+2026-07-17T08:22:38.912Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
