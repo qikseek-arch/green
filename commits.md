@@ -11679,3 +11679,4 @@
 2026-07-17T04:42:50.442Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump logging
 2026-07-17T05:14:48.464Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up error handling
 2026-07-17T05:59:57.554Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix edge case in auth
+2026-07-17T06:14:44.198Z Rei <chloerei@users.noreply.github.com> :: polish build script
