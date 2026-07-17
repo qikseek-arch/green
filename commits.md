@@ -11692,3 +11692,4 @@
 2026-07-17T13:40:07.522Z Ryan Bigg <radar@users.noreply.github.com> :: remove dead code
 2026-07-17T13:43:27.733Z Jason Zhang <Hackl0us@users.noreply.github.com> :: remove error handling
 2026-07-17T13:51:30.666Z CTFs <ctfs@users.noreply.github.com> :: update logging
+2026-07-17T14:09:09.714Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish null check
