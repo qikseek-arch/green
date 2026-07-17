@@ -11699,3 +11699,4 @@
 2026-07-17T16:56:40.684Z WebRTC <discuss-webrtc@googlegroups.com> :: refactor dependency versions
 2026-07-17T18:07:39.026Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add dead code
 2026-07-17T19:13:57.157Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump dead code
+2026-07-17T20:46:02.497Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix config defaults
