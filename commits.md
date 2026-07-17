@@ -835,3 +835,4 @@
 2026-07-16T02:17:49.927Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: wire up cache keys
 2026-07-16T06:04:50.254Z xer0dayz <1N3@users.noreply.github.com> :: polish error handling
 2026-07-17T14:55:18.020Z xer0dayz <1N3@users.noreply.github.com> :: clean up null check
+2026-07-17T18:03:34.185Z Matt Pocock <mattpocock@users.noreply.github.com> :: clean up the parser
