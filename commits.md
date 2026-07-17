@@ -11675,3 +11675,4 @@
 2026-07-16T22:21:50.503Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump cache keys
 2026-07-17T01:01:52.733Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: update cache keys
 2026-07-17T01:24:49.061Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up null check
+2026-07-17T03:10:15.634Z Taiko Foundation <info@taiko.xyz> :: tweak the CI matrix
