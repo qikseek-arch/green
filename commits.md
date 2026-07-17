@@ -11684,3 +11684,4 @@
 2026-07-17T08:22:38.912Z ring04h <ring04h@users.noreply.github.com> :: polish edge case in auth
 2026-07-17T09:55:55.477Z ZOMI <chenzomi12@users.noreply.github.com> :: fix readme typo
 2026-07-17T10:01:33.853Z LILYGO <LilyGO@users.noreply.github.com> :: remove retry logic
+2026-07-17T10:27:45.029Z Rafal <RafalW3bCraft@users.noreply.github.com> :: update the parser
