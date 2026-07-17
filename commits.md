@@ -11695,3 +11695,4 @@
 2026-07-17T14:09:09.714Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish null check
 2026-07-17T14:12:08.154Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor flaky test
 2026-07-17T16:22:18.782Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up dead code
+2026-07-17T16:37:17.724Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump error handling
