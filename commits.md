@@ -838,3 +838,4 @@
 2026-07-17T18:03:34.185Z Matt Pocock <mattpocock@users.noreply.github.com> :: clean up the parser
 2026-07-18T01:15:19.806Z MASSGRAVE <massgravel@users.noreply.github.com> :: refactor edge case in auth
 2026-07-18T01:56:42.507Z Charles Severance <csev@users.noreply.github.com> :: wire up cache keys
+2026-07-18T20:28:03.964Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: bump build script
