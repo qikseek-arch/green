@@ -11715,3 +11715,4 @@
 2026-07-18T14:31:17.951Z Sachin Soni <techiesms@users.noreply.github.com> :: add the CI matrix
 2026-07-18T15:25:47.228Z Damian Dulisz <shentao@users.noreply.github.com> :: fix flaky test
 2026-07-18T16:08:30.226Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up error handling
+2026-07-18T17:30:13.040Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove edge case in auth
