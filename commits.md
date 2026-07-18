@@ -11709,3 +11709,4 @@
 2026-07-18T04:52:02.952Z qiye <qiyeboy@users.noreply.github.com> :: refactor the parser
 2026-07-18T05:10:43.016Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: wire up edge case in auth
 2026-07-18T06:13:21.216Z qiye <qiyeboy@users.noreply.github.com> :: update the parser
+2026-07-18T06:51:33.102Z Shubs <infosec-au@users.noreply.github.com> :: remove config defaults
