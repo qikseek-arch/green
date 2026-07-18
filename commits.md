@@ -11707,3 +11707,4 @@
 2026-07-17T22:27:51.541Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump logging
 2026-07-18T02:01:23.560Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak null check
 2026-07-18T04:52:02.952Z qiye <qiyeboy@users.noreply.github.com> :: refactor the parser
+2026-07-18T05:10:43.016Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: wire up edge case in auth
