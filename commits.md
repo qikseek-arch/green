@@ -11741,3 +11741,4 @@
 2026-07-19T21:06:26.733Z Arduino <arduino@users.noreply.github.com> :: remove readme typo
 2026-07-19T21:16:59.108Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up null check
 2026-07-19T21:41:38.104Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak build script
+2026-07-19T22:14:25.126Z markqvist <markqvist@users.noreply.github.com> :: update null check
