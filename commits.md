@@ -11720,3 +11720,4 @@
 2026-07-18T19:14:07.107Z Tim Neutkens <timneutkens@users.noreply.github.com> :: refactor the parser
 2026-07-18T19:40:18.982Z OpenJS Foundation <info@openjsf.org> :: add the parser
 2026-07-18T23:49:16.337Z AI4Bhārat <opensource@ai4bharat.org> :: update logging
+2026-07-19T01:16:23.624Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
