@@ -11728,3 +11728,4 @@
 2026-07-19T04:04:42.224Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: tweak retry logic
 2026-07-19T05:48:00.976Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak the CI matrix
 2026-07-19T08:45:30.716Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish error handling
+2026-07-19T10:36:41.534Z Shubs <infosec-au@users.noreply.github.com> :: clean up logging
