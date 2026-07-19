@@ -11724,3 +11724,4 @@
 2026-07-19T01:52:12.430Z Claude <claude@users.noreply.github.com> :: fix the parser
 2026-07-19T01:55:44.955Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump flaky test
 2026-07-19T03:32:17.788Z BBC <bbc@users.noreply.github.com> :: tweak null check
+2026-07-19T03:34:13.232Z ㅤxander <vampirist@users.noreply.github.com> :: add the parser
