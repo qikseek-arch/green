@@ -11729,3 +11729,4 @@
 2026-07-19T05:48:00.976Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak the CI matrix
 2026-07-19T08:45:30.716Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish error handling
 2026-07-19T10:36:41.534Z Shubs <infosec-au@users.noreply.github.com> :: clean up logging
+2026-07-19T11:16:50.928Z David Clark <nullptrException100@users.noreply.github.com> :: remove the parser
