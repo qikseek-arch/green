@@ -11737,3 +11737,4 @@
 2026-07-19T17:30:28.228Z First Contributions <firstcontributions@gmail.com> :: bump build script
 2026-07-19T18:06:09.267Z Sachin Soni <techiesms@users.noreply.github.com> :: polish the CI matrix
 2026-07-19T21:00:05.308Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add readme typo
+2026-07-19T21:05:50.865Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up the parser
