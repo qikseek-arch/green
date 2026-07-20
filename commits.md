@@ -11760,3 +11760,4 @@
 2026-07-20T11:41:31.967Z BBC <bbc@users.noreply.github.com> :: tweak flaky test
 2026-07-20T11:47:48.274Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the CI matrix
 2026-07-20T12:56:32.600Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
+2026-07-20T15:54:54.333Z Sachin Soni <techiesms@users.noreply.github.com> :: remove dead code
