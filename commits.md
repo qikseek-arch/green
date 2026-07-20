@@ -11763,3 +11763,4 @@
 2026-07-20T15:54:54.333Z Sachin Soni <techiesms@users.noreply.github.com> :: remove dead code
 2026-07-20T16:34:30.689Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak config defaults
 2026-07-20T18:30:38.815Z Taiko Foundation <info@taiko.xyz> :: bump edge case in auth
+2026-07-20T19:14:52.983Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
