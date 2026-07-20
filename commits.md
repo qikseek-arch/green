@@ -11765,3 +11765,4 @@
 2026-07-20T18:30:38.815Z Taiko Foundation <info@taiko.xyz> :: bump edge case in auth
 2026-07-20T19:14:52.983Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
 2026-07-20T20:09:28.651Z qiye <qiyeboy@users.noreply.github.com> :: fix the parser
+2026-07-20T20:31:30.446Z markqvist <markqvist@users.noreply.github.com> :: bump null check
