@@ -843,3 +843,4 @@
 2026-07-19T20:12:34.073Z Hsiaoming Yang <lepture@users.noreply.github.com> :: polish flaky test
 2026-07-20T13:02:45.569Z Kyler Condran <KylerCondran@users.noreply.github.com> :: remove the CI matrix
 2026-07-20T16:27:48.736Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: fix cache keys
+2026-07-20T18:05:08.428Z Cheng Lou <chenglou@users.noreply.github.com> :: polish config defaults
