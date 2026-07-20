@@ -11759,3 +11759,4 @@
 2026-07-20T11:04:04.771Z Adam Bell <b3ll@users.noreply.github.com> :: add config defaults
 2026-07-20T11:41:31.967Z BBC <bbc@users.noreply.github.com> :: tweak flaky test
 2026-07-20T11:47:48.274Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the CI matrix
+2026-07-20T12:56:32.600Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
