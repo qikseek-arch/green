@@ -11761,3 +11761,4 @@
 2026-07-20T11:47:48.274Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the CI matrix
 2026-07-20T12:56:32.600Z ring04h <ring04h@users.noreply.github.com> :: bump readme typo
 2026-07-20T15:54:54.333Z Sachin Soni <techiesms@users.noreply.github.com> :: remove dead code
+2026-07-20T16:34:30.689Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: tweak config defaults
