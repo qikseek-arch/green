@@ -11758,3 +11758,4 @@
 2026-07-20T08:47:48.988Z Shubs <infosec-au@users.noreply.github.com> :: remove retry logic
 2026-07-20T11:04:04.771Z Adam Bell <b3ll@users.noreply.github.com> :: add config defaults
 2026-07-20T11:41:31.967Z BBC <bbc@users.noreply.github.com> :: tweak flaky test
+2026-07-20T11:47:48.274Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the CI matrix
