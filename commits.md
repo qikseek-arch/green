@@ -11756,3 +11756,4 @@
 2026-07-20T07:41:09.914Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up the parser
 2026-07-20T07:57:51.354Z Taiko Foundation <info@taiko.xyz> :: polish the parser
 2026-07-20T08:47:48.988Z Shubs <infosec-au@users.noreply.github.com> :: remove retry logic
+2026-07-20T11:04:04.771Z Adam Bell <b3ll@users.noreply.github.com> :: add config defaults
