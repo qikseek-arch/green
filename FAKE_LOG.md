@@ -151,3 +151,4 @@
 2026-07-16T02:25:24.014Z FeralYak <feralyak@users.noreply.github.com> :: wire up config defaults
 2026-07-16T18:57:41.684Z Rich Hickey <rich.hickey@example.com> :: clean up retry logic
 2026-07-20T04:13:31.933Z ghost <ghost@users.noreply.github.com> :: add build script
+2026-07-20T14:16:25.610Z James Gosling <james.gosling@example.com> :: remove the parser
