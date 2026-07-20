@@ -11768,3 +11768,4 @@
 2026-07-20T20:31:30.446Z markqvist <markqvist@users.noreply.github.com> :: bump null check
 2026-07-20T22:06:26.592Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update dependency versions
 2026-07-20T22:34:38.795Z Damian Dulisz <shentao@users.noreply.github.com> :: add config defaults
+2026-07-20T22:52:45.697Z Keith Smiley <keith@users.noreply.github.com> :: refactor readme typo
