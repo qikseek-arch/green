@@ -11745,3 +11745,4 @@
 2026-07-19T22:34:33.204Z Getgems <getgems-io@users.noreply.github.com> :: clean up logging
 2026-07-19T22:42:42.794Z Arduino <arduino@users.noreply.github.com> :: update cache keys
 2026-07-19T23:00:51.704Z LILYGO <LilyGO@users.noreply.github.com> :: wire up config defaults
+2026-07-20T00:42:07.340Z Adam Wathan <adamwathan@users.noreply.github.com> :: tweak retry logic
