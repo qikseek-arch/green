@@ -11770,3 +11770,4 @@
 2026-07-20T22:34:38.795Z Damian Dulisz <shentao@users.noreply.github.com> :: add config defaults
 2026-07-20T22:52:45.697Z Keith Smiley <keith@users.noreply.github.com> :: refactor readme typo
 2026-07-20T22:56:31.677Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove flaky test
+2026-07-20T23:08:56.753Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
