@@ -11754,3 +11754,4 @@
 2026-07-20T05:59:44.411Z 如何翻墙 <bannedbook@users.noreply.github.com> :: bump build script
 2026-07-20T06:27:45.784Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor null check
 2026-07-20T07:41:09.914Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up the parser
+2026-07-20T07:57:51.354Z Taiko Foundation <info@taiko.xyz> :: polish the parser
