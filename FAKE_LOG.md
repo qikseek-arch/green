@@ -276,3 +276,4 @@
 2026-07-14T23:19:20.824Z juno <juno@fake.invalid> :: remove null check
 2026-07-16T21:25:33.175Z echo <echo@fake.invalid> :: refactor the CI matrix
 2026-07-18T16:26:42.576Z root <root@fake.invalid> :: update logging
+2026-07-20T01:00:03.067Z halcyon <halcyon@fake.invalid> :: refactor null check
