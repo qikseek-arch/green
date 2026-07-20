@@ -11766,3 +11766,4 @@
 2026-07-20T19:14:52.983Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
 2026-07-20T20:09:28.651Z qiye <qiyeboy@users.noreply.github.com> :: fix the parser
 2026-07-20T20:31:30.446Z markqvist <markqvist@users.noreply.github.com> :: bump null check
+2026-07-20T22:06:26.592Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update dependency versions
