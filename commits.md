@@ -11773,3 +11773,4 @@
 2026-07-20T23:08:56.753Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
 2026-07-21T00:29:42.520Z Barret李靖 <barretlee@users.noreply.github.com> :: remove error handling
 2026-07-21T01:16:27.605Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up the CI matrix
+2026-07-21T01:19:30.881Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove edge case in auth
