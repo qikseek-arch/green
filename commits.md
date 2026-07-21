@@ -11789,3 +11789,4 @@
 2026-07-21T14:29:40.110Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix readme typo
 2026-07-21T16:33:25.935Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add logging
 2026-07-21T16:58:28.893Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add build script
+2026-07-21T19:34:29.689Z heyli <lcxfs1991@users.noreply.github.com> :: refactor null check
