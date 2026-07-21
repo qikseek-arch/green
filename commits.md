@@ -11776,3 +11776,4 @@
 2026-07-21T01:19:30.881Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove edge case in auth
 2026-07-21T02:20:28.012Z BBC <bbc@users.noreply.github.com> :: fix the parser
 2026-07-21T02:51:45.846Z AI4Bhārat <opensource@ai4bharat.org> :: bump cache keys
+2026-07-21T03:09:14.725Z Andreas Kling <awesomekling@users.noreply.github.com> :: fix dependency versions
