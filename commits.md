@@ -11800,3 +11800,4 @@
 2026-07-21T23:10:18.393Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump retry logic
 2026-07-21T23:51:08.668Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump edge case in auth
 2026-07-22T00:19:01.981Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up build script
+2026-07-22T01:10:33.843Z AI4Bhārat <opensource@ai4bharat.org> :: remove readme typo
