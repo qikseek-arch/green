@@ -11803,3 +11803,4 @@
 2026-07-22T01:10:33.843Z AI4Bhārat <opensource@ai4bharat.org> :: remove readme typo
 2026-07-22T02:05:59.401Z Almas Baim <AlmasB@users.noreply.github.com> :: polish flaky test
 2026-07-22T02:49:07.278Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update build script
+2026-07-22T04:07:29.437Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up dependency versions
