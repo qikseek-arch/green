@@ -847,3 +847,4 @@
 2026-07-21T16:11:32.214Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak dependency versions
 2026-07-21T16:32:58.901Z Iuri Silva <iuricode@users.noreply.github.com> :: refactor cache keys
 2026-07-22T04:13:18.970Z Justin Tunney <jart@users.noreply.github.com> :: bump the CI matrix
+2026-07-22T12:56:09.837Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: refactor edge case in auth
