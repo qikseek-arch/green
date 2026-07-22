@@ -11821,3 +11821,4 @@
 2026-07-22T11:50:07.325Z Keith Smiley <keith@users.noreply.github.com> :: polish cache keys
 2026-07-22T12:28:24.689Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add readme typo
 2026-07-22T13:36:00.769Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up the CI matrix
+2026-07-22T16:19:04.022Z Inanc Gumus <inancgumus@users.noreply.github.com> :: refactor error handling
