@@ -11809,3 +11809,4 @@
 2026-07-22T05:34:00.863Z AI4Bhārat <opensource@ai4bharat.org> :: remove logging
 2026-07-22T06:11:00.116Z markqvist <markqvist@users.noreply.github.com> :: refactor dead code
 2026-07-22T07:24:12.160Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up logging
+2026-07-22T07:58:18.544Z Rei <chloerei@users.noreply.github.com> :: update readme typo
