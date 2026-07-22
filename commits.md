@@ -11819,3 +11819,4 @@
 2026-07-22T10:51:45.853Z markqvist <markqvist@users.noreply.github.com> :: bump edge case in auth
 2026-07-22T11:23:47.575Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix build script
 2026-07-22T11:50:07.325Z Keith Smiley <keith@users.noreply.github.com> :: polish cache keys
+2026-07-22T12:28:24.689Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add readme typo
