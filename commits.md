@@ -11816,3 +11816,4 @@
 2026-07-22T09:21:00.563Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update the parser
 2026-07-22T10:22:54.677Z owenzhang <owenzhang@users.noreply.github.com> :: bump the parser
 2026-07-22T10:31:26.095Z Ben Hamner <benhamner@users.noreply.github.com> :: clean up null check
+2026-07-22T10:51:45.853Z markqvist <markqvist@users.noreply.github.com> :: bump edge case in auth
