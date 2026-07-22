@@ -11811,3 +11811,4 @@
 2026-07-22T07:24:12.160Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up logging
 2026-07-22T07:58:18.544Z Rei <chloerei@users.noreply.github.com> :: update readme typo
 2026-07-22T08:13:47.022Z LILYGO <LilyGO@users.noreply.github.com> :: bump config defaults
+2026-07-22T08:44:06.229Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump logging
