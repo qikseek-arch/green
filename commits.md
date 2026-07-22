@@ -11827,3 +11827,4 @@
 2026-07-22T17:35:01.007Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix logging
 2026-07-22T17:58:03.502Z ㅤxander <vampirist@users.noreply.github.com> :: add the parser
 2026-07-22T21:12:29.027Z Getgems <getgems-io@users.noreply.github.com> :: add build script
+2026-07-22T22:01:14.127Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove edge case in auth
