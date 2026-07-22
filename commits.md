@@ -846,3 +846,4 @@
 2026-07-20T18:05:08.428Z Cheng Lou <chenglou@users.noreply.github.com> :: polish config defaults
 2026-07-21T16:11:32.214Z Tim Neutkens <timneutkens@users.noreply.github.com> :: tweak dependency versions
 2026-07-21T16:32:58.901Z Iuri Silva <iuricode@users.noreply.github.com> :: refactor cache keys
+2026-07-22T04:13:18.970Z Justin Tunney <jart@users.noreply.github.com> :: bump the CI matrix
