@@ -11836,3 +11836,4 @@
 2026-07-23T04:51:58.907Z Damian Dulisz <shentao@users.noreply.github.com> :: remove retry logic
 2026-07-23T05:11:52.377Z OpenJS Foundation <info@openjsf.org> :: update error handling
 2026-07-23T05:38:31.605Z Taiko Foundation <info@taiko.xyz> :: add readme typo
+2026-07-23T06:49:03.410Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix config defaults
