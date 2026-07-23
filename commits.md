@@ -11831,3 +11831,4 @@
 2026-07-23T00:06:20.139Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump the parser
 2026-07-23T02:26:32.194Z David Fowler <davidfowl@users.noreply.github.com> :: fix config defaults
 2026-07-23T03:11:22.859Z First Contributions <firstcontributions@gmail.com> :: polish the CI matrix
+2026-07-23T04:20:58.984Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix dependency versions
