@@ -11833,3 +11833,4 @@
 2026-07-23T03:11:22.859Z First Contributions <firstcontributions@gmail.com> :: polish the CI matrix
 2026-07-23T04:20:58.984Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix dependency versions
 2026-07-23T04:32:49.257Z 如何翻墙 <bannedbook@users.noreply.github.com> :: refactor dependency versions
+2026-07-23T04:51:58.907Z Damian Dulisz <shentao@users.noreply.github.com> :: remove retry logic
