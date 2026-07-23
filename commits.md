@@ -11853,3 +11853,4 @@
 2026-07-23T18:51:02.065Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak edge case in auth
 2026-07-23T20:10:06.492Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update config defaults
 2026-07-23T21:22:02.294Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up the CI matrix
+2026-07-23T21:56:01.143Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump logging
