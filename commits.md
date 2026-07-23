@@ -11855,3 +11855,4 @@
 2026-07-23T21:22:02.294Z Daniel Öster <dalathegreat@users.noreply.github.com> :: clean up the CI matrix
 2026-07-23T21:56:01.143Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump logging
 2026-07-23T23:26:36.550Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: refactor config defaults
+2026-07-23T23:42:00.842Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak readme typo
