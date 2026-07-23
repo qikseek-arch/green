@@ -11843,3 +11843,4 @@
 2026-07-23T09:23:56.044Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: wire up build script
 2026-07-23T09:28:31.300Z qiye <qiyeboy@users.noreply.github.com> :: tweak flaky test
 2026-07-23T09:55:43.443Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up readme typo
+2026-07-23T13:22:50.727Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add the CI matrix
