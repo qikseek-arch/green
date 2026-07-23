@@ -850,3 +850,4 @@
 2026-07-22T12:56:09.837Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: refactor edge case in auth
 2026-07-22T15:31:23.372Z Colt Steele <Colt@users.noreply.github.com> :: clean up flaky test
 2026-07-23T03:22:21.180Z Sylvain Gugger <sgugger@users.noreply.github.com> :: polish null check
+2026-07-23T07:02:08.268Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: update build script
