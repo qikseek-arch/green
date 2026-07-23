@@ -849,3 +849,4 @@
 2026-07-22T04:13:18.970Z Justin Tunney <jart@users.noreply.github.com> :: bump the CI matrix
 2026-07-22T12:56:09.837Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: refactor edge case in auth
 2026-07-22T15:31:23.372Z Colt Steele <Colt@users.noreply.github.com> :: clean up flaky test
+2026-07-23T03:22:21.180Z Sylvain Gugger <sgugger@users.noreply.github.com> :: polish null check
