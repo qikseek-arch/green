@@ -11837,3 +11837,4 @@
 2026-07-23T05:11:52.377Z OpenJS Foundation <info@openjsf.org> :: update error handling
 2026-07-23T05:38:31.605Z Taiko Foundation <info@taiko.xyz> :: add readme typo
 2026-07-23T06:49:03.410Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix config defaults
+2026-07-23T08:05:21.745Z Almas Baim <AlmasB@users.noreply.github.com> :: update edge case in auth
