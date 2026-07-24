@@ -11882,3 +11882,4 @@
 2026-07-24T19:40:10.481Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump retry logic
 2026-07-24T20:42:21.154Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix config defaults
 2026-07-24T21:35:41.364Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: update readme typo
+2026-07-24T22:42:33.248Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add null check
