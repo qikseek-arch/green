@@ -11871,3 +11871,4 @@
 2026-07-24T12:53:54.494Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: tweak the parser
 2026-07-24T13:21:25.819Z Claude <claude@users.noreply.github.com> :: polish flaky test
 2026-07-24T14:12:13.761Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: wire up the CI matrix
+2026-07-24T15:10:52.413Z Claude <claude@users.noreply.github.com> :: fix cache keys
