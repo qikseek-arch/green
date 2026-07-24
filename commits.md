@@ -11873,3 +11873,4 @@
 2026-07-24T14:12:13.761Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: wire up the CI matrix
 2026-07-24T15:10:52.413Z Claude <claude@users.noreply.github.com> :: fix cache keys
 2026-07-24T15:27:43.473Z Odi <mathdroid@users.noreply.github.com> :: wire up error handling
+2026-07-24T16:21:34.730Z Taiko Foundation <info@taiko.xyz> :: update null check
