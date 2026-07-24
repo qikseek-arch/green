@@ -11876,3 +11876,4 @@
 2026-07-24T16:21:34.730Z Taiko Foundation <info@taiko.xyz> :: update null check
 2026-07-24T16:29:05.146Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up build script
 2026-07-24T16:30:08.985Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up dependency versions
+2026-07-24T17:09:47.509Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix error handling
