@@ -574,3 +574,4 @@
 2026-07-18T19:38:37.005Z Ruan YiFeng <ruanyf@users.noreply.github.com> :: refactor dead code
 2026-07-21T09:52:48.776Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: bump the CI matrix
 2026-07-21T14:47:10.167Z Anthony Fu <antfu@users.noreply.github.com> :: refactor logging
+2026-07-24T19:43:20.623Z Kyle Simpson <getify@users.noreply.github.com> :: add edge case in auth
