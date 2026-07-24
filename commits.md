@@ -855,3 +855,4 @@
 2026-07-23T19:34:48.790Z Ce Gao <gaocegege@users.noreply.github.com> :: fix config defaults
 2026-07-24T00:53:40.149Z Kenneth Reitz <kennethreitz@users.noreply.github.com> :: polish flaky test
 2026-07-24T12:15:28.585Z DeepSeek <service@deepseek.com> :: bump null check
+2026-07-24T13:33:46.705Z Katrina Owen <kytrinyx@users.noreply.github.com> :: bump the parser
