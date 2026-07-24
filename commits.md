@@ -11880,3 +11880,4 @@
 2026-07-24T18:45:18.106Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update config defaults
 2026-07-24T19:25:19.381Z Taiko Foundation <info@taiko.xyz> :: tweak build script
 2026-07-24T19:40:10.481Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump retry logic
+2026-07-24T20:42:21.154Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: fix config defaults
