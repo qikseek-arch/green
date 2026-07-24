@@ -11878,3 +11878,4 @@
 2026-07-24T16:30:08.985Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up dependency versions
 2026-07-24T17:09:47.509Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix error handling
 2026-07-24T18:45:18.106Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update config defaults
+2026-07-24T19:25:19.381Z Taiko Foundation <info@taiko.xyz> :: tweak build script
