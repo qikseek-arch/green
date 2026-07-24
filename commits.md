@@ -857,3 +857,4 @@
 2026-07-24T12:15:28.585Z DeepSeek <service@deepseek.com> :: bump null check
 2026-07-24T13:33:46.705Z Katrina Owen <kytrinyx@users.noreply.github.com> :: bump the parser
 2026-07-24T15:13:27.525Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor error handling
+2026-07-24T22:59:51.408Z Holtz Yan <holtzy@users.noreply.github.com> :: update readme typo
