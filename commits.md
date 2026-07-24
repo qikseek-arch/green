@@ -11865,3 +11865,4 @@
 2026-07-24T05:52:47.977Z owenzhang <owenzhang@users.noreply.github.com> :: remove config defaults
 2026-07-24T06:03:12.821Z qiye <qiyeboy@users.noreply.github.com> :: remove null check
 2026-07-24T09:15:17.791Z Selenium <SeleniumHQ@users.noreply.github.com> :: wire up retry logic
+2026-07-24T09:40:21.187Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: update null check
