@@ -11892,3 +11892,4 @@
 2026-07-25T02:48:02.487Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add flaky test
 2026-07-25T03:11:33.457Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: bump dependency versions
 2026-07-25T05:56:47.486Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak dead code
+2026-07-25T07:51:51.973Z Rei <chloerei@users.noreply.github.com> :: remove the CI matrix
