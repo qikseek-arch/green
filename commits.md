@@ -11905,3 +11905,4 @@
 2026-07-25T14:20:23.381Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump dead code
 2026-07-25T15:14:28.669Z CTFs <ctfs@users.noreply.github.com> :: polish edge case in auth
 2026-07-25T16:44:57.525Z LILYGO <LilyGO@users.noreply.github.com> :: remove the CI matrix
+2026-07-25T18:12:14.675Z Adam Łucek <ALucek@users.noreply.github.com> :: fix null check
