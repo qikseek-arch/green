@@ -11894,3 +11894,4 @@
 2026-07-25T05:56:47.486Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak dead code
 2026-07-25T07:51:51.973Z Rei <chloerei@users.noreply.github.com> :: remove the CI matrix
 2026-07-25T09:06:15.501Z Arduino <arduino@users.noreply.github.com> :: wire up edge case in auth
+2026-07-25T09:23:05.200Z Rei <chloerei@users.noreply.github.com> :: wire up retry logic
