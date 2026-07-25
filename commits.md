@@ -859,3 +859,4 @@
 2026-07-24T15:13:27.525Z Cheng Lou <chenglou@users.noreply.github.com> :: refactor error handling
 2026-07-24T22:59:51.408Z Holtz Yan <holtzy@users.noreply.github.com> :: update readme typo
 2026-07-25T01:29:30.788Z 削微寒 <521xueweihan@users.noreply.github.com> :: tweak logging
+2026-07-25T05:18:30.808Z Philipp Schmid <philschmid@users.noreply.github.com> :: tweak the CI matrix
