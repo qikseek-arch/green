@@ -11899,3 +11899,4 @@
 2026-07-25T10:22:40.001Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish edge case in auth
 2026-07-25T10:31:31.363Z Barret李靖 <barretlee@users.noreply.github.com> :: remove cache keys
 2026-07-25T11:28:22.847Z Ryan Bigg <radar@users.noreply.github.com> :: remove dependency versions
+2026-07-25T11:35:32.970Z Keith Smiley <keith@users.noreply.github.com> :: update config defaults
