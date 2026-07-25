@@ -11908,3 +11908,4 @@
 2026-07-25T18:12:14.675Z Adam Łucek <ALucek@users.noreply.github.com> :: fix null check
 2026-07-25T18:14:29.423Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove error handling
 2026-07-25T18:51:23.623Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump dependency versions
+2026-07-25T19:43:06.545Z Adam Bell <b3ll@users.noreply.github.com> :: remove logging
