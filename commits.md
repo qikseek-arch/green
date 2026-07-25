@@ -11886,3 +11886,4 @@
 2026-07-24T23:36:48.856Z vb <Vaibhavs10@users.noreply.github.com> :: bump logging
 2026-07-24T23:37:18.762Z SouJunior <wouerner@soujunior.tech> :: add the parser
 2026-07-25T00:18:22.006Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: wire up retry logic
+2026-07-25T00:39:48.748Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update build script
