@@ -11933,3 +11933,4 @@
 2026-07-26T11:30:22.180Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
 2026-07-26T12:18:53.906Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the parser
 2026-07-26T13:07:18.887Z Odi <mathdroid@users.noreply.github.com> :: refactor config defaults
+2026-07-26T13:18:42.945Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up retry logic
