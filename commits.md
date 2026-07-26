@@ -11923,3 +11923,4 @@
 2026-07-26T03:23:28.621Z Taiko Foundation <info@taiko.xyz> :: clean up retry logic
 2026-07-26T04:01:32.230Z First Contributions <firstcontributions@gmail.com> :: tweak dependency versions
 2026-07-26T04:15:20.603Z md-5 <md-5@users.noreply.github.com> :: fix build script
+2026-07-26T04:25:34.790Z BBC <bbc@users.noreply.github.com> :: refactor logging
