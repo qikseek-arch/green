@@ -11939,3 +11939,4 @@
 2026-07-26T17:19:55.826Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor the CI matrix
 2026-07-26T18:43:22.205Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor build script
 2026-07-26T19:25:05.694Z Taiko Foundation <info@taiko.xyz> :: fix retry logic
+2026-07-26T21:29:05.097Z vb <Vaibhavs10@users.noreply.github.com> :: fix error handling
