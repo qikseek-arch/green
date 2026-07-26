@@ -11918,3 +11918,4 @@
 2026-07-26T02:08:39.690Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak the CI matrix
 2026-07-26T02:45:41.196Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump error handling
 2026-07-26T02:55:31.761Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up flaky test
+2026-07-26T03:02:31.793Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish dead code
