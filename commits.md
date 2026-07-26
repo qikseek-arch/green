@@ -11912,3 +11912,4 @@
 2026-07-25T22:13:54.532Z Sachin Soni <techiesms@users.noreply.github.com> :: polish the CI matrix
 2026-07-25T22:36:43.644Z Claude <claude@users.noreply.github.com> :: fix null check
 2026-07-25T23:28:52.126Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak cache keys
+2026-07-26T00:42:26.868Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak logging
