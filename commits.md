@@ -11915,3 +11915,4 @@
 2026-07-26T00:42:26.868Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak logging
 2026-07-26T00:50:25.420Z OpenJS Foundation <info@openjsf.org> :: bump build script
 2026-07-26T00:52:02.283Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump build script
+2026-07-26T02:08:39.690Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak the CI matrix
