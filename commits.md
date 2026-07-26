@@ -11937,3 +11937,4 @@
 2026-07-26T16:12:37.469Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish logging
 2026-07-26T17:01:11.769Z Aurélien Geron <ageron@users.noreply.github.com> :: add dependency versions
 2026-07-26T17:19:55.826Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor the CI matrix
+2026-07-26T18:43:22.205Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor build script
