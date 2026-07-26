@@ -11916,3 +11916,4 @@
 2026-07-26T00:50:25.420Z OpenJS Foundation <info@openjsf.org> :: bump build script
 2026-07-26T00:52:02.283Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump build script
 2026-07-26T02:08:39.690Z Manu Arora <manuarora700@users.noreply.github.com> :: tweak the CI matrix
+2026-07-26T02:45:41.196Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: bump error handling
