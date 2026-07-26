@@ -11936,3 +11936,4 @@
 2026-07-26T13:18:42.945Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up retry logic
 2026-07-26T16:12:37.469Z Rafal <RafalW3bCraft@users.noreply.github.com> :: polish logging
 2026-07-26T17:01:11.769Z Aurélien Geron <ageron@users.noreply.github.com> :: add dependency versions
+2026-07-26T17:19:55.826Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor the CI matrix
