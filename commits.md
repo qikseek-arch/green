@@ -11941,3 +11941,4 @@
 2026-07-26T19:25:05.694Z Taiko Foundation <info@taiko.xyz> :: fix retry logic
 2026-07-26T21:29:05.097Z vb <Vaibhavs10@users.noreply.github.com> :: fix error handling
 2026-07-26T21:49:18.221Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak retry logic
+2026-07-26T22:35:04.722Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up readme typo
