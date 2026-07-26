@@ -278,3 +278,4 @@
 2026-07-18T16:26:42.576Z root <root@fake.invalid> :: update logging
 2026-07-20T01:00:03.067Z halcyon <halcyon@fake.invalid> :: refactor null check
 2026-07-21T13:44:32.334Z void <void@fake.invalid> :: update readme typo
+2026-07-26T20:20:03.303Z juno <juno@fake.invalid> :: tweak edge case in auth
