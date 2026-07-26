@@ -11931,3 +11931,4 @@
 2026-07-26T08:50:41.713Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak edge case in auth
 2026-07-26T10:58:05.211Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix dead code
 2026-07-26T11:30:22.180Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up logging
+2026-07-26T12:18:53.906Z Selenium <SeleniumHQ@users.noreply.github.com> :: fix the parser
