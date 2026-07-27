@@ -372,3 +372,4 @@
 2026-07-19T14:39:18.965Z QuantumComet <quantumcomet@fake.invalid> :: polish the parser
 2026-07-20T21:59:48.318Z bravecactus459 <bravecactus459@fake.invalid> :: bump retry logic
 2026-07-25T00:06:53.513Z raptor_silent42 <raptor_silent42@fake.invalid> :: update readme typo | Co-authored-by: Jake Wharton <JakeWharton@users.noreply.github.com>
+2026-07-27T03:23:33.385Z MidnightHamster <midnighthamster@fake.invalid> :: remove readme typo
