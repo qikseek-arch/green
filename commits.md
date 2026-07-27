@@ -11955,3 +11955,4 @@
 2026-07-27T11:59:07.667Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove retry logic
 2026-07-27T12:21:24.637Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump build script
 2026-07-27T14:18:06.159Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump readme typo
+2026-07-27T14:31:14.379Z Taiko Foundation <info@taiko.xyz> :: clean up the parser
