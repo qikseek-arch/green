@@ -11952,3 +11952,4 @@
 2026-07-27T08:58:56.026Z Claude <claude@users.noreply.github.com> :: refactor cache keys
 2026-07-27T09:08:28.697Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix dead code
 2026-07-27T10:47:03.621Z Selenium <SeleniumHQ@users.noreply.github.com> :: remove config defaults
+2026-07-27T11:59:07.667Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove retry logic
