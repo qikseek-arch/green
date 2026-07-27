@@ -11961,3 +11961,4 @@
 2026-07-27T16:11:23.764Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak logging
 2026-07-27T16:22:24.448Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor null check
 2026-07-27T17:23:47.359Z LILYGO <LilyGO@users.noreply.github.com> :: update dead code
+2026-07-27T17:26:42.378Z Andreas Kling <awesomekling@users.noreply.github.com> :: update readme typo
