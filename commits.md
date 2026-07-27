@@ -11963,3 +11963,4 @@
 2026-07-27T17:23:47.359Z LILYGO <LilyGO@users.noreply.github.com> :: update dead code
 2026-07-27T17:26:42.378Z Andreas Kling <awesomekling@users.noreply.github.com> :: update readme typo
 2026-07-27T18:42:55.888Z vb <Vaibhavs10@users.noreply.github.com> :: update the parser
+2026-07-27T21:27:49.884Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up the CI matrix
