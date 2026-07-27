@@ -11958,3 +11958,4 @@
 2026-07-27T14:31:14.379Z Taiko Foundation <info@taiko.xyz> :: clean up the parser
 2026-07-27T15:03:46.567Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: tweak null check
 2026-07-27T15:58:21.442Z md-5 <md-5@users.noreply.github.com> :: fix edge case in auth
+2026-07-27T16:11:23.764Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak logging
