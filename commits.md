@@ -11950,3 +11950,4 @@
 2026-07-27T06:39:02.950Z heyli <lcxfs1991@users.noreply.github.com> :: add null check
 2026-07-27T07:26:01.246Z Bert Belder <piscisaureus@users.noreply.github.com> :: fix logging
 2026-07-27T08:58:56.026Z Claude <claude@users.noreply.github.com> :: refactor cache keys
+2026-07-27T09:08:28.697Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix dead code
