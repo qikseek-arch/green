@@ -11964,3 +11964,4 @@
 2026-07-27T17:26:42.378Z Andreas Kling <awesomekling@users.noreply.github.com> :: update readme typo
 2026-07-27T18:42:55.888Z vb <Vaibhavs10@users.noreply.github.com> :: update the parser
 2026-07-27T21:27:49.884Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up the CI matrix
+2026-07-27T21:45:37.483Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: remove error handling
