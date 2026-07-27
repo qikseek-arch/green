@@ -11947,3 +11947,4 @@
 2026-07-27T02:53:08.580Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
 2026-07-27T05:18:28.298Z WebRTC <discuss-webrtc@googlegroups.com> :: bump dependency versions
 2026-07-27T05:48:07.934Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up build script
+2026-07-27T06:39:02.950Z heyli <lcxfs1991@users.noreply.github.com> :: add null check
