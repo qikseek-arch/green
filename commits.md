@@ -11960,3 +11960,4 @@
 2026-07-27T15:58:21.442Z md-5 <md-5@users.noreply.github.com> :: fix edge case in auth
 2026-07-27T16:11:23.764Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak logging
 2026-07-27T16:22:24.448Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor null check
+2026-07-27T17:23:47.359Z LILYGO <LilyGO@users.noreply.github.com> :: update dead code
