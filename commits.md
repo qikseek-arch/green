@@ -11970,3 +11970,4 @@
 2026-07-28T02:12:38.732Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor error handling
 2026-07-28T02:16:35.258Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up edge case in auth
 2026-07-28T03:41:48.480Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add dependency versions
+2026-07-28T03:59:20.172Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix error handling
