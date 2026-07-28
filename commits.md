@@ -11980,3 +11980,4 @@
 2026-07-28T13:15:07.411Z ㅤxander <vampirist@users.noreply.github.com> :: remove readme typo
 2026-07-28T14:14:08.283Z markqvist <markqvist@users.noreply.github.com> :: add flaky test
 2026-07-28T15:30:05.765Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
+2026-07-28T15:54:25.679Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor config defaults
