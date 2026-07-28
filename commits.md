@@ -11987,3 +11987,4 @@
 2026-07-28T22:08:59.782Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up the CI matrix
 2026-07-28T23:03:50.825Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update readme typo
 2026-07-28T23:21:51.690Z Arduino <arduino@users.noreply.github.com> :: bump retry logic
+2026-07-28T23:55:57.523Z ring04h <ring04h@users.noreply.github.com> :: refactor readme typo
