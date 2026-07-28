@@ -11972,3 +11972,4 @@
 2026-07-28T03:41:48.480Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add dependency versions
 2026-07-28T03:59:20.172Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix error handling
 2026-07-28T05:41:40.179Z Getgems <getgems-io@users.noreply.github.com> :: tweak the CI matrix
+2026-07-28T06:10:37.583Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor error handling
