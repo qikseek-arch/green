@@ -11968,3 +11968,4 @@
 2026-07-27T22:25:15.365Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump dead code
 2026-07-28T00:02:59.576Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: polish the parser
 2026-07-28T02:12:38.732Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor error handling
+2026-07-28T02:16:35.258Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up edge case in auth
