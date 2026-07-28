@@ -11977,3 +11977,4 @@
 2026-07-28T08:08:17.208Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix build script
 2026-07-28T10:34:27.104Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up flaky test
 2026-07-28T11:18:51.500Z owenzhang <owenzhang@users.noreply.github.com> :: clean up dependency versions
+2026-07-28T13:15:07.411Z ㅤxander <vampirist@users.noreply.github.com> :: remove readme typo
