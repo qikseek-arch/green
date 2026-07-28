@@ -11985,3 +11985,4 @@
 2026-07-28T17:21:09.730Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add dependency versions
 2026-07-28T21:20:00.604Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: clean up the parser
 2026-07-28T22:08:59.782Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: wire up the CI matrix
+2026-07-28T23:03:50.825Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update readme typo
