@@ -11982,3 +11982,4 @@
 2026-07-28T15:30:05.765Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
 2026-07-28T15:54:25.679Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor config defaults
 2026-07-28T16:09:27.408Z BBC <bbc@users.noreply.github.com> :: polish the parser
+2026-07-28T17:21:09.730Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add dependency versions
