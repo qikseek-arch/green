@@ -11973,3 +11973,4 @@
 2026-07-28T03:59:20.172Z Rafal <RafalW3bCraft@users.noreply.github.com> :: fix error handling
 2026-07-28T05:41:40.179Z Getgems <getgems-io@users.noreply.github.com> :: tweak the CI matrix
 2026-07-28T06:10:37.583Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: refactor error handling
+2026-07-28T06:50:14.623Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor edge case in auth
