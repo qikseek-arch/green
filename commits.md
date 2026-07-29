@@ -12000,3 +12000,4 @@
 2026-07-29T08:38:30.500Z ㅤxander <vampirist@users.noreply.github.com> :: clean up edge case in auth
 2026-07-29T10:49:07.667Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak cache keys
 2026-07-29T12:20:43.001Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add readme typo
+2026-07-29T12:36:20.998Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
