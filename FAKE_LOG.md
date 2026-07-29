@@ -856,3 +856,4 @@
 2026-07-23T22:19:00.639Z Jadi <jadijadi@users.noreply.github.com> :: clean up config defaults
 2026-07-24T15:42:09.242Z xiaolai <xiaolai@users.noreply.github.com> :: tweak dead code
 2026-07-24T23:37:11.258Z Anthropic <anthropics@users.noreply.github.com> :: clean up the CI matrix
+2026-07-29T00:55:38.143Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: remove readme typo
