@@ -12003,3 +12003,4 @@
 2026-07-29T12:36:20.998Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
 2026-07-29T13:16:50.421Z md-5 <md-5@users.noreply.github.com> :: update the parser
 2026-07-29T14:18:49.941Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish build script
+2026-07-29T14:59:55.398Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: polish build script
