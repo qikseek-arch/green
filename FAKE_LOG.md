@@ -375,3 +375,4 @@
 2026-07-27T03:23:33.385Z MidnightHamster <midnighthamster@fake.invalid> :: remove readme typo
 2026-07-27T10:02:55.553Z Brendan Eich <brendan.eich@fake.invalid> :: bump the CI matrix
 2026-07-28T02:21:14.823Z ghost <ghost@fake.invalid> :: bump dependency versions
+2026-07-29T18:26:15.083Z hamster_arcane <hamster_arcane@fake.invalid> :: refactor build script
