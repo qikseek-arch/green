@@ -866,3 +866,4 @@
 2026-07-28T19:46:05.497Z gambling-addict <gambling-addict@users.noreply.github.com> :: refactor retry logic
 2026-07-29T09:37:03.424Z vn.py <vnpy@users.noreply.github.com> :: wire up config defaults
 2026-07-29T15:39:07.079Z Matt Pocock <mattpocock@users.noreply.github.com> :: remove logging
+2026-07-29T20:36:54.314Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: fix null check
