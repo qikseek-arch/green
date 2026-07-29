@@ -11996,3 +11996,4 @@
 2026-07-29T07:53:14.785Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: add retry logic
 2026-07-29T07:55:45.313Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove error handling
 2026-07-29T08:00:20.249Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump error handling
+2026-07-29T08:09:31.277Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add dependency versions
