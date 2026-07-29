@@ -12001,3 +12001,4 @@
 2026-07-29T10:49:07.667Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak cache keys
 2026-07-29T12:20:43.001Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add readme typo
 2026-07-29T12:36:20.998Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the CI matrix
+2026-07-29T13:16:50.421Z md-5 <md-5@users.noreply.github.com> :: update the parser
