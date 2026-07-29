@@ -12010,3 +12010,4 @@
 2026-07-29T19:20:38.166Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor edge case in auth
 2026-07-29T19:44:05.426Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update retry logic
 2026-07-29T20:05:09.267Z Keith Smiley <keith@users.noreply.github.com> :: bump the parser
+2026-07-29T20:07:54.593Z Claude <claude@users.noreply.github.com> :: update error handling
