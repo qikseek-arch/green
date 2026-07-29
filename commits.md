@@ -12009,3 +12009,4 @@
 2026-07-29T16:45:24.007Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump logging
 2026-07-29T19:20:38.166Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor edge case in auth
 2026-07-29T19:44:05.426Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update retry logic
+2026-07-29T20:05:09.267Z Keith Smiley <keith@users.noreply.github.com> :: bump the parser
