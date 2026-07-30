@@ -12016,3 +12016,4 @@
 2026-07-30T03:31:11.457Z Keith Smiley <keith@users.noreply.github.com> :: add null check
 2026-07-30T04:35:59.235Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: update dependency versions
 2026-07-30T04:54:26.880Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: wire up dependency versions
+2026-07-30T05:34:41.325Z Claude <claude@users.noreply.github.com> :: refactor config defaults
