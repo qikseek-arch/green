@@ -12023,3 +12023,4 @@
 2026-07-30T07:42:45.495Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up dependency versions
 2026-07-30T08:23:11.367Z Shubs <infosec-au@users.noreply.github.com> :: remove config defaults
 2026-07-30T09:27:50.515Z Claude <claude@users.noreply.github.com> :: refactor flaky test
+2026-07-30T11:06:04.314Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix the parser
