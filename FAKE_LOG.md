@@ -858,3 +858,4 @@
 2026-07-24T23:37:11.258Z Anthropic <anthropics@users.noreply.github.com> :: clean up the CI matrix
 2026-07-29T00:55:38.143Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: remove readme typo
 2026-07-29T09:23:48.263Z Ben Awad <benawad@users.noreply.github.com> :: update edge case in auth
+2026-07-30T17:27:43.743Z Kamran Ahmed <nilbuild@users.noreply.github.com> :: fix error handling
