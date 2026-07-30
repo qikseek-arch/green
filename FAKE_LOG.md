@@ -859,3 +859,4 @@
 2026-07-29T00:55:38.143Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: remove readme typo
 2026-07-29T09:23:48.263Z Ben Awad <benawad@users.noreply.github.com> :: update edge case in auth
 2026-07-30T17:27:43.743Z Kamran Ahmed <nilbuild@users.noreply.github.com> :: fix error handling
+2026-07-30T20:21:10.349Z Kyle Simpson <getify@users.noreply.github.com> :: add edge case in auth
