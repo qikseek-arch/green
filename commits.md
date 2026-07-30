@@ -12019,3 +12019,4 @@
 2026-07-30T05:34:41.325Z Claude <claude@users.noreply.github.com> :: refactor config defaults
 2026-07-30T05:48:53.898Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: clean up flaky test
 2026-07-30T06:20:29.370Z WebRTC <discuss-webrtc@googlegroups.com> :: fix logging
+2026-07-30T06:47:10.148Z Aurélien Geron <ageron@users.noreply.github.com> :: remove logging
