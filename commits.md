@@ -12029,3 +12029,4 @@
 2026-07-30T14:31:17.463Z markqvist <markqvist@users.noreply.github.com> :: tweak build script
 2026-07-30T14:53:18.773Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up config defaults
 2026-07-30T15:04:20.582Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: refactor flaky test
+2026-07-30T15:28:12.627Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update the CI matrix
