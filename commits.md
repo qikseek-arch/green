@@ -12035,3 +12035,4 @@
 2026-07-30T18:20:51.489Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: tweak logging
 2026-07-30T18:54:39.801Z qiye <qiyeboy@users.noreply.github.com> :: add logging
 2026-07-30T19:15:54.575Z First Contributions <firstcontributions@gmail.com> :: update edge case in auth
+2026-07-30T20:32:28.278Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up null check
