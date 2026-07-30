@@ -12011,3 +12011,4 @@
 2026-07-29T19:44:05.426Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update retry logic
 2026-07-29T20:05:09.267Z Keith Smiley <keith@users.noreply.github.com> :: bump the parser
 2026-07-29T20:07:54.593Z Claude <claude@users.noreply.github.com> :: update error handling
+2026-07-30T01:17:31.085Z Sachin Soni <techiesms@users.noreply.github.com> :: polish edge case in auth
