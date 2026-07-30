@@ -12039,3 +12039,4 @@
 2026-07-30T21:21:25.262Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
 2026-07-30T21:46:41.193Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: polish logging
 2026-07-30T22:15:30.165Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add edge case in auth
+2026-07-30T23:40:56.619Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up retry logic
