@@ -12036,3 +12036,4 @@
 2026-07-30T18:54:39.801Z qiye <qiyeboy@users.noreply.github.com> :: add logging
 2026-07-30T19:15:54.575Z First Contributions <firstcontributions@gmail.com> :: update edge case in auth
 2026-07-30T20:32:28.278Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up null check
+2026-07-30T21:21:25.262Z Adam Bell <b3ll@users.noreply.github.com> :: remove the parser
