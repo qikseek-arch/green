@@ -12026,3 +12026,4 @@
 2026-07-30T11:06:04.314Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix the parser
 2026-07-30T11:28:05.484Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: refactor dead code
 2026-07-30T12:12:15.847Z Keith Smiley <keith@users.noreply.github.com> :: add cache keys
+2026-07-30T14:31:17.463Z markqvist <markqvist@users.noreply.github.com> :: tweak build script
