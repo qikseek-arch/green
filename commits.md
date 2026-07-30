@@ -12013,3 +12013,4 @@
 2026-07-29T20:07:54.593Z Claude <claude@users.noreply.github.com> :: update error handling
 2026-07-30T01:17:31.085Z Sachin Soni <techiesms@users.noreply.github.com> :: polish edge case in auth
 2026-07-30T03:11:07.967Z CTFs <ctfs@users.noreply.github.com> :: tweak error handling
+2026-07-30T03:31:11.457Z Keith Smiley <keith@users.noreply.github.com> :: add null check
