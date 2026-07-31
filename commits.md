@@ -12063,3 +12063,4 @@
 2026-07-31T14:03:35.004Z Taiko Foundation <info@taiko.xyz> :: refactor edge case in auth
 2026-07-31T14:06:15.059Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
 2026-07-31T18:18:35.886Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up config defaults
+2026-07-31T18:21:08.817Z Getgems <getgems-io@users.noreply.github.com> :: bump the CI matrix
