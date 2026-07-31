@@ -12061,3 +12061,4 @@
 2026-07-31T09:56:41.174Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish retry logic
 2026-07-31T13:42:46.270Z heyli <lcxfs1991@users.noreply.github.com> :: wire up retry logic
 2026-07-31T14:03:35.004Z Taiko Foundation <info@taiko.xyz> :: refactor edge case in auth
+2026-07-31T14:06:15.059Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
