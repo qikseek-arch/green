@@ -12050,3 +12050,4 @@
 2026-07-31T02:01:05.108Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove null check
 2026-07-31T04:42:06.831Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add edge case in auth
 2026-07-31T05:23:14.583Z markqvist <markqvist@users.noreply.github.com> :: wire up build script
+2026-07-31T05:43:42.986Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: update logging
