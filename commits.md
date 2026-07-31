@@ -875,3 +875,4 @@
 2026-07-31T04:07:27.248Z 削微寒 <521xueweihan@users.noreply.github.com> :: refactor error handling
 2026-07-31T08:12:03.372Z Yangqing Jia <Yangqing@users.noreply.github.com> :: refactor dependency versions
 2026-07-31T10:22:10.826Z Yiming Cui <ymcui@users.noreply.github.com> :: polish cache keys
+2026-07-31T16:36:03.673Z Sylvain Gugger <sgugger@users.noreply.github.com> :: add retry logic
