@@ -873,3 +873,4 @@
 2026-07-30T18:43:06.563Z Ovilia <Ovilia@users.noreply.github.com> :: polish build script
 2026-07-30T20:04:55.432Z Bruno Simon <brunosimon@users.noreply.github.com> :: bump cache keys
 2026-07-31T04:07:27.248Z 削微寒 <521xueweihan@users.noreply.github.com> :: refactor error handling
+2026-07-31T08:12:03.372Z Yangqing Jia <Yangqing@users.noreply.github.com> :: refactor dependency versions
