@@ -12060,3 +12060,4 @@
 2026-07-31T09:48:21.217Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up the CI matrix
 2026-07-31T09:56:41.174Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish retry logic
 2026-07-31T13:42:46.270Z heyli <lcxfs1991@users.noreply.github.com> :: wire up retry logic
+2026-07-31T14:03:35.004Z Taiko Foundation <info@taiko.xyz> :: refactor edge case in auth
