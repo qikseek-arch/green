@@ -12068,3 +12068,4 @@
 2026-07-31T20:49:54.170Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump null check
 2026-07-31T23:12:09.815Z qiye <qiyeboy@users.noreply.github.com> :: bump null check
 2026-08-01T01:12:03.820Z Ryan Bigg <radar@users.noreply.github.com> :: add readme typo
+2026-08-01T01:12:08.918Z ㅤxander <vampirist@users.noreply.github.com> :: remove config defaults
