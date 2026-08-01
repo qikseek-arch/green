@@ -12089,3 +12089,4 @@
 2026-08-01T15:27:04.463Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove config defaults
 2026-08-01T16:35:20.812Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: add retry logic
 2026-08-01T16:49:55.924Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up logging
+2026-08-01T17:25:36.433Z Claude <claude@users.noreply.github.com> :: fix build script
