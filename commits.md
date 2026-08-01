@@ -879,3 +879,4 @@
 2026-07-31T18:32:19.851Z 4Geeks Academy <info@4geeksacademy.com> :: refactor config defaults
 2026-07-31T21:05:46.194Z Colt Steele <Colt@users.noreply.github.com> :: remove dead code
 2026-08-01T09:18:07.119Z Iuri Silva <iuricode@users.noreply.github.com> :: fix readme typo
+2026-08-01T12:52:59.409Z Merve Noyan <merveenoyan@users.noreply.github.com> :: clean up retry logic
