@@ -12070,3 +12070,4 @@
 2026-08-01T01:12:03.820Z Ryan Bigg <radar@users.noreply.github.com> :: add readme typo
 2026-08-01T01:12:08.918Z ㅤxander <vampirist@users.noreply.github.com> :: remove config defaults
 2026-08-01T02:08:42.050Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: fix error handling
+2026-08-01T04:07:06.803Z Roger Labbe <rlabbe@users.noreply.github.com> :: update dependency versions
