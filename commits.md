@@ -12091,3 +12091,4 @@
 2026-08-01T16:49:55.924Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up logging
 2026-08-01T17:25:36.433Z Claude <claude@users.noreply.github.com> :: fix build script
 2026-08-01T17:56:07.503Z Rei <chloerei@users.noreply.github.com> :: update cache keys
+2026-08-01T18:03:40.406Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove config defaults
