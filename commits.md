@@ -12075,3 +12075,4 @@
 2026-08-01T05:33:33.249Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump null check
 2026-08-01T05:39:13.088Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump readme typo
 2026-08-01T05:56:35.561Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update flaky test
+2026-08-01T06:16:47.453Z markqvist <markqvist@users.noreply.github.com> :: fix config defaults
