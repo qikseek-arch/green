@@ -12100,3 +12100,4 @@
 2026-08-01T20:33:07.559Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak dependency versions
 2026-08-01T20:47:59.891Z heyli <lcxfs1991@users.noreply.github.com> :: fix config defaults
 2026-08-01T22:29:36.006Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump retry logic
+2026-08-01T22:50:42.113Z Taiko Foundation <info@taiko.xyz> :: clean up dependency versions
