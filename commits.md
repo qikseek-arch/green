@@ -12078,3 +12078,4 @@
 2026-08-01T06:16:47.453Z markqvist <markqvist@users.noreply.github.com> :: fix config defaults
 2026-08-01T06:17:11.362Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove null check
 2026-08-01T07:33:28.643Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: update null check
+2026-08-01T10:11:45.487Z Keith Smiley <keith@users.noreply.github.com> :: fix the parser
