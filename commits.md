@@ -12105,3 +12105,4 @@
 2026-08-02T00:29:22.889Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak null check
 2026-08-02T03:27:29.808Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor build script
 2026-08-02T05:16:25.497Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove flaky test
+2026-08-02T06:08:39.489Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove the parser
