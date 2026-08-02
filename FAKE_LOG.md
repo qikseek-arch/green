@@ -862,3 +862,4 @@
 2026-07-30T20:21:10.349Z Kyle Simpson <getify@users.noreply.github.com> :: add edge case in auth
 2026-07-31T13:02:53.848Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: fix build script
 2026-08-02T14:57:02.244Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: tweak null check
+2026-08-02T23:14:53.693Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: remove the CI matrix
