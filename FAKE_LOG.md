@@ -155,3 +155,4 @@
 2026-07-24T15:35:53.782Z raptor_arcane_io <raptor_arcane_io@users.noreply.github.com> :: update cache keys
 2026-07-29T00:54:04.962Z Alonzo Church <alonzo.church@example.com> :: bump cache keys
 2026-07-29T11:58:36.206Z Brendan Eich <brendan.eich@example.com> :: add retry logic
+2026-08-02T00:48:40.887Z Barbara Liskov <barbara.liskov@example.com> :: tweak the CI matrix
