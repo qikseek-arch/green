@@ -12121,3 +12121,4 @@
 2026-08-02T19:31:46.168Z Fady Farag <iidmsa@users.noreply.github.com> :: fix flaky test
 2026-08-02T19:34:29.810Z AI4Bhārat <opensource@ai4bharat.org> :: fix config defaults
 2026-08-02T21:15:59.915Z Sadık TURAN <sadikturan@users.noreply.github.com> :: tweak the CI matrix
+2026-08-02T23:28:55.513Z AI4Bhārat <opensource@ai4bharat.org> :: polish logging
