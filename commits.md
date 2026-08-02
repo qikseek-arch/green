@@ -12107,3 +12107,4 @@
 2026-08-02T05:16:25.497Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove flaky test
 2026-08-02T06:08:39.489Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove the parser
 2026-08-02T07:48:29.521Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up flaky test
+2026-08-02T08:54:51.659Z Getgems <getgems-io@users.noreply.github.com> :: fix dead code
