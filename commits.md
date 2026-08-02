@@ -12109,3 +12109,4 @@
 2026-08-02T07:48:29.521Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up flaky test
 2026-08-02T08:54:51.659Z Getgems <getgems-io@users.noreply.github.com> :: fix dead code
 2026-08-02T09:46:02.809Z Adam Łucek <ALucek@users.noreply.github.com> :: remove cache keys
+2026-08-02T10:05:39.648Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the CI matrix
