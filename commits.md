@@ -883,3 +883,4 @@
 2026-08-01T19:56:50.409Z Draven <draveness@users.noreply.github.com> :: wire up null check
 2026-08-02T05:54:02.925Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: fix dependency versions
 2026-08-02T06:10:34.240Z Miguel de Icaza <migueldeicaza@users.noreply.github.com> :: bump logging
+2026-08-02T10:38:26.183Z DeepSeek <service@deepseek.com> :: wire up the parser
