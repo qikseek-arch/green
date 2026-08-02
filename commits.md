@@ -12114,3 +12114,4 @@
 2026-08-02T11:07:02.543Z AI4Bhārat <opensource@ai4bharat.org> :: remove dependency versions
 2026-08-02T13:11:16.760Z David Fowler <davidfowl@users.noreply.github.com> :: refactor logging
 2026-08-02T13:42:56.232Z 劉強東 <liangjingkanji@users.noreply.github.com> :: refactor config defaults
+2026-08-02T14:45:35.144Z Adam Bell <b3ll@users.noreply.github.com> :: wire up logging
