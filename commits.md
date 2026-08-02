@@ -881,3 +881,4 @@
 2026-08-01T09:18:07.119Z Iuri Silva <iuricode@users.noreply.github.com> :: fix readme typo
 2026-08-01T12:52:59.409Z Merve Noyan <merveenoyan@users.noreply.github.com> :: clean up retry logic
 2026-08-01T19:56:50.409Z Draven <draveness@users.noreply.github.com> :: wire up null check
+2026-08-02T05:54:02.925Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: fix dependency versions
