@@ -12110,3 +12110,4 @@
 2026-08-02T08:54:51.659Z Getgems <getgems-io@users.noreply.github.com> :: fix dead code
 2026-08-02T09:46:02.809Z Adam Łucek <ALucek@users.noreply.github.com> :: remove cache keys
 2026-08-02T10:05:39.648Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up the CI matrix
+2026-08-02T10:54:46.784Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: add the CI matrix
