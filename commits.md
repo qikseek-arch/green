@@ -12138,3 +12138,4 @@
 2026-08-03T08:48:56.240Z LILYGO <LilyGO@users.noreply.github.com> :: fix build script
 2026-08-03T09:03:05.404Z Rafal <RafalW3bCraft@users.noreply.github.com> :: tweak null check
 2026-08-03T09:18:41.284Z SouJunior <wouerner@soujunior.tech> :: fix retry logic
+2026-08-03T10:38:16.026Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump config defaults
