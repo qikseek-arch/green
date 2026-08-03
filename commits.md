@@ -12127,3 +12127,4 @@
 2026-08-03T02:37:00.631Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up flaky test
 2026-08-03T04:06:15.915Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: bump the parser
 2026-08-03T04:50:35.509Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump the CI matrix
+2026-08-03T05:07:27.138Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump the CI matrix
