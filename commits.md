@@ -12145,3 +12145,4 @@
 2026-08-03T11:27:46.422Z Sachin Soni <techiesms@users.noreply.github.com> :: fix dependency versions
 2026-08-03T12:17:12.791Z Almas Baim <AlmasB@users.noreply.github.com> :: refactor flaky test
 2026-08-03T12:56:08.746Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix flaky test
+2026-08-03T13:50:04.859Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor error handling
