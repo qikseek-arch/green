@@ -12142,3 +12142,4 @@
 2026-08-03T11:03:01.569Z ring04h <ring04h@users.noreply.github.com> :: remove the CI matrix
 2026-08-03T11:04:49.188Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up build script
 2026-08-03T11:10:16.925Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up readme typo
+2026-08-03T11:27:46.422Z Sachin Soni <techiesms@users.noreply.github.com> :: fix dependency versions
