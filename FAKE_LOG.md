@@ -157,3 +157,4 @@
 2026-07-29T11:58:36.206Z Brendan Eich <brendan.eich@example.com> :: add retry logic
 2026-08-02T00:48:40.887Z Barbara Liskov <barbara.liskov@example.com> :: tweak the CI matrix
 2026-08-03T00:32:20.564Z Niklaus Wirth <niklaus.wirth@example.com> :: update the parser
+2026-08-03T08:43:29.909Z muffin_neon1337 <muffin_neon1337@users.noreply.github.com> :: polish readme typo
