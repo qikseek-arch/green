@@ -863,3 +863,4 @@
 2026-07-31T13:02:53.848Z PewDiePie <pewdiepie-archdaemon@users.noreply.github.com> :: fix build script
 2026-08-02T14:57:02.244Z Abhishek Veeramalla <iam-veeramalla@users.noreply.github.com> :: tweak null check
 2026-08-02T23:14:53.693Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: remove the CI matrix
+2026-08-03T09:48:47.694Z Microsoft <opensource@microsoft.com> :: refactor dependency versions
