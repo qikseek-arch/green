@@ -12136,3 +12136,4 @@
 2026-08-03T07:39:38.247Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up build script
 2026-08-03T08:41:27.487Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add error handling
 2026-08-03T08:48:56.240Z LILYGO <LilyGO@users.noreply.github.com> :: fix build script
+2026-08-03T09:03:05.404Z Rafal <RafalW3bCraft@users.noreply.github.com> :: tweak null check
