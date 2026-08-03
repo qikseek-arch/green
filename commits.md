@@ -12134,3 +12134,4 @@
 2026-08-03T06:02:25.724Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak error handling
 2026-08-03T07:03:53.727Z vb <Vaibhavs10@users.noreply.github.com> :: fix readme typo
 2026-08-03T07:39:38.247Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up build script
+2026-08-03T08:41:27.487Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: add error handling
