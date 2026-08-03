@@ -12132,3 +12132,4 @@
 2026-08-03T05:20:01.934Z Keith Smiley <keith@users.noreply.github.com> :: fix null check
 2026-08-03T05:50:43.019Z Keith Smiley <keith@users.noreply.github.com> :: fix null check
 2026-08-03T06:02:25.724Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak error handling
+2026-08-03T07:03:53.727Z vb <Vaibhavs10@users.noreply.github.com> :: fix readme typo
