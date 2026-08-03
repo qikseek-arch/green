@@ -12129,3 +12129,4 @@
 2026-08-03T04:50:35.509Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump the CI matrix
 2026-08-03T05:07:27.138Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump the CI matrix
 2026-08-03T05:11:00.912Z heyli <lcxfs1991@users.noreply.github.com> :: bump logging
+2026-08-03T05:20:01.934Z Keith Smiley <keith@users.noreply.github.com> :: fix null check
