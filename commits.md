@@ -12139,3 +12139,4 @@
 2026-08-03T09:03:05.404Z Rafal <RafalW3bCraft@users.noreply.github.com> :: tweak null check
 2026-08-03T09:18:41.284Z SouJunior <wouerner@soujunior.tech> :: fix retry logic
 2026-08-03T10:38:16.026Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump config defaults
+2026-08-03T11:03:01.569Z ring04h <ring04h@users.noreply.github.com> :: remove the CI matrix
