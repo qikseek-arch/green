@@ -158,3 +158,4 @@
 2026-08-02T00:48:40.887Z Barbara Liskov <barbara.liskov@example.com> :: tweak the CI matrix
 2026-08-03T00:32:20.564Z Niklaus Wirth <niklaus.wirth@example.com> :: update the parser
 2026-08-03T08:43:29.909Z muffin_neon1337 <muffin_neon1337@users.noreply.github.com> :: polish readme typo
+2026-08-03T15:50:54.430Z Yukihiro Matsumoto <yukihiro.matsumoto@example.com> :: fix dependency versions
