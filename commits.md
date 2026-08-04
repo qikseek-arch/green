@@ -12157,3 +12157,4 @@
 2026-08-04T00:36:45.596Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix readme typo
 2026-08-04T01:00:40.996Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up readme typo
 2026-08-04T01:16:21.604Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove build script
+2026-08-04T05:11:26.212Z BBC <bbc@users.noreply.github.com> :: remove retry logic
