@@ -12158,3 +12158,4 @@
 2026-08-04T01:00:40.996Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up readme typo
 2026-08-04T01:16:21.604Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: remove build script
 2026-08-04T05:11:26.212Z BBC <bbc@users.noreply.github.com> :: remove retry logic
+2026-08-04T05:50:11.934Z Keith Smiley <keith@users.noreply.github.com> :: refactor dead code
