@@ -487,3 +487,4 @@
 2026-07-18T17:35:26.219Z vividsocket527 <vividsocket527@fake.invalid> :: add cache keys
 2026-07-19T02:39:30.751Z MidnightNinja <midnightninja@fake.invalid> :: fix error handling
 2026-07-20T12:27:54.038Z Peter Steinberger <steipete@users.noreply.github.com> :: tweak cache keys
+2026-08-04T04:49:49.695Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: wire up error handling
