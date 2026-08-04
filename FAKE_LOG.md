@@ -378,3 +378,4 @@
 2026-07-29T18:26:15.083Z hamster_arcane <hamster_arcane@fake.invalid> :: refactor build script
 2026-08-01T06:08:22.224Z Brendan Eich <brendan.eich@fake.invalid> :: polish dependency versions | Co-authored-by: Brad Traversy <bradtraversy@users.noreply.github.com>
 2026-08-03T20:33:49.505Z Marie Curie <marie.curie@fake.invalid> :: bump dead code
+2026-08-04T03:29:03.905Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: clean up readme typo | Co-authored-by: Kyle Simpson <getify@users.noreply.github.com>
