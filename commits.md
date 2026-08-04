@@ -12155,3 +12155,4 @@
 2026-08-03T23:39:24.157Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish config defaults
 2026-08-04T00:08:33.201Z LILYGO <LilyGO@users.noreply.github.com> :: wire up null check
 2026-08-04T00:36:45.596Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: fix readme typo
+2026-08-04T01:00:40.996Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up readme typo
