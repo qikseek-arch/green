@@ -12169,3 +12169,4 @@
 2026-08-04T19:06:59.460Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: clean up build script
 2026-08-04T22:11:51.400Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish flaky test
 2026-08-04T22:39:54.905Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: update logging
+2026-08-04T23:02:23.301Z markqvist <markqvist@users.noreply.github.com> :: tweak dead code
