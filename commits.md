@@ -889,3 +889,4 @@
 2026-08-03T08:46:12.363Z Ray Villalobos <planetoftheweb@users.noreply.github.com> :: tweak the parser
 2026-08-03T19:32:57.291Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: fix dead code
 2026-08-04T04:42:15.896Z Sasha Rush <srush@users.noreply.github.com> :: update dependency versions
+2026-08-04T10:13:37.061Z 左程云 <algorithmzuo@users.noreply.github.com> :: wire up edge case in auth
