@@ -12160,3 +12160,4 @@
 2026-08-04T05:11:26.212Z BBC <bbc@users.noreply.github.com> :: remove retry logic
 2026-08-04T05:50:11.934Z Keith Smiley <keith@users.noreply.github.com> :: refactor dead code
 2026-08-04T10:05:19.826Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor readme typo
+2026-08-04T10:57:52.053Z FlowiseAI <hello@flowiseai.com> :: update logging
