@@ -12172,3 +12172,4 @@
 2026-08-04T23:02:23.301Z markqvist <markqvist@users.noreply.github.com> :: tweak dead code
 2026-08-04T23:24:36.398Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update null check
 2026-08-05T00:26:25.441Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak flaky test
+2026-08-05T01:30:14.898Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak readme typo
