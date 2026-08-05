@@ -12178,3 +12178,4 @@
 2026-08-05T04:12:09.695Z CTFs <ctfs@users.noreply.github.com> :: update readme typo
 2026-08-05T07:10:38.532Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up null check
 2026-08-05T08:46:28.948Z Almas Baim <AlmasB@users.noreply.github.com> :: update flaky test
+2026-08-05T10:28:17.798Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove null check
