@@ -12197,3 +12197,4 @@
 2026-08-05T21:10:48.645Z ring04h <ring04h@users.noreply.github.com> :: add logging
 2026-08-05T21:37:19.604Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
 2026-08-05T21:52:33.343Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix dependency versions
+2026-08-05T23:52:30.627Z Manu Arora <manuarora700@users.noreply.github.com> :: refactor config defaults
