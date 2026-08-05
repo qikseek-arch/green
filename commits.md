@@ -12190,3 +12190,4 @@
 2026-08-05T17:07:30.739Z Selenium <SeleniumHQ@users.noreply.github.com> :: update the CI matrix
 2026-08-05T17:42:29.840Z Keith Smiley <keith@users.noreply.github.com> :: fix flaky test
 2026-08-05T18:13:37.367Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update null check
+2026-08-05T18:31:05.628Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove logging
