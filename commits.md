@@ -12193,3 +12193,4 @@
 2026-08-05T18:31:05.628Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove logging
 2026-08-05T18:53:57.946Z AI4Bhārat <opensource@ai4bharat.org> :: wire up null check
 2026-08-05T20:04:44.154Z Claude <claude@users.noreply.github.com> :: remove the parser
+2026-08-05T20:37:09.812Z CTFs <ctfs@users.noreply.github.com> :: tweak build script
