@@ -12195,3 +12195,4 @@
 2026-08-05T20:04:44.154Z Claude <claude@users.noreply.github.com> :: remove the parser
 2026-08-05T20:37:09.812Z CTFs <ctfs@users.noreply.github.com> :: tweak build script
 2026-08-05T21:10:48.645Z ring04h <ring04h@users.noreply.github.com> :: add logging
+2026-08-05T21:37:19.604Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish retry logic
