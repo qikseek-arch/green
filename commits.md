@@ -12183,3 +12183,4 @@
 2026-08-05T11:05:50.554Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor logging
 2026-08-05T11:47:24.422Z Daniel Eden <daneden@users.noreply.github.com> :: remove build script
 2026-08-05T12:17:55.192Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update config defaults
+2026-08-05T13:55:44.240Z Barret李靖 <barretlee@users.noreply.github.com> :: update readme typo
