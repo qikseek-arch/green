@@ -894,3 +894,4 @@
 2026-08-04T21:53:09.574Z Donny/강동윤 <kdy1@users.noreply.github.com> :: polish flaky test
 2026-08-04T23:27:59.200Z Connor <Connor9994@users.noreply.github.com> :: tweak edge case in auth
 2026-08-05T09:06:50.353Z macro <macrozheng@users.noreply.github.com> :: wire up cache keys
+2026-08-05T15:37:24.871Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add error handling
