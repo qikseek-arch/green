@@ -12181,3 +12181,4 @@
 2026-08-05T10:28:17.798Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove null check
 2026-08-05T10:38:59.767Z Taiko Foundation <info@taiko.xyz> :: clean up edge case in auth
 2026-08-05T11:05:50.554Z Bytedance Inc. <bytedance@users.noreply.github.com> :: refactor logging
+2026-08-05T11:47:24.422Z Daniel Eden <daneden@users.noreply.github.com> :: remove build script
