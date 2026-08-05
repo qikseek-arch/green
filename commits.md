@@ -12186,3 +12186,4 @@
 2026-08-05T13:55:44.240Z Barret李靖 <barretlee@users.noreply.github.com> :: update readme typo
 2026-08-05T15:15:27.644Z owenzhang <owenzhang@users.noreply.github.com> :: fix retry logic
 2026-08-05T16:32:12.725Z Jason Zhang <Hackl0us@users.noreply.github.com> :: bump build script
+2026-08-05T16:38:38.252Z WebRTC <discuss-webrtc@googlegroups.com> :: clean up edge case in auth
