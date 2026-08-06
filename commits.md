@@ -12208,3 +12208,4 @@
 2026-08-06T06:58:16.754Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove null check
 2026-08-06T07:38:08.913Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up error handling
 2026-08-06T07:46:13.172Z Taiko Foundation <info@taiko.xyz> :: clean up the CI matrix
+2026-08-06T10:41:52.423Z ㅤxander <vampirist@users.noreply.github.com> :: tweak logging
