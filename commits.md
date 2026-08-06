@@ -12200,3 +12200,4 @@
 2026-08-05T23:52:30.627Z Manu Arora <manuarora700@users.noreply.github.com> :: refactor config defaults
 2026-08-06T00:53:23.534Z Barret李靖 <barretlee@users.noreply.github.com> :: bump readme typo
 2026-08-06T02:05:23.539Z CTFs <ctfs@users.noreply.github.com> :: clean up the parser
+2026-08-06T02:39:13.154Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update null check
