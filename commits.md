@@ -12206,3 +12206,4 @@
 2026-08-06T04:23:45.220Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: fix build script
 2026-08-06T04:56:55.494Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update error handling
 2026-08-06T06:58:16.754Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove null check
+2026-08-06T07:38:08.913Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up error handling
