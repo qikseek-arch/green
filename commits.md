@@ -12218,3 +12218,4 @@
 2026-08-06T15:27:09.204Z Adam Bell <b3ll@users.noreply.github.com> :: tweak cache keys
 2026-08-06T15:40:22.699Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak the parser
 2026-08-06T17:11:17.080Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up flaky test
+2026-08-06T17:30:09.412Z markqvist <markqvist@users.noreply.github.com> :: add error handling
