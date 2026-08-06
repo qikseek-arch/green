@@ -12212,3 +12212,4 @@
 2026-08-06T11:12:50.823Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up retry logic
 2026-08-06T12:40:18.070Z owenzhang <owenzhang@users.noreply.github.com> :: clean up logging
 2026-08-06T13:14:49.246Z Manu Arora <manuarora700@users.noreply.github.com> :: remove the parser
+2026-08-06T13:22:19.637Z Duy Tran <khanhduytran0@users.noreply.github.com> :: tweak readme typo
