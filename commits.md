@@ -12202,3 +12202,4 @@
 2026-08-06T02:05:23.539Z CTFs <ctfs@users.noreply.github.com> :: clean up the parser
 2026-08-06T02:39:13.154Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update null check
 2026-08-06T04:15:10.528Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak dead code
+2026-08-06T04:15:52.022Z qiye <qiyeboy@users.noreply.github.com> :: tweak error handling
