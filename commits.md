@@ -12223,3 +12223,4 @@
 2026-08-06T18:08:20.545Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump edge case in auth
 2026-08-06T18:38:45.940Z Shubs <infosec-au@users.noreply.github.com> :: tweak dead code
 2026-08-06T18:43:17.575Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dead code
+2026-08-06T18:57:06.771Z Getgems <getgems-io@users.noreply.github.com> :: tweak dependency versions
