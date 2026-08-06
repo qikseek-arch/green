@@ -12225,3 +12225,4 @@
 2026-08-06T18:43:17.575Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor dead code
 2026-08-06T18:57:06.771Z Getgems <getgems-io@users.noreply.github.com> :: tweak dependency versions
 2026-08-06T21:03:42.404Z Getgems <getgems-io@users.noreply.github.com> :: refactor retry logic
+2026-08-06T21:10:44.056Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove error handling
