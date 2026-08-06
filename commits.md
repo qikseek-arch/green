@@ -12230,3 +12230,4 @@
 2026-08-06T21:55:14.034Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: remove config defaults
 2026-08-06T22:00:13.461Z CTFs <ctfs@users.noreply.github.com> :: bump cache keys
 2026-08-06T22:06:11.774Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: update retry logic
+2026-08-06T22:46:22.630Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: clean up error handling
