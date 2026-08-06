@@ -12221,3 +12221,4 @@
 2026-08-06T17:30:09.412Z markqvist <markqvist@users.noreply.github.com> :: add error handling
 2026-08-06T18:01:22.455Z ㅤxander <vampirist@users.noreply.github.com> :: tweak error handling
 2026-08-06T18:08:20.545Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump edge case in auth
+2026-08-06T18:38:45.940Z Shubs <infosec-au@users.noreply.github.com> :: tweak dead code
