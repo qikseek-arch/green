@@ -897,3 +897,4 @@
 2026-08-05T15:37:24.871Z Sindre Sorhus <sindresorhus@users.noreply.github.com> :: add error handling
 2026-08-05T23:05:22.879Z Yiming Cui <ymcui@users.noreply.github.com> :: clean up the CI matrix
 2026-08-06T19:54:48.904Z Ryubing <Ryubing@users.noreply.github.com> :: remove build script
+2026-08-07T21:34:05.433Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: polish the CI matrix
