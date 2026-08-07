@@ -12240,3 +12240,4 @@
 2026-08-07T03:59:21.139Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up error handling
 2026-08-07T05:23:45.702Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up null check
 2026-08-07T07:29:13.861Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove dead code
+2026-08-07T09:14:46.244Z Arduino <arduino@users.noreply.github.com> :: wire up cache keys
