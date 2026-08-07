@@ -12248,3 +12248,4 @@
 2026-08-07T14:25:49.739Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor the parser
 2026-08-07T14:40:14.903Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix the CI matrix
 2026-08-07T17:47:28.723Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix edge case in auth
+2026-08-07T17:51:24.712Z David Fowler <davidfowl@users.noreply.github.com> :: update logging
