@@ -12235,3 +12235,4 @@
 2026-08-07T01:04:45.264Z md-5 <md-5@users.noreply.github.com> :: tweak flaky test
 2026-08-07T01:41:04.462Z Odi <mathdroid@users.noreply.github.com> :: tweak flaky test
 2026-08-07T02:30:13.569Z David Clark <nullptrException100@users.noreply.github.com> :: tweak the CI matrix
+2026-08-07T03:13:16.481Z AI4Bhārat <opensource@ai4bharat.org> :: remove readme typo
