@@ -12247,3 +12247,4 @@
 2026-08-07T13:25:07.112Z Rafal <RafalW3bCraft@users.noreply.github.com> :: update error handling
 2026-08-07T14:25:49.739Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor the parser
 2026-08-07T14:40:14.903Z Ivan Volkov <Chitus@users.noreply.github.com> :: fix the CI matrix
+2026-08-07T17:47:28.723Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: fix edge case in auth
