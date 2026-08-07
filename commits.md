@@ -12238,3 +12238,4 @@
 2026-08-07T03:13:16.481Z AI4Bhārat <opensource@ai4bharat.org> :: remove readme typo
 2026-08-07T03:41:41.850Z 劉強東 <liangjingkanji@users.noreply.github.com> :: clean up flaky test
 2026-08-07T03:59:21.139Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: clean up error handling
+2026-08-07T05:23:45.702Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up null check
