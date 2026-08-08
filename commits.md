@@ -12274,3 +12274,4 @@
 2026-08-08T13:18:52.402Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up cache keys
 2026-08-08T15:31:51.410Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add readme typo
 2026-08-08T18:04:51.940Z Rei <chloerei@users.noreply.github.com> :: bump config defaults
+2026-08-08T18:55:22.429Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update build script
