@@ -12263,3 +12263,4 @@
 2026-08-08T05:07:02.993Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update cache keys
 2026-08-08T06:34:01.880Z AI4Bhārat <opensource@ai4bharat.org> :: tweak null check
 2026-08-08T06:40:20.899Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up edge case in auth
+2026-08-08T07:21:52.972Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove dependency versions
