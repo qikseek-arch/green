@@ -12257,3 +12257,4 @@
 2026-08-08T01:04:09.241Z Shubs <infosec-au@users.noreply.github.com> :: add readme typo
 2026-08-08T02:25:52.449Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add the CI matrix
 2026-08-08T02:57:16.561Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update dead code
+2026-08-08T03:01:26.416Z Sachin Soni <techiesms@users.noreply.github.com> :: remove readme typo
