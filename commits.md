@@ -901,3 +901,4 @@
 2026-08-08T01:17:21.397Z Philipp Schmid <philschmid@users.noreply.github.com> :: tweak the CI matrix
 2026-08-08T01:18:10.113Z Jimmy Song <rootsongjc@users.noreply.github.com> :: fix error handling
 2026-08-08T03:53:35.279Z Mark Murphy <commonsguy@users.noreply.github.com> :: remove edge case in auth
+2026-08-08T04:42:15.377Z 4Geeks Academy <info@4geeksacademy.com> :: tweak config defaults
