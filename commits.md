@@ -12278,3 +12278,4 @@
 2026-08-08T19:35:35.934Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
 2026-08-08T19:36:37.268Z Shubs <infosec-au@users.noreply.github.com> :: update logging
 2026-08-08T20:27:36.438Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up config defaults
+2026-08-08T20:40:33.546Z Fady Farag <iidmsa@users.noreply.github.com> :: clean up build script
