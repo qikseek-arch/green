@@ -12283,3 +12283,4 @@
 2026-08-08T21:39:25.916Z Damian Dulisz <shentao@users.noreply.github.com> :: update config defaults
 2026-08-08T21:41:28.420Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: clean up cache keys
 2026-08-08T22:41:18.072Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish logging
+2026-08-08T22:45:36.105Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add error handling
