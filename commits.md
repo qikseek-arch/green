@@ -12275,3 +12275,4 @@
 2026-08-08T15:31:51.410Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add readme typo
 2026-08-08T18:04:51.940Z Rei <chloerei@users.noreply.github.com> :: bump config defaults
 2026-08-08T18:55:22.429Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update build script
+2026-08-08T19:35:35.934Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove config defaults
