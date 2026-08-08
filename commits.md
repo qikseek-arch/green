@@ -12255,3 +12255,4 @@
 2026-08-07T23:09:18.957Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish edge case in auth
 2026-08-08T00:59:56.869Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump flaky test
 2026-08-08T01:04:09.241Z Shubs <infosec-au@users.noreply.github.com> :: add readme typo
+2026-08-08T02:25:52.449Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add the CI matrix
