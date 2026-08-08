@@ -899,3 +899,4 @@
 2026-08-06T19:54:48.904Z Ryubing <Ryubing@users.noreply.github.com> :: remove build script
 2026-08-07T21:34:05.433Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: polish the CI matrix
 2026-08-08T01:17:21.397Z Philipp Schmid <philschmid@users.noreply.github.com> :: tweak the CI matrix
+2026-08-08T01:18:10.113Z Jimmy Song <rootsongjc@users.noreply.github.com> :: fix error handling
