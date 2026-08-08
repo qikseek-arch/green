@@ -12267,3 +12267,4 @@
 2026-08-08T09:07:46.033Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up the parser
 2026-08-08T09:08:40.484Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up cache keys
 2026-08-08T09:14:23.993Z 劉強東 <liangjingkanji@users.noreply.github.com> :: wire up error handling
+2026-08-08T11:08:49.441Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove dependency versions
