@@ -12289,3 +12289,4 @@
 2026-08-09T00:41:58.058Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove error handling
 2026-08-09T00:54:37.396Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up cache keys
 2026-08-09T01:38:25.999Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish the CI matrix
+2026-08-09T01:39:41.639Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish retry logic
