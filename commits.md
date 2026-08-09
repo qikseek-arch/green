@@ -12306,3 +12306,4 @@
 2026-08-09T11:30:19.932Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix dependency versions
 2026-08-09T11:52:16.655Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up the CI matrix
 2026-08-09T12:57:17.915Z OpenJS Foundation <info@openjsf.org> :: add config defaults
+2026-08-09T14:14:14.750Z Manu Arora <manuarora700@users.noreply.github.com> :: fix config defaults
