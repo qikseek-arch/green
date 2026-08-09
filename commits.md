@@ -12315,3 +12315,4 @@
 2026-08-09T18:03:01.009Z Fady Farag <iidmsa@users.noreply.github.com> :: remove retry logic
 2026-08-09T19:18:38.522Z heyli <lcxfs1991@users.noreply.github.com> :: tweak the CI matrix
 2026-08-09T19:44:17.160Z Rei <chloerei@users.noreply.github.com> :: tweak the parser
+2026-08-09T20:04:58.956Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add edge case in auth
