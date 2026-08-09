@@ -12295,3 +12295,4 @@
 2026-08-09T05:51:22.242Z AI4Bhārat <opensource@ai4bharat.org> :: polish flaky test
 2026-08-09T06:57:46.508Z SouJunior <wouerner@soujunior.tech> :: fix dependency versions
 2026-08-09T07:24:42.325Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update dependency versions
+2026-08-09T07:34:53.904Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: tweak readme typo
