@@ -12305,3 +12305,4 @@
 2026-08-09T11:15:22.284Z ring04h <ring04h@users.noreply.github.com> :: polish cache keys
 2026-08-09T11:30:19.932Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix dependency versions
 2026-08-09T11:52:16.655Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: clean up the CI matrix
+2026-08-09T12:57:17.915Z OpenJS Foundation <info@openjsf.org> :: add config defaults
