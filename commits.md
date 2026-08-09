@@ -12310,3 +12310,4 @@
 2026-08-09T16:21:23.020Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak retry logic
 2026-08-09T16:21:36.034Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up flaky test
 2026-08-09T16:54:26.759Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish edge case in auth
+2026-08-09T16:59:02.034Z Sadık TURAN <sadikturan@users.noreply.github.com> :: fix the parser
