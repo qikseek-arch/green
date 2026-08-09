@@ -906,3 +906,4 @@
 2026-08-08T21:48:54.947Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: refactor flaky test
 2026-08-08T22:34:56.033Z Holtz Yan <holtzy@users.noreply.github.com> :: wire up logging
 2026-08-09T13:08:48.076Z Ryubing <Ryubing@users.noreply.github.com> :: add the parser
+2026-08-09T21:43:08.316Z Kyler Condran <KylerCondran@users.noreply.github.com> :: wire up edge case in auth
