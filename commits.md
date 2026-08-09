@@ -12286,3 +12286,4 @@
 2026-08-08T22:45:36.105Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add error handling
 2026-08-08T22:45:36.141Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update readme typo
 2026-08-08T23:33:09.163Z qiye <qiyeboy@users.noreply.github.com> :: tweak dependency versions
+2026-08-09T00:41:58.058Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: remove error handling
