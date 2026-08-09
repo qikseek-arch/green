@@ -12290,3 +12290,4 @@
 2026-08-09T00:54:37.396Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: clean up cache keys
 2026-08-09T01:38:25.999Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish the CI matrix
 2026-08-09T01:39:41.639Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish retry logic
+2026-08-09T02:31:38.442Z Aurélien Geron <ageron@users.noreply.github.com> :: fix config defaults
