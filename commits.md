@@ -12313,3 +12313,4 @@
 2026-08-09T16:59:02.034Z Sadık TURAN <sadikturan@users.noreply.github.com> :: fix the parser
 2026-08-09T17:55:02.393Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: tweak edge case in auth
 2026-08-09T18:03:01.009Z Fady Farag <iidmsa@users.noreply.github.com> :: remove retry logic
+2026-08-09T19:18:38.522Z heyli <lcxfs1991@users.noreply.github.com> :: tweak the CI matrix
