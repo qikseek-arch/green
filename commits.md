@@ -12308,3 +12308,4 @@
 2026-08-09T12:57:17.915Z OpenJS Foundation <info@openjsf.org> :: add config defaults
 2026-08-09T14:14:14.750Z Manu Arora <manuarora700@users.noreply.github.com> :: fix config defaults
 2026-08-09T16:21:23.020Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak retry logic
+2026-08-09T16:21:36.034Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up flaky test
