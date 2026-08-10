@@ -12336,3 +12336,4 @@
 2026-08-10T15:33:29.946Z Barret李靖 <barretlee@users.noreply.github.com> :: update cache keys
 2026-08-10T16:13:40.793Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up dependency versions
 2026-08-10T17:52:00.913Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
+2026-08-10T18:38:41.301Z ring04h <ring04h@users.noreply.github.com> :: refactor the parser
