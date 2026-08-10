@@ -12324,3 +12324,4 @@
 2026-08-10T03:46:19.088Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak logging
 2026-08-10T06:33:18.036Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up error handling
 2026-08-10T07:37:55.030Z heyli <lcxfs1991@users.noreply.github.com> :: clean up edge case in auth
+2026-08-10T07:48:02.418Z Odi <mathdroid@users.noreply.github.com> :: wire up the parser
