@@ -12332,3 +12332,4 @@
 2026-08-10T10:33:48.218Z Tim MacDonald <timacdonald@users.noreply.github.com> :: tweak build script
 2026-08-10T13:05:24.919Z vb <Vaibhavs10@users.noreply.github.com> :: polish dependency versions
 2026-08-10T14:37:32.484Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: update dependency versions
+2026-08-10T15:18:27.307Z Taiko Foundation <info@taiko.xyz> :: wire up logging
