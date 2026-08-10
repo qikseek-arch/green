@@ -12337,3 +12337,4 @@
 2026-08-10T16:13:40.793Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: wire up dependency versions
 2026-08-10T17:52:00.913Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
 2026-08-10T18:38:41.301Z ring04h <ring04h@users.noreply.github.com> :: refactor the parser
+2026-08-10T19:24:38.892Z Manu Arora <manuarora700@users.noreply.github.com> :: update config defaults
