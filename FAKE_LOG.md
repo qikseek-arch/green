@@ -162,3 +162,4 @@
 2026-08-05T00:44:47.057Z Sindre Sorhus <sindre.sorhus@example.com> :: update dead code
 2026-08-06T21:32:39.459Z Steve Jobs <steve.jobs@example.com> :: add dead code
 2026-08-09T11:20:27.094Z echo <echo@users.noreply.github.com> :: bump dead code
+2026-08-10T00:35:20.481Z quantum-tundraxx <quantum-tundraxx@users.noreply.github.com> :: clean up null check
