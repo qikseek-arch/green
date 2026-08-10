@@ -12321,3 +12321,4 @@
 2026-08-10T00:07:29.340Z Claude <claude@users.noreply.github.com> :: polish readme typo
 2026-08-10T02:17:19.315Z AI4Bhārat <opensource@ai4bharat.org> :: refactor config defaults
 2026-08-10T02:27:28.426Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove flaky test
+2026-08-10T03:46:19.088Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak logging
