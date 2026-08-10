@@ -12318,3 +12318,4 @@
 2026-08-09T20:04:58.956Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add edge case in auth
 2026-08-09T21:36:49.691Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add dependency versions
 2026-08-09T22:14:24.080Z Getgems <getgems-io@users.noreply.github.com> :: clean up dead code
+2026-08-10T00:07:29.340Z Claude <claude@users.noreply.github.com> :: polish readme typo
