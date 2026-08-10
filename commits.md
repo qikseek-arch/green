@@ -12341,3 +12341,4 @@
 2026-08-10T19:47:42.768Z Jason Zhang <Hackl0us@users.noreply.github.com> :: remove readme typo
 2026-08-10T19:48:00.077Z First Contributions <firstcontributions@gmail.com> :: add dead code
 2026-08-10T19:48:28.151Z Ben Hamner <benhamner@users.noreply.github.com> :: fix the CI matrix
+2026-08-10T20:15:30.849Z Arduino <arduino@users.noreply.github.com> :: remove the parser
