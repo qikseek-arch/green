@@ -12322,3 +12322,4 @@
 2026-08-10T02:17:19.315Z AI4Bhārat <opensource@ai4bharat.org> :: refactor config defaults
 2026-08-10T02:27:28.426Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove flaky test
 2026-08-10T03:46:19.088Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak logging
+2026-08-10T06:33:18.036Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up error handling
