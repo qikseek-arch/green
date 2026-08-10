@@ -577,3 +577,4 @@
 2026-07-24T19:43:20.623Z Kyle Simpson <getify@users.noreply.github.com> :: add edge case in auth
 2026-07-26T10:10:22.699Z Epic Games <EpicGames@users.noreply.github.com> :: refactor retry logic
 2026-07-30T00:52:56.362Z LangChain <support@langchain.dev> :: clean up edge case in auth
+2026-08-10T16:12:50.055Z David Heinemeier Hansson <dhh@users.noreply.github.com> :: update dependency versions
