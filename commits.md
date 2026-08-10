@@ -12330,3 +12330,4 @@
 2026-08-10T10:06:10.624Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up cache keys
 2026-08-10T10:08:18.750Z LILYGO <LilyGO@users.noreply.github.com> :: add retry logic
 2026-08-10T10:33:48.218Z Tim MacDonald <timacdonald@users.noreply.github.com> :: tweak build script
+2026-08-10T13:05:24.919Z vb <Vaibhavs10@users.noreply.github.com> :: polish dependency versions
