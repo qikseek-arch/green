@@ -867,3 +867,4 @@
 2026-08-05T12:38:52.271Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: update build script
 2026-08-09T03:58:48.442Z Bruno Simon <brunosimon@users.noreply.github.com> :: bump null check
 2026-08-09T23:47:13.670Z Tim Pope <tpope@users.noreply.github.com> :: polish edge case in auth
+2026-08-10T06:02:44.298Z Kirat <hkirat@users.noreply.github.com> :: refactor config defaults
