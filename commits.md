@@ -12345,3 +12345,4 @@
 2026-08-10T21:22:29.844Z qiye <qiyeboy@users.noreply.github.com> :: fix edge case in auth
 2026-08-10T23:20:32.560Z Almas Baim <AlmasB@users.noreply.github.com> :: fix cache keys
 2026-08-10T23:22:14.809Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: update config defaults
+2026-08-11T00:52:39.843Z md-5 <md-5@users.noreply.github.com> :: update dependency versions
