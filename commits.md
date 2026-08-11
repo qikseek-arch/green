@@ -12359,3 +12359,4 @@
 2026-08-11T14:58:14.798Z Adam Łucek <ALucek@users.noreply.github.com> :: update error handling
 2026-08-11T15:23:28.101Z Almas Baim <AlmasB@users.noreply.github.com> :: remove cache keys
 2026-08-11T17:14:14.634Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: update config defaults
+2026-08-11T18:13:26.711Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor cache keys
