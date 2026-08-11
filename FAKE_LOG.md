@@ -579,3 +579,4 @@
 2026-07-30T00:52:56.362Z LangChain <support@langchain.dev> :: clean up edge case in auth
 2026-08-10T16:12:50.055Z David Heinemeier Hansson <dhh@users.noreply.github.com> :: update dependency versions
 2026-08-11T05:14:54.014Z Krish C Naik <krishnaik06@users.noreply.github.com> :: tweak null check
+2026-08-11T19:40:38.359Z Anthony Fu <antfu@users.noreply.github.com> :: refactor error handling
