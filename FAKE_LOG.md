@@ -578,3 +578,4 @@
 2026-07-26T10:10:22.699Z Epic Games <EpicGames@users.noreply.github.com> :: refactor retry logic
 2026-07-30T00:52:56.362Z LangChain <support@langchain.dev> :: clean up edge case in auth
 2026-08-10T16:12:50.055Z David Heinemeier Hansson <dhh@users.noreply.github.com> :: update dependency versions
+2026-08-11T05:14:54.014Z Krish C Naik <krishnaik06@users.noreply.github.com> :: tweak null check
