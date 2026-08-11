@@ -283,3 +283,4 @@
 2026-08-04T04:43:45.349Z wisp <wisp@fake.invalid> :: update flaky test
 2026-08-05T16:23:36.187Z lumen <lumen@fake.invalid> :: bump flaky test
 2026-08-07T22:27:29.359Z quill <quill@fake.invalid> :: update dependency versions
+2026-08-11T02:53:10.427Z seraph <seraph@fake.invalid> :: add edge case in auth
