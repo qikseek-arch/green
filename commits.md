@@ -12381,3 +12381,4 @@
 2026-08-12T12:29:04.737Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update null check
 2026-08-12T13:12:02.493Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor readme typo
 2026-08-12T13:14:19.130Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up config defaults
+2026-08-12T15:58:52.602Z Keith Smiley <keith@users.noreply.github.com> :: fix error handling
