@@ -12383,3 +12383,4 @@
 2026-08-12T13:14:19.130Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: clean up config defaults
 2026-08-12T15:58:52.602Z Keith Smiley <keith@users.noreply.github.com> :: fix error handling
 2026-08-12T16:29:25.370Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up edge case in auth
+2026-08-12T16:33:11.407Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up the CI matrix
