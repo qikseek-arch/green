@@ -12378,3 +12378,4 @@
 2026-08-12T09:52:44.704Z David Clark <nullptrException100@users.noreply.github.com> :: refactor build script
 2026-08-12T10:07:41.087Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
 2026-08-12T12:05:13.949Z WebRTC <discuss-webrtc@googlegroups.com> :: fix dead code
+2026-08-12T12:29:04.737Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update null check
