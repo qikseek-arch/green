@@ -381,3 +381,4 @@
 2026-08-04T03:29:03.905Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: clean up readme typo | Co-authored-by: Kyle Simpson <getify@users.noreply.github.com>
 2026-08-05T22:34:56.722Z crimsonsocket916 <crimsonsocket916@fake.invalid> :: bump null check
 2026-08-08T04:59:10.922Z Evan You <evan.you@fake.invalid> :: clean up edge case in auth | Co-authored-by: Keijiro Takahashi <keijiro@users.noreply.github.com>
+2026-08-12T11:22:06.987Z socket_midnight_io <socket_midnight_io@fake.invalid> :: add build script
