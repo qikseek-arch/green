@@ -12373,3 +12373,4 @@
 2026-08-12T02:19:58.608Z AI4Bhārat <opensource@ai4bharat.org> :: fix null check
 2026-08-12T02:21:11.176Z Keith Smiley <keith@users.noreply.github.com> :: update null check
 2026-08-12T02:42:29.815Z Daniel Eden <daneden@users.noreply.github.com> :: tweak null check
+2026-08-12T07:37:21.154Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor error handling
