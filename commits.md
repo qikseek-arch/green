@@ -12374,3 +12374,4 @@
 2026-08-12T02:21:11.176Z Keith Smiley <keith@users.noreply.github.com> :: update null check
 2026-08-12T02:42:29.815Z Daniel Eden <daneden@users.noreply.github.com> :: tweak null check
 2026-08-12T07:37:21.154Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor error handling
+2026-08-12T08:04:24.943Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix null check
