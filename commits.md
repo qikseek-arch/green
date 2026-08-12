@@ -12387,3 +12387,4 @@
 2026-08-12T17:47:52.254Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor edge case in auth
 2026-08-12T20:20:18.413Z AI4Bhārat <opensource@ai4bharat.org> :: remove cache keys
 2026-08-12T22:14:40.300Z SouJunior <wouerner@soujunior.tech> :: refactor logging
+2026-08-12T22:41:58.768Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish the CI matrix
