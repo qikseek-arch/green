@@ -12369,3 +12369,4 @@
 2026-08-11T23:32:35.095Z owenzhang <owenzhang@users.noreply.github.com> :: clean up logging
 2026-08-12T00:06:52.510Z Rodrigo Pombo <pomber@users.noreply.github.com> :: refactor flaky test
 2026-08-12T01:08:13.169Z Martin Grenfell <scrooloose@users.noreply.github.com> :: add error handling
+2026-08-12T01:28:36.079Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor config defaults
