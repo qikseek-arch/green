@@ -12379,3 +12379,4 @@
 2026-08-12T10:07:41.087Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
 2026-08-12T12:05:13.949Z WebRTC <discuss-webrtc@googlegroups.com> :: fix dead code
 2026-08-12T12:29:04.737Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update null check
+2026-08-12T13:12:02.493Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: refactor readme typo
