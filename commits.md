@@ -913,3 +913,4 @@
 2026-08-11T09:26:31.976Z Draven <draveness@users.noreply.github.com> :: refactor retry logic
 2026-08-12T14:53:21.826Z HashLips <HashLips@users.noreply.github.com> :: wire up readme typo
 2026-08-12T20:22:58.083Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: refactor retry logic
+2026-08-12T22:44:06.903Z Philipp Schmid <philschmid@users.noreply.github.com> :: polish build script
