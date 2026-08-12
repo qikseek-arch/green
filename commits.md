@@ -12376,3 +12376,4 @@
 2026-08-12T07:37:21.154Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor error handling
 2026-08-12T08:04:24.943Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix null check
 2026-08-12T09:52:44.704Z David Clark <nullptrException100@users.noreply.github.com> :: refactor build script
+2026-08-12T10:07:41.087Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
