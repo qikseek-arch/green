@@ -12389,3 +12389,4 @@
 2026-08-12T22:14:40.300Z SouJunior <wouerner@soujunior.tech> :: refactor logging
 2026-08-12T22:41:58.768Z Selenium <SeleniumHQ@users.noreply.github.com> :: polish the CI matrix
 2026-08-12T23:14:35.432Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor edge case in auth
+2026-08-12T23:19:03.394Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor the parser
