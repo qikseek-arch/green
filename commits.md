@@ -12384,3 +12384,4 @@
 2026-08-12T15:58:52.602Z Keith Smiley <keith@users.noreply.github.com> :: fix error handling
 2026-08-12T16:29:25.370Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up edge case in auth
 2026-08-12T16:33:11.407Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up the CI matrix
+2026-08-12T17:47:52.254Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor edge case in auth
