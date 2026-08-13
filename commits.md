@@ -12394,3 +12394,4 @@
 2026-08-13T00:11:07.706Z markqvist <markqvist@users.noreply.github.com> :: fix readme typo
 2026-08-13T01:08:45.193Z Damian Dulisz <shentao@users.noreply.github.com> :: fix build script
 2026-08-13T02:04:07.967Z vb <Vaibhavs10@users.noreply.github.com> :: wire up retry logic
+2026-08-13T02:19:41.600Z markqvist <markqvist@users.noreply.github.com> :: add edge case in auth
