@@ -12399,3 +12399,4 @@
 2026-08-13T02:52:18.128Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump build script
 2026-08-13T03:03:14.657Z First Contributions <firstcontributions@gmail.com> :: tweak logging
 2026-08-13T05:28:03.084Z markqvist <markqvist@users.noreply.github.com> :: fix cache keys
+2026-08-13T08:33:51.900Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish error handling
