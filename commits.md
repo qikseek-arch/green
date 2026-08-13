@@ -12416,3 +12416,4 @@
 2026-08-13T18:27:40.467Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
 2026-08-13T20:00:11.800Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update null check
 2026-08-13T20:35:35.763Z ㅤxander <vampirist@users.noreply.github.com> :: bump flaky test
+2026-08-13T21:09:39.353Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: clean up error handling
