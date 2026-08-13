@@ -916,3 +916,4 @@
 2026-08-12T22:44:06.903Z Philipp Schmid <philschmid@users.noreply.github.com> :: polish build script
 2026-08-12T23:05:44.085Z Jimmy Song <rootsongjc@users.noreply.github.com> :: remove the parser
 2026-08-13T01:05:05.517Z MASSGRAVE <massgravel@users.noreply.github.com> :: wire up build script
+2026-08-13T01:43:44.581Z Colt Steele <Colt@users.noreply.github.com> :: clean up logging
