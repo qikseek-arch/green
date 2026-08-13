@@ -581,3 +581,4 @@
 2026-08-11T05:14:54.014Z Krish C Naik <krishnaik06@users.noreply.github.com> :: tweak null check
 2026-08-11T19:40:38.359Z Anthony Fu <antfu@users.noreply.github.com> :: refactor error handling
 2026-08-13T05:15:21.193Z Datawhale <datawhalechina@users.noreply.github.com> :: fix dead code
+2026-08-13T15:24:36.364Z Andrej <karpathy@users.noreply.github.com> :: bump config defaults
