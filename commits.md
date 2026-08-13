@@ -12405,3 +12405,4 @@
 2026-08-13T09:56:49.569Z Manu Arora <manuarora700@users.noreply.github.com> :: update readme typo
 2026-08-13T09:59:04.391Z SouJunior <wouerner@soujunior.tech> :: fix build script
 2026-08-13T12:08:15.093Z owenzhang <owenzhang@users.noreply.github.com> :: clean up config defaults
+2026-08-13T12:43:26.702Z Keith Smiley <keith@users.noreply.github.com> :: clean up null check
