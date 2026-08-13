@@ -12391,3 +12391,4 @@
 2026-08-12T23:14:35.432Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor edge case in auth
 2026-08-12T23:19:03.394Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor the parser
 2026-08-13T00:04:01.801Z owenzhang <owenzhang@users.noreply.github.com> :: update readme typo
+2026-08-13T00:11:07.706Z markqvist <markqvist@users.noreply.github.com> :: fix readme typo
