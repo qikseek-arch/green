@@ -12414,3 +12414,4 @@
 2026-08-13T17:19:35.193Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish dead code
 2026-08-13T17:56:33.726Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add cache keys
 2026-08-13T18:27:40.467Z md-5 <md-5@users.noreply.github.com> :: polish edge case in auth
+2026-08-13T20:00:11.800Z Martin Grenfell <scrooloose@users.noreply.github.com> :: update null check
