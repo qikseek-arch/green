@@ -12409,3 +12409,4 @@
 2026-08-13T12:58:40.089Z AI4Bhārat <opensource@ai4bharat.org> :: add cache keys
 2026-08-13T13:04:30.170Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add retry logic
 2026-08-13T16:45:41.792Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add cache keys
+2026-08-13T17:04:10.793Z Rei <chloerei@users.noreply.github.com> :: add build script
