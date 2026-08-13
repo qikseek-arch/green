@@ -12401,3 +12401,4 @@
 2026-08-13T05:28:03.084Z markqvist <markqvist@users.noreply.github.com> :: fix cache keys
 2026-08-13T08:33:51.900Z Thomas Dohmke <ashtom@users.noreply.github.com> :: polish error handling
 2026-08-13T08:42:24.237Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up the CI matrix
+2026-08-13T09:56:35.397Z LILYGO <LilyGO@users.noreply.github.com> :: polish retry logic
