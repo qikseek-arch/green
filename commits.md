@@ -12403,3 +12403,4 @@
 2026-08-13T08:42:24.237Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up the CI matrix
 2026-08-13T09:56:35.397Z LILYGO <LilyGO@users.noreply.github.com> :: polish retry logic
 2026-08-13T09:56:49.569Z Manu Arora <manuarora700@users.noreply.github.com> :: update readme typo
+2026-08-13T09:59:04.391Z SouJunior <wouerner@soujunior.tech> :: fix build script
