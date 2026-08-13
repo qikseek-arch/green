@@ -12412,3 +12412,4 @@
 2026-08-13T17:04:10.793Z Rei <chloerei@users.noreply.github.com> :: add build script
 2026-08-13T17:10:15.268Z David Clark <nullptrException100@users.noreply.github.com> :: update edge case in auth
 2026-08-13T17:19:35.193Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: polish dead code
+2026-08-13T17:56:33.726Z Daniel Öster <dalathegreat@users.noreply.github.com> :: add cache keys
