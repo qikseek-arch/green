@@ -12434,3 +12434,4 @@
 2026-08-14T05:15:57.701Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
 2026-08-14T05:51:05.918Z Aurélien Geron <ageron@users.noreply.github.com> :: polish retry logic
 2026-08-14T07:11:01.527Z Adam Łucek <ALucek@users.noreply.github.com> :: polish edge case in auth
+2026-08-14T08:02:10.652Z ㅤxander <vampirist@users.noreply.github.com> :: add edge case in auth
