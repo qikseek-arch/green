@@ -12436,3 +12436,4 @@
 2026-08-14T07:11:01.527Z Adam Łucek <ALucek@users.noreply.github.com> :: polish edge case in auth
 2026-08-14T08:02:10.652Z ㅤxander <vampirist@users.noreply.github.com> :: add edge case in auth
 2026-08-14T10:34:21.580Z ㅤxander <vampirist@users.noreply.github.com> :: refactor retry logic
+2026-08-14T11:08:18.801Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak retry logic
