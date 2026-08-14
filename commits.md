@@ -12438,3 +12438,4 @@
 2026-08-14T10:34:21.580Z ㅤxander <vampirist@users.noreply.github.com> :: refactor retry logic
 2026-08-14T11:08:18.801Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak retry logic
 2026-08-14T11:45:32.559Z Shubs <infosec-au@users.noreply.github.com> :: bump retry logic
+2026-08-14T12:19:26.043Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix build script
