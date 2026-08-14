@@ -12430,3 +12430,4 @@
 2026-08-14T03:13:24.872Z Getgems <getgems-io@users.noreply.github.com> :: bump retry logic
 2026-08-14T03:28:13.194Z Adam Łucek <ALucek@users.noreply.github.com> :: fix logging
 2026-08-14T04:02:57.967Z Jason Zhang <Hackl0us@users.noreply.github.com> :: clean up readme typo
+2026-08-14T04:33:21.735Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix edge case in auth
