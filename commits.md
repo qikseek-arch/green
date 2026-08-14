@@ -12445,3 +12445,4 @@
 2026-08-14T16:03:34.590Z Aurélien Geron <ageron@users.noreply.github.com> :: remove dead code
 2026-08-14T16:38:51.182Z Getgems <getgems-io@users.noreply.github.com> :: fix cache keys
 2026-08-14T16:50:40.738Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: clean up dependency versions
+2026-08-14T18:51:26.319Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: wire up the CI matrix
