@@ -12422,3 +12422,4 @@
 2026-08-13T22:13:07.160Z Manu Arora <manuarora700@users.noreply.github.com> :: update edge case in auth
 2026-08-13T22:15:00.197Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update build script
 2026-08-13T23:23:57.973Z heyli <lcxfs1991@users.noreply.github.com> :: tweak logging
+2026-08-14T00:16:19.722Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove dependency versions
