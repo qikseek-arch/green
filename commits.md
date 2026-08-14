@@ -12428,3 +12428,4 @@
 2026-08-14T01:25:55.192Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump flaky test
 2026-08-14T01:35:21.651Z Taiko Foundation <info@taiko.xyz> :: tweak error handling
 2026-08-14T03:13:24.872Z Getgems <getgems-io@users.noreply.github.com> :: bump retry logic
+2026-08-14T03:28:13.194Z Adam Łucek <ALucek@users.noreply.github.com> :: fix logging
