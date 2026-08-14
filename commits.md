@@ -12437,3 +12437,4 @@
 2026-08-14T08:02:10.652Z ㅤxander <vampirist@users.noreply.github.com> :: add edge case in auth
 2026-08-14T10:34:21.580Z ㅤxander <vampirist@users.noreply.github.com> :: refactor retry logic
 2026-08-14T11:08:18.801Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak retry logic
+2026-08-14T11:45:32.559Z Shubs <infosec-au@users.noreply.github.com> :: bump retry logic
