@@ -12441,3 +12441,4 @@
 2026-08-14T12:19:26.043Z Rodrigo Pombo <pomber@users.noreply.github.com> :: fix build script
 2026-08-14T13:57:38.339Z Getgems <getgems-io@users.noreply.github.com> :: add logging
 2026-08-14T15:26:15.417Z Tim Großmann <timgrossmann@users.noreply.github.com> :: polish cache keys
+2026-08-14T15:50:37.039Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add the parser
