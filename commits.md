@@ -12427,3 +12427,4 @@
 2026-08-14T01:24:29.356Z BBC <bbc@users.noreply.github.com> :: clean up the parser
 2026-08-14T01:25:55.192Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump flaky test
 2026-08-14T01:35:21.651Z Taiko Foundation <info@taiko.xyz> :: tweak error handling
+2026-08-14T03:13:24.872Z Getgems <getgems-io@users.noreply.github.com> :: bump retry logic
