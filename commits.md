@@ -918,3 +918,4 @@
 2026-08-13T01:05:05.517Z MASSGRAVE <massgravel@users.noreply.github.com> :: wire up build script
 2026-08-13T01:43:44.581Z Colt Steele <Colt@users.noreply.github.com> :: clean up logging
 2026-08-13T12:38:23.201Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: clean up dead code
+2026-08-15T02:54:37.038Z Ovilia <Ovilia@users.noreply.github.com> :: fix retry logic
