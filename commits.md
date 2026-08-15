@@ -12474,3 +12474,4 @@
 2026-08-15T16:41:23.950Z ⠀ <destroy-boys@users.noreply.github.com> :: polish null check
 2026-08-15T17:28:42.242Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up readme typo
 2026-08-15T17:33:59.566Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump config defaults
+2026-08-15T18:19:08.595Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor error handling
