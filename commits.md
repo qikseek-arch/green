@@ -12456,3 +12456,4 @@
 2026-08-15T02:46:14.825Z LILYGO <LilyGO@users.noreply.github.com> :: add edge case in auth
 2026-08-15T04:57:00.660Z 如何翻墙 <bannedbook@users.noreply.github.com> :: tweak readme typo
 2026-08-15T06:27:29.187Z Getgems <getgems-io@users.noreply.github.com> :: wire up edge case in auth
+2026-08-15T06:31:34.803Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix error handling
