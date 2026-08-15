@@ -12453,3 +12453,4 @@
 2026-08-14T23:22:57.593Z LILYGO <LilyGO@users.noreply.github.com> :: tweak dependency versions
 2026-08-14T23:40:26.416Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the parser
 2026-08-15T01:29:39.347Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: bump edge case in auth
+2026-08-15T02:46:14.825Z LILYGO <LilyGO@users.noreply.github.com> :: add edge case in auth
