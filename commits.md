@@ -12480,3 +12480,4 @@
 2026-08-15T22:50:22.356Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update retry logic
 2026-08-15T23:14:15.995Z Getgems <getgems-io@users.noreply.github.com> :: wire up cache keys
 2026-08-15T23:24:32.534Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up edge case in auth
+2026-08-15T23:32:38.954Z Getgems <getgems-io@users.noreply.github.com> :: update logging
