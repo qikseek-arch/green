@@ -12479,3 +12479,4 @@
 2026-08-15T19:56:32.257Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor retry logic
 2026-08-15T22:50:22.356Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update retry logic
 2026-08-15T23:14:15.995Z Getgems <getgems-io@users.noreply.github.com> :: wire up cache keys
+2026-08-15T23:24:32.534Z Fady Farag <iidmsa@users.noreply.github.com> :: wire up edge case in auth
