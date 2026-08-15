@@ -920,3 +920,4 @@
 2026-08-13T12:38:23.201Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: clean up dead code
 2026-08-15T02:54:37.038Z Ovilia <Ovilia@users.noreply.github.com> :: fix retry logic
 2026-08-15T05:55:37.323Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up dependency versions
+2026-08-15T13:29:36.650Z xer0dayz <1N3@users.noreply.github.com> :: bump error handling
