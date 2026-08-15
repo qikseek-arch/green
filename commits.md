@@ -12476,3 +12476,4 @@
 2026-08-15T17:33:59.566Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump config defaults
 2026-08-15T18:19:08.595Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor error handling
 2026-08-15T19:19:30.137Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: tweak error handling
+2026-08-15T19:56:32.257Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor retry logic
