@@ -12471,3 +12471,4 @@
 2026-08-15T12:31:39.070Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor the CI matrix
 2026-08-15T12:49:17.091Z qiye <qiyeboy@users.noreply.github.com> :: refactor dead code
 2026-08-15T15:43:33.752Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update edge case in auth
+2026-08-15T16:41:23.950Z ⠀ <destroy-boys@users.noreply.github.com> :: polish null check
