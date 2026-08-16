@@ -12502,3 +12502,4 @@
 2026-08-16T21:08:07.151Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the CI matrix
 2026-08-16T21:39:10.364Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up the CI matrix
 2026-08-16T21:53:37.858Z md-5 <md-5@users.noreply.github.com> :: bump dead code
+2026-08-16T22:51:55.357Z Shubs <infosec-au@users.noreply.github.com> :: update the parser
