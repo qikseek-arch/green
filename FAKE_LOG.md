@@ -164,3 +164,4 @@
 2026-08-09T11:20:27.094Z echo <echo@users.noreply.github.com> :: bump dead code
 2026-08-10T00:35:20.481Z quantum-tundraxx <quantum-tundraxx@users.noreply.github.com> :: clean up null check
 2026-08-12T06:02:52.634Z Ryan Dahl <ryan.dahl@example.com> :: wire up retry logic
+2026-08-16T02:31:46.541Z Donald Knuth <donald.knuth@example.com> :: bump error handling
