@@ -12500,3 +12500,4 @@
 2026-08-16T18:35:45.258Z owenzhang <owenzhang@users.noreply.github.com> :: clean up logging
 2026-08-16T18:53:11.575Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor edge case in auth
 2026-08-16T21:08:07.151Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up the CI matrix
+2026-08-16T21:39:10.364Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: wire up the CI matrix
