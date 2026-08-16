@@ -924,3 +924,4 @@
 2026-08-15T18:58:27.072Z t11s <transmissions11@users.noreply.github.com> :: tweak retry logic
 2026-08-15T22:33:36.124Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: add cache keys
 2026-08-16T01:58:48.522Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: bump the CI matrix
+2026-08-16T07:25:51.079Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: polish readme typo
