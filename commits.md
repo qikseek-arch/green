@@ -12487,3 +12487,4 @@
 2026-08-16T04:06:14.922Z markqvist <markqvist@users.noreply.github.com> :: add flaky test
 2026-08-16T04:37:05.147Z Arduino <arduino@users.noreply.github.com> :: remove edge case in auth
 2026-08-16T08:32:27.651Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update flaky test
+2026-08-16T09:29:33.934Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up edge case in auth
