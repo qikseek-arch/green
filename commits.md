@@ -12498,3 +12498,4 @@
 2026-08-16T16:44:36.369Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add flaky test
 2026-08-16T17:15:14.007Z Sachin Soni <techiesms@users.noreply.github.com> :: fix the CI matrix
 2026-08-16T18:35:45.258Z owenzhang <owenzhang@users.noreply.github.com> :: clean up logging
+2026-08-16T18:53:11.575Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor edge case in auth
