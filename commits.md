@@ -12527,3 +12527,4 @@
 2026-08-17T20:11:57.408Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update build script
 2026-08-17T21:24:26.957Z Adam Łucek <ALucek@users.noreply.github.com> :: fix error handling
 2026-08-17T22:28:50.012Z markqvist <markqvist@users.noreply.github.com> :: fix readme typo
+2026-08-17T22:33:44.387Z Keith Smiley <keith@users.noreply.github.com> :: refactor error handling
