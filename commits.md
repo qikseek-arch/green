@@ -12507,3 +12507,4 @@
 2026-08-17T02:48:03.389Z Arduino <arduino@users.noreply.github.com> :: update build script
 2026-08-17T05:29:45.294Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump readme typo
 2026-08-17T05:37:29.986Z Qwen <qianwen_opensource@alibabacloud.com> :: refactor error handling
+2026-08-17T06:32:20.066Z LILYGO <LilyGO@users.noreply.github.com> :: update readme typo
