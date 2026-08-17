@@ -12528,3 +12528,4 @@
 2026-08-17T21:24:26.957Z Adam Łucek <ALucek@users.noreply.github.com> :: fix error handling
 2026-08-17T22:28:50.012Z markqvist <markqvist@users.noreply.github.com> :: fix readme typo
 2026-08-17T22:33:44.387Z Keith Smiley <keith@users.noreply.github.com> :: refactor error handling
+2026-08-17T23:10:33.098Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor error handling
