@@ -12517,3 +12517,4 @@
 2026-08-17T12:33:13.436Z CTFs <ctfs@users.noreply.github.com> :: refactor retry logic
 2026-08-17T13:09:49.376Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: remove retry logic
 2026-08-17T13:47:19.489Z Ryan Bigg <radar@users.noreply.github.com> :: update the parser
+2026-08-17T13:53:23.908Z Sachin Soni <techiesms@users.noreply.github.com> :: refactor readme typo
