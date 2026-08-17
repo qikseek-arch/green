@@ -12526,3 +12526,4 @@
 2026-08-17T19:57:53.639Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak the CI matrix
 2026-08-17T20:11:57.408Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: update build script
 2026-08-17T21:24:26.957Z Adam Łucek <ALucek@users.noreply.github.com> :: fix error handling
+2026-08-17T22:28:50.012Z markqvist <markqvist@users.noreply.github.com> :: fix readme typo
