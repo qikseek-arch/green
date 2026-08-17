@@ -12523,3 +12523,4 @@
 2026-08-17T17:33:38.311Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish readme typo
 2026-08-17T18:40:02.286Z Taiko Foundation <info@taiko.xyz> :: bump edge case in auth
 2026-08-17T18:59:48.009Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: add cache keys
+2026-08-17T19:57:53.639Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak the CI matrix
