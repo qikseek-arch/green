@@ -12530,3 +12530,4 @@
 2026-08-17T22:33:44.387Z Keith Smiley <keith@users.noreply.github.com> :: refactor error handling
 2026-08-17T23:10:33.098Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor error handling
 2026-08-17T23:16:08.193Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump dependency versions
+2026-08-17T23:36:26.282Z markqvist <markqvist@users.noreply.github.com> :: clean up edge case in auth
