@@ -12512,3 +12512,4 @@
 2026-08-17T09:41:12.281Z vb <Vaibhavs10@users.noreply.github.com> :: bump cache keys
 2026-08-17T10:02:06.674Z Arduino <arduino@users.noreply.github.com> :: wire up cache keys
 2026-08-17T10:39:52.521Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
+2026-08-17T10:45:18.006Z markqvist <markqvist@users.noreply.github.com> :: wire up null check
