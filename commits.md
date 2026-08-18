@@ -12538,3 +12538,4 @@
 2026-08-18T01:40:43.265Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up cache keys
 2026-08-18T01:46:27.328Z RISC-V <info@riscv.org> :: add the CI matrix
 2026-08-18T05:03:05.097Z ㅤxander <vampirist@users.noreply.github.com> :: bump logging
+2026-08-18T05:31:04.959Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
