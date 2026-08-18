@@ -12552,3 +12552,4 @@
 2026-08-18T11:27:29.875Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix build script
 2026-08-18T11:43:06.104Z AI4Bhārat <opensource@ai4bharat.org> :: wire up flaky test
 2026-08-18T12:40:44.707Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump flaky test
+2026-08-18T13:32:49.245Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove retry logic
