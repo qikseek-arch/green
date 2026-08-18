@@ -12533,3 +12533,4 @@
 2026-08-17T23:36:26.282Z markqvist <markqvist@users.noreply.github.com> :: clean up edge case in auth
 2026-08-18T00:01:19.413Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: polish readme typo
 2026-08-18T00:44:01.928Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update dependency versions
+2026-08-18T01:06:39.362Z markqvist <markqvist@users.noreply.github.com> :: fix logging
