@@ -12536,3 +12536,4 @@
 2026-08-18T01:06:39.362Z markqvist <markqvist@users.noreply.github.com> :: fix logging
 2026-08-18T01:11:19.871Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up readme typo
 2026-08-18T01:40:43.265Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: clean up cache keys
+2026-08-18T01:46:27.328Z RISC-V <info@riscv.org> :: add the CI matrix
