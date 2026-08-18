@@ -12566,3 +12566,4 @@
 2026-08-18T18:11:14.167Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update flaky test
 2026-08-18T18:15:12.834Z RISC-V <info@riscv.org> :: update null check
 2026-08-18T18:47:59.662Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish error handling
+2026-08-18T21:12:51.842Z Ryan Bigg <radar@users.noreply.github.com> :: clean up logging
