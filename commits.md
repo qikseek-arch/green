@@ -12549,3 +12549,4 @@
 2026-08-18T10:03:10.816Z ㅤxander <vampirist@users.noreply.github.com> :: fix config defaults
 2026-08-18T10:19:57.744Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
 2026-08-18T11:00:33.513Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: bump readme typo
+2026-08-18T11:27:29.875Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix build script
