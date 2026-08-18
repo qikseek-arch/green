@@ -12555,3 +12555,4 @@
 2026-08-18T13:32:49.245Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: remove retry logic
 2026-08-18T13:34:16.070Z qiye <qiyeboy@users.noreply.github.com> :: add the parser
 2026-08-18T14:08:10.325Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
+2026-08-18T14:28:40.535Z 劉強東 <liangjingkanji@users.noreply.github.com> :: remove the CI matrix
