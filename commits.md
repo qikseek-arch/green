@@ -12561,3 +12561,4 @@
 2026-08-18T15:24:55.265Z Selenium <SeleniumHQ@users.noreply.github.com> :: add error handling
 2026-08-18T16:52:10.190Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove logging
 2026-08-18T17:04:33.601Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update the parser
+2026-08-18T17:09:36.063Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish readme typo
