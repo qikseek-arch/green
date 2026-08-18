@@ -12539,3 +12539,4 @@
 2026-08-18T01:46:27.328Z RISC-V <info@riscv.org> :: add the CI matrix
 2026-08-18T05:03:05.097Z ㅤxander <vampirist@users.noreply.github.com> :: bump logging
 2026-08-18T05:31:04.959Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
+2026-08-18T06:19:11.064Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak edge case in auth
