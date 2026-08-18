@@ -12542,3 +12542,4 @@
 2026-08-18T06:19:11.064Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak edge case in auth
 2026-08-18T06:33:16.189Z Arduino <arduino@users.noreply.github.com> :: wire up error handling
 2026-08-18T06:47:46.643Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up error handling
+2026-08-18T08:39:48.534Z markqvist <markqvist@users.noreply.github.com> :: update build script
