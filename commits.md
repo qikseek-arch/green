@@ -12559,3 +12559,4 @@
 2026-08-18T14:39:30.787Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix the parser
 2026-08-18T14:50:55.796Z Damian Dulisz <shentao@users.noreply.github.com> :: tweak error handling
 2026-08-18T15:24:55.265Z Selenium <SeleniumHQ@users.noreply.github.com> :: add error handling
+2026-08-18T16:52:10.190Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: remove logging
