@@ -167,3 +167,4 @@
 2026-08-16T02:31:46.541Z Donald Knuth <donald.knuth@example.com> :: bump error handling
 2026-08-16T08:08:19.794Z CosmicLlama <cosmicllama@users.noreply.github.com> :: bump null check
 2026-08-17T08:53:59.556Z Marie Curie <marie.curie@example.com> :: clean up the parser
+2026-08-18T05:34:21.968Z vulture_hyper <vulture_hyper@users.noreply.github.com> :: fix cache keys
