@@ -12567,3 +12567,4 @@
 2026-08-18T18:15:12.834Z RISC-V <info@riscv.org> :: update null check
 2026-08-18T18:47:59.662Z Inanc Gumus <inancgumus@users.noreply.github.com> :: polish error handling
 2026-08-18T21:12:51.842Z Ryan Bigg <radar@users.noreply.github.com> :: clean up logging
+2026-08-18T21:34:44.088Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: update the CI matrix
