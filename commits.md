@@ -12594,3 +12594,4 @@
 2026-08-19T17:41:01.110Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the CI matrix
 2026-08-19T17:45:21.014Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish readme typo
 2026-08-19T19:27:47.317Z owenzhang <owenzhang@users.noreply.github.com> :: fix error handling
+2026-08-19T20:49:41.168Z md-5 <md-5@users.noreply.github.com> :: add config defaults
