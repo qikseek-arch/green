@@ -12585,3 +12585,4 @@
 2026-08-19T13:08:19.573Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish config defaults
 2026-08-19T13:35:21.742Z Adam Łucek <ALucek@users.noreply.github.com> :: bump dependency versions
 2026-08-19T13:45:23.318Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove build script
+2026-08-19T15:18:58.471Z md-5 <md-5@users.noreply.github.com> :: wire up the CI matrix
