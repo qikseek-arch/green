@@ -12586,3 +12586,4 @@
 2026-08-19T13:35:21.742Z Adam Łucek <ALucek@users.noreply.github.com> :: bump dependency versions
 2026-08-19T13:45:23.318Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove build script
 2026-08-19T15:18:58.471Z md-5 <md-5@users.noreply.github.com> :: wire up the CI matrix
+2026-08-19T16:08:58.312Z LILYGO <LilyGO@users.noreply.github.com> :: polish edge case in auth
