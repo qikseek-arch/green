@@ -12575,3 +12575,4 @@
 2026-08-19T04:28:27.962Z First Contributions <firstcontributions@gmail.com> :: wire up config defaults
 2026-08-19T04:53:26.145Z ㅤxander <vampirist@users.noreply.github.com> :: polish retry logic
 2026-08-19T05:16:55.108Z ring04h <ring04h@users.noreply.github.com> :: remove build script
+2026-08-19T06:30:15.165Z Shubs <infosec-au@users.noreply.github.com> :: add dependency versions
