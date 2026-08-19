@@ -12577,3 +12577,4 @@
 2026-08-19T05:16:55.108Z ring04h <ring04h@users.noreply.github.com> :: remove build script
 2026-08-19T06:30:15.165Z Shubs <infosec-au@users.noreply.github.com> :: add dependency versions
 2026-08-19T07:03:52.573Z Shubs <infosec-au@users.noreply.github.com> :: fix config defaults
+2026-08-19T07:49:43.783Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
