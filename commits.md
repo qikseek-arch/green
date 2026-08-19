@@ -12589,3 +12589,4 @@
 2026-08-19T16:08:58.312Z LILYGO <LilyGO@users.noreply.github.com> :: polish edge case in auth
 2026-08-19T16:12:45.753Z Odi <mathdroid@users.noreply.github.com> :: bump null check
 2026-08-19T16:16:10.874Z Keith Smiley <keith@users.noreply.github.com> :: polish dependency versions
+2026-08-19T17:00:43.134Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump edge case in auth
