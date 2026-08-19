@@ -12581,3 +12581,4 @@
 2026-08-19T08:03:22.276Z David Clark <nullptrException100@users.noreply.github.com> :: fix build script
 2026-08-19T10:25:06.305Z Daniel Eden <daneden@users.noreply.github.com> :: wire up config defaults
 2026-08-19T11:06:35.814Z Claude <claude@users.noreply.github.com> :: clean up config defaults
+2026-08-19T13:01:30.793Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix edge case in auth
