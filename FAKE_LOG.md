@@ -870,3 +870,4 @@
 2026-08-10T06:02:44.298Z Kirat <hkirat@users.noreply.github.com> :: refactor config defaults
 2026-08-16T03:05:34.619Z Ben Awad <benawad@users.noreply.github.com> :: polish cache keys
 2026-08-18T22:54:36.903Z Anthony Fu <antfu@users.noreply.github.com> :: tweak build script
+2026-08-19T04:37:37.694Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: remove the CI matrix
