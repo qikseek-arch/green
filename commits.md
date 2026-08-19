@@ -12580,3 +12580,4 @@
 2026-08-19T07:49:43.783Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak null check
 2026-08-19T08:03:22.276Z David Clark <nullptrException100@users.noreply.github.com> :: fix build script
 2026-08-19T10:25:06.305Z Daniel Eden <daneden@users.noreply.github.com> :: wire up config defaults
+2026-08-19T11:06:35.814Z Claude <claude@users.noreply.github.com> :: clean up config defaults
