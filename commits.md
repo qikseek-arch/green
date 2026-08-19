@@ -12584,3 +12584,4 @@
 2026-08-19T13:01:30.793Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix edge case in auth
 2026-08-19T13:08:19.573Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish config defaults
 2026-08-19T13:35:21.742Z Adam Łucek <ALucek@users.noreply.github.com> :: bump dependency versions
+2026-08-19T13:45:23.318Z Bert Belder <piscisaureus@users.noreply.github.com> :: remove build script
