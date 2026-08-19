@@ -12593,3 +12593,4 @@
 2026-08-19T17:36:37.673Z CTFs <ctfs@users.noreply.github.com> :: fix edge case in auth
 2026-08-19T17:41:01.110Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the CI matrix
 2026-08-19T17:45:21.014Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish readme typo
+2026-08-19T19:27:47.317Z owenzhang <owenzhang@users.noreply.github.com> :: fix error handling
