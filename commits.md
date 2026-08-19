@@ -12591,3 +12591,4 @@
 2026-08-19T16:16:10.874Z Keith Smiley <keith@users.noreply.github.com> :: polish dependency versions
 2026-08-19T17:00:43.134Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump edge case in auth
 2026-08-19T17:36:37.673Z CTFs <ctfs@users.noreply.github.com> :: fix edge case in auth
+2026-08-19T17:41:01.110Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump the CI matrix
