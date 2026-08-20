@@ -12606,3 +12606,4 @@
 2026-08-20T07:04:49.826Z BBC <bbc@users.noreply.github.com> :: polish logging
 2026-08-20T08:59:29.085Z markqvist <markqvist@users.noreply.github.com> :: add error handling
 2026-08-20T09:11:22.688Z Taiko Foundation <info@taiko.xyz> :: clean up flaky test
+2026-08-20T09:14:21.410Z ㅤxander <vampirist@users.noreply.github.com> :: update dependency versions
