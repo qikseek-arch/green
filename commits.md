@@ -12616,3 +12616,4 @@
 2026-08-20T15:49:15.500Z Adam Wathan <adamwathan@users.noreply.github.com> :: bump the parser
 2026-08-20T16:13:33.377Z David Clark <nullptrException100@users.noreply.github.com> :: tweak flaky test
 2026-08-20T16:33:35.113Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
+2026-08-20T17:01:47.819Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up readme typo
