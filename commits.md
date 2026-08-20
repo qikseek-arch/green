@@ -931,3 +931,4 @@
 2026-08-18T04:55:32.724Z Merve Noyan <merveenoyan@users.noreply.github.com> :: add flaky test
 2026-08-18T07:39:41.193Z Hsiaoming Yang <lepture@users.noreply.github.com> :: tweak edge case in auth
 2026-08-19T07:05:29.590Z DeepSeek <service@deepseek.com> :: fix logging
+2026-08-20T20:32:33.050Z Katrina Owen <kytrinyx@users.noreply.github.com> :: fix config defaults
