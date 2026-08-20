@@ -12599,3 +12599,4 @@
 2026-08-19T22:53:38.797Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish null check
 2026-08-20T00:13:39.203Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: refactor the CI matrix
 2026-08-20T01:40:36.194Z 劉強東 <liangjingkanji@users.noreply.github.com> :: bump the parser
+2026-08-20T02:02:51.630Z Aurélien Geron <ageron@users.noreply.github.com> :: update the parser
