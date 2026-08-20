@@ -12609,3 +12609,4 @@
 2026-08-20T09:14:21.410Z ㅤxander <vampirist@users.noreply.github.com> :: update dependency versions
 2026-08-20T10:21:21.366Z OpenJS Foundation <info@openjsf.org> :: polish dead code
 2026-08-20T11:39:17.875Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add config defaults
+2026-08-20T12:40:35.185Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix cache keys
