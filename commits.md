@@ -12604,3 +12604,4 @@
 2026-08-20T03:56:17.806Z Sachin Soni <techiesms@users.noreply.github.com> :: add config defaults
 2026-08-20T04:24:36.305Z Bytedance Inc. <bytedance@users.noreply.github.com> :: wire up null check
 2026-08-20T07:04:49.826Z BBC <bbc@users.noreply.github.com> :: polish logging
+2026-08-20T08:59:29.085Z markqvist <markqvist@users.noreply.github.com> :: add error handling
