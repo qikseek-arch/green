@@ -12615,3 +12615,4 @@
 2026-08-20T14:35:31.493Z CTFs <ctfs@users.noreply.github.com> :: fix dependency versions
 2026-08-20T15:49:15.500Z Adam Wathan <adamwathan@users.noreply.github.com> :: bump the parser
 2026-08-20T16:13:33.377Z David Clark <nullptrException100@users.noreply.github.com> :: tweak flaky test
+2026-08-20T16:33:35.113Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove the CI matrix
