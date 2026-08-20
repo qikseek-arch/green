@@ -12610,3 +12610,4 @@
 2026-08-20T10:21:21.366Z OpenJS Foundation <info@openjsf.org> :: polish dead code
 2026-08-20T11:39:17.875Z Rafal <RafalW3bCraft@users.noreply.github.com> :: add config defaults
 2026-08-20T12:40:35.185Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix cache keys
+2026-08-20T13:28:41.754Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump dependency versions
