@@ -12597,3 +12597,4 @@
 2026-08-19T20:49:41.168Z md-5 <md-5@users.noreply.github.com> :: add config defaults
 2026-08-19T21:36:29.524Z markqvist <markqvist@users.noreply.github.com> :: fix build script
 2026-08-19T22:53:38.797Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish null check
+2026-08-20T00:13:39.203Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: refactor the CI matrix
