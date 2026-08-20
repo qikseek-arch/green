@@ -12612,3 +12612,4 @@
 2026-08-20T12:40:35.185Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix cache keys
 2026-08-20T13:28:41.754Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: bump dependency versions
 2026-08-20T14:12:48.564Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor config defaults
+2026-08-20T14:35:31.493Z CTFs <ctfs@users.noreply.github.com> :: fix dependency versions
