@@ -12621,3 +12621,4 @@
 2026-08-20T22:54:49.215Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up the parser
 2026-08-20T23:19:27.719Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up readme typo
 2026-08-21T01:02:48.160Z Thomas Dohmke <ashtom@users.noreply.github.com> :: add edge case in auth
+2026-08-21T01:02:55.471Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up edge case in auth
