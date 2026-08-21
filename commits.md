@@ -937,3 +937,4 @@
 2026-08-21T07:41:00.687Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: update logging
 2026-08-21T16:58:50.682Z Iuri Silva <iuricode@users.noreply.github.com> :: wire up the parser
 2026-08-21T21:19:46.247Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: wire up the parser
+2026-08-21T21:32:35.664Z Mark Erikson <markerikson@users.noreply.github.com> :: bump config defaults
