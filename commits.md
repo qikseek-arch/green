@@ -12643,3 +12643,4 @@
 2026-08-21T20:09:58.990Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: tweak logging
 2026-08-21T20:23:37.247Z Ivan Volkov <Chitus@users.noreply.github.com> :: polish null check
 2026-08-21T20:26:30.254Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump error handling
+2026-08-21T22:13:15.955Z Almas Baim <AlmasB@users.noreply.github.com> :: wire up the parser
