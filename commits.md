@@ -12640,3 +12640,4 @@
 2026-08-21T17:24:28.745Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up logging
 2026-08-21T18:48:38.466Z AI4Bhārat <opensource@ai4bharat.org> :: remove the parser
 2026-08-21T19:21:03.700Z AI4Bhārat <opensource@ai4bharat.org> :: remove retry logic
+2026-08-21T20:09:58.990Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: tweak logging
