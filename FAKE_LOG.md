@@ -872,3 +872,4 @@
 2026-08-18T22:54:36.903Z Anthony Fu <antfu@users.noreply.github.com> :: tweak build script
 2026-08-19T04:37:37.694Z Cogito Ergo Sum <standardgalactic@users.noreply.github.com> :: remove the CI matrix
 2026-08-19T16:34:38.081Z Alp ₿📈🚀🌕 <IDouble@users.noreply.github.com> :: bump logging
+2026-08-21T03:42:05.733Z Anthropic <anthropics@users.noreply.github.com> :: tweak config defaults
