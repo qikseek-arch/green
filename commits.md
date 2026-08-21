@@ -12625,3 +12625,4 @@
 2026-08-21T02:12:41.553Z ring04h <ring04h@users.noreply.github.com> :: remove build script
 2026-08-21T04:00:42.849Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: refactor flaky test
 2026-08-21T05:18:58.747Z Sadık TURAN <sadikturan@users.noreply.github.com> :: remove error handling
+2026-08-21T05:50:54.715Z AI4Bhārat <opensource@ai4bharat.org> :: bump the CI matrix
