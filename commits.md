@@ -12635,3 +12635,4 @@
 2026-08-21T11:54:18.942Z Ivan Volkov <Chitus@users.noreply.github.com> :: update error handling
 2026-08-21T14:59:00.057Z Rei <chloerei@users.noreply.github.com> :: tweak edge case in auth
 2026-08-21T15:13:09.127Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up cache keys
+2026-08-21T16:15:27.955Z md-5 <md-5@users.noreply.github.com> :: bump null check
