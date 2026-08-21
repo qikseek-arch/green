@@ -12628,3 +12628,4 @@
 2026-08-21T05:50:54.715Z AI4Bhārat <opensource@ai4bharat.org> :: bump the CI matrix
 2026-08-21T05:52:45.390Z Ryan Bigg <radar@users.noreply.github.com> :: wire up logging
 2026-08-21T06:28:27.113Z CTFs <ctfs@users.noreply.github.com> :: add null check
+2026-08-21T09:11:49.776Z Almas Baim <AlmasB@users.noreply.github.com> :: add the CI matrix
