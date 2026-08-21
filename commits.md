@@ -935,3 +935,4 @@
 2026-08-20T20:57:37.086Z Iuri Silva <iuricode@users.noreply.github.com> :: wire up build script
 2026-08-21T04:27:34.158Z Merve Noyan <merveenoyan@users.noreply.github.com> :: clean up cache keys
 2026-08-21T07:41:00.687Z Ahmet Alp Balkan <ahmetb@users.noreply.github.com> :: update logging
+2026-08-21T16:58:50.682Z Iuri Silva <iuricode@users.noreply.github.com> :: wire up the parser
