@@ -385,3 +385,4 @@
 2026-08-12T20:45:34.262Z Albert Einstein <albert.einstein@fake.invalid> :: add config defaults
 2026-08-15T07:59:27.713Z Kent Beck <kent.beck@fake.invalid> :: clean up edge case in auth
 2026-08-18T10:47:20.155Z hamster_atomic <hamster_atomic@fake.invalid> :: refactor flaky test
+2026-08-22T07:34:52.367Z Alan Turing <alan.turing@fake.invalid> :: add error handling | Co-authored-by: Anthony Fu <antfu@users.noreply.github.com>
