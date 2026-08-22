@@ -943,3 +943,4 @@
 2026-08-22T09:10:02.540Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: add dead code
 2026-08-22T14:58:01.981Z GitHub Community <community@users.noreply.github.com> :: polish the parser
 2026-08-22T16:44:51.938Z t11s <transmissions11@users.noreply.github.com> :: polish readme typo
+2026-08-22T22:45:34.854Z Avik Jain <Avik-Jain@users.noreply.github.com> :: add dependency versions
