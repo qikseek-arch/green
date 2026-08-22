@@ -12657,3 +12657,4 @@
 2026-08-22T10:20:46.512Z WebRTC <discuss-webrtc@googlegroups.com> :: add logging
 2026-08-22T10:34:31.664Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
 2026-08-22T12:52:35.866Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump retry logic
+2026-08-22T13:50:12.116Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up config defaults
