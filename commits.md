@@ -12668,3 +12668,4 @@
 2026-08-22T20:00:54.268Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish logging
 2026-08-22T20:01:57.000Z OpenJS Foundation <info@openjsf.org> :: refactor dead code
 2026-08-22T21:49:28.181Z Selenium <SeleniumHQ@users.noreply.github.com> :: update edge case in auth
+2026-08-22T22:50:17.319Z qiye <qiyeboy@users.noreply.github.com> :: add readme typo
