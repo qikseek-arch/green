@@ -12671,3 +12671,4 @@
 2026-08-22T22:50:17.319Z qiye <qiyeboy@users.noreply.github.com> :: add readme typo
 2026-08-22T23:24:27.720Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
 2026-08-22T23:39:18.009Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix build script
+2026-08-22T23:48:10.194Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
