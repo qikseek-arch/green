@@ -941,3 +941,4 @@
 2026-08-22T04:22:42.111Z Holtz Yan <holtzy@users.noreply.github.com> :: add error handling
 2026-08-22T08:40:22.709Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: tweak config defaults
 2026-08-22T09:10:02.540Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: add dead code
+2026-08-22T14:58:01.981Z GitHub Community <community@users.noreply.github.com> :: polish the parser
