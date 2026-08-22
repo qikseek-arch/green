@@ -12663,3 +12663,4 @@
 2026-08-22T15:25:41.545Z qiye <qiyeboy@users.noreply.github.com> :: bump dependency versions
 2026-08-22T15:57:11.457Z markqvist <markqvist@users.noreply.github.com> :: update retry logic
 2026-08-22T16:43:50.608Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add dependency versions
+2026-08-22T18:42:12.366Z markqvist <markqvist@users.noreply.github.com> :: remove dead code
