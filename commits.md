@@ -12656,3 +12656,4 @@
 2026-08-22T09:50:06.304Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump build script
 2026-08-22T10:20:46.512Z WebRTC <discuss-webrtc@googlegroups.com> :: add logging
 2026-08-22T10:34:31.664Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
+2026-08-22T12:52:35.866Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump retry logic
