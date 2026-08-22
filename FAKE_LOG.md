@@ -874,3 +874,4 @@
 2026-08-19T16:34:38.081Z Alp ₿📈🚀🌕 <IDouble@users.noreply.github.com> :: bump logging
 2026-08-21T03:42:05.733Z Anthropic <anthropics@users.noreply.github.com> :: tweak config defaults
 2026-08-21T13:26:39.183Z Mark Otto <mdo@users.noreply.github.com> :: clean up dependency versions
+2026-08-22T15:58:07.875Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: bump readme typo
