@@ -12666,3 +12666,4 @@
 2026-08-22T18:42:12.366Z markqvist <markqvist@users.noreply.github.com> :: remove dead code
 2026-08-22T19:31:33.187Z CTFs <ctfs@users.noreply.github.com> :: update flaky test
 2026-08-22T20:00:54.268Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: polish logging
+2026-08-22T20:01:57.000Z OpenJS Foundation <info@openjsf.org> :: refactor dead code
