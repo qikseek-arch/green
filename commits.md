@@ -12670,3 +12670,4 @@
 2026-08-22T21:49:28.181Z Selenium <SeleniumHQ@users.noreply.github.com> :: update edge case in auth
 2026-08-22T22:50:17.319Z qiye <qiyeboy@users.noreply.github.com> :: add readme typo
 2026-08-22T23:24:27.720Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
+2026-08-22T23:39:18.009Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix build script
