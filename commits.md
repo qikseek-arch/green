@@ -12655,3 +12655,4 @@
 2026-08-22T08:09:43.656Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: polish dependency versions
 2026-08-22T09:50:06.304Z Bytedance Inc. <bytedance@users.noreply.github.com> :: bump build script
 2026-08-22T10:20:46.512Z WebRTC <discuss-webrtc@googlegroups.com> :: add logging
+2026-08-22T10:34:31.664Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
