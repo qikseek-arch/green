@@ -12660,3 +12660,4 @@
 2026-08-22T13:50:12.116Z Barret李靖 <barretlee@users.noreply.github.com> :: clean up config defaults
 2026-08-22T13:57:56.573Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: tweak the parser
 2026-08-22T14:10:02.975Z CTFs <ctfs@users.noreply.github.com> :: bump error handling
+2026-08-22T15:25:41.545Z qiye <qiyeboy@users.noreply.github.com> :: bump dependency versions
