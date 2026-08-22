@@ -942,3 +942,4 @@
 2026-08-22T08:40:22.709Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: tweak config defaults
 2026-08-22T09:10:02.540Z Evan (Yifeng) Wang <doodlewind@users.noreply.github.com> :: add dead code
 2026-08-22T14:58:01.981Z GitHub Community <community@users.noreply.github.com> :: polish the parser
+2026-08-22T16:44:51.938Z t11s <transmissions11@users.noreply.github.com> :: polish readme typo
