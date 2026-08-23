@@ -12686,3 +12686,4 @@
 2026-08-23T07:25:29.592Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add dependency versions
 2026-08-23T08:05:00.683Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: remove the parser
 2026-08-23T08:41:01.695Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: remove edge case in auth
+2026-08-23T08:54:44.313Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
