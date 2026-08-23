@@ -12672,3 +12672,4 @@
 2026-08-22T23:24:27.720Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
 2026-08-22T23:39:18.009Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: fix build script
 2026-08-22T23:48:10.194Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the CI matrix
+2026-08-23T00:07:12.234Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump error handling
