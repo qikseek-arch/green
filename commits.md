@@ -12689,3 +12689,4 @@
 2026-08-23T08:54:44.313Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove edge case in auth
 2026-08-23T09:23:17.478Z markqvist <markqvist@users.noreply.github.com> :: bump error handling
 2026-08-23T10:04:46.873Z First Contributions <firstcontributions@gmail.com> :: polish logging
+2026-08-23T10:48:55.963Z 劉強東 <liangjingkanji@users.noreply.github.com> :: add null check
