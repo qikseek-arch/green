@@ -12683,3 +12683,4 @@
 2026-08-23T05:08:07.351Z md-5 <md-5@users.noreply.github.com> :: bump retry logic
 2026-08-23T06:02:47.878Z markqvist <markqvist@users.noreply.github.com> :: add null check
 2026-08-23T06:40:47.762Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak edge case in auth
+2026-08-23T07:25:29.592Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add dependency versions
