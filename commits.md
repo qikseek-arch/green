@@ -12678,3 +12678,4 @@
 2026-08-23T00:41:53.844Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak dependency versions
 2026-08-23T01:11:24.097Z markqvist <markqvist@users.noreply.github.com> :: refactor the CI matrix
 2026-08-23T01:12:02.052Z Taiko Foundation <info@taiko.xyz> :: refactor cache keys
+2026-08-23T03:00:47.552Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix null check
