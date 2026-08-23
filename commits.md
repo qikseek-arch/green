@@ -12675,3 +12675,4 @@
 2026-08-23T00:07:12.234Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump error handling
 2026-08-23T00:32:40.293Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update flaky test
 2026-08-23T00:34:59.595Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: tweak null check
+2026-08-23T00:41:53.844Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: tweak dependency versions
