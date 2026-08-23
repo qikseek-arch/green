@@ -12695,3 +12695,4 @@
 2026-08-23T12:25:20.632Z md-5 <md-5@users.noreply.github.com> :: add cache keys
 2026-08-23T13:29:03.597Z markqvist <markqvist@users.noreply.github.com> :: polish config defaults
 2026-08-23T13:50:51.191Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: update edge case in auth
+2026-08-23T17:21:28.724Z owenzhang <owenzhang@users.noreply.github.com> :: polish readme typo
