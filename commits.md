@@ -12681,3 +12681,4 @@
 2026-08-23T03:00:47.552Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: fix null check
 2026-08-23T04:45:01.644Z Taiko Foundation <info@taiko.xyz> :: fix error handling
 2026-08-23T05:08:07.351Z md-5 <md-5@users.noreply.github.com> :: bump retry logic
+2026-08-23T06:02:47.878Z markqvist <markqvist@users.noreply.github.com> :: add null check
