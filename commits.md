@@ -12700,3 +12700,4 @@
 2026-08-23T18:01:56.084Z Rodrigo Pombo <pomber@users.noreply.github.com> :: clean up cache keys
 2026-08-23T18:58:53.914Z Rodrigo Pombo <pomber@users.noreply.github.com> :: polish readme typo
 2026-08-23T20:34:40.140Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove dead code
+2026-08-24T01:04:33.468Z Arduino <arduino@users.noreply.github.com> :: remove retry logic
