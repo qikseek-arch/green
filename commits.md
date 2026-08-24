@@ -12702,3 +12702,4 @@
 2026-08-23T20:34:40.140Z Inanc Gumus <inancgumus@users.noreply.github.com> :: remove dead code
 2026-08-24T01:04:33.468Z Arduino <arduino@users.noreply.github.com> :: remove retry logic
 2026-08-24T02:09:04.026Z Claude <claude@users.noreply.github.com> :: add flaky test
+2026-08-24T02:20:31.894Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add dependency versions
