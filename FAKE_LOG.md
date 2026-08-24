@@ -387,3 +387,4 @@
 2026-08-18T10:47:20.155Z hamster_atomic <hamster_atomic@fake.invalid> :: refactor flaky test
 2026-08-22T07:34:52.367Z Alan Turing <alan.turing@fake.invalid> :: add error handling | Co-authored-by: Anthony Fu <antfu@users.noreply.github.com>
 2026-08-24T08:30:58.917Z VividCactus <vividcactus@fake.invalid> :: add error handling
+2026-08-24T21:37:11.574Z Donald Knuth <donald.knuth@fake.invalid> :: wire up the parser | Co-authored-by: Brad Traversy <bradtraversy@users.noreply.github.com>
