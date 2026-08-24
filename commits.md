@@ -12724,3 +12724,4 @@
 2026-08-24T17:33:23.350Z 劉強東 <liangjingkanji@users.noreply.github.com> :: polish logging
 2026-08-24T20:28:37.477Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
 2026-08-24T20:35:42.555Z SouJunior <wouerner@soujunior.tech> :: tweak build script
+2026-08-24T20:42:27.039Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update config defaults
