@@ -12718,3 +12718,4 @@
 2026-08-24T12:26:46.291Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add error handling
 2026-08-24T12:42:49.782Z ZOMI <chenzomi12@users.noreply.github.com> :: add cache keys
 2026-08-24T15:02:08.473Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up null check
+2026-08-24T15:02:26.193Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak edge case in auth
