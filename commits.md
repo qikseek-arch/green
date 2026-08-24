@@ -12713,3 +12713,4 @@
 2026-08-24T09:55:11.028Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor dead code
 2026-08-24T10:03:06.437Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up the parser
 2026-08-24T12:05:36.508Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: polish null check
+2026-08-24T12:08:22.893Z Adam Wathan <adamwathan@users.noreply.github.com> :: clean up dead code
