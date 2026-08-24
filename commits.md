@@ -12707,3 +12707,4 @@
 2026-08-24T04:59:23.232Z Getgems <getgems-io@users.noreply.github.com> :: clean up dead code
 2026-08-24T05:36:01.898Z ring04h <ring04h@users.noreply.github.com> :: refactor config defaults
 2026-08-24T06:37:45.101Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump the parser
+2026-08-24T08:03:32.072Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove null check
