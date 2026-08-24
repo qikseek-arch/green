@@ -12711,3 +12711,4 @@
 2026-08-24T08:11:28.607Z heyli <lcxfs1991@users.noreply.github.com> :: polish logging
 2026-08-24T09:12:17.538Z owenzhang <owenzhang@users.noreply.github.com> :: fix readme typo
 2026-08-24T09:55:11.028Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor dead code
+2026-08-24T10:03:06.437Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up the parser
