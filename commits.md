@@ -12725,3 +12725,4 @@
 2026-08-24T20:28:37.477Z LILYGO <LilyGO@users.noreply.github.com> :: polish cache keys
 2026-08-24T20:35:42.555Z SouJunior <wouerner@soujunior.tech> :: tweak build script
 2026-08-24T20:42:27.039Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update config defaults
+2026-08-24T22:00:49.381Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up null check
