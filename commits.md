@@ -946,3 +946,4 @@
 2026-08-22T22:45:34.854Z Avik Jain <Avik-Jain@users.noreply.github.com> :: add dependency versions
 2026-08-22T23:52:19.280Z John Mwendwa <JohnMwendwa@users.noreply.github.com> :: fix logging
 2026-08-23T19:37:30.639Z Yihua Zhang <ZhangMYihua@users.noreply.github.com> :: clean up edge case in auth
+2026-08-24T06:42:29.004Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: fix dead code
