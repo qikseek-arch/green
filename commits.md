@@ -12709,3 +12709,4 @@
 2026-08-24T06:37:45.101Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump the parser
 2026-08-24T08:03:32.072Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove null check
 2026-08-24T08:11:28.607Z heyli <lcxfs1991@users.noreply.github.com> :: polish logging
+2026-08-24T09:12:17.538Z owenzhang <owenzhang@users.noreply.github.com> :: fix readme typo
