@@ -12727,3 +12727,4 @@
 2026-08-24T20:42:27.039Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update config defaults
 2026-08-24T22:00:49.381Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up null check
 2026-08-24T23:39:12.723Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
+2026-08-24T23:52:18.027Z Taiko Foundation <info@taiko.xyz> :: remove null check
