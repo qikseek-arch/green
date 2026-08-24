@@ -12720,3 +12720,4 @@
 2026-08-24T15:02:08.473Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up null check
 2026-08-24T15:02:26.193Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak edge case in auth
 2026-08-24T16:01:57.659Z vb <Vaibhavs10@users.noreply.github.com> :: tweak config defaults
+2026-08-24T17:20:21.446Z Shubs <infosec-au@users.noreply.github.com> :: add cache keys
