@@ -12705,3 +12705,4 @@
 2026-08-24T02:20:31.894Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add dependency versions
 2026-08-24T04:24:15.786Z vb <Vaibhavs10@users.noreply.github.com> :: bump edge case in auth
 2026-08-24T04:59:23.232Z Getgems <getgems-io@users.noreply.github.com> :: clean up dead code
+2026-08-24T05:36:01.898Z ring04h <ring04h@users.noreply.github.com> :: refactor config defaults
