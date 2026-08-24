@@ -876,3 +876,4 @@
 2026-08-21T13:26:39.183Z Mark Otto <mdo@users.noreply.github.com> :: clean up dependency versions
 2026-08-22T15:58:07.875Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: bump readme typo
 2026-08-24T04:28:59.801Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: clean up dead code
+2026-08-24T09:00:37.579Z Anthony Fu <antfu@users.noreply.github.com> :: fix build script
