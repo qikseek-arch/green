@@ -287,3 +287,4 @@
 2026-08-13T09:41:56.075Z onyx <onyx@fake.invalid> :: add edge case in auth
 2026-08-18T00:04:39.622Z ghost <ghost@fake.invalid> :: tweak the CI matrix
 2026-08-18T11:41:36.938Z juno <juno@fake.invalid> :: clean up cache keys
+2026-08-25T09:09:59.261Z onyx <onyx@fake.invalid> :: add cache keys
