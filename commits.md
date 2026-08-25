@@ -12731,3 +12731,4 @@
 2026-08-25T00:46:30.715Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor cache keys
 2026-08-25T01:26:00.170Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish error handling
 2026-08-25T03:33:47.649Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: tweak config defaults
+2026-08-25T04:29:21.938Z Taiko Foundation <info@taiko.xyz> :: polish readme typo
