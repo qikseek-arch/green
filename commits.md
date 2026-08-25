@@ -12752,3 +12752,4 @@
 2026-08-25T20:19:45.397Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak dependency versions
 2026-08-25T20:52:05.943Z Adam Łucek <ALucek@users.noreply.github.com> :: add dependency versions
 2026-08-25T22:07:07.584Z qiye <qiyeboy@users.noreply.github.com> :: remove the parser
+2026-08-25T22:10:52.161Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish the parser
