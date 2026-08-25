@@ -12735,3 +12735,4 @@
 2026-08-25T04:47:40.966Z Arduino <arduino@users.noreply.github.com> :: polish retry logic
 2026-08-25T05:58:59.637Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up null check
 2026-08-25T07:07:30.513Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up the parser
+2026-08-25T07:22:50.447Z BBC <bbc@users.noreply.github.com> :: tweak build script
