@@ -12747,3 +12747,4 @@
 2026-08-25T15:52:46.036Z AI4Bhārat <opensource@ai4bharat.org> :: add build script
 2026-08-25T16:12:10.194Z ㅤxander <vampirist@users.noreply.github.com> :: add dead code
 2026-08-25T16:54:36.870Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak error handling
+2026-08-25T16:58:47.212Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update config defaults
