@@ -12750,3 +12750,4 @@
 2026-08-25T16:58:47.212Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update config defaults
 2026-08-25T18:39:16.387Z qiye <qiyeboy@users.noreply.github.com> :: clean up flaky test
 2026-08-25T20:19:45.397Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak dependency versions
+2026-08-25T20:52:05.943Z Adam Łucek <ALucek@users.noreply.github.com> :: add dependency versions
