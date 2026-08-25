@@ -12728,3 +12728,4 @@
 2026-08-24T22:00:49.381Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: wire up null check
 2026-08-24T23:39:12.723Z Adam Bell <b3ll@users.noreply.github.com> :: clean up config defaults
 2026-08-24T23:52:18.027Z Taiko Foundation <info@taiko.xyz> :: remove null check
+2026-08-25T00:46:30.715Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor cache keys
