@@ -12733,3 +12733,4 @@
 2026-08-25T03:33:47.649Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: tweak config defaults
 2026-08-25T04:29:21.938Z Taiko Foundation <info@taiko.xyz> :: polish readme typo
 2026-08-25T04:47:40.966Z Arduino <arduino@users.noreply.github.com> :: polish retry logic
+2026-08-25T05:58:59.637Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up null check
