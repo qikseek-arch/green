@@ -288,3 +288,4 @@
 2026-08-18T00:04:39.622Z ghost <ghost@fake.invalid> :: tweak the CI matrix
 2026-08-18T11:41:36.938Z juno <juno@fake.invalid> :: clean up cache keys
 2026-08-25T09:09:59.261Z onyx <onyx@fake.invalid> :: add cache keys
+2026-08-25T10:58:06.765Z halcyon <halcyon@fake.invalid> :: remove dependency versions
