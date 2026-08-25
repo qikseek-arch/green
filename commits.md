@@ -12736,3 +12736,4 @@
 2026-08-25T05:58:59.637Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up null check
 2026-08-25T07:07:30.513Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: clean up the parser
 2026-08-25T07:22:50.447Z BBC <bbc@users.noreply.github.com> :: tweak build script
+2026-08-25T07:48:23.307Z BBC <bbc@users.noreply.github.com> :: wire up error handling
