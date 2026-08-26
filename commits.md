@@ -12777,3 +12777,4 @@
 2026-08-26T13:15:46.168Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
 2026-08-26T14:43:41.870Z Adam Łucek <ALucek@users.noreply.github.com> :: update the CI matrix
 2026-08-26T16:37:05.245Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove edge case in auth
+2026-08-26T17:25:18.643Z BBC <bbc@users.noreply.github.com> :: wire up edge case in auth
