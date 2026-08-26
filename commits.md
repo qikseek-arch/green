@@ -12780,3 +12780,4 @@
 2026-08-26T17:25:18.643Z BBC <bbc@users.noreply.github.com> :: wire up edge case in auth
 2026-08-26T18:40:35.358Z WebRTC <discuss-webrtc@googlegroups.com> :: polish readme typo
 2026-08-26T18:59:32.787Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: polish cache keys
+2026-08-26T19:09:47.807Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: add edge case in auth
