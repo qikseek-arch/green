@@ -12766,3 +12766,4 @@
 2026-08-26T04:43:05.943Z SouJunior <wouerner@soujunior.tech> :: wire up edge case in auth
 2026-08-26T07:35:23.965Z markqvist <markqvist@users.noreply.github.com> :: bump edge case in auth
 2026-08-26T07:45:09.902Z Aurélien Geron <ageron@users.noreply.github.com> :: polish readme typo
+2026-08-26T08:10:22.493Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up null check
