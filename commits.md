@@ -12759,3 +12759,4 @@
 2026-08-26T01:25:44.101Z Claude <claude@users.noreply.github.com> :: add dependency versions
 2026-08-26T02:02:17.356Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up flaky test
 2026-08-26T02:04:44.252Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak logging
+2026-08-26T02:17:00.136Z Adam Łucek <ALucek@users.noreply.github.com> :: polish config defaults
