@@ -949,3 +949,4 @@
 2026-08-24T06:42:29.004Z Evgenii Bazhanov <Ebazhanov@users.noreply.github.com> :: fix dead code
 2026-08-24T07:56:18.948Z Alae-Eddine <alaesic@users.noreply.github.com> :: tweak the CI matrix
 2026-08-25T12:40:26.721Z Shaian <zshaian@users.noreply.github.com> :: wire up error handling
+2026-08-26T12:04:56.784Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: fix dependency versions
