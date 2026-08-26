@@ -12754,3 +12754,4 @@
 2026-08-25T22:07:07.584Z qiye <qiyeboy@users.noreply.github.com> :: remove the parser
 2026-08-25T22:10:52.161Z Roger Labbe <rlabbe@users.noreply.github.com> :: polish the parser
 2026-08-26T00:08:38.200Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove dead code
+2026-08-26T00:20:51.145Z Getgems <getgems-io@users.noreply.github.com> :: bump readme typo
