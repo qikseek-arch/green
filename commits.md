@@ -12761,3 +12761,4 @@
 2026-08-26T02:04:44.252Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak logging
 2026-08-26T02:17:00.136Z Adam Łucek <ALucek@users.noreply.github.com> :: polish config defaults
 2026-08-26T03:05:17.487Z Getgems <getgems-io@users.noreply.github.com> :: tweak edge case in auth
+2026-08-26T03:56:40.653Z Sadık TURAN <sadikturan@users.noreply.github.com> :: polish edge case in auth
