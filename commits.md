@@ -12773,3 +12773,4 @@
 2026-08-26T10:05:45.509Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor config defaults
 2026-08-26T11:34:51.305Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: clean up the parser
 2026-08-26T12:00:46.038Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: polish flaky test
+2026-08-26T13:10:04.788Z Claude <claude@users.noreply.github.com> :: update retry logic
