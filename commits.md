@@ -12805,3 +12805,4 @@
 2026-08-27T13:52:33.134Z md-5 <md-5@users.noreply.github.com> :: remove the parser
 2026-08-27T14:03:26.155Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
 2026-08-27T15:55:48.224Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish logging
+2026-08-27T16:34:26.119Z owenzhang <owenzhang@users.noreply.github.com> :: wire up logging
