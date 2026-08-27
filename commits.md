@@ -12808,3 +12808,4 @@
 2026-08-27T16:34:26.119Z owenzhang <owenzhang@users.noreply.github.com> :: wire up logging
 2026-08-27T16:39:02.514Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump logging
 2026-08-27T16:45:14.288Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor dead code
+2026-08-27T16:58:31.805Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: fix error handling
