@@ -12794,3 +12794,4 @@
 2026-08-27T08:33:07.173Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump logging
 2026-08-27T08:39:44.555Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
 2026-08-27T08:39:47.665Z Manu Arora <manuarora700@users.noreply.github.com> :: wire up the parser
+2026-08-27T08:43:28.186Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update config defaults
