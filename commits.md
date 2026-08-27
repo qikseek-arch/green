@@ -12789,3 +12789,4 @@
 2026-08-27T03:28:07.580Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor config defaults
 2026-08-27T04:40:44.071Z Adam Łucek <ALucek@users.noreply.github.com> :: bump edge case in auth
 2026-08-27T05:02:06.676Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add dead code
+2026-08-27T06:13:56.267Z qiye <qiyeboy@users.noreply.github.com> :: clean up dependency versions
