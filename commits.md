@@ -12807,3 +12807,4 @@
 2026-08-27T15:55:48.224Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish logging
 2026-08-27T16:34:26.119Z owenzhang <owenzhang@users.noreply.github.com> :: wire up logging
 2026-08-27T16:39:02.514Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump logging
+2026-08-27T16:45:14.288Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor dead code
