@@ -12790,3 +12790,4 @@
 2026-08-27T04:40:44.071Z Adam Łucek <ALucek@users.noreply.github.com> :: bump edge case in auth
 2026-08-27T05:02:06.676Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: add dead code
 2026-08-27T06:13:56.267Z qiye <qiyeboy@users.noreply.github.com> :: clean up dependency versions
+2026-08-27T08:02:46.474Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
