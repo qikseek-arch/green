@@ -12792,3 +12792,4 @@
 2026-08-27T06:13:56.267Z qiye <qiyeboy@users.noreply.github.com> :: clean up dependency versions
 2026-08-27T08:02:46.474Z BBC <bbc@users.noreply.github.com> :: wire up retry logic
 2026-08-27T08:33:07.173Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump logging
+2026-08-27T08:39:44.555Z Adam Bell <b3ll@users.noreply.github.com> :: remove config defaults
