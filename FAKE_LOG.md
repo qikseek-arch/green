@@ -388,3 +388,4 @@
 2026-08-22T07:34:52.367Z Alan Turing <alan.turing@fake.invalid> :: add error handling | Co-authored-by: Anthony Fu <antfu@users.noreply.github.com>
 2026-08-24T08:30:58.917Z VividCactus <vividcactus@fake.invalid> :: add error handling
 2026-08-24T21:37:11.574Z Donald Knuth <donald.knuth@fake.invalid> :: wire up the parser | Co-authored-by: Brad Traversy <bradtraversy@users.noreply.github.com>
+2026-08-27T19:14:44.951Z Richard Feynman <richard.feynman@fake.invalid> :: add retry logic
