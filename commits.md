@@ -12787,3 +12787,4 @@
 2026-08-27T00:28:58.785Z Arduino <arduino@users.noreply.github.com> :: bump retry logic
 2026-08-27T01:34:02.415Z Andreas Kling <awesomekling@users.noreply.github.com> :: refactor readme typo
 2026-08-27T03:28:07.580Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor config defaults
+2026-08-27T04:40:44.071Z Adam Łucek <ALucek@users.noreply.github.com> :: bump edge case in auth
