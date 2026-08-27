@@ -12810,3 +12810,4 @@
 2026-08-27T16:45:14.288Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor dead code
 2026-08-27T16:58:31.805Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: fix error handling
 2026-08-27T18:38:50.516Z Jeremy Likness <JeremyLikness@users.noreply.github.com> :: wire up build script
+2026-08-27T19:17:25.382Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump null check
