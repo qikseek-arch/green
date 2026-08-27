@@ -12804,3 +12804,4 @@
 2026-08-27T13:12:50.467Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove retry logic
 2026-08-27T13:52:33.134Z md-5 <md-5@users.noreply.github.com> :: remove the parser
 2026-08-27T14:03:26.155Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
+2026-08-27T15:55:48.224Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish logging
