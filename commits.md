@@ -12801,3 +12801,4 @@
 2026-08-27T11:10:34.208Z David Clark <nullptrException100@users.noreply.github.com> :: clean up retry logic
 2026-08-27T11:39:38.960Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove flaky test
 2026-08-27T11:51:11.541Z AI4Bhārat <opensource@ai4bharat.org> :: refactor edge case in auth
+2026-08-27T13:12:50.467Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove retry logic
