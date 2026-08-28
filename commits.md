@@ -12828,3 +12828,4 @@
 2026-08-28T05:30:50.899Z Getgems <getgems-io@users.noreply.github.com> :: refactor null check
 2026-08-28T05:40:30.355Z Fady Farag <iidmsa@users.noreply.github.com> :: refactor logging
 2026-08-28T06:13:08.704Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: polish null check
+2026-08-28T06:20:52.825Z Manu Arora <manuarora700@users.noreply.github.com> :: update error handling
