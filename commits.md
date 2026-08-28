@@ -952,3 +952,4 @@
 2026-08-26T12:04:56.784Z Zara Zhang <zarazhangrui@users.noreply.github.com> :: fix dependency versions
 2026-08-26T21:58:32.878Z Cheng Lou <chenglou@users.noreply.github.com> :: fix flaky test
 2026-08-27T10:50:30.487Z Sebastian <sebmck@users.noreply.github.com> :: bump logging
+2026-08-28T04:20:01.983Z FastAPI <fastapi@users.noreply.github.com> :: wire up config defaults
