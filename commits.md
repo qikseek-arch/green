@@ -12823,3 +12823,4 @@
 2026-08-28T04:18:53.063Z Almas Baim <AlmasB@users.noreply.github.com> :: remove flaky test
 2026-08-28T04:21:10.282Z Thomas Dohmke <ashtom@users.noreply.github.com> :: remove dead code
 2026-08-28T04:28:22.876Z Manu Arora <manuarora700@users.noreply.github.com> :: polish retry logic
+2026-08-28T04:41:23.615Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix error handling
