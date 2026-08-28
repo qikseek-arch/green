@@ -12814,3 +12814,4 @@
 2026-08-27T22:01:53.781Z Ryan Bigg <radar@users.noreply.github.com> :: refactor cache keys
 2026-08-27T23:43:56.895Z Jason Zhang <Hackl0us@users.noreply.github.com> :: polish null check
 2026-08-27T23:53:02.476Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
+2026-08-28T00:00:25.948Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dead code
