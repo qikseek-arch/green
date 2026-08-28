@@ -12816,3 +12816,4 @@
 2026-08-27T23:53:02.476Z SouJunior <wouerner@soujunior.tech> :: refactor retry logic
 2026-08-28T00:00:25.948Z Adam Łucek <ALucek@users.noreply.github.com> :: remove dead code
 2026-08-28T00:25:18.574Z Inanc Gumus <inancgumus@users.noreply.github.com> :: add cache keys
+2026-08-28T01:03:06.806Z AI4Bhārat <opensource@ai4bharat.org> :: remove the CI matrix
