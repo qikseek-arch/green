@@ -12825,3 +12825,4 @@
 2026-08-28T04:28:22.876Z Manu Arora <manuarora700@users.noreply.github.com> :: polish retry logic
 2026-08-28T04:41:23.615Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix error handling
 2026-08-28T04:49:00.452Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak the CI matrix
+2026-08-28T05:30:50.899Z Getgems <getgems-io@users.noreply.github.com> :: refactor null check
