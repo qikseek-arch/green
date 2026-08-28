@@ -878,3 +878,4 @@
 2026-08-24T04:28:59.801Z Gustavo Guanabara <gustavoguanabara@users.noreply.github.com> :: clean up dead code
 2026-08-24T09:00:37.579Z Anthony Fu <antfu@users.noreply.github.com> :: fix build script
 2026-08-27T17:57:11.656Z Anthropic <anthropics@users.noreply.github.com> :: polish dependency versions
+2026-08-28T02:23:23.419Z Hadley Wickham <hadley@users.noreply.github.com> :: bump null check
