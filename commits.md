@@ -12841,3 +12841,4 @@
 2026-08-28T14:42:46.385Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up readme typo
 2026-08-28T14:51:42.314Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish flaky test
 2026-08-28T15:54:50.041Z LILYGO <LilyGO@users.noreply.github.com> :: tweak build script
+2026-08-28T16:52:07.450Z Jason Zhang <Hackl0us@users.noreply.github.com> :: add dead code
