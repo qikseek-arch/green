@@ -12848,3 +12848,4 @@
 2026-08-29T02:13:56.286Z Adam Łucek <ALucek@users.noreply.github.com> :: fix edge case in auth
 2026-08-29T03:21:13.115Z Keith Smiley <keith@users.noreply.github.com> :: remove the CI matrix
 2026-08-29T03:23:17.829Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak edge case in auth
+2026-08-29T05:23:13.926Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up config defaults
