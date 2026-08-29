@@ -957,3 +957,4 @@
 2026-08-29T04:22:06.696Z vn.py <vnpy@users.noreply.github.com> :: wire up error handling
 2026-08-29T10:32:55.899Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: remove the parser
 2026-08-29T10:53:23.934Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: update config defaults
+2026-08-29T15:35:22.872Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: polish error handling
