@@ -12864,3 +12864,4 @@
 2026-08-29T16:49:38.343Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove flaky test
 2026-08-29T18:46:25.643Z Claude <claude@users.noreply.github.com> :: bump dependency versions
 2026-08-29T19:15:16.296Z Bert Belder <piscisaureus@users.noreply.github.com> :: tweak readme typo
+2026-08-29T19:18:36.195Z ㅤxander <vampirist@users.noreply.github.com> :: update config defaults
