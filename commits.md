@@ -12865,3 +12865,4 @@
 2026-08-29T18:46:25.643Z Claude <claude@users.noreply.github.com> :: bump dependency versions
 2026-08-29T19:15:16.296Z Bert Belder <piscisaureus@users.noreply.github.com> :: tweak readme typo
 2026-08-29T19:18:36.195Z ㅤxander <vampirist@users.noreply.github.com> :: update config defaults
+2026-08-29T20:35:38.270Z Shubs <infosec-au@users.noreply.github.com> :: bump logging
