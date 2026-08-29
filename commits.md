@@ -12854,3 +12854,4 @@
 2026-08-29T08:56:12.683Z WebRTC <discuss-webrtc@googlegroups.com> :: remove retry logic
 2026-08-29T09:37:01.314Z Keith Smiley <keith@users.noreply.github.com> :: fix build script
 2026-08-29T12:02:39.124Z Barret李靖 <barretlee@users.noreply.github.com> :: refactor config defaults
+2026-08-29T13:09:23.345Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove config defaults
