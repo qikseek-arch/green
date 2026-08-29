@@ -12862,3 +12862,4 @@
 2026-08-29T15:15:53.519Z markqvist <markqvist@users.noreply.github.com> :: clean up config defaults
 2026-08-29T16:40:42.673Z Claude <claude@users.noreply.github.com> :: clean up edge case in auth
 2026-08-29T16:49:38.343Z Martin Grenfell <scrooloose@users.noreply.github.com> :: remove flaky test
+2026-08-29T18:46:25.643Z Claude <claude@users.noreply.github.com> :: bump dependency versions
