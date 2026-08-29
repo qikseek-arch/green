@@ -12851,3 +12851,4 @@
 2026-08-29T05:23:13.926Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up config defaults
 2026-08-29T05:30:36.979Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add the parser
 2026-08-29T06:45:41.024Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add build script
+2026-08-29T08:56:12.683Z WebRTC <discuss-webrtc@googlegroups.com> :: remove retry logic
