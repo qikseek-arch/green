@@ -12850,3 +12850,4 @@
 2026-08-29T03:23:17.829Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak edge case in auth
 2026-08-29T05:23:13.926Z Ben Hamner <benhamner@users.noreply.github.com> :: wire up config defaults
 2026-08-29T05:30:36.979Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add the parser
+2026-08-29T06:45:41.024Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: add build script
