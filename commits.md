@@ -12868,3 +12868,4 @@
 2026-08-29T20:35:38.270Z Shubs <infosec-au@users.noreply.github.com> :: bump logging
 2026-08-29T22:10:08.659Z Tim Neutkens <timneutkens@users.noreply.github.com> :: fix dead code
 2026-08-29T22:18:25.798Z Jason Zhang <Hackl0us@users.noreply.github.com> :: update edge case in auth
+2026-08-29T23:27:16.639Z Claude <claude@users.noreply.github.com> :: fix dependency versions
