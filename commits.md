@@ -955,3 +955,4 @@
 2026-08-28T04:20:01.983Z FastAPI <fastapi@users.noreply.github.com> :: wire up config defaults
 2026-08-28T13:03:38.699Z Ryubing <Ryubing@users.noreply.github.com> :: polish dead code
 2026-08-29T04:22:06.696Z vn.py <vnpy@users.noreply.github.com> :: wire up error handling
+2026-08-29T10:32:55.899Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: remove the parser
