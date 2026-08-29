@@ -12857,3 +12857,4 @@
 2026-08-29T13:09:23.345Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: remove config defaults
 2026-08-29T13:23:17.454Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: refactor the CI matrix
 2026-08-29T13:25:11.833Z Ivan Volkov <Chitus@users.noreply.github.com> :: add the parser
+2026-08-29T14:28:29.269Z Sachin Soni <techiesms@users.noreply.github.com> :: clean up error handling
