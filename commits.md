@@ -12898,3 +12898,4 @@
 2026-08-30T20:17:00.718Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up edge case in auth
 2026-08-30T20:21:33.345Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor flaky test
 2026-08-30T21:21:15.594Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
+2026-08-30T21:23:08.225Z Selenium <SeleniumHQ@users.noreply.github.com> :: add dependency versions
