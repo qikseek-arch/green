@@ -12876,3 +12876,4 @@
 2026-08-30T02:04:18.100Z Shubs <infosec-au@users.noreply.github.com> :: fix flaky test
 2026-08-30T02:22:44.700Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor the parser
 2026-08-30T02:25:45.342Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up readme typo
+2026-08-30T02:34:10.923Z Almas Baim <AlmasB@users.noreply.github.com> :: update logging
