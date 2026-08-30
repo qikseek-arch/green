@@ -12889,3 +12889,4 @@
 2026-08-30T14:36:16.112Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
 2026-08-30T15:00:48.063Z Aurélien Geron <ageron@users.noreply.github.com> :: polish build script
 2026-08-30T15:05:11.451Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update error handling
+2026-08-30T15:07:54.780Z owenzhang <owenzhang@users.noreply.github.com> :: refactor the parser
