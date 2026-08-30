@@ -12897,3 +12897,4 @@
 2026-08-30T19:26:57.181Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak dependency versions
 2026-08-30T20:17:00.718Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up edge case in auth
 2026-08-30T20:21:33.345Z Bert Belder <piscisaureus@users.noreply.github.com> :: refactor flaky test
+2026-08-30T21:21:15.594Z owenzhang <owenzhang@users.noreply.github.com> :: add the parser
