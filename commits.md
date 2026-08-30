@@ -12879,3 +12879,4 @@
 2026-08-30T02:34:10.923Z Almas Baim <AlmasB@users.noreply.github.com> :: update logging
 2026-08-30T03:52:16.726Z Adam Bell <b3ll@users.noreply.github.com> :: remove null check
 2026-08-30T05:38:30.280Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish dead code
+2026-08-30T05:50:03.641Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
