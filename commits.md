@@ -12895,3 +12895,4 @@
 2026-08-30T19:00:33.526Z markqvist <markqvist@users.noreply.github.com> :: remove logging
 2026-08-30T19:04:59.051Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix dependency versions
 2026-08-30T19:26:57.181Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: tweak dependency versions
+2026-08-30T20:17:00.718Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up edge case in auth
