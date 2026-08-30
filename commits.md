@@ -12882,3 +12882,4 @@
 2026-08-30T05:50:03.641Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
 2026-08-30T06:20:57.564Z Barret李靖 <barretlee@users.noreply.github.com> :: remove readme typo
 2026-08-30T06:27:46.636Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix dependency versions
+2026-08-30T07:46:05.294Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: bump null check
