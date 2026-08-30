@@ -12888,3 +12888,4 @@
 2026-08-30T13:59:50.391Z Taiko Foundation <info@taiko.xyz> :: remove the parser
 2026-08-30T14:36:16.112Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
 2026-08-30T15:00:48.063Z Aurélien Geron <ageron@users.noreply.github.com> :: polish build script
+2026-08-30T15:05:11.451Z Rodrigo Pombo <pomber@users.noreply.github.com> :: update error handling
