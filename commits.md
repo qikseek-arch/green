@@ -958,3 +958,4 @@
 2026-08-29T10:32:55.899Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: remove the parser
 2026-08-29T10:53:23.934Z Domain-Driven Design Crew <ddd-crew@users.noreply.github.com> :: update config defaults
 2026-08-29T15:35:22.872Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: polish error handling
+2026-08-30T04:12:10.562Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: tweak cache keys
