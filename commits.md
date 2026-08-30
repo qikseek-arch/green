@@ -12901,3 +12901,4 @@
 2026-08-30T21:23:08.225Z Selenium <SeleniumHQ@users.noreply.github.com> :: add dependency versions
 2026-08-30T21:48:45.272Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: update the parser
 2026-08-30T22:09:56.181Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump error handling
+2026-08-30T23:02:31.992Z vb <Vaibhavs10@users.noreply.github.com> :: remove readme typo
