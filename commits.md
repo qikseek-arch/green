@@ -12880,3 +12880,4 @@
 2026-08-30T03:52:16.726Z Adam Bell <b3ll@users.noreply.github.com> :: remove null check
 2026-08-30T05:38:30.280Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish dead code
 2026-08-30T05:50:03.641Z Yuri Rousseff <YuriRDev@users.noreply.github.com> :: fix build script
+2026-08-30T06:20:57.564Z Barret李靖 <barretlee@users.noreply.github.com> :: remove readme typo
