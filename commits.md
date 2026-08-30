@@ -12878,3 +12878,4 @@
 2026-08-30T02:25:45.342Z Rafal <RafalW3bCraft@users.noreply.github.com> :: clean up readme typo
 2026-08-30T02:34:10.923Z Almas Baim <AlmasB@users.noreply.github.com> :: update logging
 2026-08-30T03:52:16.726Z Adam Bell <b3ll@users.noreply.github.com> :: remove null check
+2026-08-30T05:38:30.280Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish dead code
