@@ -490,3 +490,4 @@
 2026-08-04T04:49:49.695Z Dennis Ritchie <dennis.ritchie@fake.invalid> :: wire up error handling
 2026-08-18T11:00:17.801Z Grant Sanderson <3b1b@users.noreply.github.com> :: tweak retry logic
 2026-08-28T21:32:24.520Z Vint Cerf <vint.cerf@fake.invalid> :: wire up the CI matrix
+2026-08-30T17:34:44.038Z kernel_silent_x <kernel_silent_x@fake.invalid> :: polish readme typo
