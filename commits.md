@@ -12884,3 +12884,4 @@
 2026-08-30T06:27:46.636Z Thomas Dohmke <ashtom@users.noreply.github.com> :: fix dependency versions
 2026-08-30T07:46:05.294Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: bump null check
 2026-08-30T08:03:03.693Z Arduino <arduino@users.noreply.github.com> :: tweak cache keys
+2026-08-30T09:09:46.031Z Odi <mathdroid@users.noreply.github.com> :: add readme typo
