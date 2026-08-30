@@ -12886,3 +12886,4 @@
 2026-08-30T08:03:03.693Z Arduino <arduino@users.noreply.github.com> :: tweak cache keys
 2026-08-30T09:09:46.031Z Odi <mathdroid@users.noreply.github.com> :: add readme typo
 2026-08-30T13:59:50.391Z Taiko Foundation <info@taiko.xyz> :: remove the parser
+2026-08-30T14:36:16.112Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
