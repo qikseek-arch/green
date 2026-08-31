@@ -963,3 +963,4 @@
 2026-08-30T07:41:16.478Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: add flaky test
 2026-08-30T20:25:02.695Z Sebastian <sebmck@users.noreply.github.com> :: remove retry logic
 2026-08-31T01:09:52.342Z DeepSeek <service@deepseek.com> :: tweak readme typo
+2026-08-31T10:07:36.991Z Jimmy Song <rootsongjc@users.noreply.github.com> :: polish logging
