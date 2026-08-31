@@ -12920,3 +12920,4 @@
 2026-08-31T15:26:39.564Z Getgems <getgems-io@users.noreply.github.com> :: refactor retry logic
 2026-08-31T17:17:20.407Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add flaky test
 2026-08-31T18:03:50.241Z SouJunior <wouerner@soujunior.tech> :: clean up dead code
+2026-08-31T18:50:03.009Z owenzhang <owenzhang@users.noreply.github.com> :: polish build script
