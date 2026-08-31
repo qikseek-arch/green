@@ -12904,3 +12904,4 @@
 2026-08-30T23:02:31.992Z vb <Vaibhavs10@users.noreply.github.com> :: remove readme typo
 2026-08-30T23:08:37.987Z OpenJS Foundation <info@openjsf.org> :: tweak the parser
 2026-08-30T23:33:29.622Z Ryan Bigg <radar@users.noreply.github.com> :: clean up build script
+2026-08-31T01:09:24.081Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up dead code
