@@ -12912,3 +12912,4 @@
 2026-08-31T09:09:30.858Z heyli <lcxfs1991@users.noreply.github.com> :: tweak retry logic
 2026-08-31T10:29:40.798Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump the CI matrix
 2026-08-31T10:30:40.268Z Adam Bell <b3ll@users.noreply.github.com> :: clean up flaky test
+2026-08-31T10:49:29.525Z AI4Bhārat <opensource@ai4bharat.org> :: add dependency versions
