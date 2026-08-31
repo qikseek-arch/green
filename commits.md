@@ -12906,3 +12906,4 @@
 2026-08-30T23:33:29.622Z Ryan Bigg <radar@users.noreply.github.com> :: clean up build script
 2026-08-31T01:09:24.081Z Tim Großmann <timgrossmann@users.noreply.github.com> :: wire up dead code
 2026-08-31T01:26:12.505Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak null check
+2026-08-31T04:57:31.165Z Getgems <getgems-io@users.noreply.github.com> :: add dependency versions
