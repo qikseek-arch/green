@@ -12908,3 +12908,4 @@
 2026-08-31T01:26:12.505Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak null check
 2026-08-31T04:57:31.165Z Getgems <getgems-io@users.noreply.github.com> :: add dependency versions
 2026-08-31T06:54:14.061Z OpenJS Foundation <info@openjsf.org> :: tweak build script
+2026-08-31T07:18:26.303Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak null check
