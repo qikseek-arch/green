@@ -12922,3 +12922,4 @@
 2026-08-31T18:03:50.241Z SouJunior <wouerner@soujunior.tech> :: clean up dead code
 2026-08-31T18:50:03.009Z owenzhang <owenzhang@users.noreply.github.com> :: polish build script
 2026-08-31T19:03:24.286Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up readme typo
+2026-08-31T19:06:37.349Z Getgems <getgems-io@users.noreply.github.com> :: refactor error handling
