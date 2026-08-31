@@ -12910,3 +12910,4 @@
 2026-08-31T06:54:14.061Z OpenJS Foundation <info@openjsf.org> :: tweak build script
 2026-08-31T07:18:26.303Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak null check
 2026-08-31T09:09:30.858Z heyli <lcxfs1991@users.noreply.github.com> :: tweak retry logic
+2026-08-31T10:29:40.798Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump the CI matrix
