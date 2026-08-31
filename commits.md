@@ -962,3 +962,4 @@
 2026-08-30T05:21:32.881Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: add null check
 2026-08-30T07:41:16.478Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: add flaky test
 2026-08-30T20:25:02.695Z Sebastian <sebmck@users.noreply.github.com> :: remove retry logic
+2026-08-31T01:09:52.342Z DeepSeek <service@deepseek.com> :: tweak readme typo
