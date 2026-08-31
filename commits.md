@@ -12921,3 +12921,4 @@
 2026-08-31T17:17:20.407Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add flaky test
 2026-08-31T18:03:50.241Z SouJunior <wouerner@soujunior.tech> :: clean up dead code
 2026-08-31T18:50:03.009Z owenzhang <owenzhang@users.noreply.github.com> :: polish build script
+2026-08-31T19:03:24.286Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: wire up readme typo
