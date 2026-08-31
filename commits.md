@@ -12913,3 +12913,4 @@
 2026-08-31T10:29:40.798Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump the CI matrix
 2026-08-31T10:30:40.268Z Adam Bell <b3ll@users.noreply.github.com> :: clean up flaky test
 2026-08-31T10:49:29.525Z AI4Bhārat <opensource@ai4bharat.org> :: add dependency versions
+2026-08-31T11:43:54.227Z Shivay Lamba <shivaylamba@users.noreply.github.com> :: tweak the parser
