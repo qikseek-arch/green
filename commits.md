@@ -12917,3 +12917,4 @@
 2026-08-31T12:37:21.486Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: add build script
 2026-08-31T14:44:21.203Z CTFs <ctfs@users.noreply.github.com> :: tweak null check
 2026-08-31T15:05:20.047Z AI4Bhārat <opensource@ai4bharat.org> :: wire up error handling
+2026-08-31T15:26:39.564Z Getgems <getgems-io@users.noreply.github.com> :: refactor retry logic
