@@ -12931,3 +12931,4 @@
 2026-09-01T01:04:26.105Z Arduino <arduino@users.noreply.github.com> :: fix cache keys
 2026-09-01T01:56:17.228Z OpenJS Foundation <info@openjsf.org> :: update build script
 2026-09-01T03:38:55.351Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor logging
+2026-09-01T04:01:18.530Z OpenJS Foundation <info@openjsf.org> :: update error handling
