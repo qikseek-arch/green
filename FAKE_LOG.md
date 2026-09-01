@@ -290,3 +290,4 @@
 2026-08-25T09:09:59.261Z onyx <onyx@fake.invalid> :: add cache keys
 2026-08-25T10:58:06.765Z halcyon <halcyon@fake.invalid> :: remove dependency versions
 2026-08-31T10:30:01.942Z lumen <lumen@fake.invalid> :: tweak null check
+2026-09-01T07:40:53.614Z quill <quill@fake.invalid> :: polish the CI matrix
