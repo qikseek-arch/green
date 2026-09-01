@@ -12943,3 +12943,4 @@
 2026-09-01T12:13:50.294Z David Fowler <davidfowl@users.noreply.github.com> :: polish dependency versions
 2026-09-01T12:24:37.203Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor build script
 2026-09-01T13:06:28.685Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add flaky test
+2026-09-01T16:00:13.848Z AI4Bhārat <opensource@ai4bharat.org> :: refactor the parser
