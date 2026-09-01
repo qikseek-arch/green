@@ -12929,3 +12929,4 @@
 2026-09-01T00:07:17.443Z Adam Bell <b3ll@users.noreply.github.com> :: remove cache keys
 2026-09-01T00:56:48.508Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
 2026-09-01T01:04:26.105Z Arduino <arduino@users.noreply.github.com> :: fix cache keys
+2026-09-01T01:56:17.228Z OpenJS Foundation <info@openjsf.org> :: update build script
