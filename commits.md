@@ -12933,3 +12933,4 @@
 2026-09-01T03:38:55.351Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor logging
 2026-09-01T04:01:18.530Z OpenJS Foundation <info@openjsf.org> :: update error handling
 2026-09-01T04:30:39.737Z Adam Bell <b3ll@users.noreply.github.com> :: update dependency versions
+2026-09-01T05:18:03.053Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix the parser
