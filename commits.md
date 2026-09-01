@@ -965,3 +965,4 @@
 2026-08-31T01:09:52.342Z DeepSeek <service@deepseek.com> :: tweak readme typo
 2026-08-31T10:07:36.991Z Jimmy Song <rootsongjc@users.noreply.github.com> :: polish logging
 2026-08-31T23:55:05.999Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: refactor config defaults
+2026-09-01T07:09:00.002Z Philipp Schmid <philschmid@users.noreply.github.com> :: remove retry logic
