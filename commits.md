@@ -12926,3 +12926,4 @@
 2026-08-31T19:52:02.374Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up readme typo
 2026-08-31T20:14:20.039Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: remove dead code
 2026-08-31T23:06:50.244Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump dead code
+2026-09-01T00:07:17.443Z Adam Bell <b3ll@users.noreply.github.com> :: remove cache keys
