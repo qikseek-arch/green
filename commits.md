@@ -12935,3 +12935,4 @@
 2026-09-01T04:30:39.737Z Adam Bell <b3ll@users.noreply.github.com> :: update dependency versions
 2026-09-01T05:18:03.053Z Tim MacDonald <timacdonald@users.noreply.github.com> :: fix the parser
 2026-09-01T05:41:19.395Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
+2026-09-01T05:42:25.363Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump the parser
