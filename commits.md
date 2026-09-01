@@ -967,3 +967,4 @@
 2026-08-31T23:55:05.999Z Rafael Carneiro <Rafaelmdcarneiro@users.noreply.github.com> :: refactor config defaults
 2026-09-01T07:09:00.002Z Philipp Schmid <philschmid@users.noreply.github.com> :: remove retry logic
 2026-09-01T20:40:11.174Z Holtz Yan <holtzy@users.noreply.github.com> :: fix cache keys
+2026-09-01T23:44:17.139Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: refactor readme typo
