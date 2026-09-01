@@ -12941,3 +12941,4 @@
 2026-09-01T08:04:12.968Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove the parser
 2026-09-01T09:49:46.425Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor retry logic
 2026-09-01T12:13:50.294Z David Fowler <davidfowl@users.noreply.github.com> :: polish dependency versions
+2026-09-01T12:24:37.203Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: refactor build script
