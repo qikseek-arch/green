@@ -12937,3 +12937,4 @@
 2026-09-01T05:41:19.395Z CTFs <ctfs@users.noreply.github.com> :: polish the CI matrix
 2026-09-01T05:42:25.363Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: bump the parser
 2026-09-01T07:14:29.130Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: clean up null check
+2026-09-01T07:47:53.916Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: update config defaults
