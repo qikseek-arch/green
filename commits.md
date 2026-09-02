@@ -12955,3 +12955,4 @@
 2026-09-02T08:15:22.180Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump config defaults
 2026-09-02T11:14:23.937Z Adam Łucek <ALucek@users.noreply.github.com> :: tweak dead code
 2026-09-02T12:06:38.890Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix cache keys
+2026-09-02T12:15:38.537Z Aurélien Geron <ageron@users.noreply.github.com> :: polish logging
