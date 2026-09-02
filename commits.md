@@ -12950,3 +12950,4 @@
 2026-09-01T23:10:19.810Z markqvist <markqvist@users.noreply.github.com> :: tweak logging
 2026-09-02T00:05:06.904Z Taiko Foundation <info@taiko.xyz> :: tweak readme typo
 2026-09-02T02:08:19.159Z Ryan Bigg <radar@users.noreply.github.com> :: clean up dependency versions
+2026-09-02T06:15:45.551Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump dependency versions
