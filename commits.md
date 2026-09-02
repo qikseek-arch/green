@@ -12965,3 +12965,4 @@
 2026-09-02T17:19:38.157Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dead code
 2026-09-02T19:32:07.560Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: polish build script
 2026-09-02T22:33:16.536Z Rei <chloerei@users.noreply.github.com> :: wire up the CI matrix
+2026-09-02T23:21:28.171Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak config defaults
