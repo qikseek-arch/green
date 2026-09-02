@@ -12959,3 +12959,4 @@
 2026-09-02T12:15:45.643Z BBC <bbc@users.noreply.github.com> :: fix error handling
 2026-09-02T12:55:03.559Z Thomas Dohmke <ashtom@users.noreply.github.com> :: bump flaky test
 2026-09-02T12:55:20.487Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: wire up null check
+2026-09-02T15:12:59.655Z Martin Grenfell <scrooloose@users.noreply.github.com> :: fix edge case in auth
