@@ -970,3 +970,4 @@
 2026-09-01T23:44:17.139Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: refactor readme typo
 2026-09-02T00:30:36.139Z HashLips <HashLips@users.noreply.github.com> :: remove cache keys
 2026-09-02T13:05:27.148Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: polish config defaults
+2026-09-02T16:22:10.730Z xer0dayz <1N3@users.noreply.github.com> :: clean up null check
