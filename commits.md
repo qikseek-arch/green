@@ -12952,3 +12952,4 @@
 2026-09-02T02:08:19.159Z Ryan Bigg <radar@users.noreply.github.com> :: clean up dependency versions
 2026-09-02T06:15:45.551Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: bump dependency versions
 2026-09-02T07:59:49.091Z Shubs <infosec-au@users.noreply.github.com> :: remove readme typo
+2026-09-02T08:15:22.180Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump config defaults
