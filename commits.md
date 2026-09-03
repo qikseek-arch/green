@@ -12988,3 +12988,4 @@
 2026-09-03T17:22:42.631Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove readme typo
 2026-09-03T17:22:53.609Z Claude <claude@users.noreply.github.com> :: clean up retry logic
 2026-09-03T18:36:15.033Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up build script
+2026-09-03T19:15:53.507Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump dependency versions
