@@ -12987,3 +12987,4 @@
 2026-09-03T17:15:46.609Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add error handling
 2026-09-03T17:22:42.631Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove readme typo
 2026-09-03T17:22:53.609Z Claude <claude@users.noreply.github.com> :: clean up retry logic
+2026-09-03T18:36:15.033Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up build script
