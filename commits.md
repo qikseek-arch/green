@@ -12977,3 +12977,4 @@
 2026-09-03T06:24:57.888Z Inanc Gumus <inancgumus@users.noreply.github.com> :: wire up logging
 2026-09-03T07:58:39.311Z CTFs <ctfs@users.noreply.github.com> :: refactor dependency versions
 2026-09-03T09:39:08.274Z LILYGO <LilyGO@users.noreply.github.com> :: remove edge case in auth
+2026-09-03T09:40:42.769Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove logging
