@@ -879,3 +879,4 @@
 2026-08-24T09:00:37.579Z Anthony Fu <antfu@users.noreply.github.com> :: fix build script
 2026-08-27T17:57:11.656Z Anthropic <anthropics@users.noreply.github.com> :: polish dependency versions
 2026-08-28T02:23:23.419Z Hadley Wickham <hadley@users.noreply.github.com> :: bump null check
+2026-09-03T17:19:48.645Z Kirat <hkirat@users.noreply.github.com> :: tweak build script
