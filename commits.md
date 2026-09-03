@@ -12968,3 +12968,4 @@
 2026-09-02T23:21:28.171Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak config defaults
 2026-09-03T00:23:15.594Z Roger Labbe <rlabbe@users.noreply.github.com> :: tweak retry logic
 2026-09-03T01:10:36.701Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up the CI matrix
+2026-09-03T01:22:27.850Z Jafar Husain <jhusain@users.noreply.github.com> :: remove the parser
