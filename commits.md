@@ -12992,3 +12992,4 @@
 2026-09-03T19:45:13.935Z Keith Smiley <keith@users.noreply.github.com> :: polish logging
 2026-09-03T19:49:26.689Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor flaky test
 2026-09-03T19:56:32.178Z Ryan Bigg <radar@users.noreply.github.com> :: polish error handling
+2026-09-03T21:53:53.387Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish readme typo
