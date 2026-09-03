@@ -12981,3 +12981,4 @@
 2026-09-03T12:01:56.825Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up edge case in auth
 2026-09-03T12:18:10.731Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix dependency versions
 2026-09-03T13:28:32.087Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
+2026-09-03T14:48:02.419Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish readme typo
