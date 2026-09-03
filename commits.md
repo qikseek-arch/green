@@ -973,3 +973,4 @@
 2026-09-02T16:22:10.730Z xer0dayz <1N3@users.noreply.github.com> :: clean up null check
 2026-09-03T03:26:51.490Z Ce Gao <gaocegege@users.noreply.github.com> :: polish dead code
 2026-09-03T08:42:22.767Z CMLiussss <cmliu@users.noreply.github.com> :: update edge case in auth
+2026-09-03T15:25:09.363Z Justin Tunney <jart@users.noreply.github.com> :: polish dead code
