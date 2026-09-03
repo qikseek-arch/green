@@ -12994,3 +12994,4 @@
 2026-09-03T19:56:32.178Z Ryan Bigg <radar@users.noreply.github.com> :: polish error handling
 2026-09-03T21:53:53.387Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: polish readme typo
 2026-09-03T21:59:40.984Z Odi <mathdroid@users.noreply.github.com> :: bump logging
+2026-09-03T22:12:52.641Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix build script
