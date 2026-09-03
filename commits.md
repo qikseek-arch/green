@@ -12984,3 +12984,4 @@
 2026-09-03T14:48:02.419Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish readme typo
 2026-09-03T15:12:21.092Z heyli <lcxfs1991@users.noreply.github.com> :: clean up dead code
 2026-09-03T16:35:00.107Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up config defaults
+2026-09-03T17:15:46.609Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add error handling
