@@ -12986,3 +12986,4 @@
 2026-09-03T16:35:00.107Z Thomas Dohmke <ashtom@users.noreply.github.com> :: wire up config defaults
 2026-09-03T17:15:46.609Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add error handling
 2026-09-03T17:22:42.631Z Tim Neutkens <timneutkens@users.noreply.github.com> :: remove readme typo
+2026-09-03T17:22:53.609Z Claude <claude@users.noreply.github.com> :: clean up retry logic
