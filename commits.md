@@ -12978,3 +12978,4 @@
 2026-09-03T07:58:39.311Z CTFs <ctfs@users.noreply.github.com> :: refactor dependency versions
 2026-09-03T09:39:08.274Z LILYGO <LilyGO@users.noreply.github.com> :: remove edge case in auth
 2026-09-03T09:40:42.769Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove logging
+2026-09-03T12:01:56.825Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up edge case in auth
