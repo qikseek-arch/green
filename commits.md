@@ -12982,3 +12982,4 @@
 2026-09-03T12:18:10.731Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix dependency versions
 2026-09-03T13:28:32.087Z Adam Łucek <ALucek@users.noreply.github.com> :: fix dependency versions
 2026-09-03T14:48:02.419Z Andreas Kling <awesomekling@users.noreply.github.com> :: polish readme typo
+2026-09-03T15:12:21.092Z heyli <lcxfs1991@users.noreply.github.com> :: clean up dead code
