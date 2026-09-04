@@ -12997,3 +12997,4 @@
 2026-09-03T22:12:52.641Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix build script
 2026-09-03T23:26:03.971Z ㅤxander <vampirist@users.noreply.github.com> :: clean up the CI matrix
 2026-09-03T23:55:27.932Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish readme typo
+2026-09-04T00:41:08.171Z AI4Bhārat <opensource@ai4bharat.org> :: polish config defaults
