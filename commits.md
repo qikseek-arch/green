@@ -976,3 +976,4 @@
 2026-09-03T15:25:09.363Z Justin Tunney <jart@users.noreply.github.com> :: polish dead code
 2026-09-03T17:32:36.452Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: polish dependency versions
 2026-09-04T04:12:00.148Z Draven <draveness@users.noreply.github.com> :: polish flaky test
+2026-09-04T10:10:09.980Z xer0dayz <1N3@users.noreply.github.com> :: clean up the CI matrix
