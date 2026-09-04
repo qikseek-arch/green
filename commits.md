@@ -13008,3 +13008,4 @@
 2026-09-04T07:04:00.167Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up dependency versions
 2026-09-04T08:03:01.157Z Damian Dulisz <shentao@users.noreply.github.com> :: bump dead code
 2026-09-04T09:10:42.769Z Sachin Soni <techiesms@users.noreply.github.com> :: bump logging
+2026-09-04T09:11:56.107Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up the CI matrix
