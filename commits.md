@@ -12998,3 +12998,4 @@
 2026-09-03T23:26:03.971Z ㅤxander <vampirist@users.noreply.github.com> :: clean up the CI matrix
 2026-09-03T23:55:27.932Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish readme typo
 2026-09-04T00:41:08.171Z AI4Bhārat <opensource@ai4bharat.org> :: polish config defaults
+2026-09-04T01:14:44.119Z Adam Łucek <ALucek@users.noreply.github.com> :: add edge case in auth
