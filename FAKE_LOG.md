@@ -492,3 +492,4 @@
 2026-08-28T21:32:24.520Z Vint Cerf <vint.cerf@fake.invalid> :: wire up the CI matrix
 2026-08-30T17:34:44.038Z kernel_silent_x <kernel_silent_x@fake.invalid> :: polish readme typo
 2026-09-01T16:26:54.231Z Evan You <evan.you@fake.invalid> :: clean up dependency versions
+2026-09-04T05:58:27.748Z Alan Kay <alan.kay@fake.invalid> :: clean up null check
