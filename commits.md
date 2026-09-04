@@ -978,3 +978,4 @@
 2026-09-04T04:12:00.148Z Draven <draveness@users.noreply.github.com> :: polish flaky test
 2026-09-04T10:10:09.980Z xer0dayz <1N3@users.noreply.github.com> :: clean up the CI matrix
 2026-09-04T14:02:05.340Z Rob Fuller <mubix@users.noreply.github.com> :: clean up flaky test
+2026-09-04T19:44:20.023Z t11s <transmissions11@users.noreply.github.com> :: remove config defaults
