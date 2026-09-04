@@ -13005,3 +13005,4 @@
 2026-09-04T05:43:12.040Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump logging
 2026-09-04T06:09:37.619Z BBC <bbc@users.noreply.github.com> :: polish the parser
 2026-09-04T07:00:12.449Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix logging
+2026-09-04T07:04:00.167Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up dependency versions
