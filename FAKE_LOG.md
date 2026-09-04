@@ -390,3 +390,4 @@
 2026-08-24T21:37:11.574Z Donald Knuth <donald.knuth@fake.invalid> :: wire up the parser | Co-authored-by: Brad Traversy <bradtraversy@users.noreply.github.com>
 2026-08-27T19:14:44.951Z Richard Feynman <richard.feynman@fake.invalid> :: add retry logic
 2026-08-28T14:21:21.290Z chill-packet_x <chill-packet_x@fake.invalid> :: remove cache keys | Co-authored-by: Diego Fernandes <diego3g@users.noreply.github.com>
+2026-09-04T03:17:08.757Z muffin_atomicxx <muffin_atomicxx@fake.invalid> :: wire up the CI matrix
