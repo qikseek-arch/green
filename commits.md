@@ -13017,3 +13017,4 @@
 2026-09-04T13:50:28.711Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up logging
 2026-09-04T15:12:15.461Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: wire up dead code
 2026-09-04T17:48:54.502Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump the parser
+2026-09-04T20:33:23.825Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor readme typo
