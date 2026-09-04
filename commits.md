@@ -13010,3 +13010,4 @@
 2026-09-04T09:10:42.769Z Sachin Soni <techiesms@users.noreply.github.com> :: bump logging
 2026-09-04T09:11:56.107Z Tim MacDonald <timacdonald@users.noreply.github.com> :: wire up the CI matrix
 2026-09-04T10:42:37.281Z Bytedance Inc. <bytedance@users.noreply.github.com> :: tweak dependency versions
+2026-09-04T10:52:22.373Z Keith Smiley <keith@users.noreply.github.com> :: polish build script
