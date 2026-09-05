@@ -13040,3 +13040,4 @@
 2026-09-05T14:36:21.398Z qiye <qiyeboy@users.noreply.github.com> :: polish readme typo
 2026-09-05T14:49:37.010Z markqvist <markqvist@users.noreply.github.com> :: tweak config defaults
 2026-09-05T17:08:37.913Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish dead code
+2026-09-05T17:43:07.459Z Andreas Kling <awesomekling@users.noreply.github.com> :: remove dead code
