@@ -985,3 +985,4 @@
 2026-09-05T14:36:10.871Z Holtz Yan <holtzy@users.noreply.github.com> :: fix the parser
 2026-09-05T20:00:47.252Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: polish null check
 2026-09-05T21:26:11.620Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up readme typo
+2026-09-05T23:45:32.943Z Mark Erikson <markerikson@users.noreply.github.com> :: clean up readme typo
