@@ -13025,3 +13025,4 @@
 2026-09-05T03:18:57.274Z Tim Großmann <timgrossmann@users.noreply.github.com> :: bump build script
 2026-09-05T03:44:18.669Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: wire up edge case in auth
 2026-09-05T04:26:04.984Z SouJunior <wouerner@soujunior.tech> :: wire up config defaults
+2026-09-05T05:03:25.175Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish build script
