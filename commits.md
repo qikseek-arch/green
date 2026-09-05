@@ -13031,3 +13031,4 @@
 2026-09-05T07:49:03.550Z First Contributions <firstcontributions@gmail.com> :: remove logging
 2026-09-05T09:24:00.636Z Rei <chloerei@users.noreply.github.com> :: clean up retry logic
 2026-09-05T10:44:35.565Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update dependency versions
+2026-09-05T10:52:03.301Z Almas Baim <AlmasB@users.noreply.github.com> :: fix config defaults
