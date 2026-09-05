@@ -984,3 +984,4 @@
 2026-09-05T07:49:44.663Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor readme typo
 2026-09-05T14:36:10.871Z Holtz Yan <holtzy@users.noreply.github.com> :: fix the parser
 2026-09-05T20:00:47.252Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: polish null check
+2026-09-05T21:26:11.620Z Segun Adebayo <segunadebayo@users.noreply.github.com> :: wire up readme typo
