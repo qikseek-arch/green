@@ -983,3 +983,4 @@
 2026-09-05T03:24:17.739Z Odoo Community Association <OCA@users.noreply.github.com> :: wire up null check
 2026-09-05T07:49:44.663Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor readme typo
 2026-09-05T14:36:10.871Z Holtz Yan <holtzy@users.noreply.github.com> :: fix the parser
+2026-09-05T20:00:47.252Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: polish null check
