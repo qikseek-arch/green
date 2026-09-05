@@ -979,3 +979,4 @@
 2026-09-04T10:10:09.980Z xer0dayz <1N3@users.noreply.github.com> :: clean up the CI matrix
 2026-09-04T14:02:05.340Z Rob Fuller <mubix@users.noreply.github.com> :: clean up flaky test
 2026-09-04T19:44:20.023Z t11s <transmissions11@users.noreply.github.com> :: remove config defaults
+2026-09-05T02:44:43.239Z Katrina Owen <kytrinyx@users.noreply.github.com> :: update null check
