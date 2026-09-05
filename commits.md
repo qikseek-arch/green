@@ -13029,3 +13029,4 @@
 2026-09-05T05:06:14.153Z AI4Bhārat <opensource@ai4bharat.org> :: fix edge case in auth
 2026-09-05T05:23:49.127Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up dependency versions
 2026-09-05T07:49:03.550Z First Contributions <firstcontributions@gmail.com> :: remove logging
+2026-09-05T09:24:00.636Z Rei <chloerei@users.noreply.github.com> :: clean up retry logic
