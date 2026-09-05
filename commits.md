@@ -13027,3 +13027,4 @@
 2026-09-05T04:26:04.984Z SouJunior <wouerner@soujunior.tech> :: wire up config defaults
 2026-09-05T05:03:25.175Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: polish build script
 2026-09-05T05:06:14.153Z AI4Bhārat <opensource@ai4bharat.org> :: fix edge case in auth
+2026-09-05T05:23:49.127Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: clean up dependency versions
