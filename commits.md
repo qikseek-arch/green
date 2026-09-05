@@ -13020,3 +13020,4 @@
 2026-09-04T20:33:23.825Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: refactor readme typo
 2026-09-04T21:39:08.402Z Shubs <infosec-au@users.noreply.github.com> :: refactor cache keys
 2026-09-05T00:48:34.608Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dead code
+2026-09-05T01:15:36.033Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: fix dependency versions
