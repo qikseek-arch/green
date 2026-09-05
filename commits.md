@@ -13038,3 +13038,4 @@
 2026-09-05T13:31:17.127Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up edge case in auth
 2026-09-05T13:39:24.699Z Sachin Soni <techiesms@users.noreply.github.com> :: wire up error handling
 2026-09-05T14:36:21.398Z qiye <qiyeboy@users.noreply.github.com> :: polish readme typo
+2026-09-05T14:49:37.010Z markqvist <markqvist@users.noreply.github.com> :: tweak config defaults
