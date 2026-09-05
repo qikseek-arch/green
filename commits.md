@@ -13046,3 +13046,4 @@
 2026-09-05T20:24:14.148Z CTFs <ctfs@users.noreply.github.com> :: clean up flaky test
 2026-09-05T20:38:23.482Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the CI matrix
 2026-09-05T21:12:47.339Z heyli <lcxfs1991@users.noreply.github.com> :: remove the CI matrix
+2026-09-05T21:48:44.420Z Thomas Dohmke <ashtom@users.noreply.github.com> :: refactor config defaults
