@@ -13033,3 +13033,4 @@
 2026-09-05T10:44:35.565Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update dependency versions
 2026-09-05T10:52:03.301Z Almas Baim <AlmasB@users.noreply.github.com> :: fix config defaults
 2026-09-05T11:12:20.160Z AI4Bhārat <opensource@ai4bharat.org> :: remove config defaults
+2026-09-05T12:25:23.913Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add null check
