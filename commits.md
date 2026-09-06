@@ -13051,3 +13051,4 @@
 2026-09-06T00:35:52.585Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: update cache keys
 2026-09-06T01:02:26.712Z David Fowler <davidfowl@users.noreply.github.com> :: update the CI matrix
 2026-09-06T02:07:51.735Z SouJunior <wouerner@soujunior.tech> :: remove the CI matrix
+2026-09-06T04:32:04.110Z Adam Wathan <adamwathan@users.noreply.github.com> :: add null check
