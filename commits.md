@@ -13055,3 +13055,4 @@
 2026-09-06T05:14:47.122Z SouJunior <wouerner@soujunior.tech> :: clean up build script
 2026-09-06T05:53:33.241Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix cache keys
 2026-09-06T07:55:27.034Z vb <Vaibhavs10@users.noreply.github.com> :: bump dead code
+2026-09-06T08:56:28.520Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up retry logic
