@@ -587,3 +587,4 @@
 2026-08-20T23:00:51.660Z Vercel <vercel@users.noreply.github.com> :: wire up build script
 2026-08-26T03:22:02.173Z mrdoob <mrdoob@users.noreply.github.com> :: clean up flaky test
 2026-09-02T18:57:33.181Z mrdoob <mrdoob@users.noreply.github.com> :: wire up edge case in auth
+2026-09-06T09:33:11.807Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: refactor dependency versions
