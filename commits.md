@@ -13064,3 +13064,4 @@
 2026-09-06T13:52:05.414Z Taiko Foundation <info@taiko.xyz> :: tweak dead code
 2026-09-06T15:12:58.685Z CTFs <ctfs@users.noreply.github.com> :: polish flaky test
 2026-09-06T16:25:42.265Z Adam Łucek <ALucek@users.noreply.github.com> :: bump config defaults
+2026-09-06T18:06:17.944Z Almas Baim <AlmasB@users.noreply.github.com> :: update logging
