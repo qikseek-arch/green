@@ -13060,3 +13060,4 @@
 2026-09-06T10:19:38.722Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: refactor the CI matrix
 2026-09-06T12:07:17.112Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up the parser
 2026-09-06T12:22:19.537Z FlowiseAI <hello@flowiseai.com> :: add error handling
+2026-09-06T12:35:04.734Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: remove build script
