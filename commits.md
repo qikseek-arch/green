@@ -13068,3 +13068,4 @@
 2026-09-06T18:08:10.014Z Almas Baim <AlmasB@users.noreply.github.com> :: update null check
 2026-09-06T20:15:59.534Z David Clark <nullptrException100@users.noreply.github.com> :: update error handling
 2026-09-06T22:07:44.293Z Adam Wathan <adamwathan@users.noreply.github.com> :: remove logging
+2026-09-06T22:30:07.059Z Aurélien Geron <ageron@users.noreply.github.com> :: clean up edge case in auth
