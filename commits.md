@@ -13066,3 +13066,4 @@
 2026-09-06T16:25:42.265Z Adam Łucek <ALucek@users.noreply.github.com> :: bump config defaults
 2026-09-06T18:06:17.944Z Almas Baim <AlmasB@users.noreply.github.com> :: update logging
 2026-09-06T18:08:10.014Z Almas Baim <AlmasB@users.noreply.github.com> :: update null check
+2026-09-06T20:15:59.534Z David Clark <nullptrException100@users.noreply.github.com> :: update error handling
