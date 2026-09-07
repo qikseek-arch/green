@@ -13085,3 +13085,4 @@
 2026-09-07T07:27:45.501Z Qwen <qianwen_opensource@alibabacloud.com> :: bump config defaults
 2026-09-07T08:18:14.669Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
 2026-09-07T08:53:13.040Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up dependency versions
+2026-09-07T08:56:10.170Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
