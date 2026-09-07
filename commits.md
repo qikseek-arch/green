@@ -13098,3 +13098,4 @@
 2026-09-07T18:29:34.524Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove retry logic
 2026-09-07T18:45:01.708Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up dependency versions
 2026-09-07T19:01:14.670Z heyli <lcxfs1991@users.noreply.github.com> :: polish retry logic
+2026-09-07T19:21:27.993Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up logging
