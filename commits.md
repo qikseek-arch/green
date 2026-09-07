@@ -13095,3 +13095,4 @@
 2026-09-07T13:37:04.249Z AI4Bhārat <opensource@ai4bharat.org> :: bump cache keys
 2026-09-07T14:18:27.108Z AI4Bhārat <opensource@ai4bharat.org> :: wire up dead code
 2026-09-07T15:19:34.328Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish the CI matrix
+2026-09-07T18:29:34.524Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: remove retry logic
