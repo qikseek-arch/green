@@ -13077,3 +13077,4 @@
 2026-09-07T03:07:18.704Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add build script
 2026-09-07T03:59:59.731Z AI4Bhārat <opensource@ai4bharat.org> :: refactor dependency versions
 2026-09-07T04:12:57.811Z Adam Bell <b3ll@users.noreply.github.com> :: bump the CI matrix
+2026-09-07T04:22:09.335Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix retry logic
