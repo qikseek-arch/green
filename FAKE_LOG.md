@@ -292,3 +292,4 @@
 2026-08-31T10:30:01.942Z lumen <lumen@fake.invalid> :: tweak null check
 2026-09-01T07:40:53.614Z quill <quill@fake.invalid> :: polish the CI matrix
 2026-09-06T22:16:44.664Z juno <juno@fake.invalid> :: wire up null check
+2026-09-07T08:02:15.143Z wisp <wisp@fake.invalid> :: remove logging
