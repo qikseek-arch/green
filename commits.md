@@ -13084,3 +13084,4 @@
 2026-09-07T06:02:57.241Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up build script
 2026-09-07T07:27:45.501Z Qwen <qianwen_opensource@alibabacloud.com> :: bump config defaults
 2026-09-07T08:18:14.669Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
+2026-09-07T08:53:13.040Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up dependency versions
