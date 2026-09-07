@@ -13081,3 +13081,4 @@
 2026-09-07T05:11:06.587Z ring04h <ring04h@users.noreply.github.com> :: update retry logic
 2026-09-07T05:23:38.038Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: polish config defaults
 2026-09-07T05:54:52.180Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: add dead code
+2026-09-07T06:02:57.241Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: wire up build script
