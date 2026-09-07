@@ -13086,3 +13086,4 @@
 2026-09-07T08:18:14.669Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor readme typo
 2026-09-07T08:53:13.040Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up dependency versions
 2026-09-07T08:56:10.170Z Adam Łucek <ALucek@users.noreply.github.com> :: fix retry logic
+2026-09-07T09:28:25.452Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up dependency versions
