@@ -13072,3 +13072,4 @@
 2026-09-06T23:35:22.292Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: clean up logging
 2026-09-07T00:43:28.623Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: bump cache keys
 2026-09-07T01:02:56.411Z ㅤxander <vampirist@users.noreply.github.com> :: refactor build script
+2026-09-07T02:04:00.993Z Taiko Foundation <info@taiko.xyz> :: remove edge case in auth
