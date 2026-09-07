@@ -13099,3 +13099,4 @@
 2026-09-07T18:45:01.708Z Roger Labbe <rlabbe@users.noreply.github.com> :: clean up dependency versions
 2026-09-07T19:01:14.670Z heyli <lcxfs1991@users.noreply.github.com> :: polish retry logic
 2026-09-07T19:21:27.993Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up logging
+2026-09-07T20:49:20.775Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up dead code
