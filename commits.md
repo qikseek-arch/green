@@ -13118,3 +13118,4 @@
 2026-09-08T15:00:52.242Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove the parser
 2026-09-08T16:41:14.848Z Adam Łucek <ALucek@users.noreply.github.com> :: refactor logging
 2026-09-08T17:13:43.220Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: clean up dead code
+2026-09-08T18:53:09.835Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix edge case in auth
