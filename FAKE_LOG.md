@@ -494,3 +494,4 @@
 2026-09-01T16:26:54.231Z Evan You <evan.you@fake.invalid> :: clean up dependency versions
 2026-09-04T05:58:27.748Z Alan Kay <alan.kay@fake.invalid> :: clean up null check
 2026-09-06T17:09:50.002Z Sanjay Ghemawat <sanjay.ghemawat@fake.invalid> :: remove cache keys
+2026-09-08T08:59:45.936Z Bjarne Stroustrup <bjarne.stroustrup@fake.invalid> :: remove readme typo
