@@ -988,3 +988,4 @@
 2026-09-05T23:45:32.943Z Mark Erikson <markerikson@users.noreply.github.com> :: clean up readme typo
 2026-09-06T09:43:02.531Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: update null check
 2026-09-08T11:21:50.568Z @XDevelopers <xdevplatform@users.noreply.github.com> :: tweak retry logic
+2026-09-08T13:38:05.719Z Shaian <zshaian@users.noreply.github.com> :: add readme typo
