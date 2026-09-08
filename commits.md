@@ -990,3 +990,4 @@
 2026-09-08T11:21:50.568Z @XDevelopers <xdevplatform@users.noreply.github.com> :: tweak retry logic
 2026-09-08T13:38:05.719Z Shaian <zshaian@users.noreply.github.com> :: add readme typo
 2026-09-08T21:34:51.038Z Mark Murphy <commonsguy@users.noreply.github.com> :: wire up null check
+2026-09-08T22:06:05.432Z Sylvain Gugger <sgugger@users.noreply.github.com> :: polish dead code
