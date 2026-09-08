@@ -882,3 +882,4 @@
 2026-09-03T17:19:48.645Z Kirat <hkirat@users.noreply.github.com> :: tweak build script
 2026-09-04T13:14:24.874Z Unicity Labs <info@unicity-labs.com> :: wire up cache keys
 2026-09-05T02:27:45.519Z Christian Deacon <gamemann@users.noreply.github.com> :: update the CI matrix
+2026-09-08T05:21:37.087Z Ryan Dahl <ry@users.noreply.github.com> :: bump the CI matrix
