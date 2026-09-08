@@ -13103,3 +13103,4 @@
 2026-09-07T22:54:01.042Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: bump the CI matrix
 2026-09-07T23:46:58.021Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish cache keys
 2026-09-08T00:45:29.640Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor build script
+2026-09-08T01:28:40.005Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: refactor the parser
