@@ -13113,3 +13113,4 @@
 2026-09-08T10:07:15.353Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor the parser
 2026-09-08T11:17:14.229Z vb <Vaibhavs10@users.noreply.github.com> :: add retry logic
 2026-09-08T11:31:21.214Z Damian Dulisz <shentao@users.noreply.github.com> :: bump build script
+2026-09-08T13:11:19.633Z Selenium <SeleniumHQ@users.noreply.github.com> :: update dependency versions
