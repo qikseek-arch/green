@@ -13139,3 +13139,4 @@
 2026-09-09T12:36:07.448Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix the parser
 2026-09-09T12:42:13.825Z Keith Smiley <keith@users.noreply.github.com> :: remove the CI matrix
 2026-09-09T14:01:08.445Z Getgems <getgems-io@users.noreply.github.com> :: tweak retry logic
+2026-09-09T14:10:16.268Z Ivan Volkov <Chitus@users.noreply.github.com> :: remove readme typo
