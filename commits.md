@@ -13125,3 +13125,4 @@
 2026-09-09T02:02:42.150Z Manu Arora <manuarora700@users.noreply.github.com> :: polish readme typo
 2026-09-09T02:23:10.698Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up the parser
 2026-09-09T03:05:07.209Z Tim Großmann <timgrossmann@users.noreply.github.com> :: tweak error handling
+2026-09-09T03:38:34.144Z Sadık TURAN <sadikturan@users.noreply.github.com> :: bump null check
