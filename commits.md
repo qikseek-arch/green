@@ -13137,3 +13137,4 @@
 2026-09-09T11:49:58.856Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish edge case in auth
 2026-09-09T12:19:43.304Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump flaky test
 2026-09-09T12:36:07.448Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix the parser
+2026-09-09T12:42:13.825Z Keith Smiley <keith@users.noreply.github.com> :: remove the CI matrix
