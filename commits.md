@@ -992,3 +992,4 @@
 2026-09-08T21:34:51.038Z Mark Murphy <commonsguy@users.noreply.github.com> :: wire up null check
 2026-09-08T22:06:05.432Z Sylvain Gugger <sgugger@users.noreply.github.com> :: polish dead code
 2026-09-09T00:12:34.055Z Ryubing <Ryubing@users.noreply.github.com> :: tweak build script
+2026-09-09T00:17:54.333Z Brian Lovin <brianlovin@users.noreply.github.com> :: fix build script
