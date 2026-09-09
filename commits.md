@@ -13138,3 +13138,4 @@
 2026-09-09T12:19:43.304Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump flaky test
 2026-09-09T12:36:07.448Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix the parser
 2026-09-09T12:42:13.825Z Keith Smiley <keith@users.noreply.github.com> :: remove the CI matrix
+2026-09-09T14:01:08.445Z Getgems <getgems-io@users.noreply.github.com> :: tweak retry logic
