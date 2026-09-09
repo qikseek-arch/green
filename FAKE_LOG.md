@@ -884,3 +884,4 @@
 2026-09-05T02:27:45.519Z Christian Deacon <gamemann@users.noreply.github.com> :: update the CI matrix
 2026-09-08T05:21:37.087Z Ryan Dahl <ry@users.noreply.github.com> :: bump the CI matrix
 2026-09-09T08:07:05.661Z Jeff Delaney <codediodeio@users.noreply.github.com> :: fix logging
+2026-09-09T20:20:29.990Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: tweak edge case in auth
