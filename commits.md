@@ -13134,3 +13134,4 @@
 2026-09-09T10:56:22.506Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish dependency versions
 2026-09-09T11:06:29.638Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: add edge case in auth
 2026-09-09T11:16:22.606Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: add config defaults
+2026-09-09T11:49:58.856Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish edge case in auth
