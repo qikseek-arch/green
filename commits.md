@@ -13123,3 +13123,4 @@
 2026-09-09T00:23:02.236Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove edge case in auth
 2026-09-09T01:17:56.443Z Arduino <arduino@users.noreply.github.com> :: tweak retry logic
 2026-09-09T02:02:42.150Z Manu Arora <manuarora700@users.noreply.github.com> :: polish readme typo
+2026-09-09T02:23:10.698Z Tim Neutkens <timneutkens@users.noreply.github.com> :: clean up the parser
