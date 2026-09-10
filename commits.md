@@ -13155,3 +13155,4 @@
 2026-09-10T12:03:08.928Z owenzhang <owenzhang@users.noreply.github.com> :: wire up logging
 2026-09-10T14:02:44.780Z Qwen <qianwen_opensource@alibabacloud.com> :: add cache keys
 2026-09-10T14:26:03.623Z Getgems <getgems-io@users.noreply.github.com> :: add null check
+2026-09-10T14:49:28.853Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix edge case in auth
