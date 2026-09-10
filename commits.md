@@ -13151,3 +13151,4 @@
 2026-09-10T08:30:02.802Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish flaky test
 2026-09-10T09:06:07.958Z First Contributions <firstcontributions@gmail.com> :: polish config defaults
 2026-09-10T09:28:10.383Z Jason Zhang <Hackl0us@users.noreply.github.com> :: wire up readme typo
+2026-09-10T11:48:38.707Z BBC <bbc@users.noreply.github.com> :: fix config defaults
