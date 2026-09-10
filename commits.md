@@ -996,3 +996,4 @@
 2026-09-09T01:44:57.903Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: polish null check
 2026-09-09T09:01:03.739Z xer0dayz <1N3@users.noreply.github.com> :: refactor retry logic
 2026-09-09T14:22:05.397Z Katrina Owen <kytrinyx@users.noreply.github.com> :: wire up cache keys
+2026-09-10T02:50:03.234Z Sebastian <sebmck@users.noreply.github.com> :: tweak readme typo
