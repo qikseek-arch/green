@@ -13162,3 +13162,4 @@
 2026-09-10T18:42:32.458Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix retry logic
 2026-09-10T19:02:53.083Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update null check
 2026-09-10T19:20:06.723Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
+2026-09-10T20:42:52.143Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
