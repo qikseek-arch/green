@@ -13164,3 +13164,4 @@
 2026-09-10T19:20:06.723Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
 2026-09-10T20:42:52.143Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish dependency versions
 2026-09-10T21:15:29.796Z vb <Vaibhavs10@users.noreply.github.com> :: tweak the parser
+2026-09-10T22:00:33.779Z Ivan Volkov <Chitus@users.noreply.github.com> :: add readme typo
