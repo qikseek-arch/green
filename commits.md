@@ -13158,3 +13158,4 @@
 2026-09-10T14:49:28.853Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix edge case in auth
 2026-09-10T15:47:48.816Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: refactor retry logic
 2026-09-10T15:54:03.119Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up dependency versions
+2026-09-10T18:15:51.722Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up the CI matrix
