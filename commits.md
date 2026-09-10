@@ -13154,3 +13154,4 @@
 2026-09-10T11:48:38.707Z BBC <bbc@users.noreply.github.com> :: fix config defaults
 2026-09-10T12:03:08.928Z owenzhang <owenzhang@users.noreply.github.com> :: wire up logging
 2026-09-10T14:02:44.780Z Qwen <qianwen_opensource@alibabacloud.com> :: add cache keys
+2026-09-10T14:26:03.623Z Getgems <getgems-io@users.noreply.github.com> :: add null check
