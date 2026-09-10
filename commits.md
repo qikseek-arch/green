@@ -13161,3 +13161,4 @@
 2026-09-10T18:15:51.722Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up the CI matrix
 2026-09-10T18:42:32.458Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix retry logic
 2026-09-10T19:02:53.083Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: update null check
+2026-09-10T19:20:06.723Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
