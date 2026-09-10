@@ -13166,3 +13166,4 @@
 2026-09-10T21:15:29.796Z vb <Vaibhavs10@users.noreply.github.com> :: tweak the parser
 2026-09-10T22:00:33.779Z Ivan Volkov <Chitus@users.noreply.github.com> :: add readme typo
 2026-09-10T22:07:43.961Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: wire up cache keys
+2026-09-10T22:18:08.557Z Adam Łucek <ALucek@users.noreply.github.com> :: add dependency versions
