@@ -13159,3 +13159,4 @@
 2026-09-10T15:47:48.816Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: refactor retry logic
 2026-09-10T15:54:03.119Z Bert Belder <piscisaureus@users.noreply.github.com> :: wire up dependency versions
 2026-09-10T18:15:51.722Z Damian Dulisz <shentao@users.noreply.github.com> :: wire up the CI matrix
+2026-09-10T18:42:32.458Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: fix retry logic
