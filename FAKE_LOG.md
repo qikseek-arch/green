@@ -588,3 +588,4 @@
 2026-08-26T03:22:02.173Z mrdoob <mrdoob@users.noreply.github.com> :: clean up flaky test
 2026-09-02T18:57:33.181Z mrdoob <mrdoob@users.noreply.github.com> :: wire up edge case in auth
 2026-09-06T09:33:11.807Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: refactor dependency versions
+2026-09-10T10:36:41.252Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: polish dependency versions
