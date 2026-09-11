@@ -13177,3 +13177,4 @@
 2026-09-11T05:16:07.365Z Getgems <getgems-io@users.noreply.github.com> :: bump edge case in auth
 2026-09-11T05:42:36.089Z md-5 <md-5@users.noreply.github.com> :: refactor edge case in auth
 2026-09-11T05:57:36.865Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up config defaults
+2026-09-11T09:20:08.270Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish readme typo
