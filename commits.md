@@ -13179,3 +13179,4 @@
 2026-09-11T05:57:36.865Z Daniel Öster <dalathegreat@users.noreply.github.com> :: wire up config defaults
 2026-09-11T09:20:08.270Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish readme typo
 2026-09-11T10:29:25.491Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak flaky test
+2026-09-11T12:38:59.848Z Taiko Foundation <info@taiko.xyz> :: refactor the CI matrix
