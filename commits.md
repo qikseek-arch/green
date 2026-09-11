@@ -13182,3 +13182,4 @@
 2026-09-11T12:38:59.848Z Taiko Foundation <info@taiko.xyz> :: refactor the CI matrix
 2026-09-11T12:53:58.627Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix build script
 2026-09-11T12:54:27.008Z 劉強東 <liangjingkanji@users.noreply.github.com> :: update retry logic
+2026-09-11T14:32:07.672Z SouJunior <wouerner@soujunior.tech> :: add the CI matrix
