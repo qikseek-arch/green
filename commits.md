@@ -999,3 +999,4 @@
 2026-09-10T02:50:03.234Z Sebastian <sebmck@users.noreply.github.com> :: tweak readme typo
 2026-09-10T17:34:05.354Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: refactor readme typo
 2026-09-11T00:46:31.929Z Iuri Silva <iuricode@users.noreply.github.com> :: add readme typo
+2026-09-11T07:24:52.767Z Leon AI <louis@getleon.ai> :: clean up logging
