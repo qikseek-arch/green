@@ -13171,3 +13171,4 @@
 2026-09-11T00:50:37.977Z heyli <lcxfs1991@users.noreply.github.com> :: refactor dependency versions
 2026-09-11T00:53:11.816Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: clean up build script
 2026-09-11T01:43:34.057Z Taiko Foundation <info@taiko.xyz> :: add build script
+2026-09-11T02:02:22.659Z SouJunior <wouerner@soujunior.tech> :: refactor null check
