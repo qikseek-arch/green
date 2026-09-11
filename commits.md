@@ -13180,3 +13180,4 @@
 2026-09-11T09:20:08.270Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: polish readme typo
 2026-09-11T10:29:25.491Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak flaky test
 2026-09-11T12:38:59.848Z Taiko Foundation <info@taiko.xyz> :: refactor the CI matrix
+2026-09-11T12:53:58.627Z Jason Zhang <Hackl0us@users.noreply.github.com> :: fix build script
