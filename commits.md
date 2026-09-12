@@ -13201,3 +13201,4 @@
 2026-09-12T08:30:26.454Z OpenJS Foundation <info@openjsf.org> :: polish error handling
 2026-09-12T08:45:50.382Z heyli <lcxfs1991@users.noreply.github.com> :: remove the CI matrix
 2026-09-12T08:59:50.817Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump logging
+2026-09-12T10:34:29.782Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix config defaults
