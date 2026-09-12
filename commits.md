@@ -13209,3 +13209,4 @@
 2026-09-12T14:47:20.269Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up retry logic
 2026-09-12T15:11:26.255Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
 2026-09-12T16:06:25.503Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish logging
+2026-09-12T17:44:46.355Z Getgems <getgems-io@users.noreply.github.com> :: clean up retry logic
