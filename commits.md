@@ -13199,3 +13199,4 @@
 2026-09-12T06:46:47.319Z qiye <qiyeboy@users.noreply.github.com> :: refactor error handling
 2026-09-12T07:11:02.416Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak edge case in auth
 2026-09-12T08:30:26.454Z OpenJS Foundation <info@openjsf.org> :: polish error handling
+2026-09-12T08:45:50.382Z heyli <lcxfs1991@users.noreply.github.com> :: remove the CI matrix
