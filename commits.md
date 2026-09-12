@@ -13203,3 +13203,4 @@
 2026-09-12T08:59:50.817Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump logging
 2026-09-12T10:34:29.782Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix config defaults
 2026-09-12T11:57:54.449Z Manu Arora <manuarora700@users.noreply.github.com> :: clean up cache keys
+2026-09-12T13:08:23.902Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump null check
