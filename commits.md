@@ -13215,3 +13215,4 @@
 2026-09-12T18:39:38.836Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump edge case in auth
 2026-09-12T18:48:04.147Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: wire up edge case in auth
 2026-09-12T18:53:28.190Z Daniel Öster <dalathegreat@users.noreply.github.com> :: tweak retry logic
+2026-09-12T22:47:41.030Z WebRTC <discuss-webrtc@googlegroups.com> :: add readme typo
