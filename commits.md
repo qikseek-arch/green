@@ -13193,3 +13193,4 @@
 2026-09-12T03:27:19.538Z LILYGO <LilyGO@users.noreply.github.com> :: bump error handling
 2026-09-12T04:03:16.012Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
 2026-09-12T04:25:52.492Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update edge case in auth
+2026-09-12T05:52:47.074Z David Clark <nullptrException100@users.noreply.github.com> :: bump the CI matrix
