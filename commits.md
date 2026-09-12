@@ -13191,3 +13191,4 @@
 2026-09-12T01:34:53.389Z Almas Baim <AlmasB@users.noreply.github.com> :: update the parser
 2026-09-12T02:47:03.345Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: add edge case in auth
 2026-09-12T03:27:19.538Z LILYGO <LilyGO@users.noreply.github.com> :: bump error handling
+2026-09-12T04:03:16.012Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
