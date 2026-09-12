@@ -13197,3 +13197,4 @@
 2026-09-12T05:55:39.800Z Aurélien Geron <ageron@users.noreply.github.com> :: bump flaky test
 2026-09-12T06:42:01.687Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: add dependency versions
 2026-09-12T06:46:47.319Z qiye <qiyeboy@users.noreply.github.com> :: refactor error handling
+2026-09-12T07:11:02.416Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: tweak edge case in auth
