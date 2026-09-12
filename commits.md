@@ -1001,3 +1001,4 @@
 2026-09-11T00:46:31.929Z Iuri Silva <iuricode@users.noreply.github.com> :: add readme typo
 2026-09-11T07:24:52.767Z Leon AI <louis@getleon.ai> :: clean up logging
 2026-09-12T05:56:04.404Z Matt Pocock <mattpocock@users.noreply.github.com> :: update edge case in auth
+2026-09-12T09:01:37.253Z vn.py <vnpy@users.noreply.github.com> :: refactor cache keys
