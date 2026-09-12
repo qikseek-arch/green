@@ -13208,3 +13208,4 @@
 2026-09-12T14:30:39.143Z heyli <lcxfs1991@users.noreply.github.com> :: bump retry logic
 2026-09-12T14:47:20.269Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up retry logic
 2026-09-12T15:11:26.255Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: bump retry logic
+2026-09-12T16:06:25.503Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish logging
