@@ -13211,3 +13211,4 @@
 2026-09-12T16:06:25.503Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish logging
 2026-09-12T17:44:46.355Z Getgems <getgems-io@users.noreply.github.com> :: clean up retry logic
 2026-09-12T17:45:41.436Z The Hacker's Choice <hackerschoice@users.noreply.github.com> :: polish cache keys
+2026-09-12T18:06:31.229Z Rei <chloerei@users.noreply.github.com> :: polish null check
