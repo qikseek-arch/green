@@ -1005,3 +1005,4 @@
 2026-09-12T21:42:14.022Z Craig <geekcomputers@users.noreply.github.com> :: fix readme typo
 2026-09-13T00:52:29.457Z Yangqing Jia <Yangqing@users.noreply.github.com> :: update dead code
 2026-09-13T03:29:06.932Z Yiming Cui <ymcui@users.noreply.github.com> :: tweak null check
+2026-09-13T08:27:33.768Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: polish dead code
