@@ -13220,3 +13220,4 @@
 2026-09-12T23:40:22.257Z Fady Farag <iidmsa@users.noreply.github.com> :: add retry logic
 2026-09-13T03:22:26.507Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update retry logic
 2026-09-13T04:01:55.376Z Taiko Foundation <info@taiko.xyz> :: update the parser
+2026-09-13T06:22:40.926Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak build script
