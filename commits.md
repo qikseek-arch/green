@@ -13223,3 +13223,4 @@
 2026-09-13T06:22:40.926Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak build script
 2026-09-13T06:28:59.730Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
 2026-09-13T06:46:59.395Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak flaky test
+2026-09-13T07:34:32.957Z Alan Hamlett <alanhamlett@users.noreply.github.com> :: clean up error handling
