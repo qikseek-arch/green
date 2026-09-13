@@ -590,3 +590,4 @@
 2026-09-06T09:33:11.807Z Salvatore Sanfilippo <antirez@users.noreply.github.com> :: refactor dependency versions
 2026-09-10T10:36:41.252Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: polish dependency versions
 2026-09-11T10:15:01.891Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: fix dependency versions
+2026-09-13T02:48:45.291Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: fix config defaults
