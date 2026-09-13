@@ -13230,3 +13230,4 @@
 2026-09-13T13:38:11.415Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up edge case in auth
 2026-09-13T15:18:35.655Z Adam Wathan <adamwathan@users.noreply.github.com> :: bump the CI matrix
 2026-09-13T15:27:15.430Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: tweak logging
+2026-09-13T15:57:37.330Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove the CI matrix
