@@ -13233,3 +13233,4 @@
 2026-09-13T15:57:37.330Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove the CI matrix
 2026-09-13T16:18:40.620Z Ryan Bigg <radar@users.noreply.github.com> :: add logging
 2026-09-13T20:24:35.749Z Taiko Foundation <info@taiko.xyz> :: remove the parser
+2026-09-13T21:35:35.367Z ZOMI <chenzomi12@users.noreply.github.com> :: polish the CI matrix
