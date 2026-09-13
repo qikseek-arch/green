@@ -13221,3 +13221,4 @@
 2026-09-13T03:22:26.507Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: update retry logic
 2026-09-13T04:01:55.376Z Taiko Foundation <info@taiko.xyz> :: update the parser
 2026-09-13T06:22:40.926Z Barret李靖 <barretlee@users.noreply.github.com> :: tweak build script
+2026-09-13T06:28:59.730Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
