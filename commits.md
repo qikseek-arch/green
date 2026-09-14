@@ -13237,3 +13237,4 @@
 2026-09-13T21:41:31.929Z Shubs <infosec-au@users.noreply.github.com> :: clean up dependency versions
 2026-09-13T21:51:09.808Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: refactor logging
 2026-09-13T23:58:02.248Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix the CI matrix
+2026-09-14T00:01:41.589Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add build script
