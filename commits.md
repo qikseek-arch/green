@@ -13248,3 +13248,4 @@
 2026-09-14T08:48:47.087Z Aurélien Geron <ageron@users.noreply.github.com> :: bump config defaults
 2026-09-14T09:21:26.191Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak the CI matrix
 2026-09-14T12:18:24.787Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update edge case in auth
+2026-09-14T13:07:19.033Z David Clark <nullptrException100@users.noreply.github.com> :: add flaky test
