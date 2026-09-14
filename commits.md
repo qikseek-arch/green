@@ -13247,3 +13247,4 @@
 2026-09-14T08:42:27.554Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor cache keys
 2026-09-14T08:48:47.087Z Aurélien Geron <ageron@users.noreply.github.com> :: bump config defaults
 2026-09-14T09:21:26.191Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak the CI matrix
+2026-09-14T12:18:24.787Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update edge case in auth
