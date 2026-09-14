@@ -13243,3 +13243,4 @@
 2026-09-14T02:52:18.698Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up edge case in auth
 2026-09-14T03:20:11.517Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: wire up retry logic
 2026-09-14T03:54:30.545Z Keith Smiley <keith@users.noreply.github.com> :: remove readme typo
+2026-09-14T06:49:51.564Z Adam Bell <b3ll@users.noreply.github.com> :: refactor retry logic
