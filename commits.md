@@ -13240,3 +13240,4 @@
 2026-09-14T00:01:41.589Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add build script
 2026-09-14T02:06:25.121Z heyli <lcxfs1991@users.noreply.github.com> :: clean up error handling
 2026-09-14T02:43:36.665Z qiye <qiyeboy@users.noreply.github.com> :: tweak readme typo
+2026-09-14T02:52:18.698Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up edge case in auth
