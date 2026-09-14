@@ -13253,3 +13253,4 @@
 2026-09-14T15:22:28.586Z Odi <mathdroid@users.noreply.github.com> :: refactor null check
 2026-09-14T16:03:28.338Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: add edge case in auth
 2026-09-14T16:11:24.705Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: fix readme typo
+2026-09-14T17:04:01.014Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish dead code
