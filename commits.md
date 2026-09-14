@@ -13246,3 +13246,4 @@
 2026-09-14T06:49:51.564Z Adam Bell <b3ll@users.noreply.github.com> :: refactor retry logic
 2026-09-14T08:42:27.554Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: refactor cache keys
 2026-09-14T08:48:47.087Z Aurélien Geron <ageron@users.noreply.github.com> :: bump config defaults
+2026-09-14T09:21:26.191Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: tweak the CI matrix
