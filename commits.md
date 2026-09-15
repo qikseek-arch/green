@@ -13272,3 +13272,4 @@
 2026-09-15T09:30:21.830Z Adam Bell <b3ll@users.noreply.github.com> :: update cache keys
 2026-09-15T10:13:40.403Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up build script
 2026-09-15T10:24:38.756Z Tim Neutkens <timneutkens@users.noreply.github.com> :: bump cache keys
+2026-09-15T10:48:55.382Z SouJunior <wouerner@soujunior.tech> :: add config defaults
