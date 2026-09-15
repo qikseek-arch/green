@@ -13282,3 +13282,4 @@
 2026-09-15T20:00:42.600Z md-5 <md-5@users.noreply.github.com> :: remove cache keys
 2026-09-15T20:46:31.656Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up error handling
 2026-09-15T22:13:13.772Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix null check
+2026-09-15T22:19:45.661Z SouJunior <wouerner@soujunior.tech> :: fix error handling
