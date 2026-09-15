@@ -13262,3 +13262,4 @@
 2026-09-14T23:05:22.030Z Roger Labbe <rlabbe@users.noreply.github.com> :: add config defaults
 2026-09-14T23:15:03.583Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update retry logic
 2026-09-15T00:09:07.666Z Shubs <infosec-au@users.noreply.github.com> :: remove the parser
+2026-09-15T01:16:22.775Z ring04h <ring04h@users.noreply.github.com> :: tweak edge case in auth
