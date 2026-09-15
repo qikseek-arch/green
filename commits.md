@@ -13264,3 +13264,4 @@
 2026-09-15T00:09:07.666Z Shubs <infosec-au@users.noreply.github.com> :: remove the parser
 2026-09-15T01:16:22.775Z ring04h <ring04h@users.noreply.github.com> :: tweak edge case in auth
 2026-09-15T03:32:52.987Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak readme typo
+2026-09-15T05:30:21.262Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump config defaults
