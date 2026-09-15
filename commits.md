@@ -13261,3 +13261,4 @@
 2026-09-14T22:17:40.749Z vb <Vaibhavs10@users.noreply.github.com> :: remove dependency versions
 2026-09-14T23:05:22.030Z Roger Labbe <rlabbe@users.noreply.github.com> :: add config defaults
 2026-09-14T23:15:03.583Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: update retry logic
+2026-09-15T00:09:07.666Z Shubs <infosec-au@users.noreply.github.com> :: remove the parser
