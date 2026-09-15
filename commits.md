@@ -13281,3 +13281,4 @@
 2026-09-15T20:00:23.574Z Daniel Eden <daneden@users.noreply.github.com> :: update retry logic
 2026-09-15T20:00:42.600Z md-5 <md-5@users.noreply.github.com> :: remove cache keys
 2026-09-15T20:46:31.656Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: wire up error handling
+2026-09-15T22:13:13.772Z STMicroelectronics <STMicroelectronics@users.noreply.github.com> :: fix null check
