@@ -13266,3 +13266,4 @@
 2026-09-15T03:32:52.987Z 劉強東 <liangjingkanji@users.noreply.github.com> :: tweak readme typo
 2026-09-15T05:30:21.262Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: bump config defaults
 2026-09-15T05:44:13.697Z LILYGO <LilyGO@users.noreply.github.com> :: clean up logging
+2026-09-15T07:24:17.597Z Adam Łucek <ALucek@users.noreply.github.com> :: wire up config defaults
