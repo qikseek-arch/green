@@ -13289,3 +13289,4 @@
 2026-09-15T23:54:39.780Z markqvist <markqvist@users.noreply.github.com> :: wire up the parser
 2026-09-16T00:05:20.520Z AI4Bhārat <opensource@ai4bharat.org> :: clean up the parser
 2026-09-16T02:18:23.509Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix logging
+2026-09-16T05:03:25.515Z Taiko Foundation <info@taiko.xyz> :: fix config defaults
