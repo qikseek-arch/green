@@ -13291,3 +13291,4 @@
 2026-09-16T02:18:23.509Z 劉強東 <liangjingkanji@users.noreply.github.com> :: fix logging
 2026-09-16T05:03:25.515Z Taiko Foundation <info@taiko.xyz> :: fix config defaults
 2026-09-16T07:32:07.251Z Fareed Khan <FareedKhan-dev@users.noreply.github.com> :: bump edge case in auth
+2026-09-16T08:00:09.574Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: bump error handling
