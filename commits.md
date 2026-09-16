@@ -13295,3 +13295,4 @@
 2026-09-16T08:01:38.395Z Jafar Husain <jhusain@users.noreply.github.com> :: add cache keys
 2026-09-16T08:21:01.220Z Tim MacDonald <timacdonald@users.noreply.github.com> :: bump edge case in auth
 2026-09-16T09:15:16.457Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: polish retry logic
+2026-09-16T09:22:34.310Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add build script
