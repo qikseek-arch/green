@@ -13298,3 +13298,4 @@
 2026-09-16T09:22:34.310Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add build script
 2026-09-16T11:04:52.608Z WebRTC <discuss-webrtc@googlegroups.com> :: bump dead code
 2026-09-16T11:07:16.194Z Keith Smiley <keith@users.noreply.github.com> :: wire up the parser
+2026-09-16T12:38:20.764Z Keith Smiley <keith@users.noreply.github.com> :: fix error handling
