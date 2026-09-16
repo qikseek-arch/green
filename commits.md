@@ -13306,3 +13306,4 @@
 2026-09-16T14:14:32.320Z CTFs <ctfs@users.noreply.github.com> :: wire up edge case in auth
 2026-09-16T14:25:34.926Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add retry logic
 2026-09-16T14:38:44.947Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the parser
+2026-09-16T15:58:49.348Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix null check
