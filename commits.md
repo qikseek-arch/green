@@ -13313,3 +13313,4 @@
 2026-09-16T20:03:45.526Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add the CI matrix
 2026-09-16T20:38:35.388Z OpenJS Foundation <info@openjsf.org> :: remove error handling
 2026-09-16T21:12:02.476Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove config defaults
+2026-09-16T22:55:24.884Z LILYGO <LilyGO@users.noreply.github.com> :: wire up build script
