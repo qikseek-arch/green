@@ -13309,3 +13309,4 @@
 2026-09-16T15:58:49.348Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix null check
 2026-09-16T18:12:44.969Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up config defaults
 2026-09-16T18:40:06.175Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: update cache keys
+2026-09-16T18:44:21.184Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
