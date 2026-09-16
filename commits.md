@@ -13307,3 +13307,4 @@
 2026-09-16T14:25:34.926Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: add retry logic
 2026-09-16T14:38:44.947Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: fix the parser
 2026-09-16T15:58:49.348Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix null check
+2026-09-16T18:12:44.969Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up config defaults
