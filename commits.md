@@ -1016,3 +1016,4 @@
 2026-09-16T10:28:11.459Z Florina Muntenescu <florina-muntenescu@users.noreply.github.com> :: polish the CI matrix
 2026-09-16T11:58:51.394Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: tweak edge case in auth
 2026-09-16T15:50:37.174Z Chad Sharp <cmlsharp@users.noreply.github.com> :: polish the parser
+2026-09-16T16:48:28.208Z Sylvain Gugger <sgugger@users.noreply.github.com> :: tweak edge case in auth
