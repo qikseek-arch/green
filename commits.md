@@ -13316,3 +13316,4 @@
 2026-09-16T22:55:24.884Z LILYGO <LilyGO@users.noreply.github.com> :: wire up build script
 2026-09-17T02:26:24.571Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update build script
 2026-09-17T04:56:12.603Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
+2026-09-17T05:36:53.496Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up edge case in auth
