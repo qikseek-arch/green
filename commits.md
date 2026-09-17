@@ -13318,3 +13318,4 @@
 2026-09-17T04:56:12.603Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
 2026-09-17T05:36:53.496Z Aurélien Geron <ageron@users.noreply.github.com> :: wire up edge case in auth
 2026-09-17T05:44:44.863Z Adam Bell <b3ll@users.noreply.github.com> :: wire up dependency versions
+2026-09-17T06:33:12.690Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: add the parser
