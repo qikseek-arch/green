@@ -13334,3 +13334,4 @@
 2026-09-17T12:42:21.417Z Getgems <getgems-io@users.noreply.github.com> :: refactor error handling
 2026-09-17T15:16:24.664Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump retry logic
 2026-09-17T17:57:47.176Z CTFs <ctfs@users.noreply.github.com> :: remove null check
+2026-09-17T18:28:39.933Z Barret李靖 <barretlee@users.noreply.github.com> :: update config defaults
