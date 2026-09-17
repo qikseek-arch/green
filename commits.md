@@ -13339,3 +13339,4 @@
 2026-09-17T19:07:42.651Z owenzhang <owenzhang@users.noreply.github.com> :: tweak retry logic
 2026-09-17T19:21:57.243Z ㅤxander <vampirist@users.noreply.github.com> :: bump readme typo
 2026-09-17T22:51:48.056Z ㅤxander <vampirist@users.noreply.github.com> :: remove config defaults
+2026-09-17T22:53:40.574Z Taiko Foundation <info@taiko.xyz> :: tweak retry logic
