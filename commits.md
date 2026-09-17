@@ -13338,3 +13338,4 @@
 2026-09-17T18:45:32.011Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: bump dependency versions
 2026-09-17T19:07:42.651Z owenzhang <owenzhang@users.noreply.github.com> :: tweak retry logic
 2026-09-17T19:21:57.243Z ㅤxander <vampirist@users.noreply.github.com> :: bump readme typo
+2026-09-17T22:51:48.056Z ㅤxander <vampirist@users.noreply.github.com> :: remove config defaults
