@@ -294,3 +294,4 @@
 2026-09-06T22:16:44.664Z juno <juno@fake.invalid> :: wire up null check
 2026-09-07T08:02:15.143Z wisp <wisp@fake.invalid> :: remove logging
 2026-09-13T09:20:18.238Z quill <quill@fake.invalid> :: polish build script
+2026-09-17T01:13:46.587Z null <null@fake.invalid> :: wire up build script
