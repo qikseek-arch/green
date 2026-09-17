@@ -13332,3 +13332,4 @@
 2026-09-17T10:42:55.175Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: wire up dependency versions
 2026-09-17T11:51:51.592Z Shubs <infosec-au@users.noreply.github.com> :: bump edge case in auth
 2026-09-17T12:42:21.417Z Getgems <getgems-io@users.noreply.github.com> :: refactor error handling
+2026-09-17T15:16:24.664Z Selenium <SeleniumHQ@users.noreply.github.com> :: bump retry logic
