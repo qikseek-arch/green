@@ -13315,3 +13315,4 @@
 2026-09-16T21:12:02.476Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: remove config defaults
 2026-09-16T22:55:24.884Z LILYGO <LilyGO@users.noreply.github.com> :: wire up build script
 2026-09-17T02:26:24.571Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: update build script
+2026-09-17T04:56:12.603Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: fix config defaults
