@@ -13364,3 +13364,4 @@
 2026-09-18T19:25:04.065Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish config defaults
 2026-09-18T19:27:26.104Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak error handling
 2026-09-18T20:27:55.247Z markqvist <markqvist@users.noreply.github.com> :: refactor cache keys
+2026-09-18T20:28:54.147Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: polish build script
