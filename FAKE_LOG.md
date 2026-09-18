@@ -887,3 +887,4 @@
 2026-09-09T20:20:29.990Z ThePrimeagen <ThePrimeagen@users.noreply.github.com> :: tweak edge case in auth
 2026-09-15T00:48:43.189Z Stephen Grider <StephenGrider@users.noreply.github.com> :: refactor cache keys
 2026-09-15T23:10:47.483Z Mark Otto <mdo@users.noreply.github.com> :: wire up edge case in auth
+2026-09-18T03:42:12.090Z TJ <tj@users.noreply.github.com> :: fix the CI matrix
