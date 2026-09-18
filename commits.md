@@ -13352,3 +13352,4 @@
 2026-09-18T07:18:16.822Z SouJunior <wouerner@soujunior.tech> :: update dead code
 2026-09-18T08:55:00.900Z ring04h <ring04h@users.noreply.github.com> :: add cache keys
 2026-09-18T10:42:56.442Z Sadık TURAN <sadikturan@users.noreply.github.com> :: wire up null check
+2026-09-18T10:56:13.432Z CTFs <ctfs@users.noreply.github.com> :: clean up config defaults
