@@ -13360,3 +13360,4 @@
 2026-09-18T15:38:37.498Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump dependency versions
 2026-09-18T16:10:10.608Z Qwen <qianwen_opensource@alibabacloud.com> :: wire up flaky test
 2026-09-18T17:34:36.365Z markqvist <markqvist@users.noreply.github.com> :: bump null check
+2026-09-18T19:09:07.776Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
