@@ -13362,3 +13362,4 @@
 2026-09-18T17:34:36.365Z markqvist <markqvist@users.noreply.github.com> :: bump null check
 2026-09-18T19:09:07.776Z Getgems <getgems-io@users.noreply.github.com> :: polish config defaults
 2026-09-18T19:25:04.065Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: polish config defaults
+2026-09-18T19:27:26.104Z Sachin Soni <techiesms@users.noreply.github.com> :: tweak error handling
