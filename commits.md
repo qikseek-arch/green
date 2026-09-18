@@ -1025,3 +1025,4 @@
 2026-09-18T09:54:19.046Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: polish the CI matrix
 2026-09-18T12:23:33.756Z Iuri Silva <iuricode@users.noreply.github.com> :: refactor build script
 2026-09-18T20:27:14.311Z HashLips <HashLips@users.noreply.github.com> :: tweak readme typo
+2026-09-18T21:39:19.894Z Shaian <zshaian@users.noreply.github.com> :: remove the parser
