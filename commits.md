@@ -1024,3 +1024,4 @@
 2026-09-18T02:50:20.260Z Ramesh Fadatare <RameshMF@users.noreply.github.com> :: refactor flaky test
 2026-09-18T09:54:19.046Z Aziz falah <Aziz-AXG@users.noreply.github.com> :: polish the CI matrix
 2026-09-18T12:23:33.756Z Iuri Silva <iuricode@users.noreply.github.com> :: refactor build script
+2026-09-18T20:27:14.311Z HashLips <HashLips@users.noreply.github.com> :: tweak readme typo
