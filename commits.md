@@ -13357,3 +13357,4 @@
 2026-09-18T12:20:30.487Z LILYGO <LilyGO@users.noreply.github.com> :: refactor dead code
 2026-09-18T13:21:53.627Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: wire up edge case in auth
 2026-09-18T15:17:53.564Z markqvist <markqvist@users.noreply.github.com> :: fix config defaults
+2026-09-18T15:38:37.498Z Martin Grenfell <scrooloose@users.noreply.github.com> :: bump dependency versions
