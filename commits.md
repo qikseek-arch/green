@@ -13372,3 +13372,4 @@
 2026-09-19T01:35:58.943Z Adam Bell <b3ll@users.noreply.github.com> :: add retry logic
 2026-09-19T03:59:42.510Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove flaky test
 2026-09-19T04:39:19.194Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: fix the CI matrix
+2026-09-19T04:54:06.370Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak the CI matrix
