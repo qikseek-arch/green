@@ -13376,3 +13376,4 @@
 2026-09-19T04:56:37.710Z WebRTC <discuss-webrtc@googlegroups.com> :: fix cache keys
 2026-09-19T06:41:04.229Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak flaky test
 2026-09-19T07:34:33.974Z Shubs <infosec-au@users.noreply.github.com> :: fix the parser
+2026-09-19T07:53:01.549Z Taiko Foundation <info@taiko.xyz> :: tweak null check
