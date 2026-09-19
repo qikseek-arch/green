@@ -193,3 +193,4 @@
 2026-09-15T18:46:15.894Z Martin Fowler <martin.fowler@example.com> :: refactor the CI matrix
 2026-09-17T19:56:25.969Z Noam Chomsky <noam.chomsky@example.com> :: remove dependency versions
 2026-09-19T01:43:36.853Z wizard_electric_dev <wizard_electric_dev@users.noreply.github.com> :: fix dependency versions
+2026-09-19T22:15:48.429Z Edsger Dijkstra <edsger.dijkstra@example.com> :: remove the parser
