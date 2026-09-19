@@ -13387,3 +13387,4 @@
 2026-09-19T15:44:16.291Z Tim Großmann <timgrossmann@users.noreply.github.com> :: fix the CI matrix
 2026-09-19T17:58:14.482Z vb <Vaibhavs10@users.noreply.github.com> :: tweak the parser
 2026-09-19T18:05:35.557Z David Fowler <davidfowl@users.noreply.github.com> :: remove retry logic
+2026-09-19T19:34:59.470Z md-5 <md-5@users.noreply.github.com> :: clean up readme typo
