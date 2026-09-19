@@ -13378,3 +13378,4 @@
 2026-09-19T07:34:33.974Z Shubs <infosec-au@users.noreply.github.com> :: fix the parser
 2026-09-19T07:53:01.549Z Taiko Foundation <info@taiko.xyz> :: tweak null check
 2026-09-19T08:58:06.111Z LILYGO <LilyGO@users.noreply.github.com> :: wire up edge case in auth
+2026-09-19T09:07:37.727Z WebRTC <discuss-webrtc@googlegroups.com> :: bump error handling
