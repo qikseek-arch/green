@@ -1029,3 +1029,4 @@
 2026-09-19T01:32:31.192Z Andrei Kashcha <anvaka@users.noreply.github.com> :: fix flaky test
 2026-09-19T02:55:57.725Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: fix dependency versions
 2026-09-19T06:03:47.208Z Luca Palmieri <LukeMathWalker@users.noreply.github.com> :: bump build script
+2026-09-19T08:10:42.508Z Alex Yang <himself65@users.noreply.github.com> :: add readme typo
