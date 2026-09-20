@@ -13405,3 +13405,4 @@
 2026-09-20T11:47:35.202Z Adam Łucek <ALucek@users.noreply.github.com> :: remove flaky test
 2026-09-20T12:01:45.362Z Thomas Dohmke <ashtom@users.noreply.github.com> :: tweak error handling
 2026-09-20T12:24:29.048Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: fix dead code
+2026-09-20T13:54:32.110Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: refactor null check
