@@ -195,3 +195,4 @@
 2026-09-19T01:43:36.853Z wizard_electric_dev <wizard_electric_dev@users.noreply.github.com> :: fix dependency versions
 2026-09-19T22:15:48.429Z Edsger Dijkstra <edsger.dijkstra@example.com> :: remove the parser
 2026-09-20T11:32:33.572Z AtomicMoose <atomicmoose@users.noreply.github.com> :: wire up flaky test
+2026-09-20T17:15:30.020Z SleepyBadger <sleepybadger@users.noreply.github.com> :: bump config defaults
