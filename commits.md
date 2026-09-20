@@ -1032,3 +1032,4 @@
 2026-09-19T08:10:42.508Z Alex Yang <himself65@users.noreply.github.com> :: add readme typo
 2026-09-19T10:42:53.232Z Holtz Yan <holtzy@users.noreply.github.com> :: bump flaky test
 2026-09-19T20:47:47.466Z Max Lv <madeye@users.noreply.github.com> :: bump retry logic
+2026-09-20T00:08:19.282Z Ryubing <Ryubing@users.noreply.github.com> :: fix the CI matrix
