@@ -13400,3 +13400,4 @@
 2026-09-20T06:49:51.214Z Damian Dulisz <shentao@users.noreply.github.com> :: bump readme typo
 2026-09-20T07:59:19.099Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor the CI matrix
 2026-09-20T08:24:47.296Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: refactor the parser
+2026-09-20T10:42:12.783Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dependency versions
