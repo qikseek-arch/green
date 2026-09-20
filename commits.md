@@ -13392,3 +13392,4 @@
 2026-09-19T20:59:07.174Z WebRTC <discuss-webrtc@googlegroups.com> :: tweak config defaults
 2026-09-19T23:01:30.217Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: clean up build script
 2026-09-20T00:06:12.641Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: polish retry logic
+2026-09-20T00:50:21.715Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add the parser
