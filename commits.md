@@ -1034,3 +1034,4 @@
 2026-09-19T20:47:47.466Z Max Lv <madeye@users.noreply.github.com> :: bump retry logic
 2026-09-20T00:08:19.282Z Ryubing <Ryubing@users.noreply.github.com> :: fix the CI matrix
 2026-09-20T22:44:40.322Z LangChain <support@langchain.dev> :: fix the CI matrix
+2026-09-20T23:41:46.089Z FastAPI <fastapi@users.noreply.github.com> :: wire up logging
