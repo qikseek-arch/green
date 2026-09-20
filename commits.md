@@ -13395,3 +13395,4 @@
 2026-09-20T00:50:21.715Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add the parser
 2026-09-20T01:01:50.641Z David Clark <nullptrException100@users.noreply.github.com> :: bump the parser
 2026-09-20T02:56:06.248Z Adam Bell <b3ll@users.noreply.github.com> :: wire up build script
+2026-09-20T05:17:45.833Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: tweak the CI matrix
