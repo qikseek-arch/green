@@ -296,3 +296,4 @@
 2026-09-13T09:20:18.238Z quill <quill@fake.invalid> :: polish build script
 2026-09-17T01:13:46.587Z null <null@fake.invalid> :: wire up build script
 2026-09-17T11:15:21.133Z obsidian <obsidian@fake.invalid> :: fix logging
+2026-09-20T20:07:13.061Z obsidian <obsidian@fake.invalid> :: remove error handling
