@@ -13414,3 +13414,4 @@
 2026-09-20T23:43:30.969Z vb <Vaibhavs10@users.noreply.github.com> :: clean up logging
 2026-09-21T00:57:53.308Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
 2026-09-21T02:10:57.807Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish the CI matrix
+2026-09-21T03:15:19.996Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak build script
