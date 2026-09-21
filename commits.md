@@ -13419,3 +13419,4 @@
 2026-09-21T03:47:09.546Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update edge case in auth
 2026-09-21T04:14:35.121Z AI4Bhārat <opensource@ai4bharat.org> :: remove null check
 2026-09-21T04:25:19.650Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix flaky test
+2026-09-21T04:27:07.743Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix null check
