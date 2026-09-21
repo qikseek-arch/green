@@ -13422,3 +13422,4 @@
 2026-09-21T04:27:07.743Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: fix null check
 2026-09-21T05:53:09.619Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: remove the parser
 2026-09-21T06:05:21.743Z Getgems <getgems-io@users.noreply.github.com> :: remove flaky test
+2026-09-21T06:42:12.592Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump config defaults
