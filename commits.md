@@ -13428,3 +13428,4 @@
 2026-09-21T08:50:00.222Z SouJunior <wouerner@soujunior.tech> :: fix null check
 2026-09-21T10:31:53.379Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up dependency versions
 2026-09-21T10:35:27.622Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump cache keys
+2026-09-21T11:23:31.791Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up the parser
