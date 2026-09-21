@@ -1037,3 +1037,4 @@
 2026-09-20T23:41:46.089Z FastAPI <fastapi@users.noreply.github.com> :: wire up logging
 2026-09-21T10:14:15.332Z Astral <hey@astral.sh> :: tweak cache keys
 2026-09-21T10:27:35.053Z Draven <draveness@users.noreply.github.com> :: add null check
+2026-09-21T17:14:11.694Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: remove edge case in auth
