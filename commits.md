@@ -13415,3 +13415,4 @@
 2026-09-21T00:57:53.308Z heyli <lcxfs1991@users.noreply.github.com> :: tweak error handling
 2026-09-21T02:10:57.807Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish the CI matrix
 2026-09-21T03:15:19.996Z Ivan Volkov <Chitus@users.noreply.github.com> :: tweak build script
+2026-09-21T03:25:49.073Z qiye <qiyeboy@users.noreply.github.com> :: refactor readme typo
