@@ -13425,3 +13425,4 @@
 2026-09-21T06:42:12.592Z GNOME Github Mirror <GNOME@users.noreply.github.com> :: bump config defaults
 2026-09-21T06:50:04.656Z Sachin Soni <techiesms@users.noreply.github.com> :: update the parser
 2026-09-21T06:52:28.717Z Shubs <infosec-au@users.noreply.github.com> :: refactor error handling
+2026-09-21T08:50:00.222Z SouJunior <wouerner@soujunior.tech> :: fix null check
