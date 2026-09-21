@@ -13430,3 +13430,4 @@
 2026-09-21T10:35:27.622Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump cache keys
 2026-09-21T11:23:31.791Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up the parser
 2026-09-21T17:51:21.518Z Ryan Bigg <radar@users.noreply.github.com> :: add the CI matrix
+2026-09-21T18:53:00.395Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor retry logic
