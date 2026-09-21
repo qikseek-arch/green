@@ -1038,3 +1038,4 @@
 2026-09-21T10:14:15.332Z Astral <hey@astral.sh> :: tweak cache keys
 2026-09-21T10:27:35.053Z Draven <draveness@users.noreply.github.com> :: add null check
 2026-09-21T17:14:11.694Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: remove edge case in auth
+2026-09-21T20:32:58.045Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: bump readme typo
