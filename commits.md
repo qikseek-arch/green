@@ -13429,3 +13429,4 @@
 2026-09-21T10:31:53.379Z Tim MacDonald <timacdonald@users.noreply.github.com> :: clean up dependency versions
 2026-09-21T10:35:27.622Z Daniel Öster <dalathegreat@users.noreply.github.com> :: bump cache keys
 2026-09-21T11:23:31.791Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: wire up the parser
+2026-09-21T17:51:21.518Z Ryan Bigg <radar@users.noreply.github.com> :: add the CI matrix
