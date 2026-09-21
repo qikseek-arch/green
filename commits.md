@@ -13432,3 +13432,4 @@
 2026-09-21T17:51:21.518Z Ryan Bigg <radar@users.noreply.github.com> :: add the CI matrix
 2026-09-21T18:53:00.395Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor retry logic
 2026-09-21T19:25:11.328Z Taiko Foundation <info@taiko.xyz> :: tweak build script
+2026-09-21T20:42:31.457Z Claude <claude@users.noreply.github.com> :: fix the parser
