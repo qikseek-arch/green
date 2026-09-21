@@ -1039,3 +1039,4 @@
 2026-09-21T10:27:35.053Z Draven <draveness@users.noreply.github.com> :: add null check
 2026-09-21T17:14:11.694Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: remove edge case in auth
 2026-09-21T20:32:58.045Z Bahattin Yunus ÇETİN <arch-yunus@users.noreply.github.com> :: bump readme typo
+2026-09-21T21:45:35.372Z Jeffrey Zhao <JeffreyZhao@users.noreply.github.com> :: tweak the parser
