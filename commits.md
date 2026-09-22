@@ -13453,3 +13453,4 @@
 2026-09-22T19:23:35.834Z md-5 <md-5@users.noreply.github.com> :: polish cache keys
 2026-09-22T21:01:50.518Z Aurélien Geron <ageron@users.noreply.github.com> :: add the CI matrix
 2026-09-22T22:30:43.439Z Inanc Gumus <inancgumus@users.noreply.github.com> :: bump logging
+2026-09-22T23:00:14.446Z AI4Bhārat <opensource@ai4bharat.org> :: update build script
