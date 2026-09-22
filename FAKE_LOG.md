@@ -892,3 +892,4 @@
 2026-09-19T09:43:26.932Z John Washam <jwasham@users.noreply.github.com> :: fix the CI matrix
 2026-09-20T22:59:12.890Z Vercel <vercel@users.noreply.github.com> :: fix the CI matrix
 2026-09-22T05:24:49.816Z Crypto Michael <michaelliao@users.noreply.github.com> :: wire up edge case in auth
+2026-09-22T11:06:17.415Z Evan You <yyx990803@users.noreply.github.com> :: clean up dependency versions
