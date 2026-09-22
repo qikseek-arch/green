@@ -13446,3 +13446,4 @@
 2026-09-22T10:26:00.920Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove the CI matrix
 2026-09-22T13:54:15.087Z vb <Vaibhavs10@users.noreply.github.com> :: refactor dependency versions
 2026-09-22T14:22:32.486Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: update the parser
+2026-09-22T15:51:50.877Z OpenJS Foundation <info@openjsf.org> :: polish readme typo
