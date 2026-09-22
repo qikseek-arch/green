@@ -13441,3 +13441,4 @@
 2026-09-22T05:25:52.534Z markqvist <markqvist@users.noreply.github.com> :: remove flaky test
 2026-09-22T06:06:09.972Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: fix null check
 2026-09-22T06:52:46.993Z Ryan Bigg <radar@users.noreply.github.com> :: fix edge case in auth
+2026-09-22T07:46:33.952Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up edge case in auth
