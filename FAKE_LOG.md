@@ -592,3 +592,4 @@
 2026-09-11T10:15:01.891Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: fix dependency versions
 2026-09-13T02:48:45.291Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: fix config defaults
 2026-09-21T04:22:24.576Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: tweak config defaults
+2026-09-22T00:34:33.486Z Filipe Deschamps <filipedeschamps@users.noreply.github.com> :: bump cache keys
