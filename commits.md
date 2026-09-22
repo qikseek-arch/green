@@ -13437,3 +13437,4 @@
 2026-09-21T21:42:44.623Z BBC <bbc@users.noreply.github.com> :: bump cache keys
 2026-09-21T22:28:27.184Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: add the CI matrix
 2026-09-22T00:05:46.438Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
+2026-09-22T01:06:17.646Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add error handling
