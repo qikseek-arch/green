@@ -13440,3 +13440,4 @@
 2026-09-22T01:06:17.646Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add error handling
 2026-09-22T05:25:52.534Z markqvist <markqvist@users.noreply.github.com> :: remove flaky test
 2026-09-22T06:06:09.972Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: fix null check
+2026-09-22T06:52:46.993Z Ryan Bigg <radar@users.noreply.github.com> :: fix edge case in auth
