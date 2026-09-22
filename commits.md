@@ -13444,3 +13444,4 @@
 2026-09-22T07:46:33.952Z Tim Neutkens <timneutkens@users.noreply.github.com> :: wire up edge case in auth
 2026-09-22T08:47:45.650Z Almas Baim <AlmasB@users.noreply.github.com> :: bump build script
 2026-09-22T10:26:00.920Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove the CI matrix
+2026-09-22T13:54:15.087Z vb <Vaibhavs10@users.noreply.github.com> :: refactor dependency versions
