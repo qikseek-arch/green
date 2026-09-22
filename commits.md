@@ -13449,3 +13449,4 @@
 2026-09-22T15:51:50.877Z OpenJS Foundation <info@openjsf.org> :: polish readme typo
 2026-09-22T15:54:36.843Z Adam Bell <b3ll@users.noreply.github.com> :: clean up the CI matrix
 2026-09-22T17:12:17.344Z Getgems <getgems-io@users.noreply.github.com> :: remove readme typo
+2026-09-22T19:00:17.058Z Shubs <infosec-au@users.noreply.github.com> :: tweak build script
