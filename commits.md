@@ -13439,3 +13439,4 @@
 2026-09-22T00:05:46.438Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: tweak logging
 2026-09-22T01:06:17.646Z Tim Großmann <timgrossmann@users.noreply.github.com> :: add error handling
 2026-09-22T05:25:52.534Z markqvist <markqvist@users.noreply.github.com> :: remove flaky test
+2026-09-22T06:06:09.972Z Eitaro Fukamachi <fukamachi@users.noreply.github.com> :: fix null check
