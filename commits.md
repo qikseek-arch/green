@@ -13468,3 +13468,4 @@
 2026-09-23T07:57:21.546Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
 2026-09-23T09:17:44.229Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: bump dependency versions
 2026-09-23T09:34:26.217Z First Contributions <firstcontributions@gmail.com> :: clean up dead code
+2026-09-23T10:04:00.974Z Rodrigo Pombo <pomber@users.noreply.github.com> :: wire up dead code
