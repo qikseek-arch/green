@@ -13465,3 +13465,4 @@
 2026-09-23T07:26:27.350Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak edge case in auth
 2026-09-23T07:45:24.384Z Manu Arora <manuarora700@users.noreply.github.com> :: bump logging
 2026-09-23T07:55:47.355Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor error handling
+2026-09-23T07:57:21.546Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: clean up logging
