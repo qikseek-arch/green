@@ -13486,3 +13486,4 @@
 2026-09-23T20:45:58.721Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up build script
 2026-09-23T21:31:14.277Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
 2026-09-23T23:03:01.849Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up error handling
+2026-09-23T23:09:57.454Z AI4Bhārat <opensource@ai4bharat.org> :: wire up config defaults
