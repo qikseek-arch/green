@@ -13477,3 +13477,4 @@
 2026-09-23T13:46:14.335Z Shubs <infosec-au@users.noreply.github.com> :: update dead code
 2026-09-23T16:19:19.534Z Daniel Öster <dalathegreat@users.noreply.github.com> :: polish readme typo
 2026-09-23T16:58:40.676Z Adam Bell <b3ll@users.noreply.github.com> :: wire up retry logic
+2026-09-23T17:40:47.111Z Claude <claude@users.noreply.github.com> :: add error handling
