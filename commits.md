@@ -13483,3 +13483,4 @@
 2026-09-23T19:45:15.748Z qiye <qiyeboy@users.noreply.github.com> :: refactor null check
 2026-09-23T20:37:10.067Z Tim Großmann <timgrossmann@users.noreply.github.com> :: refactor readme typo
 2026-09-23T20:40:13.005Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor null check
+2026-09-23T20:45:58.721Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up build script
