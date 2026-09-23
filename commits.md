@@ -13485,3 +13485,4 @@
 2026-09-23T20:40:13.005Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: refactor null check
 2026-09-23T20:45:58.721Z Almas Baim <AlmasB@users.noreply.github.com> :: clean up build script
 2026-09-23T21:31:14.277Z markqvist <markqvist@users.noreply.github.com> :: clean up logging
+2026-09-23T23:03:01.849Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: clean up error handling
