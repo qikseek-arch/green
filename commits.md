@@ -13464,3 +13464,4 @@
 2026-09-23T06:49:52.464Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: refactor flaky test
 2026-09-23T07:26:27.350Z Aurélien Geron <ageron@users.noreply.github.com> :: tweak edge case in auth
 2026-09-23T07:45:24.384Z Manu Arora <manuarora700@users.noreply.github.com> :: bump logging
+2026-09-23T07:55:47.355Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: refactor error handling
