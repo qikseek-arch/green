@@ -593,3 +593,4 @@
 2026-09-13T02:48:45.291Z Mitchell Hashimoto <mitchellh@users.noreply.github.com> :: fix config defaults
 2026-09-21T04:22:24.576Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: tweak config defaults
 2026-09-22T00:34:33.486Z Filipe Deschamps <filipedeschamps@users.noreply.github.com> :: bump cache keys
+2026-09-23T08:01:05.574Z Python <python@users.noreply.github.com> :: remove edge case in auth
