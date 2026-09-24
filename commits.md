@@ -13495,3 +13495,4 @@
 2026-09-24T05:43:09.459Z Rodrigo Pombo <pomber@users.noreply.github.com> :: polish the CI matrix
 2026-09-24T06:17:16.937Z Taiko Foundation <info@taiko.xyz> :: polish retry logic
 2026-09-24T06:34:49.327Z First Contributions <firstcontributions@gmail.com> :: clean up error handling
+2026-09-24T07:50:20.035Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix edge case in auth
