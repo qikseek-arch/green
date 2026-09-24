@@ -13489,3 +13489,4 @@
 2026-09-23T23:09:57.454Z AI4Bhārat <opensource@ai4bharat.org> :: wire up config defaults
 2026-09-24T00:42:09.469Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: fix flaky test
 2026-09-24T01:17:13.281Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak logging
+2026-09-24T01:54:43.950Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: tweak dependency versions
