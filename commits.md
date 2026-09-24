@@ -13499,3 +13499,4 @@
 2026-09-24T11:06:25.217Z Taiko Foundation <info@taiko.xyz> :: update logging
 2026-09-24T12:19:16.148Z heyli <lcxfs1991@users.noreply.github.com> :: tweak edge case in auth
 2026-09-24T12:48:46.583Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump config defaults
+2026-09-24T13:49:04.467Z Tim Großmann <timgrossmann@users.noreply.github.com> :: clean up readme typo
