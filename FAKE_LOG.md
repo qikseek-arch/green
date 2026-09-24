@@ -894,3 +894,4 @@
 2026-09-22T05:24:49.816Z Crypto Michael <michaelliao@users.noreply.github.com> :: wire up edge case in auth
 2026-09-22T11:06:17.415Z Evan You <yyx990803@users.noreply.github.com> :: clean up dependency versions
 2026-09-23T06:00:47.328Z Chip Huyen <chiphuyen@users.noreply.github.com> :: clean up error handling
+2026-09-24T08:30:48.362Z Python <python@users.noreply.github.com> :: remove error handling
