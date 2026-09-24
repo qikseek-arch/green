@@ -13508,3 +13508,4 @@
 2026-09-24T19:02:32.325Z Gemechu Alemu Bedasa <game-ale@users.noreply.github.com> :: refactor build script
 2026-09-24T20:09:44.371Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
 2026-09-24T20:25:02.243Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: tweak config defaults
+2026-09-24T22:12:51.288Z Damian Dulisz <shentao@users.noreply.github.com> :: remove null check
