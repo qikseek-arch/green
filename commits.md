@@ -13511,3 +13511,4 @@
 2026-09-24T22:12:51.288Z Damian Dulisz <shentao@users.noreply.github.com> :: remove null check
 2026-09-24T22:20:48.014Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove edge case in auth
 2026-09-24T22:49:07.294Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add edge case in auth
+2026-09-24T23:56:22.106Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add build script
