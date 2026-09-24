@@ -13498,3 +13498,4 @@
 2026-09-24T07:50:20.035Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: fix edge case in auth
 2026-09-24T11:06:25.217Z Taiko Foundation <info@taiko.xyz> :: update logging
 2026-09-24T12:19:16.148Z heyli <lcxfs1991@users.noreply.github.com> :: tweak edge case in auth
+2026-09-24T12:48:46.583Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: bump config defaults
