@@ -13536,3 +13536,4 @@
 2026-09-25T16:50:32.547Z OpenJS Foundation <info@openjsf.org> :: remove build script
 2026-09-25T17:30:54.635Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update null check
 2026-09-25T17:53:45.066Z CTFs <ctfs@users.noreply.github.com> :: update logging
+2026-09-25T18:27:17.421Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: clean up null check
