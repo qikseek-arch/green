@@ -13535,3 +13535,4 @@
 2026-09-25T16:44:25.217Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
 2026-09-25T16:50:32.547Z OpenJS Foundation <info@openjsf.org> :: remove build script
 2026-09-25T17:30:54.635Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update null check
+2026-09-25T17:53:45.066Z CTFs <ctfs@users.noreply.github.com> :: update logging
