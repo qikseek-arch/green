@@ -13515,3 +13515,4 @@
 2026-09-25T00:26:14.309Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update the CI matrix
 2026-09-25T01:11:02.869Z David Fowler <davidfowl@users.noreply.github.com> :: polish cache keys
 2026-09-25T02:17:05.279Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: wire up the CI matrix
+2026-09-25T02:32:47.016Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add edge case in auth
