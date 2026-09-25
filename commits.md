@@ -13534,3 +13534,4 @@
 2026-09-25T14:26:51.231Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: wire up cache keys
 2026-09-25T16:44:25.217Z Roger Labbe <rlabbe@users.noreply.github.com> :: bump dependency versions
 2026-09-25T16:50:32.547Z OpenJS Foundation <info@openjsf.org> :: remove build script
+2026-09-25T17:30:54.635Z Thomas Dohmke <ashtom@users.noreply.github.com> :: update null check
