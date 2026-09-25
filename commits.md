@@ -13543,3 +13543,4 @@
 2026-09-25T21:32:36.102Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove the CI matrix
 2026-09-25T22:23:32.763Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
 2026-09-25T23:43:13.144Z Rei <chloerei@users.noreply.github.com> :: clean up dependency versions
+2026-09-25T23:49:23.920Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the parser
