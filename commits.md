@@ -13512,3 +13512,4 @@
 2026-09-24T22:20:48.014Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove edge case in auth
 2026-09-24T22:49:07.294Z Tim Neutkens <timneutkens@users.noreply.github.com> :: add edge case in auth
 2026-09-24T23:56:22.106Z Herrington Darkholme <HerringtonDarkholme@users.noreply.github.com> :: add build script
+2026-09-25T00:26:14.309Z Tim Großmann <timgrossmann@users.noreply.github.com> :: update the CI matrix
