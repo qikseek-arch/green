@@ -13540,3 +13540,4 @@
 2026-09-25T19:21:53.803Z Daniel Öster <dalathegreat@users.noreply.github.com> :: refactor edge case in auth
 2026-09-25T20:23:27.866Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak the CI matrix
 2026-09-25T20:49:12.340Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: clean up build script
+2026-09-25T21:32:36.102Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove the CI matrix
