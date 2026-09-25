@@ -13519,3 +13519,4 @@
 2026-09-25T03:18:57.437Z Sachin Soni <techiesms@users.noreply.github.com> :: bump edge case in auth
 2026-09-25T04:50:43.571Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
 2026-09-25T04:51:04.195Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish null check
+2026-09-25T05:12:59.146Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove null check
