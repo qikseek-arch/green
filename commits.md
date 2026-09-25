@@ -13518,3 +13518,4 @@
 2026-09-25T02:32:47.016Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: add edge case in auth
 2026-09-25T03:18:57.437Z Sachin Soni <techiesms@users.noreply.github.com> :: bump edge case in auth
 2026-09-25T04:50:43.571Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: wire up logging
+2026-09-25T04:51:04.195Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish null check
