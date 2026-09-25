@@ -13542,3 +13542,4 @@
 2026-09-25T20:49:12.340Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: clean up build script
 2026-09-25T21:32:36.102Z Roger Labbe <rlabbe@users.noreply.github.com> :: remove the CI matrix
 2026-09-25T22:23:32.763Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
+2026-09-25T23:43:13.144Z Rei <chloerei@users.noreply.github.com> :: clean up dependency versions
