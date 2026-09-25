@@ -13521,3 +13521,4 @@
 2026-09-25T04:51:04.195Z Martin Grenfell <scrooloose@users.noreply.github.com> :: polish null check
 2026-09-25T05:12:59.146Z Amin Mahmoudi <masterking32@users.noreply.github.com> :: remove null check
 2026-09-25T05:33:49.224Z Taiko Foundation <info@taiko.xyz> :: polish config defaults
+2026-09-25T06:23:33.093Z ring04h <ring04h@users.noreply.github.com> :: bump retry logic
