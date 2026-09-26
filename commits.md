@@ -13558,3 +13558,4 @@
 2026-09-26T11:01:45.566Z Duy Tran <khanhduytran0@users.noreply.github.com> :: clean up dependency versions
 2026-09-26T11:24:32.584Z AI4Bhārat <opensource@ai4bharat.org> :: wire up the parser
 2026-09-26T11:25:48.938Z OpenJS Foundation <info@openjsf.org> :: remove cache keys
+2026-09-26T12:43:14.293Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: fix the CI matrix
