@@ -594,3 +594,4 @@
 2026-09-21T04:22:24.576Z Armin Ronacher <mitsuhiko@users.noreply.github.com> :: tweak config defaults
 2026-09-22T00:34:33.486Z Filipe Deschamps <filipedeschamps@users.noreply.github.com> :: bump cache keys
 2026-09-23T08:01:05.574Z Python <python@users.noreply.github.com> :: remove edge case in auth
+2026-09-26T10:44:13.420Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: remove retry logic
