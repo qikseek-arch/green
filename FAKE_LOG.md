@@ -497,3 +497,4 @@
 2026-09-08T08:59:45.936Z Bjarne Stroustrup <bjarne.stroustrup@fake.invalid> :: remove readme typo
 2026-09-08T14:51:48.510Z Crypto Michael <michaelliao@users.noreply.github.com> :: bump dependency versions
 2026-09-11T00:44:48.607Z Robert C. Martin <robert.c.martin@fake.invalid> :: remove logging
+2026-09-26T02:53:14.937Z arcane-cometxx <arcane-cometxx@fake.invalid> :: wire up error handling
