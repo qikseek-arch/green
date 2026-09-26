@@ -13562,3 +13562,4 @@
 2026-09-26T13:11:14.655Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish dead code
 2026-09-26T13:18:20.874Z Adam Bell <b3ll@users.noreply.github.com> :: bump retry logic
 2026-09-26T13:56:33.883Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump retry logic
+2026-09-26T15:01:45.757Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish edge case in auth
