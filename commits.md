@@ -13553,3 +13553,4 @@
 2026-09-26T06:46:30.844Z Sachin Soni <techiesms@users.noreply.github.com> :: bump logging
 2026-09-26T08:43:35.433Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump the CI matrix
 2026-09-26T08:54:15.250Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add the parser
+2026-09-26T09:17:32.436Z Ben Hamner <benhamner@users.noreply.github.com> :: remove logging
