@@ -13547,3 +13547,4 @@
 2026-09-26T00:39:32.381Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove logging
 2026-09-26T01:16:23.086Z David Clark <nullptrException100@users.noreply.github.com> :: refactor the parser
 2026-09-26T01:30:02.188Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update build script
+2026-09-26T04:36:17.277Z Rei <chloerei@users.noreply.github.com> :: tweak logging
