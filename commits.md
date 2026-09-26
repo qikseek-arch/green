@@ -13556,3 +13556,4 @@
 2026-09-26T09:17:32.436Z Ben Hamner <benhamner@users.noreply.github.com> :: remove logging
 2026-09-26T10:51:23.862Z Adam Bell <b3ll@users.noreply.github.com> :: polish dead code
 2026-09-26T11:01:45.566Z Duy Tran <khanhduytran0@users.noreply.github.com> :: clean up dependency versions
+2026-09-26T11:24:32.584Z AI4Bhārat <opensource@ai4bharat.org> :: wire up the parser
