@@ -13544,3 +13544,4 @@
 2026-09-25T22:23:32.763Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: bump dead code
 2026-09-25T23:43:13.144Z Rei <chloerei@users.noreply.github.com> :: clean up dependency versions
 2026-09-25T23:49:23.920Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: tweak the parser
+2026-09-26T00:39:32.381Z Daniel Öster <dalathegreat@users.noreply.github.com> :: remove logging
