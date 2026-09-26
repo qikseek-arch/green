@@ -13554,3 +13554,4 @@
 2026-09-26T08:43:35.433Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: bump the CI matrix
 2026-09-26T08:54:15.250Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: add the parser
 2026-09-26T09:17:32.436Z Ben Hamner <benhamner@users.noreply.github.com> :: remove logging
+2026-09-26T10:51:23.862Z Adam Bell <b3ll@users.noreply.github.com> :: polish dead code
