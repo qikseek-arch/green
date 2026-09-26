@@ -13549,3 +13549,4 @@
 2026-09-26T01:30:02.188Z PojavLauncher <PojavLauncherTeam@users.noreply.github.com> :: update build script
 2026-09-26T04:36:17.277Z Rei <chloerei@users.noreply.github.com> :: tweak logging
 2026-09-26T05:00:21.561Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: add dead code
+2026-09-26T06:02:03.204Z Roger Labbe <rlabbe@users.noreply.github.com> :: refactor config defaults
