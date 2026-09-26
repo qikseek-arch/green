@@ -13564,3 +13564,4 @@
 2026-09-26T13:56:33.883Z Jonny Burger <JonnyBurger@users.noreply.github.com> :: bump retry logic
 2026-09-26T15:01:45.757Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish edge case in auth
 2026-09-26T15:11:11.116Z Taiko Foundation <info@taiko.xyz> :: refactor logging
+2026-09-26T15:59:26.412Z Bert Belder <piscisaureus@users.noreply.github.com> :: add the parser
