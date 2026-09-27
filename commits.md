@@ -13573,3 +13573,4 @@
 2026-09-27T01:30:38.756Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
 2026-09-27T04:16:51.603Z Thorsten Lünborg <LinusBorg@users.noreply.github.com> :: clean up null check
 2026-09-27T04:43:23.996Z Abhishek Singh <meabhisingh@users.noreply.github.com> :: clean up dead code
+2026-09-27T05:17:14.376Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: bump the parser
