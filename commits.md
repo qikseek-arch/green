@@ -13578,3 +13578,4 @@
 2026-09-27T07:42:09.456Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: bump the parser
 2026-09-27T07:42:59.345Z markqvist <markqvist@users.noreply.github.com> :: polish the parser
 2026-09-27T07:49:33.245Z Daniel Eden <daneden@users.noreply.github.com> :: fix edge case in auth
+2026-09-27T14:19:02.709Z Rei <chloerei@users.noreply.github.com> :: polish readme typo
