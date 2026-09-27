@@ -13570,3 +13570,4 @@
 2026-09-26T19:43:08.020Z SouJunior <wouerner@soujunior.tech> :: remove config defaults
 2026-09-26T23:15:01.602Z Bert Belder <piscisaureus@users.noreply.github.com> :: bump null check
 2026-09-27T00:44:06.664Z Tim MacDonald <timacdonald@users.noreply.github.com> :: refactor retry logic
+2026-09-27T01:30:38.756Z Ivan Volkov <Chitus@users.noreply.github.com> :: clean up build script
