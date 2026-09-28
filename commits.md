@@ -13604,3 +13604,4 @@
 2026-09-28T19:36:29.526Z SouJunior <wouerner@soujunior.tech> :: refactor config defaults
 2026-09-28T20:08:34.370Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dead code
 2026-09-28T21:02:20.509Z Odi <mathdroid@users.noreply.github.com> :: fix logging
+2026-09-28T21:19:28.134Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up build script
