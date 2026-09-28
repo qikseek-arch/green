@@ -1055,3 +1055,4 @@
 2026-09-27T08:15:01.384Z Connor <Connor9994@users.noreply.github.com> :: refactor retry logic
 2026-09-27T12:25:19.450Z Sylvain Gugger <sgugger@users.noreply.github.com> :: tweak retry logic
 2026-09-27T22:55:54.502Z 左程云 <algorithmzuo@users.noreply.github.com> :: tweak dead code
+2026-09-28T02:13:32.947Z Avik Jain <Avik-Jain@users.noreply.github.com> :: remove the CI matrix
