@@ -13593,3 +13593,4 @@
 2026-09-28T07:57:44.791Z David Clark <nullptrException100@users.noreply.github.com> :: remove config defaults
 2026-09-28T10:35:12.890Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up logging
 2026-09-28T10:35:25.386Z Daniel Eden <daneden@users.noreply.github.com> :: clean up the parser
+2026-09-28T12:33:26.429Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove edge case in auth
