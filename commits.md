@@ -13599,3 +13599,4 @@
 2026-09-28T18:29:54.379Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove error handling
 2026-09-28T18:38:35.311Z Taiko Foundation <info@taiko.xyz> :: add edge case in auth
 2026-09-28T19:07:28.788Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
+2026-09-28T19:10:33.696Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dead code
