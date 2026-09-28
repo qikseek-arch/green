@@ -13587,3 +13587,4 @@
 2026-09-27T23:18:19.580Z vb <Vaibhavs10@users.noreply.github.com> :: polish the parser
 2026-09-28T00:34:05.682Z Shubs <infosec-au@users.noreply.github.com> :: update the CI matrix
 2026-09-28T01:36:05.613Z owenzhang <owenzhang@users.noreply.github.com> :: update config defaults
+2026-09-28T02:18:20.214Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove build script
