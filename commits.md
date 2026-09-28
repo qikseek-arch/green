@@ -13601,3 +13601,4 @@
 2026-09-28T19:07:28.788Z markqvist <markqvist@users.noreply.github.com> :: bump config defaults
 2026-09-28T19:10:33.696Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: remove dead code
 2026-09-28T19:19:27.842Z LILYGO <LilyGO@users.noreply.github.com> :: refactor retry logic
+2026-09-28T19:36:29.526Z SouJunior <wouerner@soujunior.tech> :: refactor config defaults
