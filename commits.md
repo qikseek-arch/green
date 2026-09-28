@@ -13588,3 +13588,4 @@
 2026-09-28T00:34:05.682Z Shubs <infosec-au@users.noreply.github.com> :: update the CI matrix
 2026-09-28T01:36:05.613Z owenzhang <owenzhang@users.noreply.github.com> :: update config defaults
 2026-09-28T02:18:20.214Z sinclairzx81 <sinclairzx81@users.noreply.github.com> :: remove build script
+2026-09-28T04:46:30.059Z Keith Smiley <keith@users.noreply.github.com> :: remove dead code
