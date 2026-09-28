@@ -13605,3 +13605,4 @@
 2026-09-28T20:08:34.370Z Almas Baim <AlmasB@users.noreply.github.com> :: tweak dead code
 2026-09-28T21:02:20.509Z Odi <mathdroid@users.noreply.github.com> :: fix logging
 2026-09-28T21:19:28.134Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up build script
+2026-09-28T21:56:58.358Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak edge case in auth
