@@ -13591,3 +13591,4 @@
 2026-09-28T04:46:30.059Z Keith Smiley <keith@users.noreply.github.com> :: remove dead code
 2026-09-28T07:35:28.672Z Claude <claude@users.noreply.github.com> :: tweak null check
 2026-09-28T07:57:44.791Z David Clark <nullptrException100@users.noreply.github.com> :: remove config defaults
+2026-09-28T10:35:12.890Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up logging
