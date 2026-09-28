@@ -13594,3 +13594,4 @@
 2026-09-28T10:35:12.890Z Selenium <SeleniumHQ@users.noreply.github.com> :: clean up logging
 2026-09-28T10:35:25.386Z Daniel Eden <daneden@users.noreply.github.com> :: clean up the parser
 2026-09-28T12:33:26.429Z Sébastien Saunier <ssaunier@users.noreply.github.com> :: remove edge case in auth
+2026-09-28T16:01:17.295Z BBC <bbc@users.noreply.github.com> :: clean up error handling
