@@ -13585,3 +13585,4 @@
 2026-09-27T22:11:05.312Z ring04h <ring04h@users.noreply.github.com> :: wire up flaky test
 2026-09-27T22:25:42.546Z heyli <lcxfs1991@users.noreply.github.com> :: update readme typo
 2026-09-27T23:18:19.580Z vb <Vaibhavs10@users.noreply.github.com> :: polish the parser
+2026-09-28T00:34:05.682Z Shubs <infosec-au@users.noreply.github.com> :: update the CI matrix
