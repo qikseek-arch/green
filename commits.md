@@ -13597,3 +13597,4 @@
 2026-09-28T16:01:17.295Z BBC <bbc@users.noreply.github.com> :: clean up error handling
 2026-09-28T18:03:39.191Z Hemanta Pokharel <hemantapkh@users.noreply.github.com> :: fix flaky test
 2026-09-28T18:29:54.379Z Will Koehrsen <WillKoehrsen@users.noreply.github.com> :: remove error handling
+2026-09-28T18:38:35.311Z Taiko Foundation <info@taiko.xyz> :: add edge case in auth
