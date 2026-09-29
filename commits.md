@@ -1060,3 +1060,4 @@
 2026-09-28T18:59:20.833Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: remove readme typo
 2026-09-29T04:45:46.778Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: clean up the CI matrix
 2026-09-29T06:23:31.882Z Matt Pocock <mattpocock@users.noreply.github.com> :: add readme typo
+2026-09-29T06:44:10.292Z Sandhika Galih <sandhikagalih@users.noreply.github.com> :: polish dead code
