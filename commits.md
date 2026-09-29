@@ -13607,3 +13607,4 @@
 2026-09-28T21:19:28.134Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: clean up build script
 2026-09-28T21:56:58.358Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak edge case in auth
 2026-09-28T23:39:21.345Z Blynk IoT platform <blynkkk@users.noreply.github.com> :: polish the CI matrix
+2026-09-29T00:05:06.004Z Claude <claude@users.noreply.github.com> :: fix logging
