@@ -13632,3 +13632,4 @@
 2026-09-29T19:11:38.734Z Sachin Soni <techiesms@users.noreply.github.com> :: fix config defaults
 2026-09-29T21:22:01.626Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: polish build script
 2026-09-29T21:52:21.643Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor config defaults
+2026-09-29T22:08:56.039Z Shubs <infosec-au@users.noreply.github.com> :: add build script
