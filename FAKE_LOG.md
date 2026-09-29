@@ -897,3 +897,4 @@
 2026-09-24T08:30:48.362Z Python <python@users.noreply.github.com> :: remove error handling
 2026-09-26T05:32:38.621Z Taylor Otwell <taylorotwell@users.noreply.github.com> :: wire up readme typo
 2026-09-27T08:29:35.248Z Sebastián Ramírez <tiangolo@users.noreply.github.com> :: polish dead code
+2026-09-29T15:22:37.442Z Andrej <karpathy@users.noreply.github.com> :: wire up the CI matrix
