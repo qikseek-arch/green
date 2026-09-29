@@ -1058,3 +1058,4 @@
 2026-09-28T02:13:32.947Z Avik Jain <Avik-Jain@users.noreply.github.com> :: remove the CI matrix
 2026-09-28T08:52:34.356Z Odoo Community Association <OCA@users.noreply.github.com> :: add retry logic
 2026-09-28T18:59:20.833Z Bozhidar Batsov <bbatsov@users.noreply.github.com> :: remove readme typo
+2026-09-29T04:45:46.778Z Rafaella Ballerini <rafaballerini@users.noreply.github.com> :: clean up the CI matrix
