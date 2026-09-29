@@ -13614,3 +13614,4 @@
 2026-09-29T03:19:57.411Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: refactor the parser
 2026-09-29T03:40:12.674Z AI4Bhārat <opensource@ai4bharat.org> :: clean up the parser
 2026-09-29T04:01:19.102Z Martin Grenfell <scrooloose@users.noreply.github.com> :: wire up error handling
+2026-09-29T04:01:31.088Z 阿崔cxr <cuixiaorui@users.noreply.github.com> :: tweak error handling
