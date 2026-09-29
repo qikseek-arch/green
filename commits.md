@@ -13610,3 +13610,4 @@
 2026-09-29T00:05:06.004Z Claude <claude@users.noreply.github.com> :: fix logging
 2026-09-29T00:54:41.896Z SuperSimpleDev <SuperSimpleDev@users.noreply.github.com> :: wire up cache keys
 2026-09-29T02:05:30.683Z First Contributions <firstcontributions@gmail.com> :: clean up null check
+2026-09-29T02:43:06.256Z Rodrigo Pombo <pomber@users.noreply.github.com> :: bump build script
