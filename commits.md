@@ -13634,3 +13634,4 @@
 2026-09-29T21:52:21.643Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: refactor config defaults
 2026-09-29T22:08:56.039Z Shubs <infosec-au@users.noreply.github.com> :: add build script
 2026-09-29T22:22:44.311Z Tim MacDonald <timacdonald@users.noreply.github.com> :: polish dependency versions
+2026-09-29T22:37:40.904Z Taiko Foundation <info@taiko.xyz> :: fix retry logic
