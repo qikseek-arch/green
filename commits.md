@@ -13623,3 +13623,4 @@
 2026-09-29T08:58:28.572Z Aaditya Ansh <ADItya0367@users.noreply.github.com> :: fix null check
 2026-09-29T11:05:18.232Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: update dependency versions
 2026-09-29T11:45:34.687Z Darshil Parmar <darshilparmar@users.noreply.github.com> :: remove null check
+2026-09-29T13:04:26.131Z Arduino <arduino@users.noreply.github.com> :: remove readme typo
