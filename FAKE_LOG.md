@@ -297,3 +297,4 @@
 2026-09-17T01:13:46.587Z null <null@fake.invalid> :: wire up build script
 2026-09-17T11:15:21.133Z obsidian <obsidian@fake.invalid> :: fix logging
 2026-09-20T20:07:13.061Z obsidian <obsidian@fake.invalid> :: remove error handling
+2026-09-29T01:35:21.637Z juno <juno@fake.invalid> :: tweak retry logic
