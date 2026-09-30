@@ -13649,3 +13649,4 @@
 2026-09-30T13:39:16.968Z Mohit Kumar <kinghacker0@users.noreply.github.com> :: update readme typo
 2026-09-30T14:28:50.861Z Stéphane Nicoll <snicoll@users.noreply.github.com> :: bump logging
 2026-09-30T14:54:23.354Z Jefferson Gonçalves <jeffersongoncalves@users.noreply.github.com> :: tweak flaky test
+2026-09-30T15:13:54.759Z Brian Lonsdorf <DrBoolean@users.noreply.github.com> :: polish the parser
