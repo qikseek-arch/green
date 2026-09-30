@@ -597,3 +597,4 @@
 2026-09-26T10:44:13.420Z Tom Preston-Werner <mojombo@users.noreply.github.com> :: remove retry logic
 2026-09-26T21:52:43.343Z Andrej <karpathy@users.noreply.github.com> :: add retry logic
 2026-09-28T05:50:15.016Z Flutter <flutter@users.noreply.github.com> :: bump error handling
+2026-09-30T01:23:37.658Z Kelsey Hightower <kelseyhightower@users.noreply.github.com> :: fix edge case in auth
