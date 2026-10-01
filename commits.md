@@ -13663,3 +13663,4 @@
 2026-10-01T05:22:16.227Z Andre Baltieri <andrebaltieri@users.noreply.github.com> :: remove cache keys
 2026-10-01T05:42:44.516Z Chiu-Ki Chan <chiuki@users.noreply.github.com> :: fix edge case in auth
 2026-10-01T05:56:09.659Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak the parser
+2026-10-01T06:38:11.068Z ㅤxander <vampirist@users.noreply.github.com> :: remove error handling
