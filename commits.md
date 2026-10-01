@@ -13658,3 +13658,4 @@
 2026-10-01T02:44:50.634Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove dependency versions
 2026-10-01T02:51:41.789Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish the CI matrix
 2026-10-01T02:59:11.000Z First Contributions <firstcontributions@gmail.com> :: refactor build script
+2026-10-01T03:09:12.344Z Damian Dulisz <shentao@users.noreply.github.com> :: refactor error handling
