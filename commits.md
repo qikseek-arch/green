@@ -13667,3 +13667,4 @@
 2026-10-01T07:01:05.858Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add the CI matrix
 2026-10-01T07:01:59.824Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up error handling
 2026-10-01T07:59:48.392Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update dependency versions
+2026-10-01T08:10:11.859Z Getgems <getgems-io@users.noreply.github.com> :: update the CI matrix
