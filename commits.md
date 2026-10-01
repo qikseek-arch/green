@@ -13665,3 +13665,4 @@
 2026-10-01T05:56:09.659Z Gabriel Ferraz Duque <gabrielferrazduque@users.noreply.github.com> :: tweak the parser
 2026-10-01T06:38:11.068Z ㅤxander <vampirist@users.noreply.github.com> :: remove error handling
 2026-10-01T07:01:05.858Z Tim MacDonald <timacdonald@users.noreply.github.com> :: add the CI matrix
+2026-10-01T07:01:59.824Z Aliane Amaral <AlianeAmaral@users.noreply.github.com> :: clean up error handling
