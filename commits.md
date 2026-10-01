@@ -13654,3 +13654,4 @@
 2026-09-30T15:31:06.190Z Arduino <arduino@users.noreply.github.com> :: update cache keys
 2026-09-30T17:41:36.263Z Daniel Öster <dalathegreat@users.noreply.github.com> :: update config defaults
 2026-09-30T23:31:13.768Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor cache keys
+2026-10-01T00:37:27.738Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up logging
