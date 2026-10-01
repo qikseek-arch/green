@@ -13656,3 +13656,4 @@
 2026-09-30T23:31:13.768Z Martin Grenfell <scrooloose@users.noreply.github.com> :: refactor cache keys
 2026-10-01T00:37:27.738Z Martin Grenfell <scrooloose@users.noreply.github.com> :: clean up logging
 2026-10-01T02:44:50.634Z Rodrigo Oler <rodrigooler@users.noreply.github.com> :: remove dependency versions
+2026-10-01T02:51:41.789Z Tim Neutkens <timneutkens@users.noreply.github.com> :: polish the CI matrix
